@@ -35,6 +35,11 @@ for Phytotaxa CC BY licenced 'free' content starts from pt00093p039.pdf onwards
 
 3.) **parse out DOIs of each article and rename PDF by partial doi**
 
+grep -i -m1 '10\.11646\/phytotaxa' *.txt |  tac
+
+Phytotaxa doi's have been implemented starting with http://dx.doi.org/10.11646/phytotaxa.76.1.2
+(of the freely accessible PDFs) 
+
 pass each DOI to crossref content negotiation to get full citation for each PDF
 
 4.) **pdfimage strip images out of each article**
