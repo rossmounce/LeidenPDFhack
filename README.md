@@ -51,3 +51,4 @@ pass each DOI to crossref content negotiation to get full citation for each PDF
 
 6.) **associate figure caption with each image SOMEHOW???**
 
+7.) **Make it all a cronjob to run regularly, re-uploading open, attributed images to Flickr/Wikimedia on a regular basis**
