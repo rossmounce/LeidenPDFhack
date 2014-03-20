@@ -25,6 +25,10 @@ wget -w 5 -i ../free_access_fulltext_pdfs.txt
 #	find . -maxdepth 1 -type f -name '*.txt' -exec mv "{}"  ./converted_${STEM%%.*} \; 
 #	find . -maxdepth 1 -type f -name '*.jpg' -exec mv "{}"  ./converted_${STEM%%.*} \;
 #	find . -maxdepth 1 -type f -name '*.ppm' -exec mv "{}"  ./converted_${STEM%%.*} \;
-#	find . -maxdepth 1 -type f -name '*.pbm' -exec mv "{}"  ./converted_${STEM%%.*} \;    
+#	find . -maxdepth 1 -type f -name '*.pbm' -exec mv "{}"  ./converted_${STEM%%.*} \;
+#	cd converted_${STEM%%.*}
+#	echo "grep captions out $f"
+#	grep 'FIGURE [0-9]' *.txt | sed 's/[^[:alnum:][:punct:][:blank:]]*//g' > captions${STEM%%.*}.out
+#	cd ..    
 #	done
 
