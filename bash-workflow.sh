@@ -33,6 +33,10 @@ wget -w 5 -i ../free_access_fulltext_pdfs.txt
 #	curl -LH "Accept: text/x-bibliography; style=apa" $(cat doi_${STEM%%.*}.doi) > apastring.ref
 #	cmd="sed -i 's@XYINSERTZ@$(pwd)@' uploadr.ini"
 #	eval "$cmd" 
+#	cmdtwo="sed -i 's@INSERT_DOI_URL@$(cat *.doi)@' uploadr.ini"
+#	eval "$cmdtwo"
+#	cmdthree="sed -i 's@INSERT_APA_REF@$(cat *.ref)@' uploadr.ini"
+#	eval "$cmdthree"
 #	cd ..    
 #	done
 
