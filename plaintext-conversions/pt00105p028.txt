@@ -1,0 +1,164 @@
+Phytotaxa 105 (1): 25–28 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.105.1.4
+
+A new species of Thismia (Thismiaceae) from Yunnan, China
+HONG-QING LI & YU-KE BI
+School of Life Sciences, East China Normal University, 500 Dongchuan Road, Shanghai, 200241, China;
+email: hqli@bio.ecnu.edu.cn
+
+Thismia Griffith (1844: 221) usually grows among leaf litter in shady wet forests and comprises 47 small
+mycoheterotrophic species (Chiang & Hsieh 2011, Mancinelli et al. 2012). Individual plants live underground
+through most of the year, only emerging briefly to flower and fruit after periods of heavy rain (Ho et al. 2009).
+Although several species have been described in temperate regions, Thismia occurs mainly in tropical
+portions of America and Asia.
+Thismia has been typically classified in tribe Thismieae within Burmanniaceae (e.g., Jonker 1938, Maas
+et al. 1986, APG III 2009). However, recent molecular phylogenetic research has indicated that Thismia is
+sister to Tacca Forster & Forster (1775: 69) and is not nested within the clade of Burmanniaceae, which
+therefore supports recognition of Thismiaceae (Merckx et al. 2006).
+Two detailed treatments of Thismia have been published before. Jonker (1938) recognized 23 species
+within this genus and subdivided it into five sections. The second one, for Neotropical members by Maas et al.
+(1986), proposed a new subgeneric and sectional classification for Thismia, that is, three sections within
+subgenus Ophiomeris (Miers, 1847: 328) Maas & Maas (1986: 144) characterized by free stamens, united
+thecae and parietal placentas, and one section (Rodwaya (Schlechter, 1921: 38) Maas & Maas (1986: 166))
+within subgenus Thismia characterized by united staminal tube, separate thecae and free placental columns.
+The genera Glaziocharis Taubert (1895: 66), Mamorea de la Sota (1960: 43) and Triscyphus Taubert (1895:
+66) were included in section Pyramidalis Maas & Maas (1986: 161).
+Eleven species of Thismia have been recorded in the adjacent regions of southwestern China, Vietnam,
+Thailand and Burma. Three of them, T. taiwanensis Yang, Saunders & Hsu (2002: 485), T. huangii Jiang &
+Hsieh (2011: 138) and T. tentaculata Larsen & Averyanov (2007: 16), are found in China. Based on
+morphological studies of dry and living material, as well as field observations, a new species is named and
+described for this region.
+Thismia gongshanensis Hong-Qing Li & Yu-Ke Bi, sp. nov. (Fig. 1–2)
+Type:—CHINA. Yunnan: Maku Village, Dulongjiang Town, Gongshan County, 2,275 m, 27o41’54.6”N, 98o18’15.62”E,
+27 June 2008, Li 2008128 (holotype HSNU!; isotype KUN!).
+Thismia gongshanensis most closely resembles T. tuberculata Hatusima (1976: 4), but differs in having a yellow
+perianth, free stamens, bicarpelate parietal placentas and 2 simple stigmas.
+
+Herbs with rhizome creeping horizontally, branched, terete, pale brownish, apex whitish, with adventitious
+roots and buds. Stem white, unbranched, erect, glabrous, ca. 6–10 cm high, 1.8 mm in diameter at anthesis.
+Leaves 4–7, translucent-whitish, elliptic-lanceolate, alternately scattered along stem, adnate, appressed,
+entire, scale-like, ca. 4–7 × 2–3 mm, with a single vascular trace, apex obtuse. Bracts 3, ringed, similar to
+leaves. Flower solitary with 1 mm pedicel. Perianth actinomorphic, 6 lobes in 2 whorls, fused to form a basa
+
+Accepted by Mark Chase: 8 May 2013; published online in PDF: 30 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+25
+
+FIGURE 1. Morphology of Thismia gongshanensis. A. Habit. B. Magnified flower. C. Dissected flower, showing stamens, style and
+stigmas. D. Flower from holotype.
+
+FIGURE 2. Diagrammatic drawing of Thismia gongshanensis. E. Flowering plant. F. Floral diagram. G. Dissected flower. H.
+Perianth-lobes with appendages. I. Imbricate inner tepals. J. Longitudinal section of ovary. K. Cross section of ovary. L. Stamen seen
+from adaxial and side.
+
+26 •
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+LI & BI
+
+tube, which is translucent-yellow, urceolate, densely tuberculate externally, 7.5 mm long, 6.5 mm in diameter,
+with 12 vertical ribs on the inside of the tuber; upper part of the tube forming a bright yellow annulus (3.6 mm
+outer diameter); outer (smaller) perianth lobes dark yellow, wide-triangular, 2.2 mm long (excluding
+appendage) and 2.5 mm wide, radiating outward, with revolute margins, clasping subulate appendages,
+translucent-white, 7–11 mm long, abaxially; inner perianth lobes yellow, wide-spathulate, 4.5 × 4.0 mm,
+upper part suborbicular, apically imbricate, arching inward distally and forming a mitre over the perianth
+chamber, dorsal keel ending in an erect subulate appendage (translucent-yellowish, 10–15 mm long). Stamens
+6, 3.4 mm long, hanging down from the inner margin of the annulus separately; filaments yellow, flattened,
+1.7 × 0.7 mm; connective elongate, white, apex recurved towards the wall of perianth tube, with a few hairs;
+individual stamen with two thecae, 1.2 mm long, adaxial, thecae separate. Ovary inferior, obconical, 3.3 mm
+long, 3.8 mm in diameter; carpels 2, unilocular with two parietal placentas, ovule numerous; style yellowish,
+cylindrical, hollow, 1.1 mm long, 0.6 mm in diameter; stigmas 2, simple, triangular, yellowish with white
+apex, 1.8 × 1.4 mm, with abaxial pubescence and basal yellow glands. Fruit and seed not seen.
+Distribution:—Known only from the type locality at Maku Village, Dulongjiang Town, Gongshan
+County, Yunnan Province, China.
+Ecology:—This species grows among leaf litter in shady wet bamboo forest. The dominant species is
+Chimonobambusa Makino (Poaceae). Other accompanying species include: members of genera
+Aeschynanthus Jack (Gesneriaceae), Agapetes D.Don ex G.Don (Ericaceae), Amomum Roxb. (Zingiberaceae),
+Balanophora J.R.Forst. & G.Forst. (Balanophoraceae), Beccarinda Kuntze (Gesneriaceae), Curculigo Gaertn.
+(Hypoxidaceae), Monotropa L. (Ericaceae) and Myrmechis (Lindl.) Blume (Orchidaceae). The mitriform
+perianth suggests myophily (Stone 1980), and a small dipteran species was found visiting T. gongshanensis at
+the time of collection.
+Discussion:—Thismia gongshanensis most closely resembles T. tuberculata, which was classified in sect.
+Glaziocharis (Taubert) Hatusima (1976: 4). Both species have spathulate inner perianth lobes that are apically
+imbricate, arching inward distally and forming a mitre over the perianth chamber (imbricated); both whorls of
+perianth lobes have relatively long subulate appendages; the outer surface of the perianth tube is densely
+tuberculate. However, the two species are distinct: T. gongshanensis has longer stems (ca. 6–10 cm) at
+anthesis; inner tepal appendages are about 10–15mm in length and just a little longer than outer tepal
+appendages; stamens are separate, pistil composed of 2 simple stigmas and 2 parietal placentas; and perianth
+is yellow. However, T. tuberculata has a shorter stem (ca. 3–4 cm) at anthesis; inner tepal appendages are up
+to ca. 15–20 mm in length and much longer than the outer tepal appendages; every pair of adjacent stamens is
+almost adnate; pistil is composed of 3 broadly triquetrous-ovate or capitate stigmas and 3 parietal placentas;
+the perianth is whitish.
+Etymology:—The name of the species was chosen for the place where it was collected. Maku village is in
+the Dulong River watershed of Gongshan County, northwestern Yunnan, China, neighboring Burma in the
+west. Its Chinese name should be spelled “gongshan shui yu bei (
+)”.
+Notes:—It has been stated that Thismia has 3 carpels and 3 placentas, with 3 simple or 3 bilobate stigmas
+or 1 capitate stigma (Jonker 1938, Maas et al. 1986). However, T. gongshanensis has 2 carpels and 2
+placentas, with 2 simple stigmas; these character states are possibly derived. Thus, we keep the sectional
+position unplaced temporarily.
+
+Acknowledgements
+We thank Dr. Xiao-Hua Jin (Institute of Botany, Chinese Academy of Sciences) who provided help for
+collecting specimens, and Dr. De-Zhu Li (Kunming Institute of Botany, Chinese Academy of Sciences) who
+assisted us in identifying the associated plants. This study was supported by the National Natural Science
+Foundation of China (grant no. 31270242).
+
+A NEW SPECIES OF THISMIA (THISMIACEAE)
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+• 27
+
+References
+APG III (2009) An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering
+plants: APG III. Botanical Journal of the Linnean Society 161: 105–121.
+http://dx.doi.org/10.1111/j.1095-8339.2009.00996.x
+Chiang, P.-Y. & Hsieh, T.-H. (2011) Thismia huangii (Thismiaceae), a new species from Taiwan. Taiwania 56: 138–142.
+de la. Sota, E.R. (1960) Mamorea singeri, un nuevo género y especie de Burmanniaceae. Darwiniana 12: 43–47.
+Forster, J. R. & Forster, G. (1775) Tacca. Characteres Generum Plantarum 35: 69–70.
+Griffith, W. (1844) On the root parasites referred by authors to Rhizanthea and their Allies. Proceedings of the Linnean
+Society of London 1: 221–223.
+Hatusima, S. (1976) Two new species of Burmanniaceae from Japan. Journal of Geobotany 24: 2–10.
+Ho, G.W.C., Mar, S.S. & Saunders, R.M.K. (2009) Thismia tentaculata (Burmanniaceae tribe Thismieae) from Hong
+Kong: ﬁrst record of the genus and tribe from continental China. Journal of Systematics and Evolution 47: 605–607.
+Jonker, F.P. (1938) A monograph of the Burmanniaceae. Mededeelingen van het Botanisch Museum en. Herbarium van
+de Rijks Universitei te Utrecht 51: 1–279.
+Larsen, K. & Averyanov, L.V. (2007) Thismia annamensis and Thismia tentaculata, two new species of Thismiaceae
+from central Vietnam. Rheedea 17: 13–19.
+Maas, P.J.M., Maas-van de Kamer, H., van Benthem, J., Snelders, H.C.M., Rübsamen, T. (1986) Burmanniaceae. Flora
+Neotropica Monograph 42: 1–189.
+Mancinelli, W.S., Blum, C.T., Smidt, E.C. (2012) Thismia prataensis (Thismiaceae), a new species from the Brazilian
+Atlantic rain forest. Systematic Botany 37: 879–882.
+Merckx, V., Schols, P., Maas-van de Kamer, H., Maas, P., Huysmans, S., Smets, E. (2006) Phylogeny and evolution of
+Burmanniaceae (Dioscoreales) based on nuclear and mitochondrial data. American Journal of Botany 93: 1684–
+1698.
+http://dx.doi.org/10.3732/ajb.93.11.1684
+Miers J. (1847) On a new genus of Plants of the family Burmanniaceae. Proceedings of the Linnean Society of London 1:
+328– 329.
+Schlechter, R. (1921) Die Thismieae. Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem 8: 31–45.
+Stone, B.C. (1980) Rediscovery of Thismia clavigera (Becc.) F.Muell. (Burmanniaceae). Blumea 26: 419–425.
+Taubert, P.H.W. (1895) Ueber die Verbreitung der Burmanniaceen uud zwei neue Gattungen dieser Familie.
+Verhandlungen des Bottanischen Vereins für die Provinz Brandenburg (Berlin) 36: 66.
+Yang, S.-Z., Saunders, R.M.K. & Hsu, C.-J. (2002) Thismia taiwanensis sp. nov. (Burmanniaceae tribe Thismieae): first
+record of the tribe in China. Systematic Botany 27: 485–488.
+
+28 •
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+LI & BI
+
+

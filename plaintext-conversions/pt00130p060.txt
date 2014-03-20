@@ -1,0 +1,54 @@
+Phytotaxa 130 (1): 60 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.130.1.8
+
+Correction to Phytotaxa 61: A synopsis of the species of Cyathea (CyatheaceaePolypodiopsida) with pinnate to pinnate-pinnatifid fronds
+MARCUS LEHNERT
+Staatliches Museum für Naturkunde Stuttgart, Abt. Botanik, Am Löwentor, Rosenstein 1, D-70191 Stuttgart, Germany.
+E-mail: marcus.lehnert@smns-bw.de
+
+After the publication of the synopsis of simply pinnate species of Cyathea (Lehnert 2012), it was brought to
+my attention that I erroneously used Hemitelia munita Kuhn (1869: 162) as basionym for a variety in Cyathea
+grandifolia Willdenow (1810: 490) while there already was a validly published varietal name available that
+takes priority within that rank:
+Cyathea grandifolia Willdenow (1810: 490) var. bullata (H.Christ) Lehnert, comb. nov.
+Basionym: Hemitelia bullata Christ (1897: 81). Hemitelia obtusa var. bullata (H.Christ) Domin (1929: 71). Cyathea
+obtusa var. bullata (H.Christ) Domin (1930: 142). Type:—GRENADA. “In collibus prope Monte Felix,“ 1400 ft, 28
+November 1889, Eggers 6035 (holotype B!, isotypes F!, NY [holotype fragment]!, P!, US!).
+Cyathea munita Kaulfuss (1824: 260), nom. nud. Cnemidaria munita Presl (1836: 57), nom. nud. Hemitelia munita
+Hooker (1844: 32), nom. nud. Hemistegia munita Presl (1847: 47), nom. nud. Hemitelia munita Kuhn (1869: 162).
+Cyathea grandifolia Willd. var. munita (Kuhn) Lehnert (2012: 27). Type:—„America,“ without date, Palisot de
+Beauvois s.n., Herb. Willdenow No. 20168 (holotype B!, isotype US [holotype fragment]!).
+
+References
+Christ, H. (1897) Die Farnkräuter der Erde: beschreibende Darstellung der Geschlechter und wichtigeren Arten der
+Farnpflanzen mit besonderer Berücksichtigung der Exotischen. G. Fischer, Jena, 388 pp.
+http://dx.doi.org/10.5962/bhl.title.20392
+Domin, C. (1929) The pteridophyta of the island of Dominica, with notes on various ferns from tropical America. Dr. E.
+Grégr. & Son, Prague, 259 pp.
+Domin, C. (1930) The species of the genus Cyathea J. Sm. Acta Botanica Bohemica 9: 85–174.
+Hooker, W.J. (1844) Species Filicum 1(1–2). W. Pamplin, London, 128 pp.
+Kaulfuss, G.F. (1824) Enumeratio Filicum quas in itinere circa terram legit cl. Adalbertus de Chamisso adjectis in omnia
+harum plantarum genera permultasque species non satis cognitas vel novas animadversionibus. C. Cnobloch,
+Leipzig, 300 pp.
+Kuhn, F.A. (1869) Reliquiae Mettenianae. Linnaea 36: 41–169.
+Lehnert, M. (2012) A synopsis of the species of Cyathea (Cyatheaceae-Polypodiopsida) with pinnate to pinnatepinnatifid fronds. Phytotaxa 61: 17–36.
+Presl, C. (1836) Tentamen pteridographiae, seu genera filicacearum praesertim juxta venarum decursum et
+distributionem exposita. T. Haase, Prague, 290 pp., 12 pl.
+Presl, C. (1847) Die Gefässbündel im Stipes der Farrn. G. Haase Söhne, Prague, 48 pp., 7 pl.
+Willdenow, C.L. (1810) Species Plantarum ed. 4. G.C. Nauck, Berlin, 542 pp.
+
+60 Accepted by Maarten Christenhusz: 19 Aug. 2013; published: 10 Sept. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+

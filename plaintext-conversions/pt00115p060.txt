@@ -1,0 +1,97 @@
+Phytotaxa 115 (2): 59–60 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.115.2.5
+
+The correct name of Aloe plicatilis in Kumara (Xanthorrhoeaceae: Asphodeloideae)
+RONELL R. KLOPPER1,2, GIDEON F. SMITH1,2,3 & ABRAHAM E. VAN WYK2
+1
+Biosystematics Research and Biodiversity Collections Division, South African National Biodiversity Institute, Private Bag X101,
+Pretoria 0001, South Africa. Email: r.klopper@sanbi.org.za; g.smith@sanbi.org.za
+2
+H.G.W.J. Schweickerdt Herbarium, Department of Plant Science, University of Pretoria, Pretoria, 0002, South Africa.
+3
+Centre for Functional Ecology, Departamento de Ciências da Vida, Universidade de Coimbra, 3001-455 Coimbra, Portugal
+
+The genus Kumara Medikus (1786: 69) was recently reinstated in the Xanthorrhoeaceae: Asphodeloideae
+(alternatively Asphodelaceae: Alooideae) comprising only one species, namely the fan aloe, Kumara disticha
+Medikus (1786: 70) [with Aloe plicatilis (Linnaeus 1753: 321) Miller (1768: 7) given as a synonym] (Grace et
+al. 2013). However, if the fan aloe, currently known as Aloe plicatilis, is treated as a species of Kumara, the
+epithet plicatilis has priority and a new combination in Kumara is required. The new combination is made here.
+Kumara disticha Medik., used as correct name for the fan aloe by Grace et al. (2013), is in reality a
+superfluous name. According to the synonymy provided by Medikus (1786: 70), it has to be considered as a
+new combination based on Aloe disticha Linnaeus (1753: 321) [i.e. the correct author citation is Kumara
+disticha (L.) Medik.]. It is thus a nomenclatural synonym of Gasteria disticha (L.) Haworth (1827: 352), even
+though the intention of Medikus (1786), as substantiated by the accompanying plate (Medikus 1786: t.4), was
+clearly to apply it to the fan aloe (Klopper et al. 2013).
+The type of Kumara was designated by Rowley (1976: 55) as K. disticha, thus making the names Kumara
+(1786) and Gasteria Duval (1809: 6) synonyms for the same genus. Since Kumara has priority, the
+implication of this in terms of nomenclatural disruptions is severe. To retain use of the names Kumara and
+Gasteria in the sense that it was intended by Medikus (1786) and Duval (1809), and has been applied for the
+past two centuries, conservation of the name Kumara with a conserved type [namely Aloe plicatilis (L.)
+Burm.f.] is essential (see Klopper et al. 2013, for this conservation proposal).
+The combination in Aloe of A. plicatilis has historically been attributed to Miller (1768: 7) [as A. plicatilis (L.)
+Mill.]. However, Miller’s The Gardener’s Dictionary was published on 16 April 1768 (Stafleu & Cowan
+1981: 495), whereas the Prodromus Florae Capensis of Burman was published between 1 March and 6 April
+1768 (Stafleu & Cowan 1976: 417). Therefore, the correct author citation is A. plicatilis (L.) Burm.f.
+New combination in Kumara Medik.
+Kumara plicatilis (L.) Klopper & Gideon F.Sm., comb. nov.
+Basionym:—Aloe disticha var. plicatilis Linnaeus (1753: 321). Homotypic synonyms:—Aloe plicatilis (L.) Burman
+(1768: 10) Kumara disticha sensu Medikus (1786: 70, t.4), nom. superfl. Lectotype (designated by Wijnands
+1983: 125):—Aloe africana arborescens montana non spinosa, folio longissimo plicatili, flore rubro (Commelijn
+1701: 5, t.3).
+
+≡
+
+For a complete list of synonyms see Grace et al. (2011: 123).
+
+Accepted by Lorenzo Peruzzi: 20 June 2013; published: 3 July 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+59
+
+Acknowledgements
+We are grateful to Proff. Werner Greuter, John McNeill and Jimmy Jacobs, as well as an anonymous referee,
+for useful comments on drafts of the manuscript.
+
+References
+Burman, N.L. (1768) Flora Indica, Prodromus Florae Capensis. Leiden, Amsterdam, 34 pp.
+Commelijn, J. (1701) Horti medici Amstelodamensis rariorum plantarum descriptio et icones 2. Blaeu, Amsterdam, 228
+pp.
+Duval, H.A. (1809) Plantae Succulentae in Horto Alenconio. Gabon, Paris, 18 pp.
+Grace, O.M., Klopper, R.R., Figueiredo, E. & Smith, G.F. (2011) The Aloe Names Book. Strelitzia 28. South African
+National Biodiversity Institute, Pretoria; Royal Botanic Gardens, Kew, 232 pp.
+Grace, O.M., Klopper, R.R., Smith, G.F., Crouch, N.R., Figueiredo, E., Rønsted, N. & Van Wyk, A.E. (2013) A revised
+generic classification for Aloe (Xanthorrhoeaceae subfam. Asphodeloideae). Phytotaxa 76(1): 7–14.
+http://dx.doi.org/10.11646/phytotaxa.76.1.22013
+Haworth, A.H. (1827) Description of new succulent plants. The Philosophical Magazine 2: 344–361.
+Klopper, R.R., Smith, G.F. & Van Wyk, A.E. (2013) (2144) Proposal to conserve the name Kumara (Asphodelaceae)
+with a conserved type. Taxon 62: 402–403.
+Linnaeus, C. (1753) Species Plantarum 1. Impensis Laurentii Salvii, Stockholm, 560 pp.
+Medikus, F.K. (1786) Theodora speciosa: ein neues Pflanzen Geschlecht. Hof- und Akademische Buchhandlung,
+Mannheim, 116 pp.
+Miller, P. (1768) The Gardener's Dictionary, ed. 8. Rivington et al., London, 228 pp.
+Stafleu, F.A. & Cowan, R.S. (1976) Taxonomic Literature: A Selective Guide to Botanical Publications and Collections
+with Dates, Commentaries and Types, ed. 2, Vol. 1. Bohn, Scheltema & Holkema, Utrecht, 1136 pp.
+Stafleu, F.A. & Cowan, R.S. (1981) Taxonomic Literature: A Selective Guide to Botanical Publications and Collections
+with Dates, Commentaries and Types, ed. 2, Vol. 3. Bohn, Scheltema & Holkema, Utrecht, 980 pp.
+Wijnands, D.O. (1983) The Botany of the Commelins: A Taxonomical, Nomenclatural and Historical Account of the
+Plants Depicted in the Moninckx Atlas and the Four Books by Jan and Caspar Commelin on the Plants in the Hortus
+Medicus Amstelodamensis, 1682–1710. Taylor & Francis, Abingdon, 232 pp.
+
+60 •
+
+Phytotaxa 115 (2) © 2013 Magnolia Press
+
+KLOPPER ET AL.
+
+

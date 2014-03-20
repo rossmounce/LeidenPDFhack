@@ -1,0 +1,178 @@
+Phytotaxa 161 (1): 097–100
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.161.1.5
+
+Nomenclatural corrections in vascular plants, 1. Valid publication of Allium
+savranicum “Besser”
+ALEXANDER N. SENNIKOV1,2* & ALEXEY P. SEREGIN3
+1
+
+Botanical Museum, Finnish Museum of Natural History, P. O. Box 7, FI-00014 University of Helsinki, Finland;
+e-mail: alexander.sennikov@helsinki.fi
+2
+Herbarium, Komarov Botanical Institute of Russian Academy of Sciences, Prof. Popov str. 2, RU-197376 St. Petersburg, Russia
+3
+Herbarium (MW), Department of Geobotany, Faculty of Biology, M.V. Lomonosov Moscow State University, RU-119991 Moscow,
+Russia; e-mail: allium@hotbox.ru
+*Author for correspondence
+
+This paper opens a series of short notes dealing with critical cases in nomenclature of vascular plants. References to
+the International Code of Nomenclature for algae, fungi and plants (abbreviated as ICN) are provided according to
+its Melbourne edition (McNeill et al. 2012).
+The psammophilous species Allium savranicum “Besser” is confined to sandy steppes and pine forests on riverine
+sands in the steppe and forest-steppe zones of the Ukraine and southwestern Russia (Omelchuk-Myakushko 1979).
+It was distinguished from the Crimean endemic A. marschallianum Vvedensky (1935: 184) in the length of
+pedicels, the colour of tepals and anthers (Omelchuk-Myakushko 1979, Seregin 2012). This species is accepted in
+a number of recent standard works (Omelchuk-Myakushko 1979, Czerepanov 1995, Mosyakin & Fedoronchuk
+1999, Sagalaev 2006) but its name is deemed to be not validly published by Besser (Gregory et al. 1998).
+Most of the authors who treated A. savranicum stated that this name was published by Wilibald Swibert von
+Besser (1784–1842) in a supplement to the Catalogue of plants cultivated in the botanical garden in Krzemieniec,
+due in 1818, although nobody has seen the original publication yet (Vvedensky 1935, Omelchuk-Myakushko
+1979). While in Krzemieniec in the Polish part of the Russian Empire (now Kremenets, Ukraine), Austrian-born
+Besser was the teacher of zoology and botany and the director of the botanical garden at the Krzemieniec Lyceum
+(Polovtsov 1900). Eleven printed catalogues from the garden were distributed until the Lyceum was shut down by
+the Russian authorities in 1831, supplemented by four instalments containing descriptions of new species
+established by Besser, which were published in 1810–1830 but none in 1818 (Lipschitz 1947).
+The name A. savranicum first appeared in print in the synonymy of A. caucasicum Marschall von Bieberstein
+(1819: 258) in Besser (1822: 55). In the latter work Besser stated that this species, no longer recognized by him,
+was included in the aforementioned supplement dated 1818 but remained in the manuscript. Evidently this mention
+was the very source of further references to the ghost publication of 1818. Possibly aware that the Catalogue of
+1818 did not see print, Gregory et al. (1998) credited the valid publication of A. savranicum to Oxner (1935: 301)
+who was the first to resurrect the species after the unpublished intention of its original author. This authorship
+appeared already in the Index to volume 5 of Flora Europaea, although the species name was omitted in the
+taxonomic treatment of Allium (Stearn 1980).
+When accepting A. savranicum, Oxner (1935) believed that it has already been validly published by Besser.
+For this reason he provided the species description only in the Ukrainian language that was the language of the
+whole book. This book, the text of which was completed already in 1927, was delayed in print, finally appearing in
+the very year when the Latin language became mandatory for descriptions of new taxa in extant vascular plants. In
+the absence of validating description or diagnosis in Oxner (1935), for Art. 38.1(a) of ICN to apply, a reference to a
+previously published descriptive matter in Latin should be provided by Oxner as validating author. In 1935, such a
+reference may have been indirect (Art. 38.13). Oxner’s ascription of the species name to Besser could be qualified
+as an indirect reference to the description of A. savranicum, if Besser ever published any. But has he really done
+that?
+
+Accepted by Lorenzo Peruzzi: 14 Jan. 2014; published: 20 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+97
+
+FIGURE 1. Lectotype specimen of Allium savranicum.
+
+98 •
+
+Phytotaxa 161 (1) © 2014 Magnolia Press
+
+SENNIKOV & SEREGIN
+
+Indeed, in Schultes & Schultes (1830) we find a reference to “A. savranicum Besser Cat. H. Crem. Suppl.
+1818” placed in the synonymy of A. caucasicum (= A. saxatile Marschall von Bieberstein 1798: 114), the very
+formula that has been regularly copied from Besser (1822) also by later authors. Josef Schultes (1773–1831) was
+the mentor of Besser, under whose supervision Besser obtained his doctoral degree from the University of Krakow
+in the last day of 1807 (Lipschitz 1947). Schultes was obliged with the occurrence of the otherwise Caucasian
+species A. caucasicum in “Podolia” (western Ukraine) to Besser, who continued keeping close connections with
+Schultes and communicated a detailed description of the Ukrainian plant to his senior colleague. Schultes had not
+accepted Besser’s species but quoted its Latin description from Besser’s letter in annotations to the account of A.
+caucasicum; this description was explicitly ascribed to Besser and effectively published.
+In effect of Art. 38.13, with Besser’s description published in Schultes & Schultes (1830), any author who
+accepted the species or infraspecific name of Allium with the final epithet “savranicum” and provided a reference
+to “Besser”, would have sufficiently fulfilled conditions for valid publication of a new name. The first author to do
+so was not Oxner but Nyman (1882: 741) who subordinated “A. savranicum Bess.” as a variety to A. globosum
+Marschall von Bieberstein (1808: 262). In spite of the use of a binary designation instead of an infraspecific
+epithet, Nyman validly published the varietal name under Art. 21.4, referring to the taxon description indirectly via
+the name of A. savranicum and Besser’s authorship. Since the rank of the original, unpublished Besser’s name was
+different from the one accepted by Nyman, the authorship of the new name belongs to Nyman (Art. 46.3).
+Consequently, Oxner’s use of A. savranicum at the rank of species qualifies for publishing a new combination
+based on Nyman’s name, indirectly referred to by the mention of “Bess.” at the species epithet (Art. 41.3).
+Similarly to the statement in Besser (1822), the locality associated with the original description of A.
+savranicum was “in sabulosis circa Sawran Podoliae” (currently the town of Savran, Odessa Region, the Ukraine).
+Besser described the species on the basis of live plants cultivated in the botanical garden under his supervision, of
+which he preserved a specimen that is still kept at the Herbarium (KW) of the Kholodny Institute of Botany in Kiev
+as part of the vast Besser’s private herbarium. This herbarium was purchased by the University of Kiev after
+Besser’s death (Lipschitz 1947) and transferred in 1931 to the newly established Institute of Botany (Shiyan 2011).
+Even though the validating description of the name had not been located by that time, this specimen was correctly
+designated as the lectotype of A. savranicum by Krytzka et al. (2000).
+
+Allium savranicum (Nyman) Oxner (1935: 301) ≡ Allium globosum var. savranicum Nyman (1882: 741).
+Type:—UKRAINE. Odessa Region, Savran Town. “Allium savranicum Nobis. In arenosis Sawrań”, s.d., [Besser] s.n.
+(lectotype KW-Bess 001001817!, designated by Krytzka et al. 2000: 695) (Fig. 1).
+
+Acknowledgements
+Natalia Shiyan (Kiev) is warmly thanked for the image of the lectotype specimen of Allium savranicum. This
+image is reproduced with permission from the Kholodny Institute of Botany of the National Academy of Sciences
+of the Ukraine, Kiev. The second author highly appreciates the collaborative financial support by DAAD and
+Moscow State University (Vladimir-Vernadskij-Forschungsstipendien und -aufenthalte 2013).
+
+References
+Besser, V.S. (1822) Enumeratio plantarum hucusque in Volhynia, Podolia, Gub. Kiioviensi, Bessarabia cis-tyraica et circa
+Odessam collectarum. Typis Josephi Zawadzki, Vilnius, VIII + 111 pp.
+http://dx.doi.org/10.5962/bhl.title.6648
+Czerepanov, S.K. (1995) Vascular plants of Russia and adjacent states (the former USSR). Cambridge University Press,
+Cambridge, X + 519 pp.
+Gregory, M., Fritsch, R.M., Friesen, N.W. & Khassanov, F.O. (1998) List of Allium species names (excluding American
+species). In: Gregory, M., Fritsch, R.M., Friesen, N.W., Khassanov, F.O. & McNeal, D.W. Nomenclator Alliorum. Allium
+names and synonyms—a world guide. The Trustees, Royal Botanic Garden, Kew, pp. 2–69.
+Krytzka, L.I., Fedoronchuk, M.M., Tsarenko, O.M. & Shevera, M.V. (2000) Typification of species of vascular plants described
+
+VALID PUBLICATION OF ALLIUM SAVRANICUM "BESSER"
+
+Phytotaxa 161 (1) © 2014 Magnolia Press
+
+• 99
+
+from the Ukraine: families Liliaceae Juss., Alliaceae J.Agardh. Ukrayins'kyi Botanicnyi Zhurnal 57: 689–696. (In
+Ukrainian)
+Lipschitz, S.Yu. (1947) Russian botanists. Biographical-bibliographical dictionary 1. Moscow Society of Naturalists, Moscow,
+335 pp. (In Russian)
+Marschall von Bieberstein, F.A. (1798) Tableau des provinces situées sur la côte occidentale de la mer Caspienne, entre les
+fleuves Terek et Kour. St. Petersbourg, 120 pp.
+Marschall von Bieberstein, F.A. (1808) Flora taurico-caucasica 1. Typis Academicis, Kharkov, 428 pp.
+http://dx.doi.org/10.5962/bhl.title.10825
+Marschall von Bieberstein, F.A. (1819) Flora taurico-caucasica 3. Typis Academicis, Kharkov, 654 pp.
+http://dx.doi.org/10.5962/bhl.title.10825
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K.,
+Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (eds.) (2012) International Code of
+Nomenclature for algae, fungi, and plants (Melbourne Code). Adopted by the Eighteenth International Botanical Congress
+Melbourne, Australia, July 2011. Koeltz Scientific Books, Königstein, XXX + 208 pp. [Regnum Vegetabile 154].
+Mosyakin, S.L. & Fedoronchuk, M.M. (1999) Vascular plants of the Ukraine: A nomenclatural checklist. Kholodny Institute of
+Botany, National Academy of Sciences of the Ukraine, Kiev, 345 pp.
+Nyman, C.F. (1882) Conspectus Florae Europaeae 4. Typis Officinae Bohlinianae, Örebro, 677–858 pp.
+http://dx.doi.org/10.5962/bhl.title.10533
+Omelchuk-Myakushko, T.Ya. (1979) Alliaceae J.G. Agardh. In: Fedorov, A.A. (ed.) Flora of the European part of the USSR 4.
+Science Publishers, Leningrad, pp. 261–276. (In Russian)
+Oxner, A. (1935) Liliaceae. In: Lyaskivskiy, M., Lavrenko, E., Oppermann, P., Kotov, M. & Oleksiyev, A. (eds.) Flora of the
+UkrSSR: Manual of vascular plants and higher cryptogams of the Ukrainian SSR 1. State Publishers of Agricultural
+Literature of the Ukrainian SSR, Kyiv, pp. 285–318. (In Ukrainian)
+Polovtsov, A.A. (ed.) (1900) Russian bibliographical dictionary 2. Russian Historical Society, St. Petersburg, 796 pp. (In
+Russian)
+Sagalaev, V.A. (2006) Alliaceae Borkh. In: Skvortsov, A.K. (ed.) Flora of the Lower Volga area 1. KMK Scientific Press,
+Moscow, pp. 335–355. (In Russian)
+Schultes, J.A. & Schultes, J.H. (1830) Systema vegetabilium (ed. 16) 7(2). J.G.Gotta, Stuttgart, pp. 755–1815.
+http://dx.doi.org/10.5962/bhl.title.825
+Seregin, A.P. (2012) Allium tarkhankuticum (Amaryllidaceae), a new species of section Oreiprason endemic to the Crimean
+steppe, Ukraine. Phytotaxa 42: 9–18.
+Shiyan, N.M. (2011) National Herbarium of the Ukraine – the Herbarium of the Kholodny Institute of Botany of the National
+Academy of Sciences of the Ukraine. In: Shiyan, N.M. (ed.) Herbaria of the Ukraine. Index Herbariorum Ucrainicum.
+Alterpres, Kyiv, pp. 87–114. (In Ukrainian)
+Stearn, W.T. (1980) Allium L. In: Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine, D.H., Walters, S.M.,
+Webb, D.A., Chater, A.O. & Richardson, I.B.K. (eds.) Flora Europaea 5. Cambridge University Press, Cambridge, pp.
+49–69.
+Vvedensky, A.I. (1935) Allium L. In: Komarov, V.L. (ed.) Flora of the USSR 4. Academy of Sciences of the USSR, Leningrad,
+pp. 112–280. (In Russian)
+
+100 •
+
+Phytotaxa 161 (1) © 2014 Magnolia Press
+
+SENNIKOV & SEREGIN
+
+

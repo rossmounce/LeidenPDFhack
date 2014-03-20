@@ -1,0 +1,781 @@
+Phytotaxa 127 (1): 66–80 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.10
+
+Stephanodiscus Ehr. species from Holocene sediments in the Faiyum Depression
+(Middle Egypt)
+R.J. FLOWER1, K. KEATINGS1, M.A. HAMDAN2 & F.A. HASSAN3
+Department of Geography, University College London, Gower Street, London, UK
+E-mail: rflower@geog.ucl.ac.uk (corresponding author)
+2
+Department of Geology, University of Cairo, Cairo, Egypt
+3
+Institute of Archaeology, University College London, Gordon Square, London, UK
+
+Abstract
+Lake Qarun in the Egyptian Faiyum Depression is the shrunken remnant of a much larger lake. To investigate the
+sedimentary history of the former lake, several continuous lacustrine sediment cores were collected from now terrestrial
+locations within the basin. The suitability of these sediments for reconstructing past environmental changes was first
+assessed by describing the gross stratigraphies of three core sequences and secondly by evaluating taxonomic issues
+concerning sedimentary diatom species within the genus, Stephanodiscus Ehr. The stratigraphic descriptions show basal
+sections comprised of either coarse sand or weathered Ecocene limestone overlain by lacustrine sediments. Lower
+sections of the lacustrine sediments are diatom marls, and, in the two lakeside cores, these are laminated. These sections
+indicate that the lake initially formed by rapid in filling to a considerable depth with freshwater and the diatom-rich marls
+containing abundant Stephanodiscus and Aulacoseira Thwaites species. A new species and variety of Stephanodiscus, S.
+neoaegypticus and S. neoaegypticus var. fekrii, are described from the marl section in one core. Another species, S.
+galileenis Håkansson & Erhlich, was also present and is re-evaluated with reference to the published description. The
+importance of establishing a sound taxonomic foundation for palaeolimnological studies of Lake Qarun is stressed.
+
+Introduction
+Egypt possesses few natural inland lakes but modern day Lake Qarun in the Faiyum Depression is the
+remnant of a much larger early Holocene lake (Caton-Thompson & Gardner 1934, Hassan 1986).
+Consequently, exploring sedimentary diatom records in Lake Qarun sediments can potentially help
+understand the environmental history of the lake. However, issues of sediment formation and dating, diatom
+preservation and diatom taxonomy all require careful evaluation before palaeolimnological information can
+be fully exploited (e.g. Flower et al. 2006). Previous work has decribed terrestrial diatomite exposures northeast of modern Lake Qarun (Aleem 1958) and later Przbylowska-Lang (1976) showed benthic diatom species
+of Synedra Ehrenberg (1830: 60) and Epithemia Kutzing (1844: 33) to be more abundant in upper diatomites
+from the region. Furthermore, Mueller-Wilmes (1988) found several unknown Stephanodiscus Ehrenberg
+(1845: 72) species in Lake Qarun sediment as well as Stephanodiscus aegyptiacus Ehrenberg (1854: pl. 33/1,
+fig. 16). Stephanodiscus species are of particular interest because they no longer grow in the lake today (Fathi
+& Flower 2003, Mansour 2008) and, being planktonic, are indicative of open lake conditions.
+As part of a larger project to investigate the environment history of Lake Qarun (e.g. Keatings et al.
+2010), several sediment augur cores where collected from the Lake Qarun basin. This paper firstly
+summarizes the gross stratigraphy of these cores and, secondly, evaluates some Stephanodiscus species
+present with in these cores.
+
+66
+
+Accepted by M.L. Julius: 28 Nov. 2012; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Site Description and Field Methods
+Modern Lake Qarun (29.487oN, 30.298oE) lies within the Faiyum Depression and the current surface lake
+water fluctuates around -43 m below sea level. It is sustained by drainage of Nile water delivered into the
+Depression through the Bahr Yusef (Fig.1)
+Field sampling: In April–May 2008 augur coring (see Flower et al. 2012) was undertaken at six locations and
+three of these yielded lacustrine sediment sequences. The three cores containing diatom remains were
+QARU9 and QARU10, collected at the southern margin of Lake Qarun, and GARK1, collected from within
+the Gharak region in the south-western part of the Faiyum (Fig. 1).
+
+FIGURE 1. Lake Qarun situated in northern part of the Faiyum Depression, Egypt. Three terrestrial sediment core locations are
+shown with QARU9 and 10 on the southern shore of the lake and GARK1 in the Gharak region of south west Faiyum. Note diatomite
+exposures are indicated to the west and northeast of the modern lake.
+
+Summary descriptions: QARU9 (29.43447°N, 30.64213°E) was the longest core at 21.4 m and the upper
+sections consisted of a sandy layer and silty clays coloured dark brown to grey depending on depth (Fig. 2,
+left). Only below 1085 cm depth did the bulk sediment become coarsely laminated and below 1730 cm the
+white laminations became much thinner (at c. 1 mm thick) as the matrix changed to soft olive grey sediment.
+Below 2030 cm the sediment became silty and at c. 2080 cm coarse grey sand with small pebbles was present.
+QARU10 (29.40309°N, 30.50830°E) was 10.4 m long (Fig. 2, middle) had a lithology similar to QARU9 but
+HOLOCENE STEPHANODISCUS SPECIES FROM EGYPT
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 67
+
+FIGURE 2. Gross sediment stratigraphies of the three cores, QARU9, QARU10 and GARK1 (see text for sediment descriptions).
+Note the basal sands below finely laminated diatom marl sediment in QARU9 & 10.
+
+68 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+FLOWER ET AL.
+
+with shorter sections. At around 960 cm fine laminations appeared but this section was shorter than in
+QARU9 being only about 60 cm in depth and by 1030 cm brown coarse sands and gravel occurred. GARK1
+(29.14840°N, 30.60976°E) was 5.80 m long (Fig. 2, right) and the upper sections comprised mainly silty clay
+but at 420 cm the sediment changed to a silty clayey grey marl which persisted to 570 cm with some feint
+irregular laminations. The sequence ended in light grey weathered limestone at 580 cm.
+Sample preparations: Sub-samples for preliminary diatom analysis were taken at approximately 40 cm
+intervals in each core with sampling frequency varying according to changes in stratigraphy. Most samples
+were placed into Whirl Pac bags for transportation from the sites. The bulk cores were all archived in Egypt
+for further lithostratigraphic study while the sedimentary diatom sub-samples were transported to the UK for
+diatom analysis.
+
+Material and Methods
+Initial low power microscopical examination of the down core diatom strews indicated that species of
+Cyclostephanos Round ex Theriot, Håkansson, Kociolek, Round & Stoermer (1987: 346), Stephanodiscus and
+Aulacoseira Thwaites (1848: 167) and were common in many samples. In QARU9 at least some whole
+diatom valves were present in all samples between 160 cm and 2030 cm depth, in QARU10 between 260 and
+1005 cm depth and in GARK1 between 60 cm and 580 cm. Consequently, all samples were prepared for
+diatom analysis. After initial freeze drying, diatom analysis was undertaken after sample treatment with
+hydrogen peroxide (organic matter was <10% of the dry sediment weight in all samples and little oxidation
+was needed). Hot 50% HCl, was used to remove carbonate minerals. After washing with distilled water, the
+resulting diatom suspensions were dried on to glass cover slips and mounted in Naphrax. Slide strews were
+examined at x1000 magnification in a Leitz Labrolux light microscope (LM) with a 1.3 N.A. objective so that
+diatom species could be assessed and taxonomic issues confronted. Because of the high degree of valve
+silicification, diatoms were usually viewed without phase contrast optics. Identification difficulties were soon
+encountered for species within the Stephanodiscus genus and appropriate treated samples from all three cores
+were used for taxonomic evaluation and photomicrography. LM microphotography used a Leica DM6000 LM
+with a x100 objective with a Zeiss AxioCam digital camera. Scanning electron microphotography was
+undertaken in a Jeol JSM-6480LV scanning electron microscope (SEM).
+
+Results
+Sediment core GARK1: Although not thinly laminated, the deeper (4.2–5.6 m) sediment in this core contained
+abundant planktonic diatoms which, in addition to Cyclostephanos dubius (Fricke) Round in Theriot et al.
+(1987: 346), included a Stephanodiscus species with similarities to S. aegyptiacus. This latter species was
+reviewed by Håkansson & Locker (1981) and it is noteworthy that the type locality for S. aegyptiacus is the
+‘See Garag, Fajum, Aegypten’. The unrecognized Stephanodiscus species in GARK1 marl sediment was
+initially thought to be co-specific with S. aegyptiacus but closer examination in both LM and SEM revealed
+significance differences.
+In the LM valves were large (up to 70 µm in diameter) and weakly concentrically undulate so that
+frustules possessed only slightly differentiated convex and concave valves. No distinct sub-marginal hyaline
+silica ring was discernible at the valve face mantle junction (cf. S. aegyptiacus) although an indistinct ring
+(Fig. 3) is present in larger specimens (> c. 40 µm diameter). Interfascicle ribs (3–4 in 10 µm) were relatively
+broad and tended to narrow both distally and proximally giving a fine lanceolate appearance (Figs 3, 4).
+Spines were absent although valves showing marginal dissolution can appear to have spines (Fig. 6). The
+fascicles are composed of areolae which in LM often appear large and blocky (Fig. 4), especially in well
+HOLOCENE STEPHANODISCUS SPECIES FROM EGYPT
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 69
+
+silicified specimens (Fig. 5). At the valve face-mantle junction (VFMJ), the interfascicles occasionally
+bifurcate (Figs 4 & 5). The fascicles are uniseriate for half to two thirds the length of the fascicle (dependant
+on valve size) and broaden at the VFMJ to include 3–4 areolae (Figs 4, 6–7). In smaller (< c. 40 µm diameter)
+valves (Figs 7–8) the interfascicles appear relatively more lanceolate, depending on the plane of focus (Figs
+7–8 ) and, compared to larger valves, they more frequently bifurcate at the VFMJ (Fig. 8).
+
+FIGURES 3–8. Stephanodiscus neoaegypticus, LM. Fig. 3. Valve showing an indistinct sub-marginal hyaline ring and broad
+interfascicular ribs. Fig. 4. Valve focused to show the valve face-mantle zone with occasional bifurcating interfascicular ribs
+(arrowed). Fig. 5. A strongly silicified valve. Fig. 6. A part dissolved valve with eroded margin and diminished interfascicular ribs.
+Figs 7–8. S. neoaegypticus v. fekrii LM. Fig. 7. Whole valve focused to show the broad interfascicular ribs and marginal bifurcations
+(arrowed). Fig. 8. The same whole valve (Fig. 7) focused to show the central area. Scale bars = 5 μm (Figs 3–8)
+
+In SEM the external valve view confirms only a small degree of concentric undulation with valves being
+slightly convex (Fig. 9) or concave (Fig. 10). The latter clearly shows the fine lanceolate nature of the flat
+interfascicles which narrow distally to accommodate broadening of the fascicles as they become multiseriate.
+External openings of the valve face areolae (c. 14 in 10 µm) are small (< 1 µm in diameter, unless expanded
+by dissolution) and most interfascicles have external fultoportulae openings at the VFMJ (Fig. 10). External
+apertures of rimoportulae (Fig. 10, arrowed) are sub-marginal on interfascicles. Spines are absent. Internally,
+
+70 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+FLOWER ET AL.
+
+rimoportulae (3–6) occur irregularly spaced in the sub-marginal zone (Fig. 11, arrowed), are almost sessile
+and oriented sub-obliquely (Fig. 12). The areolae become markedly smaller beyond the VFMJ (Fig. 12) and
+more closely spaced (>30 in 10 µm) compared to valve face areolae (c. 14 in 10 µm). Marginal fultoportulae
+have three satellite pores and are subtended by short tubes (Fig. 12). The central area fultoportulae form a ring
+and each possesses two satellite pores (Fig. 13, arrowed). Smaller valves (< c. 20–40 µm in diameter) are also
+either concave (Fig. 14) or convex (Fig. 15) and valve face areolae appear more coarsely spaced with very
+small apertures (but metrics are not significantly different from those of larger forms). At least one raised
+rimoportula aperture occurs submarginally (Fig 14, arrowed). Internally, each valve has one, two or three
+marginal rimoportulae and a valve with two is indicated in Fig. 16. Marginal fultoportulae have three
+(sometimes four) satellite pores (Fig. 17). Central area fultoportulae are recessed with two satellite pores (Fig.
+18, where well preserved domed cribra are also shown).
+
+FIGURES 9–14. Stephanodiscus neoaegypticus, SEM. Fig. 9. Iconotype, external valve showing small concentric convex undulation
+with out spines. Fig. 10. External valve showing small concentric concave undulation and external rimoportula opening (arrowed).
+Fig. 11. Internal valve showing sub-marginal rimoportulae (arrowed). Fig. 12. Detail of the same valve showing two sub-marginal
+rimoportulae and marginal ring fultoportulae. Fig. 13. Detail of the central ring of fultoportulae (each with two satellite pores).
+Stephanodiscus neoaegypticus v. fekrii SEM. Fig. 14. Iconotype, external valve with a concave central area, marginal ring of
+fultoportula apertures and external opening of a rimoportula (arrowed). Scale bars = 10 µm (Figs 9–11, 14), 1 µm (Fig. 12), and 2 µm
+(Fig. 13).
+
+HOLOCENE STEPHANODISCUS SPECIES FROM EGYPT
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 71
+
+FIGURES 15–18. Stephanodiscus neoaegypticus v. fekrii, SEM. Fig. 15. External valve with a convex central area. Fig. 16. Internal
+valve showing two rimoportulae (arrowed). Fig. 17. Detail of internal marginal zone showing fultoportulae with either three or four
+satellite pores. Fig. 18. Internal central area fultoportula with two satellite pores. Scale bars = 2 µm (Fig. 15), 5 µm (Fig. 16), and 1 µm
+(Figs 17, 18).
+
+New species descriptions
+Division Bacillariophyta
+Class Coscinodiscophyceae F.E. Round & R.M. Crawford in Round et al. 1990 emend. Medlin & Kaczmarska
+2004
+Order Thalassiosirales Glezer & Makarova 1986
+Family Thalassiosiraceae Lebour 1930
+Genus Stephanodiscus Ehrenberg
+Stephanodiscus neoaegypticus Flower sp. nov.
+Cells circular, undulate, central areas weakly concave or convex, spines absent. Cell diameters c. 30–70 µm. Fascicles
+radial, uniseriate striae occupy about 2/3 of the valve radius with 3–4 rows of areolae at valve face-mantle junction.
+Interfascicles distinct, not raised (compared to fascicles), circa 1.5 µm wide around the mid radius, 4–5 areolae in 10
+µm at valve margin. External areolar openings small (1 µm or less). Central area fultoportulae up to 6, near valve
+centre, with two satellite pores. Marginal fultoportulae with three satellite pores at termini of interfascicles. External
+openings of marginal fultoportulae slightly raised. Rimoportulae sub-marginal, 3–6, oblique, irregularly spaced.
+Type:—EGYPT. Gharak: Faiyum Depression, 29.43447° N, 30.64213° E, Holocene lake sediment core (GARK1)
+material, sediment depth 450 cm, collected April–May 2008, (Circled specimen (Fig. 3) on slide BM101659 (BM!),
+holotype, designated here).
+
+72 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+FLOWER ET AL.
+
+Stephanodiscus neoaegypticus var. fekrii Flower var. nov.
+Cell diameters ca. 20–40 µm. Fascicles radial, uniseriate striae occupy ca. 50% of the valve radius. Interfascicles often
+divide beyond the valve face-mantle junction and slightly widen in the mid-valve region. Central area fultoportulae
+2–3. Rimoportulae sub-marginal, 2–3.
+Type:—EGYPT. Gharak: Faiyum Depression, 29.14840° N, 30.60976° E, Holocene lake sediment core (GARK1)
+material, sediment depth 450 cm, collected April–May 2008, (circled specimen (Figs 8, 9) on slide BM101660,
+holotype, designated here).
+
+Sediment cores QARU9 and QARU10: In the thinly laminated sections of both QARU9 & 10 (see Fig. 2), a
+third common Stephanodiscus species was present that was not S. neoeagyptiacus but much more similar to S.
+galileensis Håkansson & Ehrlich (1987: 20). The type locality for this species is sub-surface (fossil) sediment
+in Lake Kinneret (Israel). They reported a heterovalvic condition where the concave and convex valves
+differed with regard to fascicle arrangement and to location of fultoportulae. Since some of their material was
+evidently rather poorly preserved (see their Figs 3, 14 and 16), the species is re-examined here.
+In LM, Stephanodiscus galileensis valves show strong concentric undulations according to the plane of
+focus either on the marginal or central areas (Figs 19 & 20). Valves range from 20–48 µm in diameter. The
+marginal area (Fig. 19) also displays a characteristic sub-marginal hyaline silica ring and broad interfascicles.
+Fascicles are c. 5 in 10 µm, proximally uniseriate with large blocky areolae becoming finer and bi- or
+triseriate in the distal third portion of the valve. Interfascicles are distinct and about 1.5 µm broad in the midradius area. Concave valves show a similarly strong undulation (Figs 21 & 22) with 5–6 hyaline areas
+(marking fultoportulae, see below) in the mid-radius position on the valve face (Fig 21, arrowed) and these are
+particularly obvious in well silicified specimens (Fig. 23). Fascicles on these valves (morphotype ‘B’ of
+Håkansson & Ehrlich 1987) appear to contain finer areolae and are biseriate for about half the valve distal
+radius. In this region, interfascicles are often about 1 µm broad but in strongly silicified specimens the width
+is similar to those in valves with hyaline sub-marginal rings.
+
+FIGURES 19–23. Stephanodiscus galileensis, LM. Fig. 19. Convex valve showing a distinct sub-marginal hyaline ring in focus. Fig.
+20. Similar showing marginal ring of spines and valve central area in focus. Fig. 21. Concave valve showing finer fascicle structure
+(see S. galileensis morphotype B, Hakansson & Locker 1987) and valve face fultoportulae (arrowed). Fig. 22. Similar showing valve
+central area in focus. Fig. 23. Similar, but valve is more strongly silicified. Scale bars = 5 µm (Figs 19–23).
+
+HOLOCENE STEPHANODISCUS SPECIES FROM EGYPT
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 73
+
+FIGURES 24–30. Stephanodiscus galileensis, LM. Fig. 25. External convex valve note irregular spines and sub-marginal silica ring.
+Fig. 25. Internal convex valve with rimoportula arrowed. Fig. 26. Detail of same valve showing central area ring of fultoportulae with
+two or three satellite pores. Fig. 27. External concave valve with ring of spines and raised interfascicular ribs. Fig. 28. Internal concave
+valve showing ring of sub-marginal fultoportulae and rimoportulae (arrowed). Fig. 29. Similar showing detail of a rimoportula, a submarginal fultoportula with two satellite pores and marginal fultoportulae. Fig. 30. Detail of a sub-marginal fultoportula with three
+satellite pores and surrounding domed cribra. Scale bars = 10 µm (Figs 24, 25, 27, 28), 1 µm (Figs 26, 29), and 0.5 µm (Fig. 30).
+
+In SEM, the external view of convex valves of S. galileensis clearly shows the marked central undulation
+with irregularly spaced spines subtended from the sub-marginal silica ring (Fig. 24, note the similarity of this
+specimen with S. aegyptiacus as depicted in Fig. 63, Håkansson & Locker 1981). The fascicles are uniseriate
+becoming biseriate or triseriate near the valve face-mantle junction (VFMJ) with small areolae (12–13 in 10
+µm). External areolar openings are generally < 1 µm in the mid valve face area and, consequently, the
+fascicles are narrower than the interfascicles. Internally, these convex valves (Fig. 25) show marginal
+fultoportulae on each interfascicle at the VFMJ, one or two sub-marginal rimoportulae (arrowed) and a ring of
+central area fultoportulae (Fig. 26) with either two or three satellite pores. The mantle areolae, cribra and
+fultoportulae are generally as in Håkansson & Ehrlich (1987) except in this material the number of central
+area processes is lower. The concave valves confirm heterovalvy (Fig. 27) with raised interfascicles each
+subtended by a spine, distinct external openings of central area fultoportulae (arrowed) and a greater degree of
+areolation (with distally extended bi- and triseriate fascicles) compared to convex valves. Internally, the
+
+74 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+FLOWER ET AL.
+
+concave valves display a ring of sub-marginal fultoportulae (Fig. 28, arrowed) that initiate distally an usually
+biseriate fascicle (Fig. 29). There are typically three oblique sub-marginal rimoportulae (Figs 28–29). Central
+area fultoportulae possess two (Fig. 29) or three (Fig. 30) satellite pores and occur in depressions near finely
+porate domed cribra (Fig. 30).
+Size distributions:—To help substantiate the two varieties of S. neoeagypticus, diameters of 70 random
+valves (S. neoaegypticus sensu lato) were assigned to size classes and the distribution plotted (Fig. 31a).
+These data show a bimodal size distribution with two modal size classes, 30–40 μm and 50–60 μm; the larger
+class was always composed of S. neoaegypticus valves and the smaller class was mainly S. aegypticus var.
+fekrii. For S. galileensis, diameters of 60 random valves were assigned to size classes and the distribution
+plotted (Fig. 31b). There were approximately equal numbers of convex and concave valves resulting in a
+unimodal size class distribution with 35% of valves in the 30–35 μm size class.
+
+FIGURE 31. Size distributions for diatom valve diameters (see text). Fig. 31a: Stephanodiscus neoaegypticus sensu lato from material at
+430 cm depth in core GARK1. Fig. 31b. Stephanodiscus galileensis Hakansson & Ehrlich from material at 1930 cm depth in core QARU9.
+
+Morphological comparisons:—The morphological characteristics of S. neoaegypticus and S.
+neoeagypticus var. fekrii are summarized in Table 1 where valve size, extent of uniseriate areolae serve best to
+discriminate the latter in routine LM examination. Another small form, similar to S. neoagypticus var. fekrii
+but with distally wider (4/5 areolae) fascicles, was recognised in GARK1 and tentatively named as cf.
+asteriodes but this taxon requires further study. Comparable data for S. aegyptiacus from Håkansson &
+Locker 1981 are included in Table 1 to demonstrate differences between this species and the two newly
+
+HOLOCENE STEPHANODISCUS SPECIES FROM EGYPT
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 75
+
+described S. neoaegypticus taxa. The most discriminating features of the latter are a larger valve diameter
+range and differences in valve face areolar structure. Strongly concentric valve undulations a distinct marginal
+hyaline ring and marginal spines are all lacking in S. neoaegypticus sensu lato. The morphological
+characteristics of S. galileensis obtained from the Qarun core material compare favourably with the published
+data for this species (Håkansson & Ehrlich 1987) shown in Table 2. The original description and the existence
+of heterovalvy is generally substantiated and only very minor differences were found in this study. The latter
+extends slightly the original description by increasing the valve size range and including more variation in the
+number of rimoportulae and in the arrangement of satellite pores around fultoportulae.
+TABLE 1. Some morphological charcteristics of Stephanodiscus neoaegypticus Flower and S. neoaegypticus v. fekrii
+Flower. Data for S. aegyptiacus Ehr. from Håkansson & Locker (1981) are also given for comparison; na indicates data
+not available, ? indicates inferred value.
+S. neoaegypticus
+
+S. aegypticus v. fekrii
+
+S. aegyptiacus
+
+Diameter (μm)
+Concentric undulation
+
+c. 30–70
+weak
+
+c. 20–35
+weak
+
+9–45
+strong
+
+Spines
+Interfascicles
+
+none
+hyaline, 4–5 in 10 μm
+
+none
+hyaline, 4 in 10 μm
+
+yes
+hyaline, 3–5 in 10 μm
+
+Fascicle areolae (proximal)
+Fascicle areolae (distal)
+
+uniseriate
+2–4 rows
+
+uniseriate
+3–4 rows
+
+uniseriate
+2–4 rows
+
+Uniserate areolae extent
+Marginal hyaline ring
+
+75–80% of valve
+indistict or absent
+
+c. 50% of valve
+absent
+
+c. 60% of valve
+distinct
+
+Interfaciscle at mantle
+Areolae on mantle
+
+rarely bifurcated
+fine, 3–4 in 1 μm
+
+often bifurcated
+fine, 3–4 in 1 μm
+
+na
+fine, 3 in 1 μm
+
+Interfascicles
+External areolar pores
+
+width, 0.5–1.5 μm, not raised
+c. 0.2–1 μm, c. 14 in 10 μm
+
+width 0.5–1.5 μm, not raised
+c. 0.2 μm, c.16 in10 μm
+
+width 0.4–0.9 μm, raised
+>1 μm, 6–7 in 10 μm
+
+Internal cribra
+Central area fultoportulae
+
+domed, c. 0.4 μm
+up to 6
+
+domed, c. 0.4 μm
+2 or 3
+
+na
+5?
+
+Marginal fultoportulae
+Satellite pores
+
+interfascicle termini, raised
+3 at margin, 2 centrally
+
+interfascicle termini, raised
+3/4 at margin, 2 centrally
+
+interfascicle termini, below spines
+3 at margin, 2 centrally
+
+Rimoportulae
+
+3–6, sub-marginal
+
+usually 2, sub-marginal
+
+at least one, marginal
+
+Discussion
+The presence of diatom-rich marl sediment in the basal sections of all three cores provide evidence of a lake
+that was formerly much more extensive than today. The planktonic diatoms in these sections were dominated
+by Aulacoseira and Stephanodiscus taxa and, while A. granulata (Ehrenberg) Simonsen (1979: 58) is
+common in the Nile River today (Talling et al. 2009), the latter is not. Sediment records show that species of
+the genus Stephanodiscus were formerly widespread and often very abundant in large East African lakes
+during the Plio-Pleistocene and Holocene (Gasse 1980, 1987). However, few species present in the Faiyum
+core sections appeared to be recognisable as previously described African endemics. Those Stephanodiscus
+species present in the Faiyum sediments appear to have developed within the lake rather than from
+populations brought northwards into the lake via Nile floods.
+In the thinly laminated marl sections of cores QARU9 and 10, Stephanodiscus galileensis was fairly
+common; it has not been previously reported for the Faiyum but its locality corresponds to the fossil type
+material from Lake Kinneret (Håkansson & Erhlich 1987). The species seems to have a very restricted Middle
+Eastern distribution although Krammer & Lange-Bertalot (2004) note that it is a planktonic form in eutrophic
+African freshwaters. Tuji et al. (2003) comment on the similarities of S. akanensis Tuji, Kawashima, Julius &
+Stoermer (2003: 2) (so far a Japanese endemic species) to S. galileensis. Mueller-Wilmes (1988) recorded 11
+unidentified Stephanodiscus species in Lake Qarun sediment cores and S. galileensis probably occurred
+
+76 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+FLOWER ET AL.
+
+within this unknown group. Other unidentified Stephanodiscus taxa could correspond to different dissolution
+states of this species where erosion of both the marginal and the broad interfascicle areas can alter markedly
+valve appearance in LM.
+The marked heterovalvy in S. galileensis described by Håkansson & Erhlich (1987) is supported in this
+investigation as are the characteristics of both the convex and concave valves. Failure to recognise this
+heterovalvic condition can also cause species identification problems in routine counting since the concave
+valve is distinctly more finely striated and has a higher density of fascicle areolae (cf. Table 2). As noted by
+Håkansson & Erhlich (1987), the distinctive hyaline marginal ring is characteristic of the convex valve and,
+while not definitive of the species, it is a useful initial identification feature. The descriptions of both frustular
+valves of this species are extended slightly by reporting details ultra-structure features (cf. Table 2) associated
+with the valve processes and the valve size range is extended to smaller forms (to 20 μm valve diameter).
+The other Stephanodiscus species of note found to date in the Faiyum sediment cores is described as a
+new species Stephanodiscus neoaegypticus. This species occurred most commonly in GARK1, from a region
+that would have been partially isolated from the main lake in the early Holocene. Although the ‘See Garak’
+area of the Faiyum is the type locality for Stephanodiscus aegyptiacus Ehr., this species appeared absent in
+Gharak sediment where only a few S. galileensis and the newly described species were common. Ehrenberg
+(1854) noted that S. aegyptiacus is an extinct form that also occurs in Atlantic Passat winds but the latter does
+not substantiate its occurrence as North African. Associated diatoms in his drawing (in Håkansson & Locker
+1981) do however indicate a sedimentary source within the Faiyum. The only extant lake (Birket Abu Talib)
+in the Gharak is small and shallow and receives agricultural drainage so is most unlikely to support S.
+aegyptiacus today. While its occurrence in the Faiyum remains to be established, the latter species seems
+unreported in recent lakes except for several sites in Florida (Whitmore 1989).
+Despite the genus name, Stephanodiscus neoaegypticus is distinctive for its total lack of spines in all
+specimens examined in this study. While marginal spines are characteristic of the genus (e.g. Krammer &
+Lange-Bertalot 1991) may other characters of S. neoaegypticus (fascicule structure, arrangement of valve face
+and mantle areolae, the external rimoportula and the criba) are all typical of Stephanodiscus. The new species
+has few characters in common with S. galileensis (cf. Tables 1 & 2). Similarly, it is clearly separated from S.
+aegyptiacus Ehr., a species for which heterovalvy is not confirmed (Håkansson & Erhlich 1987). There are,
+however, issues with the description of S. aegyptiacus, the convex valve figured in SEM from the type
+material (Fig. 63 in Håkansson & Locker 1981) has a marginal hyaline ring, raised interfascicular ribs and
+fascicular areolar structure exactly similar to S. galileensis. The internal valve image (Fig. 65 in Håkansson &
+Locker 1981) of S. aegyptiacus shows a central area ring of fultoportulae and sub-marginal rimoportulae in
+the same positions as in S. galileensis. Further, an external valve of S. galileensis, Fig. 87 in Håkansson
+(2002), and the external valve of S. galileensis, Fig. 63 in Håkansson & Locker (981) seem identical. The
+diagnosis of S. aegyptiacus is also virtually the same as that for the convex valve of S. galileensis excepting a
+smaller size limit for the former. As noted by Håkansson & Locker (1981), other workers have expressed
+doubt in the validity of S. aegyptiacus (e.g. VanLandingham 1978) and while the species concept is valid,
+conspecificity with S. galileensis is suspected. If heterovalvy can be demonstrated in the original material of
+S. aegyptiacus, then S. galileensis may well be synonimous.
+Validating and establishing diatom species in ancient lake sediments is often made difficult by poor
+preservation, but establishing a secure taxonomic foundation is essential to assure integrity for
+biostratigraphies within and between lakes. Furthermore, a secure taxonomy is needed for both extant and
+fossil species so that species distributions through time and space can be determined. Provenance of
+individual species as well as information about the diversity of either contemporary communities or fossil
+assemblages is needed to help understand how diatom diversity in ancient lakes developed and sometimes
+declined. Questions remain about the origin of the diatom species recorded in Lake Qarun sediments but it is
+already clear that the Stephanodiscus flora of the early Holocene deep lake arose and declined with some
+rapidity (cf. Flower et al. 2012). Until a secure chronology is developed for a continuous Holocene sequence
+for Lake Qarun, the precise timing of the major environmental changes in this once great lake remains elusive.
+HOLOCENE STEPHANODISCUS SPECIES FROM EGYPT
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 77
+
+78 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+FLOWER ET AL.
+
+irregular, small
+
+5–6, raised
+
+uniseriate
+
+1–2, rarely 3, rows
+
+>80% of valve face
+
+distinct
+
+fine, 4 in 1 µm)
+
+narrow, usually < 1 µm
+
+12–14 in 10 um
+
+domed, c. 0.6–0.7 μm
+
+>10 in a central ring
+
+every interfascicle below spines
+
+2 marginal fp, 2 central fp
+
+1 or 2 sub-marginal
+
+Interfascicles (in 10 μm)
+
+Fascicle areolae (proximal)
+
+Fascicles areolae (distal)
+
+Uniserate areolae extent
+
+Marginal hyaline ring
+
+Areolae on mantle
+
+Fascicles (width)
+
+External areolar pores
+
+Internal cribra
+
+Central fultoportulae
+
+Marginal fultoportulae
+
+Satillite pores
+
+Rimoportulae
+
+Concentric undulation
+
+Spines
+
+20–48
+
+strong
+
+Diameter (μm)
+
+S. galileensis —CVV
+
+usually 3, sub-marginal
+
+2 marginal fp, 2/3 central fp
+
+every interfascicle below spines
+
+c. 10 in sub-marginal ring
+
+domed, c. 0.6–0.7 μm
+
+c. 15 in 10 µm
+
+wider,>2 µm especially distally
+
+fine, c. 3 in 1 µm
+
+not present
+
+>70% of valve face
+
+2–4 rows
+
+uniseriate
+
+c. 6, markedly raised
+
+regular, small
+
+strong
+
+20–48
+
+S. galileensis —CCV
+
+1 or 2
+
+2
+
+every or every 2nd interfascicle
+
+up to c. 20 in central ring(s)
+
+domed, c. 0.6–0.7 μm
+
+c. 12 in 10 µm
+
+0.3–0.6 μm
+
+c. 4 in 1 µm
+
+distinct
+
+>80% of valve face
+
+1–2 rows
+
+uniseriate
+
+c. 6, raised
+
+irregular ring at margin
+
+strong
+
+32–48
+
+S. galileensis 1—CVV
+
+1 or 2
+
+2
+
+every or every 2nd interfascicle
+
+up to c. 20 in submarginal ring
+
+domed, c. 0.6–0.7 μm
+
+c. 15 in 10 µm
+
+c. 1.5 µm?
+
+na
+
+not present
+
+>70% of valve face
+
+2–3 rows
+
+uniseriate
+
+c. 6, raised
+
+irregular ring at margin
+
+strong
+
+32–48
+
+S. galileensis 1—CCV
+
+TABLE 2: Some morphological characteristcs of Stephanodiscus galileensis Hakansson & Ehrlich according to material from lake sediment cores QARU9
+and 10. CVV and CCV refer to the convex and to the concave valves of this species. S. galileensis1 refers to data given in Hakansson & Ehrlich 1987; na
+indicates data not available, ? indicates inferred values, fp indicates fultoportulae.
+
+Acknowledgments
+We wish to thank the British Academy for supporting this work through their grant (LG426). We are also
+grateful to the Egyptian team for collecting the sediment cores. Artwork is by Miles Irving (UCL). David
+Ryves (Loughborough University) kindly facilitated the light microphotography and James Davy (UCL)
+helped with the SEM work.
+
+References
+Aleem, A.A. (1958) A taxonomic and palaeoecological investigation of the diatom flora of the extinct Fayoum Lake
+(Upper Egypt). University of Alexandria Bulletin 2: 217–44.
+Caton-Thompson, G. & Gardner, E.W. (1934) The Desert Faiyum. Royal Anthropological Institute, London, 167 pp.
+Ehrenberg, C.G. (1830) Organisation, Systematik und geographisches Verhältniss der Infusionsthierchen. Zwei verträge.
+Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin 108 pp.
+Ehrenberg, C.G. (1845) Neue Untersuchungen über das kleinste Leben als geologisches Moment. Bericht über die zur
+Bekanntmachung geeigneten Verhandlungen der Königlich-Preussischen Akademie der Wissenschaften zu Berlin
+1845: 53–87.
+Ehrenberg, C.G. (1854) Mikrogeologie. Das Erden and Felsen schaffende Wirken des unsichbar kleinen selbststandigen
+Lebens auf der Erde. Leipzig, 374 pp.
+Fathi, A.A. & Flower, R.J. (2005) Water quality and phytoplankton communities in Lake Qarun (Egypt). Aquatic
+Sciences 67: 350–362.
+Flower, R.J., Stickley, C., Rose, N.L., Peglar, S., Fathi, A.A. & Appleby, P.G. (2006) Environmental change at the desert
+margin: an assessment of recent paleolimnological records in Lake Qarun, Middle Egypt. Journal of Paleolimnology
+35: 1–24.
+http://dx.doi.org/10.1007/s10933-005-6393-2
+Flower, R.J., Keatings, K., Hamdan, M., Hassan, F.A., Boyle, J.F., Yamada, K. & Yasuda, Y. (2012) The structure and
+significance of early Holocene laminated lake sediments in the Faiyum Depression (Egypt) with special reference to
+diatoms. Diatom Research 27: 127–140.
+http://dx.doi.org/10.1080/0269249X.2012.703624
+Gasse, F. (1980) Les diatomées lacustres pliopléistocènes du Gadeb (Ethiopie). Systématique, paléoécologie,
+biostratigraphie. Revue Algologique Mémoire Hors-Série. 3: 1–249.
+Gasse, F., Fontes, J.C., Plaziat, J.C., Carbonel, P., Kaczmarska, I., De Deckker, P., Soulie-Marsche, I., Callot, Y. &
+Dupeuble, P.A. (1987) Biological remains, geochemistry and stable isotopes for the reconstruction of environmental
+and hydrological changes in the Holocene lakes from North Sahara. Palaeography, Palaeoclimatology,
+Palaeoecology 60: 1–46.
+http://dx.doi.org/10.1016/0031-0182(87)90022-8
+Håkansson, H. & Ehrlich, A. (1987) Stephanodiscus galileensis sp. nov. from Holocene subsurface sediments of Lake
+Kinneret, Israel. Diatom Research 2: 15–21.
+http://dx.doi.org/10.1080/0269249X.1987.9704981
+Håkansson, H. & Locker, S. (1981) Stephanodiscus Ehrenberg 1846, a revision of the species described by Ehrenberg.
+Nova Hedwigia 35: 117–150.
+Håkansson, H. (2002) A compilation and evaluation of species in the genera Stephanodiscus, Cyclostephanos and
+Cyclotella with a new genus in the Stephanodiscaceae. Diatom Research 17: 1–139.
+http://dx.doi.org/10.1080/0269249X.2002.9705534
+Hassan, F.A. (1986) Holocene lakes and prehistoric settlements of the Western Faiyum, Egypt. J. Archaeological Science
+13: 486–501.
+http://dx.doi.org/10.1016/0305-4403(86)90018-X
+Keatings, K., Holmes, J.A., Flower, R.J. Horne, D., Whittiker, J.E. & Abu-Zied, R.H. (2010) Ostracods and the Holocene
+palaeolimnology of Lake Qarun, with special reference to past human-environment interactions in the Faiyum
+(Egypt). Hydrobiologia 654: 155–176.
+http://dx.doi.org/10.1007/s10750-010-0379-4
+Krammer, K. & Lange-Bertalot, H. (1991) Bacillariophyceae, 3. Teil: Centrales, Fragilariaceae, Eunotiaceae. Band 2. In:
+Ettl, H., Gerloff, J., Heynig, H. & Mollenhauer, D. (eds), Süßwasserflora von Mitteleuropa. Gustav Fischer Verlag,
+Stuttgart, 576 pp.
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+
+HOLOCENE STEPHANODISCUS SPECIES FROM EGYPT
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 79
+
+Mansour, A.H. (2008) Natural and propagated algal flopa isolated from El-Fayum Governorate. Egyptian Journal of
+Biology 10: 54–61.
+Mueller-Wilmes, B. (1988) Diatomeen aus Holozaenen sedimenten des Fayum-Sees, Aegypten. Geologisches Institut der
+Universitat zu Koeln Sonderveroeffentlichungen, No. 4, F. Hansen, Koeln. 114 pp.
+Przybylowska-Lange, W. (1976) Diatoms from the Site E71K14, Area 1, Trench 1, upper diatomaceous silt. In: F.
+Wendorf & R. Schild (Eds), Prehistory of the Nile Valley. Academic Press, New York, pp 321–323.
+Simonsen, R. (1979) The diatom system: ideas on phylogeny. Bacillaria 2: 9–71.
+Talling, J.F., Sinada, F., Taha, O. E. & Sobhy, E.M.H. (2009) Phytoplankton: composition, development and productivity.
+In: H. J. Dumont (Ed.), The Nile, Origin, Environments, Limnology and Human Use. Monographiae Biologicae 89.
+Springer, Dordrecht, pp. 431–462.
+Theriot, E. & Håkansson, H., Kociolek, J.P., Round, F.E. & Stoermer, E.F. (1987) Validation of the centric diatom genus
+name Cyclostephanos. British Phycological Journal 22: 345–347.
+http://dx.doi.org/10.1080/00071618700650411
+Thwaites, G.H.K. (1848) Further observations on the Diatomaceae with descriptions of new genera and species. Annals
+and Magazine of Natural History, 2nd series, 1: 161–172.
+Tuji, A., Kawashima, A., Julius, M.L. & Stoermer E.F. (2003) Stephanodiscus akanensis sp. nov. a new species of extant
+diatom from Lake Akan. Bulletin of the Natural Sciences Museum of Tokyo, Series B 29: 1–8.
+Whitmore, T.J. (1989). Florida diatom assemblages as indicators of trophic state and pH. Limnology & Oceanography
+34: 882–895.
+http://dx.doi.org/10.4319/lo.1989.34.5.0882
+VanLandingham, S.L. (1967-78) Catalogue of the Fossil and Recent Genera and Species of Diatoms and their
+Synonyms. Lehre.
+
+80 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+FLOWER ET AL.
+
+

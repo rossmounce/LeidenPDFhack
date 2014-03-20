@@ -1,0 +1,1081 @@
+Phytotaxa 127 (1): 58–65 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.9
+
+Encyonema hamsherae, a new diatom species from the Northern Rocky
+Mountains, USA
+DIANE WINTER1 & LOREN BAHLS2
+1
+
+Rhithron Associates, Inc., 29 Fort Missoula Rd., Missoula, MT 59804
+Email: dwinter@rhithron.com (corresponding author)
+2
+The Montana Diatom Collection, 1032 12th Avenue, Helena, MT 59601
+
+Abstract
+A new species of Encyonema is described from the benthos of small mountain streams and rivers in western Montana
+and northern Wyoming. Previously this species had been identified incorrectly as E. hebridicum Grunow ex Cleve and
+Cymbella affinis Kützing or assigned the provisional name Encyonema sp. 1 MONTANA HAMSHER ANSP. Here we
+formally recognize this taxon as a new species, Encyonema hamsherae.
+
+Introduction
+This study introduces and describes a new Encyonema Kützing (1833: 589) species first observed in samples
+from the Pacific Northwest state of Montana in the United States. It has been previously reported under
+several other names including Cymbella affinis Kützing (1844: 80), Encyonema hebridicum (Gregory)
+Grunow in Cleve & Möller (1877: No. 37), and Encyonema sp. 1 MONTANA HAMSHER ANSP. The
+geographic locality in which it is most commonly observed is the south-central and western part of Montana
+as well as a few sites in northern Wyoming. These sites are generally in mountainous regions from smaller
+streams higher in their watersheds. This new Encyonema species may prove to be endemic to the Pacific
+Northwest and thus an indicator not only of geographic locality but of the clean, nutrient-poor low-order
+streams in which it most commonly occurs.
+
+Methods and Material
+The type sample of Encyonema hamsherae sp. nov. is composite periphyton from Shovel Creek in Madison
+County, south central Montana, 44o 50’ 38” N, 111o 59’ 43” W. This species is also found in river samples
+from several other locations around Montana and northern Wyoming. USGS NAWQA and Montana DEQ
+samples provide the sources for these other sample locations, all being collected from rocks or other solid
+substrate in riffle areas of rivers and streams. Table 1 gives the locations, elevation, stream order and number
+counted at each of these sites. All USGS NAWQA slides were prepared and analyzed following ANSP
+guidelines (Charles et al., 2002) and the Montana samples were prepared and analyzed following Bahls
+(1993) methods.
+
+58
+
+Accepted by M.B. Edlund: 7 Oct. 2011; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+TABLE 1: Site names, number of Encyonema hamsherae in an 800 valve count, elevation and geographic location of
+sites used in this study. Site 31 is the type locality.
+Site ID
+
+Site Name
+
+Count (#/800)
+
+Elevation (m)
+
+Latitude (°N)
+
+Longitude
+(°W)
+
+1
+
+Alder Gulch (lower), MT
+
+4
+
+1759.6
+
+45.2892
+
+-111.9442
+
+2
+
+Alder Gulch (upper), MT
+
+46
+
+2141.8
+
+45.2183
+
+-111.9314
+
+3
+
+Avalanche Creek, MT
+
+28
+
+1517.9
+
+46.7099
+
+-111.4913
+
+4
+
+Barr Creek, MT
+
+23
+
+1424.9
+
+47.5512
+
+-112.6065
+
+5
+
+Beaver Creek, MT
+
+49
+
+1697.7
+
+46.7439
+
+-111.4085
+
+6
+
+Belly River (lower), MT
+
+2
+
+1400.9
+
+48.9681
+
+-113.6822
+
+7
+
+Belly River, MT
+
+1
+
+1421.6
+
+48.9283
+
+-113.7183
+
+8
+
+Browns Gulch (upper), MT
+
+47
+
+1927.6
+
+45.2603
+
+-111.9725
+
+9
+
+Browns Gulch (lower), MT
+
+15
+
+1703.8
+
+45.3064
+
+-111.9744
+
+10
+
+Camas Creek, MT
+
+1
+
+1054.3
+
+48.6322
+
+-114.1056
+
+11
+
+Castle Creek (Stillwater), MT
+
+9
+
+1633.4
+
+45.4611
+
+-109.8933
+
+12
+
+Castle Creek (Wheatland), MT
+
+24
+
+1323.1
+
+46.4564
+
+-109.9325
+
+13
+
+Columbus Creek (Columbus Peak), WY
+
+31
+
+1478.9
+
+44.9114
+
+-107.3950
+
+14
+
+Divide Creek, MT
+
+1
+
+1379.8
+
+48.7453
+
+-113.4319
+
+15
+
+East Fork Ashby Creek, MT
+
+47
+
+1238.4
+
+46.8234
+
+-113.5969
+
+16
+
+Elk Creek, MT
+
+38
+
+1530.7
+
+46.6474
+
+-111.2437
+
+17
+
+Keep Cool Creek, MT
+
+1
+
+1444.8
+
+46.9764
+
+-112.6197
+
+18
+
+Logan Creek (lower), MT
+
+2
+
+1246.0
+
+48.3325
+
+-114.6536
+
+19
+
+Logan Creek (upper), MT
+
+7
+
+1327.7
+
+48.2919
+
+-114.6508
+
+20
+
+McHessor Creek, MT
+
+17
+
+1481.3
+
+45.3936
+
+-112.4203
+
+21
+
+Middle Fork Dearborn River (lower), MT
+
+6
+
+1264.0
+
+47.2103
+
+-112.2756
+
+22
+
+Middle Fork Dearborn River (upper), MT
+
+8
+
+1476.8
+
+47.1039
+
+-112.3550
+
+23
+
+Middle Fork Flathead River, MT
+
+2
+
+963.8
+
+48.5056
+
+-113.9933
+
+24
+
+North Fork Dupuyer Creek, MT
+
+14
+
+1478.6
+
+48.0942
+
+-112.7167
+
+25
+
+North Fork Flathead River, MT
+
+1
+
+962.3
+
+48.4933
+
+-114.1253
+
+26
+
+North Fork Flatwillow Creek, MT
+
+31
+
+1393.9
+
+46.8561
+
+-109.0494
+
+27
+
+North Fork Smith River, MT
+
+17
+
+1738.3
+
+46.6597
+
+-110.5905
+
+28
+
+Oregon Gulch, MT
+
+1
+
+1057.7
+
+47.1346
+
+-114.9983
+
+29
+
+Rose Creek, MT
+
+26
+
+1422.8
+
+47.5480
+
+-112.6031
+
+30
+
+Rubideau Creek trib., MT
+
+8
+
+992.4
+
+48.4989
+
+-114.0178
+
+31
+
+Shovel Creek, MT
+
+30
+
+2135.0
+
+44.8439
+
+-111.9952
+
+32
+
+Snowshoe Creek, MT
+
+20
+
+1722.1
+
+46.6844
+
+-112.4661
+
+33
+
+South Fork Birch Creek, MT
+
+2
+
+1508.2
+
+48.1344
+
+-112.8975
+
+34
+
+South Fork Dupuyer Creek, MT
+
+19
+
+1455.4
+
+48.0869
+
+-112.6933
+
+35
+
+Spring brook alongside Belly River, MT
+
+1
+
+1399.3
+
+48.9794
+
+-113.6769
+
+36
+
+Tongue River, WY
+
+7
+
+1270.4
+
+44.9137
+
+-107.2993
+
+37
+
+Lodge Grass Cr. trib., MT
+
+34
+
+1646.8
+
+45.0015
+
+-107.6834
+
+38
+
+Trout Creek, MT
+
+29
+
+1117.1
+
+46.7097
+
+-111.7997
+
+A NEW ENCYONEMA SPECIES FROM THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 59
+
+FIGURE 1: Sites in Montana and Wyoming where Encyonema hamsherae has been recorded. Numbers for each site correspond to
+those in Table 1. Circle size is proportional to number of E. hamsherae valves recorded in an 800 valve count; please refer to Table 1
+for abundance data for each site. Only those sites with associated physical and water chemistry data are listed in Table 2.
+
+FIGURE 2a:Length and width measurements of different populations of E. hamsherae sp. nov. from Montana and Wyoming, the
+range for E. hebridicum given by Krammer (1997) is shown by the rounded box.
+
+60 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WINTER & BAHLS
+
+FIGURE 2b:Dorsal and ventral striae densities of these sample populations, range for E. hebridicum (Krammer, 1997) is illustrated
+by the line in the lower left of the graph.
+
+New Species Description
+Division Bacillariophyta
+Class Bacillariophyceae Haeckel 1878
+Subclass Bacillariophycidae D.G. Mann in Round et al. 1990
+Order Cymbellales D.G. Mann in Round et al. 1990
+Family Cymbellaceae Greville 1833
+Genus Encyonema Kützing 1833
+Encyonema hamsherae Winter & Bahls sp. nov. (Figs 3–16)
+Valvae parce usque ad valde dorsiventrales. Labrum dorsuale curvum, labrum ventrale leviter convexum, termini
+porrecti et leviter capitati. Raphe recta, termini proximi leviter dorsuali modo deflexi, termini distales valde ventrali
+modo deflexi. Axialis area angusta, media area leviter extensa, stigma absens. Mediae striae leviter radiales
+evenientes paene parallelae ad terminos. Valva 19–30 µm longa, 6.5–7.5 µm lata, dorsuales mediae striae (14) 16–
+18 per 10 µm, ventrales mediae striae (11) 15–17 (18) per 10 µm.
+Valves moderately to strongly dorsiventral. Dorsal margin arched, ventral margin slightly convex, ends protracted and
+slightly capitate. Raphe straight, proximal ends slightly dorsally deflected, distal ends strongly ventrally deflected.
+Axial area narrow, central area slightly expanded, stigma absent. Striae slightly radiate in center becoming nearly
+parallel at ends. Valve length 19–30 µm, valve width 6.5–7.5 µm, dorsal central striae (14) 16–18 in 10 µm, ventral
+central striae (11) 15–17 (18) in 10 µm.
+Type:— USA. Montana: Madison County, Shovel Creek, 44o 50’ 38” N, 111o 59’ 43” W, composited periphyton sample
+collected 18 September 2002, collected by Al Nixon, Montana DEQ, (Circled specimen (Fig. 3) on slide 15–94,
+Montana Diatom Collection sample number 263001(1) (MONTU!), holotype, designated here; circled specimen
+on slide T4-11-7, Montana Diatom Collection sample number 263001(1) (MONTU), isotype, designated here).
+A NEW ENCYONEMA SPECIES FROM THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 61
+
+FIGURES 3–20: Figures 3–16, Encyonema hamsherae sp. nov. Figures 17–20. Encyonema hebridicum. Figs 3 (holotype), 4, 7, 8,
+10–13. Shovel Creek, Montana; Figs 5, 9. Castle Creek (Stillwater), Montana; Fig. 6. Tongue River, Wyoming; Figs 14–16. Trout
+Creek, Montana; Figs 17, 18. Kootenai Fen, Glacier National Park, Montana (MDC sample # 451707 (1), University of Montana
+Herbarium (MONTU) accession #39–85); Figs 19, 20. (isotype) Lulea Lappmark, Sweden (Cleve and Möller Nr. 37), Fig. 20 shows
+two focal planes of same valve. Scale bars are 10 µm unless otherwise noted.
+
+Habitat:—Lotic sites in northern Wyoming and western Montana
+Distribution:—montane northwestern United States
+
+62 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WINTER & BAHLS
+
+Etymology:—Dedicated to Dr. Sarah Hamsher
+Other Information:—Collected 18 September 2002; composited periphyton sample; collected by Al
+Nixon, Montana DEQ; Environmental data: specific conductance = 359 µS/cm; pH = 8.74; total alkalinity =
+176 mg/L; temperature = 10.4 C; dissolved oxygen = 11.41 mg/L; total phosphorus = 0.006 mg/L; nitrate +
+nitrite = 0.05 mg/L.
+
+Comparison with related taxa
+Encyonema hamsherae occurs in samples collected from streams in the northern Rocky Mountains of
+Montana and northern Wyoming. A single illustration of a morphologically similar specimen identified as
+belonging to the "Sippencomplex Encyonema hebridicum Grunow ex Cleve" in Krammer (1997; Tafel 123,
+fig. 9) led to confusion regarding morphological variability of E. hebridicum and the initial misidentifications
+of E. hamsherae. No site location is given for this single illustration so we are unable at this time to extend the
+geographic range of E. hamsherae beyond Montana and Wyoming.
+The length and width of E. hamsherae from populations in Montana are smaller than, but within the lower
+range for E. hebridicum (Fig. 2a); however, the finer striae count (Fig. 2b) and difference in overall valve
+morphology clearly distinguish this new species from E. hebridicum (Figs 16–20); one hundred and eleven
+individuals from the four most abundant populations were measured to determine the size range for this
+species. The populations of E. hamsherae differ significantly from the isotypes of E. hebridicum (Figs 19–20)
+illustrated by Krammer (1997, Tafel 121, figs 2–4) and Patrick and Reimer (1975, pl. 4, fig. 7) being smaller,
+having a higher striae count and more compact overall shape with capitate valve ends.
+The gross morphology and radiate central striae are similar to several Cymbella C.A. Agardh (1830: 1)
+species: Cymbella excisa Kützing (1844: 80) (Krammer 2002, plate 9, fig. 16), C. exigua Krammer (2002: 30,
+159, pl. 10, figs 19–22), C. affinis Kützing (Krammer & Lange-Bertalot 1986, fig. 125: 17; Krammer 2002, pl.
+21) and C. affiniformis Krammer (2002: 45, 162, , pl. 25, figs 1–8). Encyonema hamsherae differs from these
+Cymbella species by lacking a stigma, having a narrower central area, a straight rather than lateral raphe with
+opposing deflection of proximal and distal raphe endings, and generally finer striae count. The ends of E.
+hamsherae valves are always protracted and captitate, but can vary to some extent in their orientation, from
+straight to being ventrally deflected in some valves (Fig. 9).
+A common variation in morphology occurs in E. hamsherae populations from several locations. In these
+valves the ventral margin is not smoothly convex, but is somewhat flatter with several small indentations
+located along the ventral margin where the ventral striae change from radial to parallel orientation (Figs 9, 12,
+13). This morphological variation is observed more often in smaller specimens and can be present in up to 10
+percent of the population. Janus cells (McBride & Edgar 1998) are also observed in cells of various sizes, with
+often distinctly different striae density on each valve. Figure 11 illustrates both valves of a Janus cell; Figure
+11a has a central striae count of 14 in 10 µm for the dorsal side and 11 in 10 µm for the ventral side, whereas
+Figure 11b has a striae count of 17 in 10 µm for both sides.
+
+Ecology
+Encyonema hamsherae is present in many stream and river sites from northern Wyoming and western
+Montana (Figure 1). Bahls (unpubl.) has noted that E. hebridicum present in Glacier National Park occurs in
+small lakes and fens (Figs 17, 18). Examination of herbarium samples recording E. hebridicum from the
+Academy of Natural Sciences of Philadelphia confirms this observation; samples from lakes contain E.
+hebridicum and those from smaller streams (in Montana) contain E. hamsherae. Additionally, most specimens
+of E. hebridicum illustrated in Krammer (1997) are from lakes or standing waters; type material is in fossil
+material from northern Sweden.
+A NEW ENCYONEMA SPECIES FROM THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 63
+
+The largest numbers of E. hamsherae are from sites located on small headwater streams suggesting its
+preference for colder, nutrient-poor waters. Where it is rare, especially in larger streams, cells of E. hamsherae
+may have been transported to these sites from smaller upstream tributaries. This is further suggested by
+greater numbers of E. hamsherae occurring in the upstream sample of station pairs on the same stream (e.g.
+Sites 1 & 2, 8 & 9, 11 & 12). In general, Encyonema hamsherae is found at elevations ranging from about
+1000 to 2100 m. Encyonema hamsherae appears to prefer small, cold, well-oxygenated headwater streams
+with moderate levels of alkalinity and dissolved solids (Table 2). Populations with morphological features
+similar to E. hamsherae have been reported from Kentucky and the Appalachian region of eastern United
+States (K. Manoylov, pers. comm.; M. Potapova, pers. comm.). The full range of cell sizes and shapes, striae
+counts, and other features of these populations need to be examined before they can be included in E.
+hamsherae.
+TABLE 2: Site and water chemistry data associated with Encyonema hamsherae localities listed in Table 1, where
+available. Site 31 is the type locality. *Alkalinity for the Wyoming site (36) represents total calcium carbonate, whereas
+alkalinity values at Montana sites combines hydroxide + carbonate + bicarbonate. NA indicates data for this variable is
+unavailable.
+S i t e Site Name
+ID
+
+Year
+
+3
+
+Avalanche Creek, MT
+
+5
+
+pH
+
+Te m p . F l o w
+(°C)
+(cms)
+
+Cond.
+(μS/cm)
+
+DO
+(mg/L)
+
+Tot. N
+(μg/L)
+
+Tot. P
+(μg/L)
+
+Alk.
+(mg/L)
+
+2005 7.94
+
+15.7
+
+0.04
+
+451
+
+10.72
+
+600
+
+16
+
+240
+
+Beaver Creek, MT
+
+2004 8.45
+
+12.96
+
+0.08
+
+405
+
+8.84
+
+NA
+
+12
+
+220
+
+12
+
+Castle Creek, MT
+
+2004 7.8
+
+9.0
+
+0.05
+
+379
+
+9.33
+
+150
+
+2
+
+160
+
+15
+
+East Fork Ashby Creek, MT
+
+2004 8.48
+
+11.45
+
+0.06
+
+369
+
+9.93
+
+NA
+
+21
+
+230
+
+16
+
+Elk Creek, MT
+
+2004 8.35
+
+12.64
+
+0.04
+
+447
+
+9.66
+
+NA
+
+2
+
+220
+
+18
+
+Logan Creek (lower), MT
+
+2003 7.64
+
+11.26
+
+0.42
+
+262
+
+13.25
+
+270
+
+20
+
+NA
+
+19
+
+Logan Creek (upper), MT
+
+2003 7.55
+
+10.79
+
+0.14
+
+228
+
+12.25
+
+330
+
+88
+
+NA
+
+21
+
+Middle Fork Dearborn River (lower), MT 2002 8.23
+
+12.25
+
+0.27
+
+351
+
+8.94
+
+120
+
+2
+
+124
+
+22
+
+Middle Fork Dearborn River (upper), MT 2002 8.38
+
+11.43
+
+0.0039 252
+
+9.14
+
+160
+
+1
+
+90
+
+24
+
+North Fork Dupuyer Creek, MT
+
+2002 8.5
+
+8.2
+
+0.11
+
+339
+
+10.8
+
+170
+
+1
+
+150
+
+28
+
+Oregon Gulch, MT
+
+2004 7.44
+
+8.9
+
+0.41
+
+141
+
+5.38
+
+NA
+
+3
+
+110
+
+29
+
+Rose Creek, MT
+
+2009 8.45
+
+23
+
+0.00
+
+6530
+
+10.6
+
+0
+
+53
+
+464
+
+31
+
+Shovel Creek, MT
+
+2002 8.74
+
+10.4
+
+0.045
+
+359
+
+11.41
+
+160
+
+6
+
+176
+
+32
+
+Snowshoe Creek, MT
+
+2004 6.99
+
+8.84
+
+0.10
+
+277
+
+9.06
+
+NA
+
+2
+
+210
+
+33
+
+South Fork Birch Creek, MT
+
+2002 8.11
+
+8.36
+
+2.97
+
+282
+
+9.02
+
+140
+
+18
+
+102
+
+34
+
+South Fork Dupuyer Creek, MT
+
+2002 8.5
+
+12.4
+
+0.13
+
+395
+
+10.5
+
+130
+
+2
+
+198
+
+36
+
+Tongue River, WY
+
+2009 8.07
+
+2.6
+
+0.05
+
+266
+
+11.7
+
+257
+
+10
+
+133*
+
+38
+
+Trout Creek, MT
+
+2005 7.89
+
+15.3
+
+0.68
+
+438
+
+10
+
+500
+
+7
+
+190
+
+Acknowledgements
+We greatly appreciate the help of Dr. Marina Potapova at the Diatom Herbarium at the Academy of Natural
+Sciences in Philadelphia for providing isotype images of Encyonema hebridicum as well as helping find
+NAWQA samples used in the comparisons. Dr. Jeffery Stone at the University of Nebraska kindly provided
+the SEM images of Encyonema hamsherae. We also wish to thank our reviewers for the many suggestions and
+improvements they brought to the paper.
+
+64 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WINTER & BAHLS
+
+References
+Agardh, C.A. (1830) Conspectus Criticus Diatomacearum. Part 1. Lundae. Litteris Berlingianis, pp. 1–16.
+Bahls, L. (1993) Periphyton bioassessment methods for Montana streams. Montana Department of Health and
+Environmental Sciences; Water Quality Bureau, Helena, Montana, 61 pp.
+Charles, D.F, Knowles, C. & Davis, R.S. (2002) Protocols for the analysis of algal samples as part of the U.S. Geological
+Survey National Water-Quality Assessment Program. Report No. 02–06, Patrick Center for Environmental
+Research, The Academy of Natural Sciences, Philadelphia, 124 pp.
+Cleve, P.T. & Möller, J.D. (1877) Diatoms. Part I, No. 1–48. Esatas Edquists Boktryckeri, Upsala.
+Krammer, K. (1997) Die cymbelloiden Diatomeen, Eine Monographie der weltweit bekannten Taxa. Teil 2. Encyonema
+part, Encyonopsis and Cymbellopsis. Bibliotheca Diatomologica, Band 37. J. Cramer, Berlin/Stuttgart, 469 pp.
+Krammer, K. (2002) Cymbella. Diatoms of Europe: Volume 3. A.R.G. Gantner Verlag K.G, 584 pp.
+Krammer, K. & Lange-Bertalot, H. (1986) Bacillariophyceae, 1. Teil: Naviculaceae. Band 2 in: Ettl, H., Gerloff, J.,
+Heynig, H. & Mollenhauer, D. (Eds), Süßwasserflora von Mitteleuropa. Gustav Fischer Verlag, Stuttgart, 876 pp.
+Kützing, F.T. (1833) Synopsis Diatomacearum oder Versuch einer systematischen Zusammenstellung der Diatomeen.
+Linnaea 8(5): 529–620, pls. XIII–XIX.
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+McBride, S.A. & Edgar, R.K. (1998) Janus cells unveiled: frustular morphometric variability in Gomphonema
+angustatum. Diatom Research 13(2): 293–310.
+http://dx.doi.org/10.1080/0269249X.1998.9705452
+Patrick, R. & Reimer, C. (1975) Diatoms of the United States, exclusive of Alaska and Hawaii, Volume 2, Part 1.
+Monographs of the Academy of Natural Sciences of Philadelphia, No. 13.
+
+A NEW ENCYONEMA SPECIES FROM THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 65
+
+

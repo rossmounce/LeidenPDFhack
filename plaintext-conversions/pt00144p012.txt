@@ -1,0 +1,630 @@
+Phytotaxa 144 (1): 1–12 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.144.1.1
+
+New combinations in Asiatic Oxybasis (Amaranthaceae s.l.): evidence from
+morphological, carpological and molecular data
+ALEXANDER P. SUKHORUKOV1,2*, PERTTI UOTILA3, MINGLI ZHANG1,4, HONG-XIANG ZHANG1,
+ANNA S. SPERANSKAYA2 & ANASTASIYA A. KRINITSYNA2
+1
+
+Key Laboratory of Biogeography and Bioresource in Arid Land, Xinjiang Institute of Ecology and Geography, Chinese Academy of
+Sciences, Urumqi, Xinjiang, China;
+2
+Department of Higher Plants, Biological Faculty, Moscow Lomonosov State University, 119234, Moscow, Russia;
+e-mail: suchor@mail.ru;
+3
+Botany Unit, Finnish Museum of Natural History, Box 7, University of Helsinki, FI-00014 Helsinki, Finland;
+e-mail: pertti.uotila@helsinki.fi;
+4
+Institute of Botany, Chinese Academy of Sciences, Beijing, China.
+*author for correspondence
+
+Abstract
+Two new combinations are proposed in Oxybasis (Chenopodioideae, Chenopodiaceae or Amaranthaceae s.l.).
+Chenopodium micranthum, described from Russia in the 1860s and known as C. urbicum subsp. sinicum in China, is
+assigned specific rank in Oxybasis. It appears to be widespread in China, Mongolia, Kazakhstan and Asiatic Russia. The
+Siberian-Mongolian C. gubanovii, recently described as a new species in Chenopodium sect. Pseudoblitum, is also
+assigned to Oxybasis. Molecular phylogenetic analysis using maximum likelihood (ML) and maximum parsimony (MP)
+methods confirmed the placement of C. micranthum and C. gubanovii in the genus Oxybasis. Distribution maps of O.
+micrantha and O. gubanovii are provided, the latter species being reported for the first time in the Chinese part of the
+Altai Mountains. A lectotype for C. micranthum (= O. micrantha) is designated.
+Key words: Chenopodiaceae, Chenopodium, China, distribution, Kazakhstan, Mongolia, Russia, taxonomy
+
+Introduction
+Recent molecular phylogenetic studies (Kadereit et al. 2003, 2010, Fuentes-Bazan et al. 2012a) showed that
+the genus Chenopodium Linnaeus (1753: 218) is polyphyletic, and its representatives have been placed in
+several genera in the tribes Chenopodieae, incl. Atripliceae Duby (1828: 394), Anserineae Dumortier (1827:
+20) and Dysphanieae Pax (1889: 92). The taxa earlier included in Chenopodium sect. Pseudoblitum (Grenier
+& Godron (1855: 22) Syme (1868: 20) have been reassigned to the genus Oxybasis Karelin & Kirilov (1841:
+738) [O. glauca (Linnaeus (1753: 220) S.Fuentes, Uotila & Borsch, O. rubra (Linnaeus (1753: 218)
+S.Fuentes, Uotila & Borsch, O. chenopodioides (Linnaeus (1771: 170) S.Fuentes, Uotila & Borsch, O. urbica
+(L.) S.Fuentes, Uotila & Borsch, and O. macrospema (Hooker (1846: 341) S.Fuentes, Uotila & Borsch].
+Mosyakin (2013) divided Oxybasis into four sections and added two species. Furthermore, Mosyakin (2013)
+and Verloove (2013) proposed new combinations for some infraspecific taxa belonging to O. glauca and O.
+rubra.
+Oxybasis is characterised in having flowers with a hyaline or greenish perianth of 2–4(–5) free or connate
+segments, a reduced number of stamens (2–4, rarely 5) and usually red seeds with the outer layer (testa)
+impregnated with tannin-like substances and a diversely oriented seed embryo (see also Fuentes-Bazan et al.
+2012b, and Sukhorukov & Zhang 2013). However, some members of Chenopodium s.l. remain poorly known
+and their correct placement is still pending. In the present article we transfer two Asiatic taxa, C. gubanovii
+Accepted by Duilio Iamonico: 13 Oct. 2013; published: 5 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+Sukhorukov (1999: 493) and C. urbicum subsp. sinicum H.W. Kung & G.L. Chu (Kung et al. 1978: 121), from
+Chenopodium s.l. to Oxybasis.
+
+Material and methods
+Morphological and anatomical studies
+Specimens from the herbaria B, BM, E, G, H, K, KAS, LE, MHA, MOSP, MW, PE, PVB, TLT, XJA,
+XJBI (abbreviations according to Thiers 2008+) and the herbarium of Xinjiang Medicinal Institute (Urumqi)
+were revised.
+Anatomical cross-sections of fruits and seeds were cut by hand. Prior to scanning electron microscopy
+(SEM), material was dehydrated in aqueous ethyl alcohol solutions of increasing concentration and then in
+alcohol-acetone solutions and pure acetone. Observations were made using a JSM-6380 (JEOL Ltd., Japan)
+SEM at 15 kV after critical-point drying and sputter coating with gold-palladium. Non-dehydrated dry fruits
+were also examined for comparison of pericarp structure. Carpological terms used are according to Werker
+(1997).
+DNA studies
+Phylogenetic analysis
+The phylogenetic analysis was made using ITS1 sequences from specimens of O. micrantha and O. gubanovii
+(present work) coupled with NCBI data. Polygonum aviculare Linnaeus (1753: 362) was used as an outgroup.
+The aligned ITS1 length was 187 bp. DNA was extracted from the leaves of herbarium specimens of O.
+micrantha and O. gubanovii and molecular sequences obtained for the nuclear ITS1 region. Voucher
+specimens and GenBank accession numbers are as follows:
+Oxybasis micrantha: China, Burjin, woodland, 25 August 1986, Xiaoqiang Ma et al. 86-0694 sub
+Chenopodium micranthum (XJA-00032767); ITS1, 5.8S RNA, ITS2, GenBank accession number KF514654;
+Oxybasis gubanovii: Mongolia, Altay Mountains, valley of the Bulgan river, 35 km from Bulgan vill., 12
+August 1982, I. A. Gubanov 5577 sub Chenopodium gubanovii (MW); ITS 1 GenBank accession number
+KF514653.
+Vouchers for sequences other taxa downloaded from GenBank are as follows: Polygonum aviculare
+EF653684.1; Chenopodiastrum hybridum isolate AC380, HE577390.1; C. hybridum isolate AC609,
+HE577388.1; C. hybridum isolate AC521, HE577389.1; Chenopodiastrum murale isolate AC581,
+HE577404.1; C. murale isolate AC565, HE577402.1; C. murale isolate, AC383, HE577400.1; C. murale
+isolate, AC360, HE577398.1; C. murale isolate AC397, HE577394.1; C. murale isolate AC589, HE577392.1;
+C. murale isolate AC409, HE577391.1; C. murale isolate AC415, HE577396.1; Oxybasis chenopodioides
+HE577379.1; O. urbica isolate AC576, HE577384.1; O. urbica isolate AC536, HE577383.1; O. rubra isolate
+AC564, HE577382.1; O. rubra isolate AC411, HE577380.1; O. rubra isolate AC653, HE577381.1; O. rubra
+isolate AC385, HE577385.1; O. glauca isolate AC652, HE577386.1; O. glauca isolate AC417, HE577387.1.
+DNA amplification and sequencing
+For isolation of genomic DNA we used the modified method of Edwards et al. (1991). The ITS1 region
+was amplified using the combination of the newly designed primers ITS5.1 (5’-TCG AAA CCT GCC TAG
+CAG AGC-3’) and ITS4.1 (5’-CGC AAC TTG CGT TCA AAG ACT-3’) based on alignment of nrDNA
+sequences comprising ITS1, 5,8S RNA and ITS2 from Oxybasis rubra [HE577382.1, HE577380.1,
+HE577381.1, HE577385.1], O. glauca [HE577386.1, HE577387.1], O. urbica [HE577384.1, HE577383.1],
+and O. chenopodioides [HE577379.1]. The DNA template was added to the reaction mixture at a final
+concentration of 10 ng/ µl. The PCR program consisted of an initial denaturation step of 95°C for 5 min,
+followed by 35 cycles of 95°C for 15 s, 52°C for 20 s and 72°C for 20s, and a final step of 72°C for 5 min.
+Sequencing was performed using the same primers with an AbiPrism automated DNA sequencer ("Syntol",
+Moscow).
+
+2 •
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+SUKHORUKOV ET AL.
+
+Alignment and phylogenetic analysis
+ITS sequences were aligned using BioEdit 7.1.3.0. To infer phylogenetic relationships the following
+methods were used: Maximum Likelihood (ML) and Maximum Parsimony (MP). All searches were carried
+out using MEGA 5.1 (after Tamura et al. 2011). Branch support for MP and ML analyses was evaluated by
+using the nonparametric bootstrap (1000 BS replicates). Bootstrap values < 70% are considered to be weak.
+The MP tree was obtained using the Subtree-Pruning-Regrafting (SPR) algorithm with search level 1, in
+which the initial trees were obtained by the random addition of sequences (10 replicates). The Maximum
+Likelihood analysis was based on the Kimura 2-parameter model (Kimura 1980).
+
+Taxonomy
+1. Oxybasis micrantha (Trautv.) Sukhor. & Uotila, comb. nov.
+Bas.: Chenopodium micranthum Trautvetter (1868: 464). Type (lectotype, here designated by Sukhorukov &
+Uotila):―RUSSIA: Gubern. Orenburg, distr. Tscheljaba [Chelyabinsk prov.], 1868, Lossiewski 4980 (LE!) (Fig. 1).
+= Chenopodium urbicum L. subsp. sinicum Kung & G.L.Chu in Kung et al. (1978: 121). Type (holotype):―CHINA:
+Hopei [Hebei] prov., Beijing, Haihuisi, humid place, 9 October 1951, Li & Xu 0157 (PE-00024040!).
+—Chenopodium stipitatum Aellen, in schedis.
+
+Description:―Plants annual, up to 200 cm tall, glabrous. Stems angled and in part with prominent ridges,
+yellowish, only sparingly branched in basal parts if at all. Petiole to 15 cm long in the basal leaves, much
+shorter in the distal ones; blade thin, to 15(–30) cm long, longer than wide, triangular-hastate to trullate,
+usually with broadly attenuate base and spreading to slightly forward pointing, up to about 1 cm long basal
+lobe-like teeth; mid-lobe evenly tapering to acute apex, margins entire or with outward to slightly forward
+pointing teeth, heterogenic in size. Leaves becoming progressively smaller and narrower apically with
+uppermost bracts long, narrowly lanceolate and entire. Inflorescences mostly ebracteate, dense, spiciform,
+moderately branched; branches erect, with some entire bracts; secondary branches short and dense;
+glomerules 2–3 mm in diameter, loose. Flowers stipitate in fruit stage; stipes 0.2–0.5 mm. Perianth segments 5
+(sometimes 4), divided almost to the base, adjacent segments not touching, brownish-greenish, margins and
+apexes broadly membranous, mid-vein prominent and elevated inside; segments spreading and dimorphic at
+fruit stage: about 0.6 mm long, 0.3–0.4 mm broad in the apical part and 0.2 mm in the basal part, obovate,
+back without keel, and elongated, to 0.9 x 0.2 mm, lanceolate or oblanceolate, keel prominently swollen at
+apical part. Stamens 4–5. Stigmas 2, short. Fruit 0.5–0.7(–0.9) x 0.5–0.6 x 0.2–0.3 mm, pericarp scraped off
+the seed, transparent, one-layered, with mamillae to 30 μm (dry mamillae have crater-like outlines and regain
+their structure after soaking). Seeds horizontal and sometimes vertical (spatial heterospermy), round in
+outline, 0.6–0.8 mm in diameter, 0.3 mm thick, slightly convex, flat, red or reddish-black, margin keeled.
+Outer seed coat layer (testa) lustrous, smooth or undulate, about 12 μm thick and with vertical stalactites,
+inner layer (tegmen) about 1 μm; no differences were observed in testa thickness between fruits with diverse
+diameters or spatial heterospermy. Embryo curved.
+Distribution and habitat:―Oxybasis micrantha is widely distributed from the South Ural Mountains
+(Chelyabinsk Prov., on the border of Europe) to the temperate Far East and eastern China (Fig. 2). This range
+includes Kazakhstan, many provinces of Russia, Mongolia and northwestern and eastern China and
+everywhere extends to a latitude of about 50–55° N. The gap in Central China and Mongolia may reflect both
+a lack of suitable habitats and lower collecting activity.
+The large distribution area is predominantly characterised by steppe and semi-desert, but surprisingly
+many specimens of O. micrantha have been collected from moister habitats, e.g. “humid place” (type of C.
+urbicum subsp. sinicum), “marsh”, “along stream”, “near the river” and “among reed” (C. stipitatum). There
+are many finds also from saline localities and some specimens from places clearly strongly influenced by
+human activity, e.g. “railway station”, “ruderal place” and “wasteland”. A general rarity of moist and saline
+habitats may be one reason for the rarity of O. micrantha everywhere within its vast distribution area.
+NEW COMBINATIONS IN ASIATIC OXYBASIS
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+• 3
+
+Taxonomical notes:―Chenopodium micranthum was well characterized by Trautvetter (1868), who
+identified the two most important diagnostic features: the exceptionally small seeds and the spreading
+perianth segments in the fruit stage. He listed the species 16 years later (Trautvetter 1884), but since then it
+has been totally forgotten and omitted even from the synonymy of C. urbicum and other species (e.g., Iljin &
+Aellen 1936 and all later Russian floras and checklists). Herbarium specimens from Russia and Central Asia
+were in general determined as C. urbicum, and in some cases C. rubrum.
+
+FIGURE 1. Lectotype of Chenopodium micranthum Trautv. (LE!).
+
+4 •
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+SUKHORUKOV ET AL.
+
+The second attempt to untangle this enigmatic taxon was made by the late Chenopodium specialist Paul
+Aellen (1896–1973), who came across an unknown Chinese specimen loaned from K. He thought that it could
+belong to a new species, wrote a preliminary description and added a determination slip “Chenopodium
+stipitatum Aellen sp. n.; Aellen 1967”. He also removed a very small part of an inflorescence and some seeds
+for his herbarium. In addition to the fragment in an envelope, sketches of the inflorescence and leaves were
+mounted on sheet no. 24481 of Aellen’s Herbarium (now in G), and a handwritten German description of a
+new species, C. stipitatum Aellen, was added. In 2011 another fragment of this specimen was found in B. For
+some reason P. Aellen sent part of his fragment to Berlin, to Hildemar Scholz. In 2011 H. Scholz could recall
+neither the history of this specimen, nor why it was sent to him.
+Ten years later the taxon was described from China as a subspecies of Chenopodium urbicum (Kung et al.
+1978). The original description of subsp. sinicum and the emended one in the Flora of China (Zhu et al. 2003)
+also well characterize the taxon. However, this subspecies has never been identified outside of China. Before
+the description of subsp. sinicum, the taxon was generally determined as C. urbicum in China, and sometimes
+as C. hybridum. Recent Chinese collections have mostly been correctly determined, and it is reported from
+many northern provinces in Zhu et al. (2003).
+
+FIGURE 2. The distribution of Oxybasis micrantha (dots) based on the specimens seen, and O. gubanovii (triangles) based on
+Sukhorukov (1999, 2002) as well as additional Chinese specimens seen.
+
+The related O. urbica has not been well understood in the area, and in addition to O. micrantha many
+exsiccata of Chenopodium urbicum actually belong to O. rubra or O. chenopodioides. Many specimens have
+been collected in an early stage of development, and this may be a partial cause of misidentification. O. urbica
+seems to be a rare alien plant in Eastern Siberia and the Russian Far East, and it is not yet reported from the
+eastern provinces of China (Zhu et al. 2003). In the fruiting stage it is easily distinguished from O. urbica by
+its small, stipitate flowers with 5 or 4 spreading, narrow perianth segments and the smaller seeds, which are
+horizontal and vertical, reddish and keeled (Table 1). Although flowers are at first more or less sessile in both
+species, in the fruiting stage they are usually distinctly stipitate in O. micrantha and ± sessile in O. urbica. In
+
+NEW COMBINATIONS IN ASIATIC OXYBASIS
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+• 5
+
+the vegetative state O. micrantha is more difficult to recognize, because its leaf shape is quite variable. The
+leaves are in general olive (not dark) green, and thinner and larger than those of O. urbica. Teeth are usually
+only few in number and variable in size, sometimes lobe-like and often they have more acute apices and lobes.
+The bases are broadly attenuate or cuneate to ± straight, but not over 180° as is common in O. urbica.
+TABLE 1. Morphological differences between Oxybasis rubra, O. micrantha, O. gubanovii and O. urbica.
+O. rubra
+
+O. micrantha
+
+O. gubanovii
+
+O. urbica
+
+Plant height
+
+Up to 150 cm
+
+Up to 200 cm
+
+Up to 70 cm
+
+Up to 100 cm
+
+Lower leaf blade
+
+Fairly thick, to 15 cm
+long, rhombic
+
+Fairly thin, to 30 cm long,
+triangular-hastate to
+trullate
+
+Fairly thin, to 10 cm
+long, triangular to
+rhombic-triangular
+
+Fairly thick, to 20 cm
+long, ± triangular
+
+Leaf margin
+
+Coarsely serrate–
+dentate, basal teeth
+lobe-like, forwarddirected; not undulate
+
+Entire to sinuate or with
+few teeth of varying
+sizes, basal teeth
+prominent; often undulate
+
+Entire; often undulate
+
+Dentate with outwarddirected teeth, quite
+similar in size; not
+undulate
+
+Flowers in fruiting
+stage
+
+Sessile, glomerules
+dense
+
+Stipitate, glomerules
+loose
+
+Stipitate, glomerules
+loose
+
+± sessile, glomerules
+dense
+
+Perianth lobes /
+segments at fruiting
+stage
+
+(4–)5 (apical flowers)
+or 3 (lateral flowers)
+lobes, not spreading,
+unchanged, back not or
+scarcely keeled, midrib
+not visible inside
+
+4–5 segments, spreading,
+unchanged (obovate,
+back without keel) and
+elongated (lanceolate or
+oblanceolate, back with
+small tubercle), midrib
+clearly-visible and
+prominent inside
+
+2–4 segments, not
+spreading, elongated in
+fruit, oblanceolate or
+oblong, back with
+rounded tubercle,
+midrib not visible inside
+
+5, seldom 4 deeply
+divided lobes, in part
+spreading, unchanged,
+obovate, back
+somewhat swollen
+apically, midrib
+clearly visible inside
+
+Pericarp
+
+Ruptured irregularly
+and easily removed;
+not papillate (Fig. 3A)
+
+Persistent but scraped off;
+in fresh and soaked fruits
+with mamillae (Fig. 3B),
+which are crater-like in
+dry fruits
+
+Persistent and hardly
+able to be scraped off;
+in fresh and soaked
+fruits with mamillae
+(Fig. 3C), surface
+appearing smooth in dry
+fruits
+
+Persistent but easily
+scraped off; in fresh
+and soaked fruits with
+conical papillae
+(images in
+Sukhorukov & Zhang
+2013), which are
+crater-like in dry fruits
+
+Seeds
+
+0.6–0.8(–1.1) mm, red,
+flattened or slightly
+concave, margin
+obtuse or acute, testa
+with curved cell
+ornament and finepitted ultrasculpture
+(Fig. 3D)
+
+0.6–0.8 mm, red or
+reddish black, slightly
+convex, margin acute or
+keeled, testa with finepitted ultrasculpture (Fig.
+3E)
+
+0.5–0.7 mm, red,
+strongly convex
+(inflated), margin
+sharply keeled, testa
+with fine-pitted
+ultrasculpture (Fig.
+3F,G)
+
+1.0–1.2 mm, black,
+slightly convex,
+margin obtuse, testa
+with curved cell
+ornament and
+scattered pits (Fig. 3H)
+
+Embryo position
+
+Horizontal in terminal
+flowers, vertical in
+lateral ones
+
+Mostly horizontal, rarely
+vertical
+
+Almost always vertical
+
+Almost always
+horizontal
+
+Oxybasis micrantha and O. gubanovii share some common features of leaf morphology as well as having
+stipitate flowers, more or less enlarged perianth segments in the fruiting stage and small seeds. However, O.
+gubanovii is smaller, its leaves have entire margins and the seeds are almost always vertical. Important
+differences from O. rubra include stipitate flowers, almost free perianth segments and more or less similar
+terminal and lateral flowers in a glomerule.
+
+6 •
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+SUKHORUKOV ET AL.
+
+FIGURE 3. A–C: Pericarp surface under SEM after soaking and critical point drying. D–H: Seedcoat ultrasculpture. A: Oxybasis
+rubra (Russia, Tula, no date, Tsinger & Kozhevnikov 613; MW); B: O. micrantha (China, Peiping, Prince Park, 1934, Kung 3771; PE00540057); C: O. gubanovii (Mongolia, Altai, vallis fl. Bulgan, 12 August 1982, Gubanov 5577; MW); D: O. rubra (Russia, Tula, no
+date, Tsinger & Kozhevnikov 613; MW); E: O. micrantha (China, Jinghe, Tuotuo, 31 August 1957, Guan 4782 (XJBI-00005764); F–
+G: O. gubanovii (Mongolia, Altay, August 2002, Ebel & Rudaya, no voucher); H: O. urbica (Russia, Kalmykia, Chernozemelsk distr.,
+October 1996, Neronov s.n.; MW).
+
+NEW COMBINATIONS IN ASIATIC OXYBASIS
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+• 7
+
+Additional specimens examined:―CHINA. Xinjiang: Bortala, 21 August 1878, Regel s.n. (K, LE);
+Qitai, grassland, 24 July1956, R.C. Ching 655 (PE-00540073); Nanhu, 24 July 1956, Z.Ch. Chin 650 (LE);
+Xinyuan, 24 August 1957, Guan 3774 (PE-00235138); Jinghe, Tuotuo, wasteland, 31 August 1957, Guan
+4782 (PE-00540071 & XJBI-00005764); Yanqi, 13 August 1965, anonym 651413 (XJBI-00005774); Qapqal,
+humid place, 29 August 1978, Xizhi Xinjiang Team 3345 (PE-00235136); Fukang, 7 September 1978, sine
+coll s.n. (herb. Xinjang Medicinal Institute); Emin, 12 June 1986, Leng & Fuan s.n. (herb. Xinjang Medicinal
+Institute); Xinhe, 27 June 1986, Zhiqiang Lian s.n. (herb. Xinjang Medicinal Institute); Burjin, woodland, 25
+August 1986, Xiaoqiang Ma et al. 86-0694 (XJA-00032767); Inner Mongol: [Ordos] Uxin, grassland, 8
+August 1953, Fu 7201 (PE-00235139); Shansi [Shanxi] prov.: Inter Yu-tze et Tung-ya, in arenosis salsiliferis
+humidis, Linfen, ruderal, elev. 800 m, 9 October 1924, Smith 7934 (PE-00540062); Huozhou, 27 September
+1935, Wang 3873 (PE-00540060); Shensi [Shaanxi]: Near Ch’angan Hsien, Ts’aot’an, 2 July 1933, Wang
+1279 (PE-00540068); Yulin, humid place, 22 July 1953, Fu 7008 (PE-00540067); Zichang, humid place, 5
+September 1953, Fu 7605 (PE-00540065); Hopei [Hebei]: Peiping [Beijing], 15 September 1905, Yabe s.n.
+(PE-00540049); South of Peking, among reeds, 3 October 1920, Cowdry 1016 (K); Peiping, Prince Park, 29
+September 1930, Liou 1605 (PE-00540055), 1934, Kung 3771 (PE-00540057); Leting, 8 June 1950, Hou
+10148 (PE-01218912); Yongnian marshes, 12 August 1972, Yong 29 (PE-01218917), 15 September 1972,
+sine coll. 215 (PE-01218918); Yongqing, along a stream, 30 September 1972, sine coll. 97 (PE-01218915);
+Shantung [Shandong]: Zhanhua, 14 August 1955, Zhou 213 (PE-00540063); Kirin [Jilin]: Zhenlai, sandy and
+alkali land, 8 August 1959, Ren 104 (PE-00540048); Heilungkiang [Heilongjiang]: Anda, 16 September 1951,
+Skvortsov et al. 843 (PE-00540044); Tsitsikar-Charbin, in salsis, 16 September 1958, Lavrenko & Czen 62
+(LE). KAZAKHSTAN: Turgay: Bolshye Barsuki sand massive, near Chelkar, saline, 14 August 1907,
+Androsov s.n. (LE); Kostanay: Naurzum, Kos-kopa, 29 July 1900, Kucherovskaya 1692 (LE); Pavlodar:
+Bayan-Aul prov., near the river, 11 August 1955, Tzvelev et al. 1690 (LE); Kzyl-Orda: Perovsk, Karauzyak
+station, 16 August 1912, Nikolsky s.n. (LE); Semipalatinsk [Semey]: [Borodulikhinsky distr.] Aul railway
+station, 16 August1921, V.I. Vereschagin s.n. (LE); Charsk, 15 August 1928, Ovchinnikov 2239 (LE); Almaty:
+Heptapotamia, the lower reaches of the Karatal river, floodplain, 1 August 1928, Smirnov 697 (MW);
+floodplain of Aksu river, between Phragmites, 21 August 1930, Chernyakowska 523 (LE); Almaty: Talgar
+distr., southern part of Kapchagay Reservoir, 5 September 1993, Golub s.n. (TLT). MONGOLIA. North part,
+Koin-aul, 1 August 1924, Kondratyev 519 (LE); Locus ignotus: Altai australis, 1876, Potanin s.n. (LE).
+RUSSIA. Tyumen: Ishim distr., between Gavrina et Udalovo vill., saline soil, 18 August 1912, Gorodkov s.n.
+(LE); Kurgan: Mokrousovsky distr., Poloyskaya vill., weed in the vegetable garden, 28 August 1929, Inavova
+& Shikhova 2427 (LE); Tomsk: [Parabelsky distr.] valley of the Kenga river, sands, 21 July 1911, Kuznetsov
+1380 (LE); Novosibirsk: [Toguchinsky distr.], Doronino vill., 17 July 1912, Kuznetsov 1604 (LE); Barabinsk
+[without data], Vagina s.n. (MW); Altaysky krai: Barnaul distr., Borovye lakes, saline soils, 3 August 1913,
+Reverdatto s.n. (LE); Tyva Republic: confluence of Biy-Khem & Ha-khem rivers, vegetable garden, 16
+August 1916, Miklashevskaya s.n. (LE); Krasnoyarsk: Minusinsk distr., Syda river, abundant, 24 August
+1908, Volkov 294 (LE); Minusinsk, ruderal, abundant, sine die, Clemens & Pisarev s.n. (MW); Chita: Dauria
+Biosphere Reserve, 54 km SSE Nizhny Casuchey, Ulan-Nur Lake on W side of Barun-Torei, 50˚02' 22'' N,
+115˚24'45'' E", elev. 600 m, inner belt of salt marshes, 11 September 2003, Freitag 33137 (H, KAS);
+Primorsky krai: Shkotovo, Ussuri Bay near the Maihe river mouth, mollisols, 17 September 1921, Shishkin
+1401 (MHA).
+
+2. Oxybasis gubanovii (Sukhor.) Sukhor. & Uotila, comb. nov.
+Bas.: Chenopodium gubanovii Sukhor. (Sukhorukov 1999: 493). Type:―MONGOLIA. Altai Mongolinense, vallis fl.
+Bulgan ad meridiem 35 km ad pagum Bulgan in ditio Bajan-Ulegej, elev. ca. 2000 m, 12 August 1982, Gubanov
+5577 (holotype MW!, isotype LE!).
+
+Description:―Oxybasis gubanovii resembles O. urbica and O. chenopodioides especially in the following
+
+8 •
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+SUKHORUKOV ET AL.
+
+features: basally branched stems, entire leaves and habit. However, the flowers are different. They are
+characterized by 2–4 free perianth segments which become longer and thicker in the fruiting stage in O.
+gubanovii, while in the other species the perianth is more or less lobed and unchanged in fruit. The pericarp is
+hardly able to be scraped off from the seed coat and the seeds are vertical, with keeled margins (for a more
+detailed description and illustration, see Sukhorukov 1999). The carpology of this taxon is studied and
+discussed by Sukhorukov & Zhang (2013).
+Distribution:―Oxybasis gubanovii is known only from Central Asia (Mongolian and Russian Altai,
+southern Siberia and Eastern Kazakhstan), with isolated finds from the Kazakh Uplands (Sukhorukov 1999,
+2002). Its frequency is uncertain, but it is a fairly common weed in some parts of Mongolia (Alexander Ebel
+& Natalya Rudaya, pers. comm.). Now we report it also from the Chinese Altai (Fig. 2).
+Taxonomic notes:―Sukhorukov (1999) described C. gubanovii as a member of Chenopodium sect.
+Pseudoblitum, but Fuentes-Bazan et al. (2012b) did not transfer it to Oxybasis because the perianth lobes
+deviate slightly from those found in other species of sect. Pseudoblitum, and resemble to some extent those of
+the morphologically very variable genus Blitum. Subsequently, the affinity to Oxybasis was demonstrated by
+fruit and seed anatomy: carpological traits, especially seed characters such as red colour and impregnation of
+tannin-like substances (stalactites) in the outer seed coat (testa) cells correspond well with other species of
+Oxybasis (Sukhorukov & Zhang 2013).
+Additional specimens examined:―CHINA. Xinjiang: Altay Beitun, grassland, 30 August 1964, Chu et
+al. 7021 (PE-00540075); Fuyun, 28 August 1980, sine col. s.n. (herb. Xinjiang Medicinal Institute). The
+Chinese specimens were originally determined as C. urbicum.
+
+Discussion
+The inclusion of C. urbicum in the genus Oxybasis may seem incongruous due to the presence of black seeds
+with a horizontal embryo (Sukhorukov & Zhang 2013), but the morphologically most closely related species,
+O. micrantha, combines characters of O. urbica with those more typical of members of Oxybasis (presence of
+both vertical and horizontal seeds in a single individual, red seed colour, presence of mamillae on the
+pericarp). In the MP phylogenetic tree (Fig. 4), O. urbica appears in a clade (bootstrap value 79%) with O.
+gubanovii + other related Oxybasis species with hyaline perianth segments (O. chenopodioides, O. rubra, and
+O. micrantha). In the ML phylogenetic tree (Fig. 5), both O. gubanovii and O. micrantha form a clade with O.
+chenopodioides and O. rubra with moderate bootstrap support (76%). In both the MP and ML phylogenetic
+analyses, Oxybasis gubanovii and O. micrantha form a clade with other Oxybasis species with high bootstrap
+support (MP 90%, ML 99%). The sectional division of Oxybasis proposed by Mosyakin (2013) needs to be
+clarified using all species of the genus.
+The morphological delimitation of the taxa with (almost) free hyaline segments is difficult. The most
+valuable characters for identifying all the species related to O. rubra are seen at the fruiting stage and are
+connected with the perianth (which may be enlarged or otherwise), and with the fruit and seed characters. The
+table 1 shows the diagnostic characters useful for identification of the species within the group. However,
+there is one further Central and Western European taxon of uncertain affinity, C. intermedium Mertens &
+W.D.J. Koch (1826: 297) recently combined as Oxybasis rubra var. intermedia by Bock & Tison (2012),
+which requires further investigation.
+
+NEW COMBINATIONS IN ASIATIC OXYBASIS
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+• 9
+
+FIGURE 4. Parsimony cladogram inferred from ITS1 nucleotide sequences from Oxybasis sp., Chenopodiastrum murale, C.
+hybridum and C. coronopus. Bootstrap consensus tree built by Maximum Parsimony method. Bootstrap values higher than 70% are
+shown. The tree was rooted with Polygonum aviculare.
+
+Acknowledgements
+We are grateful to D. Iamonico, editor of Caryophyllales section of “Phytotaxa”, I. Belyaeva (Royal Botanic
+Gardens, Kew), M. Christenhusz (Finnish Museum of Natural History), Geoffrey Harper (Royal Botanic
+Garden Edinburgh) and Maria Kushunina (Moscow State University) for useful discussions, and to the staff of
+the herbaria visited for help and provision of working facilities and permission to obtain fruits from herbarium
+specimens. We also thank E. von Raab-Straube (Berlin-Dahlem Botanical Garden and Botanical Museum),
+who discussed the Berlin specimen with H. Scholz, and N. Bell (Finnish Museum of Natural History) for
+improving the English and discussing the molecular part of the article. The study was carried out with the
+support of an RFBR grant (11-04-00123-a) and a grant from the Chinese Academy of Sciences
+(2012T1Z0020) to A. Sukhorukov.
+
+10 •
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+SUKHORUKOV ET AL.
+
+FIGURE 5. ML phylogenetic tree of ITS1 nucleotide sequences from Oxybasis sp., Chenopodiastrum murale, C. hybridum and C.
+coronopus. Bootstrap consensus tree built by Maximum Likelihood method. Bootstrap values higher than 70% are shown.
+
+References
+Bock, B. & Tison, J.-M. (2012) Revisions nomenclaturales et taxonomiques (note n° 2). Bulletin de la Societe Botanique
+du Centre-Ouest (nouv. ser.) 43: 209–220.
+Duby, J.E. (1828) Botanicon Gallicum seu synopsis plantarum in flora gallica descriptarum, ed. 2 1. Desray, Paris, 544
+pp.
+Dumortier, B.-C. (1827) Florula Belgica. J. Casterman, Tournai, 172 pp.
+Edwards, S.K., Johonstone, C. & Thompson, C.A. (1991) Simple and rapid method for the preparation of plant genomic
+DNA for PCR analysis. Nucleic Acids Research 19: 1349.
+http://dx.doi.org/10.1093/nar/19.6.1349
+Fuentes-Bazan, S., Mansion, G. & Borsch, T. (2012a) Towards a species level tree of the globally diverse genus
+Chenopodium (Chenopodiaceae). Molecular Phylogenetics and Evolution 62: 359–374.
+http://dx.doi.org/10.1016/j.ympev.2011.10.006
+Fuentes-Bazan, S., Uotila, P. & Borsch, T. (2012b) A novel phylogeny-based generic classification for Chenopodium
+
+NEW COMBINATIONS IN ASIATIC OXYBASIS
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+• 11
+
+sensu lato, and a tribal rearrangement of Chenopodioideae (Chenopodiaceae). Willdenowia 42: 5–24.
+http://dx.doi.org/10.3372/wi42.42101
+Grenier, M. & Godron M. (1855) Flore de France 3. Besancon, Paris, 663 pp.
+Hooker, J.D. (1846) Flora Antarctica 1. Reeve, London, 574 pp.
+Iljin, M. & Aellen, P. (1936) Chenopodium. In: Komarov, V.L. (ed.) Flora URSS 6. Isdatel’stvo Akademii Nauk SSSR,
+Moskva & Leningrad, pp. 41–73.
+Kadereit, G., Borsch, T., Weising, K. & Freitag, H. (2003) Phylogeny of Amaranthaceae and Chenopodiaceae and the
+evolution of C4 photosynthesis. International Journal of Plant Sciences 164(6): 959–986.
+http://dx.doi.org/10.1086/378649
+Kadereit, G., Zacharias, E., Mavrodiev, E. & Sukhorukov, A.P. (2010) Molecular phylogeny of Atripliceae
+(Chenopodioideae, Chenopodiaceae): Implications for systematics, biogeography, flower and fruit evolution, and
+the origin of C4 photosynthesis. American Journal of Botany 97(10): 1664–1687.
+http://dx.doi.org/10.3732/ajb.1000169
+Karelin, G.S. & Kirilov, I.P. (1841) Enumeratio plantarum anno 1840 in regionibus altaicis et confinibus collectarum.
+Bulletin de la Societe Imperiale des Naturalistes de Moscou 4: 703–870.
+Kimura, M. (1980) A simple method for estimating evolutionary rate of base substitutions through comparative studies
+of nucleotide sequences. Journal of Molecular Evolution 16: 111–120.
+http://dx.doi.org/10.1007/bf01731581
+Kung, H., Chu [Zhu], G., Tsien, C., Li, A. & Ma, C. (1978) The Chenopodiaceae in China. Acta Phytotaxonomica Sinica
+16(1): 99–123.
+Linnaeus, C. (1753) Species Plantarum 1. Salvius, Stockholm, 560 pp.
+Linnaeus, C. (1771) Mantissa Plantarum. Salvius, Stockholm, 587 pp.
+Mertens, F.C. & Koch, W.D.J. (1826) J. C. Roehlings Deutschlands Flora. ed. 3 2. Friedrich Wilmans, Frankfurt am
+Main, 659 pp.
+Mosyakin, S.L. (2013) New nomenclatural combinations in Blitum, Oxybasis, Chenopodiastrum, and Lipandra
+(Chenopodiaceae). Phytoneuron 56: 1–8.
+Pax, F. (1889) Caryophyllaceae. In: Engler, A. & Prantl, K. (eds.) Die Natuerlichen Pflanzenfamilien 3. Wilhelm
+Engelmann, Leipzig, pp. 61–94.
+Sukhorukov (Suchorukow), A.P. (1999) Eine neue asiatische Chenopodium-Art aus der Sektion Pseudoblitum Hook. fil.
+(Chenopodiaceae). Feddes Repertorium 110(7–8): 493–497.
+http://dx.doi.org/10.1002/fedr.19991100707
+Sukhorukov, A.P. (2002) Floristische Beitraege zur Flora von Kasachstan. Annalen des Naturhistorischen Museums in
+Wien 104 B: 705–711.
+Sukhorukov, A. & Zhang, M. (2013) Fruit and seed anatomy of Chenopodium and related genera (Chenopodioideae,
+Chenopodiaceae/Amaranthaceae): implications for evolution and taxonomy. Plos One 8(4): 1–18.
+http://dx.doi.org/10.1371/journal.pone.0061906
+Syme, J.T.B. (1868) English Botany, ed. 3 8. R. Hartwicke, London, 296 pp.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M. & Kumar, S. (2011) MEGA5: Molecular Evolutionary
+Genetics Analysis using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods.
+Molecular Biology and Evolution 28: 2731–2739.
+http://dx.doi.org/10.1093/molbev/msr121
+Thiers, B. (2008+) [continuously updated] Index herbariorum: A global directory of public herbaria and associated staff.
+New York Botanical Garden, Bronx, NY. Available from: http://sweetgum.nybg.org/ih/ (accessed 20 June 2013).
+Trautvetter, E.R. (1868) Plantarum species novas nonnullas. Bulletin de la Societe Imperiale des Naturalistes Moscou
+41(1): 460–464.
+Trautvetter, E.R. (1884) Incrementa florae phanerogamae rossicae. Fasc. III. Acta Horti Petropolitani 9: 1–220.
+Verloove, F. (2013) A new combination in Oxybasis (Amaranthaceae). New Journal of Botany 3(1): 59–60.
+http://dx.doi.org/10.1179/2042349712y.0000000015
+Werker, E. (1997) Seed anatomy. Borntraeger Verlag, Berlin & Stuttgart, 424 pp.
+Zhu (Chu), G., Mosyakin, S.L. & Clemants, S.E. (2003) Chenopodiaceae. In: Wu, Z. & Raven, P.H. (eds.) Flora of China
+(Ulmaceae–Basellaceae) 5. Science Press & Oxford University Press, Bejing, pp. 351–414.
+
+12 •
+
+Phytotaxa 144 (1) © 2013 Magnolia Press
+
+SUKHORUKOV ET AL.
+
+

@@ -1,0 +1,1162 @@
+Phytotaxa 137 (1): 35–47 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.137.1.4
+
+Hassallia littoralis sp. nov. (Cyanobacteria, Microchaetaceae) from Mexico’s
+marine supralittoral based on morphological and molecular evidence
+LAURA GONZÁLEZ-RESENDIZ 1,2*, HILDA P. LEÓN-TEJERA1, JHOANA DÍAZ-LARREA3, LUISA
+ALBA-LOIS4 & CLAUDIA SEGAL-KISCHINEVZKY4
+1
+
+Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM). Coyoacán,
+Código Postal 04510, P.O. Box 70–474, Mexico, Distrito Federal (D.F.), Mexico
+2
+Posgrado en Ciencias Biológicas, Universidad Nacional Autónoma de México (UNAM).
+3
+Departamento de Hidrobiología. Universidad Autónoma Metropolitana-Iztapalapa. A.P. 55-535, México, D.F. 09340, México.
+4
+Departamento de Biología Celular, Facultad de Ciencias, UNAM, México D.F., México.
+* Corresponding author (mlauragonzalez@ciencias.unam.mx)
+
+Abstract
+A new species of Hassallia (Cyanobacteria, Nostocales, Microchaetaceae) from a supralittoral tropical marine biotope is
+described. Hassallia littoralis is a false-branched nostocalean cyanobacterium with caespitose free filaments or with
+fasciculated individual filaments not in a common sheath. Filaments are mainly heteropolar, bearing mono- and bi-pored
+heterocysts and isopolar or heteropolar hormogonia. The sheath is often widening, with pronounced rounded terminals.
+This new species is defined according to molecular, morphological and ecological criteria, considering data from
+different stages of its life cycle as well as the 16S rRNA partial gene sequence.
+
+Introduction
+In recent decades, many important revisions have occurred for Cyanobacteria, applying the polyphasic
+approach that generated a modern classification system (Hoffmann et al. 2005). This strategy has led to major
+advances in taxonomy and the phylogenetic cyanobacterial classification by combining the traditional
+morphological characterization with the inclusion of molecular and ecological data from cultured, and
+especially field material. This new approach has provided essential support for the modern classification
+system of cyanobacteria (Komárek 2006). Key studies such as those of Flechtner et al. (2002), Gugger et al.
+(2002), Iteman et al. (2002), Rajaniemi et al. (2005), and Komárek et al. (2012), among others, have
+contributed to support the relevance of this approach, that has produced the description of numerous new taxa,
+as well as species being transferred into different generic entities.
+The family Microchaetaceae (Nostocales) has been under intensive revision, with several new species and
+even genera being described, such as Spirirestris Flechtner & Johansen in Flechtner et al. (2002: 6), Rexia
+Casamatta, Gomez & Johansen (2006: 23), Streptostemon Sant’Anna, Azevedo, Kastovský & Komárek (2010:
+220), Ophiotrhix Sant’Anna, Azevedo, Kastovský & Komárek (2010: 218), Godleya Novis & Visnovsky
+(2011: 14), Toxopsis Lamprinou & Pantazidou in Lamprinou et al. (2012: 2872), and Calochaete Hauer,
+Bohunická & Mühlsteinová (2013: 38). Currently, the family Microchaetaceae contains 13 genera (Table 1).
+Hassallia Berkeley ex Bornet & Flahault (1886–1888: 115), Coleodesmium Borzì ex Geitler (1942: 154)
+and Tolypothrix Kützing ex Bornet & Flahault (1886–1888: 118) are genera that show some morphological
+overlapping traits, and therefore have delimitation problems. Even Hassallia and Coleodesmium have not
+been accepted in some identification manuals (Komárek et al. 2012), for instance Starmach (1966) included
+several species of Hassallia within Tolypothrix, and similar criteria were used by Bourrelly (1969, 1970).
+Similar morphotypes of Hassallia have been sometimes identified as members of genus Tolypothrix, such as
+Accepted by Saul Blanco Lanza: 29 Aug. 2013; published: 11 Oct. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+35
+
+T. bouteillei (Brébisson & Desmazières ex Bornet & Flahault) Lemmermann (1910: 219), which was recently
+included within genus Hassallia (Komárek et al. 2012) and has been recorded as the marine Hassallia
+bouteillei Brébisson & Desmazières ex Bornet & Flahault (1886–1888: 116) by Bárbara et al. (2005). In
+addition, populations of T. byssoidea (Berkeley) Kirchner in Engler & Prantl (1898: 80) are reported by
+Whitton & Potts (1979) as endolithic and chasmolithic in the Aldabra supralittoral, these probably belong to
+Hassallia byssoidea Hassall (1845: 233) in Bornet & Flahault (1888: 116).
+The supralittoral zone is a distinctive extreme biotope from the intertidal zone to the limit of terrestrial
+vegetation (Garbary 2007). This zone is inhabited by few organisms, and is considered to have one of the
+toughest physical conditions (Ramírez-Reinat, 2010). Mexican marine cyanobacteria are poorly known, with
+just a few studies describing populations of this group of organisms (León-Tejera & Montejano 2000, LópezCortés et al. 2001, Montejano & León-Tejera 2002, León-Tejera et al. 2003, 2005). Previous reports from the
+supralittoral zone in Oaxaca coasts are few, reporting dark green-brown crusts or dark green filamentous mats.
+For the supralittoral of the same region (San Agustín, Huatulco area), Scytonema cf. insulare Sant’Anna
+(1988: 528), a heterocystous cyanobacteria, which grows over a crust of Kyrtuthrix cf. maculans (Gomont
+1901: 210) Umezaki (1961: 85) and Cyanodermatium gonzalezii León-Tejera, Montejano & Cantoral-Uriza
+(2003: 365) have been reported.
+Marine species of Hassallia have not been recorded previously from Mexico; however, we have found
+conspicuous growths of epilithic black mats of this genus as the dominant taxon in the rocky supralittoral zone
+of Tangolunda bay (Tropical Pacific Mexico). The aim of this work is to describe a new species of Hassallia
+from field material collected in a particular and extreme marine biotope, using a polyphasic approach that
+combines a detailed morphological characterization of our populations as well as genotypic characteristics
+determined by 16S rRNA analysis.
+Materials and Methods
+Site description and sample collection:—This study was conducted with material collected from a granitic
+coastal cliff on the east side of Tangolunda bay (15° 46’ 24.79” N, 96° 5’ 28.32” W), within Huatulco
+National Park, located in the Tropical Mexican Pacific (TMP). Climate is warm subhumid with summer rains
+and low rainfall in winter, with an annual average temperature of 26.9 ˚C. This region has a torrential rainfall
+regime with annual values from 800 to 1500 mm, concentrated from June to October. Seawater temperature
+range is 20.5–34.4 ˚C, and salinity values 17.3–40.1 PSU, average 34.6 PSU (Granja & López-Pérez 2008).
+Tidal regime is mixed, with semidiurnal dominance. The dominant swell comes from the West and a
+component from the South during summer. 92.5% of the incident waves arrive with heights in the range of 0.3
+to 2.4 m (highest values in summer, CONANP 2003). Three samples of conspicuous microbial mat growths,
+found on nearly vertical rock walls 7 m above sea level, were collected in February 2011 with hammer and
+chisel. Each sample was divided into two subsamples, one preserved dry and the other in 4% formaline in
+seawater. Even though cultures have not been obtained, we have made an ecological, molecular and
+morphological characterization to describe these populations.
+Morphology:—For the morphological characterization of field populations, we have analysed
+micrographs obtained with an Olympus DP12 digital camera in an Olympus CX51 microscope (DIC and light
+field); epifluorescence micrographs were obtained with an Olympus Provis AX70 microscope. Transmission
+electron microscopy (TEM) images were obtained in a JEOL mod JEM 1010 microscope from live material
+after fixation in 6% glutaraldehyde in 0.1 M PBS and subsequent postfixation in 1% osmium tetroxide,
+dehydration in ethanol series and embedding in epoxy resin. Ultrathin sections were contrasted with acetate
+uranil and lead citrate according to Reynolds (1963). Morphology measurements were obtained using
+SigmaScan© automated image analysis software (Jandel Scientific, Sausalito, California) and expressed as
+means ± standard deviation of 20–40 measurements. Morphological identification was done in accordance
+with new and traditional reference works (Bornet & Flahault 1886–1888, Gardner 1927, Frémy 1930,
+Flechtner et al. 2008, Komárek et al. 2012). Komárek & Hauer (2013) was used for the systematics.
+
+36 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+GONZÁLEZ-RESENDIZ ET AL.
+
+Molecular analysis:—Total DNA was extracted from natural populations using the MoBio UltraClean
+Soil DNA Isolation Kit (MOBIO Laboratories, Inc., Carlsbad, California), according to manufacturer’s
+instructions. Quality and quantity of extracted DNA were checked on a 1% agarose gel. The 16S rRNA gene
+was partially amplified using the cyanobacteria specific primers proposed by Nübel et al. (1997) (106F,
+CYA781R, CYA781F) and Neilan et al. (1997) (CYA359F, 1494Rc). PCR conditions used for the 16S rRNA
+gene cyanobacterial amplification were as follows: 50 µl PCR reaction mix containing 1x reaction buffer, 1 µl
+of each primer (36 µmol), 1 µl of a stock solution of dNTPs (10 mM dNTPs mixture) 5 µl of MgCl2 buffer (1
+× 2.5 mM) and 1 µl of DNA polymerase (5U/µl) (Amplificasa, Biogénica, Mexico), as well as 1 µl of
+genomic DNA (10 ng DNA). Cycling conditions had an initial denaturation step of 95 °C for 7 min, followed
+by 30 cycles of denaturation at 94 °C for 0.5 min, annealing at 58 °C for 1 min, extension at 72 °C for 1
+minute and final extension at 4 °C. PCR products were visualized on a 1% agarose gel. After amplification,
+DNA was cleaned using the QIAquick® PCR purification kit (QIAGEN). Sequencing was conducted using a
+BigDye Terminator Cycle Sequencing Reaction Kit (Applied Biosystems, California) on an ABI PRISM3100
+Genetic Analyzer (Applied Biosystems, California). The same primers were used for sequencing.
+Phylogenetic analysis:—Sequences were obtained for both DNA strands, assembled and corrected into
+1307 bp fragments using Bioedit software version 7.0.9.0 (Hall 1999). Representative taxa from available
+sequences of Microchaetaceae and Scytonemataceae taxa from GenBank were used as ingroups and
+outgroups. Phylogenetic analysis was based on 20 sequences obtained from GenBank (>1100 bp fragments of
+the 16S rRNA gene) except Hassallia byssoidea type species sequence (1057 bp). These sequences included
+all those of the Hassallia species described up to date as well as sequences of representative genera of the
+family Microchaetaceae (Microchaete, Fortiea, Tolypothrix, Spirirestris, Toxopsis, Calochaete and
+Coleodesmium). Additionally, we added three sequences considered as outgroups, two belonging to
+Brasilonema and one to Scytonema (family Scytonemataceae). All sequences were aligned using the
+CLUSTAL W Multiple Sequence Alignment Program (Thompson et al. 1994) and manually edited in
+PhyDE® version 0.9971 (Müller et al. 2010). Phylogenetic relationships were inferred with Winclada (Nixon
+1999–2002) and TOPALi v2 (Milne et al. 2009). Maximum parsimony (MP) trees were constructed using the
+Ratchet search (Nixon 1999). The model used in the Bayesian analysis (B) was the Hasegawa-Kishino-Yano
+model of nucleotide substitutions with invariant sites and gamma distributed rates for the variable sites
+(HKY+I+G). This model was selected based on the Maximum Likelihood (ML) ratio test implemented by
+TOPALi version 2 software with a significance level of 0.01. For the Bayesian analysis, we ran five chains of
+the Markov chain Monte Carlo (one hot and four cold), sampling one tree every 1000 generations for 5·×106
+generations starting with a random tree. ML and MP analyses were subjected to bootstrap resampling (1000
+replicates with 10 random additions) to estimate robustness (Felsenstein 1985). The range of 16S ribosomal
+RNA gene divergence values within and among species was calculated using uncorrected “p” distances using
+PAUP* version 4.0b10 (Swofford 2002).
+
+Results
+Hassallia littoralis González-Resendiz & León-Tejera, sp. nov. (Figs. 1–25)
+Cespitose short mats brown to blackish (Figs. 1, 2), filaments cylindrical (Fig. 13), straight or curved; parallely oriented
+or intermingled, sometimes forming fascicles 200–300 µm long and 5–12 µm in diameter, without a common sheath
+(Figs. 2, 3, 20, 21). Falsely branched, branches tightly joined or irregularly divaricated to the main filament (Figs. 4,
+8, 11, 21, 24). Trichomes 3–6 µm wide (Figs. 3, 5), constricted at cross-walls (Figs. 15, 16). Cells cylindrical to
+barrel-shaped (Figs. 15, 16), shorter than wide, 3–6 µm wide, 1–3 µm long, with slightly granulated content.
+Terminal cells widely rounded, sometimes nearly spherical, hyaline to greenish or yellowish (Figs. 12, 15, 16) (2-4
+µm long × 3–6 µm wide). Sheaths firm, stratified, slender, hyaline (Fig. 16) to thick and amber or dark yellowishbrown, often widening with pronounced, rounded terminals (3–7 µm in diameter) (Figs. 11, 12, 16), generally closed
+and rarely opened at the apex (Figs. 10, 14). Heterocytes spherical, ovoid to cylindrical (Figs. 4, 5, 9, 11), 4–6 µm in
+diameter, 4–8 µm long (Fig. 5), one basal (Figs. 4, 8, 11, 19), rarely two (Fig. 9), and less frequently intercalary.
+Akinetes not detected. Reproduction by hormogonia (Figs. 6, 7, 18, 22, 23).
+HASSALLIA LITTORALIS SP. NOV.
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 37
+
+FIGURES 1–9. Morphological features of Hassallia littoralis. Fig. 1. Intermingled filaments as seen with epifluorescence. Fig. 2.
+Erect fascicle growth form with lighter terminal parts. Fig. 3. Straight or curved filament growth forms. Fig. 4. False branching with
+basal heterocytes. Fig. 5. Trichomes with evident intercalar heterocytes and polar nodules. Fig. 6. Release of short isopolar trichome
+with evident nodal constrictions. Fig. 7. Series of heteropolar and isopolar hormogones. Fig. 8. Divaricated pseudobranch with basal
+heterocyte and stratified sheath. Fig. 9. False branching with single and paired heterocytes. Scale bars: Figs 1–3: 30 μm, Figs 4–9: 6μm.
+
+38 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+GONZÁLEZ-RESENDIZ ET AL.
+
+FIGURES 10–16. Morphological features of Hassallia littoralis. Fig. 10. Terminal widening of the sheath. Fig. 11. Branched filament
+with evident cytoplasmic granules. Fig. 12. A trichome with variations in diameter bearing a darker, shortened necridial cell. Fig. 13.
+Plane view of a cylindrical trichome and filament. Fig. 14. Intense terminal EPS production by highly granulosed trichome with an
+open sheath. Fig. 15. Darkening of hyaline sheath produced probably by gelatinization. Fig. 16. A trichome of a young filament with
+necridic cells and sheath widening. Scale bars: 6 μm.
+
+HASSALLIA LITTORALIS SP. NOV.
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 39
+
+Type:—MEXICO. Oaxaca: Tangolunda bay, 15° 46’ 24.79” N, 96° 5’ 28.32” W. Marine supralittoral, León-Tejera, 2-22011 (holotype FCME! PTM9586, GenBank sequence access number KF017617, isotype UAMIZ! 1225, paratypes
+FCME! PTM9587, PTM9588).
+
+FIGURES 17–19. Hassallia littoralis TEM images. Fig. 17. Hormogonia formation through a necridic cell. Fig. 18. Young isopolar
+hormogonium with a wide stratified sheath. Fig. 19. Evident polar nodule in a basal heterocyte. Scale bars: Fig. 17: 3 μm, Fig. 18: 5
+μm, Fig. 19: 1 μm.
+
+FIGURES 20–25. Hassallia littoralis habitus. Figs 20, 21. Fasciculated growth form. Figs 22, 23. Formation of hormogonia. Fig. 24.
+Hormogonia and branch formation. Fig. 25. Production of monocyte-like cells. Scale bars: Figs 20, 21: 30 μm, Figs 22–25: 6 μm.
+
+Etymology:—The species epithet was selected according to the specific environment (marine littoral).
+Habitat:—In Tangolunda Bay, supralittoral black mats of Hassallia dominate this habitat and the three
+collected populations were epilithic mats from the rocky marine littoral. They were found growing on nearly
+vertical igneous rocks 7 m from the seaside and approximately 4–5 m above sea level, facing the sea. The
+rocks are only slightly wetted by the sea breeze and totally exposed to sunlight. Considering the maximal tidal
+heights of 2.4 m, probably they are never covered by the sea but grains of salt were found intermingled among
+filaments due to the sea breeze water evaporation. This species was found growing with several undescribed
+
+40 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+GONZÁLEZ-RESENDIZ ET AL.
+
+coccoid and LPP species (Fig. 1) but not with common filamentous non-heterocystous (Oscillatoria, Lyngbya,
+Microcoleus, Phormidium, Schizothrix) or heterocystous genera (Rivularia, Calothrix, Scytonema) typically
+described for intertidal biotopes (Brito et al. 2012).
+Observations:—Cells appearing as monocytes and short hormogonia of 2 to 10 (15) cells long (Fig. 25),
+are sometimes liberated. Young filaments and hormogonia are either isopolar (Figs. 6, 7, 24) or heteropolar
+(Figs. 9, 22). Isopolar hormogonia formation through necridic cells (Fig. 23) develop later terminal/basal
+heterocytes (Figs. 6, 7, 9, 17, 18, 22). Sheath becomes lighter or darker toward the extremes, probably due to
+terminal gelatinization (Figs. 10, 14, 15). Populations morphologically characterized are C76 (PTM9586 and
+UAMIZ1225), C77 (PTM9587) and C78 (PTM9588). The sequence was obtained from sample C76.
+Molecular and phylogenetic analyses:—A total of 24 sequences of representative taxa from available
+sequences of Microchaetaceae and Scytonemataceae deposited at GenBank were analyzed, including
+Brasilonema bromeliae DQ486055, Scytonema sp. AB093483 and Brasilonema tolantongensis JN676147 as
+outgroups and our strain. The three approaches used (MP, B and ML), produced similar clustering, therefore
+only the ML tree, with support values of ML, B and MP is shown in Fig. 26. Topology of the ML tree showed
+that the Hassallia assemblages including seven taxa are segregated into two clades supported by modest
+bootstrap values. The earliest diverging clade included H. byssoidea. The second clade included two sister
+groups: one defined by H. antarctica Komárek, Nedbalová et Hauer (2012: 770) assemblage, and the other by
+H. littoralis, H. andreassenii Komárek, Nedbalová et Hauer (2012: 768) and Coleodesmium sp. ANT (Fig.
+26). Hassallia littoralis is moderately supported by bootstrap values in ML and MP topologies, but with a
+higher value in Bayesian analysis (0.97), forming a distinct sister clade to H. andreassenii and Coleodesmium
+sp. ANT. Molecular data confirmed the distinctiveness of our tropical populations that show similarity values
+of 98.4% with H. andreassenii, 97.8-98.1% with the H. antarctica assemblage, 97.8% with H. byssoidea, and
+finally 98.5% with Coleodesmium sp. ANT.
+
+Discussion
+In the last decade the family Microchaetaceae has had important changes; the recent addition of new genericlevel taxa indicates a great activity derived from the study of new or not well known habitats, such as tropical
+or extreme ones (Flechtner et al. 2002, Cassamata et al. 2006, Sant’Anna et al. 2010, Novis & Visnovsky
+2011, Lamprinou et al. 2012, Hauer et al. 2013). These taxa were described mainly using a polyphasic
+approach including molecular methods, but when this was not possible new taxa description has been based
+on a detailed morphological and ecological characterization of populations (Sant’Anna et al. 2010). However,
+whenever possible, new species descriptions must be carried out with combined molecular, morphological
+and ecological data. The development of a logical and robust classification system is essential, this being a
+baseline for diversity estimations and ecological, taxonomical or ecophysiological interpretations (Komárek
+2006, 2010). It is considering this recommendation that we describe this new species. According to the
+revised taxonomic classification system of Komárek & Anagnostidis (1989) and Komárek & Hauer (2013), in
+terms of morphology, our populations clearly belong to the family Microchaetaceae, and correspond
+phenotypically to genus Hassallia, as they show many typical characters attributed to this genus either in its
+original description or in recent studies (Komárek et al. 2012) such as growth form, cell morphology,
+trichome polarity, type of false branching, sheath type and color, as well as reproductive structures.
+There are eleven valid and recognized Hassallia species (Table 1) (Komárek & Hauer 2013) including
+four new species described from Antarctica and desert soils biotopes (Flechtner et al. 2008, Komárek et al.
+2012) but none had been recorded from a similar biotope (tropical marine supralittoral) and geographical area
+(Table 1). In general, the lack of reports of cyanobacterial genera such as Hassallia in many geographical
+regions, and specially in marine habitats from tropical zones, is not due to its rare distribution or low
+abundance in natural communities, but to the lack of studies in habitats of very specific environmental
+conditions where cyanobacteria form frequently dominant multispecific assemblages.
+HASSALLIA LITTORALIS SP. NOV.
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 41
+
+Cespitose mats 1 mm
+
+Dark-green, Black
+
+Heteropolar uniseriate
+
+Cespitose mats
+
+Brown to Black
+
+Heteropolar, isolated
+straight and curved, or
+parallely oriented
+filaments, 200–300 µm
+long
+
+Closed, narrowing
+towards the ends
+
+Closed*
+
+Thin, narrow,
+colorless or yellow
+gold
+
+5–7
+
+Heteropolar,
+filaments easily
+separated
+
+Dark-brown
+
+Rounded mat
+
+On wet rocks
+
+H. bouteillei
+
+Irregular, solitary, short Short
+and fragile lateral
+branches
+
+Generally closed rarely
+opened, often with
+pronounced rounded
+terminal widenings
+
+Firm, stratified, slender, Thin without
+hyaline, to thick and
+lamellation, yellow,
+amber or dark
+gold to brownish
+yellowish-brown
+
+10–15
+
+Subaerophytic,
+epilithic, calcareous
+humid rocks, in
+fissures, mosses and
+humid soil and tree
+trunk
+
+Epilithic on marine
+supralittoral
+
+5–12
+
+H. byssoidea
+
+H. littoralis sp. nov.
+
+Branches tightly joined
+or irregularly
+divaricated to the main
+filament
+
+H. antarctica
+
+Branches tightly
+joined to the main
+filaments
+
+Firstly closed, later
+open, or gelatinized
+at the ends
+
+Firm, thick,
+laminated, dark
+brown, cylindrical
+
+12.4–20
+
+Heteropolar,
+fasciculated
+
+Yellow brown to
+brown
+
+Flat mats
+
+14–16
+
+Heteropolar,
+frequently singly
+pseudo–branched
+
+Dark brown
+
+Bushy
+
+Arid soil
+
+Johansen &
+Flechtner in
+Flechtner et al.
+(2008: 417)
+
+H. californica
+
+Open*
+
+Slightly and
+Fragmenting easily
+irregularly divaricated into very short
+filaments
+
+Closed
+
+Firm, relatively thick, Firm, unlamella–
+laminated, yellowish ted, colorless
+to yellow-brown
+
+11.2– 17.5
+
+Heteropolar,
+fasciculated and
+cylindrical
+
+Dark brown up to
+blackish
+
+Clusters of filaments
+
+Epilithic, calcareous Stone crevices, in
+precipitates
+water among stones
+(Antarctica)
+or on dripping rocks.
+(Antarctica)
+
+H. andreassenii
+
+H. granulata
+
+11–13.5
+
+Heteropolar,
+straight or
+somewhat arcuate.
+Diameter uniform
+
+Pale-green
+
+Flocculent
+
+Bark of tree
+
+Single, double
+
+Open*
+
+Sparse
+
+Closed
+
+Sheath thin, colorless, Very thin,
+unlamella–ted
+smooth,
+homogeneous,
+golden yellow
+
+11–20
+
+Heteropolar,
+abundantly pseudo–
+branched
+
+Green
+
+Bushy on parallel
+filaments
+
+Arid soil
+
+Gardner (1927:
+Johansen & Flechtner 82)
+in Flechtner et al.
+(2008: 417)
+
+H.
+pseudoramosissima
+
+H. manginii
+
+5–7
+
+Heteropolar,
+fragile, slightly
+flexuous to nearly
+straight. 200–250
+µm long
+
+Dark-green
+
+Mat of filaments
+
+Moderately
+frequent
+
+Closed
+
+Fragile
+
+NA
+
+Repeatedly
+branched
+translucent.
+Upright branches
+spreading
+
+Open*
+
+Gelatinous,
+narrow, thin,
+smooth outside,
+irregular
+
+13–14
+
+Heteropolar,
+filaments
+radiating from the
+center, up to 2 cm
+long
+
+Blue-green or
+black-green
+
+Cushion shaped
+rounded, semilenticular,
+reminiscent of
+Rivularia.
+
+On stones in
+streams
+
+Frémy (1930:
+294)
+
+H. pulvinata
+
+……continued on the next page
+
+Branches erect
+spreading,
+moderately long,
+curved or rarely
+straight
+
+Open*
+
+Gelatinous,
+colorless and
+cylindrical,
+yellow to brown
+and irregularly
+thickened
+
+9–11
+
+Heteropolar,
+straight-sided
+translucent
+regularly
+branched
+
+Black-brown
+
+Cushion crust
+
+On limestone
+rocks
+
+Hieronymus in
+Engler & Prantl
+(1895: 10)
+
+Bark of tree
+
+Frémy (1927: 57)
+
+H. usambarensis
+
+Smooth, homoge– Thin,
+neous, hyaline to homogeneous and
+yellowish,
+colorless
+unlamella–ted
+
+22–25
+
+Heteropolar,
+relatively short,
+compara–tively
+straight
+
+NA
+
+Sparse filaments
+
+On rocks in
+association with
+Hepaticae
+
+Gardner (1927:
+83)
+
+H. discoidea
+
+TABLE 1. Phenological characters of Hassallia species. Information gathered from Bornet et Flahault (1886–1888), Frémy (1927, 1929–1933, 1930), Gleitler (1932), Gardner (1927), Fletchner et al. (2008), and Komárek & Hauer (2007). NA: Not
+avalaible. *: Data from drawings, not included in the original descriptions.
+
+Ecology
+
+Thallus habit
+
+Thallus color
+
+Filaments
+
+Filament
+width (μm)
+
+Sheath
+
+Sheaths at
+apex
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+False
+branching
+
+42 •
+
+GONZÁLEZ-RESENDIZ ET AL.
+
+8–12
+
+Short, barrel-shaped
+
+3–6
+
+Cylindrical
+
+11 × 5–6
+
+Hemispherical to oval.
+Basal, one rarely two
+
+Spherical, ovoid to
+cylindrical. Basal one,
+rarely two. Intercalary
+rare
+
+NA
+
+Hemispherical to
+oval. Basal rare
+intercalar, single
+
+8–11 wide; 2–3 × wider 4–5
+than long
+
+3–6 × 1–3
+
+NA
+
+Olive-green
+
+4–6 ×4–8
+
+7.5–13
+
+Cylindrical, not
+constricted at crosswalls (very rarely
+slightly constricted)
+sometimes slightly
+narrowed at the
+ends
+
+H. andreassenii
+
+Cylindrical to shortly
+barrel-shaped
+
+(7.4) 8.6–12.3
+
+Cylindrical, not
+constricted up to
+slightly constricted at
+cross-walls
+
+H. antarctica
+
+NA
+
+Spherical,
+hemispherical,
+cylindrical, ovoid or
+slightly oval. Basal
+intercalary, solitary
+rarely up to 2 (3) in
+a row
+
+NA
+
+NA
+
+Hemispherical, rarely
+up to oval sometimes
+slightly complanated.
+Mainly basal,
+intercalary, (usually
+before the false
+branching), solitary or
+in pairs
+
+NA
+
+Blue-green or olive- Blue-green or olivegreen
+green
+
+Barrel-shaped,
+Cylindrical
+slightly shorter than
+wide
+
+Hyaline to greenish or
+yellowish
+
+to barrel shaped,
+sometimes granulated
+
+NA
+
+Constricted at the cross- NA
+walls, not attenuated
+towards ends
+
+at cross-walls
+
+Cylindrical, constricted
+
+H. bouteillei
+
+H. byssoidea
+
+H. littoralis sp. nov.
+
+TABLE 1. (Continued)
+
+Trichomes
+
+Trichoma
+width (μm)
+
+Cytological
+features
+
+Cell color
+
+Heterocytes
+
+Cell length
+(μm) or
+length/width
+rate
+
+Heterocytel
+ength ×
+width (μm)
+
+HASSALLIA LITTORALIS SP. NOV.
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 43
+
+NA
+
+Oval. First
+developing
+intercalary, single
+or paired
+
+1.6–3.2
+
+Blue-green to dark
+olive
+
+H. granulata
+
+8–14
+
+Constricted to very
+slightly constricted
+
+One-third to onefourth the
+diameter long
+
+Golden yellow
+
+9–11 × 7–9
+
+NA
+
+Compressed
+Subglobose to
+rectangular. Basal and compressed.
+intercalar
+Mostly terminal
+
+(2)–3–9
+
+Bright blue-green
+
+Densely
+granulated
+
+10–12
+
+Very slightly
+constricted
+
+Gardner (1927:
+Johansen & Flechtner 82)
+in Flechtner et al.
+(2008: 417)
+
+H.
+pseudoramosissima
+
+One-seventh to one- Shorter than wide
+fourth as long as
+broad
+
+11–12
+
+Constricted at the
+cross- walls
+
+Johansen &
+Flechtner in
+Flechtner et al.
+(2008: 417)
+
+H. californica
+
+H. manginii
+
+4.5–6.0
+
+Green
+
+Little shorter than
+the diameter or
+almost
+
+NA
+
+Same size as the
+cells
+
+Slightly larger
+than the
+vegetative cells
+
+NA
+
+Solitary, rarely in
+pairs. Nearly
+spherical or
+hemisphe–rical.
+Basal
+
+Length is half the
+width
+
+Olive green
+
+Cells almost
+square
+
+4–5
+
+Slightly
+constricted at the
+cross- walls
+
+Hieronymus in
+Engler & Prantl
+(1895: 10)
+
+NA
+
+Frémy (1927: 57)
+
+H. usambarensis
+
+Discoidal, golden Subglobose or
+yellow, numerous. depressed-globose
+Basal and
+intercalary*
+
+4–6 or slightly
+longer in the
+oldest parts
+
+Bright blue-green
+or methyl green
+
+Discoidal, finely
+granulated
+
+17–20
+
+Constricted at the
+dissepi–ments,
+uniform
+throughout the
+entire length
+
+Gardner (1927:
+83)
+
+H. discoidea
+
+NA
+
+Hemispherical or
+disc-shaped. Basal
+rarely intercalar
+
+Cells 0.3–0.6
+usually ½ times as
+long as wide
+
+Pale blue-green or
+pale yellowbrown
+
+Barrel-shaped*
+
+10–12
+
+Constricted at the
+cross-walls
+
+Frémy (1930:
+294)
+
+H. pulvinata
+
+This new species of Hassallia is phenotypically distinguished from all other species of the genus (Table 1)
+mainly by growth form, cell and trichome dimensions and distinctive sheath features: terminal part widening,
+funnel-like or “wing-like” (Figs. 15, 16, 24, 25), with evident gelatinization. In adittion, it differs from the rest
+of species of this genus in its specific habitat. Only few species of Hassallia had been sequenced to date (H.
+byssoidea, H. andreassenii and H. antartica assemblage); the difference of 16S rRNA genetic similarity
+among these strains and our population was 1.6–2.2%. The morphological and biotope differences, as well as
+the high levels of genetic variation between our populations from those three species, support the proposal of
+our population as a new taxon within genus Hassallia.
+In our tree topology, H. littoralis formed a distinctive and well-supported clade within the Hassallia genus
+using Bayesian analysis. Hassallia byssoidea (type species) appears as a basal group, and H. andreassenii and
+Coleodesmium sp. ANT, form a sister clade to H. littoralis. The phylogenetic position of Coleodesmium sp. ANT
+(Taton et al. 2006) is within the Hassallia cluster, and phylogenetically close to H. andreassenii (Fig. 26), similar
+to results obtained by Komárek et al. (2012). Interestingly, both Coleodesmium sp. ANT and H. andreassenii
+have been isolated from Antarctica, therefore further studies are needed to compare these two strains.
+
+FIGURE 26. Maximum-likelihood tree based on the analysis of 16S rRNA gene of representatives of the families Scytonemataceae
+and Microchaetaceae showing the position of the sequence obtained in the present study (in bold). Numbers at nodes indicate
+bootstrap values ≥ 50% for Maximum Parsimony (left), Maximum Likelihood analysis (medium) and Bayesian posterior probabilities
+(right) values.
+
+44 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+GONZÁLEZ-RESENDIZ ET AL.
+
+The identity of H. littoralis is moderately supported by bootstrap values in ML and MP topologies.
+Similar modest support values have been documented in Microchaetaceae by Cassamatta et al. (2006);
+Berrendero et al. (2011), Komárek et al. (2012), Lamprinou et al. (2012) and Hauer et al. (2013), the scarce
+number of sequences available in this group probably influences these values. According to Berrendero et al.
+(2011) and Hauer et al. (2013), the Microchaetaceae family needs a more detailed analysis of its members.
+Our analysis supports this opinion, we consider that further inventory studies are still necessary, particularly in
+tropical and extreme areas, which have shown to have a notorious diversity of previously undescribed
+cyanobacteria (Komárek & Komárková 2007).
+
+Acknowledgments
+The authors thank M. Sc Alejandro Martínez Mena and Msc Reyna Lara Martínez for their extraordinary
+technical assistance with epifluorescence and TEM images respectively, Laura Márquez Valdelamar for
+sequencing products, UNAM-DGAPA-PAPIIT IN221410 for financing this research, Mónica Peralta
+Caballero for images edition, Cynthia Reyes Valdez and Alonso López Toledo for illustrations, and Itzel
+Becerra and Aristides Sampieri for helping in the molecular techniques. This paper constitutes a partial
+fulfilment of L. González-Resendiz within the Graduate Program in Biological Sciences of the National
+Autonomous University of Mexico (UNAM). The first author acknowledges financial support provided by the
+National Council of Science and Technology (CONACyT) and UNAM. The authors would like to thank
+anonymous referees for their comments leading to improve the manuscript.
+
+References
+Bárbara, I., Cremades, J., Calvo, S., López-Rodríguez, C. & Dosil, J. (2005) Checklist of the benthic marine and brackish
+Galician algae (NW Spain). Anales del Jardín Botánico de Madrid 62: 69–100.
+http://dx.doi.org/10.3989/ajbm.2005.v62.i1.32
+Berrendero, E., Perona, E., Mateo, P. (2011) Phenotypic variability and phylogenetic relationships of the genera
+Tolypothrix and Calothrix (Nostocales, Cyanobacteria) from running water. International Journal of Systematic and
+Evolutionary Microbiology 61: 3039–3051.
+http://dx.doi.org/10.1099/ijs.0.027581-0
+Bornet, É. & Flahault, C. (1886–1888) Revision des Nostocacées hétérocystées contenues dans les principaux herbiers
+de France. Annales des Sciences Naturelles, Botanique, Trosiéme Série 7: 51–129.
+Brito, A., Ramos, V., Seabra, R., Santos, A., Santos, C.L., Lopo, M., Ferreira, S., Martins, A., Mota, R., Frazão, B., Martins,
+R., Vasconcelos, V. & Tamagnini, P. (2012) Culture-dependent characterization of cyanobacterial diversity in the
+intertidal zones of the Portuguese coast: a polyphasic study. Systematic and Applied Microbiology 35: 110–119.
+http://dx.doi.org/10.1016/j.syapm.2011.07.003
+Bourrelly, P. (1969) Quelques remarques sur la classification des algues bleues: Stigonematales et Oscillatoriales.
+Verhandlungen des Internationalen Verein Limnologie 17: 757–760.
+http://dx.doi.org/10.1007/bf01379627
+Bourrelly, P. (1970) Les algues d´eau douce Initiation à la systématique. Tome III. Boubée & Cie., Paris, 512 pp.
+Casamatta, D., Gomez, S. & Johansen, J. (2006) Rexia erecta gen. et sp. nov. and Capsosira lowei sp. nov., two newly
+described Cyanobacterial taxa from the great smoky mountains national park (USA). Hydrobiologia 561: 13–26.
+http://dx.doi.org/10.1007/s10750-005-1602-6
+CONANP (2003) Programa de manejo Parque Nacional Huatulco. CONANP (Comisión Nacional de Áreas Naturales
+Protegidas), México, 205 pp.
+Engler, A. & Prantl, K. (1892) Die natürlichen Pflanzenfamilien. Wilhelm Engelmann, Leipzig, pp. 45–92.
+http://dx.doi.org/10.1086/330155
+Engler, A. & Prantl, K. (1895) Die Pflanzenwelt Ost-Afrikas und der Nachbargebiete. Geographische Verlagshandlung
+Dietrich Reimer, Berlin, 523pp.
+Felsenstein, J. (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39: 783–791.
+http://dx.doi.org/10.2307/2408678
+Flechtner, V., Boyer, S., Johansen, J. & DeNoble, M. (2002) Spirirestis rafaelensis gen. et sp. nov. (Cyanophyceae), a
+HASSALLIA LITTORALIS SP. NOV.
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 45
+
+new cyanobacterial genus from arid soils. Nova Hedwigia 74: 1–24.
+http://dx.doi.org/10.1127/0029-5035/2002/0074-0001
+Flechtner, V., Johansen, J. & Belnap, J. (2008) The biological soil crusts of the San Nicolas Island: enigmatic algae from
+a geographically isolated ecosystem. Western North American Naturalist 68: 405–436.
+http://dx.doi.org/10.3398/1527-0904-68.4.405
+Frémy, P. (1927) Les Scytonématacées de la Normandie. Bulletin de la Société Linnéenne de Normandie Caen 9: 55–58.
+Frémy, P. (1929–1933) Les Cyanophycées des Côtes d’Europe. Memoires de la Societé Nationale des Sciences
+Naturelles et Mathématiques de Cherbourg 41: 1–234.
+Frémy, P. (1930) Les Myxophycées de l’Afrique équatoriale française. Archives de Botanique, Mémoires 3: 1–508.
+Garbary, D. (2007) The margin of the sea: survival at the top of the tides. In: Seckbach, J. (ed.) Algae and Cyanobacteria
+in extreme environments. Springer, Berlin, pp. 175–191.
+http://dx.doi.org/10.1007/978-1-4020-6112-7_9
+Gardner, N.L. (1927) New Myxophyceae from Porto Rico. Memoirs of the New York Botanical Garden 7: 1–144.
+Geitler, L. (1932) Cyanophyceae. Kryptogamen Flora von Deutschland, Österreich und der Schweiz 14: 1–1196.
+http://dx.doi.org/10.1038/130292a0
+Geitler, L. (1942) Schizophyta: Klasse Schizophyceae. In: Engler, A. & Prantl, K. (eds.) Die natürlichen
+Pflanzenfamilien, Sweite Auflage, Vol.1b. Wilhelm Engelmann, Leipzig, pp. 1–232.
+Gomont, M. (1901) Myxophyceae hormogoneae. Botanisk Tidsskrift 24: 202–211
+Granja, M. & López-Pérez, A. (2008) Sedimentación en comunidades arrecifales de Bahías de Huatulco, Oaxaca,
+México. Revista de Biología Tropical 56: 1179–1187.
+Gugger, M., Lyra, C., Henriksen, P. & Coute, A. (2002) Phylogenetic comparison of the cyanobacterial genera Anabaena
+and Aphanizomenon. International Journal of Systematic and Evolutionary Microbiology 52: 1867–1880.
+http://dx.doi.org/10.1099/ijs.0.02270-0
+Hall, T.A. (1999) BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/
+98/NT. Nucleic Acids Symposium Series 41: 95–98.
+Hassall, A.H. (1845) A History of the British Freshwater Algae. Highley, London, 462 pp.
+Hauer, T., Bohunická, M. & Mühlsteinová, R. (2013) Calochaete gen. nov. (Cyanobacteria, Nostocales), a new
+cyanobacterial type from the “páramo” zone in Costa Rica. Phytotaxa 109: 36–44.
+http://dx.doi.org/10.1099/ijs.0.02270-0
+Hoffmann, L., Komárek, J. & Kastovsky, J. (2005) System of Cyanoprokaryotes (Cyanobacteria): state in 2004. Archiv
+für Hydrobiologie/Algological Studies 117: 95–115.
+http://dx.doi.org/10.1127/1864-1318/2005/0117-0095
+Iteman, I., Rippka, R., Tandeau de Marsac, N. & Herdman, M. (2002) rDNA analyses of planktonic heterocystous
+cyanobacteria, including members of the genera Anabaenopsis and Cyanospira. Microbiology 148: 481–496.
+Komárek, J. (2006) Cyanobacterial taxonomy: current problems and prospects for the integration of traditional and
+molecular approaches. Algae 21: 349–375.
+http://dx.doi.org/10.4490/algae.2006.21.4.349
+Komárek, J. (2010) Recent changes (2008) in Cyanobacteria taxonomy based on a combination of molecular background
+with phenotype and ecological consequences (genus and species concept). Hydrobiologia 639: 245–259.
+http://dx.doi.org/10.1007/s10750-009-0031-3
+Komárek, J. & Anagnostidis, K. (1989) Modern approach to the classification system of cyanophytes. 4. Nostocales.
+Archiv für Hydrobiologie/Algological Studies 56: 247–345.
+Komárek, J. & Hauer, T. (2007) Three rare cyanobacterial species in the Podyjí National Park. Thayensia (Znojmo) 7:
+75–83.
+Komárek, J. & Hauer, T. (2013) CyanoDB.cz - On-line database of cyanobacterial genera. Univ. of South Bohemia &
+Inst. of Botany AS CR. Available at http://www.cyanodb.cz (accessed 25 May 2013).
+Komárek, J. & Komárková, J. (2007) Taxonomic evaluation of the cyanobacterial microflora from alkaline marshes of
+northern Belize. 1. Phenotypic diversity of coccoid morphotypes. Nova Hedwigia 84: 65–111.
+http://dx.doi.org/10.1127/0029-5035/2007/0084-0065
+Komárek, J., Nedbalová, L. & Hauer, T. (2012) Phylogenetic position and taxonomy of three heterocytous cyanobacteria
+dominating the littoral of deglaciated lakes, James Ross Island, Antarctica. Polar Biology 35: 759–774.
+http://dx.doi.org/10.1007/s00300-011-1123-x
+Lamprinou, V., Skaraki, K., Kotoulas, G., Economou-Amilli, A. & Pantazidou, A. (2012) Toxopsis calypsus gen. nov., sp.
+nov. (Cyanobacteria, Nostocales) from cave “Francthi”, Peloponnese, Greece: a morphological and molecular
+evaluation. International Journal of Systematic and Evolutionary Microbiology 62: 2870–2877.
+http://dx.doi.org/10.1099/ijs.0.038679-0
+Lemmermann, E. (1910) Algen I (Schizophyceen, Flagellaten, Peridineen). Kryptogamenflora der Mark Brandenburg
+und angrenzender Gebiete 3: 497–712.
+http://dx.doi.org/10.5962/bhl.title.4953
+
+46 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+GONZÁLEZ-RESENDIZ ET AL.
+
+León-Tejera, H. & Montejano, G. (2000) Dermocarpella (Cyanoprokaryota/Cyanophyceae /Cyanobacteria) from the
+Pacific coast of Mexico. Cryptogamie Algologie 21: 259–272.
+http://dx.doi.org/10.1016/s0181-1568(00)00118-5
+León-Tejera, H., Montejano, G. & Cantoral-Uriza, E. (2003) Some little know Hydrococcaceae (Cyanoprokariota) from
+Central Mexico. Archiv für Hydrobiologie/Algological Studies 109: 363–374.
+http://dx.doi.org/10.1127/1864-1318/2003/0109-0363
+León-Tejera, H., Montejano, G. & Gold-Morgan, M. (2005) Description of two interesting Scytonematacean populations
+from supratidal biotopes of the Mexican Pacific. Archiv für Hydrobiologie/Algological Studies 117: 307–313.
+http://dx.doi.org/10.1127/1864-1318/2005/0117-0307
+López-Cortés, A., Garcia-Pichel, F., Nübel, U. & Vázquez-Juárez, R. (2001). Cyanobacterial diversity in extreme
+environments in Baja California, Mexico: a polyphasic study. International Microbiology 4(4): 227–236.
+http://dx.doi.org /10.1007/s10123-001-0042-z
+Milne, L., Lindner, D., Bayer, M., Husmeier, D., McGuire, G., Marshall D.F. & Wright. F. (2009) TOPALi v2: a rich
+graphical interface for evolutionary analyses of multiple alignments on HPC clusters and multi-core desktops.
+Bioinformatics 25: 126–127.
+http://dx.doi.org/10.1093/bioinformatics/btn575
+Montejano, G. & León-Tejera, H. (2002) Reproduction and baeocyte formation in two species of Dermocarpella
+(Cyanophyceae). European Journal Phycology 37: 323–327.
+http://dx.doi.org/10.1017/s0967026202003803
+Müller, K., Quandt, D., Müller, J. & Neinhuis, C. (2010) PhyDE® 0.983: Phylogenetic Data Editor. Available at http://
+www.phyde.de.(Accessed November 2012).
+Neilan, B., Jacobs, D., Del Dot, T., Blackall, L., Hawkins, P., Cox, P. & Goodman, E. (1997) rRNA sequences and
+evolutionary relationships among toxic and nontoxic cyanobacteria of the genus Microcystis. International Journal
+of Systematic Bacteriology 47: 693–697. http://dx.doi.org/10.1099/00207713-47-3-693
+Nixon, K.C. (1999) The parsimony ratchet, a new method for rapid parsimony analysis. Cladistics 15: 407–414.
+http://dx.doi.org/10.1111/j.1096-0031.1999.tb00277.x
+Nixon, K.C. (1999–2002) WinClada ver. 1.0000. Ithaca.
+Novis, P.M. & Visnovsky, G. (2011) Novel alpine algae from New Zealand: Cyanobacteria. Phytotaxa 22: 1–24.
+http://dx.doi.org/10.1080/0028825x.2011.563423
+Nübel, U., Garcia-Pichel, F. & Muyzer, G. (1997) PCR Primers to amplify 16S rRNA genes from Cyanobacteria. Applied
+and Environmental Microbiology 63: 3327–3332.
+Rajaniemi, P., Hrouzek, P., Kastovská, K., Willame, R., Rantala, A., Hoffmann, L., Komárek, J. & Sivonen, K. (2005)
+Phylogenetic and morphological evaluation of the genera Anabaena, Aphanizomenon, Trichormus and Nostoc
+(Nostocales, Cyanobacteria). International Journal of Systematic and Evolutionary Microbiology 55: 11–26.
+http://dx.doi.org/10.1099/ijs.0.63276-0
+Ramírez-Reinat, E. (2010) How Cyanobacteria Bore. Arizona State University, Phoenix, 150 pp.
+Reynolds, E. (1963) The use of lead citrate at high pH as an electron-opaque stain in electron microscopy. The Journal of
+Cell Biology 17: 208–212.
+http://dx.doi.org/10.1083/jcb.17.1.208
+Sant’Anna, C. (1988) Scytonemataceae (Cyanophyceae) from the state of San Paulo, southern Brazil. Nova Hedwigia 46
+: 519–539.
+Sant’Anna, C., Acevedo, T., Kastovsky, J. & Komárek, J. (2010) Two form-genera of aerophytic heterocytous
+cyanobacteria from Brasilian rainy forest, “Mata Atlântica”. Fottea 10: 217–228.
+Starmach, K. (1966) Cyanophyta-sinice- Flora. Slodkovodna Polski 2: 1–808.
+Swofford, D.L. (2002) PAUP. Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4. Sinauer
+Associates, Sunderland.
+Taton, A., Grubisic, S., Ertz, D., Hodgson, D., Piccardi, R., Biondi, N., Tredici, M., Mainini, M., Losi, D., Marinelli, F. &
+Wilmotte, A. (2006) Polyphasic study of antarctic Cyanobacterial strains. Journal of Phycology 42: 1257–1270.
+http://dx.doi.org/10.1111/j.1529-8817.2006.00278.x
+Thompson, J., Higgins, D. & Gibson, T. (1994) CLUSTAL W: improving the sensitivity of progressive multiple
+sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice. Nucleic
+Acids Research 11: 4673–4680.
+http://dx.doi.org/10.1093/nar/22.22.4673
+Umezaki, I. (1961) The marine blue-green algae of Japan. Memoirs of the College of Agriculture, Kyoto University 83:
+1–149.
+Whitton, B. & Potts, M. (1979) Blue-green algae (Cyanobacteria) of the oceanic Coast of Aldabra. Atoll Research
+Bulletin 238: 1–8.
+http://dx.doi.org/10.5479/si.00775630.238.14
+
+HASSALLIA LITTORALIS SP. NOV.
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 47
+
+

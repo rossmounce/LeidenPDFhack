@@ -1,0 +1,450 @@
+Phytotaxa 159 (1): 011–016
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.159.1.2
+
+Nomenclatural priority of the diatom name Fryxelliella sepulvedana over
+Fryxelliella paciﬁca (Triceratiaceae, Bacillariophyta)
+JOSÉ ANTOLIN AKÉ-CASTILLO 1 , MARÍA ESTHER MEAVE DEL CASTILLO 2 & MARÍA EUGENIA
+ZAMUDIO-RESENDIZ2
+1
+
+Instituto de Ciencias Marinas y Pesquerías. Universidad Veracruzana. Calle Hidalgo No. 617 Col. Río Jamapa C.P. 94290. Boca del
+Río, Veracruz, México.
+E-mail: aake@uv.mx (corresponding author)
+2
+Universidad Autónoma Metropolitana Iztapalapa. Av. San Rafael Atlixco 186. Col. Vicentina. C. P. 09340. México, D. F. México
+
+Abstract
+In 2008 two new species belonging to the genus Fryxelliella were described: F. sepulvedana and F. pacifica. They were
+based on material collected in the Pacific Ocean and were both different from Fryxelliella floridana, the type species of
+the genus. Examination of holotype and additional material for F. sepulvedana and F. pacifica was carried out.
+Comparisons confirmed that F. sepulvedana and F. pacifica are both the same species. Only one valid name can be
+assigned to any taxon and reasons are given to demonstrate that the valid name should be Fryxelliella sepulvedana.
+Key words: diatom, Fryxelliella, nomenclature, ocelli, Pacific Ocean, priority, synonymy
+
+Introduction
+The genus Fryxelliella A.K.S. Prasad, K. Riddle & Livingston (1997: 306) was erected by Prasad et al. (1997) for
+two species of diatoms they considered similar to Eupodiscus Bailey (1851: 39). Until 2007 Fryxelliella was
+monotypic as one of the two species, Fryxelliella inconspicua (Rattray) A.K.S. Prasad in A.K.S. Prasad, K. Riddle
+& Livingston (1997: 309; basionym: Eupodiscus inconspicuus Rattray 1888: 911), had been removed to
+Praetriceratium P.A. Sims (2001: 404). Subsequently, Prasad & Nienow (2008) provided an emended description
+of Fryxelliella and in 2008 two further species were described from the Pacific Ocean, Salina Cruz coast in the
+Gulf of Tehuantepec, Mexico: F. sepulvedana Meave, Zamudio & Fernandez (Meave et al. 2008: 179) and F.
+pacifica Hernández-Becerril & Barón-Campis (Hernández-Becerril & Barón-Campis 2008: 150).
+In Fryxelliella sepulvedana the position and size of the ocelli was noted as the most distinctive character that
+differentiated it from Fryxelliella floridana A. K. S. Prasad (1997: 306), the type species of the genus. Other
+characters, such as the structure of cribra, density of the sub-triangular apertures, and continuity of the sipho
+marginalis were also mentioned (Meave et al. 2008). Fryxelliella pacifica was differentiated from F. floridana by
+the size and shape of the cell, size location and morphology of ocelli, shape and density of the sub-triangular
+marginal apertures and the external morphology of rimoportulae (Hernández-Becerril & Barón-Campis 2008).
+These data justified the creation of a new species different from F. floridana but they describe one species not two.
+As both F. sepulvedana and F. pacifica were published in the same year, neither set of authors was aware of the
+duplication. This paper reviews the evidence and type material of both Fryxelliella sepulvedana and F. pacifica.
+
+Material and methods
+Type material of Fryxelliella sepulvedana and F. pacifica is present in MEXU (National Herbarium at Biology
+Institute of Autonomous National University of Mexico).
+Slides were observed using a compound microscope (Olympus BX50) in bright field and phase contrast with
+integrated digital camera (light microscopy = LM). Photographs were obtained at 40x and 100x magnifications.
+Measurements were made with a calibrated ocular at 10x, 40x and 100x in a compound microscope (Zeiss).
+Accepted by David M. Williams: 6 Dec. 2013; published: 7 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+11
+
+Material collected from Los Cabos, Baja California Sur, México in October 2006, was rinsed to remove salts
+and fixatives and the specimens were then mounted for scanning electron microscope (SEM) using a JEOL JSM5900LV.
+Comparisons of morphological characters and diagnostic features were made using data from the literature as
+well as new observations on holotype and isotype specimens.
+The International Code of Nomenclature for algae, fungi, and plants (Melbourne Code) was consulted for the
+current rules of priority and effective and valid publication (McNeill et al. 2012; http://www.iapt-taxon.org/nomen/
+main.php) so as to establish the priority of either Fryxelliella sepulvedana or F. pacifica as the valid name.
+Abbreviations used: Light microscopy (LM); scanning electron microscopy (SEM).
+
+Taxonomic results
+Fryxelliella sepulvedana Meave, Zamudio & L. F. Fernandes (2008: 179)
+Synonym: Fryxelliella pacifica Hernández-Becerril & Barón-Campis (2008: 150)
+Type:—MEXICO: Salina Cruz coast in the Gulf of Tehuantepec, Pacific Ocean (MEXU 1837!, holotype of Fryxelliella
+sepulvedana; MEXU 1838!, MEXU 1839!, MEXU 1840!, MEXU 1841!, isotypes of Fryxelliella sepulvedana; MEXU
+1705!, holotype of Fryxelliella pacifica).
+
+Diagnostic character: Valve with 3 large ocelli separated from valve margin by 3–6 areolae (Figs 1, 2, 4, 5, 8;
+characters observed easily by LM).
+General description (LM): Valves circular with diameter of 37–75 µm (Figs 1, 4, 7, 8). Central areolae larger
+than elsewhere on valve; areolae radiate from centre of valve to margin. 3 ocelli with diameter of 2.5–5 µm (Figs 4,
+8), separated from margin by 5–10 µm (or 3–6 areolae) (Figs 2, 5). Three rimoportulae adjacent to sipho
+marginalis, each equally spaced between ocelli (Figs 4, 7). Sometimes 2 rimoportulae occur between ocelli (slide
+MEXU 1840). Sipho marginalis visible as hyaline ring (Figs 2, 3, 5, 6, 8) with sub-triangular holes, density of 8–
+11 in 10 µm (Figs 3, 6). Ocelli of epivalve coinciding with rimoportulae of hypovalve (Fig 7). All 6 ocelli
+distinguishable in complete frustule in valve view (Fig. 7); frustules less broad in girdle view.
+SEM: Details recorded in Meave et al. (2008) and Hernández-Becerril & Barón-Campis (2008). Careful
+observations of the external structure of the rimoportulae indicate that these are single tubes without ornamentation
+and with the base surrounded by granules (Figs 9, 10).
+
+Discussion
+Taxon characters: Comparison of the morphological characters for species of Fryxelliella shows that the characters
+of F. sepulvedana and F. pacifica describe the same species. Examination of the two slides labeled for the holotypes
+of F. sepulvedana (MEXU 1837) and F. pacifica (MEXU 1705) was limited to one valve per species.
+Measurements made on these specimens confirmed the information provided in the original descriptions, although
+for Fryxelliella pacifica (MEXU 1705) the diameter was larger than that of the figure indicated as iconotype: 47
+µm for the specimen in figures 2 and 3 (Hernández-Becerril & Barón-Campis 2008); 75 µm for the actual holotype
+specimen on MEXU 1705. Examination of material labeled as isotypes (MEXU 1838, MEXU 1839, MEXU 1840,
+MEXU 1841) corresponded to the reported size ranges. It should be noted that these slides are not isotypes as they
+are not duplicates of holotype (Art. 9.4, McNeill et al. 2012); these specimens are from different localities, one is
+from the same locality but collected in a different year.
+Observations made with SEM corroborate the characters previously described in Meave et al. (2008) and
+Hernández-Becerril & Barón-Campis (2008). However, the rimoportula ornamentation described as a “crown”
+structure (Hernández -Becerril & Barón-Campis 2008) was not observed in our specimens. This ornamentation
+may not be constant and therefore not useful as a diagnostic character. Resolution by LM is sufficient to distinguish
+the species from others.
+
+12 •
+
+Phytotaxa 159 (1) © 2014 Magnolia Press
+
+AKÉ-CASTILLO ET AL.
+
+FIGURES 1–8: LM images of Fryxelliella sepulvedana. Figs 1–3: Image of valve labeled holotype for F. sepulvedana on MEXU
+1837. Figs 4–6: Image of valve labeled holotype for F. pacifica on MEXU 1705. Figs 1, 4: General valve morphology. Figs 2, 5: Detail
+of ocelli. Figs 3, 6: Detail of sipho marginalis with sub-triangular apertures. Fig. 7: Image of frustule from MEXU 1841; black arrows
+indicate ocelli on one valve; white arrows indicate ocelli on other valve. Fig. 8: Small valve from slide MEXU 1841. Scale bars= 10
+µm.
+
+PRIORITY OF FRYXELLIELLA SEPULVEDANA OVER F. PACIFICA
+
+Phytotaxa 159 (1) © 2014 Magnolia Press
+
+• 13
+
+TABLE 1. Comparison of measurements in species of Fryxelliella; data taken from original descriptions of the types and the slides
+labelled holotypes for F. sepulvedana and F. pacifica.
+Species
+
+F. floridana
+
+F. sepulvedana
+
+Holotype
+MEXU 1837
+
+F. pacifica
+
+Holotype MEXU
+1705
+
+Diameter (µm)
+
+19–48
+
+41.7–68.3a
+
+47
+
+39–60b
+
+75
+
+3
+1.4–1.6 µm
+close to marginal tube
+
+3
+3.3–5.5 µm
+4–5 areolae
+
+3
+4 µm
+5 µm
+
+3
+3.5–4.3 µm
+3–5 areolae
+
+3
+5 µm
+10 µm
+
+Valve
+
+Convex at centre
+
+Slightly convex
+
+Slightly convex
+
+Flat at centre
+
+Flat
+
+Areolae in 10 µm
+
+12–13
+
+6–9
+
+7–8
+
+5.5–7
+
+6–8
+
+Marginal
+apertures of
+sipho marginalis
+in 10 µm
+
+4
+
+(6–8) 10–11
+
+8
+
+9–10
+
+8
+
+Rimoportula
+
+3, external tube:
+surrounded by
+granules; each one
+between ocelli, close
+to marginal tube.
+Sometimes two
+between two ocelli
+
+3, each one between
+ocelli (rarely 2
+between ocelli);
+external tube
+surrounded by
+granules
+
+3, adjacent to the
+margin between
+ocelli
+
+3, alternating with
+ocelli, external
+tube ending in
+divided sections
+as a crown
+
+3, adjacent to the
+margin between
+ocelli
+
+Cribra/cribal
+pores
+
+External, one ring of
+pores: 7–19 pores
+
+External, two
+circular rings: 24–34
+pores, with a larger
+marginal pore
+
+External with
+pores
+
+17–27 poroids
+without particular
+arrangment
+
+External with
+pores
+
+Central area
+
+Larger areolae and
+spaced: 6–7/10 µm, 2–
+3 sunken circles: 19–
+23 cribal pores
+
+Larger areolae: 5–7
+in 10 µm
+
+Larger areolae: 6
+
+Rosette: 4–5 in 10
+µm
+
+Larger areolae: 6
+
+Mantle
+
+1 µm, hyaline strip
+interrupted by
+triangular holes and
+juxtaposed
+quadrangular plates
+with fine granules
+
+Many quadrangular
+plates (scutellum)
+with granules and
+silica ridge
+
+Very shallow,
+areolae smaller
+than in valve
+
+Consisting of
+juxtaposed
+rectangular plates
+(scutella) and
+small granules
+
+Very shallow,
+areolae smaller
+than in valve
+
+Girdle
+
+Two bands,
+valvocopula areolated,
+copula ligulate
+
+Valvocopula thin,
+adjacent band
+ligulate
+
+No informationc
+
+4 bands
+
+No informationc
+
+Sipho marginalis
+
+Inside diameter 0.9–
+1.3 µm, uniform
+except at sites of
+internal openings of
+ocelli
+
+Continuous, 2.2 µm
+width
+
+2.5 µm width
+
+2.8–3.4 µm, Figs
+15, 21, 28
+
+2.4 µm width
+
+Reference
+
+Prasad et al. (1997)
+
+Meave et al. (2008)
+
+This study
+
+HernándezBecerril & BarónCampis (2008)
+
+This study
+
+Ocelli
+Number
+Diameter
+Distance from
+margin
+
+a.
+b.
+c.
+
+Not derived from figs 2–10 in Meave et al. (2008) as these are at the wrong scale.
+Iconotype (figs 2 and 3 in Hernández-Becerril & Barón-Campis 2008) is c. 47 µm in diameter, not corresponding to the measurement of the
+holotype specimen.
+No information as holotypes are one valve
+
+14 •
+
+Phytotaxa 159 (1) © 2014 Magnolia Press
+
+AKÉ-CASTILLO ET AL.
+
+FIGURES 9, 10: SEM images of rimoportulae from two different specimens from Los Cabos, Baja California Sur, Mexico. Fig 9:
+Rimoportula without ornamentation, surrounded by granules at base. Fig 10: Rimoportula without ornamentation, specimen different
+to Fig. 9. Scale bars= 0.5 µm.
+
+Priority Considerations: According to the International Code of Nomenclature for algae, fungi, and plants
+both Fryxelliella sepulvedana and Fryxelliella pacifica are validly published (Art. 32) but if the two are considered
+synonyms, only one name can be applied, the correct name being that which was first published (Art. 11.4). As
+both names appeared in 2008, some further publication facts are required.
+Fryxelliella pacifica: the manuscript describing this species was received by the editor of Phycological
+Research on 9th June, 2007 and was accepted on November 23rd, 2007 (Hernández-Becerril & Barón-Campis
+2008); the manuscript was assigned a DOI (Digital Object Identifier) on 19th August 2008. Publication of that issue
+of Phycological Research was September 2008, according to the date on the cover.
+Fryxelliella sepulvedana: the manuscript describing this species was received by the editor on 28th November,
+2007 and was accepted on January 10th, 2008 (Meave et al. 2008). Publication of that issue was after January but
+before June 2008, according to the date on the cover (“Jan/Jun. 2008”); the journal editor has confirmed that the
+publication date was June 2008 (pers. comm.).
+Thus, Fryxelliella sepulvedana is considered to have been first published June 2008 and Fryxelliella pacifica
+first published three months later in September 2008 (if the valid publication date is taken as that of the electronic
+version, the DOI document was available on August 19th ): thus the correct name for this taxon is Fryxelliella
+sepulvedana.
+
+Acknowledgements
+We appreciate the help of José Luis Godínez Ortega, curator of algae collection at Herbario Nacional de México,
+Instituto de Biología-UNAM, for providing all the facilities for revision of holotypes and herbarium collection of
+Fryxelliella. Many thanks to Lezilda Torgan (Editor: Iheringia) and Jessica Lee (Customer Services Advisor:
+Phycological Research) for providing information about exact dates of publication of the two species of
+Fryxelliella. Dr. Sergio Licea Durán kindly donated the phytoplankton material from Los Cabos, B.C.S., Mexico,
+used in this study. Many thanks to Dr. José Sepúlveda, technician at Electron Microscope Laboratory from Edificio
+de la Ciencia y Tecnología Ambiental at Universidad Autónoma Metropolitana Iztapalapa, who helped obtain the
+SEM microphotographs. We would like to thank one anonymous reviewer and David Williams for their helpful
+suggestions.
+
+PRIORITY OF FRYXELLIELLA SEPULVEDANA OVER F. PACIFICA
+
+Phytotaxa 159 (1) © 2014 Magnolia Press
+
+• 15
+
+References
+Bailey, J.W. (1851) Microscopical observations made in South Carolina, Georgia, and Florida. Smithsonian Contributions to
+Knowledge 2[8], 48 pp., pl. 1–3.
+Hernández-Becerril, D.U. & Barón-Campis, S.A. (2008) New species of the diatom genus Fryxelliella (Bacillariophyta), Fryxelliella
+pacifica sp. nov., from the tropical Mexican Pacific. Phycological Research 56: 149–155.
+http://dx.doi.org/10.1111/j.1440-1835.2008.00496.x
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K. Prado,
+J., Prud'homme Van Reine, W.F. Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012) International Code of Nomenclature for
+algae, fungi, and plants (Melbourne Code) adopted by the Eighteenth International Botanical Congress Melbourne, Australia,
+July 2011. Regnum Vegetabile 154. Koeltz Scientific Books, Koenigstein, Germany
+Meave del Castillo, M.E., Zamudio-Resendiz, M.E. & Fernandes, L.F. (2008) Fryxelliella sepulvedana sp. nov. (Triceratiaceae,
+Bacillariophyta), a rare species from the Mexican Pacific coasts. Iheringia (Série Botânica) 63: 177–185.
+Prasad, A.K.S.K. & Nienow, J.A. (2008) Transfer of the extant marine diatom Pseudoauliscus radiatus (Eupodiscaceae) to the
+forgotten genus Mastodiscus Bailey and an emended generic description of Fryxelliella. Beihefte zür Nova Hedwigia 133: 251–
+267.
+Prasad, A.K.S.K., Riddle, K.A. & Livingston, R.J. (1997) Fine structure, taxonomy, and systematics of the centric diatom Fryxelliella
+gen. nov. (Eupodiscaceae, Bacillariophyta) having a new valve structure, the circumferential marginal tube, with descriptions of
+F. floridana sp. nov. and F. inconspicua (Rattray) comb. nov.. Phycologia 36: 305–323.
+http://dx.doi.org/10.2216/i0031-8884-36-4-305.1
+Rattray, J. (1888) A revision of the genus Auliscus Ehrenberg and of some allied genera. Journal of the Royal Microscopical Society
+1888: 861–920.
+http://dx.doi.org/10.1111/j.1365-2818.1888.tb05838.x
+Sims, P.A. (2001) The genus Praetriceratium gen. nov.: a survey of eupodiscoid genera with a sipho marginalis. Diatom Research 16:
+399–416.
+http://dx.doi.org/10.1080/0269249X.2001.9705527
+
+16 •
+
+Phytotaxa 159 (1) © 2014 Magnolia Press
+
+AKÉ-CASTILLO ET AL.
+
+

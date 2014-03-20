@@ -1,0 +1,1567 @@
+Phytotaxa 123 (1): 41–50 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.123.1.2
+
+Ophiocordyceps xuefengensis sp. nov. from larvae of Phassus nodus (Hepialidae)
+in Hunan Province, southern China
+TING-CHI WEN1, RU-CAI ZHU2*, JI-CHUAN KANG1*, MING-HE HUANG3, DIAN-BO TAN2, HIRAN
+ARIYAWANSHA4, KEVIN D. HYDE4 & HAO LIU2
+1
+
+The Engineering and Research Center for Southwest Bio-Pharmaceutical Resources of National Education Ministry of China,
+Guizhou University, Guiyang 550025, Guizhou Province, P.R. China
+* email: bcec.jckang@gzu.edu.cn
+2
+Institute of Chinese Materia Medica, Hunan Academy of Chinese Medicine, Changsha, Hunan Province, P.R. China
+* email: zrcsun@126.com
+3
+Science and Technology Alumni Association in Dongkou County, Hunan Province, P.R. China
+4
+Institute of Excellence in Fungal Research, and School of Science, Mae Fah Luang University, Chiang Rai 57100, Thailand
+
+Abstract
+An entomogenous taxon, associated with larvae of Phassus nodus (Hepialidae) collected from Xuefeng Mountains,
+Hunan Province, China, was found to be a new species, Ophiocordyceps xuefengensis sp. nov. It differs from similar
+species in having long stromata, without a sterile apex, narrow asci, long ascospores and by its occurrence on Phassus
+nodus in living root or trunk of Clerodendrum cyrtophyllum. Combined sequence data from the 5.8S-ITS rDNA, nrSSU,
+EF-1α, and RPB1 gene loci also confirmed the distinctiveness of this new species. It is presently the world’s largest
+known Cordyceps sensu lato species.
+Key words: entomogenous fungi, new species, phylogenetic analyses, traditional Chinese medicine
+
+Introduction
+The genus Cordyceps Fr. (Clavicipitaceae, Hypocreales, Ascomycota) has been recently divided and placed
+into t hr ee fa m ili es and f our g ene ra— Met ac ordy ce ps (Clavi ci pit ac eae ), El aphoc ordy ce ps
+(Ophiocordycipitaceae), Ophiocordyceps (Ophiocordycipitaceae) and Cordyceps (Cordycipitaceae) (Sung et
+al. 2007a). Most species in Cordyceps sensu lato are pathogenic on insects and spiders, although a few grow
+on Elaphomyces spp. (soil fungi). Many Cordyceps species are used in traditional Chinese medicines in
+China, Japan, Korea and other eastern Asian countries (Wen et al. 2012).
+Cordyceps sensu lato is one of the most important genera of invertebrate pathogens (Hywel-Jones 2001) with
+more than 530 species (www. Indexfungorum.org, December 25, 2012). Although many Cordyceps species have
+been transferred to Ophiocordyceps, many species have yet to be restudied. Kirk et al. (2008) suggested that there
+are 140 Ophiocordyceps species, and 153 species were listed by Sung et al. (2007a). There are more than 175
+epithets assigned to Ophiocordyceps in Index Fungorum (www. Indexfungorum.org, December 25, 2012),
+however, some of them have been synonymsed with other genera. Most species of Cordyceps sensu lato have
+been identified from insects on leaves or in soil, 50 species are known to parasitize insects in dead wood, while a
+few species are known from insects in living tree trunks (Kobayasi & Shimizu 1983, Samson et al. 1985).
+In this study, a new Ophiocordyceps species was found parasitizing Phassus nodus Chu & Wang collected
+from the living root or trunk of the medicinal plant Clerodendrum cyrtophyllum Turcz. in the Xuefeng Mountains
+of Hunan Province in south China. This species is morphologically distinct from all other Cordyceps sensu lato
+species and combined multi-gene analysis also shows it to differ. The new species, Ophiocordyceps xuefengensis,
+Accepted by Eric Mckenzie: 17 July 2013; published: 14 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+41
+
+which is described below, currently sells for about US$20/g. It has been long recognized as a desirable alternative
+for natural O. sinensis in Hunan Province and it is also the world’s largest known Cordyceps species.
+
+Material & methods
+Specimens and host
+Collections were made in the Xuefeng Mountains, Dongkou County of Hunan Province between August
+2011 and November 2012. Soil, tree parts, living larvae and adults, infected and dead insects, and insects from
+within the host trees were collected. Specimens were stored in plastic containers and transported to the
+laboratory for identification. The host insects were identified by Dr Xinjun Hu, Sun Yat-sen University and
+Prof. Qiong Zhou, Hunan Normal University.
+Morphological studies
+Fungal fruiting bodies were examined under an Optec SZ660 stereo dissecting microscope (Chongqing
+Optec Instrument Co., Chongqing, China). Hand sections of the fruiting structures were mounted in water for
+microscopic studies and photomicrography. The microcharacters of the fungus was examined under an
+Olympus CX31 compound microscope and photographed.
+DNA extraction, PCR amplification and determination of DNA sequences
+The total genomic DNA was extracted from dried specimens using E.Z.N.A.TM Fungal DNA MiniKit
+(Omega Biotech, CA, USA) according to the manufacturers protocols and the extracted DNA was stored at 20 °C. Two nuclear (5.8S-ITS rDNA, nrSSU) and two protein genes (EF-1α, RPB1) loci were amplified and
+sequenced (Sung et al. 2007b).
+The PCR amplification and sequencing of ITS1-5.8S-ITS2 rDNA were conducted as described in Wen et
+al. (2012). The ITS1-5.8S-ITS2 rDNA was amplified and sequenced with the primers ITS4 (5'TCCTCCGCTTATTGATATGC-3') and ITS5 (5'-GGAAGTAAAAGTCGTAACAAGG-3') (White et al.
+1990). The PCR amplification and sequencing of nrSSU were conducted as described in Sung et al. (2007b).
+The nrSSU was amplified and sequenced with the primers NS1 (5'-GTAGTCATATGCTTGTCTC-3') and
+NS4 (5'-CTTCCGTCAATTCCTTTAAG-3') (White et al. 1990). In the amplification of EF-1α and RPB1, we
+followed Sung et al. (2007b) and Castlebury et al. (2004). For the amplification of EF-1α, the primers 983F
+(5'-GCYCCYGGHCAYCGTGAYTTYAT-3') and 2218R (5'-ATGACACCRACRGCRACRGTYTG-3') (Sung
+et al. 2007b) were used. For RPB1, the primers CRPB1A (5'-CAYCCWGGYTTYATCAAGAA-3') and
+RPB1Cr (5'-CCNGCDATNTCRTTRTCCATRTA-3') (Castlebury et al. 2004) were used in PCR amplification
+and sequencing.
+All PCR products were sequenced by GenScript Biotechnology Co., Nanjing, China.
+Sequence alignment and phylogenetic analysis
+Blast searches were made to reveal the closest matches in GenBank for phylogenetic analysis. The taxon
+information and GenBank accession numbers used in the molecular analysis are listed in Table 1. The four
+gene datasets (5.8S-ITS rDNA, nrSSU, EF-1α, RPB1) from the Ophiocordyceps species, plus datasets
+obtained from GenBank were aligned using MEGA5.05 (Tamura et al. 2011). Alignments were manually
+adjusted to allow maximum sequence similarity. Gaps were treated as missing data. Unweighted Maximium
+Parsimony (MP) analysis was performed using PAUP* 4.0b10 (Swofford 1998). Trees were inferred using the
+heuristic search option with TBR branch swapping and 1,000 random sequence additions. Maxtrees were
+5,000, branches of zero length were collapsed and all multiple parsimonious trees were saved. Clade stability
+of the trees resulting from the parsimony analyses were assessed by bootstrap analysis with 1,000 replicates,
+each with 10 replicates of random stepwise addition of taxa (Felsenstein 1985). Trees were viewed in
+Treeview and exported to graphics programs (Page 1996).
+
+42 •
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+WEN ET AL.
+
+TABLE 1. Data for taxa used in the sequence analyses.
+Species
+
+Voucher 1
+
+Host/Substratum
+
+5.8 ITS
+
+tef1
+
+rpb1
+
+Reference
+
+O. xuefengensis
+
+GZUHHN13
+
+Phassus nodus larvae
+
+KC631804 KC631785
+
+KC631790
+
+KC631795
+
+This study
+
+GZUH2012HN11
+
+Phassus nodus larvae
+
+KC631800 KC631786
+
+KC631791
+
+KC631796
+
+This study
+
+O. xuefengensis
+
+GZUH2012HN13
+
+Phassus nodus larvae
+
+KC631801 KC631787
+
+KC631792
+
+KC631797
+
+This study
+
+O. xuefengensis
+
+GZUH2012HN14T Phassus nodus larvae
+
+KC631802 KC631789
+
+KC631793
+
+KC631798
+
+This study
+
+O. xuefengensis
+
+GZUH2012HN19
+
+KC631803
+
+KC631794
+
+KC631799
+
+This study
+
+O. xuefengensis
+
+Phassus nodus larvae
+
+nrSSU
+
+KC631788
+
+O. acicularis
+
+OSC 110987
+
+Coleopteran larva
+
+EF468950
+
+EF468744
+
+EF468852
+
+Sung et al.
+(2007)
+
+O. acicularis
+
+OSC 110988
+
+Coleopteran larva
+
+EF468951
+
+EF468745
+
+EF468853
+
+Sung et al.
+(2007)
+
+O. agriotidis
+
+ARSEF 5692
+
+Coleoptera
+
+DQ522540
+
+DQ522322
+
+DQ522368
+
+Sung et al.
+(2007)
+
+O. aphodii
+
+ARSEF 5498T
+
+Aphodius hewitti
+(Coleoptera)
+
+DQ522541
+
+DQ522323
+
+O. appendiculata
+
+NBRC 106959
+
+Coleopteran larva
+
+JN943325
+
+JN941729
+
+JN992463
+
+O. appendiculata
+
+NBRC 106960
+
+Coleopteran larva
+
+JN943326
+
+JN941728
+
+JN992462
+
+Schoch et al.
+(2012)
+
+O. brunneipunctata
+
+OSC 128576AUT
+
+Coleoptera
+
+DQ522369
+
+Sung et al.
+(2007)
+
+O. clavata
+
+NBRC 106961
+
+Coleopteran larva
+
+JN943327
+
+JN941727
+
+JN992461
+
+Schoch et al.
+(2012)
+
+O. clavata
+
+NBRC 106962
+
+Coleopteran larva
+
+JN943328
+
+JN941726
+
+JN992460
+
+Schoch et al.
+(2012)
+
+O. cuboidea
+
+NBRC 100941
+
+Beetle larva
+
+JN943329
+
+JN941725
+
+JN992459
+
+Schoch et al.
+(2012)
+
+O. cuboidea
+
+NBRC 101740
+
+Beetle larva
+
+JN943331
+
+JN941724
+
+JN992458
+
+Schoch et al.
+(2012)
+
+O. dipterigena
+
+MY621
+
+Fly (Diptera)
+
+GU723764
+
+GU797126
+
+Luangsa-ard et al.
+(2011)
+
+O. dipterigena
+
+N.H.J. 12170.02
+
+Fly (Diptera)
+
+GU723771
+
+GU797127
+
+Luangsa-ard et al.
+(2011)
+
+O. entomorrhiza
+
+KEW 53484
+
+Coleopteran larva
+
+JN049850
+
+O. gracilis
+
+EFCC 3101
+
+Lepidopteran larva
+
+O. gracilis
+
+EFCC 8572
+
+Lepidopteran larva
+
+JN049851
+
+O. halabalaensis
+
+MY1308 T
+
+Ant (Hymenoptera)
+
+GU723758
+
+GU797109
+
+Luangsa-ard et al.
+(2011)
+
+O. halabalaensis
+
+MY5151
+
+Ant (Hymenoptera)
+
+GU723763
+
+GU797110
+
+Luangsa-ard et al.
+(2011)
+
+O. heteropoda
+
+EFCC 10125
+
+Cicada nymph
+(Hemiptera)
+
+JN049852
+
+O. heteropoda
+
+OSC 106404
+
+Cicada nymph
+(Hemiptera)
+
+O. irangiensis
+
+OSC 128577
+
+Ant (Hymenoptera)
+
+O. irangiensis
+
+OSC 128579
+
+O. melolonthae
+
+OSC 110993
+
+JN049819
+
+DQ522542
+
+DQ522324
+
+Sung et al.
+(2007)
+Schoch et al.
+(2012)
+
+EF468954
+
+EF468749
+
+EF468857
+
+Sung et al.
+(2007)
+
+EF468955
+
+EF468750
+
+EF468858
+
+Sung et al.
+(2007)
+
+EF468956
+
+EF468751
+
+EF468859
+
+Sung et al.
+(2007)
+
+EF468957
+
+EF468752
+
+EF468860
+
+Sung et al.
+(2007)
+
+AY489690
+
+AY489617
+
+AY489651
+
+Sung et al.
+(2007)
+
+DQ522546
+
+DQ522329
+
+DQ522374
+
+Sung et al.
+(2007)
+
+Ant (Hymenoptera)
+
+EF469123
+
+EF469060
+
+EF469089
+
+Sung et al.
+(2007)
+
+Scarabaeid larva
+(Coleoptera)
+
+DQ522548
+
+DQ522331
+
+DQ522376
+
+Spatafora et al.
+(2007)
+
+JN049823
+
+......continued on the next page
+
+OPHIOCORDYCEPS XUEFENGENSIS SP. NOV.
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+• 43
+
+TABLE 1. (Continued)
+Species
+
+Voucher 1
+
+Host/Substratum
+
+5.8 ITS
+
+O. myrmecophila
+
+MY163
+
+Ant (Hymenoptera)
+
+GU723759
+
+O. paracuboidea
+
+NBRC 100942
+
+Beetle larva
+
+JN943337
+
+JN941711
+
+JN992445
+
+Schoch et al.
+(2012)
+
+O. paracuboidea
+
+NBRC 101742T
+
+JN943338
+
+JN941710
+
+JN992444
+
+Schoch et al.
+(2012)
+
+O. prolifica
+
+NBRC 101750
+
+Larva of T. japonensis
+
+JN943340
+
+JN941708
+
+JN992442
+
+Schoch et al.
+(2012)
+
+O. prolifica
+
+NBRC 103839
+
+Larva of T. japonensis
+
+JN943342
+
+JN941706
+
+JN992440
+
+Schoch et al.
+(2012)
+
+O. ravenelii
+
+OSC 110995
+
+Coleopteran larva
+
+O. rhizoidea
+
+N.H.J. 12522
+
+Termite (Isoptera)
+
+O. rhizoidea
+
+N.H.J. 12529
+
+Termite (Isoptera)
+
+O. robertsii
+
+KEW 27083
+
+Lepidoptera
+
+AJ309335
+
+O. rubiginosiperitheciata
+
+NBRC 100946
+
+Beetle larva
+
+JN943341
+
+JN941705
+
+JN992439
+
+Schoch et al.
+(2012)
+
+O. rubiginosiperitheciata
+
+NBRC 106966
+
+Beetle larva
+
+JN943344
+
+JN941704
+
+JN992438
+
+Schoch et al.
+(2012)
+
+O. ryogamiensis
+
+NBRC 103837
+
+Beetle larva
+
+JN943346
+
+JN941702
+
+JN992436
+
+Schoch et al.
+(2012)
+
+O. ryogamiensis
+
+NBRC 103842
+
+Beetle larva
+
+JN943345
+
+JN941701
+
+JN992435
+
+Schoch et al.
+(2012)
+
+O. sinensis
+
+EFCC 7287
+
+Lepidopteran pupa
+
+JN049854
+
+EF468971
+
+EF468874
+
+Sung et al.
+(2007)
+
+O. sinensis
+
+ARSEF 6282
+
+O. sobolifera
+
+KEW 78842
+
+Beetle larva
+
+nrSSU
+
+rpb1
+
+Reference
+Luangsa-ard et al.
+(2011)
+
+GU797132
+
+DQ522550
+
+DQ522379
+
+Sung et al.
+(2007)
+
+EF468970
+
+EF468764
+
+EF468873
+
+Sung et al.
+(2007)
+
+EF468969
+
+JN049857
+
+DQ522334
+
+EF468765
+
+EF468872
+
+Sung et al.
+(2007)
+Sung et al.
+(2007)
+
+EF468766
+
+HM595981
+
+EF468767
+
+HM595918 HM595952
+
+Cicada nymph
+(Hemiptera)
+
+JN049855
+
+EF468972
+
+Cicada nymph
+
+O. sobolifera
+
+tef1
+
+AB027374
+
+AB027328
+
+EF468875
+
+Chan et al.
+(2011)
+Sung et al.
+(2007)
+Nikoh & Fukatsu
+(2000)
+
+O. speciesone
+
+N.H.J. 01157
+
+JN942622
+
+JN940997
+
+JN987877
+
+Schoch et al.
+(2012)
+
+O. speciesone
+
+N.H.J. 01164
+
+JN942621
+
+JN940996
+
+JN987878
+
+Schoch et al.
+(2012)
+
+O. sphecocephala
+
+OSC 110998
+
+Wasp (Hymenoptera)
+
+O. stylophora
+
+OSC 111000
+
+Elaterid larva
+(Coleoptera)
+
+JN049828
+
+O. unilateralis
+
+KT3307
+
+Ant (Hymenoptera)
+
+GU723756
+
+O. variabilis
+
+ARSEF 5365
+
+Dipteran larva
+
+DQ522555
+
+DQ522340
+
+DQ522386
+
+Spatafora et al.
+(2007)
+
+O. variabilis
+
+OSC 111003
+
+Dipteran larva
+
+EF468985
+
+EF468779
+
+EF468885
+
+Spatafora et al.
+(2007)
+
+Aschersonia placenta
+
+BCC 7869
+
+Scale insect
+(Hemiptera)
+
+EF469121
+
+EF469056
+
+EF469085
+
+Sung et al.
+(2007)
+
+DQ522551
+
+JN049842
+
+DQ522336
+
+DQ522381
+
+Sung et al.
+(2007)
+
+DQ522552
+
+DQ522337
+
+DQ522382
+
+Sung et al.
+(2007)
+Luangsa-ard et al.
+(2011)
+
+GU797111
+
+1 ARSEF, USDA-ARS Collection of Entomopathogenic Fungal cultures, Ithaca, NY; BCC, BIOTEC Culture Collection, Klong Luang, Thailand; CBS,
+Centraalbureau voor Schimmelcultures, Utrecht, the Netherlands; EFCC, Entomopathogenic Fungal Culture Collection, Chuncheon, Korea;
+KEW, Mycology collection of Royal Botanical Garden, KEW, Surrey, UK; N.H.J., Nigel Hywel-Jones personal collection; OSC, Oregon State
+University Herbarium, Corvallis, OR; GZUH, Herbarium of Guizhou University, Guiyang, Guizhou, China.
+2. AUT Authentic material, T ex-type culture or holotype.
+
+44 •
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+WEN ET AL.
+
+Results
+Phylogenetic analyses
+The partition homogeneity test (P = 0.01) suggested that the individual gene partitions were not highly
+incongruent (Farris et al. 1995). The combined datasets comprised 3,566 characters after alignment, of which
+1,394 characters were parsimony-informative, 1,751 constant, and 421 parsimony-uninformative. Parsimony
+analysis generated 5,000 trees; SH test verified that they were similar, one of which (tree length = 5,173 steps,
+CI = 0.567, RI = 0.742, RC = 0.420, HI = 0.443) and the most parsimonious tree is shown in Fig. 1.
+The data set comprises 30 species (Fig. 1) including the new species O. xuefengensis which formed a
+separate clade from other species of Ophiocordyceps with credible bootstrap support (100%); thus the new
+species is introduced.
+
+Ophiocordyceps clavata NBRC106961
+Ophiocordyceps clavata NBRC106962
+Ophiocordyceps ravenelii OSC110995
+100 Ophiocordyceps variabilis ARSEF5365
+Ophiocordyceps variabilis OSC111003
+Ophiocordyceps melolonthae OSC110993
+Ophiocordyceps gracilis EFCC3101
+100
+Ophiocordyceps gracilis EFCC8572
+99
+Ophiocordyceps heteropoda EFCC10125
+Ophiocordyceps heteropoda OSC106404
+Ophiocordyceps entomorrhiza KEW53484
+100 Ophiocordyceps halabalaensis MY1308*
+Ophiocordyceps halabalaensis MY5151
+Ophiocordyceps unilateralis KT3307
+Ophiocordyceps sobolifera KEW78842
+96
+75
+Ophiocordyceps sobolifera
+Ophiocordyceps brunneipunctata OSC128576
+100 Ophiocordyceps rhizoidea NHJ12522
+Ophiocordyceps rhizoidea NHJ12529
+Ophiocordyceps xuefengensis GZUHHN13
+Ophiocordyceps xuefengensis GZUH2012HN19
+100 Ophiocordyceps xuefengensis GZUH2012HN13
+62
+Ophiocordyceps xuefengensis GZUH2012HN14*
+70
+Ophiocordyceps xuefengensis GZUH2012HN11
+93 100 Ophiocordyceps sinensis EFCC7287
+Ophiocordyceps sinensis CUHK.CBD1
+Ophiocordyceps robertsii KEW27083
+100 Ophiocordyceps acicularis OSC110987
+100
+Ophiocordyceps acicularis OSC110988
+Ophiocordyceps rubiginosiperitheciata NBRC100946
+100 Ophiocordyceps rubiginosiperitheciata NBRC106966
+90
+74
+Ophiocordyceps appendiculata NBRC106959
+100 Ophiocordyceps appendiculata NBRC106960
+Ophiocordyceps stylophora OSC111000
+Ophiocordyceps agriotidis ARSEF5692
+Ophiocordyceps speciesone NHJ01157
+98
+Ophiocordyceps speciesone NHJ01164
+53 Ophiocordyceps cuboidea NBRC100941
+79
+100 Ophiocordyceps cuboidea NBRC101740
+Ophiocordyceps ryogamiensis NBRC103837
+100 Ophiocordyceps ryogamiensis NBRC103842
+100
+100 Ophiocordyceps paracuboidea NBRC100942
+100
+Ophiocordyceps paracuboidea NBRC101742*
+100 Ophiocordyceps prolifica NBRC101750
+Ophiocordyceps prolifica NBRC103839
+Ophiocordyceps aphodii ARSEF5498*
+100 Ophiocordyceps irangiensis OSC128577
+56
+Ophiocordyceps irangiensis OSC128579
+52
+Ophiocordyceps sphecocephala OSC110998
+95
+Ophiocordyceps myrmecophila MY163
+100 Ophiocordyceps dipterigena MY621
+Ophiocordyceps dipterigena NHJ12170.02
+Glomerella cingulata CBS114054
+100
+
+100
+
+100
+
+FIGURE 1. Phylogenetic relationships among Ophiocordyceps xuefengensis and related species based on four genes (5.8S-ITS
+rDNA, nrSSU, EF-1α, RPB1) combination. Bootstrap values (1,000 replicates) are indicated above the nodes. Type species have an
+asterisk. The tree is rooted to Glomerella cingulata.
+
+OPHIOCORDYCEPS XUEFENGENSIS SP. NOV.
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+• 45
+
+46 •
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+WEN ET AL.
+
+Soil
+
+Soil
+
+Hepialidae larva
+
+Elateridae larva
+
+Elateridae larvae
+
+Hepialidae larva
+
+lepidoptera larva
+
+Cryllotalpa africana
+
+Campsosternus
+auratus larva
+
+Cockchafer larva
+
+O. sinensis
+
+O. stylophora
+
+O. acicularis
+
+O. robertsii
+
+O. cylindrostromata
+
+O. gryllotalpae
+
+O. jiangxiensis
+
+C.aeruginosclerota
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Dead wood
+
+Soil
+
+Living trunk
+or upper root
+near soil
+
+Hepialidae larva
+
+O. xuefengensis
+
+Habit
+
+Host
+
+Species
+
+Cylindrical, 3 arising from nearly tail of
+host, 100–140 × 4–5 mm. Fertile part
+cylindric, distinct from stalk, without sterile
+tip, dark brown. Endosclerotia green
+
+Single, caespitous or fasciculate, cylindrical,
+40–90 × 5 mm, sometimes ramified,
+commonly without tail-like sterile tip.
+Endosclerotia white
+
+Binate, cylindrical, arise from the chest
+parts of host, 35–70 × 1.8–2 mm. Fertile
+part cylindrical, black, 15–20 × 2 mm with
+sterile apex
+
+Binate, cylindrical, simple, 33–40 × 1–1.5
+mm. Stipe short, 8–10 × 1–1.2 mm, dark
+brown. Fertile part cylindrical, yellow
+brown, 25–30 × 1.2–1.5 mm
+
+Single, cylindrical, 100–380 × 3–4 mm,
+with sterile apex
+
+Single, cylindrical, 70 × 1 mm, with a sterile
+appendage
+
+Single, occasionally 2, caespitous, arising
+from head of host, 15–45 mm long, with
+short sterile tip. Cylindrical, capitate,
+twisted-rounded apex, 15 × 1.5–2 mm
+
+Single, occasionally 2–3, 40–110 mm long,
+with sterile apex
+
+1–4 arising from head or other part of host,
+cylindrical, 140–460 × 2–7 mm; fertile part
+100–200 × 2–4 mm, cylindrical, yellowbrown, covered with superficial ascomata;
+sometimes with many branches
+
+Stromata
+
+TABLE 2. Synopsis of the characteristics of Cordyceps species related to Ophiocordyceps xuefengensis.
+
+Superficial, compactly
+aggregated on middle to
+upper part of stroma,
+elongated-ovate, 520–600 ×
+300 µm
+Densely superficial, short
+ovoid, 260–300 × 160–240
+μm
+
+Densely superficial,
+elliptical, 210–155 × 130–
+140 μm
+
+Superficial, subpyriform,
+(255–)375–405 × 150–225
+μm
+
+Ascomata superficial,
+elongate-obvate or
+elliptical, 600–880 × 300–
+400 μm
+
+Superficial, long ovoid,
+360–420 × 200–240 μm
+
+Entirely embedded to the
+surface or at right angles to
+the surface, narrowly flaskshaped or ovoid, 240–420
+× 144–240 μm
+
+Nearly superficial,
+ellipsoidal to ovate, 380–
+550 × 140–240 mm
+
+Superficial, long ovoid,
+416–625 × 161–318 μm.
+Perdium 20–74 μm wide
+
+Ascomata
+
+Cylindrical or long clavate,
+150 × 4.5–7.5 μm, with a
+short cylindrical cap, mostly
+3.6 μm high, 3 μm thick
+
+6 µm diameter, with a
+flattened-globose to conical
+cap, 2.4–3.0 × 1.8–2.2 µm
+
+Cylindrical, 50–70 × 7–9 μm
+
+Thread-like, 1600 × 4.2 μm,
+with subglobose cap, 3 μm
+high, 3.6–4.2 μm thick
+
+Cylindrical, 7–7.4 μm wide,
+with a 4.8–5.4 μm wide ×
+3.6–4.8 μm high hemiglobose cap
+Narrowly cylindrical, 280–
+400 × 9–10 μm
+
+Cylindric-clavate, somewhat
+attenuated below, slightly
+narrowed above, 170–220 ×
+8–10 μm
+
+Slender, long, 240–485 × 12–
+16 μm
+
+Cylindrical, 191–392 × 4.5–
+8.9 μm, with a 4.2–6.1 μm
+wide × 3.8–5.8 μm high
+hemiglobose cap
+
+Asci
+
+Filiform, multiseptate, attenuated
+toward both ends, not breaking into
+secondary ascospores, septate cells
+6–14 × 1.2–1.8 μm
+
+Long cylindrical, 1.0–1.2 µm thick,
+multiseptate, each cell 5.5–7.5 µm
+long, not breaking into secondary
+ascospores
+
+Thread-like, 8-spored, multiseptate
+(7–8), 40–63 × 2–2.5 μm, not
+breaking into secondary ascospores
+
+Multiseptate, septate cells 6–8 μm
+long and 1.5–2 μm thick, not
+breaking into secondary ascospores
+
+In parallel fascicles, filiform,
+multiseptate, 280 × 3 μm, breaking
+into secondary ascospores, 5–6 × 3
+μm
+
+Thread-like, multiseptate, 34.5–48
+× 2–2.4 μm, not breaking into
+
+Fusoid-cylindric, 102–164 × 2–3
+μm, overlapping in the ascus,
+multiseptate, the cells 12–29 × 2–3
+μm, not breaking into secondary
+ascospores
+
+Usually 2–4 mature ascospores,
+multiseptate, not breaking into
+secondary ascospores, 160–470 ×
+5–6 μm
+
+Thread-like, with many septa, not
+breaking into secondary
+ascospores, 130–380 × 1.4–5.2 μm
+
+Ascospores
+
+Liang et al.
+(1997)
+
+Liang et al.
+(2001)
+
+Kobayasi
+(1941)
+
+Liang et al.
+(2003)
+
+Cunningham
+(1921)
+
+Liang et al.
+(2007)
+
+Mains
+(1941)
+
+Liang et al.
+(2007)
+
+This study
+
+Reference
+
+Ophiocordyceps xuefengensis differs from the other species of Ophiocordyceps in having long stromata
+without a sterile apex, narrow asci, long ascospores and its occurrence on Phassus nodus in living root or
+trunk (Fig. 2). Ophiocordyceps xuefengensis and O. sinensis are sister taxa, but differ in their host,
+morphology and ecology (Table 2).
+
+Taxonomy
+Ophiocordyceps xuefengensis T.C. Wen, R.C. Zhu, J.C. Kang & K.D. Hyde, sp. nov. (Fig. 2) MycoBank
+MB803424
+Type:—CHINA. Hunan Province: Dongkou County, Xuefeng Mountains, on Phassus nodus in root of living
+Clerodendrum cyrtophyllum, 20 October 2012, Ru-Cai Zhu 2012HN14 (GZUH 2012HN14, holotype!).
+Differs from related Ophiocordyceps species mainly by its long stromata, without a sterile apex, narrow asci, long
+ascospores and by its occurrence on Phassus nodus in living root or trunk of Clerodendrum cyrtophyllum.
+
+FIGURE 2. Ophiocordyceps xuefengensis. A. Overview of stroma and the host. B. Brown, superficial ascomata on stroma. C.
+Section of ascomata. D. Apical peridium. E. Basal peridium formed from stroma. F. Mature ascus with ascospores. G. Ascus cap. H, I.
+Hyaline and filliform ascospores with many septa. Scale bars: A = 20 mm, B = 0.5 mm, C = 100 µm, D, E = 50 µm, F, H = 40 µm, G
+= 10 µm, I = 20 µm.
+
+Stromata 140–460 mm long, 2–7 mm wide, cylindrical, yellow-brown, 1–4 arising mainly from the head or
+other part of host; living on larvae of Phassus nodus (Hepialidae) in the trunk or upper root near the soil of
+Clerodendrum cyrtophyllum (Verbenaceae). Stipe 40–260 mm long, 2–7 mm diam., and sometimes covered
+with beige, thick, dense, loosely woven mycelium. Fertile part 100–200 mm long × 2–4 mm diam.,
+cylindrical, yellow-brown. Cells of stromata thin-walled, globose, hyaline, becoming brown-walled towards
+the outside. Host 60–110 mm long, 7–12 mm wide, yellow-brown to black-brown, with white endosclerotia.
+
+OPHIOCORDYCEPS XUEFENGENSIS SP. NOV.
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+• 47
+
+Ascomata 416–625 × 161–318 μm ( x = 520 × 243, n = 20), superficial, long ovoid, with a basal stipe
+connected to the stromata. Peridium 20–74 μm wide ( x = 39, n = 20), comprising three layers; hamathecium
+of paraphyses. Asci 191–392 × 4.5–8.9 μm ( x = 277 × 7.5, n = 20), 8-spored, cylindrical, pedicellate not
+clear, with a 4.2–6.1 μm wide × 3.8–5.8 μm high ( x = 5.1 × 4.7, n = 20) hemiglobose cap. Ascospores 130–
+380 × 1.4–5.2 μm ( x = 256 × 3.2, n = 20), fasciculate, thread-like, slender and long, with many septa, not
+breaking into secondary ascospores.
+Asexual state:—Hirsutella.
+Etymology:—Refers to the type collecting site “Xuefeng Mountains”.
+Distribution:—Dongkou County, Hunan Province, China.
+Host:—On larvae of Phassus nodus Chu & Wang living in the root or trunk of Clerodendrum
+cyrtophyllum Turcz.
+Other material studied (paratypes):—CHINA. Hunan Province: Dongkou County, Xuefeng Mountains,
+on Phassus nodus in root of living Clerodendrum cyrtophyllum, 8 October 2011, Ru-Cai Zhu HN13
+(GZUHHN13!); ex-paratype living culture GZUCCHN131!; Hunan Province: Dongkou County, Xuefeng
+Mountains, on Phassus nodus in root of living Clerodendrum cyrtophyllum, 20 October 2012, Ru-Cai Zhu
+2012HN11 (GZUH2012HN11!); Hunan Province: Dongkou County, Xuefeng Mountains, on Phassus nodus
+i n t r unk o f l iv i ng C le rode ndrum c y r tophy l l um, 20 Oc t o ber 2012, Ru- Cai Zhu 2012HN13
+(GZUH2012HN13!); Hunan Province: Dongkou County, Xuefeng Mountains, on Phassus nodus in root of
+living Clerodendrum cyrtophyllum, 20 October 2012, Ru-Cai Zhu 2012HN19 (GZUH2012HN19!).
+
+Discussion
+Ophiocordyceps xuefengensis is remarkable for four reasons: 1) it is probably the largest insect inhabiting
+Cordyceps sensu lato species ever discovered (stromata 140–460 mm long); 2) it is associated with Phassus
+nodus larvae on a single tree species; 3) it develops on larvae growing within the trunk or root of a tree and; 4)
+it lacks a sterile apex as compared with allies having superficial ascomata in the Ophiocordyceps group. If this
+large species, associated with a single tree species, has been previously overlooked by mycologists, especially
+in China where entomogenous fungi have been well-studied (Song et al. 2006), one would predict that further
+studies will reveal many new species. This may have important implications for the numbers of fungi
+worldwide.
+There are about 90 species with cylindric stromata in Cordyceps sensu lato and only a few species (i.e., O.
+gryllotalpae Petch (1942: 255), O. jiangxiensis (Z.Q. Liang, A.Y. Liu Yong C. Jiang) G.H. Sung, J.M. Sung,
+Hywel-Jones & Spatafora (2007a: 43), C. aeruginosclerota Z.Q. Liang & A.Y. Liu (in Liang et al. 1997: 63)
+and O. cylindrostromata (Z.Q. Liang, A.Y. Liu & M.H. Liu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora
+(2007a: 42) have stromata lacking a sterile apex, superficial ascomata and ascospores not breaking into
+secondary ascospores (Kobayasi & Shimizu 1983, Liang et al. 1997, 2001, 2003). The new species differs
+from the above species in host, habit, having long, seldom branched stromata and narrow ascospores.
+It is unusual that O. xuefengensis lives only on Phassus nodus larvae in the living root or trunk of the
+medicinal plant Clerodendrum cyrtophyllum and has a 2–3 year life cycle. In the first year, the stromata are
+smooth and lack ascomata, while in the second or third year sexual structures with spores develop. The
+species is used in traditional Chinese medicine as a replacement for O. sinensis in Hunan Province of south
+China, the gathering of the latter is causing substantial reductions in populations (Peter et al. 2004).
+Ophiocordyceps xuefengensis is the world’s largest known Cordyceps species (4.0 g dry weight for one
+specimen, and 460 mm long, Table 3), perhaps because its large host larvae contain a lot of nutrition.
+
+48 •
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+WEN ET AL.
+
+TABLE 3. Comparison of several macro Cordyceps sensu lato related to Ophiocordyceps xuefengensis.
+Species
+
+Host type
+
+Size of host
+
+Stromata
+
+Whole dry
+weight (g)
+
+Reference
+
+Ophiocordyceps
+xuefengensis
+
+Larva of Phassus
+nodus
+
+60–110 × 7–12
+mm
+
+1–4 arising from host,
+140–460 × 2–7 mm
+
+4.0
+
+This study
+
+Metacordyceps
+liangshanensis
+
+Larva of
+Hepialidae
+
+20–50 mm long
+
+Single, 20–30 ×
+1.5–2.5 mm
+
+No data
+
+Liang et al. (2007)
+
+Cordyceps henleyae
+
+Larva of
+Hepialidae
+
+No data
+
+Single, 180–200 × 7
+mm
+
+No data
+
+Massee (1894)
+
+Cordyceps larvarµm
+
+Larva of
+lepidoptera
+
+50–70 mm long
+
+Single, 90–380 ×
+2–2.5 mm
+
+No data
+
+Liang et al. (2007)
+
+Ophiocordyceps
+robertsii
+
+Larva of
+Hepialidae
+
+40–70 mm long
+
+Single, 100–380 × 3–4
+mm
+
+No data
+
+Cunningham
+(1921), Liang et
+al. (2007)
+
+Acknowledgments
+This work was supported by the National Natural Science Foundation of China (No. 31200016), the Science
+Research Foundation on Chinese Medicine of Hunan Province (No. 201267), the Key Science & Technology
+Foundation of Hunan Province (No. 2012SK2008), the Science & Technology Foundation of Hunan
+Academy of Chinese Medicine (No. 2012ZY02), and the Modernization of Traditional Chinese Medicine
+Program of Guizhou Province (No. [2012]5008).
+
+References
+Castlebury, L.A., Rossman, A.Y., Sung, G.H., Hyten, A.S. & Spatafora, J.W. (2004) Multigene phylogeny reveals new
+lineage for Stachybotrys chartarum, the indoor air fungus. Mycological Research 108: 864–872.
+http://dx.doi.org/10.1017/S0953756204000607
+Chan, W.H., Ling, K.H., Chiu, S.W., Shaw, P.C. & But, P.P.H. (2011) Molecular analyses of Cordyceps gunnii in China.
+Journal of Food and Drug Analysis 19(1): 18–25.
+Cunningham, G.H. 1921. The genus Cordyceps in New Zealand. Transactions and Proceedings of the New Zealand
+Institute 53: 372–382.
+Farris, J.S., Källersjö, M., Kluge, A.G. & Bult, C. (1994) Testing significance of incongruence. Cladistics 10: 315–319.
+http://dx.doi.org/10.1111/j.1096-0031.1994.tb00181.x
+Felsenstein, J. (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39: 783–791.
+http://dx.doi.org/10.2307/2408678
+Hywel-Jones, N.L. (2001) The biological diversity of invertebrate pathogenic fungi. In: Hyde, K.D. (ed.) Biodiversity of
+tropical microfungi. Hong Kong University Press, Hong Kong, pp. 107–120.
+Kirk, P.M., Cannon, P.F., David, J.C. & Stalpers, J.A. (2008) Ainsworth & Bisby’s dictionary of the Fungi, 10th edn.
+Commonwealth Mycological Institute, Kew, U.K.
+Kobayasi, Y. (1941) The genus Cordyceps and its allies. Science Reports of the Tokyo Bun-rika Daigaku 5: 53–260.
+Kobayasi, Y., & Shimizu, D. (1983) Iconography of vegetable wasps and plant worms. Horkusha Publishing, Tokyo, pp.
+280.
+Liang, Z.Q. (2007) Flora Fungorum Sinicorum, vol. 32, Cordyceps. Science Press, Beijing, pp. 190.
+Liang, Z.Q., Liu, A.Y. & Jiang, Y.C. (2001). Two new species of Cordyceps from Jinggang Mountains. Mycosystema 20:
+306–309.
+Liang, Z.Q., Liu, A.Y., Huang, J.Z. & Jiao, Y.C. (1997). The genus Cordyceps and its allies from Kuankuoshui Preserve
+in Guizhou II. Mycosystema 16: 61–67.
+Liang, Z.Q., Liu, A.Y., Liu, M.H. & Kang, J.C. (2003) The genus Cordyceps and its allies from the Kuankuoshui Reserve
+in Guizhou III. Fungal Diversity 14: 95–101.
+
+OPHIOCORDYCEPS XUEFENGENSIS SP. NOV.
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+• 49
+
+Luangsa-ard, J.J., Ridkaew, R., Tasanathai, K., Thanakitpipattana, D. & Hywel-Jones, N. (2011) Ophiocordyceps
+halabalaensis: a new species of Ophiocordyceps pathogenic to Camponotus gigas in Hala Bala Wildlife Sanctuary,
+Southern Thailand. Fungal Biology 115(7): 608–614.
+http://dx.doi.org/10.1016/j.funbio.2011.03.002
+Mains, E. B. (1941) Cordyceps stylophora and Cordyceps ravenelii. Mycologia 33: 611–617.
+Massee, G.E. 1894. A new Cordyceps. Annals of Botany 8(1): 119.
+Mortimer, P.E., Karunarathna, S.C., Li, Q.H., Gui, H., Yang, X.Q., Yang, X.F., He, J., Ye, L., Guo, J.Y., Li, H.L.,
+Sysouphanthong, P., Zhou, D.Q., Xu, J.C. & Hyde, K.D. (2012) Prized edible Asian mushrooms: ecology,
+conservation and sustainability. Fungal Diversity 56: 31–47.
+http://dx.doi.org/10.1007/s13225-012-0196-3
+Nikoh, N. & Fukatsu, T. (2000) Interkingdom host jumping underground: phylogenetic analysis of entomoparasitic fungi
+of the genus Cordyceps. Molecular Biology and Evolution 17(4): 629–638.
+Page, R.D.M. (1996) TreeView: An application to display phylogenetic trees on personal computers. CABIOS 12: 357–
+358.
+Petch, T. (1942) [1941] Notes on enomogenous fungi. Transactions of the British Mycological Society 25: 250–265.
+Samson, R.A. & Evans, H. (1985) New and rare entomogenous fungi from Amazonia. Proceedings of the Indian
+Academy of Sciences, Plant Sciences 94(2–3): 309–317.
+Schoch, C.L., Seifert, K.A., Huhndorf, S., Robert, V., Spouge, J.L., Levesque, C.A., Chen, W., Bergeron, M.J., Hamelin,
+R.C., Vialle, A. & Fungal Barcoding Consortium. (2012) Nuclear ribosomal internal transcribed spacer (ITS) region
+as a universal DNA barcode marker for Fungi. Proceedings of the National Academy of Science 109: 6241–6246.
+http://dx.doi.org/10.1073/pnas.1117018109
+Song, B., Lin, Q.Y., Li, T.H., Shen, Y.H., Li, J.J. & Luo D.X. (2006) Known species of Cordyceps from China and their
+distribution. Jounal of Fungal Research 4(4): 10–26.
+Spatafora, J.W., Sung, G.H., Sung, J.M., Hywel-Jones, N.L. & White, J.F. Jr. (2007) Phylogenetic evidence for an animal
+pathogen origin of ergot and the grass endophytes. Molecular Ecology 16(8): 1701–1711.
+http://dx.doi.org/10.1111/j.1365-294X.2007.03225.x
+Sung, G.H., Hywel-Jones, N.L., Sung, J.M., Luangsa-ard, J.J., Shrestha, B. & Spatafora, J.W. (2007a) Phylogenetic
+classification of Cordyceps and the clavicipitaceous fungi. Studies in Mycology 57: 5–59.
+http://dx.doi.org/10.3114/sim.2007.57.01
+Sung, G.H., Sung, J.M., Hywel-Jones, N.L. & Spatafora, J.W. (2007b) A multi-gene phylogeny of Clavicipitaceae
+(Ascomycota, Fungi): Identification of localized incongruence using a combinational bootstrap approach. Molecular
+Phylogenetics and Evolution 44(3): 1204–1223.
+http://dx.doi.org/10.1016/j.ympev.2007.03.011
+Swofford, D.L. (2002) PAUP*: phylogenetic analysis using parsimony (*and other methods), version 4.0b10. Sinauer
+Associates, Sunderland.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M. & Kumar, S. (2011) MEGA5: molecular evolutionary
+genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Molecular
+Biology and Evolution 28: 2731–2739.
+http://dx.doi.org/10.1093/molbev/msr121
+Wen, T.C., Li, M.F., Kang, J.C. & He, J. (2012) A molecular genetic study on fruiting-body formation of Cordyceps
+militaris. African Journal of Microbiology Research 6(24): 5215–5221.
+http://dx.doi.org/10.5897/AJMR12.522
+White, T.J., Bruns, T., Lee, S. & Taylor, J.W. (1990) Amplification and direct sequencing of fungal ribosomal RNA genes
+for phylogenetics. In: Innis, M.A., Gelfand, D.H., Sninsky, J.J. & White, T.J. (eds.) PCR protocols: a guide to methods
+and applications. Academic Press, New York, pp. 315–322.
+
+50 •
+
+Phytotaxa 123 (1) © 2013 Magnolia Press
+
+WEN ET AL.
+
+

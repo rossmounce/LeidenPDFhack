@@ -1,0 +1,833 @@
+Phytotaxa 127 (1): 190–200 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.18
+
+A review of past and recent research on Cretaceous silicoflagellates
+KEVIN McCARTNEY1
+1
+
+Department of Environmental Studies, University of Maine at Presque Isle, Presque Isle, ME 04769, USA
+Email: kevin.mccartney@umpi.edu (corresponding author)
+
+Abstract
+Previous knowledge of Cretaceous silicoflagellates has come primarily from scattered Maastrichtian or late Campanian
+localities. Silicoflagellates from the earlier Upper Cretaceous have been observed from the southern shore of the Baltic
+Sea and eastern slope of the northern Ural Mountains, and Lower Cretaceous from the Weddell Sea near Antarctica are
+also known. Much of the previous work, including type specimens for genera and species, have been illustrated with few
+and simple line drawings. Taxonomic distinctions and evolutionary lineages have often been speculative.
+Recent studies of Santonian and lower Campanian marine sediments from several sites in the northern Canada
+Arctic Margin and Archipelago substantially increase our knowledge of Cretaceous silicoflagellate morphology,
+biostratigraphy, and early evolutionary history. This work, which develops from previous diatom studies, provides new
+information on the enigmatic genera Cornua and Variramus, describes new genera and species, and presents new
+information on the timing of silicoflagellate evolutionary events. Seven new biostratigraphic zones replace the
+previously applied single biostratigraphic unit for the Cretaceous.
+This article reviews recent silicoflagellate discoveries in the context of previous work to provide a current general
+knowledge of the subject that includes important taxa.
+
+Introduction
+Silicoflagellates are single-celled heterokont algae with certain haptophyte affinities (Daugbjerg & Henriksen
+2001). They are photosynthetic, exclusively marine, and in life are generally restricted to the euphotic zone.
+Silicoflagellates are well understood and are used biostratigraphically in the Neogene though general utility is
+less than that of diatoms or radiolarians due to sparser evolutionary events. Their skeletons are composed of
+opal-A material that becomes unstable upon deeper burial (Littke et al. 1991), which reduces preservation
+potential in Paleogene and Cretaceous sediments.
+Silicoflagellates have an extensive and fairly well studied Cenozoic record with high and low-latitude
+zonations for most of the era (see Perch-Nielsen 1985). Cenozoic skeletons consistently have a basal ring of
+generally polygonal shape and constructed of more or less linear sides, that meet to form corners. Most also
+have an apical structure built upon struts that attach one to each basal side. The apical structure and basal ring
+give a general hemispherical shape to the skeleton. There are typically spines at the corners of the basal ring
+and each side has a pike that points away from the apical structure (abapically).
+The known silicoflagellate record begins in the Cretaceous, but the early history has not been well
+understood. Until recently, this record consisted of six genera, one of which was problematic, and a single
+formally described biostratigraphic zone. That zone and most known Cretaceous silicoflagellate taxa are from
+the latest Campanian to Maastrichtian. Rare and isolated occurrences of older silicoflagellates were separated
+by extensive time intervals where silicoflagellates had not been observed or studied.
+Recently studied sediments have provided silicoflagellates within these previous gaps and new
+interpretations of Cretaceous evolutionary history. These discoveries include new taxa and an improved
+understanding of the history and diversity for all six previously known and two new genera. The number of
+
+190 Accepted by M.L. Julius: 28 Nov. 2012; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+biostratigraphic zones has increased to seven. These provide an opportunity to reexamine the known
+Cretaceous record in light of the new observations.
+
+Initial studies of Cretaceous silicoflagellates
+Silicoflagellates were first described by C. G. Ehrenberg in the late 1830s. Ehrenberg wrote some 20 papers on
+them, for which he erected the genus Dictyocha Ehrenberg (1837: 61). Among the various species was
+Dictyocha triacantha (Ehrenberg 1844: 80), which had three basal sides. The first to recognize the
+silicoflagellates as a separate group was Lemmermann (1901), who described many new varieties of D.
+triacantha that are now recognized as separate species. Lemmerman’s two pages of figures consisted of
+simple line drawings with usually one illustration per new variety.
+Cretaceous silicoflagellates were not discovered until 1928, when both Hanna and Schulz published
+landmark papers. Hanna (1928) observed diverse silicoflagellates from the Moreno Shale of southern
+California. He placed the three-sided skeletons into the new genus Corbisema Hanna (1928: 261), and
+described the new species C. geometrica Hanna (1928: 261)(Fig. 1), which usually had an apical plate. This
+genus, including C. geometrica, is also important in the Paleogene, which accounts for their previous
+illustration by Ehrenberg and Lemmermann from Cenozoic sediments.
+In addition to Corbisema, Hanna (1928) described a four-sided silicoflagellate skeleton as Dictyocha
+quadralta Hanna (1928: 261)(Fig. 2), and the genera Vallacerta Hanna (1928: 262)(Fig. 3) and Lyramula
+Hanna (1928: 262)(Figs. 4-5), neither of which had been previously illustrated. The genus Vallacerta has an
+apical dome that is connected directly to the basal ring without the occurrence of struts. Illustrated pecimens
+of V. hortonii Hanna (1928: 262) had five basal sides. Lyramula has a simple ‘Y,’’V,’ or ‘U’-shaped skeleton
+made of two curved limbs that meet at an angle, perhaps with a spine.
+Schulz (1928) was published a few months after Hanna’s paper and without prior knowledge of this work.
+Schulz examined sponge “mummies” that wash out of a cliff on the then-German coast near what is now
+Gdynia in Poland, and observed well-preserved silicoflagellates. The mummies were deposited as glacial
+outwash and their geographic origin is unknown. Schulz observed both Corbisema and Vallacerta, which he
+retained in the genus Dictyocha, but described the new genus and species Cornua trifurcata Schulz (1928:
+285), which has three struts whose terminations bifurcate into basal elements that do not connect to form a
+basal ring (Fig. 6). Schulz illustrated three skeletons of Cornua from abapical and oblique view that show
+linear basal elements and prominent pikes.
+Deflandre (1940, 1944, 1950) obtained a sample from Hanna labeled as "Diatomite de Panoche Hills,
+Fresno County, Cal. (Etage de Moreno)," that included a variable group of silicoflagellate skeletons that
+lacked basal rings, which he described as Cornua aculeifera Deflandre (1944: 464)(Fig. 7) and illustrated
+with three line drawings. Deflandre emphasized that the skeletons were remarkably plastic, and that it was
+difficult to find two specimens that were alike. Also described was Vallacerta hannai Deflandre (1944: 463),
+which had small skeletons with seven basal sides and pikes that occurred on struts at some distance from the
+base of an apical plate.
+Jousé (1949, 1951) and Gleser (1959) observed Cretaceous silicoflagellates at various localities on the
+eastern slope of the northern Ural Mountains. The silicoflagellates observed by Jousé are probably from the
+early Campanian; those of Gleser are probably older and may age into the Santonian. Gleser (1959) identified
+Cornua aculeifera, C. trifurcata and described the new species C. poretzkajae Gleser (1959: 110)(Fig. 8),
+illustrating each with a single line drawing, though a few more illustrations were provided in Gleser (1966),
+translated into English in 1970. C. poretzkajae has basal elements that bend towards the basal element of the
+next adjacent strut and takes the general appearance of a Corbisema that is missing the corners. Gleser (1959)
+also described Vallacerta tumidula Gleser (1959: 107), whose apical dome has a central area separated from
+the rest of the dome by an incised trench.
+
+CRETACEOUS SILICOFLAGELLATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 191
+
+FIGURES 1–8: Original illustrations for important silicoflagellate taxa to 1959. Fig. 1. Corbisema geometrica, Hanna (1928). Fig. 2.
+Dictyocha quadralta Hanna (1928); placed in Arctyocha by Bukry (1985). Fig. 3. Vallacerta hortoni Hanna (1928); now usually called
+V. hortonii. Fig. 4. Lyramula simplex Hanna (1928). Fig. 5. Lyramula furcula Hanna (1928). Fig. 6. Cornua trifurcata Schulz (1928).
+Fig. 7. Cornua aculeifera Deflandre (1944); placed in Variramus by McCartney et al. (1990). Fig. 8. Cornua poretzkajae Glezer (1959).
+
+The Cretaceous silicoflagellate literature summarized to this point represents the initial articles on the
+subject, which describe four genera – Corbisema, Lyramula, Vallacerta and Cornua. Except for Hanna
+(1928), all the silicoflagellates presented to here were illustrated with simple line drawings. Mandra (1960,
+1968), Tsumura (1962), Ling (1972) and Cornell (1974) further examined silicoflagellates from the Moreno
+formation of California and have separated Corbisema into various species, often elevating to species level
+the varieties originally described by Lemmermann (1901).
+More recent silicoflagellate study during the remainder of the 20th century can be quickly presented, as
+there are few significant papers that introduce important new taxa. Bukry (1985) noted that skeletons of
+Dictyocha quadralta Hanna (1928: 261) lack basal pikes and are not evolutionarily related to Cenozoic
+Dictyocha and placed this taxon in the new genus Arctyocha Bukry (1985: 130). This skeletal morphology
+had also been observed in the Moreno Shale (Mandra 1960, 1968), Deep Sea Drilling Project (DSDP) Leg 29
+Site 275 of the Southwest Pacific (Perch-Nielsen, 1975) and the CESAR-6 core from the Arctic Ocean (Ling
+et al. 1973, Bukry 1981, Dell’Agnese & Clark 1994).
+
+192 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+McCARTNEY
+
+Silicoflagellates from the Lower Cretaceous were observed by McCartney et al. (1990), who describe a
+Lower Cretaceous, Albian age, flora that occur in a short interval of Ocean Drilling Program (ODP) Leg 113
+Site 693 of the Weddell Sea near Antarctica. The silicoflagellate flora consisted of small seven-sided
+Vallacerta hannai very similar to those of Deflandre (1944) and an extremely variable group similar to
+Cornua aculeifera illustrated in the same paper. The new genus Variramus McCartney, Wise, Harwood &
+Gersonde (1990: 432) included most of the morphological variation into V. aculeifera (Deflandre) McCartney,
+Wise, Harwood & Gersonde (1990: 432), with quadrate skeletons placed in the new species V. loperi
+McCartney, Wise, Harwood & Gersonde (1990: 432).
+Of the six Cretaceous genera presented thus far, Cornua was particularly enigmatic as the few illustrations
+provided little detail and information was scanty. While Cornua had been reported in a few studies (Bukry
+1974, Quinterno et al. 1994, Desikachary & Prema 1996) since the work of Gleser, these were present in very
+low numbers and not accompanied by good photographs; it is uncertain that any of these later occurrences are
+actually Cornua. Lipps (1970), in a review article, believed that the illustrated Cornua might be sponge
+spicules while McCartney (1987) thought that they could be teratoid Corbisema.
+The three periods of time where silicoflagellates had been observed and studied – the Maastrichtian,
+Santonian\early Campanian and Aptian - are separated by two lengthy time intervals. The youngest of these
+intervals includes most of the Campanian. While the precise stratigraphic position of the Schulz (1928) and
+Gleser (1959) studies are unknown, these probably straddle the Santonian and earliest Campanian. Some of
+the later Cretaceous studies, especially those where Arctyocha are present, include the latest Campanian. Most
+of the Campanian, which spanned about 13 myr, had not been examined for silicoflagellates. The second and
+more lengthy gap in the known silicoflagellate record extends from the Albian to Santonian, or about 25 myr.
+
+Recent discoveries
+Recent work on sediments from northern Canada provides information from these previously unstudied
+intervals. These discoveries develop from two Masters theses that investigated diatom history during the
+Santonian and Campanian. Tapia (1996) and Tapia & Harwood (2002) examined sediments from the Horton
+River near the northern coast of Canada and several islands of the Canadian Archipelago, while Witkowski
+(2008), Chin et al. (2008) and Witkowski et al. (2011) studied sediments from Devon Island in the Canadian
+High Arctic. These sediments have extraordinarily well preserved silicoflagellates of unusual skeletal
+morphologies, and include the first Cornua trifurcata to be photographed (Fig. 9).
+The Horton River site spans nearly the entire Campanian. The highest portion of this sequence contains a
+flora consistent with the Lyramula furcula Zone described by Bukry & Foster (1974), which was previously
+the only silicoflagellate zone of the Cretaceous. Near the bottom of this sequence are sediments that contain
+abundant Cornua trifurcata, which are used to define the C. trifurcata Partial Range Zone (McCartney et al.
+2011a). The top of this zone is defined as the last abundant—and probable extinction—of the nominative
+taxon. Immediately above the C. trifurcata Zone is a depauperate interval that lacks Cornua, described as the
+Lyramula minor Interval Zone, characterized by a predominance of Lyramula minor (Deflandre) Deflandre
+(1950: 62). The general small size of the silicoflagellates and unusual morphologies of both Lyramula and
+Corbisema suggest that this zone may represent an environmentally stressed interval of time that followed the
+extinction of much of the previous silicoflagellate flora (McCartney et al. 2011a).
+Above the Lyramula minor Interval Zone are two zones named after species of Arctyocha. The oldest of
+these is the Arctyocha mesocena Range Zone, which has abundant specimens of two new Arctyocha species:
+A. balkwillii McCartney, Witkowski & Harwood (2011a: 68) has basal rings with six to twelve or more sides
+and a wide range of apical designs while A. mesocena McCartney, Witkowski & Harwood (2011a: 69) lacks
+an apical structure (Fig. 10). Above this zone is the A. quadralta Range Zone; the other Late Cretaceous
+occurrences that have common A. quadralta, in California, the CESAR-6 core and DSDP Site 275, may
+correlate with this interval.
+CRETACEOUS SILICOFLAGELLATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 193
+
+FIGURES 9–16: Recently discovered or photographed Cretaceous silicoflagellates. Fig. 9. Modern photograph of Cornua trifurcata,
+Til’tim XI locality (see Witkowski et al, 2012). Fig. 10. Arctyocha mesocena, sample C-8606, Horton River, Canada. Fig. 11.
+Schulzyocha loperi, ODP 113-693B-19X-4, 77–78 cm. Fig. 12. Schulzyocha ruppelii, EF0103, Devon Island, Canada. Fig. 13.
+Schulzyocha lurveyi, EF0102, Devon Island, Canada. Fig. 14. Umpiocha umpiana, EF0401, Devon Island, Canada. Fig. 15. Umpiocha
+jeletskyi EF0401, Devon Island, Canada. Fig. 16. Umpiocha jeletzskyi, EF0401, Devon Island, Canada. Fig. 17. Cornua tapiae,
+EF0401, Devon Island, Canada. Variramus wisei, ODP 113-693B-19X-4, 77–78 cm.
+
+The Arctyocha mesocena Zone also shows an evolutionary transition for Corbisema lateradiata (Schulz)
+Perch-Nielsen (1975: 686) through C. geometrica Hanna (1928: 261) to C. parallela Hajós & Stradner (1975:
+938), which is a trend to larger and rounder basal rings and apical plates. These skeletal morphologies were
+previously known in the Maastrichtian, without knowledge as to which was the more primitive. Deflandre
+(1940) thought that C. geometrica was as long-lived species that through expansion of the apical plates had
+given rise to Vallacerta. The Horton interval showed that C. geometrica was a later development from a more
+trigonal basal ring with pointed corners. All three corbisemid morphologies continue into the Paleogene.
+The Devon Island interval is interpreted as Santonian to early Campanian in age and contains well
+preserved silicoflagellates of three assemblages, each described as a zone (McCartney et al. 2011b). The
+youngest of these is the Cornua trifurcata Zone described in McCartney et al. (2011a). Below this zone are
+two assemblages of very unusual and previously undescribed silicoflagellates. These are the Schulzyocha
+ruppelii Range Zone and below that the Vallacerta tumidula Partial Range Zone.
+
+194 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+McCARTNEY
+
+The Schulzyocha ruppelii Range Zone is characterized by the occurrence of several species of the new
+genus Schulzyocha (McCartney et al. 2011b: 50). The type species of this genus is S. loperi (McCartney,
+Wise, Harwood & Gersonde) McCartney, Witkowski & Harwood (2011b: 51)(Fig. 11), described by
+McCartney et al. (1990) as a species of Variramus. The nominative species of the zone is Schulzyocha ruppelii
+McCartney, Witkowski & Harwood (2011b: 52), an extremely unusual silicoflagellate with bulbs (Fig. 12) at
+the ends of the struts. The zone includes five new species of this genus, including S. lurveyi McCartney,
+Witkowski & Harwood (2011b: 51)(Fig. 13), which has very unusual basal elements. All of the new
+Schulzyocha species are restricted to the Schulzyocha ruppelii Zone. The Schulzyocha ruppelii Zone also has
+in its bottommost sample the oldest known occurrence of Lyramula, which does not occur in the underlying
+zone.
+The Vallacerta tumidula Partial Range Zone includes a variety of especially unusual taxa, even by the
+standards established by the Schulzyocha ruppelii Zone. The most unusual of these is the new genus
+Umpiocha McCartney, Witkowski & Harwood (2011b: 52), which is characterized by long limbs that curve
+beneath the apical structure, with terminations that come near to touching. The four curved limbs are not
+connected to an obvious basal plane, with a general shape that is more spherical than all known
+silicoflagellates except the Neogene Cannopilus Haeckel (1887: 1567). Two species have been placed in
+Umpiocha; U. umpiana McCartney, Witkowski & Harwood (2011b: 53)(Fig. 14) has two rows of spines on
+the limbs while U. jeletskyi McCartney, Witkowski & Harwood (2011b: 53)(Fig. 15) lacks spines but has
+digitated terminations to the limbs.
+The Vallacerta tumidula Partial Range Zone also includes an unusual new species of Cornua. The struts
+of C. tapiae McCartney, Witkowski & Harwood (2011b: 49)(Fig. 16) terminate in basal elements that are
+twisted and do not occur in a planar surface as do the basal elements of previously described Cornua. A
+similar twist is repeated at the end of each strut, producing a “pinwheel” effect. The Cornua have considerable
+variability and has been observed during recent reexamination of the ODP Site 693 material (McCartney et al.
+2011a), making this and Variramus wisei McCartney, Witkowski & Harwood (2011b: 55)(Fig. 17) especially
+long-lived Cretaceous silicoflagellate species.
+
+Discussion
+The silicoflagellate literature is briefly summarized in Table 1. Both the Horton River and Devon Island floras
+provide a broader context for interpreting silicoflagellates of the Cretaceous. The base of the Horton River
+section provides the first Cornua trifurcata assemblage observed in half a century, and the first ever to be
+extensively documented photographically. This, combined with the older flora of Devon Island and ODP Site
+693, represents an archaic group of silicoflagellates of which only Vallacerta has a basal ring. The other
+archaic genera are Variramus, Cornua, Schulzyocha and Umpiocha, all of which lack a basal ring.
+With the exception of Vallacerta, this archaic silicoflagellate flora either becomes extinct or very much
+less abundant at the top of the C. trifurcata Zone, in the early Campanian. The overlying Lyramula minor
+Zone has a depauperate flora dominated by small and unusual Lyramula. If this zone does represent recovery
+following a silicoflagellate mass extinction, the recovery was rapid as the zone occurs in only a single sample
+in the Horten River section. Rapid diversification followed with the evolution of Arctyocha and appearance of
+plated Corbisema in the next higher zone.
+Arctyocha and Corbisema, combined with Lyramula and Vallacerta, form the late Campanian/
+Maastrichtian flora that has been the subject of most of Cretaceus silicoflagellate literature. The previous
+literature, however, does not discuss the many-sided Arctyocha and the diverse morphologies that lack an
+apical structure observed in the Horton River section. This record shows a trend for Arctyocha towards fewer
+basal sides and less complex apical structures as the Campanian proceeds. Four-sided Arctyocha
+morphologies are most typical near the Campanian/Maastrichtian boundary. It is uncertain if and for how long
+the genus persists into the Maastrichtian, but it is generally not present in exclusively Maastrichtian sections.
+CRETACEOUS SILICOFLAGELLATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 195
+
+At about the time that Arctyocha diminishes in abundance, more complex Lyramula morphologies with three
+to many limbs and less symmetrical skeletons occur. Complex Lyramula skeletons were illustrated by
+Deflandre (1940, 1950) and also observed in section 2–5 of DSDP Site 275 (Bukry 1975) and the CESAR-6
+core (Bukry 1981). Unusual Arctyocha morphologies that have struts that support an apical window have also
+been observed in the late Campanian (Harwood 1988, McCartney et al. 2010b). A detailed examination of the
+California and Site 275 sections is needed to determine if these transitions are correlated with other evidence
+of environmental stress.
+Despite the many papers that include observations of silicoflagellates in the Maastrichtian, few
+generalizations can be made about the nature of that record. No near complete record of Maastrichtian
+silicoflagellate history is available, as can be observed at Horton River for the Campanian. Except for the
+section at Seymour Island (Harwood 1988), little information is available about the impact of the terminal
+Cretaceous extinction event on the silicoflagellates. If any of the Cretaceous silicoflagellate genera except
+Corbisema survived the K\Pg boundary, they did not persist for long. All Cenozoic silicoflagellates evolved
+from Corbisema.
+
+Cornua
+
+Lyramula
+
+Vallacerta
+
+Bukry, 1974
+
+Maastrichtian
+
+DSDP Site 216, E Indian Ocean
+
+X
+
+X? X
+
+X
+
+Bukry, 1975
+
+late Campanian—Maas.
+
+DSDP Site 275, SW Pacific Ocean X
+
+X
+
+X? X
+
+X
+
+?
+
+Bukry, 1981, 1985
+
+late Campanian—Maas.
+
+Alpha Ridge, Arctic Ocean
+
+X
+
+?
+
+X
+
+X
+
+?
+
+?
+
+Cornell, 1974
+
+Maastrichtian
+
+California, USA
+
+Dell'Agnese and Clark, 1994
+
+late Campanian—Maas.
+
+Alpha Ridge, Arctic Ocean
+
+X
+
+X
+
+X
+
+X
+
+Gresham, 1985
+
+Maastrichtian
+
+DSDP Site 216, E Indian Ocean
+
+X? X
+
+X
+
+Gleser, 1959, 1966
+
+Santonian to early Camp. Ural Mountains, Russia
+
+X
+
+X
+
+X
+
+Ural Mountains, Russia
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Jouse, 1949, 1951
+
+X
+
+Umpiocha
+
+Geographic Region
+
+Variramus
+
+Age
+
+Arctyocha
+
+Reference
+
+Corbisema
+
+Schulzyocha
+
+TABLE 1: List of all Cretaceous silicoflagellate literature, with age and geographic region. "X?" indicates where the
+taxon was identified but the authors of the reference maintain some level of uncertainy as to its identification, "?"
+indicates where the authors think this taxon may occur.
+
+X
+
+X
+
+Hajos and Stradner, 1975
+
+late Campanian—Maas.
+
+DSDP Site 275, SW Pacific Ocean X
+
+X
+
+X
+
+X
+
+Hanna, 1928
+
+Maastrichtian
+
+California, USA
+
+X
+
+X
+
+X
+
+X
+
+Harwood, 1988
+
+Maastrichtian
+
+Seymour Is., Antarctica
+
+X
+
+X
+
+X
+
+X
+
+Ling, 1972
+
+Maastrichtian
+
+California, USA
+
+X
+
+X
+
+X
+
+Ling et al., 1973
+
+late Campanian—Maas.
+
+Canadian Arctic
+
+X
+
+X
+
+Mandra, 1960, 1968
+
+Maastrichtian
+
+California, USA
+
+X
+
+X
+
+X
+
+Martinez Macciavello, 1987
+
+late Campanian—Maas.
+
+Seymour Is., Antarctica
+
+X
+
+X
+
+McCartney et al., 1990
+
+Albian
+
+ODP Site 693, Weddell Sea
+
+McCartney et al. 2011a
+
+Campanian
+
+Canadian Arctic
+
+McCartney et al. 2011b
+
+Santonian to early Camp. Canadian Arctic
+
+Moshkovitz et al., 1983
+
+Maastrichtian
+
+Quinterno et al., 1994
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+late Campanian—Maas.? Tonga Trench, Pacific
+
+X
+
+X
+
+X
+
+X
+
+X?
+
+Perch-Nielsen, 1975
+
+late Campanian—Maas.
+
+DSDP Site 275, SW Pacific Ocean X
+
+X
+
+X
+
+X
+
+Sawamua and Otowa, 1979
+
+uncertain
+
+Japan
+
+Schulz, 1928
+
+early Campanian
+
+Baltic Sea, Poland
+
+Tsumura, 1963
+
+Maastrichtian
+
+California, USA
+
+196 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+X
+
+Israel
+
+X
+
+X
+
+X
+
+X
+X
+X?
+
+X
+
+X
+X
+
+X?
+
+McCARTNEY
+
+Priorities for future study
+The recent discoveries provide a new context for the interpretation of Cretaceous silicoflagellate history.
+Many of the localities studied in past decades now require new and more detailed examination. Among these
+is the Moreno formation of California, which has seen little study since Cornell (1974). None of the previous
+studies were systematic examinations of stratigraphic sections with a high resolution sample interval. The
+Horton River zonation suggests that the Arctyocha of California may be of latest Campanian age, and not
+Maastrichtian as generally stated in the Californian silicoflagellate studies.
+The presence of unusual Arctyocha and Lyramula near the bottom of core 2 at DSDP Site 275 also needs
+further study. The Initial Scientific Results for that leg include three silicoflagellates studies (Bukry 1975,
+Hajós & Stradner 1975, Perch-Nielsen 1975) which have different species interpretations. Corbisema
+geometrica v. apiculata Jousé (1951: 78) of Hajós & Stradner (1975) is equivalent to C. lateradiata (PerchNielsen 1975) and C. geometrica lateradiata (Schulz) Bukry (1975: 853). Such disparities of Corbisema
+interpretation occur throughout the Maastrichtian literature. There are also differences in the interpretation of
+Corbisema taxa (C. apiculata Frenguelli (1940: 62), C. inermis (Lemmermann) Bukry (1975: 854), C.
+archangelskiana (Schulz) Frenguelli (1940: 62)) between the Maastrichtian and Paleogene literature (e.g.,
+McCartney et al. 2011b, for a discussion of C. inermis). Corbisema requires a thorough study to develop a
+more consistent species interpretation.
+The Devon Island section also deserves much more detailed analysis. The original samples were collected
+during an exploratory search for fossil vertebrates, so a systematic sampling for microfossil study was not
+made. The three zones interpreted by McCartney et al. (2011b) were made on the basis of eight samples (three
+samples for each of the higher two zones, two samples in the lowest zone). Another expedition to this island to
+obtain more samples would provide a better understanding of the early evolution of Corbisema, as well are the
+diversification and variability of Cornua and Schulzyocha.
+The Devon Island section also provides a better knowledge of Variramus, with three new species which
+considerably narrow the interpretation of V. aculeifera as presented by McCartney et al. (1990). The Albian
+section of ODP Site 693 needs to be restudied. A reexamination of Site 693 materials has observed Cornua
+tapiae in the Albian. With the reclassification of V. loperi to Schulzyocha, the known Albian diversity has
+increased from two Variramus and one Vallacerta species to four genera – Variramus, Vallacerta, Schulzyocha
+and Cornua – the first of these now having several species.
+Work is also needed to determine the provenance of the original sample studied by Deflandre (1940,
+1944) from which Vallacerta hannai and what was then called Cornua aculeifera were described. Deflandre
+obtained this sample from Hanna, who labeled it as Maastrichtian in age, and from a Panoche Hills section of
+the Moreno formation. Deflandre however described a flora that is very similar to the Albian ODP Site 693
+occurrence. If, as appears likely, the locality information was either mislabeled by Hanna or Deflandre, then
+Where did it come from? Could an unknown Lower Cretaceous silicoflagellate-bearing unit of strata be
+present in California or elsewhere?
+Finally, more work needs to be done on any basic differences between the Cretaceous and Cenozoic
+silicoflagellate flora. A rare double skeleton of Corbisema was found in the Horton River section and
+illustrated by McCartney et al. (2010a). This specimen shows each skeleton of the pair rotated with respect to
+the other, in a “star-of-David” configuration. Double skeleton specimens of Vallacerta and Schulzyocha also
+show this rotated pattern (McCartney et al. 2010b, 2011b). Thus far, all observed double skeletons from the
+Cretaceous show rotated double skeletons while Cenozoic double skeletons have the basal corners and spines
+aligned with each other. Why would Cretaceous and Cenozoic double skeletons be so different? There is still
+a great deal to learn about the Cretaceous and early Cenozoic silicoflagellate record.
+
+CRETACEOUS SILICOFLAGELLATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 197
+
+Conclusions
+During the past century, a variety of workers have observed and illustrated silicoflagellate skeletal
+morphologies from the Cretaceous. This body of work started with Lemmermann, who in 1901 described
+Paleogene taxa that are now commonly used for Cretaceous species of Corbisema. Hanna and Schulz in 1928
+formally described three additional Cretaceous genera, and illustrated the Cretaceous morphology now known
+as Arctyocha. Subsequent work through the 1980s have added to the knowledge of these genera through the
+description of new species and extending their known geographic distributions.
+The geologic record of Cretaceous silicoflagellates, however, was not appreciably extended by the
+subsequent work, as the geologic age of known silicoflagellates continued to be latest Campanian through
+Maastrichtian, and a relatively brief interval in the Santonian to earliest Campanian. In 1990, the discovery of
+an assemblage of early and variable silicoflagellates from the Albian extended the known silicoflagellate
+record considerably, but did not clarify the evolutionary relationships among the previously known genera.
+More recent research in the Canadian Arctic provides a better understanding of early silicoflagellates. Cornua
+is now known to be an important and long-lived genus. The transition from Cornua to Corbisema can now be
+better placed temporally, and may involve two lineages. An evolutionary lineage is now available for the
+Corbisema with apical plates. Dates of first appearance are now known for Lyramula and Arctyocha, and
+unusual new silicoflagellates have been described in the Santonian. This information provides a larger context
+and new perspective for interpretation of the previously known taxa.
+
+Acknowledgements
+I thank Jakub Witkowski and David M. Harwood for their active involvement in so much of the recent work that has led
+to a better understanding of Cretaceous silicoflagellates. Jakub Witkowski assisted in the preparation of the figures and
+provided the SEM photographs.
+
+References
+Bukry, D. (1974) Coccolith and silicoflagellate stratigraphy, eastern Indian Ocean, Deep Sea Drilling Project Leg 22. In:
+von der Borch, C.C., Sclater, J.G., et al. (Eds.), Initial Reports of the Deep Sea Drilling Project, Scientific Results,
+U.S. Government Printing Office, Washington, 22: 601–607.
+Bukry, D. (1975) Silicoflagellate and coccolith stratigraphy, Deep Sea Drilling Project Leg 29. In: Kennett, J.P., Houtz,
+R.E., et al. (Eds.), Initial Reports of the Deep Sea Drilling Project, Scientific Results, U.S. Government Printing
+Office, Washington, 29: 845–872.
+Bukry, D. (1981) Cretaceous Arctic silicoflagellates. Geo-Marine Letters 1: 57–63.
+http://dx.doi.org/10.1007/BF02463303
+Bukry, D. (1985) Correlation of late Cretaceous Arctic silicoflagellates from Alpha Ridge. In: Jackson, H.R., Mudie, P.J.,
+Blasco, S.M. (Eds.), Initial Geological Report on CESAR - the Canadian Expedition to Study the Alpha Ridge,
+Arctic Ocean. Geological Survey of Canada, Paper 84–22: 125–135.
+Bukry, D. & Foster, J.H. (1974) Silicoflagellate zonation of upper Cretaceous to lower Miocene deep sea sediment.
+Journal Research U.S. Geological Survey 2: 303–310.
+Chin, K., Bloch, J.D., Sweet, A.R., Tweet, J.S., Eberle, J.J., Cumbaa, S.L., Witkowski, J. & Harwood, D.M. (2008) Life
+in a temperate Polar sea: a unique taphonomic window on the structure of a Late Cretaceous Arctic marine
+ecosystem. Proceedings of the Royal Society B 275: 2675–2685.
+http://dx.doi.org/10.1098/rspb.2008.0801
+Cornell, W.C. (1974) Maastrichtian silicoflagellates of the Great Valley, California. Geoscience and Man 9: 37–44.
+http://dx.doi.org/10.1080/00721395.1974.9989747
+Daugbjerg N. & Henriksen, P. (2001) Pigment composition and rbcL sequence data from the silicoflagellate Dictyocha
+speculum: A heterokont alga with pigments similar to some haplophytes. Journal Phycology 37: 1110–1120.
+http://dx.doi.org/10.1046/j.1529-8817.2001.01061.x
+Deflandre, G. (1940) L’prigine phylogenénétique de Lyramula et l’évolution des Silicoflagellidées. Comptes rendus,
+
+198 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+McCARTNEY
+
+Académie des Sciences 211: 508–510.
+Deflandre, G. (1944) Remarques sur l’évolution des Silicoflagellidées, à propos de deux espèces crétaciques nouvelles.
+Comptes rendus, Académie des Sciences 219: 463–465.
+Deflandre, G. (1950) Contribution à l’étude des Silicoflagellidés actuels et fossils. Microscopie 2: 2–84.
+Dell’Agnese, D.F. & Clark, D.L. (1994) Siliceous microfossils from the warm Late Cretaceous and early Cenozoic
+Arctic Ocean. Journal Paleontology 68: 31–47.
+Desikachary, T.V. & Prema, P. (1996) Silicoflagellates (Dictyophyceae). Bibliotheca Phycologica, Band 100, 298 p.
+Ehrenberg, C.G. (1844) Mittheilung über zwei neue Lager von Gebirgsmassen aus Infusorien als Meeres-Absatz in NordAmerika und eine Vergleichung derselben mit den organischen Kreide-Gebilden in Europa und Afrika. Bericht über
+die zur Bekanntmachung geeigneten Verhandlungen der Königlich-Preussischen Akademie der Wissenschaften zu
+Berlin 1844: 57–97.
+Frenguelli, J. (1935) Variaciones de Dictyocha fibula en el Golfo de San Matías. Annales del Museo Argentino de
+Ciencias Naturales 38: 263–381.
+Gresham, C.W. (1985) Cretaceous and Paleocene siliceous phytoplankton assemblages from DSDP sites 216, 214 and
+208 in the Pacific and Indian Oceans. Unpublished Masters Thesis, University of Wisconsin – Madison, 233 p.
+Gleser, Z.I. (1959) Nekotorye novye dannye o semeistve Vallacertaceae Deflandre (Silicoflagellatae) (Some new data on
+the Family Vallacertaceae Deflandre [Silicoflagellatae]). Informatsionnyi Sbornik 10: 103–113.
+Gleser, Z.I. (1966) Silicoflagellatophycaea. In: Gollerbakh, M. M. (ed.), Cryptogamic Plants of the S.S.S.R. (Vol. 7). V.
+A. Komarova Botanical Institute, pp. 363. (Translated from Russian by Israel Program for Scientific Translations
+Ltd, Jerusalem, 1970.)
+Haeckel, E. (1887) Report on the radiolarian collected by H.M.S. Challenger during the years 1873–1876. Report of the
+Scientific Results of H.M.S. Challenger during the years 1873–1876 18: 1–1803.
+Hajós, M. & Stradner, M. (1975) Late Cretaceous archaeomonads, diatomaceae, and silicoflagellata from the south
+Pacific Ocean, Deep Sea Drilling Project, Leg 29, Site 275. In: Kennett, J.P., Houtz, R.E., et al. (Eds.), Initial
+Reports of the Deep Sea Drilling Project, Scientific Results, U.S. Government Printing Office, Washington, 29: 913–
+1010.
+Hanna, G D. (1928) Silicoflagellata from the Cretaceous of California. Journal of Paleontology 1: 259–263.
+Harwood, D.M. (1988) Upper Cretaceous and lower Paleocene diatom and silicoflagellate biostratigraphy of Seymour
+Island, Eastern Antarctic peninsula. In: Feldmann, R., Woodburne, M.D. (eds) Geology and Paleontology of
+Seymour Island. Geological Society of America Memoir 169: 55–129.
+Jousé, A.P. (1949) Novye diatomovye I kremnevye zhgutikovye vodorosli verkhnemelovogo vozrasta iz glinistykh
+peskov basseina reki Bol’shoi Aktai (vostochnyi sklon Severnogo Urala) (New Diatoms and Silicoflagellates from
+Upper Cretaceous Argillaceous Sands of the Basin of Bol’shoi Aktai River [Eastern Slope of the Northern Urals]).
+Botanicheskie Materialy Otdela Sporovykh Rastenii Botanicheskogo Instituta SSSR 6: 65–78.
+Jousé, A.P. (1951) Diatomaceae et silicoflaggellatae aetatis supernecretaceae ex arenis argillaceis systematis fluminis
+Bolschoy Aktay in declivitate oreintali Ural Borealis. Otdela Sporovykh Rastenii, Botanischeskii Institut, Akademia
+Nauk SSSR 10: 72–76.
+Lemmermann, E. (1901) Silicoflagellatae. Deutsche Botanische Gesellschaft, Berichte, 19: 247–271.
+Ling, H.-L. (1972) Upper Cretaceous and Cenozoic silicoflagellates and ebridians. Bulletins of American Paleontology,
+62(273): 135–229.
+Ling, H.-L., McPherson, L.M. & Clark D.L. (1973) Late Cretaceous (Maastrichtian?) silicoflagellates from the Alpha
+Cordillera of the Arctic Ocean. Science 180: 1360–1361.
+http://dx.doi.org/10.1126/science.180.4093.1360
+Lipps, J.H. (1970) Ecology and evolution of silicoflagellates. Proceedings of the North American Paleontologic
+Convention, Chicago 1969, 2(g): 965–993.
+Littke, R., Fourtanier, E., Thurow, J. & Taylor, E. (1991) Silica diagenesis and its effect on lithification of Broken Ridge
+deposits, Central Indian Ocean. In: Weissel, J., Pierce, J., et al. (eds) Proceedings of the Ocean Drilling Program,
+Scientific Results, U. S. Government Printing Office, Washington, 121: 261–272.
+Mandra, Y.T. (1960) Fossil silicoflagellates from California, U.S.A. International Geological Congress, XXI Session,
+Norden, 1960, Report, pt. 6: 77–89.
+Mandra, Y.T. (1968) Silicoflagellates from the Cretaceous, Eocene and Miocene of California, U.S.A. California
+Academy of Science, Proceedings 36: 231–277.
+Martinez Macciavello, J. C. M., (1987) Bioestratigrapfia diatomatica de un perfil del Cretacico superior de la Isla
+Vicecomodoro Marambio, Antarctica. Ameghiniana, 24: 277–288.
+McCartney, K. (1987) Silicoflagellates, ebridians and archaeomonads. In: Lipps, J. (ed.) Fossil Procaryotes and Protists:
+Notes for a Short Course. Paleontological Society and Cushman Foundation, for Geological Society of America
+Meeting, November, 1987, pp. 146–168.
+McCartney, K., Wise, S.W., Jr., Harwood, D.M. & Gersonde, R. (1990) An enigmatic lower Albian silicoflagellate from
+ODP Site 693: Progenitors of the Order Silicoflagellata? In: Barker, P. F., Kennett, J. P., et al. (eds) Ocean Drilling
+
+CRETACEOUS SILICOFLAGELLATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 199
+
+Program, Scientific Reports 113: 427–442.
+McCartney, K., Harwood, D.M. & Witkowski, J. (2010a) A rare double skeleton of the silicoflagellate Corbisema.
+Journal of Micropaleontology 29: 185–186.
+http://dx.doi.org/10.1144/0262-821X09-020
+McCartney, K., Witkowski, J. & Harwood, D.M. (2010b) Early Evolution of the Silicoflagellates during the Cretaceous.
+Marine Micropaleontology 77: 83–100.
+http://dx.doi.org/10.1016/j.marmicro.2010.08.001
+McCartney, K., Witkowski, J. & Harwood, D.M. (2011a) Late Cretaceous silicoflagellate taxonomy and biostratigraphy
+of the Arctic Margin, Northwest Territories, Canada. Micropaleontology 57: 61–86.
+McCartney, K., Witkowski, J. & Harwood, D.M. (2011b) Unusual early assemblages of Upper Cretaceous
+silicoflagellates from the Canadian Archipelago. Revue de Micropaléontologie 54: 31–58.
+http://dx.doi.org/10.1016/j.revmic.2010.08.002
+Moshkovitz, S., Ehrlich, A. & Soudry, D. (1983) Siliceous microfossils of the Upper Cretaceous Mishash Formation,
+central Negev, Israel. Cretaceous Research 4: 173–194.
+http://dx.doi.org/10.1016/0195-6671(83)90048-4
+Perch-Nielsen, K. (1975) Late Cretaceous to Pleistocene silicoflagellates from the southern southwest Pacific, DSDP,
+Leg 29. In: Kennett, J.P., Houtz, R.E., et al. (eds.) Initial Reports of the Deep Sea Drilling Project, Scientific Results,
+U.S. Government Printing Office, Washington, 29: 677–721.
+Perch-Nielsen, K. (1985) Silicoflagellates. In: Bolli, H.M., Saunders, J.B. and Perch-Nielsen, K. (eds) Plankton
+Stratigraphy. Cambridge University Press, Cambridge, pp. 811–846.
+Quinterno, P.J., Barron, J.A., Bukry, D. & Blome, C.D. (1994) Late Cretaceous microfossils in a single dredge haul from
+the Tonga trench: Evidence of late Cretaceous environment at the Louisville Hotspot. In: Stevenson, H.J., Herzer,
+R.H., Balance, P.F. (eds) Geology and Submarine Resources of the Tonga-Lau-Fiji Region SOPAC Technical
+Bulletin 8: 285–291.
+Sawamura, K. & Otowa, K. (1979) Silicoflagellates [sic] flora in calcareous concretions found in Cretaceous and
+Tertiary of Japan. Bulletin Geological Survey of Japan 30: 51–56.
+Schulz, P. (1928) Beitrage zur Kenntnis fossiler und rezenter Silicoflagellaten. Botanischen Archiv 21: 225–292.
+Tapia, P.M. (1996) Campanian diatom biostratigraphy and paleoecology of Arctic Canada. Unpublished Master’s
+Thesis, University of Nebraska – Lincoln, 94 pp.
+Tapia, P.M. & Harwood, D.M. (2002) Upper Cretaceous diatom biostratigraphy of the Arctic archipelago and northern
+continental margin, Canada. Micropaleontology 48: 303–342.
+Tsumura, K. (1963) A systematic study of silicoflagellateae. Yokohama Municipal University, Journal C-45, no. 146: 1–
+84.
+Witkowski, J. (2008) Taxonomy, palaeoecology and biostratigraphic potential of diatoms from the Upper Cretaceous of
+Devon Island, Canadian High Arctic. Unpublished Master’s Thesis, University of Warsaw, 97 pp.
+Witkowski, J., Harwood, D.M. & Chin, K. (2011) Taxonomic composition, paleoecology and biostratigraphy of Late
+Cretaceous diatoms from Devon Island, Nunavut, Canadian High Arctic. Cretaceous Research 32: 277–300.
+http://dx.doi.org/10.1016/j.cretres.2010.12.009
+Witkowski, J., Harwood, D.M. & Kulikovskiy, M. (2012) Observations on Late Cretaceous marine diatom resting spore
+genera Pseudoaulicodiscus and Archaegoniothecium gen. nov. Nova Hedwigia, Beihefte 141: 375–404.
+
+200 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+McCARTNEY
+
+

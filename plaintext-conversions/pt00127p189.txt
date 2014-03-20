@@ -1,0 +1,468 @@
+Phytotaxa 127 (1): 183–189 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.17
+
+Investigation of evolutionary effects on the relative frequency of sexual
+reproduction in freshwater diatoms
+VIRGINIA M. CARD1 & MEEGEN CARRA1
+1
+
+Natural Sciences Department, Metropolitan State University, St. Paul, Minnesota, 55106, USA
+Email: virginia.card@metrostate.edu (corresponding author)
+
+Abstract
+There are substantial ecological and evolutionary costs to sexual reproduction and there is only a narrow range of
+conditions that favors the evolution of high rates of sexual reproduction in species that are capable of both sexual and
+asexual reproduction. Considering the evolutionary costs and benefits of sexual reproduction, it was hypothesized that
+the frequency of sexual reproduction relative to asexual reproduction in diatoms would be greater for attached pennates
+and lower for planktonic centrics. This was investigated by comparison of the size-class distributions of the attached
+pennate, Rhopalodia gibba (Ehrenberg) Müller 1895 and the planktonic centric Cyclotella meneghiniana Kützing 1844
+collected from the littoral zone of Lake Phalen in St. Paul Minnesota, USA. Numerical combination of binomial
+functions was used to infer the number of significant occurrences of sexual reproduction contributing to the size-class
+distribution of each population, with the frequency of sexual reproduction relative to asexual reproduction inferred from
+the number of binomial curves contributing to the distribution. The size-class profile of C. meneghiniana was unimodal,
+dominated by a single peak at 12 µm, with additional contributing curves with peaks at 15 µm and 18 µm. The size-class
+profile of R. gibba was bimodal, dominated by peaks at 46 µm and 60 µm, with additional contributing curves with peaks
+at 36 µm, 73 µm, and 84 µm. The results of this investigation were robust with respect to difference between the species
+in sample size and number of size-classes, although the analysis method is sensitive to differences in the number of sizeclasses. The results supported the hypothesis, and demonstrate the principle that size-class analysis of diatom populations
+can be used to investigate evolutionary hypotheses about differences among taxa in the relative frequency of sexual and
+asexual reproduction.
+
+Introduction
+There are substantial ecological and evolutionary costs to sexual reproduction (Williams 1975, Maynard
+Smith 1978, Futuyma 2009), and recent work in theoretical evolutionary biology indicates that there is only a
+narrow range of conditions that favors high rates of sexual reproduction in species that are capable of both
+sexual and asexual reproduction (Otto & Lenormand 2002, Agrawal 2006).
+Diatoms are an ideal organism for the investigation of the evolutionary factors that determine the relative
+frequency of sexual and asexual reproduction because diatom species are capable of both sexual and asexual
+reproduction (Drebes 1977, Round et al. 1990, Mann 1993), different taxa are reported to engage in the two
+modes of reproduction at different frequencies (Mann 1988, 1993, Edlund & Stoermer 1997), and
+reproduction in diatoms can be studied with a variety of methods including laboratory culture studies
+(Chepurnov et al. 2004, Amato et al. 2005), molecular genetics (e.g, Rynearson & Armbrust 2005, Beszteri et
+al. 2007, Alverson 2008) and field observation (Jewson 1992a, 1992b, D’Alelio et al. 2010 ). Furthermore,
+because of the siliceous frustule and its changes during the life cycle, it is possible to study the population
+ecology of diatom populations over thousands of generations using paleolimnological methods (e.g. Nipkow
+1927, Card 1997). In this paper we present a novel method for testing evolutionary hypotheses using sizeclass analysis of diatom populations.
+Accepted by M.B. Edlund: 8 Mar. 2011; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+183
+
+The costs and benefits of sexual reproduction for diatoms include some factors that are common to all
+eukaryotes, some that are peculiar to algae and unicellular organisms, and some that are unique to diatoms.
+Costs generally accepted to be widespread or universal include the loss of good genotypes in populations
+for which natural selection has favoured particular combinations of alleles and a decrease in the number of
+offspring produced per reproductive event (Williams 1975, Maynard Smith 1978, Futuyma 2009). For
+diatoms and other algae there are also the costs of lost reproductive opportunity and increased risk of death
+during the time-consuming processes of gametogenesis, dispersal, zygote formation and development (Lewis
+1983, Brawley & Johnson 1992, Edlund & Stoermer 1997).
+Benefits that are generally accepted to be universal include the expression and subsequent purging of
+deleterious recessive alleles (Hurst & Peck 1996, Futuyma 2009), and the creation of new genotypic and
+haplotypic associations, although the latter may be beneficial only when the population is subject to
+directional selection or significant genetic drift (Hurst & Peck 1996, Otto & Lenormand 2002, Futuyma
+2009). For diatoms in particular the benefits of sexual reproduction may also include effects that result
+directly from increased cell size, benefits that have been suggested to include a decreased herbivory rate, a
+change in nutrient uptake rates, and a change in sinking rates of planktonic cells (Drebes 1977, Edlund &
+Stoermer 1997). Also, because sexual reproduction for diatoms is associated with the abandonment of the
+parental cell wall and formation of a new cell wall de novo, there may be benefits from the shedding of ectoparasites and the restoration of a genetically determined cell wall pattern that is free from teratological
+features (Edlund & Stoermer 1997).
+Of the many potential costs and benefits, there are two that are likely to vary both substantially and
+systematically across broad taxonomic groups of diatoms: the cost due to the increased risk and lost
+opportunity during reproduction and the benefit due to the restoration of genetic diversity that has been lost to
+genetic drift.
+For algae, the failure of gametes to successfully meet and form a zygote can be a substantial cost of sexual
+reproduction (Brawley & Johnson 1992) and this cost is likely to be higher for taxa that are oogamous,
+planktonic, and occur in relatively low population densities. For diatoms, this suggests that the evolutionary
+cost of sexual reproduction will be higher for planktonic centric diatoms than for epiphytic pennates.
+Genetic drift reduces genetic diversity more quickly in populations that have smaller effective population
+sizes (Futuyma 2009). Studies of the dispersal of algal gametes have found that dispersal is generally limited
+to a few meters, causing very fine-scale genetic structure within populations (Williams & Di Fiori 1996, Van
+der Strate et al. 2002). Sessile algal population are likely to have smaller effective population sizes than motile
+or planktonic populations and to have correspondingly greater loss of genetic diversity by genetic drift. For
+diatoms, this suggests that the evolutionary benefit of sexual reproduction will be higher for epiphytic diatoms
+than for planktonic diatoms.
+Considering the cost and the benefit that are likely to vary substantially and systematically among
+diatoms, we hypothesized that the net benefit and therefore the frequency of sexual reproduction relative to
+asexual reproduction will be higher for attached pennates and lower for planktonic centrics.
+
+Methods
+Epiphytic samples on coontail (Myriophyllum spicatum L.) were collected from a depth of approximately one
+meter in the littoral zone of Lake Phalen, in St. Paul, Minnesota. Samples were prepared by soaking in cold
+hydrogen peroxide and were mounted in Zrax mounting medium (W.P. Dailey, Philadelphia, Pennsylvania).
+Two abundant and distinctive species were chosen for analysis, an attached pennate, Rhopalodia gibba
+(Ehrenberg) Müller (1895: 65) and a planktonic centric, Cyclotella meneghiniana Kützing (1844: 50).
+Identifications were made using Krammer and Lange-Bertalot (1999–2000). Over one thousand valves of R.
+gibba and over four hundred valves of C. meneghiniana were measured to a precision of 0.1 μm at 1000x
+magnification with an Olympus BX microscope and SPOT optical analysis system. The C. meneghiniana data
+
+184 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+CARD & CARRA
+
+were binned into 1 μm size classes and the R. gibba data binned into 2 μm size classes and size-class
+histograms for each species constructed using Microsoft Excel.
+The occurrence of sexual reproductive events was inferred by visual analysis of the size-class histograms,
+following the methods of Mann (1988) and Jewson (1992a, 1992b), and by numerical fitting of binomial
+curves to the profiles. In this procedure it is assumed that reproduction is sufficiently well described by the
+MacDonald-Pfitzer rule that each significant event of sexual reproduction results in a size-class distribution
+described by the binomial expansion. The binomial expansion is a discrete function in which the number of
+valves n in any size-class i at time t is described by the function: nit = t! / ((t-i)! • i!). This function is referred
+to hereafter as the binomial curve. According to the MacDonald-Pfitzer rule and its major variations (e.g.
+Jewson 1992b), sexual reproduction produces large cells that, through cell division (asexual reproduction),
+create a lineage of cells having a unimodal distribution whose mean and modal size decrease, and variance
+and range increase, over time. A population that is composed of significant numbers of individuals descended
+from more than one separate events of sexual reproduction is multimodal, composed of the addition of
+binomial curves each of which reflects the size-class distribution of a lineage resulting from a separate
+reproductive event. Thus, the size-class distribution of a population can be described as the linear combination
+of binomial functions using the equation Σ z e •nit , where z e is the proportional contribution to the total
+population of each lineage ‘e’ and ‘t’ is proportional to the number of generations (cell divisions) that have
+occurred since the formation of the initial cell.
+The data were first smoothed with a three step weighted averaging function (ni = 0.25ni-1 + 0.5ni +
+0.25ni+1) to facilitate the deconstruction of the size-class histogram into its constituent binomial curves. A
+binomial curve was then fit to the largest peak in the data, with the modal size (i) of the binomial curve equal
+to the size of the largest mode in the data, and the values of parameters (t and z) determined numerically to
+minimized the residuals. Then, a binomial curve was fit to the largest peak of the residuals, using the same
+method. A third binomial curve was fit by the same method to the largest peak of the remaining residuals. At
+each step, the correlation between the distribution of predicted (modelled) and observed (un-smoothed data)
+valve sizes was checked, and the procedure continued until the correlation was greater than 0.95.
+To test for possible confounding effects of the difference in sample size, ten sub-samples of 400 valves
+each were taken at random from the Rhopalodia gibba data set and the curve-fitting procedure applied. To test
+for possible confounding effects of the difference in the number of size-classes, the R. gibba data were also
+divided into a smaller number of wider size-classes (twelve; 4 μm broad) and the curve-fitting procedure
+repeated.
+
+Results
+Cyclotella meneghiniana
+Four hundred and five valves of Cyclotella meneghiniana, the planktonic centric taxon, were measured. These
+valves had an average diameter of 13.2 μm, median diameter of 12.5 μm, and range of 7–19 μm. Valves
+occurred in twelve 1 μm size-classes. The smoothed size-class profile of the population was unimodal,
+dominated by a single peak at 12 μm (Fig. 1a). Fitting of binomial curves to the data revealed that it was
+composed of three binomial curves, the largest with a mode of 12 μm, the second largest with a mode of 15
+μm, and the smallest with a mode of 18 μm (Fig. 1b). The first curve accounted for 73% of the valves, the
+second curve accounted for another 20%, and the third curve accounted for another 6% of the valves. The
+number of valves in each size-class predicted by the model was highly correlated to the number of valves
+actually observed in each size-class (R2 > 0.95).
+Rhopalodia gibba
+One thousand and twenty four valves of Rhopalodia gibba, the attached pennate taxon, were measured. These
+valves had an average length of 52.6 μm, a median length of 48.5 μm and a range of 34–88 μm. Valves
+FREQUENCY OF SEXUAL REPRODUCTION IN DIATOMS
+
+Phytotaxa 129 (1) © 2013 Magnolia Press
+
+• 185
+
+occurred in twenty-five 2 μm size-classes. The smoothed size-class profile of the population was bimodal,
+with dominant peaks at 46 and 60 μm (Fig. 2a). Fitting of binomial curves to the data revealed that it was
+composed of at least 5 binomial curves, with modes of 36, 46, 60, 73, and 84 μm. A majority (over 90%) of
+the valves were accounted for by 46 um and 60 μm modes (Fig. 2b). The first curve accounted for 50% of the
+valves, the second curve accounted for another 41%, and the next 3 curves accounted for another 6%, 2% and
+1% of the valves, respectively. The number of valves in each size-class predicted by the model based on
+combination of binomial curves fit to the smoothed data was very highly correlated to the number of valves
+observed in each size-class (R2 > 0.95).
+In eight of the ten 400-valve subsets, the same five binomial curves were identified by the curve-fitting
+results. Curves with peaks at 46 μm, 60–62 μm and 72–74 μm were present in all ten subsets, the curve with a
+peak at 82–84 μm was present in nine of the ten subsets, and the curve with a peak at 36 μm was present in
+eight of the ten subsets.
+Fig 1a
+
+1b
+
+Cyclotella
+
+Cyclotella
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+observed
+
+20
+
+Sum of Models
+Mode 12um
+
+20
+
+Mode 15um
+
+0
+
+Mode 18um
+
+0
+21
+
+16
+
+11
+
+6
+
+1
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+valve diameter in m
+
+valve diameter in m
+
+Fig 2a
+
+2b
+
+Rhopalodia
+
+Rhopalodia
+
+120
+
+100
+Observed
+
+100
+
+80
+
+Sum of Models
+
+60
+
+Mode 46um
+
+80
+60
+40
+20
+
+Mode 60um
+
+40
+20
+
+Mode 36um
+
+0
+
+Mode 73um
+
+0
+101
+
+81
+
+61
+
+41
+
+21
+
+valve length in m
+
+1
+
+Mode 84um
+
+100
+
+80
+
+60
+
+40
+
+20
+
+valve length in m
+
+FIGURES 1, 2: Size distribution and modelled size classes in Cyclotella meneghiniana and Rhopalodia gibba. Fig. 1a: Observed size
+class distribution of Cyclotella meneghiniana valves. Fig. 1b: Modelled size class distribution based on combination of binomial
+curves fit to smoothed data. Fig. 2a: Observed size class distribution of Rhopalodia gibba valves. Fig. 2b: Modelled size class
+distribution based on combination of binomial curves fit to smoothed data.
+
+186 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+CARD & CARRA
+
+When the data in the 400-valve subsets were divided into a smaller number of size-classes, fifteen sizeclasses each 4 μm in breadth, the same five curves emerged in a majority of cases, but with greater variability
+in the modal valve-length of each curve and greater variability in the number of valves accounted for by each
+curve. The five curves that were consistently detected included a curve with a peak between 44 μm and 46 μm
+that accounted for 40–48% of the valves, a curve with a peak at 60 μm that accounted for 39–48% of the
+valves, a curve with a peak between 32 and 35 μm that accounted for 5–12% of the valves, a curve with a peak
+at 72 μm that accounted for 4–5% of the valves, and a curve with a peak between 84 and 88 μm that accounted
+for 0–7% of the valves.
+
+Discussion
+These results demonstrate the principle that size class analysis of diatom populations can be used to
+investigate evolutionary and ecological hypotheses about differences among taxa in the relative frequency of
+sexual and asexual reproduction.
+These results support the hypothesis that sexual reproduction is more frequent relative to asexual
+reproduction in diatom taxa for which the net evolutionary benefit is higher. The analysis follows from work
+of Mann (1988) and Jewson (1992) and assumes that the predominant cause of size restoration in diatoms is
+sexual reproduction, while acknowledging that size-restoration by asexual or apomictic reproduction has been
+described in Cyclotella meneghiniana (Rao 1970) and can occur in other diatom taxa as well (Chepurnov et
+al. 2004). With this caveat, this conclusion is supported by reports that have described sexual reproduction as
+being most commonly observed in attached species and epiphytic communities (e.g. Mann 1988, Edlund &
+Stoermer 1997). In contrast, sexual reproduction is not unknown for planktonic and centric diatoms, but is
+most commonly reported from paleolimnological and long-term water sampling studies (e.g. Nipkow 1927,
+Mann 1988, Jewson 1992a, 1992b, Crawford 1995, Card 1997). This result agrees with the prediction that the
+relative frequency of sexual reproduction in freshwater diatoms is greater in epiphytic species than in
+planktonic species.
+In order to distinguish the evolutionary influences on the relative frequency of sexual and asexual
+reproduction, it would be useful to compare multiple species of each group, centric and pennate, planktonic
+and attached, within the same community. To distinguish between the two hypothetically causal factors it
+would be useful to compare species with varying degrees of attachment, such as a comparison of firmly
+attached species within an epiphytic community to motile and meroplanktonic species. We look forward to the
+insights that will be provided by the use of molecular methods, such as those suggested by Alverson (2006)
+for the measurement of effective population size. Repeated sampling of a population over time would enable
+the inference of an absolute time scale for reproductive events (cf. Jewson 1992a, 1992b, D’Alelio 2010), in
+place of the relative time-scale used in this study.
+The novel method presented in this paper for interpreting diatom size-class profiles by numerical
+combination of binomial curves demonstrates that a size-class profile that appears to be uni-modal or bimodal can be the product of the linear combination of a larger number of binomial curves. This introduces a
+new approach for the numerical analysis of diatom size-class data.
+The results of this study were robust with respect to differences in sample size and number of size-classes
+used in the analysis, although the ability of this method to detect the contributing binomial curves is greater
+for populations that exhibit a greater number of size-classes.
+The binomial curves used in this study result from the classical MacDonald-Pfitzer theory of cell-size
+distribution in diatoms, in which the rate of cell division and cell-size reduction are constant with cell-size. This
+method could be adapted to work with the more mathematically complex patterns that are to be expected in
+natural populations. For example, it is known that the initial cells of a species can occur in a range of sizes (Edlund
+& Bixby 2000) and that cells of different sizes may divide at different rates or produce offspring cells with varying
+degrees of size reduction (Rao & Desikachary 1970, Amato 2005). These topics invite further investigation.
+FREQUENCY OF SEXUAL REPRODUCTION IN DIATOMS
+
+Phytotaxa 129 (1) © 2013 Magnolia Press
+
+• 187
+
+It is hoped that this study will stimulate greater consideration of evolution among diatomists and greater
+awareness of diatoms among evolutionary biologists. This report suggests several promising directions for
+future work in this rapidly developing inter-disciplinary field.
+
+Acknowledgements
+We wish to thank to S. Sugita for use of laboratories and assistance with image analysis; J. Logsdon for
+organizing the Evolution of Sex and Recombination in Theory and Practice Symposium in Iowa City, Iowa
+June 2009 at which an early version of the work was presented; J. Eekhoff , T. Riggin and participants of the
+biennial North American Diatom Symposium for discussion; and M. Edlund and two anonymous reviewers
+for their critical comments and valuable suggestions.
+
+References
+Amato, A., Orsini, L., D’Alelio, D. & Montresor, M. (2005) Life cycle, size reduction patterns, and ultrastructure of the
+pennate planktonic diatom Pseudo-nitzschia delicatissima (Bacillariophyceae). Journal of Phycology 41: 542–556.
+http://dx.doi.org/10.1111/j.1529-8817.2005.00080.x
+Agrawal, A. (2006) Evolution of sex: why do organisms shuffle their genotypes? Current Biology 16: R696–R704.
+http://dx.doi.org/10.1016/j.cub.2006.07.063
+Alverson, A. (2008) Molecular systematics and the diatom species. Protist 159: 339–353.
+http://dx.doi.org/10.1016/j.protis.2008.04.001
+Beszteri, B., John, U. & Medlin, L.K. (2007) An assessment of cryptic genetic diversity within the Cyclotella
+meneghiniana species complex (Bacillariophyta) based on nuclear and plastid genes and amplified fragment length
+polymorphisms. European Journal of Phycology 42: 47–60.
+Brawley, S.H. & Johnson, L.E. (1992) Gametogenesis, gametes and zygotes: an ecological perspective on sexual
+reproduction in the algae. British Journal of Phycology 27: 233–252.
+Card, V.M. (1997) Varve-counting by the annual pattern of diatom accumulation in Big Watab Lake, Minnesota, 1837–
+1990. Boreas 26: 103–112.
+http://dx.doi.org/10.1111/j.1502-3885.1997.tb00657.x
+Chepurnov, V.A., Mann, D.G., Sabbe, K. & Vyverman, W. (2004) Experimental studies on sexual reproduction in
+diatoms. International Review of Cytology 237: 91–154.
+http://dx.doi.org/10.1016/S0074-7696(04)37003-8
+Crawford, R.M. (1995) The role of sex in the sedimentation of a marine diatom bloom. Limnology and Oceanography
+40:200–204.
+D’Alelio, D., Ribera d’Alcalà, M., Dubroca, L., Sarno, D., Zingone, A. & Montresor, M. (2010) The time for sex: A
+biennial life cycle in a marine planktonic diatom. Limnology and Oceanography 55: 106–114.
+Drebes, G. (1977) Sexuality. In: Werner, D. (ed.) The Biology of Diatoms. Blackwell, Oxford, pp. 250–283.
+Edlund, M.B. & Bixby, R.J. (2001) Intra- and inter-specific differences in gametangial and initial cell size in diatoms. In:
+Economou-Amilli, A. (ed.) Proceedings of the XVIth International Diatom Symposium, Amvrosiou Press, Athens,
+pp. 169–190.
+Edlund, M.B. & Stoermer, E.F. (1997) Ecological, evolutionary, and systematic significance of diatom life histories.
+Journal of Phycology 33: 897–918.
+http://dx.doi.org/10.1111/j.0022-3646.1997.00897.x
+Futuyma, D.J. (2009) Evolution. Sinauer Associates. Sunderland, 633 pp.
+Hurst, L.D. & Peck, J.R. (1996) Recent advances in understanding of the evolution and maintenance of sex. Trends in
+Ecology and Evolution 11 (2): 46–52.
+http://dx.doi.org/10.1016/0169-5347(96)81041-X
+Jewson, D.H. (1992a) Life cycle of a Stephanodiscus sp. (Bacillariophyta). Journal of Phycology 28: 856–866.
+http://dx.doi.org/10.1111/j.0022-3646.1992.00856.x
+Jewson, D.H. (1992b) Size reduction, reproductive strategy and the life cycle of a centric diatom. Philosophical
+Transactions of the Royal Society of London B 336:191–213.
+http://dx.doi.org/10.1098/rstb.1992.0056
+Krammer, K. & Lange-Bertalot, H. (1999–2000) Süsswasserflora von Mitteleuropa: Bacillariophyta. Spektrum
+
+188 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+CARD & CARRA
+
+Akademischer Verlag GmbH, Berlin.
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+Lewis, W.M., Jr. (1983) Interruption of synthesis as a cost of sex in small organisms. American Naturalist 121: 825–834.
+http://dx.doi.org/10.1086/284106
+Mann, D.G. (1988) Why didn’t Lund see sex in Asterionella? A discussion of the diatom life cycle in nature. In: Round,
+F.E. (ed.) Algae and the Aquatic Environment. Biopress Ltd. Bristol, U.K.
+Mann, D.G. (1993) Patterns of sexual reproduction in the diatoms. Hydrobiologia 269/270: 11–20.
+http://dx.doi.org/10.1007/BF00027999
+Müller, O. (1895) Rhopalodia ein neues Genus der Bacillariaceen. (Engler's) Botanische Jahrbucher fur Systematik,
+Pflanzengeschichte, und Pflanzengeographie, Volume 22. Leipzig, pp. 54–71, 2 pl.
+Nipkow, F. (1927) Über das Verhalten der Skelette planktischer Kieselalgen im geschichteten Tiefenschlamm des
+Zürich-und Baldeggersees. Zeitschrift fur Hydrologie, Hydrographie, Hydrobiologie 4: 71–120.
+Maynard Smith, J. (1978) The Evolution of Sex. Cambridge University Press, London, U.K.
+Otto, S. & Lenormand, T. (2002) Resolving the paradox of sex and recombination. Nature Reviews: Genetics 3: 252–261
+http://dx.doi.org/10.1038/nrg761
+Rao, V.N.R. (1970) Studies on Cyclotella meneghiniana Kütz. II. Sexual reproduction and auxospore formation.
+Proceedings of the Indian Academy of Science 72B: 285–287.
+Rao, V.N.R. & Desikachary, T.V. (1970) MacDonald-Pfitzer hypothesis and cell size in diatoms. Nova Hedwigia 31:485–
+493.
+Rynearson, T.A. & Armbrust, E.V. (2005) Maintenance of clonal diversity during a spring bloom of the centric diatom
+Ditylum brightwellii. Molecular Ecology 14:1631–1640.
+http://dx.doi.org/10.1111/j.1365-294X.2005.02526.x
+Round, F.E., Crawford, R.M. & Mann, D.G. (1990) The Diatoms: Biology and Morphology of the Genera. Cambridge
+University Press, Cambridge, 747 pp.
+Van der Strate, H.J., Van de Zande, L., Stam, W.T. & Olson, J.L. (2002) The contribution of haploids, diploids and clones
+to fine-scale population structure in the seaweed Cladophoropsis membranacea (Chlorophyta). Molecular Ecology
+11: 329–345.
+http://dx.doi.org/10.1046/j.1365-294X.2002.01448.x
+Williams, G.C. (1975) Sex and Evolution. Princeton University Press, Princeton NJ.
+Williams, S.L. & Di Fiori, R.E. (1996) Genetic diversity and structure in Pelvetia fastigliata (Phaeophyta:Fucales): does
+a small effective neighbourhood size explain fine-scale genetic structure? Marine Biology 126: 371–382.
+http://dx.doi.org/10.1007/BF00354619
+
+FREQUENCY OF SEXUAL REPRODUCTION IN DIATOMS
+
+Phytotaxa 129 (1) © 2013 Magnolia Press
+
+• 189
+
+

@@ -1,0 +1,84 @@
+Phytotaxa 153 (1): 58–59 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.153.1.4
+
+Premna menglaensis, a new name for Premna laevigata C. Y. Wu (Lamiaceae)
+BO LI1, 2, YUNHONG TAN3, ZHIYONG ZHANG1, * & DIANXIANG ZHANG2
+1
+
+Laboratory of Subtropical Biodiversity, Jiangxi Agricultural University, Nanchang, 330045, The People’s Republic of China;
+Key Laboratory of Plant Resources Conservation and Sustainable Utilization, South China Botanical Garden, the Chinese Academy
+of Sciences, Guangzhou, 510650, The People’s Republic of China;
+3
+Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, the Chinese Academy of Sciences, Mengla,
+666303, The People’s Republic of China.
+* Author for Correspondence, email: pinus-rubus@163.com.
+2
+
+The genus Premna Linnaeus (1771: 587) contains about 200 species and is distributed in Old World tropics
+and subtropics with 46 species in China (Chen & Gilbert 1994). After being transferred from the Verbenaceae
+to the Lamiaceae, the genus becomes one of the biggest genera of the mint family (Harley et al. 2004), and
+now ranks among the more taxonomically difficult and complicated genera of Lamiaceae. Premna laevigata
+C. Y. Wu (1977: 440) was described from collections from Mengla County, Yunnan Province, China.
+However, the name was not validly published in the original description (Wu 1977) because three collections
+were simultaneously designated as types (i.e. H.T.Tsai 59-11098 was assigned as the flowering type, and
+S.J.Pei 59-11239 and, 59-13345 as fruiting types) which is contrary to articles 40.1 and 40.2 of the
+International Code of Nomenclature for Algae, Fungi and Plants (ICN) (McNeill et al. 2012). In the
+Catalogue of type specimens (Cormophyta) in the herbaria of China (Jin 1994), this name was validated by
+designating H. T. Tsai 59-11098 as the holotype. Unfortunately, it is still an illegitimate name according article
+53.1 of the ICN because the name is a later homonym of P. laevigata Miquel (1858: 895), based on material
+from Indonesia (Sumatra). However this was not realised in either Flora Reipublicae Popularis Sinicae (Chen
+1982), or in Flora of China (Chen & Gilbert 1994). After checking the type material of both names, it is
+concluded that the two homonyms apply to two totally unrelated taxa. Therefore, the Chinese species requires
+a new name which is proposed below.
+Premna menglaensis B. Li, nom. nov. Replaced name: Premna laevigata C. Y. Wu (1977: 440) ex S.Y. Jin
+(1994: 686), nom. illeg., blocking name P. laevigata Miquel (1858: 895). Type:—CHINA. Yunnan: Mengla
+County, 29 October 1959, H.T.Tsai 59-11098 (holotype KUN! [sheet no. 484510]).
+Etymology:—The specific epithet derived from the name of its type locality.
+
+References
+Chen, S.L. (1982) Premna. In: Pei, C. & Chen, S.L. (eds.) Flora Reipublicae Popularis Sinicae, 65(1). Science Press,
+Beijing, pp. 81–119.
+Chen, S.L & Gilbert, M.G. (1994) Premna. In: Wu, C.Y. & Raven, P.H. (eds.) Flora of China, 17. Science Press, Beijing
+& Missouri Botanical Garden Press, St. Louis, pp. 16–27.
+http://dx.doi.org/10.1663/0013-0001(2007)61[101b:focvp]2.0.co;2
+Harley, R.M., Atkins, S., Budantsey, A.L., Cantino, P.D., Conn, B.J., Grayer, R., Harley, M.M., Kok, R., de, Krestovskaja
+T., Morales, R., Paton, A.J., Ryding, O. & Upson, T. (2004) Labiatae. In: Kubitzki, K. & Kadereit, J.W. (eds.)
+Families and Genera of Vascular Plants. Flowering Plants. Dicotyledons – Lamiales (except Acanthaceae including
+Avicenniaceae), 7 . Springer, Berlin, pp. 167–275.
+http://dx.doi.org/10.1007/978-3-642-18617-2_11
+Jin, S.Y. (1994) Catalogue of type specimens (Cormophyta) in the herbaria of China. Science Press, Beijing, pp. 685–
+
+58 Accepted by Libing Zhang: 15 Nov. 2013; published: 13 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+687.
+http://dx.doi.org/10.2307/4111052
+Linnaeus, C. (1771) Mantissa Plantarum Altera Generum editionis VI & Specierum editionis II. Laurentius Salvius,
+Stockholm, 587 pp.
+Mcneill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012).
+International Code of Nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011, Publ. 2012. Koeltz Scientific Books, Konigstein,
+208 pp.
+Miquel, F.A.W. (1858) Premna. In: Miquel, F.A.W. (ed.) Flora van Nederlandsch Indië 2. C. G. van der Post,
+Amsterdam, pp. 890–900.
+Wu, C.Y. (1977) Premna. In: Wu, C.Y. (ed.) Flora Yunnanica, 1. Science Press, Beijing, pp. 418–441.
+
+PREMNA MENGLAENSIS
+
+Phytotaxa 153 (1) © 2013 Magnolia Press
+
+• 59
+
+

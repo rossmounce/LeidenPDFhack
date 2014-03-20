@@ -1,0 +1,699 @@
+Phytotaxa 124 (1): 1–12 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.124.1.1
+
+Morphology and taxonomy of Psammodiscus Round & Mann (Bacillariophyceae:
+Rhaphoneidales) with a description of the new species Psammodiscus calceatus
+TSUYOSHI WATANABE 1*, TAMOTSU NAGUMO 2, ZHONGMIN SUN3 , KAZUKIYO HASEGAWA3,
+TOMOFUMI MIYAGAWA3, MISATO KUMADA3 & JIRO TANAKA3
+1
+
+Tohoku National Fisheries Research Institute, Fisheries Research Agency, 3-7-25 Shinhamacho, Shiogama-shi Miyagi 985-0001
+Japan (Email: tsuyoshiw@affrc.go.jp)
+2
+Department of Biology, The Nippon Dental University, Chiyoda-ku, Tokyo 102-8159 Japan
+3
+Department of Marine Science, Tokyo University of Marine Science and Technology, Minato-ku, Tokyo108-8477 Japan
+
+Abstract
+Part of the definition of Psammodiscus is that there is always a small pore and sometimes a rimoportula present on the
+valve centre. A new species Psammodiscus calceatus Tsuy.Watanabe, Nagumo & J. Tanaka is described, which lacks a
+central small pore. And the valves of P. nitidus were found that have two marginal rimoportulae. Living cell of P. nitidus
+attached on sand grain solitary and it has many discoid plastids. The structures of rotae with fin-like projections in
+Psammodiscus differ from those of Rhaphoneidaceae genera. The epicingulum of Psammodiscus consists of three or four
+open bands with the valvocopula and second band opening at 180° to one another alternately at one apex.
+Key words: cingulum, morphology, Psammodiscus, Psammodiscus calceatus sp. nov., Rhaphoneidales
+
+Introduction
+Round established the order Rhaphoneidales to include two families, Rhaphoneidaceae Forti and
+Psammodiscaceae Round & D.G. Mann (Round et al. 1990: 662). The family Rhaponeidaceae includes 13
+genera: Adoneis G.W. Andrews & P. Rivera (1987: 2); Delphineis G.W. Andrews (1977: 249); Neodetonia S.
+Blanco ( = Detonia Frenguelli (1949: 119); Dickensoniaforma R.P. Scherer (1997: 85); Diplomenora K.L.
+Blazé (1984: 218); Drewsandria P.A. Sims & R. Ross (1996: 302); Incisoria Hajós in M. Hajós & H.
+Stradner (1975: 937); Lancineis G.W. Andrews (1990: 128); Meloneis Louvrou, Danielidis & EconomouAmilli (2012: e32198, 2); Neodelphineis Takano (1982: 45); Perissonoë G.W. Andrews & Stoelzel (1984:
+226); Rhaphoneis Ehrenberg (1844: 74); Sceptroneis Ehrenberg (1844: 264). The family Psammodiscaceae
+consists of only one monotypic genus Psammodiscus Round & Mann (1980: 371), with P. nitidus (Gregory)
+Round & Mann (1980: 371) as its generitype. P. nitidus was originally described under the name of
+Coscinodiscus nitidus Gregory (1857: 499) as a radial centric diatom because of its circular valve and
+radiating striae. However, C. nitidus is epipsammic and has areolae occluded by rotae without slits and small
+sessile rimoportulae, which resembles of Rhaphoneis and related genera. Thus, C. nitidus was judged not to
+be a species of Coscinodiscus but related to Rhaphoneis and placed in the monotypic genus (Round & Mann
+1980). Part of the definition of Psammodiscus is that there are always a small pore and sometime a
+rimoportula present on the valve centre. And it was known that P. nitidus has the rota with several spokes and
+the cingulum consisting open bands (Round & Mann 1980).
+Cells of Psammodiscus were collected from marine coast in Japan and observed using light (LM) and
+scanning electron microscopy (SEM). The object of this study is to clarify the morphology of species in the
+genus Psammodiscus, as our examination of specimens from Psammodiscus revealed differences with
+previous studies and some new structures leading to the description of the new species, Psammodiscus
+calceatus sp. nov., which lacks central small pore.
+Accepted by David M. Williams: 2 July 2013; published: 15 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+Materials & methods
+Samples of sand grains were collected by T. Watanabe in a few meters water depth at two locations: 1) beach
+of Kume Island (26°20’10’’N, 126°49’42’’E, Okinawa Prefecture, Japan on 10 May 2006 and 14 September
+2007, deposited in personal collection of T. Watanabe under the accession number TW156, TW159, TW166
+and TW485); 2) shore of the Sea of Japan in Kutsu (35°45’24”N, 136°01’25”E, Tsuruga-shi, Fukui
+Prefecture, Honshū Island, Japan, on 16 July 2006, deposited in a private collection under the accession
+number TW229).
+Diatom valves were cleaned following the method of Nagumo & Kobayashi (1990). Cleaned frustules
+were then mounted onto glass slides with Mountmedia (Wako, Osaka). An Optiphot light microscope (Nikon,
+Tokyo) with bright field (BF) was used to observe living cells and cleaned frustules. The confocal laser
+scanning microscope (CLSM) Leica TCSNT system (Leica Microsystems, Heidelberg) with differential
+interference contrast (DIC) was used to examine living cells and, with fluorescence, was used to detect
+autofluorescence of plastids and DNA stained by 4’,6’ diamino-2-phenylindole 2HCl (DAPI) (Watanabe &
+Nagumo 2006). For SEM, cleaned material was placed onto cover slips, air dried and coated with platinum
+(Pt) or osmium tetroxide (OsO4) using E-1030 (Hitachi, Tokyo, Japan) or NEOC-AN (Meiwa fosis, Tokyo)
+coater, respectively. S-4000 and S-5000 scanning electron microscopes (Hitachi, Tokyo) were used for SEM
+observations at an accelerating voltage of 3–5 kV, and 10–15 mm working distance.
+Valve dimensions (length) were determined from digital images using the image analysis software LIA
+for Windows 32 ver.0.376ß1 (http://www.agr.nagoya-u.ac.jp/~shinkan/LIA32/index-e.html).
+Type slides have been deposited in BM and Museum of Tokyo University of Marine Science and
+Technology, Tokyo, Japan (MTUF).
+Morphological terminology follows Anonymous (1975), Cox & Ross (1981), Kobayasi et al. (2006),
+Ross et al. (1979) and Round et al. (1990).
+
+Taxonomic results
+Psammodiscus nitidus (Gregory) Round & D.G. Mann (1980: 371) (Figs 1–18)
+Basionym: Coscinodiscus nitidus Gregory (1857: 499, pl. 10, fig. 45)
+TYPE:—UK: Scotland, Lamlash Bay (BM 1343, Hendey 1964: 76, syntype).
+
+Size and shape: Cells solitary, attached to sand grains (Figs 1a, b). Valves circular to slightly elliptic in valve
+view (Figs 2–4). Valve diameter 13.5–28.5 μm, 8–9 striae in 10 μm, 8 areolae in 10 μm (Table 1).
+Plastids and nucleus: Discoid plastids located along valve surface, number ca. 90 (Fig. 5). Nucleus lies at
+cell centre (Fig.5).
+Fine structures of valve: Valve face flat (Fig. 6), striae radiate, reaching mantle (Fig. 6). Areola on valve
+face (Figs 7, 8) and mantle (Fig. 8) occluded by rotae with 2–3 spokes. Internal views of small valves not
+observed. Larger valves (Figs 9 and 12) originate from same frustule. Striae and areolae of large valves
+morphologically similar to those in smaller valves (Figs 9–11); occasionally areola abnormalities visible (Fig.
+10). Spokes in areolae not observed from internal view (Fig. 14).
+Rimoportula: Number of rimoportulae 0–2 (Figs 6, 12, 15) per valve. Rimoportula external opening located
+near valve centre (Figs 6, 7). Some valves lack central rimoportula (Fig. 15). In larger valves, external opening
+of rimoportula observed near valve margin (Fig. 10). In internal view, two rimoportulae located at opposite
+sides near valve margin (Figs 12–14). Rimoportula sessile with simple slit surrounded by ridge (Figs 13, 14).
+Central small pore: Central small pore located near valve centre (Figs 6, 7).
+Additional small pore: In larger valve, external opening of small pore observed near valve margin (Fig.
+10). Additional small pore situated close to rimoportula near margin (Fig. 14).
+Cingulum: epicingulum consisting of three open bands: valvocopula (VC), second (2B) and third (3B)
+bands (Figs 17a, b). Valvocopula and second girdle bands open at 180° to each other (Figs 15, 16, 18). VC
+
+2 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+WATANABE ET AL.
+
+with two rows of pores (Fig. 16), its opening covered by ligula of 2B (Figs 16, 17a, 17b). 2B with single row
+of pores (Fig. 17a, b). 3B narrow with single row of triangular non-occluded pores (Figs 17a, b).
+
+FIGURES 1–4. Psammodiscus nitidus (LM).
+Figs 1a, b: Solitary cells attached to sand grains, living cells from TW153 (BF), solitary attached cells (two circles in fig. 1b) to a sand
+grain (figs 2a and b are the same image at different focal depths). Figs 2–4. Valves (BF): Fig. 2 from TW166, figs 3 and 4 from
+TW159. Scale bars = 50 µm (Fig. 2), 10 µm (Figs 3–5).
+
+FIGURES 5. Psammodiscus nitidus (CLSM).
+Each row (A, B, C) taken at valve surface, shallow and deep focuses, respectively. Note numerous discoid plastids. Column I, DIC;
+Column II, autofluorescence of plastids; Column III, DAPI stained nucleic acid. P = plastid; N = nucleus. Scale bar = 10 µm.
+
+MORPHOLOGY AND TAXONOMY OF PSAMMODISCUS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 3
+
+FIGURES 6–18. Psammodiscus nitidus (SEM).
+Fig. 6. Complete frustule, view of hypovalve (HV), square is enlarged view in fig. 7. Fig. 7. Valve face, external openings of
+rimoportula (Ri) and small pore (SP), note small pore located near valve centre. Fig. 8. Mantle, areolae (A) occluded by plated rotae
+(R) with 2–3 spokes (S). Fig. 9. External view of large valve, note valves in figs 9 and 12 generated from the same cell; rectangle (a)
+is enlarged view in fig. 10; rectangle (b) is enlarged view in fig. 11. Fig. 10. External openings of small pore (SP) and rimoportula (Ri).
+Fig. 11. External view of fractured valve; areolae (A) occluded by plated rotae (R) with 3 spokes (S). Fig. 12. Internal view of large
+valve, rectangle (a) is enlarged view in fig. 13; rectangle (b) is enlarged view in fig. 14. Fig. 13. First rimoportula (Ri1), note
+rimoportula located near margin. Fig. 14. Second rimoportula (Ri2) and small pore (SP), note both rimoportula and small pore are
+located near the margin. Fig. 15. Complete frustule, note small pore (SP) located near centre of hypovalve (HV); no rimoportula;
+square (a) is enlarged view in fig 16; square (b) is enlarged view in fig 18. Fig. 16. Valvocopula (VC) opening (OVC) occluded by
+ligula (L2B) of second band (2B); epivalve (EV). Fig. 17a. Opposite view from fig. 16; hypovalve (HV), valvocopula (VC) opening
+(OVC), ligula (L2B) of second band (2B), third band (3B). Fig.17b. Schematic drawing of fig. 17a; Pores (P), note pores of second
+band are circular holes, pores of third band are triangle. Fig. 18. Second band (2B) opening (O2B); valvocopula (VC) and third band
+(3B). Note third band either in formation or is eroded. Scale bars = 10 µm (Figs 9, 12, 15), 5 µm (Fig. 6), 1 µm (Figs 7, 8, 10, 11, 16–
+18), 0.5 µm (Figs 13, 14).
+
+4 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+WATANABE ET AL.
+
+Psammodiscus calceatus Tsuy.Watanabe, Nagumo & Ji. Tanaka, sp. nov. (Figs 19–52)
+TYPE:—JAPAN: Honshū Island, Fukui Prefecture, Tsuruga-shi, Kutsu, sandy beach 35°45’24”N, 136°01’25”E,
+epipsammic (BM 101648!, illustrated in Fig. 20, holotype designated here as marked specimen on slide; MTUF-AL43009, marked specimen, isotype).
+
+Size and shape: Cells discoid. Valves circular to elliptic, 25.5–28.5 µm in diameter, striae ca. 8 in 10 µm,
+areolae 4–5 in 10 µm (Figs 19–22). Single small rimoportula occasionally present, situated near valve centre.
+Apical pore fields and central pores absent.
+
+FIGURES 19–22. Psammodicus calceatus sp. nov. (LM. BF); Fig. 20 = holotype. Scale bar = 10 µm.
+
+Fine structure of valve: Striae radiating from centre to mantle (Fig. 23). Areolae much smaller in mantle
+than valve face (Fig. 24). Areolae circular to elliptical, occluded by plated rotae with 5–9 spokes (Fig. 24).
+Spokes connect rotae to external valve surface (Fig. 32), connecting part of rota, concave at margin (Fig. 33).
+Ring structure surrounding inside bases of areolae (Fig. 34). Spokes of areolae not evident internally (Fig. 35).
+Rotae with seven to eight pairs of fin-like projections (Figs 35, 36). Spokes connecting to rotae between finlike projections (Fig. 36). Spoke located behind ring structure and fin-like projections (Figs 35, 36).
+Rimoportula: Number of rimoportula 0–1 (Figs 23, 26) per valve. When present, rimoportula always central
+and always one per valve. External opening of rimoportula either present (Fig. 25) or absent (Figs 26, 27). From
+internal view, valve surface flat (Fig. 28) and spokes of rotae not evident (Figs 29, 30). Small sessile rimoportula
+present near valve centre, with simple slit (Figs 28, 31). Rimoportula not located in internal view.
+Small pore: Central and additional small pores always absent (Figs 23–30).
+Cingulum: Epicingulum consists of four open bands: the valvocopula (VC), second (2B), third (3B) and
+fourth (4B) band (Figs 37, 38, 39). VC and 3B open on same side of frustule whereas (Figs 42, 43); 2B and 4B
+open on opposite sides (Figs 38, 39). Position of band openings shift slightly, offsetting each other (Figs 38,
+39). Ends of VC have rounded corners (Fig. 40). Pars interior of VC almost equal in size to pars exterior (Fig.
+40). VC with two rows of small pores (Fig. 41) occluded by rotae with 1 or 2 spokes (Fig. 42). VC highly
+visible, other bands less so (Fig. 41). Internally, bands form a line in sequence from 4B to VC (Fig. 43). Pars
+interior of VC slightly undulate to fit valve (Fig. 43). Single row of elongated grooves advalvar to pores in VC
+(Figs 43, 44, marked G). Tongue-like ligula of second band occludes opening of VC (Fig. 45). Opening of 2B
+evident in external view (Fig. 38). Single row of pores present on pars interior of second band (Fig. 46); pores
+
+MORPHOLOGY AND TAXONOMY OF PSAMMODISCUS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 5
+
+occluded by rotae with either 1 or 2 spokes (Fig. 47). 3B with small trapezoid ligula (Fig. 48). Single row of
+pores lacking rotae present on pars interior (Figs 48, 49). 4B with very small trapezoid ligula (Fig. 50). 4B
+opens as narrow slit (Fig. 51). Pars interior with single row of triangular areolae lacking rota (Figs 50, 51; Fig.
+52 = schematic drawing of epitheca).
+Etymology:—The type locality ‘Kutsu’ means shoes in Japanese; calceatus is Latin for shoe and shod.
+
+FIGURES 23–31. Psammodicus calceatus sp. nov. (SEM).
+Fig. 23. External view of theca; square (a) enlarged view in fig. 24; square (b) enlarged view in fig. 25. Fig. 24. Valve face and mantle,
+areolae (A) occluded by plated rotae (R) with 3–10 spokes (S). Note areolae elongate with small number of spokes at the mantle. Fig. 25.
+External opening of rimoportula (Ri). Fig. 26. External view of theca, square enlarged view in fig. 27. Fig. 27. Valve lacking small pore
+and rimoportulae. Fig. 28. Internal valve view, arrowhead indicating rimoportula (Ri). Fig. 29. Internal opening of rimoportula (Ri),
+areolae (A) occluded by plated rotae (R), spokes not seen in internal views. Fig. 30. Areolae (A) occluded by plated rotae (R) on valve
+face and mantle. Fig. 31. Lips of rimoportula (Ri). Scale bars = 10 µm (Figs 23, 26, 28), 1 µm (Figs 24, 27, 30), 0.5 µm (Figs 25, 31).
+
+6 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+WATANABE ET AL.
+
+FIGURES 32–36. Psammodicus calceatus sp. nov., areolae structure.
+Figs 32–34. External views. Fig. 32. Areola (A), rotae (R) with two broken spokes (S) total = 5. Fig. 33. Rotae broken (spokes appear
+to = 7). Fig. 34. Areola without rota, showing ring structure (Ri). Note knob-like projections are traces of spokes (S, as a ‘tree stump’).
+Fig. 35. Internal view of areola (A) and rota (R), with fin-like projections (F; rather than spokes). Fig. 36. Internal view of areola
+fracture (A), spoke (S) connecting to rota between fin-like projections (F). Note spokes located behind ring structure (Ri) and fin-like
+projections. Scale bars = 0.5 µm.
+
+Discussion
+Cells of P. nitidus were observed growing on the surface of sand grains, the first observation of the growth
+habit of species in the genus Psammodiscus. Species of other members of the Rhaphoneidaceae – Rhaphoneis,
+Perissonoë, Delphineis – are epipsammic (Table 1, Drebes 1974, Sato et al. 2011, Watanabe unpublished
+data). The cells of species from Rhaphoneis, Perissonoë and Delphineis have several to many discoid plastids
+(Table 1, Drebes 1974, Sato et al. 2011, Watanabe unpublished data); the numbers of discoid plastids in P.
+nitidus is similar to those in species of both Rhaphoneis and Perissonoë. The epipsammic habitat and multiple
+discoid plastids can be considered characters common to members of Rhaphoneidales.
+SEM observations revealed the structures of areola in valves of Psammodiscus, showing pairs of fin-like
+projections on rota, a structure not known in Psammodiscus. Round and Mann (1980) observed the fine
+structure of rota, which has several spokes per areola and no slits. In all Rhaphoneidaceae genera, rotae
+always have two spokes per areola and no fin-like projections with or without slit (Andrews & Rivera 1987,
+Blazé 1984, Louvrou et al. 2012, Round et al. 1990, Sar et al. 2007, Takano 1982). Thus, it is suggested that
+the number of spokes and the pairs of fin-like projections are taxonomically important characters for
+separating the family Psammodiscaceae from Rhaphoneidaceae.
+
+MORPHOLOGY AND TAXONOMY OF PSAMMODISCUS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 7
+
+FIGURES 37–51. Psammodicus calceatus sp. nov., epicingulum.
+
+8 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+WATANABE ET AL.
+
+Fig. 37. Complete frustule, epitheca (ET) and hypovalve (HV). Square (a) indicates enlarged view in fig. 38; square (b) indicates
+enlarged view in fig. 39. Fig. 38. Openings (OVC, O3B) of valvocopula (VC) and third band (3B) occluded by ligulae (L2B, L4B) of
+second (2B) and forth (4B) bands, respectively. Note positions of openings slightly offset with respect to each other. Epivalve (EV)
+and hypovalve (HV). Fig. 39. Openings (O2B, O4B) of second band (2B) and fourth band (4B). Note positions of openings slightly
+offset with respect to one another, the former occluded by the ligula (L3B) of third band (3B); valvocopula (VC), epivalve (EV) and
+hypovalve (HV). Fig. 40.Valvocopula (VC) and its opening (OVC). Fig. 41. Cingulum. Note valvocopula (VC) with two rows of
+pores (P); second (2B), third (2B) and fourth (4B) bands. Fig. 42. Pores (P) occluded by rotae (R) with one or two spokes (S) of
+valvocopula (VC). Fig. 43. Internal view of cingulum, note groove structure (G, dotted line) along advalve edge from uppermost pore
+(P) row of valvocopula (VC); second (2B), third (2B) and fourth (4B) bands. Fig. 44. Groove structure (G, dotted line) along advalve
+edge to pores (P) of valvocopula (VC) in internal view. Fig. 45. External view of ligula (L2B) of second band (2B); valvocopula (VC).
+Fig. 46. Internal view of ligula (L2B) of second band (2B); valvocopula (VC), third (3B) and fourth (4B) bands. Note dotted line
+showing border of third and fourth bands. Fig. 47. Pores (P) occluded by rotae (R) with one or two spokes (S) of second band (2B).
+Fig. 48. Third band (3B) with a single row of pores (P) lacking rotae. Opening (O2B) of second band (2B) occluded by ligula of third
+band (L3B). Fig. 49. Opening (O3B) of third band (3B); valvocopula (VC), second (2B) bands and broken fourth (4B). Note dotted
+line showing the border of valvocopula and second bands. Fig. 50. Fourth band (4B) with a single row of triangular pores (P); opening
+(O3B) of third band (3B) occluded by ligula of fourth band (L4B); second band (2B). Fig. 51. Opening (O4B) of fourth band (4B) with
+a single row of triangular pores (P, dotted line); valvocopula (VC), second (2B) and third (3B) bands. Scale bars = 10 µm (Figs 37, 40),
+1 µm (Figs 38, 39, 41, 43, 45, 46, 48–51). 0.5 µm (Figs 44, 47), 0.1 µm (Fig. 42).
+
+FIGURES 52. Schematic drawing of epitheca of Psammodiscus calceatus. A, areola; EV, epivalve; Ri, rimoportula; 2B, second band;
+3B, third band; 4B, fourth band; L2B, ligula of 2B; L3B, ligula of 3B; L4B, ligula of 4B; Pores, P; VC, valvocopula; arrowheads,
+openings of bands.
+
+Furthermore, the epicingulum structure in species Psammodiscus, based on SEM observations, was
+recorded for the first time. The following structural components of the epicingulum, present in both species of
+Psammodiscus, characterize the genus: an absence of granules; all bands have a single opening and at least
+one row of pores; the pores are occluded by rotae without slits having one or two spokes; the outermost band
+has a single row of triangular pores. The cingulum of Psammodiscus has previously been reported that the
+valvocopula (VC) is open with two rows of areolae, the gap in the open end of the band being closed by the
+ligula of the second band, which is much narrower than the VC and nonporous (Round & Mann 1980). The
+epicingulum of Rhaphoneis and Perissonoë consist of three bands covered by granules and have pores
+occluded by rotae with slits (Watanabe et al. 2007, Watanabe unpublished data). The outermost band is closed
+and, in Perissonoë, is ornamented, its edge has a fine sharp structure resembling a finely toothed edge
+(Watanabe et al. 2007, Watanabe unpublished data). The epicingulum of Delphineis consists of four to five
+bands without granules and pores (Watanabe et al. in press); the outermost and second outermost bands are
+short. Thus, in the case of Psammodiscus, the epicingulum structure can help define a genus and variations
+within it can distinguish species, at least in orders such as the Rhaphoneidales.
+MORPHOLOGY AND TAXONOMY OF PSAMMODISCUS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 9
+
+Psammodiscus calceatus is the second species in the genus Psammodiscus to be described. It differs from
+P. nitidus in the following morphological features (Table 1): P. calceatus lacks the central small pore, which is
+always present in P. nitidus; P. nitidus usually has one or two rimoportulae, whereas they are often absent in P.
+calceatus; the density of areolae of P. calceatus is lower than that of P. nitidus; the number of spokes per rota
+in P. calceatus is greater than in P. nitidus; the epicingulum of P. calceatus consists of four bands, while there
+are only three in P. nitidus.
+TABLE 1: Morphological comparison of Psammodiscus nitidus, P. calceatus sp. nov., Rhaphoneis amphiceros,
+Perissonoë crucifera and Delphineis surirella (* see Watanabe et al. 2007) n.d. = no data; +, present; -, absent.
+family
+genus
+species
+
+Psammodiscaceae
+Psammodiscus
+P. calceatus
+P. nitidus
+sp. nov.
+
+Rhaphoneidaceae
+Perissonoë
+
+Delphineis
+
+R. amphiceros
+
+P. crucifera
+
+D. surirella
+
+Rhaphoneis
+
+23.2–31.1
+22.7–29.7
+1.0–1.5
+9.2–11.9
+9.8–11.2
+0.96–1.05
+0.04–0.05
++
++
+3–4
+uniseriate
+circular
+perforated
+2
+2-4
+0
+
+epipsammic or
+plankton
+chain
+discoid
+several
+broadly elliptic to
+lancelate
+15.8–46.3
+11.7–19.7
+1.0–1.5
+6.3–7.4
+7.5–9.0
+1.4–2.4
+0.07–0.15
++/1
+uniseriate
+circular
+2
+0
+4
+pole
+
+life form
+
+epipsammic
+
+epipsammic
+
+epipsammic
+
+epipsammic
+
+habit
+plastid shape
+number of plastids
+
+solitary
+discoid
+ca. 90
+
+solitary
+n.d.
+n.d.
+circular to
+elliptic
+25.5–28.5
+ca. 8
+4–5
+uniseriate
+circular
+5–9
++
+0
+0
+
+chain
+discoid
+numerous
+elliptic to
+rhomboid
+16.0–96.6
+13.6–24.4
+1.0–1.5
+5.6–7.9
+6.6–8.9
+1.12–3.11
+0.06–0.07
++
+1
+uniseriate
+circular
+concentric
+2
+2
+0
+
+solitary
+discoid
+ca. 80
+
+valve form
+
+circular
+
+length (diameter) of valve
+width of valve
+width of sternum
+striae in 10 μm
+areolae in 10 μm
+the ratio of length and width
+the ratio of sternum and width
+granules
+spine or spine-like projections
+number of sternum
+striae
+areolae
+slits of rota
+spokes per rota
+fin-like projections on rota
+number of apical pore fields per valve
+number of small pores per valve
+
+13.5–28.5
+8-9
+ca. 8
+uniseriate
+circular
+2–3
++
+0
+1
+centre
+(rarely margin)
+0–2
+centre
+(rarely margin)
+3
+1
+circular
+1
++
+circular
+-
+
+position of small pores
+number of rimoportulae per valve
+position of rimoportulae
+epicingulum
+valvocopula
+
+2nd band
+
+granules
+number of bands
+number of opens
+areolae
+slits of rota
+number of opens
+ligulae
+areolae
+slits of rota
+
+number of opens
+second outermost
+band
+ligulae
+areolae
+number of opens
+ligulae
+outermost band
+areolae
+fine sharp structure*
+References
+
+tetragon
+
+-
+
+-
+
+-
+
+0–1
+
+2
+
+3–4
+
+2
+
+centre
+
+pole
+
+pole
+
+pole
+
+4
+1
+circular
+1
++
+circular
+-
+
++
+3
+1
+circular
+concentric
+1
++
+circular
+concentric
+
++
+3
+4
+circular
+perforated
+4
+circular
+perforated
+
+5
+1
+circular
+1
++
+circular
+-
+
+1
+
+-
+
+-
+
+-
+
+1
+
++
+circular
+1
+1
++
+-
+
+1
+1
++
+-
+
+0
+1
+-
+
+0
+4
++
+
+This study
+
+This study
+
+Sato et al . 2011,
+Watanabe unpubl.
+
+Watanabe et al . 2007,
+Watanabe unpubl.
+
++
+1
+Hasle & Syvertsen 1996,
+Sar et al . 2007,
+Watanabe et al . in press
+
+Round & Mann (1980) defined the genus Psammodiscus having always a small central pore and
+sometimes a single small rimoportula near the valve centre. The change of the generic definition seems to be
+necessary for specimens lacking small central pore and having two rimoportulae near the valve margin. The
+morphology of the cingulum is similar in both species of Psammodiscus except for the number of bands. The
+third (outermost) band of P. nitidus corresponds morphologically to the fourth (outermost) band of P.
+
+10 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+WATANABE ET AL.
+
+calceatus, i.e. both bands have an opening and a single row of triangular pores. The common morphologies of
+the cingulum, shared between both species, is a useful character for generic definition of Psammodiscus in
+Rhaphoneidales.
+We found that valves of P. nitidus with two rimoportulae had them located at 180° from each other near
+the valve margin. Mann (1984) hypothesized that the ancestral elongate ‘araphid’ diatom was derived from
+the circular valve of Psammodiscus by a gradual reduction of the sternum – thus proposing the
+‘pseudocentric’ pattern centre hypothesis (Mann 1984, p. 123, Fig. 3b, c). In the family Rhaphoneidaceae,
+valves of various species have two (or several) rimoportulae at each pole (Round et al. 1990). In P. nitidus, the
+two rimoportulae at opposite sides to each other near the valve margin may be the vestiges of bipolar valves.
+Thus, our observations support the hypothesis of a ‘pseudocentric’ pattern centre as primary evidence that
+Psammodiscus is not a radial ‘centric’ diatom.
+
+Acknowledgements
+We thank David M. Williams for valuable comments and correcting some of the English; Masanori Nasu for
+help using the CLSM; Fusako Mitsuhashi and Takanori Matsuoka for help using the SEM.
+
+References
+Andrews, G.W. & Rivera, P. (1987) Morphology and evolutionary significance of Adoneis pacifica gen. et sp. nov.
+(Fragilariaceae, Bacillariophyta), a marine araphid diatom from Chile. Diatom Research 2: 1–14.
+http://dx.doi.org/10.1080/0269249X.1987.9704980
+Anonymous. (1975) Proposals for a standardization of diatom terminology and diagnoses. Nova Hedwigia, Beiheft 53:
+323–354.
+Blanco, S. (2011) Neodetonia nom. nov., a replacement name for Detonia Frenguelli (Bacillariophyceae). Phycologia 50:
+327.
+http://dx.doi.org/10.2216/10-92.1
+Blazé, K.L. (1984) Morphology and taxonomy of Diplomenora gen. nov. (Bacillariophyta). British Phycological Journal
+19: 217–225.
+http://dx.doi.org/10.1080/00071618400650231
+Cox, E.J. & Ross, R. (1981) The striae of pinnate diatoms. In: Ross, R. (ed.) Proceedings of the 6th Diatom Symposium
+on Recent and Fossil Diatoms. O. Koeltz, Koenigstein, pp. 267–278.
+Drebes, G. (1974) Marines Phytoplankton: eine Auswahl der Helgoländer Planktonalgen (Diatomeen, Peridineen).
+Georg Thieme Verlag, Stuttgart, Germany. 86pp.
+Fryxell, G.A. (1978) Proposal for the conservation of the diatom Coscinodiscus argus Ehrenberg as the type genus.
+Taxon 27: 122–125.
+http://dx.doi.org/10.2307/1220506
+Gregory, W. (1857) On new forms of marine Diatomaceae found in the Firth of Clyde and in Loch Fyne, illustrated by
+numerous figures drawn by R.K. Greville, LL. D., F. R. S. E. Transactions of the Royal Society of Edinburgh 21:
+473–542.
+http://dx.doi.org/10.1017/S0080456800032269
+Hasle, G.R. & Syvertsen, E.E. (1996) Chapter 2 - Marine Diatoms. In: Tomas, C. R., Hasle, G. R., Syvertsen, E. E.,
+Steidinger, K.A. & Tangen, K. (eds) Identifying Marine Diatoms and Dinoflagellates. Academic Press, London, pp.
+5–385.
+http://dx.doi.org/10.1016/B978-012693015-3/50005-X
+Hendey, N.I. (1964) An introductory account of the smaller algae of British coastal waters. V. Bacillariophyceae
+(Diatoms). London, 317 pp.
+Louvrou, I., Danielidis, D.B. & Economou-Amilli, A. (2012) Meloneis gen. nov., a new epipsammic genus of
+Rhaphoneidaceae (Bacillariophyceae). PLoS One 7: e32198
+http://dx.doi.org/10.1371/journal.pone.0032198
+Mann, D.G. (1984) An ontogenetic approach to diatom systematics. In: Mann, D. G. (ed.) Proceedings of the 7th
+International Diatom Symposium. O. Koeltz, Koenigstein, pp. 113–144.
+
+MORPHOLOGY AND TAXONOMY OF PSAMMODISCUS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 11
+
+Nagumo, T. & Kobayasi, H. (1990) The bleaching method for gently loosening and cleaning a single diatom frustule.
+Diatom 5: 45–50.
+Ross, R., Cox, E.J., Karayeva, N.I., Mann, D.G., Paddock, T.B.B., Simonsen, R. & Sims, P.A. (1979) An amended
+terminology for the siliceous component of the diatom cell. Nova Hedwigia, Beiheft 64: 513–533.
+Round, F.E., Crawford, R.M. & Mann, D.G. (1990) The Diatoms. Biology and Morphology of the Genera. Cambridge
+University Press, Cambridge. 747 pp.
+Round, F.E. & Mann, D.G. (1980) Psammodiscus nov. gen. based on Coscinodiscus nitidus. Annals of Botany 46: 367–
+373.
+Sar, E.A., Sunesen, I. & Fernándes, P.V. (2007) Marine diatoms from Buenos Aires coastal waters (Argentina). II.
+Thalassionemataceae and Rhaphoneidaceae. Revista Chilena de Historia Natural 80: 63–79.
+http://dx.doi.org/10.4067/S0716-078X2007000100006
+Sato, S., Watanabe, T., Nagumo, T. & Tanaka, J. (2011) Valve morphogenesis in an araphid diatom Rhaphoneis
+amphiceros (Rhaphoneidaceae, Bacillariophyta). Phycological Research 59: 236–243.
+http://dx.doi.org/10.1111/j.1440-1835.2011.00621.x
+Takano, H. (1982) New and rare diatoms from Japanese marine waters-VIII. Neodelphineis pelagica gen. et sp. nov.
+Bulletin Tokai Regional Fisheries Research Lab 106: 45–53.
+Watanabe, T. & Nagumo, T. (2006) Morphology of chloroplast in diatoms - Observation by confocal laser scanning
+microscope. Aquabiology 166: 489–494. (In Japanese with English abstract)
+Watanabe, T., Suzuki, H., Nagumo, T. & Tanaka, J. (2007) Morphological investigation of Perissonoë crucifera (Kitton)
+Desikachary et al. collected from Japan. Journal of Japanese Botany 82: 296–304.
+Watanabe, T., Tanaka, J., Reid, G., Kumada, M. & Nagumo, T. (in press) Fine structure of Delphineis minutissima and
+Delphineis surirella (Rhaphoneidaceae). Diatom Research.
+
+12 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+WATANABE ET AL.
+
+

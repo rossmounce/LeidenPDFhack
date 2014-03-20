@@ -1,0 +1,380 @@
+Phytotaxa 110 (1): 48–54 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.110.1.4
+
+Taxonomic notes in Microlicia (Melastomataceae, Microlicieae)
+ROSANA ROMERO
+Instituto de Biologia, Universidade Federal de Uberlândia, Caixa Postal 593, 38400-902, Uberlândia, Minas Gerais, Brazil.
+romero@inbio.ufu.br
+
+Abstract
+The genus Microlicia comprises approximately 130 species, the characters that define the species are very often tenuous,
+making delimitation between closely related species difficult. As a result of a taxonomic study on Microlicia, 14 new
+synonyms are proposed here and 10 lectotypes are designated.
+
+Resumo
+O gênero Microlicia compreende aproximadamente 130 espécies, e as características que definem as espécies são
+frequentemente muito tênues, tornando difícil a delimitação entre as espécies próximas. Como parte dos estudos
+taxonômicos do gênero Microlicia, são propostos aqui 14 novos sinônimos e designados 10 lectótipos.
+Key words: Brazil, campo rupestre, lectotypification, Minas Gerais, taxonomy
+
+Introduction
+Microlicia Don (1823: 301) is a genus of approximately 130 species, 117 of which occur in Brazil, and at least
+115 are considered endemic (Romero & Woodgyer 2013). The genus is extremely diverse in the campo
+rupestre and savannah vegetation of Bahia, Minas Gerais and Goiás (Romero 2003a).
+The last complete monograph of Microlicia was carried out by Cogniaux (1891) nearly 130 years ago. 99
+species were recognized in sections Chaetostomoides (Naudin) Cogniaux (1883: 43), Pseudomicrolicia
+Cogniaux (1883: 47), and Microlicia (1883: 59). Since then, only section Chaetostomoides has been revised,
+it is now monospecific (Romero 2003b). After Cogniaux’s monograph (1891) at least 50 new species were
+added to the genus, mostly from the states of Bahia, Minas Gerais and Goiás.
+The species of Microlicia are generally characterized by solitary flowers with five or occasionally six
+petals; a superior ovary with three or occasionally five locules and capsules dehiscing longitudinally from the
+apex to the base (Almeda & Martins 2001; Romero 2003b). Difficulty in the delimitation of closely related
+species may explain the high number of names proposed for several species in the genus. Analysis of type
+material of 12 binomials and 9 trinomials has allowed lectotypification and new synonymy for some of these
+names.
+
+Materials and Methods
+This study is based on literature and on the analysis of collections deposited in the following herbaria: BM,
+BR, G, K, HUFU, M, MO, NY, P, and W (acronyms according to Thiers 2013).
+
+48 Accepted by Eve Lucas: 3 May 2013; published online in PDF: 12 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Results and Discussion
+1. Microlicia isophylla De Candolle (1828: 120). Type:—BRAZIL. Minas Gerais: pascuis editis arenosis
+montium prov. Minas Gerais, s.d., Martius 912 (holotype M 165702!).
+= Microlicia glabra De Candolle (1828: 120). Type:—BRAZIL. s.loc., s.d., s.c., s.n. (holotype G 310280!), syn. nov.
+= Microlicia isophylla var. . laxa Chamisso (1834: 395). Type:—BRAZIL. Serra de Capivary, 1836, Sellow B 1187 c.
+1773 (holotype M!; isotypes G!, K!, P!), syn. nov.
+= Microlicia isophylla var. . latifolia Cogniaux (1883: 64). Type:—BRAZIL. Minas Gerais: in montosis siccis da Ouro
+Preto et Alto do Morro Ouro Branco, s.d., Pohl 1222 (lectotype K 530556! left-hand branch, here designated;
+isolectotype K!), syn. nov.
+Remaining syntypes of Microlicia isophylla var. latifolia: BRAZIL. Minas Gerais: Congonhas do Campo, s.d., Stephan
+s.n. (BR 526145!). Campos da Bocaina, s.d., Glaziou 8372 (BR 520794!, P!). São Paulo, 1839, Guillemin Cat. n.
+388 bis (G!, P!). s.loc., 1840, Clausen 1021 (G!, P!, W!). s.loc., s.d., Pohl 3693 (BR!). s.loc., s.d., Pohl 4168 (NY!).
+s.loc., s.d., Claussen 21 (BR!, G!). s.loc., s.d., Clausen 376A (BR 521055!, G!, NY!, W!). s.loc., s.d., Clausen 377A
+(BR 520827!). s.loc., s.d., Clausen 641 (BR 520793!). s.loc., s.d., a part of Martius 916 (BM!, BR!, G!, K! 2 sheets,
+M!, P!, W!).
+= Microlicia pulchella Chamisso (1834: 392). Type:—BRAZIL. s.loc., s.d., Sellow s.n. [1184 c. 1770], (lectotype K
+275871!, here designated; isolectotypes BR 522165!, K 275872!, P!, W!), syn. nov.
+= Microlicia pulchella var. . diffusa Cogniaux (1883: 75). Type:—BRAZIL. Minas Gerais: in petrosis ad Serra da Lapa,
+s.d., Riedel 1337 (lectotype BR 522132!, here designated; isolectotypes K!, P!, W!), syn. nov.
+= Microlicia parvifolia var. viscosa Naudin (1845: 177). Type:—BRAZIL. São Paulo, 1833, Gaudichaud in Herb.
+Imp. Bras. 707 (holotype P!), syn. nov.
+= Microlicia doryphylla Naudin (1845: 181). Type:—BRAZIL. Minas Gerais: Ouro Preto, 1845, part of Claussen 308
+(holotype P!, isotypes BR!, right-hand branch, P!), syn. nov.
+= Microlicia doryphylla var. . puberula Cogniaux (1883: 75). Type:—BRAZIL. Minas Gerais: prope Ouro Preto, s.d.,
+part of Claussen 308 (fide Cogniaux 1883) (holotype BR 526181!, left-hand branch), syn. nov.
+= Microlicia doryphylla var. . cuneifolia Cogniaux (1883: 75). Type:—BRAZIL. Minas Gerais: in collibus apricis
+prope Ouro Preto, s.d., Riedel 2691 (holotype BR!, isotypes K 530537!, P!), syn. nov.
+= Microlicia doryphylla var. glabra Cogniaux (1891: 48). Type:—BRAZIL. Minas Gerais: Rio das Mortes, 24 January
+1889, Glaziou 17511 (lectotype BR 533428!, here designated; isolectotypes BR 533461!, G!, P! 3 sheets), syn. nov.
+Microlicia uncata Cogniaux (1883: 64). Type:—BRAZIL. Minas Gerais: in altis campis alpestribus Serro Frio et alibi
+locis ultra 1300 m., s.d., Martius 912 (holotype M 165702!; isotype BR!), syn. nov. This is a duplicate of the type of
+M. isophylla De Candolle.
+
+β
+
+γ
+
+β
+
+β
+
+β
+
+γ
+
+≡
+
+De Candolle (1828) described Microlicia isophylla based on a specimen from "Brasilia pascuis editis
+arenosis montion Minas Geraes", not indicating the name of the collector. The author stated that the
+description was based on the manuscript name ‘Rhexia isophylla et uncata of Schrank et Martius’. A
+specimen deposited at M herbarium has a handwritten description by Schrank & Martius named Rhexia
+isophylla; it is clearly the holotype of M. isophylla.
+While describing M. pulchella Chamisso (1834) referred to a collection made by Sellow in Brazil without
+citing the number of the collector or the herbarium where it was deposited. The collection examined by
+Chamisso (1834) was probably deposited at the B herbarium, destroyed during World War II. Since the author
+did not indicate the holotype, the Sellow specimen deposited at K herbarium, is here designated as lectotype
+of M. pulchella.
+In the protologue of M. doryphylla, Naudin (1845) noted only Ouro Preto as the location of the specimen
+collection. Some years later, Naudin (1849) added the name Claussen as collector of this specimen. According
+to Martin & Cremers (2007) the specimen Claussen 308 deposited in P should be considered the holotype.
+Cogniaux (1883) described M. doryphylla var. puberula based on a part of Claussen 308. The sheet seen
+at herbarium BR has two branches: the branch on the right side is glabrous and the branch on the left side has
+sparse indumentum, and both match the original description of M. doryphylla and M. doryphylla var.
+puberula, respectively.
+Cogniaux (1891) described M. doryphylla var. glabra based on two syntypes. Glaziou 17511 at BR is
+designated as lectotype, because it is a better representation of the description, clearly showing the characters
+mentioned in the protologue. The other syntype, Moura 261, actually does not match the description of M.
+doryphylla and may possibly be a new species.
+TAXONOMIC NOTES IN MICROLICIA
+
+Phytotaxa 110 (1) © 2013 Magnolia Press
+
+• 49
+
+Microlicia isophylla var. laxa was described by Chamisso (1834) to include specimens with flexuous and
+much branched stems, without leaves at the base and with a thick leaf blade, and glutinous or not. Microlicia
+isophylla var. latifolia was described by Cogniaux (1883) to accommodate specimens with a sparse
+arrangement of leaves in the branches and the leaves smaller than the length of the internodes. According to
+Cogniaux (1883), M. isophylla var. latifolia has leaves slightly larger (4–6 × 1–2 mm) than the typical form
+(3–5 × 0.6–0.7 mm). Leaf characteristics used to describe both varieties are insufficient to maintain the
+varieties, and are certainly variations on the typical form.
+According to Naudin (1849), M. doryphylla is very similar to M. parvifolia Naudin (1845: 177) and M.
+pulchella Chamisso (1834: 392), because the habit is common to all three species. Microlicia pulchella var.
+diffusa has few-branched stems, without leaves at the base, M. doryphylla var. puberula presents pubescent
+indumentums, in M. doryphylla var. cuneifolia the leaves are obovate with attenuate bases, in M. parvifolia
+var. viscosa the leaves are glutinous, and in M. doryphylla var. glabra the branches are glabrous. All of this
+variation does not permit the maintenance of these varieties; they are here synonymized under M. isophylla.
+Microlicia isophylla is very polymorphic regarding the vegetative and reproductive features. The leaves
+are sessile or with a short petiole not exceeding 1 mm long. The leaf blade varies from lanceolate, elliptic to
+elliptic-lanceolate, rounded base, sometimes cuneate (M. doryphylla var. cuneifolia). The apex is usually acute
+and can present a short thickened tip, which also occurs in the calyx lobes. The stems, leaves, pedicel,
+hypanthium and calyx lobes have an indumentum of sessile glands, giving a glutinous aspect to the plant (M.
+parvifolia var. viscosa). Occasionally the branches, leaves, pedicel, hypanthium, and calyx lobes present an
+indumentum of short, pale trichomes, and the number of trichomes is quite variable (M. doryphylla var.
+puberula). Leaves with 3 nerves from the base, not always visible, but the central nerve is always evident and
+often in dried material, and is darker than the blade. The margin varies from entire to slightly crenulate and the
+pedicel from 1–4 mm long.
+The specific epithet isophylla (iso=equal, phylla=leaf) emphasizes the equal size of the leaves on the
+branches, since this pattern is often observed in the referred species. Besides the distribution pattern of the
+leaves on the branches, M. isophylla can be also recognized by its ascending, lanceolate to elliptic-lanceolate
+leaves, with attenuate, rounded, rarely cuneate bases and acute to short-acuminate apices, often with the same
+length as the internode, and young branches, leaves, hypanthium, and calyx lobes covered with sessile, golden
+glands, occasionally with an indumentum of short, pale trichomes.
+Microlicia isophylla is a much branched subshrub 30–50 cm tall, flowers with pedicel ca. 1.5 mm long,
+terete hypanthium with triangular-subulate calyx lobes and acute apex. The petals are magenta and the
+dimorphic stamens have bicolored anthers.
+Microlicia isophylla occurs in campo de altitude, campo rupestre and campo sujo from Minas Gerais, São
+Paulo and Rio de Janeiro states.
+Additional material examined. BRAZIL: Minas Gerais: Itacolomi, August 1824, Riedel 404 (K). Idem,
+February 1835, Riedel 2690 (K 530562). Idem, 9 February 1884, Glaziou 14715 (K, P). Idem, May 1885,
+Glaziou 14798 (K). Idem, s.d., Glaziou 14738 (K, P). Idem, ca. 2 km de Ouro Preto, 30 January 1971, H.S.
+Irwin et al. 29353 (K). Serra da Carassa [do Caraça], January 1825, Riedel 1450 (P, W). Serra do Lenheiro, 13
+October 1886, Glaziou 15966 (K 530558, P). São João D’El Rei, Serra do Lenheiro, 13 December 1886,
+Glaziou 15967 (K, P). São Tomé das Letras, 22 February 1999, M.C. Assis & E.N. Lughadha 591 (K, SPF).
+São Roque de Minas, Serra da Canastra, 22 March 1996, R. Romero & J.N. Nakajima 3391 (HUFU, K). Rio
+de Janeiro: s.d., Glaziou 4175 (K). s.loc., 1817, Langsdorff s.n. (K). s.loc., 1820, Steven s.n. (G). s.loc.,
+August 1889, Glaziou 19571 (K). s.loc., s.d., Claussen 19 (BR). s.loc., s.d., Claussen 26 (BR). s.loc., s.d.,
+Glaziou 17910 (K). s.loc., s.d., Martius s.n. (K 530563). s.loc., s.d., Riedel s.n. (BR, K, M, P, W).
+
+50 •
+
+Phytotaxa 110 (1) © 2013 Magnolia Press
+
+ROMERO
+
+2. Microlicia linifolia (De Candolle) Chamisso (1834: 395).
+Basionym:—Lavoisiera linifolia De Candolle (1828: 104). Type: —BRAZIL. Minas Gerais: ad Serro Frio, 1827,
+Martius s.n. (holotype M!; isotype G 219810!).
+= Microlicia linifolia var. . naudiniana Cogniaux (1883: 63). Type:—BRAZIL. Minas Gerais: in aridis arenosis
+montium circa Tijuco, 1833, Vauthier 18 (lectotype P!, here designated; isolectotypes BR 521063!, G!, P! 2 sheets).
+Microlicia insignis Naudin (1845: 183), nom. illegit., non Schlechtendal (1834: 750), syn. nov.
+
+β
+
+≡
+
+Cogniaux (1883) considered M. insignis Naudin (1845) a variety of M. linifolia and correctly assigned a new
+name (M. linifolia var. naudiniana) since the name M. insignis had been previously used by Schlechtendal
+(1834). According to Martin & Cremers (2007), the holotype of M. linifolia var. naudiniana (1883: 63) is at P.
+Nevertheless, Naudin (1845) pointed out the specimens are deposited at herb. Mus. Par. Rich. et Deless. (P
+and G, respectively), and therefore one specimen deposited in P is designated here as the lectotype of M.
+linifolia var. naudiniana, since it is in agreement with the protologue.
+Cogniaux (1883) described M. linifolia var. naudiniana as a subshrub 50–70 cm tall, without leaves at the
+base, leaf blade 10–15 mm long with a central nerve not evident. These characters, evident in the type
+collection are insufficient to recognize this morphology as a variety and can be considered within the normal
+variation expected in M. linifolia.
+Microlicia linifolia is a branched, xylopodiferous, subshrub ca. 40–60 cm tall, with petiolate leaves
+(petiole ca. 1 mm long), lanceolate leaf blade with an attenuate base, acute apex, and covered with sessile,
+spherical glands, and the smooth surface. The flowers have a glutinous, campanulate hypanthium with long
+calyx lobes, the apex acute and apiculate.
+Microlicia linifolia is known only by few collections made more than 120 years ago in Minas Gerais state,
+where it seems to be endemic and rare. Efforts have been made to find populations of M. linifolia, mainly in
+Biribiri State Park and around Diamantina, Minas Gerais, but without success.
+Additional material examined. BRAZIL. Minas Gerais: Biribiri, 30 March 1892, Glaziou 19219 (K, 2
+sheets, P 5316803, P 5316808, P 5316809). Serra do Cipó, Morro das Mangabeiras, 23 April 1892, Glaziou
+19163a (P). s.loc., 1842, Gardner 4633 (K, P 5316801). s.loc., 1846, Gardner 4634 (BM, BR, G, K 2 sheets, P
+5316812, P 5316817, W). s.loc., 1871, Buchinger s.n. (P 5316816).
+
+3. Microlicia martiana O. Berg. ex Triana (1873: 28). Type:—BRAZIL. Minas Gerais: s.loc., s.d., Martius
+915 (lectotype K 530545!, here designated; isolectotypes BM 795937!, BR! 4 sheets, G! 5 sheets, K
+530544!, M 165708!, M 165709!, M 165710!, P!, W!).
+Remaining syntypes: BRAZIL. s.loc., s.d., Claussen 1840 (not seen), s.d., Pico do Itabira do Campo, Claussen 36 (G!, P!
+3 sheets). s.loc., s.d., Clausen 1029 (G!, W!). s.loc., s.d., Reise 21 (not seen); s.loc., s.d., Langsdorff s.n. (K!).
+
+Triana (1873) described Microlicia martiana based on six syntypes: Langsdorff s.n., Claussen 1840, Claussen
+36, Clausen 1029, Reise 21 and Martius 915. The collection Martius 915 at K is designated as lectotype,
+because it is the most representative, clearly showing the characters mentioned in the protologue.
+Microlicia martiana is a subshrub 30–50 cm tall species with fastigiate branches; young branches are
+sharply quadrangular, the older terete, glabrescent, without leaves at the base and a bark gradually peeling to
+reveal underlying brownish wood. The young branches, leaves, hypanthium and calyx lobes are glutinous,
+with sessile, golden glands. The leaves are horizontal, discolored, with a dark green adaxial surface and a
+short petiole (0.4–0.6 mm long). The leaf blade is linear-lanceolate, attenuate and 3–nerved at base, with an
+acute, sometimes apiculate apex, margin entire or lightly undulating, the midrib is impressed on the adaxial
+surface and prominent on the abaxial surface.
+Microlicia martiana is endemic to Minas Gerais, occurring in Conceição do Mato Dentro, Itabirito, Nova
+Lima and São Roque de Minas, in cerrado, campo rupestre and campo limpo, in sandy soil.
+
+TAXONOMIC NOTES IN MICROLICIA
+
+Phytotaxa 110 (1) © 2013 Magnolia Press
+
+• 51
+
+Additional material examined. BRAZIL. Minas Gerais: Conceição do Mato Dentro, Serra do Cipó, km 137,
+21 April 1955, A.P. Duarte 2596 (US). Nova Lima, Morro do Chapéu, 22 March 2001, R. Romero & J.N.
+Nakajima 5916 (HUFU). Pico do Itabira do Campo, 20 December 1888, Glaziou 17509 (K). Pico do Itabirito,
+área de mineração, MBR, 23 March 2001, R. Romero & J.N. Nakajima 5926 (HUFU). São Gonçalo do Rio
+Preto, Parque Estadual do Rio Preto, 18 November 1999, J.A. Lombardi 3494 (BHCB, HUFU). São Roque de
+Minas, Parque Nacional da Serra da Canastra, Cachoeira Casca D’Anta, base do Morro, 20 January 1995, J.N.
+Nakajima et al. 929 (HUFU).
+
+4. Microlicia multicaulis Mart. ex Naudin (1845: 184). Type:—BRAZIL. Minas Gerais: in mont. Carassa
+[Caraça], May 1832, Martius 932 (lectotype P!, designated here; isolectotypes BM 795957!, BM 795958!,
+BR! 4 sheets, G! 3 sheets, K 530453!, M 165714!, M 165715!, W!).
+= Microlicia arenariifolia Chamisso (1834: 396) as “arenariaefolia”. Type:—BRAZIL. s.loc., s.d., Sellow s.n. (BR!, K
+530551!), nom. illeg., non M. arenariifolia De Candolle (1828: 120) as “arenariaefolia”.
+= Microlicia arenariifolia var. . riedeliana Cogniaux (1883: 66, tabula 13, figure 2). Type:—BRAZIL. Minas Gerais: in
+saxoxis mont. Carassa [Caraça], s.d., Riedel 1445 (lectotype BR!, here designated; isolectotype W!). syn. nov.
+= Microlicia pseudoscoparia Cogniaux (1883: 60, tabula 13, figure 1). Type:—BRAZIL. Minas Gerais: Carassa
+[Caraça], s.d., Sellow 1334 (lectotype BR 522100!, here designated; isolectotypes BR 522198!, K 530459!, M!),
+syn. nov.
+
+β
+
+According to Martin & Cremers (2007), the holotype of M. multicaulis is at P. Nevertheless, Naudin (1845)
+pointed out the specimens are deposited at herb. Deless. et Mus. Par. (G and P, respectively), and therefore the
+specimen deposited in P is designated here as the lectotype of M. multicaulis, since it is in agreement with the
+protologue.
+In the protologue of M. pseudoscoparia, here synonymized under M. multicaulis, Cogniaux (1883)
+indicated that the type collection was deposited in several herbaria (Herb. Berol., Brux., Vindob., and Acad.
+Petrop.). The specimen Sellow 1334 at herbarium BR is designated here as lectotype of M. pseudoscoparia,
+since it is in good conditions and the characteristics are according to the protologue of the species. The
+specimen Sellow 1334 has quadrangular branches with concolorous and ascending leaves, the leaf blade is
+linear-lanceolate to lanceolate, attenuate at base, with an acute apex, without arista, barely undulating margin,
+and adaxial and abaxial surfaces of the leaf covered with sessile, spherical glands, these sunken, making the
+leaves slightly wrinkled. The leaves have a short petiole ca. 1 mm long and the hypanthium is glutinous,
+shining, the calyx lobes are glutinous, lanceolate, acute apex and with the same size of the hypanthium or
+slightly longer. These features fall within the morphological variation of M. multicaulis and therefore M.
+pseudoscoparia is considered synonymous with M. multicaulis.
+Cogniaux (1883) described Microlicia arenariifolia var. riedeliana Cogniaux (1883: 68) based on Riedel
+1445 from Serra do Caraça, Minas Gerais state. After examining these collections we concluded that the
+specimen fits M. multicaulis Mart. ex Naudin (1845: 184), which was also described from a collection by
+Martius in Serra do Caraça. The specimen has ascending leaves with petioles ca. 0.5 mm long, basally
+attenuate, linear-lanceolate leaf blades with acute apices and arista ca. 1 mm long, entire margins, and only
+one central nerve. Thus, we accept M. arenariifolia De Candolle (1828: 120) as an extra-Brazilian species
+occurring in Bolivia and M. arenariifolia var. riedeliana as a synonym of M. multicaulis.
+Microlicia arenariifolia is a branched, xylopodiferous subshrub, 40 cm tall with sessile leaves, lanceolate
+leaf blades with attenuate bases, acute apices with short arista, and covered with sessile, spherical glands. The
+flowers have a glabrous, campanulate hypanthium with calyx lobes shorter than the hypanthium or the same
+length, the apex acute and apiculate.
+Microlicia multicaulis has close affinity with M. arenariifolia, differing mainly in the leaves that have a
+short petiole in the former but are sessile in the latter. The distribution of these species is disjunct with M.
+arenariifolia occurring in Bolivia.
+Microlicia multicaulis is a subshrub, 40–80 cm tall, with a single or much-branched stem, in the latter
+
+52 •
+
+Phytotaxa 110 (1) © 2013 Magnolia Press
+
+ROMERO
+
+case, with several branches. The older branches are terete, while younger ones are distinctly quadrangular,
+glutinous, and glabrescent and leafless at the base, the leaves, hypanthium and calyx lobes covered with
+sessile glands. Leaves are ascending and with a short petiole, 0.5–1 mm long. The leaf blade is linearlanceolate to lanceolate, with an attenuate base, entire margin, apices are acute with an apical seta (ca. 1 mm
+long), and only one central nerve. The hypanthium is campanulate, striate and glutinous, with triangularlanceolate calyx lobes with acute apices with a long, apical seta.
+Additional material examined. BRAZIL. Minas Gerais: Caraça, Morro da Carapuça à Caraça, 11 January
+1884, Glaziou 14719 (K, P 2 sheets). Idem, 17 February 1884, Glaziou 14716 (P). Ibidem, 19 February 1884,
+Glaziou 14718 (K, P). Ibidem, 14 April 1933, M. Barreto 6996 (HUFU). Ibidem, caminho para gruta do
+Padre Caio, 24 May 1987, M.B. Horta et al. 89 ( HUFU). Ibidem, trilha para a Carapuça, s.d., J. Semir et al.
+s.n. (HUFU 6205). Catas Altas, Parque Natural do Caraça, (20°04'30"S, 43°30'36"W), 26 March 2001, R.
+Romero & J.N. Nakajima 5979 (HUFU). Caxoeira da Vargem Grande, 5 January 1895, Glaziou 21228 (K, P).
+Congonhas da Serra, 20 April 1892, Glaziou 19217 (K, P 2 sheets). Morro das Mangabeiras, 23 April 1892,
+Glaziou 19219 (P 5316873, P 5316874). Pico do Itacolomi, 25 February 1987, T.S.M. Grandi et al. 2086
+(BHCB, HUFU). Idem, 9 February 1884, Glaziou 14717 (G, K, P 3 sheets). Santa Bárbara, s.loc., 1892,
+Glaziou 19218 (K). Goiás: Alto Paraíso, Chapada dos Veadeiros, 24 June 1994, V.L.G. Klein et al. 2455
+(HUFU). s.loc., s.d., Pohl 1221, 1966 (W).
+
+5. Microlicia myrtoidea Chamisso (1834: 393). Type:—BRAZIL. s.loc., s.d., Sellow s.n. (lectotype K
+530535!, here designated; isolectotypes BR 5221684!, K 530534!, M 165716!, P!).
+Chamisso (1834) described Microlicia myrtoidea based on two syntypes. Lhotzky’s specimen could not be
+found, and Sellow s.n. is designated here as lectotype of M. myrtoidea, since it is in agreement with the
+protologue of the species.
+Microlicia myrtoidea is a branched, subshrub, c. 50 cm tall. The leaves are ovate-lanceolate, with 3, rarely
+5, abaxially evident nerves from the base, leaf bases are rounded, apices acute, with short thickened tips, the
+short petioles (ca. 0.2 mm long) are flattened. The young branches, leaves, hypanthia and calyx lobes are
+covered with sessile, golden glands. The hypanthium is terete to slightly urceolate with triangular calyx lobes
+shorter than the hypanthium, and with a long arista on its apex.
+The occurrence of Microlicia myrtoidea is restricted to Jaguariaiva and Senges, in Paraná, and in Itararé,
+in São Paulo.
+Additional material examined. BRAZIL. Paraná: Senges, margem esquerda e direita do Rio Funil, 8 April
+1995, S.S. Oliveira et al. s.n. (HUFU 12113). São Paulo: Itararé, rodovia Itararé–Itapeva, próximo à ponte do
+Rio Verde, área de campo alagável com cerrado adjacente, 26 November 1994, V.C. Souza et al. 4655
+(HUFU).
+
+Acknowledgments
+The curators of BM, BR, G, K, HUFU, M, MO, NY, P, and W, FAPEMIG 0369-08; 0703-11), CNPq/
+REFLORA (563541/2010–5), PROTAX (562290/2010–9) for supporting research with Melastomataceae in
+Minas Gerais state, CAPES for post doctoral fellowship (9612/12–2), Nicholas Hind and Elizabeth Woodgyer
+for reviewing the manuscript and two anonymous reviewers for providing helpful comments on the
+manuscript.
+
+TAXONOMIC NOTES IN MICROLICIA
+
+Phytotaxa 110 (1) © 2013 Magnolia Press
+
+• 53
+
+References
+Almeda, F. & Martins, A.B. (2001) New combinations and new names in some Brazilian Microlicieae
+(Melastomataceae), with notes on the delimitation of Lavoisiera, Microlicia, and Trembleya. Novon 11 (1): 1–7.
+http://dx.doi.org/10.2307/3393198
+De Candolle, A.P. (1838) Prodromus systematis naturalis regni vegetabilis 3. Treuttel et Würtz, Paris.
+Chamisso, A. (1834) Melastomaceae americanae. In: Schlechtendal, D.F.L. De plantis in expeditione speculatoria
+romanzoffiana et in herbariis regiis berolinensibus obervatis. Linnaea 9: 428–460.
+Cogniaux, C.A. (1883) Microlicieae. In: Martius, C.F.P., Eichler, A.W. & Urban, I. (eds.) Flora Brasiliensis 14 (3).
+Fleischer, Leipzig, pp. 6–204.
+Cogniaux, C.A. (1891) Melastomaceae. In: Candolle, A.L.P.P. de & Candolle, A.C.P. de (eds.) Monographiae
+Phanerogamarum 7. G. Masson, Paris, 1256 pp.
+Don, D. (1823) An illustration of the natural family of plants called Melastomataceae. Memoirs of the Wernerian Natural
+History Society 4: 276–329.
+Martin, C.V. & Cremers, G. (2007) Les Melastomataceae américaines décrites par C. Naudin. Le Journal de Botanique
+de la Société de botanique de France 37: 3–111.
+Naudin, C. (1845) Additions a la flore du Brésil méridional. Annales des Sciences Naturelles Botanique, série 3, 3: 171–
+189.
+Naudin, C. (1849) Melastomacearum monographicae descriptionis. Annales des Sciences Naturelles Botanique, série 3,
+12: 196–284.
+Romero, R. (2003a) A newly described species of Microlicia (Melastomataceae) from Minas Gerais, Brazil. Novon 13:
+116–118.
+http://dx.doi.org/10.2307/3393575
+Romero, R. (2003b) Revisão taxonômica de Microlicia sect. Chaetostomoides (Melastomataceae). Revista Brasileira de
+Botânica 26 (4): 429–435.
+http://dx.doi.org/10.1590/S0100-84042003000400001
+Romero, R. & Woodgyer, E. (2013) Microlicia. In: Lista de Espécies da Flora do Brasil, Jardim Botânico do Rio de
+Janeiro. Available from: (http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB9782 (accessed 10 Apr 2013).
+Schlechtendal, D.F.L. (1834) De plantis in expeditione speculatoria romanzoffiana et in herbariis regiis berolinensibus
+observatis – Melastomaceae americanae. Linnaea 9: 428–460.
+Thiers, B. (2013) Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical
+Garden's Virtual Herbarium. Available from http://sweetgum.nybg.org/ih/ (accessed: 10 Apr 2013).
+Triana, J. (1873) Les Mélastomaceés. Transactions of the Linnean Society of London 28 (1): 1–188.
+http://dx.doi.org/10.1111/j.1096-3642.1871.tb00222.x
+
+54 •
+
+Phytotaxa 110 (1) © 2013 Magnolia Press
+
+ROMERO
+
+

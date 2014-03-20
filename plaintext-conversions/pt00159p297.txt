@@ -1,0 +1,163 @@
+Phytotaxa 159 (4): 295–297
+www.mapress.com / phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+Copyright © 2014 Magnolia Press
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.159.4.7
+
+Megalastrum oppositum and Ctenitis canacae (Dryopteridaceae): A new
+combination and a new synonym, respectively, for Mascarene fern flora
+YI-FAN DUAN1 & LI-BING ZHANG2*
+1
+
+International Cultivar Registration Center for Osmanthus, Nanjing Forestry University, Nanjing, Jiangsu, 210037, P. R. China.
+E-mail: yifan419@hotmail.com
+2
+Chengdu Institute of Biology, Chinese Academy of Sciences, P.O. Box 416, Chengdu, Sichuan 610041, P. R. China and Missouri
+Botanical Garden, P.O. Box 299, St. Louis, Missouri 63166-0299, U.S.A.
+*
+Author for correspondence: Libing.Zhang@mobot.org
+
+Abstract
+We synonymized Ctenitis canacae with C. opposita (basionym: Aspidium oppositum) and proposed a new
+combination, Megalastrum oppositum. We also lectotypified Aspidium oppositum.
+
+Introduction
+Ctenitis (C. Christensen) C. Christensen (1938: 544), a fern genus first distinguished as a natural group by
+Christensen (1938), contains about 100–150 species distributed in the New and Old World wet tropics (Christensen
+1913, 1920, Mickel & Smith 2004). The best character to distinguish Ctenitis from others is its ctenitis hairs: these
+hairs consist of a few cells with quite thin walls and the apical cell is not acicular. When living, the hairs are quite
+terete and colourless, but when dried the lateral cell walls collapse irregularly so that the hairs on herbarium
+specimens are contorted and the contents of the cells turn to a rusty color (Holttum & Edwards 1986, Mickel &
+Smith 2004). The genus Megalastrum Holttum (1987: 161) is closely related to Ctenitis, but with a unique
+character combination that the basal basiscopic lobe of the pinnules gradually becomes adnate and decurrent to the
+pinna rachis and this adnate lobe is nourished by a vein that arises from the pinna rachis, not from the costule
+(Moran & Prado 2010). The systematics and nomenclature of Ctenitis are still ambiguous and many species are
+removed out of Ctenitis and placed in other genera (Holttum 1983, 1986, Holttum & Edwards 1986, Smith &
+Moran 1987, Sundue et al 2010, Rouhan & Moran 2011, Zhang 2012). In preparation for a revision of Ctenitis in
+the Old World, we found Ctenitis canacae Holttum (1983: 128) and C. opposita (Kaulfuss ex Sprengel) Copeland
+(1947: 124) are conspecific and the latter should be transferred to Megalastrum.
+
+Taxonomy
+Megalastrum oppositum (Kaulfuss ex Sprengel) Li Bing Zhang & Yi F. Duan, comb. nov.
+Basionym: Aspidium oppositum Kaulfuss ex Sprengel (1827: 108).
+Type:—REPUBLIC OF MAURITIUS. Trou Kanaka, 1827, F. W. Sieber 36 (lectotype K-000351135!, isolectotypes B200059372!, B-200059373!, B-200059378!, B-200059379!, BR-0000013468439!, K-000351133!, K-000351134!, P00477807!, P-00477808!, P-00477809!, P-00483109!, W-0003940!, W-0003941!, W-1889-0361729!, W-1889-0362201!,
+here designated).
+Homotypic synonyms:—Ctenitis mascarenarum (Urban) Tardieu-Blot (1954: 90), nom. illeg.; C. opposita (Kaulfuss ex
+Sprengel) Copeland (1947: 124); Dryopteris opposita (Kaulfuss ex Sprengel) Kuntze (1891: 813); D. mascarenarum
+Urban (1903: 14), nom. illeg.; Lastrea opposita (Kaulfuss ex Sprengel) C.Presl (1836: 393); Nephrodium oppositum
+(Kaulfuss ex Sprengel) Hooker (1862: 136).
+Heterotypic synonyms:—Ctenitis canacae Holttum (1983: 128); Megalastrum canacae (Holttum) Holttum (1987: 161).
+Type:—Republic of Mauritius. “Canaca”, 1868, Sir H. Barkly s.n. (holotype K-000501476!).
+Distribution: Mauritius, Réunion.
+
+Accepted by Jim Reveal: 10 Jan. 2014; published: 18 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+295
+
+The generic assignment of this species has been controversial. It was published firstly as a member of Aspidium
+Swartz (1801: 29) by Sprengel (1827), transferred to Lastrea Bory (1824: 588) by Presl (1836), moved again to
+Dryopteris Adans (1763: 20) by Kuntze (1891), and finally to Ctenitis by Copeland (1947). Urban (1903)
+mistakenly considered A. oppositum to be a later homonym of A. oppositum (Vahl) Swartz (1829: 67) and proposed
+the replacement name Dryopteris mascarenarum Urban (1903: 14) which was later transferred to Ctenitis by
+Tardieu-Blot (1954). The replacement name is obviously superfluous.
+The type of Aspidium oppositum was stated to have come from South Africa (“C.B.S.”) (Sprengel 1827,
+Copeland 1947). However, Morton (1967: 37) found that this species was based on Sieber 36 from Mauritius.
+Morton’s (1967) discovery and statement implicitly designated Sieber 36 as the type of A. oppositum. There are 16
+sheets of Sieber 36 deposited at B, BR, K, P and W. Roux (2009: 135) listed three sheets of Sieber 36 as
+'holo(types)". His designation is invalid. We here designated K-000351135 as the lectotype (image available at
+http://plants.jstor.org/specimen/k000351135?s=t). After examination of Sieber 36, we found that all of these sheets
+represent the same species and this species has basal basiscopic vein on the distal pinnules arising from the costa
+and hairs present on the adaxial surfaces of the axes with cells apparently twisted relative to each other when dried,
+which is consistent with Megalastrum as defined by Sundue et al (2010) and Rouhan and Moran (2011) but
+different from Ctenitis. Therefore, we transfer this species to Megalastrum.
+When publishing Ctenitis canacae Holttum (1983: 128), he apparently overlooked Morton’s (1967)
+typification of Aspidium oppositum, but he stated that “If Kaulfuss’s type should be found, and if it agrees with the
+type I have proposed, the name Ctenitis opposita is available and would have to be used”. We checked the type of
+C. canacae and found that it agrees with the type of C. opposita. Therefore, C. canacae is a heterotypic synonym of
+C. opposita.
+
+Acknowlegements
+We thank James L. Reveal for helpful comments and the directors and curators of the herbaria B, BR, K, MO, NY,
+P, SING, UC, and W for providing access to the material in their care and the Doctorate Fellowship Foundation of
+Nanjing Forestry University, the fellowship of ‘A Project Founded by the Priority Academic Program
+Development of Jiangsu High Education Institutions (PAPD)’ and the Postgraduate Innovation Project Foundation
+in Jiangsu, China (CXZZ12-0518) to Y.-F.D.
+
+References
+Adanson, M. (1763) Familles des Plantes, vol. 2. Paris: Chez Vincent.
+http://dx.doi.org/10.5962/bhl.title.271
+Bory de Saint-Vincent, M. (1824) Fourères. Dictionnaire classique d'histoire naturelle 6: 583–589.
+http://dx.doi.org/10.5962/bhl.title.33901
+Christensen, C. (1913) A monograph of the genus Dryopteris. Part I. The tropical American pinnatifid bipinnatifid species.
+Kongelige Danske Videnskabernes Selskabs Skrifter Naturdidenskabeliger og Mathematisk Afdeling 10: 55–282.
+Christensen, C. (1920) A monograph of the genus Dryopteris. Part II, the tropical American bipinnate decompound species.
+Kongelige Danske Videnskabernes Selskabs Skrifter Naturdidenskabeliger og Mathematisk Afdeling 6: 1–132.
+Christensen, C. (1938) Filicinae. Pp. 522–550 in: Verdoom, F. (ed.), Manual of Pteridology. The Hague: Nihoff.
+http://dx.doi.org/10.1007/978-94-017-6111-6_20
+Copeland, E.B. (1947) Genera Filicum. Waltham, Mass.: Chronica Botanica Co.
+Holttum, R.E. (1983) The fern-genera Tectaria, Heterogonium and Ctenitis in the Mascarene Islands. Kew Bulletin 38: 107–
+130.
+http://dx.doi.org/10.2307/4107974
+Holttum, R.E. (1986) Studies in the fern-genera allied to Tectaria Cav. V. Triplophyllum, a new genus of Africa and America.
+Kew Bulletin 41: 237–260.
+http://dx.doi.org/10.2307/4102928
+Holttum, R.E. (1987) Studies in the fern-genera allied to Tectaria Cav. VI. A conspectus of genera in the Old World regarded as
+related to Tectaria, with descriptions of two genera. The Gardens’ Bulletin Singapore 39: 153–167.
+Holttum, R.E. & Edwards. P.J. (1986) Studies in the fern genera allied to Tectaria II. Dryopsis, a new genus. Kew Bulletin 41:
+171–204.
+
+296 •
+
+Phytotaxa 159 (4) © 2014 Magnolia Press
+
+DUAN & ZHANG
+
+http://dx.doi.org/10.2307/4103042
+Hooker, W.J. (1862) Species Filicum, vol. 4. London: W. Pamplin.
+Kuntze, C.E.O. (1891) Revisio Generum Plantarum, vol. 2. Leipzig: A. Felix.
+Mickel, J.T. & Smith, A.R (2004) The pteridophytes of Mexico. Memoirs of the New York Botanical Garden 88: 1–1055.
+Moran, R.C. & Prado, J. (2010) Megalastrum (Dryopteridaceae) in Central America. Kew Bulletin 65: 137–188.
+http://dx.doi.org/10.1007/s12225-010-9214-3
+Morton, C.V. (1967) Studies of fern types, I. Contributions from the United States National Herbarium 38: 29–83
+Presl, C.B. (1836) Tentamen Pteridographiae, seu genera filicacearum praesertim juxta venarum decursum et distributionem
+exposita. Pragae: Typis Filiorum Theophili Haase, 290 pp.
+http://dx.doi.org/10.5962/bhl.title.47011
+Rouhan, G. & Moran, R.C. (2011). Monograph of the paleotropical species of Megalastrum (Dryopteridaceae). Annals of the
+Missouri Botanical Garden 98: 90–100.
+http://dx.doi.org/10.3417/2008129
+Roux, J.P. (2009) Synopsis of the Lycopodiophyta and Pteridophyta of Africa, Madagascar and neighbouring islands. Strelitzia
+23. Pretoria: South African National Biodiversity Institute, 296 pp.
+Smith, A.R. & Moran, R.C. (1987) New combinations in Megalastrum (Dryopteridaceae). American Fern Journal 77: 124–
+130.
+http://dx.doi.org/10.2307/1547480
+Sprengel, C. (1827) Systema Vegetabilium. Editio decima sexta. Vol.4 (1). Gottingae: Sumtibus Librariae Dieterichianae, 592
+pp.
+http://dx.doi.org/10.5962/bhl.title.822
+Sundue, M., Rouhan, G. & Moran, R.C. (2010) Megalastrum (Dryopteridaceae) of the circumaustral region: Chile, Argentina,
+and southern islands of the Atlantic, Pacific, and Indian Oceans. Systematic Botany 35: 1–15.
+http://dx.doi.org/10.1600/036364410792495935
+Swartz, O. (1801) Genera et species filicum. Journal für die Botanik (Schrader) 2: 29–43.
+Tardieu-Blot, M.L. (1954) Sur Quelques “Dryopteris” De La Reunion. Notulae Systematicae 15: 90-92.
+Urban, I. (1903) Symbolae Antillanae seu Fundamenta Florae Indiae Occidentalis, vol. 4. Lipsiae (Leipzig): Fratres
+Borntraeger, Paristis (Paris): Paul Klincksieck, and Londini (London): Williams & Norgate, 771 pp.
+http://dx.doi.org/10.5962/bhl.title.144
+Zhang, L.-B. (2012) Reducing the fern genus Dryopsis to Dryopteris and the systematics and nomenclature of Dryopteris
+subgenus Erythrovariae section Dryopsis (Dryopteridaceae) Phytotaxa 71: 17–27.
+
+MEGALASTRUM OPPOSITUM AND CTENITIS CANACAE
+
+Phytotaxa 159 (4) © 2014 Magnolia Press
+
+• 297
+
+

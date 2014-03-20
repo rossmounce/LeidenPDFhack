@@ -1,0 +1,423 @@
+Phytotaxa 116 (1): 34–40 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.116.1.3
+
+Knautia dinarica (Caprifoliaceae): taxonomy, typification and update of the
+Italian distribution
+LORENZO PERUZZI1*, FABRIZIO BARTOLUCCI2, GIOVANNI ASTUTI1, LILIANA BERNARDO3 &
+FABIO CONTI2
+1
+
+Dipartimento di Biologia, Unità di Botanica, Università di Pisa, Via Luca Ghini 13, 56126, Pisa, Italy;
+e-mail: lperuzzi@biologia.unipi.it
+2
+Scuola di Scienze Ambientali, Università di Camerino - Centro Ricerche Floristiche dell'Appennino (Parco Nazionale del Gran
+Sasso-Laga), S. Colombo, 67021 Barisciano (L'Aquila), Italy
+3
+Orto Botanico, Università della Calabria, 87030 Arcavacata di Rende (Cosenza), Italy
+*
+author for correspondence
+
+Abstract
+New Italian populations of Knautia dinarica, formerly known only for Sila (Calabria, Southern Italy), were discovered in
+Abruzzo (Central Italy) and Basilicata (Southern Italy). In order to correctly classify these populations, a taxonomic
+study was carried out, including morphological and karyological analyses and the typification of the names Knautia
+sylvatica var. dinarica and K. arvensis f. silana. We conclude that in Italy only K. dinarica subsp. silana occurs, to be
+considered as endemic to central-southern Apennines and vicariant of K. dinarica subsp. dinarica, occurring in the
+Balkan peninsula. Both subspecies can be either diploid (2n = 20) or tetraploid (2n = 40), and are distinguished by the
+different mean shape of the basal leaves (the ratio length/width is higher in Italian plants).
+Key words: Dipsacaceae, Dipsacales, karyology, Knautia, taxonomy, typification
+
+Introduction
+The dipsacaceous clade within Caprifoliaceae (Dipsacales) contains ca. 300 herbaceous species, mostly
+distributed in the Mediterranean area, Knautia Linnaeus (1753: 101) representing a monophyletic genus with
+40–60 species (Carlson et al. 2009). Knautia dinarica (Murbeck 1891: 111) Borbás (1894: 399) is currently
+known from Balkan Peninsula (in the former Jugoslavia, Albania, and Bulgaria countries) and Southern Italy
+(Calabria region) (Ehrendorfer 1976, Conti et al. 2005). Verlaque (1977) reported K. dinarica also from
+Greece, but this record was not confirmed in recent Checklists or Floras (Greuter et al. 1986, Strid & Tan
+1991). Knautia dinarica subsp. dinarica occurs in the Balkans (mostly on limestones), while in Italy (on
+siliceous substrates, see Sarfatti 1965, Brullo et al. 2007) only the narrow endemic K. dinarica subsp. silana
+(Grande 1913: 107) Ehrendorfer (1975: 40) is reported. On the basis of the literature data, the subsp. silana
+differs from the nominal one in hair-type and petiole length of basal leaves (Ehrendorfer 1975, 1976, 1982a).
+During field research in Central and Southern Italy, we found two populations of Knautia dinarica s.l. well
+outside the historical range and growing on calcareous substrate: the first one in Abruzzo region (Central
+Italy), the second one in Basilicata region (Southern Italy). In order to correctly classify these populations, we
+carried out a taxonomic study, including morphological and karyological analyses and the typification of the
+names involved. This work is also carried out within the initiative ”Italian Loci Classici Census“ (Domina et
+al. 2012), launched in 2010 under the auspices of the Italian Botanic Society (see for instance Di Pietro et al.
+2012, Gallo et al. 2012, Iamonico & Peruzzi 2012, Peruzzi & Carta, 2013, Peruzzi et al. 2012, 2013, Iamonico
+2013, Bartolucci & Conti 2013, Bartolucci & Peruzzi 2013).
+
+34 Accepted by Duilio Iamonico: 17 June 2013; published online in PDF: 9 July 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Material and Methods
+This study is based on the analysis of relevant literature, field surveys and revision of herbarium specimens
+(including the original material for the names studied) kept in APP, BEOU, CLU, FI, LD, NAP, PI and WU
+(acronyms follow Thiers 2012).
+Despite a casual variation of the characters usually used to distinguish the two taxa was evident since our
+first observations, we noted on the contrary some variation in basal leaves size among the studied plants. For
+this reason, we decided to measure the following three characters: basal leaves length (cm), basal leaves width
+(cm), ratio basal leaves length / basal leaves width (L/W). Quantitative morphological investigation is
+performed on a total of 61 herbarium specimens of K. dinarica: 26 from Calabria (Southern Italy, fully
+corresponding to K. dinarica subsp. silana), 11 from the Balkans (fully corresponding to K. dinarica subsp.
+dinarica), 11 from Basilicata (Southern Italy, coded as BAS) and 13 from Abruzzo (Central Italy, coded as
+ABR). While ABR and BAS occur in single populations, the measurements of subsp. dinarica and subsp.
+silana were taken from samples coming from several localities (cfr. Appendix 1). The variables were
+processed singularly by means of ANOVA (after check of Levene statistics) with Tukey HSD test for
+comparing the same variable among pairs of Operational Taxonomic Units (OTU), using SPSS® 20 for
+Windows (SPSS, Chicago, IL, USA).
+As regards the chromosome analysis, squash preparations were made from root-tips of plants cultivated in
+the Botanic Garden of Floristic Research Center of the Apennine [Polledrara, Secine (Palena), 430312N,
+4638996E (UTM-ED50), 1730 m, 20 July 2006, F. Conti (acc. n. 236/06)], according to the following
+schedule: pretreatment in 0.4% colchicine solution for 4 hours; Carnoy fixing for 45 min; hydrolisis in HCl
+1N for 6 minutes at 60°C; staining with leuco-basic fuchsin for 3 hours.
+
+Typification of the names
+Knautia dinarica (Murb.) Borbás (1894: 399)
+Bas.:—Knautia sylvatica var. dinarica Murbeck (1891: 111). Type (lectotype, here designated):—BOSNIAHERZEGOVINA. In pratis alpinis Matorac montis Vranica planina, 1800–1900 m, 9 September 1889, Murbeck
+1165781 (LD!; isolectotype WU! No. 0044885).
+
+Knautia sylvatica var. dinarica was described from Bosnia-Herzegovina and Montenegro (Vranica and
+Bjelasnica Mountains) (Murbeck 1891). We traced eight herbarium sheets, kept in LD and WU, that were
+collected ante 1891 and match the protologue, so they can be considered as original material for the name.
+The best preserved and complete exsiccatum at LD is here selected as the lectotype. This specimen
+corresponds to the current concept of K. dinarica, but all the traced original material is showing only long
+hairs in the lower third of the individuals, in contrast with the description given by Ehrendorfer (1976), who
+refers to K. dinarica s.s. as a more or less pubescent plant showing also long hairs. According to the Art. 41.3
+of the ICN (McNeill et al. 2012) the new combination Knautia dinarica (Murb.) Borbás was validly published
+(Borbás 1894), while the isonym proposed by Malý (1908: 233) has no nomenclatural status.
+Knautia dinarica subsp. silana (Grande) Ehrendorfer (1975: 40)
+Bas.:—Knautia arvensis f. silana Grande (1913: 107). Type (neotype, here designated):—ITALY. Calabria: Loc.
+Calabria, in ditione Longobucco, loco Fossiata dicto, in herbosis humidis, alt. 1300 m, solo granitico, 7 August
+1921, A. Fiori s.n. (FI! the specimen bearing also handwritings; isoneotypes in FI! and PI!).
+
+Grande (1913: 107) refers to “Scabiosa arvensis B. foliis lanceolatis subintegerrimis” (Tenore 1831: 59) and
+to a number of localities with collections (e.g. syntypes) made by him together with F. Cavara (“Nelle pinete,
+nei prati o lungo i rivoli a Botte Donato, alla caserma della Fossiata“) and together with G. Lopez (“ai
+Serriselli, al Pirillo, al Vallo d'Agnara, a Tacina”). We were not able to trace in NAP (neither in Tenore nor in
+KNAUTIA DINARICA (CAPRIFOLIACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 35
+
+Cavara-Grande collections) any of these specimens. Since no other original material were traced, we are
+forced to propose a neotype for this name. For this purpose, we selected a well representative, topotypical
+collection conserved in FI. According to the Art. 41.6 of the ICN (McNeill et al. 2012) the combination
+proposed by Ehrendorfer (1975) was validly published, despite the incorrect referring to basyonim's rank
+(“var.”) and year of publication (“1911”).
+
+FIGURE 1. Graphic showing the morphological relationships (based on the basal leaf features) between Knautia dinarica subsp.
+dinarica (N = 11), ABR (N = 13), BAS (N = 11) and K. dinarica subsp. silana (N = 26). The presence of a continuous line between
+two OTUs evidences no statistically significant difference (Tukey HSD test); the presence of a discontinuous line between two OTUs
+evidences a difference significant at 0.05 level (Tukey HSD test); the absence of a line between two OTUs evidences a difference
+significant at 0.01 level (Tukey HSD test). Black lines = length; red lines = width; green lines = ratio L/W.
+
+Morphological and Karyological Results
+The relationships among the four considered OTUs are represented in Fig. 1 and Table 1. The width of basal
+leaves has not significance from the statistical point of view among the studied OTU (Tukey HSD test with p
+values ranging between 0.18 and 0.98). Concerning the length of basal leaves, there is no difference between
+subsp. silana / ABR / BAS and between subsp. dinarica / ABR / BAS (Tukey HSD test with p values ranging
+between 0.09 and 0.99), while moderately significant differences occur between subsp. dinarica / subsp.
+silana (p = 0.05). By considering the covariance of these two morphological parameters (the ratio L/W), there
+is no significant difference between subsp. silana / ABR / BAS (Tukey HSD test with p values between 0.96
+and 0.99) and between subsp. dinarica / ABR (p = 0.06), while subsp. silana and BAS differ significantly
+from subsp. dinarica (p = 0.01).
+The single studied population of K. dinarica from Abruzzo (ABR) turned out to be diploid with 2n = 20
+chromosomes.
+
+36 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+PERUZZI ET AL.
+
+TABLE 1. Basal leaves morphological comparison in Knautia dinarica subsp. dinarica (N = 11), ABR (N = 13), BAS
+(N = 11) and K. dinarica subsp. silana (N = 26). Quantitative values are expressed as 10–90 percentile intervals, with
+minimum and/or maximum in brackets.
+subsp. dinarica
+
+ABR
+
+BAS
+
+subsp. silana
+
+basal leaves length (cm)
+
+6–12.5(–17.1)
+
+(10–)10.1–16.3(–20.5)
+
+(4–)6.7–13.5(–17)
+
+(5–)6.9–19.7(–28)
+
+basal leaves width (cm)
+
+(1.3–)1.6–3.2(–3.8)
+
+(0.9–)1.3–2.7(–2.9)
+
+(0.5–)0.6–2.2(–3.7)
+
+(0.7–)1–2.3(–3)
+
+(3–)3.3–7.0(–7.7)
+
+(4.7–)4.8–10.5(–11.5)
+
+(4.6–)4.7–11.8(–14)
+
+(4.5–)4.9–9.6(–14)
+
+ratio L/W
+
+Discussion
+The traditional morphological features used to distinguish the two subspecies of Knautia dinarica (hair-type
+and petiole length in the basal leaves) are very inconstant, according to our own observations (data not shown)
+and in agreement with the study of the nomenclatural types. Our quantitative analysis of basal leaves
+dimensional features confirmed a substantial overlap in leaf length and width, among the two subspecies and
+the unassigned ABR and BAS OTUs. On the other hand, the ratio of these two morphological features (ratio
+L/W) revealed a statistically significant mean difference between subsp. dinarica and the most southern
+Italian populations, with ABR somehow linked to both subspecies. However, when performed between subsp.
+silana (circumscribed as including ABR and BAS) and subsp. dinarica, ANOVA evidences a difference in
+ratio L/R (df = 2, F = 12.338, p = 0.001). On the contrary, a narrower circumscription of subsp. silana
+(including only BAS) compared with a wider circumscription of the typical subspecies (including also ABR)
+showed only moderately significant differences (df = 2, F = 5.381, p = 0.02). Accordingly, and despite the
+weak and incomplete morphological differentiation, it seems actually opportune to keep the two subspecies
+distinct awaiting further morphological and molecular analyses: K. dinarica subsp. dinarica is confirmed as
+endemic to Balkans, K. dinarica subsp. silana, as here circumscribed, results endemic to central-southern
+Apennines, from Abruzzo to Calabria (irrespective of geological substrate, either calcareous or siliceous). The
+range of the latter subspecies is extended of about 350 km northwards (Fig. 2), and the plant could more
+common than expected in that area: for instance, a record of Knautia dinarica s.l. exists for a second locality
+in Basilicata, Mt. Volturino (Corbetta et al. 1986).
+Previous chromosome counts have been reported for Knautia dinarica subsp. dinarica by Ehrendorfer
+(1962) from Bosnia (2n = 20), Montenegro (2n = 40), and Albania (2n = ca. 40) and by Verlaque (1977, 1985)
+from Greece (2n = 20). Ehrendorfer (1975, 1976, 1982b) reported also 2n = 40 for K. dinarica subsp. silana
+from Sila (Calabria, S. Italy). By adding our count from Abruzzo into this framework, it can be concluded that
+both subspecies can be either diploid or tetraploid. A (recurrent) polyploidy is common in many groups of
+Knautia, including K. arvensis (Linnaeus 1753: 99) Coulter (1823: 29), which is phylogenetically closely
+related to K. dinarica (Carlson et al. 2009).
+
+Identification key for the Knautia dinarica subspecies
+With the aim to a correct identification, at least ten individuals per population are to be measured. We have
+verified that measurements taken on single individuals could lead to a wrong identification. For a general
+description of the species, refer to Ehrendorfer (1976).
+
+1.
+-
+
+Ratio basal leaves length / basal leaves width (3–)3.3–7(–7.7), endemic to Balkan peninsula. ....................................
+............................................................................................................................................K. dinarica subsp. dinarica
+Ratio basal leaves length / basal leaves width (4.5–)4.7–11.1(–14), endemic to Italian peninsula................................
+............................................................................................................................................... K. dinarica subsp. silana
+
+KNAUTIA DINARICA (CAPRIFOLIACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 37
+
+FIGURE 2. Distribution map of Knautia dinarica subsp. dinarica (red triangles) and K. dinarica subsp. silana (green triangles:
+historical populations; green stars: new populations) according to the studied material.
+
+Acknowledgements
+The authors are indebted with A. Thell (Herbarium LD), for sending the pictures of the Knautia sylvatica var.
+dinarica original material and for some observation at the stereomicroscope; with R. Vallariello (Università di
+Napoli “Federico II”), for information on Knautia specimens in Tenore and Cavara-Grande collections in
+NAP. The curators of FI and PI are also gratefully acknowledged for their kind help. Finally, many thanks are
+due to two anonymous reviewers who much improved an earlier version of the manuscript.
+
+References
+Bartolucci, F. & Conti, F. (2013) Taxonomical notes on Geum micropetalum Gasp. ex Ten. and Geum heterocarpum
+Boiss. (Rosaceae) from Italy. Plant Biosystems 147: in press.
+Bartolucci, F. & Peruzzi, L. (2013) Thymus paronychioides (Lamiaceae), a neglected species from Sicily belonging to
+section Hypodromi. Folia Geobotanica 49.
+http://dx.doi.org/10.1007/s12224-013-9156-2.
+Borbás, V. (1894) Flora von Oesterreich-Ungarn. Österreich Botanische Zeitschrift 44: 397–400.
+Brullo, S., Gangale, C. & Uzunov, D. (2007) Taxonomic remarks on the endemic flora of Sila mountain (S-Italy).
+Bocconea 21: 213–222.
+
+38 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+PERUZZI ET AL.
+
+Carlson, S., Mayer, V. & Donoghue, M.J. (2009) Phylogenetic relationships, taxonomy, and morphological evolution in
+Dipsacaceae (Dipsacales) inferred by DNA sequence data. Taxon 58: 1075–1091.
+Conti, F., Abbate, G., Alessandrini, A. & Blasi, C. (eds.) (2005) An Annotated Checklist of the Italian Vascular Flora.
+Palombi Editori, Roma, 420 pp.
+Corbetta, F., Ubaldi, D., Puppi, G. (1986) Tipologia fitosociologica delle praterie altomontane del Monte Volturino e del
+Monte Madonna di Viggiano (Appennino Lucano). Biogeographia n.s. 10 (1984): 207–236.
+Coulter, T. (1823) Mémorie sur les Dipsacées. Paschoud, Genève, 49 pp.
+Di Pietro, R., Viscosi, V., Peruzzi, L. & Fortini P. (2012) A review of the application of the name Quercus dalechampii.
+Taxon 61: 1311–1316.
+Domina, G., Giusso Del Galdo, G., Gargano, D., Labra, M., Peccenini, S., Peruzzi, L. & Raimondo, F.M. (2012) The
+Italian Loci Classici Census. Taxon 61: 1351–1353.
+Ehrendorfer, F. (1962) Beiträge zur Phylogenie Der Gattung Knautia (Dipsacaceae), I. Cytologische Grundlagen und
+allgemeine Hinweise. Österreich Botanische Zeitschrift 109: 276–343.
+Ehrendorfer, F. (1975) Taxonomic notes on Knautia L. In: Heywood, H.V. (ed.), Flora Europaea Notulae Systematicae
+ad Floram Europaeam spectantes 17. Botanical Journal of the Linnean Society 71: 39–41.
+Ehrendorfer, F. (1976) Knautia. In: Tutin, T.G., Burges, N.A., Chater, A.O., Edmondson, J.R., Heywood, V.H., Moore,
+D.M., Valentine, D.H., Walters, S.M. & Webb, D.A. (eds.) Flora Europaea 4. Cambridge University Press,
+Cambridge, pp. 60–67.
+Ehrendorfer, F. (1982a) Knautia. In: Pignatti, S. (ed.), Flora d'Italia 2. Edagricole, Bologna, pp. 664–670.
+Ehrendorfer, F. (1982b) Knautia. In: Moore, D.M. (ed.), Flora Europaea Check-list and Chromosome Index. Cambridge
+University Press, Cambridge, pp. 168–173, 221–222.
+Gallo, L., Guglielmone, L. & Nardi, E. (2012) Typification of Alyssum argenteum All. (Brassicaceae) and of Sedum
+alsinifolium All. (Crassulaceae), two Italian endemic taxa. Webbia 67: 183–188.
+http://dx.doi.org/10.1080/00837792.2012.10670918
+Grande, L. (1913) Note di floristica Silana. Bollettino dell'Orto Botanico di Napoli 3: 93–110.
+Greuter, W., Burdet, H.M. & Long, G. (1986) Med-Checklist 3, Dicotyledones (Convolvulaceae-Labiatae).
+Conservatoire et Jardin botaniques, Ville de Genève, Genève, Berlin, 395 pp.
+Iamonico, D. (2013) Taxonomic and chorological study on the central Mediterranean Basin endemic Arenaria bertolonii
+Fiori & Paol. (Caryophyllaceae). Plant Biosystems.
+http://dx.doi.org/10.1080/11263504.2012.753956.
+Iamonico, D. & Peruzzi, L. (2012) Lectotypification of the Linnaean name Acanthus spinosus (Acanthaceae). Phytotaxa
+62: 11–12.
+Linnaeus, C. (1753) Species Plantarum 1. Laurentii Salvii, Stockholm, 560 pp.
+Malý, K. (1908) Beitrage zur Kenntnis Der Illyrischen Flora. Magyar Botanikai Lapok 7: 203–240.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold,
+K., Prado, J., Prud'homme Van Reine, W.F., G. Smith, G.F., Wiersema, J.H. & Turland, N.J. (eds.) (2012) International
+Code of Nomenclature for algae, fungi and plants (Melbourne Code): adopted by the Eighteenth International
+Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154. Ruggell: Gantner, 232 pp.
+Murbeck, S. (1891) Beitrage zur Kenntniss Der Flora von Sudbosnien und Der Hercegovina. Acta Universitatis
+Lundensis 27(5): 1–182.
+Peruzzi, L., Adorni, M., Dura, T., Ghillani, L., Pasquali, G., Rignanese, L., Ronconi, D. & Teruzzi, M. (2012) Allium
+cyrilli Ten. (Amaryllidaceae): typification, taxonomy and update of the Italian distribution. Phytotaxa 71: 53–58.
+Peruzzi, L. & Carta, A. (2013) A taxonomic revision of Silene nocturna species complex (Caryophyllaceae) in Italy.
+Phytotaxa 88: 38–48.
+Peruzzi, L., Santangelo, A. & Jarvis, C.E. (2013) Lectotypification of Linnaean names in the Italian endemic flora. Taxon
+62: in press.
+Sarfatti, G. (1965) Prodromo della flora della Sila (Calabria) parte II. Webbia 20: 355–425.
+http://dx.doi.org/10.1080/00837792.1965.10669820
+Strid, A. & Tan, K. (1991) Mountain flora of Greece 2. Edinburgh University Press, Edinburgh, 974 pp.
+Tenore, M. (1831) Sylloge plantarum vascularium florae Neapolitanae. Fibreni, Napoli, 747 pp.
+Thiers, B. (2012) Index Herbariorum: A global directory of public herbaria and associated 602 staff. Available at: http:/
+/sweetgum.nybg.org/ih/ (accessed: 10 March 2013)
+Verlaque, R. (1977) Reports. In: Löve, A. (ed.), IOPB chromosome number reports LVI. Taxon 26: 272–274.
+Verlaque, R. (1985) Étude biosystématique et phylogénétique des Dipsacaceae. III. Tribus des Knautieae et des
+Dipsaceae. Revue de Cytologie et Biologie Végétales - le Botaniste 8: 171–243.
+
+KNAUTIA DINARICA (CAPRIFOLIACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 39
+
+APPENDIX 1. Specimens of Knautia dinarica studied.
+Knautia dinarica subsp. dinarica:—BOSNIA-HERZEGOVINA. Bosnia: in prat. alp. montis Vranica pl. (Matorac), 11
+September 1889, S. Murbeck 1165481 (LD!); Bosnia: in pratis alpinis Matorac montis Vranica planina, 1800–1900 m, 9
+September 1889, Murbeck 1165781 (LD!); Bosnia: in pasc. alp. montis Vranica pl. (Locike) - in HBL. culta, 18 July
+1891–1889, S. Murbeck 1165901 (LD!); ibidem, S. Murbeck 1159481 (LD!); ibidem, S. Murbeck 1159361 (LD!); in
+pascuis alpinis montis Vratnica pl., 9 September 1889, S. Murbeck s.n. (WU!); SERBIA: Suvobor, Planinica, serpentinit,
+29 July 1994, T. Zonji 2892/96 (BEOU!); Tara planina, Zaovine - Vranjak Euphorbietum glabriflorae, serpentin, 9 July
+2000, V. Stefanovi , S. Jovanovi , S. Vukoji i 14251 (BEOU!); Bosnia, Travnik [...], 1000 mts, June 1908, E. Brandis
+s.n. (PI-GUAD!); MONTENEGRO: in decliv. gram. montis Bjelasica pl., c. 1700 m., 19 August 1889, S. Murbeck
+1159661 (LD!); ibidem, S. Murbeck 1165961 (LD!); Durmitor, Boljske grede, July 1983, V. Stefanovi 2450 (BEOU!);
+Durmitor, Žabljak livade, 1600 m, 7 July 1974, V. Stefanovi 1548/89 (BEOU!); Durmitor, Komarnica (Boljske grede), 7
+July 1989, V. Stefanovi , S. Jovanovi 1119/89 (BEOU!); Durmitor, uz obalu Modrog j., 9 August 1975, V. Stefanovi , B.
+Stefanovi 37 (BEOU!); Durmitor, Virak Fagetum, kre njak, 1400 m, 12 July 1997, D. Lakuši , G. Tomovi 5873
+(BEOU!); Durmitor, Virak livade, kre njak, 1400 m, 12 July 1997, D. Lakuši , G. Tomovi 5896 (BEOU!); Durmitor,
+Sevarita lokva, prati (Festuco rubrae-Agrostetum capillaris), 1400 m, 6 July 1996, D. Lakuši , F. Conti, G. Tomovi 9322
+(APP!); ibidem, D. Lakuši , F. Conti, G. Tomovi s.n. (BEOU!); Monte Prokletije, Popadija - Zuto prlo, 42°31'986''N, S
+19°45'213''E (UTM-ED50), Festuco-Seslerietea, limestone, 1900 m, 18 July 2003, D. Lakuši , F. Conti, Z. Buli , M.
+Niketi , G. Ciaschetti, G. Tomovi , S. Adžiablahovi 31611 (APP!); Štirni do, Gackove grede, 8 August 1984, s. coll.
+1825/89 (BEOU!).
+ć
+
+ćč
+
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+č
+
+ć
+ć
+
+ć
+
+ć
+
+ć
+
+č
+
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+Knautia dinarica subsp. silana:—ITALY. Abruzzo: M. Secine presso Polledrara (Palena), prati umidi, 1700–1800 m, 19
+June 1997, F. Conti 13474 (APP!); Polledrara, Secine (Palena), 430312N, 4638996E (UTM-ED50), 1730 m, 20 July
+2006, F. Conti 33685 (APP!); ibidem, F. Conti 33686 (APP!); ibidem, F. Conti 33687 (APP!); ibidem, F. Conti 33688
+(APP!); ibidem, F. Conti 33689 (APP!); ibidem, F. Conti 33690 (APP!); ibidem, F. Conti 33691 (APP!); ibidem, F. Conti
+33692 (APP!); ibidem, F. Conti 33693 (APP!); ibidem, F. Conti 33694 (APP!); M. Secine, Polledrara (Palena),
+41°53.864'N, 14°09.174'E (UTM-ED50), 1700 m, 24 June 2006, F. Conti 33871 (APP!); ibidem, F. Conti 33908 (APP!);
+ibidem, F. Conti 33909 (APP!); ibidem, F. Conti 33910 (APP!); ibidem, F. Conti 33911 (APP!); ibidem, F. Conti 33912
+(APP!); ibidem, F. Conti 33913 (APP!); Basilicata: Piano Ruggio (Potenza), Pollino, Viggianello, 13 August 2009, L.
+Bernardo, D. Gargano, L. Peruzzi 22002 (CLU!); ibidem, L. Bernardo, D. Gargano, L. Peruzzi 22003 (CLU!); ibidem,
+L. Bernardo, D. Gargano, L. Peruzzi 22004 (CLU!); Piano Ruggio (Potenza), lungo la strada, versante nord del
+Massiccio del Pollino, Viggianello, 1520-1550m, 27 June 2012, L. Bernardo 21997 (CLU!); ibidem, L. Bernardo 21998
+(CLU!); ibidem, L. Bernardo 21999 (CLU!); ibidem, L. Bernardo 22000 (CLU!); ibidem, L. Bernardo 22001 (CLU!);
+ibidem, L. Bernardo 22011 (CLU!); Calabria: Loc. Calabria, in ditione Longobucco, loco Fossiata dicto, in herbosis
+humidis, alt. 1300 m, solo granitico, 7 August 1921, A. Fiori s.n. (FI!, three specimens); ibidem (PI!); La Sila (Calabria),
+faggeta lungo l'Ampollino a S, m. 1300, 14 July 1951, G. Negri, G. Sarfatti, A. Contardo s.n. (FI!); La Sila (Calabria),
+Lorica, 8 Km. a W, prato su terreno discretamente profondo - m. 1300, 14 July 1951, G. Negri, G. Sarfatti, A. Contardo
+s.n. (FI!); La Sila (Calabria), Regione Ciricilla, zona piana umida - m. 1370, 27 June 1950, G. Sarfatti, R. Corradi s.n.
+(FI!); La Sila (Calabria), Molarotta - Stazione Alpeggio pascolo umido - m. 1130, 23 June 1950, G. Sarfatti, R. Corradi
+s.n. (FI!); Calabria - Sila, Fossiata (Longobucco), 29 July–3 August 1918, alt. 1300 m, solo granitico, A. Fiori s.n. (FI!);
+Sila di Savelli, margine della pineta, 1300 m, 1–2 July 1917, M. Guadagno 508 (PI-GUAD!); Fallistro, lungo la strada
+che porta ai "Giganti della Sila", Sila Grande, prov. Cosenza, Calabria, 1400 m, margine di strada e radure di bosco, 33S
+XD 26.53, 29 June 2005, L. Bernardo 20009 (CLU!); ibidem, L. Bernardo 20013 (CLU!); ibidem, L. Bernardo 20014
+(CLU!); ibidem, L. Bernardo 20015 (CLU!); Ciricilla, nei pressi del centro abitato, Sila Piccola, Calabria, 1400 m,
+ambiente umido, 7 July 2005, L. Bernardo 20011 (CLU!); Calabria: Sila Grande, nei pressi dello svincolo per
+Camigliatello (Cosenza), 1196 m, radura in pineta, 7 July 2006, L. Peruzzi, D. Gargano, S. Carlson 21148 (CLU!); Sila
+Grande, Valle S. Bernardo, prov. Cosenza, Calabria, 1350 m, rimboschimento a Pinus laricio, 13 July 2011, L. Bernardo
+22006 (CLU!); Pisarello, lungo la strada per M.te Gariglione, Sila Piccola, Prov. di Catanzaro, Calabria, 1600 m, prato
+arido in estate, 28 July 2010, L. Bernardo, D. Gargano, N.G. Passalacqua 22005 (CLU!).
+
+40 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+PERUZZI ET AL.
+
+

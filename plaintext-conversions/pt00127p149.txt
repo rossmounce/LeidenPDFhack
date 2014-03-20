@@ -1,0 +1,2911 @@
+Phytotaxa 127 (1): 128–149 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.14
+
+Preliminary Report on the Late Pleistocene and Holocene Diatoms of Swamp
+Lake, Yosemite National Park, California, USA
+SCOTT W. STARRATT1 & R. SCOTT ANDERSON2
+1
+
+Volcano Science Center, U.S. Geological Survey, 345 Middlefield Road, Menlo Park, CA 94025
+Email: sstarrat@usgs.gov (corresponding author)
+2
+School of Earth Sciences and Environmental Sustainability, Northern Arizona University, P.O. Box 5694, Room 100, Physical
+Sciences Building 19, Flagstaff, AZ 86011
+
+Abstract
+Swamp Lake, Yosemite National Park, is the only known lake in California containing long sequences of varved
+sediments and thus has the potential to provide a high-resolution record of climate variability. This preliminary analysis
+of the diatom assemblages from a 947-cm-long composite sediment core (freeze core FZ02–05; 0–67 cm, Livingstone
+core 02–05; 53–947 cm) shows that the lake has been freshwater, oligotrophic, and circumneutral to alkaline throughout
+its ~16,000-year-long history. The first sediments deposited in the lake show that the vegetation in the watershed was
+sparse, allowing organic matter-poor silt and clay to be deposited in the basin. The basin filled quickly to a depth of at
+least 5 m and remained at least that deep for most of the sediment record. Several short intervals provided evidence of
+large fluctuations in lake level during the Holocene. The upper 50 cm of the core contains evidence of the Medieval
+Climate Anomaly and Little Ice Age.
+Key words: paleolimnology, lake ontogeny, climate record
+
+Introduction
+Diatom studies from Sierra Nevada lakes have, until recently, been somewhat limited in number (Holmes et
+al. 1989, Whiting et al. 1989, Bloom et al. 2003) and have generally been focused on relatively short-term
+environmental changes. Studies using diatom stratigraphies for longer Holocene reconstructions are rare.
+Diatoms have also been part of multi-proxy studies focused on longer time scales (MacDonald et al. 2008) as
+well as numerous pollen, chironomid, and charcoal studies (Davis et al. 1985, Davis & Moratto 1988,
+Anderson 1990, Koehler & Anderson 1994, Porinchu et al. 2002, 2003, Brunelle & Anderson 2003, Potito et
+al. 2006, Hallett & Anderson 2010). These studies have provided an increasingly coherent story of
+environmental change in the central Sierra Nevada over the last 15,000 years: 1) a relatively warm BøllingAlleröd (~14,600–2,900 cal yr B.P.); 2) a cooler (by 2–4oC) Younger Dryas (~12,900–11,500 cal yr B.P.); 3) a
+gradual warming through the early Holocene; 4) a middle Holocene that was warmer and drier than present;
+and 5) a slight cooling in the late Holocene leading to modern conditions. These studies utilized uniform,
+structureless silts and clays or organic-rich gyttjas, sediments which are not ideal for high-resolution (annual
+to decadal) analyses except over the last couple of centuries.
+A composite 947-cm-long sediment core (freeze core FZ02–05; 0–67 cm, Livingstone core 02–05; 53–
+947 cm) collected from Swamp Lake, located in the northwest corner of Yosemite National Park, Tuolumne
+County, California (37.95oN; 119.83oW; 1554 m a.s.l.) is partially varved. This record of paleoenvironmental
+changes in the central Sierra Nevada covers the last ca. 16,000 years. This site is unusual in its antiquity
+because late Pleistocene glacial advances in the region have limited most lake records to the last 12,000 years.
+This preliminary analysis of the diatom assemblages in Swamp Lake is part of a larger study evaluating late
+Quaternary climate variability on the western slope of the Sierra Nevada.
+
+128 Accepted by M.L. Julius: 28 Oct. 2012; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+TABLE 1: Diatom taxa in Swamp Lake sediments found at more than 1% abundance in any sample.
+Achnanthes childanos Hohn & Hellerman
+A. didyma Hustedt
+A. helvetica (Hustedt) Lange-Bertalot in Lange-Bertalot &
+Krammer
+A. laterostrata Hustedt
+A. levanderi Hustedt
+A. microscopica (Cholnoky) Lange-Bertalot & Krammer
+A. minutissima Kützing
+A. nodosa Cleve
+A. pusilla Grunow in Van Heurck
+A. rossii Hustedt
+Anomoeoneis brachysira (Brébisson ex Kützing) Cleve
+Asterionella formosa Hassall
+Aulacoseira alpigena (Grunow) Krammer
+A. ambigua (Grunow) Simonsen
+A. distans (Ehrenberg) Simonsen
+A. italica (Ehrenberg) Simonsen
+A. lirata var. biseriata (Grunow) Haworth
+A. perglabra (Østrup) Haworth
+A. subarctica (O. Müller)
+A. valida (Grunow in Van Heurck) Krammer
+Brachysira vitrea (Grunow) Ross in Hartley
+Caloneis molaris (Grunow) Krammer in Krammer & LangeBertalot
+C. undulata (Gregory) Krammer in Krammer & LangeBertalot
+Cyclotella striata (Kützing) Grunow in Cleve & Grunow
+Cymbella amphicephala Nägeli
+C. cesatii (Rabenhorst) Grunow in A. Schmidt
+C. gracilis (Ehrenberg) Kützing
+C. naviculiformis (Auerswald) Cleve
+Discostella pseudostelligera (Hustedt) Houk & Klee
+D. stelligera (Cleve and Grunow) Houk & Klee
+Encyonema minutum (Hilse ex Rabenhorst) Mann in Round,
+Crawford & Mann
+E. silesiacum (Bleisch ex Rabenhorst) Mann in Round,
+Crawford & Mann
+Eunotia arcus Ehrenberg
+E. glacialis Meister
+E. musicola var. tridentula Nörpel & Lange-Bertalot in
+Lange-Bertalot
+
+E. naegelii Migula
+Fragilaria capucina var. gracilis (Østrup) Hustedt
+F. fasiculata (Agardh) D.R. Williams and Round
+F. nanana Lange-Bertalot
+F. parasitic Grunow
+F. tenera (W. Smith) Lange-Bertalot
+Frustulia rhomboides (Ehrenberg) Dayton
+Gomphonema angustum C.A. Agardh
+G. demerarae (Grunow) Frenguelli
+G. parvulum (Kützing) Kützing
+Hantzschia amphioxys (Ehrenberg) Grunow in Cleve &
+Grunow
+Luticola mutica (Kützing) Mann in Round, Crawford & Mann
+Meridion circulare var. constrictum (Ralfs) Van Heurck
+Navicula cryptocephala Kützing
+N. digitulus Hustedt
+N. disjuncta Hustedt
+N. laevissima Kützing
+N. radiosa Kützing
+N. saxophila Bock in Hustedt
+Neidium ampliatum (Ehrenberg) Krammer in Krammer &
+Lange-Bertalot
+Nitzschia fonticula (Grunow) Grunow in Van Heurck
+N. frustulum (Kützing) Grunow in Cleve & Grunow
+Pinnularia divergens W. Smith
+P. interrupta W. Smith
+P. microstauron (Ehrenberg) Cleve
+P. nodosa (Ehrenberg) W. Smith
+P. subcapitata Gregory
+Pseudostaurosira brevistriata (Grunow in Van Heurck)
+Williams & Round
+P. brevistriata var. inflata (Pantocsek) Edlund
+Sellaphora pupula (Kützing) Mereschkowsky
+Stauroneis anceps Ehrenberg
+Staurosira construens var. venter (Ehrenberg) Hamilton et al.
+Staurosirella lapponica (Grunow in Van Heruck) Williams &
+Round
+S. pinnata (Ehrenberg) Williams & Round
+Surirella bifrons Ehrenberg
+Synedra ulna (Nitzsch) Ehrenberg
+Tabellaria fenestrata (Lyngbye) Kützing
+
+Study Site
+Swamp Lake is located at 1554 m a.s.l., has a surface area of approximately 8 ha and a maximum depth of
+more than 20 m (Fig. 1; Smith & Anderson 1992). The watershed covers about 130 ha. At present, there is no
+permanent inlet stream, although the bathymetry of the lake suggests that a stream may have flowed into the
+eastern end of the lake at some time during its history. There is a shallow shelf and marshy area at the western
+end (outflow) of the lake. The lake basin comprises the biotite granite and granodiorite of the Early
+Cretaceous El Capitan Granite. The southern and southwestern margin of the lake is bordered by Quaternary
+alluvium (Huber et al. 1989).
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 129
+
+118o
+
+Lake
+Tahoe
+
+C
+al
+ifo
+rn
+ia
+
+Sacramento
+
+SWAMP
+LAKE
+Yosemite
+National
+Park
+
+38o
+
+marsh
+
+1
+
+5
+
+100 meters
+
+Pacific
+Ocean
+
+100 kilometers
+
+120o
+
+36o
+
+t
+a cres
+
+0
+
+20
+
+evad
+
+Water depth in meters
+N
+
+15
+
+ra N
+Sier
+
+core
+site
+
+0
+
+Mono
+Lake
+
+10
+
+outflow
+
+36o
+
+38o
+
+118o
+
+FIGURE 1: Location of Swamp Lake, Yosemite National Park, California. The lake is located on the western side of the Sierra
+Nevada crest.
+
+Material and Methods
+In August 2002, a sediment core (nine drives) was collected with a modified Livingstone piston corer (Wright,
+1967) from the deep central basin (>20 m) of Swamp Lake. To assure the collection of a complete sediment
+record, a freeze-core was collected at the same site. The site was chosen for study because it is in
+approximately the same location previously studied by Smith & Anderson (1992).
+Ten samples of plant material taken from Core 02–05 were dated by the U.S. Geological Survey 14C
+Laboratory in Reston, Virginia. Dates were calibrated using CALIB 5.0.2 and the IntCal04 dataset (Reimer et
+al. 2004, Stuvier et al. 2005). In addition, eight tephra samples from discrete layers were analyzed using the
+JEOL electron microprobe at the U.S. Geological Survey (Menlo Park, California).
+
+130 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+Seventy-four samples (60 from core 02–05; 14 from core FZ02–05) for diatom analysis were processed
+using hydrogen peroxide, hydrochloric acid, and nitric acid, (Battarbee 1986) to remove carbonate and
+organic matter, and sodium pyrophosphate to deflocculate the remaining clay. Approximately 50 µl of the
+resulting suspension were dried on a 22 X 30 mm coverslip and permanently mounted using Naphrax®. At
+least 500 frustules were enumerated following the method of Schrader & Gersonde (1978) using a Leica DM
+LB2 microscope with Nomarski optics at magnifications of 630X and 1000X. Diatom identifications and
+ecological interpretations were based on Lowe (1974), Gasse (1986), Krammer & Lange-Bertalot (1986,
+1988, 1991a, 1991b), Lange-Bertalot & Krammer (1987, 1989), Cumming et al. (1995), Round &
+Bukhtiyarova (1996), Krammer (1997a, 1997b, 2000, 2002), and Lange-Bertalot (2001).
+
+Results
+Chronology
+Preliminary AMS 14C dates and tephra correlations are plotted in Fig. 2. The eight tephras were identified by
+comparing the chemistry of the tephra samples to the more than 5,900 tephra geochemical records in the U.S.
+Geological Survey Tephrochronology Project database. The Tsoyowata and Mazama ashes both originated
+from Mount Mazama (now Crater Lake) in southern Oregon. Six of the tephras identified are from the Mono
+Craters, which lie on the east side of the Sierra Nevada. These tephras are chemically similar and cannot be
+differentiated using current tephrochronological techniques, and are therefore shown as undated. The
+youngest Mono Craters tephra was erupted about 665 cal yr B.P. We do not report an age model here pending
+additional 14C and tephra analyses (D. Hallett, personal communication, 2009). Based on these dates, the
+average sedimentation rate above 700 cm is about 74 cm/1000 yr.
+Sediments and stratigraphy
+Core 02–05 is composed of nine 1-meter-long drives. Core FZ02–05 collected the top 67 cm of sediment. The
+two cores were correlated using a Mono Craters tephra layer (665 cal yr B.P.). The composite core is 947-cmlong (Fig. 2). The sediments that make up the core include massive gray clay, layered silt and clay, peat, diatomrich varved silt and clay, and massive gyttja. The preliminary description was reported in Starratt et al. (2006).
+Below 700 cm, the sediments are dominated by glacially derived massive gray clay and layered silt and
+clay. The lowermost 40 cm of the core contains relatively few diatoms. Massive dark brown gyttja is present
+between 805 and 785 cm and 760 and 705 cm. The first varved diatom-rich silt occurs at the top of this
+sequence. The interval between 700 and 600 cm contains massive gyttja and short varved sections between
+gaps on the core. A 3-cm-thick layer of peat is present at the top of this section. The core is dominated by
+diatom-rich silt varves through the remainder of the core. A 12-cm-thick layer of peat occurs between the
+Tsoyowata and Mazama ashes.
+Diatoms
+A total of 228 species and varieties are present in the composite core 02–05, of which 76 compose more that
+1% of the assemblage in one or more samples. Thirty-one species are present in the sample collected from the
+top of FZ02–05.
+Discostella Houk & Klee (2004: 204–205) is the most abundant genus in the lake, composing as much as
+75% of the assemblage (Figs 3 & 4). Discostella abundance is lowest during the initial development of the
+lake and during the two intervals of peat deposition. Discostella stelligera (Cleve and Grunow) Houk & Klee
+(2004: 208) is more abundant below 800 cm and quickly falls to below 20% abundance for the remainder of
+the record, whereas D. pseudostelligera (Hustedt) Houk & Klee (2004: 223) becomes the dominant species,
+reaching abundances of greater than 50% at several intervals. In FZ02–05 the abundance of Discostella is
+above 40% between 65 and 50 cm, and then drops to less than 20% from 45 to 10 cm, and returns to levels
+above 40% in the upper 5 cm of the core.
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 131
+
+0
+
+665 (Mono Craters tephra)
+923 (14C)
+
+100
+
+(two undated Mono Craters tephras)
+1903 (14C)
+
+2851 (14C)
+
+200
+
+3467 (14C)
+4268 (14C)
+(undated Mono Craters tephra)
+
+300
+
+Depth in core (cm)
+
+400
+
+p p p p p p p p p p
+p p p p p p p p p p
+p p p p p p p p p p
+
+7627 (Mazama ash)
+
+7840 (Tsoyowata ash)
+
+500
+
+EXPLANATION
+massive gyttja
+s s s s s s s s s s s
+
+10,782 (14C)
+
+varved
+
+s s s s s s s s s s s
+p p p
+p p
+
+600
+
+11,418 (14C)
+p p p p p p p p p p
+
+layered silt and clay
+
+12,502 (14C)
+
+s s s s s s s s s s s
+
+massive gray clay
+s s s
+s s
+
+s s s s s s s s s s s
+s s s s s s s s s s s
+
+sand
+coring gap
+
+s s s s s s s s s s s
+
+700
+
+peat
+
+14,048 (14C)
+14,845 (14C)
+
+ages in cal yr B.P.
+
+(undated Mono Craters tephra)
+(undated Mono Craters tephra)
+
+800
+
+900
+
+s s s s s s s s s s s
+s s s s s s s s s s s
+
+947
+
+s s s s s s s s s s s
+
+FIGURE 2: Generalized stratigraphic column and ages (14C and tephrochronology) for a composite of freeze core FZ02–05 and
+Livingstone core 02–05.
+
+132 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+0
+
+D
+
+i
+
+o
+sc
+
+a
+
+C
+
+l
+yc
+
+ot
+
+la
+el
+
+D
+
+i
+
+o
+sc
+
+st
+
+la
+el
+
+t
+
+a
+ot
+
+l
+
+P.
+)
+
+ta
+
+B.
+
+ria
+st
+
+yr
+
+er
+
+al
+
+st
+
+la
+el
+
+e
+st
+
+llig
+
+(c
+
+e
+
+a
+
+e
+
+i
+
+st
+
+st
+
+er
+
+Ag
+
+D
+
+o
+sc
+
+la
+el
+
+e
+ps
+
+o
+ud
+
+llig
+
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+10 30 50
+
+10
+
+30
+
+5 0 0 .2 0 .6 1.0
+
+10 30 50 70
+
+% of total assemblage
+FIGURE 3: Relative abundances of species of Discostella and Cyclotella in Livingstone core 02–05 with abundances of greater than
+1% of the assemblage in at least one sample.
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 133
+
+a
+er
+l ig
+el
+
+er
+
+a
+
+st
+D
+is
+c
+
+D
+is
+c
+
+os
+
+os
+
+te
+
+te
+
+l la
+
+l la
+
+st
+
+to
+
+el
+
+ta
+
+l
+
+l ig
+
+do
+eu
+ps
+la
+el
+st
+co
+is
+D
+0
+
+10
+
+Depth in core (cm)
+
+20
+
+30
+
+40
+Medieval Climate AnomalyLittle Ice Age transition
+
+50
+
+60
+
+10
+
+30
+
+50
+
+5
+
+10
+
+20
+
+40
+
+60
+
+% of total assemblage
+FIGURE 4: Relative abundances of species of Discostella in freeze core FZ02–05 with abundances of greater than 1% of the
+assemblage in at least one sample. The freeze core record represents the last 1000 years.
+
+Ten species and varieties of Aulacoseira Thwaites (1848: 167) are present and the genus composes almost
+40% of the assemblage (Figs 5 & 6). The diversity of those taxa making up more than 2% of the assemblage is
+greater in core 02–05 (six species and varieties) than in core FZ02–05 (five species and varieties). Aulacoseira is
+most abundant above 650 cm in the varved sequences where it reaches a maximum of 39% abundance; several
+subpeaks of 25–30% abundance also occur. The most common species are A. distans (Ehrenberg) Simonsen
+(1979: 57), A. italica (Ehrenberg) Simonsen (1979: 60), and A. alpigena (Grunow) Krammer (1991: 93).
+
+134 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+a
+tic
+
+a
+
+B.
+yr
+al
+(c
+e
+Ag
+
+Au
+
+Au
+
+la
+
+la
+
+co
+
+co
+
+se
+
+se
+
+ira
+
+ira
+
+to
+
+P.
+)
+
+ta
+
+l
+
+p.
+
+lid
+ira
+Au
+
+la
+
+co
+
+se
+
+ira
+la
+
+Au
+
+Au
+
+la
+
+co
+
+se
+co
+
+se
+
+ira
+
+su
+
+ita
+
+di
+ira
+se
+co
+la
+Au
+
+va
+
+lic
+
+ba
+
+a
+
+rc
+
+s
+an
+st
+
+bi
+am
+ira
+se
+co
+la
+Au
+
+sp
+
+a
+gu
+
+na
+ge
+pi
+al
+ira
+se
+co
+la
+Au
+0
+
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+1
+
+3
+
+0.5
+
+5
+
+1.5
+
+5
+
+15
+
+25
+
+2
+
+6
+
+10
+
+0.5
+
+1.5
+
+2
+
+6
+
+0.5
+
+2.5
+
+5 15 25 3 5
+
+% of total assemblage
+
+t ic
+rc
+
+ta
+
+l
+
+ba
+
+ra
+
+to
+
+su
+
+ei
+
+ra
+ei
+
+os
+
+os
+
+ul
+
+ac
+
+ac
+ul
+
+A
+
+A
+
+A
+
+ul
+
+a
+va c o
+r. s
+b i e ir
+se a
+ria l ir
+ta ata
+
+a
+li c
+ra
+os
+ac
+ul
+
+A
+
+A
+
+A
+
+ul
+
+ul
+
+ac
+
+ac
+
+os
+
+os
+
+ei
+
+ei
+
+ei
+
+ra
+
+ra
+
+al
+
+di
+
+ita
+
+st
+
+pi
+
+ge
+
+an
+
+s
+
+na
+
+a
+
+FIGURE 5: Relative abundances of species of Aulacoseira in Livingstone core 02–05 with abundances of greater than 1% of the
+assemblage in at least one sample.
+
+0
+
+10
+
+Depth in core (cm)
+
+20
+
+30
+
+40
+Medieval Climate AnomalyLittle Ice Age transition
+
+50
+
+60
+
+0.5
+
+1.5
+
+2.5
+
+5 15 25 35
+
+1
+
+3
+
+5
+
+0.5
+
+1.5
+
+0.5 1.5 2.5
+
+10
+
+30
+
+% of total assemblage
+
+FIGURE 6: Relative abundances of species of Aulacoseira in freeze core FZ02–05 with abundances of greater than 1% of the
+assemblage in at least one sample. The freeze core record represents the last 1000 years.
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 135
+
+l
+
+yr
+al
+
+r ia
+F
+
+Ag
+
+ra
+
+e
+
+gi
+
+(c
+
+la
+
+r ia
+la
+gi
+ra
+F
+
+B.
+
+ta
+to
+
+p.
+sp
+
+te
+r ia
+la
+gi
+ra
+F
+
+P.
+)
+
+ra
+ne
+
+na
+na
+r ia
+la
+gi
+ra
+F
+
+F
+
+ra
+g
+va il a
+r. r ia
+gr
+ac ca
+ilis pu
+c
+
+in
+
+na
+
+a
+
+The third dominant group is the Fragilaria “complex,” which includes Fragilaria Lyngbye (1819: 182),
+Pseudostaurosira Williams & Round (1988: 276), Staurosira Ehrenberg (1843: 45), and Staurosirella
+Williams & Round (198: 274). Together, these genera account for more that 40% of the assemblage in some
+samples (Figs 7–11). The overall pattern of abundance is similar to that of Aulacoseira and opposite that of
+Discostella. Many of the specimens can only be identified as part of this “complex” and are placed in the
+category “Fragilaria spp.” The majority of these are small Fragilaria, Pseudostaurosira, Staurosira, and
+Staurosirella spp. Of those specimens that can be identified to the species level, lanceolate species (F. nanana
+Lange-Bertalot in Krammer & Lange-Bertalot (1991: 130), F. tenera (W. Smith) Lange-Bertalot (1980: 746),
+and F. capucina var. gracilis (Østrup) Hustedt (1950: pl. 36, fig. 31) are relatively rare; the exception is F.
+nanana which reaches an abundance of 15%, but quickly returns to 3 –4% of the assemblage (Fig. 7).
+Staurosirella is most abundant (7%) at 750 cm and then falls to levels below 3% through the upper part of the
+core. Staurosira, primarily Staurosira construens var. venter (Ehrenberg) Hamilton in Hamilton et al. (1992:
+29), is most abundant at 300 cm and is almost absent below that depth. The abundance of Pseudostaurosira,
+primarily Pseudostaurosira brevistriata (Grunow in Van Heurck) Williams & Round (1987: 276) and P.
+brevistriata var. inflata (Pantocsek) Edlund (1994: 12), is generally greater in core FZ02–05 than Staurosira
+and Staurosirella spp., reaching a maximum of 10% at a depth of 45 cm. Staurosira (10%) and Staurosirella
+(7%) are both more abundant in core FZ02–05 than in the lower part of the record.
+
+0
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+0.5
+
+1.5
+
+2
+
+6 10 14
+
+1
+
+2
+
+3
+
+5
+
+15 25
+
+5
+
+15 25
+
+% of total assemblage
+FIGURE7: Relative abundances of species of Fragilaria in Livingstone core 02–05 with abundances of greater than 1% of the
+assemblage in at least one sample.
+
+136 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+P
+
+se
+
+ud
+
+t
+os
+
+ir a
+
+P
+
+.
+
+se
+
+ud
+
+t
+os
+
+au
+
+s
+ro
+
+ir a
+
+t
+to
+
+al
+P.
+)
+
+au
+
+s
+ro
+
+p
+sp
+
+B.
+
+au
+s t ata
+o fl
+u d . in
+se r
+P va
+
+s
+
+yr
+
+ir a
+
+vi
+
+ta
+
+al
+
+s
+ro
+
+e
+br
+
+a
+tr i
+
+(c
+
+a
+
+e
+
+ud
+
+au
+
+ir a
+
+vi
+
+at
+
+Ag
+
+P
+
+se
+
+t
+os
+
+s
+ro
+
+e
+br
+
+ri
+st
+
+0
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+5
+
+15
+
+0.5 1.5 2.5
+
+1
+
+3
+
+5
+
+5
+
+15
+
+% of total assemblage
+FIGURE 8: Relative abundances of species of Pseudostaurosira in Livingstone core 02–05 with abundances of greater than 1% of the
+assemblage in at least one sample.
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 137
+
+a
+
+ns
+
+a
+
+l
+
+P.
+)
+
+ta
+
+B.
+
+to
+
+al
+
+yr
+
+ir a
+
+(c
+e
+
+ur
+ta
+
+Ag
+
+S
+
+S
+
+ta
+
+ta
+
+ur
+
+ur
+
+os
+
+ta
+to
+ll a
+ir e
+os
+
+va o
+r. s ir
+ve a
+nt c
+er o n
+st
+
+l
+
+ru
+e
+
+at
+nn
+pi
+ll a
+ir e
+os
+ur
+
+ta
+S
+
+S
+
+ic
+on
+pp
+la
+ll a
+ir e
+os
+ur
+ta
+S
+
+0
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+1
+
+3
+
+5
+
+7
+
+1
+
+3
+
+1
+
+3
+
+5
+
+7 0.5
+
+2.5
+
+1
+
+3
+
+% of total assemblage
+
+ir a
+os
+
+ir a
+
+ur
+ta
+
+ur
+
+os
+
+ta
+P
+
+P
+
+se
+
+se
+
+ud
+
+ud
+
+os
+
+r ia
+F
+
+ra
+F
+
+ra
+
+gi
+
+gi
+
+la
+
+la
+
+r ia
+
+to
+
+sp
+
+ta
+
+p.
+
+l
+
+os
+
+na
+na
+na
+r ia
+la
+gi
+ra
+F
+
+to
+
+br
+
+ta
+
+l
+
+ev
+
+is
+
+tr
+
+ia
+
+ta
+
+FIGURE 9: Relative abundances of species of Staurosira and Staurosirella in Livingstone core 02–05 with abundances of greater than
+1% of the assemblage in at least one sample.
+
+0
+
+10
+
+Depth in core (cm)
+
+20
+
+30
+
+40
+Medieval Climate AnomalyLittle Ice Age transition
+
+50
+
+60
+
+1
+
+3
+
+5
+
+15
+
+25
+
+5
+
+15 25
+
+2
+
+6
+
+10
+
+2
+
+6
+
+10
+
+% of total assemblage
+
+FIGURE 10: Relative abundances of species of Fragilaria and Pseudostaurosira in freeze core FZ02–05 with abundances of greater
+than 1% of the assemblage in at least one sample. The freeze core record represents the last 1000 years.
+
+138 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+a
+
+ns
+
+a
+
+S
+
+S
+
+l
+ta
+to
+ir a
+os
+ur
+
+ta
+
+ta
+
+ta
+to
+ll a
+ir e
+os
+ur
+ta
+
+va u r o
+r. s i
+v e ra
+nt co
+er n
+.
+st
+
+l
+
+ru
+e
+
+at
+nn
+pi
+ll a
+ir e
+os
+ur
+ta
+
+S
+
+S
+
+ic
+on
+pp
+la
+ll a
+ir e
+os
+ur
+ta
+S
+
+0
+
+10
+
+Depth in core (cm)
+
+20
+
+30
+
+40
+Medieval Climate AnomalyLittle Ice Age transition
+
+50
+
+60
+
+0.5 1.5 2.5
+
+1
+
+3
+
+1
+
+3
+
+5
+
+7
+
+2
+
+6
+
+10
+
+2
+
+6
+
+10
+
+% of total assemblage
+
+P.
+)
+
+ta
+
+B.
+
+l
+
+p.
+
+Ag
+
+Ta
+b
+
+e
+
+el
+
+(c
+
+la
+
+al
+
+ria
+
+yr
+
+to
+
+sp
+ria
+la
+el
+Ta
+b
+
+Sy
+
+As
+
+te
+
+ne
+
+rio
+
+dr
+
+a
+
+ne
+
+ul
+
+lla
+
+na
+
+fo
+
+rm
+
+os
+
+a
+
+FIGURE 11: Relative abundances of species of Staurosira and Staurosirella in freeze core FZ02–05 with abundances of greater than
+1% of the assemblage in at least one sample. The freeze core record represents the last 1000 years.+
+
+0
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+5
+
+15
+
+0.5 1.5
+
+2.5 0.5
+
+2.5
+
+0.5 1.5 2.5
+
+% of total assemblage
+
+FIGURE 12: Relative abundances of species of Asterionella, Synedra, and Tabellaria in Livingstone core 02–05 with abundances of
+greater than 1% of the assemblage in at least one sample.
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 139
+
+As
+
+te
+
+rio
+
+ne
+
+lla
+
+fo
+
+rm
+
+os
+
+a
+
+Asterionella formosa Hassall (1850: 10) is present only above the upper peat layer at 400 cm (Figs 12 &
+13); its abundance exceeds 15% at 340 cm and then returns to less than 10%. The greatest abundance (23%) in
+core 02–05 occurs near the top at 57 cm. The trend in abundance continues in core FZ02–05 with the highest
+(24%) abundance at 65 cm. From 50 to 0 cm, the abundance is below 5%. Synedra ulna (Nitzsch) Ehrenberg
+(1832: 87) and Tabellaria Ehrenberg ex Kutzing )(1844: 127) spp. (primarily T. fenestrata (Lyngbye) Kützing
+(1844: 127)) are present in abundances below 3%. Abundances of these taxa are lower in core FZ02–05.
+
+0
+
+10
+
+Depth in core (cm)
+
+20
+
+30
+
+40
+Medieval Climate AnomalyLittle Ice Age transition
+
+50
+
+60
+
+5
+
+15
+
+25
+
+% of total assemblage
+FIGURE 13: Relative abundances of Asterionella formosa in freeze core FZ02–05 with abundances of greater than 1% of the
+assemblage in at least one sample. The freeze core record represents the last 1000 years.
+
+Achnanthes Bory de Saint-Vincent (1822: 79, 593) sensu lato is the most diverse genus recovered with 34
+species and varieties enumerated (Fig. 14 & 15). Achnanthes helvetica (Hustedt) Lange-Bertalot in LangeBertalot & Krammer (1989: 63), A. minutissima Kützing (1833: 578), and A. pusilla Grunow in Van Heurck
+(1880: pl. 27, fig. 33, 34) are most abundant in core 02–05; A. helvetica and A. microscopica (Cholnoky) LangeBertalot & Krammer (1989: 99) are most abundant in core FZ02–05. The highest abundance (17%) of
+Achnanthes species occurs in the lowest part of core 02–05; above 760 cm, the abundance does not exceed 10%.
+
+140 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+Ag
+
+Ac
+
+e
+
+hn
+
+(c
+
+an
+
+al
+
+th
+
+yr
+
+es
+
+B.
+
+P.
+)
+
+to
+ta
+l
+
+lla
+si
+pu
+es
+Ac
+
+hn
+
+an
+
+th
+
+es
+th
+an
+hn
+Ac
+
+Ac
+
+hn
+
+an
+
+th
+
+es
+
+m
+
+he
+
+in
+
+lv
+
+ut
+
+et
+
+is
+
+ic
+
+si
+
+a
+
+m
+
+a
+
+Other relatively abundant species in core 02–05 include Encyonema Kützing (183: 589) and Cymbella
+C.A. Agardh (1830: 1) (Fig. 16; 15% and 9.5%, respectively; 13 species combined). Encyonema minutum
+(Hilse ex Rabenhorst) Mann in Round, Crawford & Mann (1990: 667) (12%) and Cymbella gracilis
+(Ehrenberg) Kützing (1844: 79) (6.5%) are the most common. These two genera are most abundant below the
+lower peat layer. The highest abundance (7.5%) of Eunotia Ehrenberg (1837: 44) (16 species and varieties)
+and Frustulia rhomboides (Ehrenberg) Pfitzer (1871: 164) (3.7%) are in the massive gyttja below 600 cm
+(Fig. 17). Gomphonema Ehrenberg (1832: 87) (Fig. 18; 10 species; maximum abundance of 7%) is present
+throughout the core, but is most abundant in the varved and massive gyttja between 740 cm and 610 cm.
+Hantzschia amphioxys (Ehrenberg) Grunow in Cleve & Grunow 1880: 103) and Luticola mutica (Kützing)
+Mann in Round, Crawford & Mann (1990: 670) are present in abundances above 2% at 940 cm (Fig 18).
+
+0
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+1
+
+3
+
+0.5
+
+1.5 2.5
+
+0.2
+
+0.6
+
+5
+
+15
+
+% of total assemblage
+FIGURE 14: Relative abundances of species of Achnanthes in Livingstone core 02–05 with abundances of greater than 1% of the
+assemblage in at least one sample.
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 141
+
+A
+
+ch
+
+na
+
+nt
+
+s
+he
+
+l
+he
+
+t
+ve
+
+ic
+
+a
+
+A
+
+ch
+
+na
+
+nt
+
+s
+he
+
+m
+
+i
+
+o
+cr
+
+sc
+
+i
+op
+
+A
+
+ch
+
+ca
+
+na
+
+h
+nt
+
+es
+
+t
+to
+
+al
+
+0
+
+10
+
+Depth in core (cm)
+
+20
+
+30
+
+40
+Medieval Climate AnomalyLittle Ice Age transition
+
+50
+
+60
+
+0.5
+
+1.5
+
+2.5
+
+0.5
+
+1.5
+
+2
+
+6
+
+10
+
+% of total assemblage
+FIGURE 15: Relative abundances of species of Achnanthes in freeze core FZ02–05 with abundances of greater than 1% of the
+assemblage in at least one sample. The freeze core record represents the last 1000 years.
+
+142 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+l
+
+P.
+)
+
+ta
+
+B.
+
+a
+
+yr
+
+m
+
+Ag
+
+E
+
+E
+
+nc
+
+e
+
+yo
+
+(c
+
+al
+
+ne
+
+ne
+yo
+nc
+
+nc
+E
+
+C
+
+to
+
+le
+si
+a
+m
+
+a
+m
+ne
+yo
+
+be
+ym
+
+be
+ym
+C
+
+si
+
+ut
+in
+m
+
+l
+ll a
+
+ll a
+
+to
+
+na
+
+ta
+
+vi
+
+ac
+gr
+ll a
+be
+ym
+C
+
+ac
+
+um
+
+m
+or
+l if
+cu
+
+s
+il i
+
+t ii
+sa
+ce
+ll a
+be
+ym
+C
+
+um
+
+is
+
+la
+ha
+ep
+ic
+ph
+am
+ll a
+be
+ym
+C
+
+0
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+0.2 0.6 1.0
+
+0.5 1.5 2.5
+
+1
+
+3
+
+5
+
+0.5
+
+1.5
+
+2
+
+6
+
+2
+
+6
+
+10
+
+0.5
+
+1.5
+
+2.5
+
+2
+
+6 10 14
+
+% of total assemblage
+
+es
+id
+
+P.
+)
+
+bo
+
+B.
+
+om
+
+al
+
+yr
+
+rh
+
+(c
+
+ia
+ul
+
+Ag
+
+e
+
+st
+ru
+F
+
+va o ti
+r. a m
+tr i u
+de s
+n t c ic
+ul ol
+a a
+E
+un
+ot
+ia
+to
+ta
+l
+
+un
+E
+
+E
+
+E
+
+un
+
+un
+
+ot
+
+ot
+
+ia
+
+ia
+
+gl
+
+ar
+
+ac
+
+cu
+
+s
+
+ia
+
+lis
+
+FIGURE 16: Relative abundances of species of Cymbella and Encyonema in Livingstone core 02–05 with abundances of greater than
+1% of the assemblage in at least one sample
+
+0
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+0.5
+
+1.5
+
+1
+
+3
+
+5
+
+0.5
+
+1.5
+
+2.5
+
+1
+
+3
+
+5
+
+7 0.5
+
+2.5
+
+% of total assemblage
+
+FIGURE 17: Relative abundances of species of Eunotia and Frustulia in Livingstone core 02–05 with abundances of greater than 1%
+of the assemblage in at least one sample.
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 143
+
+H
+
+a
+
+Lu
+
+o
+t ic
+
+la
+
+m
+
+a
+
+P.
+)
+
+ic
+
+B.
+
+ut
+
+yr
+
+ch
+
+ph
+
+al
+
+zs
+nt
+
+ia
+
+am
+
+ys
+
+(c
+
+t
+
+x
+io
+
+e
+
+om
+
+on
+
+a
+
+l
+
+Ag
+
+G
+
+ph
+
+em
+
+a
+ot
+
+0
+665
+923
+1903
+2851
+
+Depth in core (cm)
+
+200
+
+3467
+4268
+
+7627
+7840
+
+400
+
+10,728
+11,418
+12,502
+
+600
+
+14,048
+14,845
+
+Younger Dryas
+
+800
+
+1
+
+3
+
+5
+
+0.5
+
+1.5
+
+0.5 1.5
+
+2.5
+
+% of total assemblage
+FIGURE 18: Relative abundances of species of Gomphonema, Hantzschia, and Luticola in Livingstone core 02–05 with abundances
+of greater than 1% of the assemblage in at least one sample.
+
+Discussion and Conclusion
+Smith & Anderson (1992) and Anderson (2011) presented a 16,000-year-long paleoecological record from
+Swamp Lake that provided an important middle elevation view of late Pleistocene and Holocene climate
+through vegetation change on the western slope of the Sierra Nevada. They showed that the environment at
+the time of the Pleistocene-Holocene transition was distinctly different from the modern, with a mix of high
+elevation conifers and lower elevation montane trees that suggest that vegetation lagged the climate change
+experienced elsewhere in the Sierra Nevada. The early Holocene was marked by increased temperatures and
+drier conditions, followed by a late middle Holocene cooling trend which continued into the late Holocene as
+modern oceanographic conditions became established along the northern California coast (Barron et al. 2003,
+Barron & Bukry 2007).
+
+144 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+The record from composite core 02–05 contains an approximately 16,000-year-long record of climatedriven changes within the Swamp Lake watershed similar to those reported by Smith & Anderson (1992) and
+Anderson (2011). The lowest 250 cm (Late Glacial period) show a gradual change from fine-grained clastic
+sediments (primarily silt and clay) to more massive organic-rich gyttja. This suggests that during this time the
+glaciers of the Tioga Stage retreated from the area, leaving behind a minimally vegetated surface. As the
+surface became vegetated, the amount of clastic sediment that washed into the lake decreased. Above 700 cm
+(Younger Dryas and younger), relatively little clastic sediment was being washed directly into the lake. Street
+et al. (2012) show a general increase in organic matter in the lake and vegetation (relatively high C/N) in the
+surrounding watershed
+The only significant numbers of diatoms associated with subaerial environments (Hantzschia amphioxys,
+Luticola mutica) appear at a depth of 930 cm (late glacial period), followed by epipelic and epiphytic taxa
+(Gomphonema, Cymbella, and Encyonema) and small Achnanthes, which may also indicate active, welloxygenated water. Bloom et al. (2003) have shown that many of the species common at this time are found in
+water of relatively low temperatures. The epiphytic genus Cocconeis Ehrenberg (1837: 173) occurs, but is
+very rare in these sediments, suggesting that aquatic macrophytes were not abundant.
+The lake appears to have filled rapidly. The increase in the abundance of Discostella indicates that a water
+depth greater than 5 m was reached by a depth of 840 cm (last glacial period) in the core, where the abundance
+of Discostella reaches 70%. Rühland et al. (2003) and Rühland & Smol (2005) have shown that small
+cyclotelloid species such as D. pseudostelligera and D. stelligera occur in great abundance in arctic lakes
+greater than 5 m in depth. Tycoplanktonic taxa (Aulacoseira, Fragilaria “complex”) are present in this
+interval, but generally don’t exceed 15% of the total assemblage. Throughout most of its past, the dominance
+of the diatom assemblage by Discostella indicates that Swamp Lake was a freshwater, slightly alkaline,
+oligotrophic lake. The presence of Aulacoseira and members of the Fragilaria “complex” suggests that the
+shallower areas may have had higher nutrient levels.
+With the exception of the two peat layers, the remainder of the core (above 600 cm) is dominated by
+varved sediments. The lower peat interval contains the greatest abundance of acidophilic species (Eunotia;
+7.1%, Frustulia Rabenhorst (1853: 50); 3.7%). The abundance of tycoplanktonic taxa also increases. The
+lower peat interval may correspond to the Younger Dryas as recognized at Starkweather Lake (2424 m a.s.l.)
+in the central Sierra Nevada, just west of the crest of the range, by MacDonald et al. (2008), with a relatively
+high abundance of planktonic diatoms in the early part of the interval followed by a substantial decrease
+(~50%) in the later part of the Younger Dryas. MacDonald et al. (2008) report decreased diatom-inferred
+salinity and lake depth at Barrett Lake (2816 m a.s.l.) in the central Sierra Nevada, just east of the crest of the
+range, during the early part of the Younger Dryas followed by a slight decrease in depth and increase in
+salinity. This corresponds to a slight increase of Cyclotella striata (Kützing) Grunow in Cleve & Grunow
+(1880: 119) at the end of the Younger Dryas in Swamp Lake. The upper peat interval also has a substantial
+decrease in Discostella and increase in some tycoplanktonic and benthic taxa, and may represent a dry interval
+in the middle Holocene.
+The upper 600 cm (Holocene) varved section is dominated by Discostella, and to lesser extent,
+Aulacoseira and the Fragilaria “complex” with high Discostella abundances corresponding to low numbers
+of Aulacoseira and Fragilaria “complex” taxa. Most of the Aulacoseira species present have a high number
+of pores per 10µm which Kilham (1990) suggests is an indication of shallow water. Aulacoseira distans has a
+relatively high light:phosphorous ratio which may reflect better mixing of nutrient-poor waters (Kilham
+1990). The abundance of Asterionella formosa, which appears at 400 cm (middle Holocene), may reflect an
+increase in the abundance of Si in the system. Starratt et al. (2006) and Street et al. (2007) have shown that
+biogenic silica increases in that interval, and that the fluctuations in the abundance of A. formosa and biogenic
+silica are similar. Kilham (1971) and Kilham(1975) have shown that the abundance of A. formosa is related to
+Si availability.
+Variations in the abundance of Discostella indicate the lake level fluctuated in response to the Medieval
+Climate Anomaly and Little Ice Age. Between 65 and 45 cm Discostella composes about 40% of the flora,
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 145
+
+between 40 and 15 cm it composes between 15 and 20%, and above 15 cm its abundance reaches between 50
+and 60%. The interval of low abundance may represent an interval during which ice covered the lake for a
+greater portion of the year. This is supported by the low abundance of Asterionella formosa above 50 cm.
+Agbeti & Smol (1995) have shown that the abundance of planktonic species such as A. formosa is lower
+during periods of extended ice cover.
+The Swamp Lake sediment sequence is rare among the limited lacustrine records of climate change in the
+Sierra Nevada. It is the only sediment history that contains significant varved sections with the potential for
+establishing an ultra-high resolution climate record for much of the Holocene. The sediments also record the
+transition from sediment-dominated diatom-poor varves in the late Pleistocene to diatom-dominated varves
+over much of the last 10,000 years. Swamp Lake also has one of the few records that includes the last glacial
+maximum and the entire Holocene.
+
+Acknowledgments
+This research was funded by the Yosemite Fund and U.S. Geological Survey Earth Surface Dynamics
+Program. We express our thanks to Elmira Wan, Holly Olson, and Andrei Sarna-Wojcicki of the U.S.
+Geological Survey Tephrochronology Project and Jack McGeehin of the U.S. Geological Survey 14C Lab for
+providing age control for the project. The authors also wish to thank John Barron, Doug Hallett, Lydia Roach,
+and Joe Street for helpful and thought-provoking discussions. Mary McGann of the U.S. Geological Survey
+provided an extremely detailed review which greatly improved the manuscript. Additional clarity was added
+by two anonymous reviewers and the editors of the proceedings volume.
+
+References
+Agardh, C.A. (1830) Conspectus Criticus Diatomacearum. Part 1. Lundae. Litteris Berlingianis pp. 1–16.
+Agbeti, M.D. & Smol, J.P. (1995) Winter limnology: A comparison of physical, chemical and biological characteristics
+in two temperate lakes during ice cover. Hydrobiology 304: 221–234.
+http://dx.doi.org/10.1007/BF02329316
+Anderson, R.S. (1990) Holocene forest development and paleoclimates within the central Sierra Nevada, California.
+Journal of Ecology 78: 470–489.
+http://dx.doi.org/10.2307/2261125
+Anderson, R.S. (2011) Fire and Vegetation History from Swamp Lake, Yosemite National Park, California: A Final
+Report of Research. Technical Report, The Yosemite Conservancy, San Francisco, California, USA.
+Barron, J.A. & Bukry, D. (2007) Development of the California Current during the past 12,000 years based on diatoms
+and silicoflagellates. Palaeogeography, Palaeoclimatology, Palaeoecology 248: 333–338.
+http://dx.doi.org/10.1016/j.palaeo.2006.12.009
+Barron, J.A., Heusser, L., Herbert, T. & Lyle, M. (2003) High-resolution climatic evolution of coastal Northern
+California during the past 16,000 years. Paleoceanography 18:
+http://dx.doi.org/10.1029/2002PA000768
+Battarbee, R.A. (1986) Diatom analysis. In: Berglund, B.E. (ed.) Handbook of Holocene Palaeoecology and
+Palaeohydrology. John Wiley & Sons, New York, pp. 527–570.
+Bloom, A.M., Moser, K.A., Porinchu, D.F. & Macdonald, G.M. (2003) Diatom-inference models for surface-water
+temperature and salinity developed from a 57-lake calibration set from the Sierra Nevada, California, USA. Journal
+of Paleolimnology 29: 235–255.
+http://dx.doi.org/10.1023/A:1023297407233
+Bory de Saint-Vincent, J.B.M. & coll. (1822–1831) Dictionnaire Classique d'Histoire Naturelle Paris. Rey & Gravier,
+libraires-éditeurs; Baudouin Frères, libraires-éditeurs., Volumes 1 to 17.
+Brunelle, A. & Anderson, R.S. (2003) Sedimentary charcoal as an indicator of late-Holocene drought in the Sierra
+Nevada, California, and its relevance to the future. The Holocene 13: 21–28.
+http://dx.doi.org/10.1191/0959683603hl591rp
+Cleve, P.T. & Grunow, A. (1880) Beiträge zur Kenntniss der Arctischen Diatomeen. Kongliga Svenska-Vetenskaps
+
+146 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+Akademiens Handlingar 17(2):121 pp., 7 pls.
+Cumming, B.F., Wilson, S.E., Hall, R.J. & Smol, J.P. (1995) Diatoms from British Columbia (Canada) lakes and their
+relationship to salinity, nutrients and other limnological variables. Bibliotheca Diatomologica31, 1–207.
+Davis, O.K. & Moratto, M.J. (1988) Evidence for a warm dry early Holocene in the western Sierra Nevada of California:
+Pollen and plant macrofossil analysis of Dinkey and Exchequer Meadows. Madroño 35: 132–149.
+Davis, O.K., Anderson, R.S., Fall, P.L., O’Rourke, M.K. & Thompson, R.S. (1985) Palynological evidence for early
+Holocene aridity in the southern Sierra Nevada, California. Quaternary Research 24: 322–332.
+http://dx.doi.org/10.1016/0033-5894(85)90054-7
+Edlund, M.B. (1994) Additions and confirmations to the algal flora of Itasca State Park. II. Diatoms from Chambers
+Creek. Journal of the Minnesota Academy of Science 59(1):10–21.
+Ehrenberg, C.G. (1832) Über die Entwicklung und Lebensdauer der Infusionsthiere; nebst ferneren Beiträgen zu einer
+Vergleichung ihrer organischen Systeme. Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin
+1831:1–154, 4 pls.
+Ehrenberg, C.G. (1837) Über ein aus fossilen Infusorien bestehendes, 1832 zu Brod verbacknes Bergmehl von der
+Grenzen Lapplands in Schweden. Bericht über die zur Bekanntmachung geeigneten Verhandlungen der KöniglichPreussischen Akademie der Wissenschaften zu Berlin, 1837: 43–45.
+Ehrenberg, C.G. (1837) Zusätze zur Erkenntnifs grofser organischer Ausbildung in den kleinsten theirischen
+Organismen. Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin 1835: 151–180, 1 pl.
+Ehrenberg, C.G. (1843) Mittheilungen über 2 neue asiatische Lager fossiler Infusorien-Erden aus dem russischen TransKaukasien (Grusien) und Sibirien. Bericht über die zur Bekanntmachung geeigneten Verhandlungen der KöniglichPreussischen Akademie der Wissenschaften zu Berlin 1843: 43–49.
+Gasse, F. (1986) East African diatoms: Taxonomy, ecological distribution. Bibliotheca Diatomologica 11: 1–201.
+Hallett, D.J. & Anderson, R.S. (2010) Paleofire reconstructions for high-elevation forests in the Sierra Nevada,
+California, with implications for wildfire synchrony and climate variability in the late Holocene. Quaternary
+Research 73: 180–190.
+http://dx.doi.org/10.1016/j.yqres.2009.11.008
+Hamilton, P.B., Poulin, M., Charles, D.F. & Angell, M. (1992) Americanarum Diatomarum Exsiccata: CANA, Voucher
+Slides from Eight Acidic Lakes in Northeastern North America. Diatom Research 7: 25–36.
+http://dx.doi.org/10.1080/0269249X.1992.9705195
+Hassall, A.H. (1850) The Diatomaceae in the Water Supplied to the inhabitants of London and the suburban districts. A
+microscopic examination of the water. London. 60 pp., 6 pls.
+Holmes, R.W., Whiting, M.C. & Stoddard, J.L. (1989) Changes in diatom-inferred pH and acid neutralizing capacity in a
+dilute, high elevation, Sierra Nevada lake since A.D. 1825. Freshwater Biology 21: 295–310.
+http://dx.doi.org/10.1111/j.1365-2427.1989.tb01367.x
+Houk, V. & Klee, R. (2004) The stelligeroid taxa of the genus Cyclotella (Kützing) Brébisson (Bacillariophyceae) and
+their transfer into the new genus Discostella gen. nov. Diatom Research 19: 203–228.
+http://dx.doi.org/10.1080/0269249X.2004.9705871
+Huber, N.K., Bateman, P.C. & Wahrhaftig, C. (1989) Geologic map of Yosemite National Park and vicinity, California.
+U.S. Geological Survey Miscellaneous Investigations Map, I–1874.
+Hustedt, F. (1950) Die Diatomeenflora norddeutscher Seen mit besonderer Berücksichtigung des holsteinischen
+Seengebiets V–VII. Seen in Mecklenburg, Lauenburg und Nordostdeutschland. Archiv für Hydrobiologie 43: 329–
+458, Tafs 21–41.
+Kilham, P. (1971) A hypothesis concerning silica and the freshwater planktonic diatoms. Limnology and Oceanography
+16: 10–18.
+http://dx.doi.org/10.4319/lo.1971.16.1.0010
+Kilham, P. (1990) Ecology of Melosira species in the great lakes of Africa. In: Tilzer, M.M. & Serruya, C. (Eds),Large
+Lakes: Ecological Structure and Function. Springer-Verlag, Berlin, pp. 414–427.
+http://dx.doi.org/10.1007/978-3-642-84077-7_20
+Kilham, S.S. (1975) Kinetics of silicon-limited growth in the freshwater diatom Asterionella formosa. Journal of
+Phycology 11: 396–399.
+Koehler, P.A. & Anderson, R.S. (1994) The paleoecology and stratigraphy of Nichols Meadow, Sierra National Forest,
+California, USA. Palaeogeography, Palaeoclimatology, Palaeoecology 112: 1–17.
+http://dx.doi.org/10.1016/0031-0182(94)90132-5
+Krammer, K. (1991) Morphology and taxonomy of some taxa in the genus Aulacoseira Thwaites (Bacillariophyceae). I.
+Aulacoseira distans and similar taxa. Nova Hedwigia 52(1–2): 89–112.
+Krammer, K. (1997a) Die cymbelloiden Diatomeen. Eine Monographie der weltweit bekannten Taxa. Teil 1.
+Allgemeines und Encyonema part. Bibliotheca Diatomologica 36: 1–382.
+Krammer, K. (1997b) Die cymbelloiden Diatomeen. Eine Monographie der weltweit bekannten Taxa. Teil 2. Encyonema
+part., Encyonopsis und Cymbellopsis. Bibliotheca Diatomologica 37: 1–469.
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 147
+
+Krammer, K. (2000) Diatoms of Europe. Diatoms of the European Inland Waters and Comparable Habitats, Volume 1,
+The genus Pinnularia. A.R.G. Gantner Verlag K.G., Ruggell, 703 pp..
+Krammer, K. (2002) Diatoms of Europe. Diatoms of the European Inland Waters and Comparable Habitats. Volume 3,
+Cymbella. A.R.G. Gantner Verlag K.G., Ruggell, 584 pp.
+Krammer, K. & Lange-Bertalot, H. (1986) Bacillariophyceae. Teil 1: Naviculaceae. In: Ettl, H., Gerloff, J., Heynig, H. &
+Mollenhauer, D. (eds) Süsswasserflora von Mitteleuropa, Band 02/1. Gustav Fischer, 876 pp.
+Krammer, K. & Lange-Bertalot, H. (1988) Bacillariophyceae. Teil 2: Bacillariaceae, Epithemiaceae, Surirellaceae. In:
+Ettl, H., Gerloff, J., Heynig, H. & Mollenhauer, D. (eds) Süsswasserflora von Mitteleuropa, Band 02/2. Gustav
+Fischer, 611 pp.
+Krammer, K. & Lange-Bertalot, H. (1991a) Bacillariophyceae. Teil 3: Centrales, Fragilariaceae, Eunotiaceae. In: Ettl,
+H., Gerloff, J., Heynig, H. & Mollenhauer, D. (eds) Süsswasserflora von Mitteleuropa, Band 02/3. Gustav Fischer,
+576 pp.
+Krammer, K. & Lange-Bertalot, H. (1991b) Bacillariophyceae. Teil 4: Achnanthaceae, Kritische Ergänzungen zu
+Navicula (Lineolatae) und Gomphonema, Gesamtliteraturverzeichnis. In: Ettl, H., Gerloff, J., Heynig, H. &
+Mollenhauer, D. (eds) Süsswasserflora von Mitteleuropa, Band 02/4. Gustav Fischer, 437 pp.
+Kützing, F.T. (1833) Synopsis Diatomacearum oder Versuch einer systematischen Zusammenstellung der Diatomeen.
+Linnaea 8(5): 529–620, pls. XIII–XIX.
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+Lange-Bertalot, H. (1980) Zur systematischen Bewertung der bandförmigen Kolonien bei Navicula und Fragilaria.
+Kriterien für die Vereinigung von Synedra (subgen. Synedra) Ehrenberg mit Fragilaria Lyngbye. Nova Hedwigia
+33: 723–787.
+Lange-Bertalot, H. (2001): Diatoms of Europe . Diatoms of the European Inland Waters and Comparable Habitats. Vol.
+2. Navicula sensu stricto. 10 Genera Separated from Navicula sensu lato. Frustulia. A.R.G. Gantner Verlag K.G.,
+Ruggell, 526 pp.
+Lange-Bertalot, H. & Krammer, K. (1987) Bacillariaceae, Epithemiaceae, Surirellaceae. Bibliotheca Diatomologica 15:
+1–289.
+Lange-Bertalot, H. & Krammer, K. (1989) Achnanthes eine Monographie der Gattungen. Bibliotheca Diatomologica 18:
+1–393.
+Lowe, R.L. (1974) Environmental requirements and pollution tolerance of freshwater diatoms. U.S. Environmental
+Protection Agency Report EPA-670/4-74-005, National Environmental Research Center, Cincinnati, OH. 340 pp.
+Lyngbye, H.C. (1819) Tentamen Hydrophytologiae Danicae Continens omnia Hydrophyta Cryptogama Daniae,
+Holsatiae, Faeroae, Islandiae, Groenlandiae hucusque cognita, Systematice Disposita, Descripta et iconibus
+illustrata, Adjectis Simul Speciebus Norvegicis. Hafniae. 248 pp., 70 pls
+Macdonald, G.M., Moser, K.A., Bloom, A.M., Porinchu, D.F., Potito, A.P., Wolfe, B.B., Edwards, T.W.D., Petel, A.,
+Orme, A.R. & Orme, A.J. (2008) Evidence of temperature depression and hydrological variations in the eastern
+Sierra Nevada during the Younger Dryas stade. Quaternary Research 70: 131–140.
+http://dx.doi.org/10.1016/j.yqres.2008.04.005
+Pfitzer, E. (1871) Untersuchungen uber Bau und Entwickelung der Bacillariaceen (Diatomaceen). Botanische
+Abhandlungen aus dem Gebiet der Morphologie und Physiologie. Herausg. von J. Hanstein, Bonn. Heft 2: 189 pp.,
+6 pls.
+Porinichu, D.F., Macdonald, G.M., Bloom, A.M. & Moser, K.A. (2002) The modern distribution of chironomid subfossils (Insecta: Diptera) in the Sierra Nevada, California: Potential for paleoclimatic reconstructions. Journal of
+Paleolimnology 28: 355–375.
+http://dx.doi.org/10.1023/A:1021658612325
+Porinichu, D.F., Macdonald, G.M., Bloom, A.M. & Moser, K.A. (2003) Late Pleistocene and early Holocene climate and
+limnological changes in the Sierra Nevada, California, USA inferred from midges (Insecta: Diptera: Chironomidae).
+Palaeography, Palaeoclimatology, Palaeoecology 198: 403–422.
+http://dx.doi.org/10.1016/S0031-0182(03)00481-4
+Potito, A.P., Porinchu, D.F., Macdonald, G.M. & Moser, K.A. (2006) A late Quaternary chironomid-inferred temperature
+record from the Sierra Nevada, California, with connections to northeast Pacific sea surface temperatures.
+Quaternary Research 66: 356–363.
+http://dx.doi.org/10.1016/j.yqres.2006.05.005
+Rabenhorst, L. (1853) Die Süsswasser-Diatomaceen (Bacillarien) für Freunde der Mikroskopie. Eduard Kummer,
+Leipzig. 72 pp., 9 pls.
+Reimer, P.J., Ballie, M.G.L., Bard, E., Bayliss, A., Beck, J.W., Blackwell, P.G., Buck, C.E., Burr, G.S., Cutler, K.B.,
+Damon, P.E., Edwards, R.L., Fairbanks, R.G., Friedrich, M., Guilderson, T.P., Herring, C., Hughen, K.A., Kromer,
+B., McCormac, F.G., Manning, S.W., Ramsey, C.B., Reimer, R.W., Remmele, S., Southon, J.R., Stuiver, S., Talamo,
+S., Taylor, F.W., Van Der Plicht, J. & Weyhenmeyer, C.E. (2004) IntCal04 terrestrial radiocarbon age calibration, 026 cal kyr BP. Radiocarbon 46, 1029–1058.
+
+148 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+STARRATT & ANDERSON
+
+Round, F. & Bukhtiyarova, L. (1996) Four new genera based on Achnanthes (Achnanthidium), together with a
+redefinition of Achnanthidium. Diatom Research 11: 345–361.
+http://dx.doi.org/10.1080/0269249X.1996.9705389
+Round, F.E., Crawford, R.M. & Mann, D.G. (1990) The Diatoms. Biology & Morphology of the genera. Cambridge
+University Press, Cambridge. 747 pp.
+Rühland, K. & Smol, J.P. (2005) Diatom shifts as evidence for recent subarctic warming in a remote tundra lake, NWT,
+Canada. Palaeogeography, Paleoclimatology, Palaeoecology 226: 1–16.
+http://dx.doi.org/10.1016/j.palaeo.2005.05.001
+Rühland, K., Priesnitz, A. & Smol, J. P. (2003) Paleolimnological evidence from diatoms for recent environmental
+changes in 50 lakes across Canadian Arctic treeline. Arctic, Antarctic, and Alpine Research 35: 110–123.
+http://dx.doi.org/10.1657/1523-0430(2003)035[0110:PEFDFR]2.0.CO;2
+Schrader, H. & Gersonde, R. (1978) Diatoms and silicoflagellates. Utrecht Micorpaleontology Bulletin 17: 129–176.
+Simonsen, R. (1979) The diatom system: ideas on phylogeny. Bacillaria 2: 9–71.
+Smith, S.J. & Anderson, R.S. (1992) Late Wisconsin paleoecologic record from Swamp Lake, Yosemite National Park,
+California. Quaternary Research 38: 91–102.
+http://dx.doi.org/10.1016/0033-5894(92)90032-E
+Starratt, S.W., Anderson, R.S., Barron, J.A. & Bright, J. (2006) Swamp Lake, Yosemite National Park, California: A late
+Pleistocene and Holocene climate record from mid-elevation varved lake sediments. American Quaternary
+Association Program and Abstracts of the 19th Biennial Meeting, 152–153.
+Street, J.A., Anderson, R.S., and Paytan, A. (2012) An organic geochemical record of Sierra Nevada climate since the
+LGM from Swamp Lake, Yosemite. Quaternary Science Reviews 40: 89–106.
+http://dx.doi.org/10.1016/j.quascirev.2012.02.017
+Street, J.A., Anderson, R.S., Starratt S.W. & Paytan, A. (2007) Late Quaternary environmental change in the Sierra
+Nevada: A 19,000 year sedimentary organic matter record from Swamp Lake, Yosemite National Park, California.
+Eos Transactions AGU88, Fall Meeting Supplement, Abstract GC41A-0097.
+Stuvier, M., Reimer, P.L. & Reimer, R. (2005) CALIB radiocarbon calibration 5.0.2. http://radiocarbon.pa.qub.uk.
+Thwaites, G.H.K. (1848) Further observations on the Diatomaceae with descriptions of new genera and species. Annals
+and Magazine of Natural History, 2nd series, 1: 161–172.
+Van Heurck, H. (1880) Synopsis des Diatomées de Belgique. Atlas. Ducaju & Cie., Anvers. pls 1–30.
+Whiting, M.C., Whitehead, D.R., Holmes, R.W., & Norton, S.A. (1989) Paleolimnological reconstruction of recent
+acidity changes in four Sierra Nevada lakes. Journal of Paleolimnology 2: 285–304.
+http://dx.doi.org/10.1007/BF00195477
+Williams, D.M. & Round, F.E. (1987) Revision of the genus Fragilaria. Diatom Research 2: 267–288.
+http://dx.doi.org/10.1080/0269249X.1987.9705004
+Wright, H.E., Jr. (1967) A square-rod piston sampler for lake sediments. Journal of Sedimentary Petrology 37: 975–976.
+http://dx.doi.org/10.1306/74D71807-2B21-11D7-8648000102C1865D
+
+PLEISTOCENE AND HOLOCENE DIATOMS OF SWAMP LAKE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 149
+
+

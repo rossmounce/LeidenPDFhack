@@ -1,0 +1,326 @@
+Phytotaxa 161 (4): 294–300
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.161.4.5
+
+Additions to the Ricciaceae flora of Rio Grande do Sul, including two remarkable
+records for the Brazilian liverwort flora
+DANIEL MARTINS AYUB1, DENISE PINHEIRO DA COSTA2 & RINALDO PIRES DOS SANTOS3
+1
+
+Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Av. Osvaldo Aranha 540, Juventude da Enologia, 95700000, Bento Gonçalves, RS, Brazil; e-mail: daniayub@bento.ifrs.edu.br
+2
+Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Rua Pacheco Leão 915, 22460-030, Rio de Janeiro, RJ, Brazil;
+e-mail: dcosta@jbrj.gov.br
+3
+Departamento de Botânica, Instituto de Biociências, Universidade Federal do Rio Grande do Sul, Av. Bento Gonçalves 9500, 91501970, Porto Alegre, RS, Brazil; e-mail: rinaldo.santos@ufrgs.br
+
+Abstract
+The first record of Riccia boliviensis and R. iodocheila for Brazil and the first record of R. squamata and R. subplana for
+the liverwort flora of the state of Rio Grande do Sul are reported. The species were found during a floristic revision of the
+family Ricciaceae in the state. Taxonomic notes, photographs, habitat and geographic distribution are provided for each
+species.
+Key words: liverworts, Ricciaceae, new records, southern Brazil
+
+Introduction
+The genus Riccia Linnaeus (1753:1138), the largest genus of the Marchantiales, comprises about 150 species
+worldwide (from the Arctic to the Antarctic). Brazil harbors the highest species diversity with 32 species in four
+subgenera (60% of Neotropical species of Riccia). Most species occur in areas with dry seasons (Bischler-Causse
+et al. 2005) and are terrestrial, growing on soil, usually as pioneers of bare soil and often in areas that are
+occasionally flooded (Jovet-Ast 1991, 1993; Vianna 1985; Gradstein & Costa 2003; Bischler-Causse et al. 2005).
+The first extensive revision of the genus Riccia for the Neotropics was published by Jovet-Ast (1991, 1993).
+Fifty-two taxa were treated including genus and species descriptions, geographical distributions, and illustrations.
+In Brazil, Vianna (1985) treated the genus Riccia in the revision of the Marchantiales for the state of Rio Grande do
+Sul, including 14 species. Gradstein & Costa (2003) reported the occurrence of 29 species of Riccia for Brazil, 18
+of these for Rio Grande do Sul. The most recent revision of Riccia was contributed by Jovet-Ast in Bischler-Causse
+et al. (2005) Flora Neotropica Monograph for Marchantiidae, that reported the occurrence of 32 species of Riccia
+for Brazil, 19 of these for Rio Grande do Sul. Species of this genus are delimited morphologically by characters of
+the thallus (cross section), scales (color and arrangement), and spores (shape, wall ornamentation, and size). Here
+we report four new records of Riccia for Rio Grande do Sul (Riccia boliviensis Jovet-Ast (1991:242), R. iodocheila
+M. Howe (1934:200), R. squamata Nees in Martius (1833:302) and R. subplana Stephani (1902:275)); the records
+of R. boliviensis and R. iodocheila are also the first from Brazil.
+
+Taxonomic treatment
+Key to the Riccia species from Rio Grande do Sul state (based on Jovet-Ast in Bischler-Causse et al. 2005 and
+Gradstein & Costa 2003)
+1.
+
+Thallus only 2–3 cell layers thick throughout. Thallus segments widened to the tips. Spores spherical, 40–60 μm diam.,
+wingless, spiny, with rounded or truncate spines .................................................... R. membranacea (subgen. Leptoriccia )
+
+294 Accepted by Lars Söderström: 6 Feb. 2014; published: 3 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1.
+
+Thallus thicker with more than 5 layers at least in the middle. Thallus segments not widened to the tips. Spores spherical,
+subspherical and angular, 60–120 μm diam., winged or not, without spines......................................................................... 2
+2. Dorsal surface of thallus with distinct pores surrounded by a ring of cells, or with irregular openings. Thallus with dorsal
+aerenchyma with air chambers ............................................................................................................................................... 3
+2. Dorsal surface of thallus without or with inconspicuous pores not surrounded by a ring of cells. Thallus with dorsal vertical rows of cells without air chambers ...................................................................................................... 8 (subgen. Riccia)
+3. Mature spores united in tetrads, 86–112 μm diam., wingless, rounded or truncate tubercles    ....................
+.......................................................................................................................................... R. curtisii (subgen. Thallocarpus)
+3. Mature spores free, tetrahedral, 60–90 μm diam., winged, tubercles absent or small when present.... 4 (subgen. Ricciella)
+4. Thallus rather shallowly divided into broader segments. Older parts of the thallus sponge-like. Sporophyte not emerging
+from the ventral surface. Monoicous ...................................................................................................................R. cavernosa
+4. Thallus deeply divided into (sub)linear segments. Older parts of the thallus not sponge-like. Sporophyte emerging from the
+ventral surface of the thallus. Monoicous or dioicous............................................................................................................ 5
+5. Thallus segments 1.5–4 mm wide. Spores with more than 8 areolae across the distal surface. Dioicous; male thallus
+smaller than female thallus ..........................................................................................................................R. paraguayensis
+5. Thallus segments less than 1.5 mm wide. Spores with 3–8 areolae across the distal surface. Monoicous ......................... 6
+6. Thallus segments very narrow, 0.3–0.5 mm wide. Spores with 3–5 areolae across the distal surface .............R. stenophylla
+6. Thallus segments broader more than 0.5 mm. Spores with 4–8 areoles across the distal surface ........................................ 7
+7. Thallus segments short, 1.5–1.8 mm length, not or scarcely overlapping. Spores with 4–5(-8) areolae across the distal surface, the lamellae smooth ............................................................................................................................... R. jovet-astiae
+7. Thallus segments longer more than 2 mm, overlapping in 2–3 layers. Spore surface with 5–8 areoles across the distal surface, the lamellae tuberculate ........................................................................................................................... R. paranaensis
+8. Lobes with few papillae on margin ..................................................................................................................... R. iodocheila
+8. Lobes without papillae ........................................................................................................................................................... 9
+9. Thallus margins ciliate ........................................................................................................................................................ 10
+9. Thallus margins without cilia .............................................................................................................................................. 12
+10. Thallus 0.9–1.2 mm wide, margins curved upwards (in cross section). Spores 70–90 µm in diameter ....................R. enyae
+10. Thallus 0.5–0.8 mm wide, margins curved downwards (in cross section). Spores 85–120 µm in diameter .......................11
+11. Thallus margin purple. Spores with 8–9 areoles across diameter of distal face ................................................R. brasiliensis
+11. Thallus margin colorless or with scattered purplish spots. Spores with 12–16 areoles across diameter of distal face ...........
+.............................................................................................................................................................................R. lindmannii
+12. Thallus with numerous whitish (to light brown) scales projecting beyond thallus margin, reaching the dorsal surface ... 13
+12. Thallus without whitish scales extending beyond the thallus margin ................................................................................. 14
+13. Thallus 1–2 times wider than thick (in cross section). Spores with 10–15 areolae across diameter of distal face..................
+.............................................................................................................................................................................. R. lamellosa
+13. Thallus 3–4 times wider than thick. Spores with 4–6 areoles across diameter of distal face ................................ R. viannae
+14. Thallus with numerous whitish dots (= idioblastic cells inside the thallus, visible through the epidermis)........................ 15
+14. Thallus without whitish dots ............................................................................................................................................... 16
+15. Distal spore surface densely areolate with tuberculate angles ........................................................................ R. albopunctata
+15. Distal spore surface with densely vermiculate ridges .................................................................................... R. campbelliana
+16. Ventral scales black, glossy. Spores winged, tuberculate..................................................................................................... 17
+16. Ventral scales hyaline or violaceous. Spores winged or not, margins crenulate or smooth................................................. 18
+17. Spores 95–107 µm diameter, wing 5–6 µm wide, wing margin strongly crenulate, proximal surface with sinuose ridges....
+............................................................................................................................................................................. R. boliviensis
+17. Spores 101–118 µm diameter, wing margin up to 4 µm wide, transparent yellow, wing margin entire, proximal surface
+with vermiform low ridges ................................................................................................................................... R. squamata
+18. Spores rounded, without wing ............................................................................................................................................. 19
+18. Spores angular, winged ....................................................................................................................................................... 20
+19. Thallus segments 2.5–4 mm wide. Spores reddish-purple, with 4–8 areolae across the distal surface, triangular tubercles ..
+............................................................................................................................................................................... R. subplana
+19. Thallus segments 1.5–2.5(–3) mm wide. Spores reddish-brown, with 8–11 areolae across the distal surface, rounded tubercles............................................................................................................................................................. R. plano-biconvexa
+20. Thallus with hyaline margin. Spore distal face granulose 8–10(–12) areolae, with thick ridges and large tubercles, proximal face with numerous areolae with thin ridges and small tubercles, triradiate scar not reaching the equator .R. fruchartii
+20. Thallus without hyaline margin. Spore distal face granulose to papillose with narrow ridges and thin or large, low or high
+tubercles, proximal face with numerous complete areolae or with conspicuous tubercles, or with similarly ornamented, triradiate scar not reaching the equator, conspicuous or weak................................................................................................. 21
+21. Thallus forming complete rosettes, lobes 2–4 mm wide. Spores 80–95 µm in diam., granulose distal face with 8–10 areolae with narrow ridges and thin, high tubercles; proximal face with numerous complete areolae with low, wide ridges and
+tubercles, triradiate scar with wide ridges not reaching the equator .......................................................................R. grandis
+21. Thallus as separate lobes or partial rosettes, lobes smaller, 1–2.2 mm wide. Spores over 95 µm in diam .......................... 22
+
+ADDITIONS TO THE RICCIACEAE FLORA OF RIO GRANDE DO SUL
+
+Phytotaxa 161 (4) © 2014 Magnolia Press
+
+• 295
+
+22. Wing of spores brown, smooth or slightly crenulate. Spores distal face papillose with 8–9(–10) areolae limited by low and
+narrow ridges with large tubercles, proximal face similarly ornamented, with smaller tubercles, triradiate scar weak..........
+................................................................................................................................................................................ R. australis
+22. Wing of spores yellow, strongly crenulate. Spore distal face with 5–10 areolae with thin ridges and conspicuous tubercles,
+proximal face with conspicuous tubercles or with tubercles mixed with short, sinuose or straight ridges, triradiate scar conspicuous ........................................................................................................................................................ R. taeniaeformis
+
+Riccia boliviensis Jovet-Ast, Cryptog. Bryol. Lichénol. 12: 242. 1991 (Fig. 1).
+Thallus medium-sized, lobes 6–8 mm long, 2–3 times dichotomous, rounded apically; in gregarious patches or crowded stands;
+margins smooth, without papillae and cilia, inflexed; in cross section, lobes up to 1.9 mm wide, 3 times wider than high
+(0.6 mm high), flanks ascending, tissue cells thin walled and idioblasts absent; ventral scales black, glossy, extending
+beyond margins, sometimes bordered by small hyaline cells; spores tetrahedral, 95–107 µm diameter, orange-brown, wing
+5–6 µm wide, margin strongly crenulate, distal surface areolated with tubercles in angles, proximal surface with sinuose
+ridges and triradiate mark.
+
+FIGURE 1. A. Habit of Riccia boliviensis; B. Black ventral scales; C. Detail of scales; D–E. SEM micrographs of spores. D. Proximal
+face; E. Distal face, with details of crenulated margin (arrow); F–G. Light microscopy micrographs. F. Proximal face, with detail of
+sinuose ridges surface; G. Distal face with tuberculate areolate ornamentation. Bars: A=2 mm; B–C=1 mm; D–G=20 µm.
+
+Distribution and ecology:—Distributed in Venezuela (Fálcon) and Bolivia (Cochabamba), 140–2560 m.
+Information about the ecology of this species is sparse according to Jovet-Ast (2005) it seems to be rare, occurring
+on clay and sandstone along riverbanks, under shrubby vegetation. This is the first record for Brazil, Rio Grande do
+Sul, counties of Caçapava do Sul and Pinheiro Machado. This area is part of the savanna region of Rio Grande do
+Sul, characterized by poorly drained soil, poor-quality sandstone and sandy areas, acidic basaltic lava flows,
+shallow quartz and/or leached soils, and ferric pedogenesis (Leite & Klein, 1990). The species of Riccia are
+terrestrial, growing on exposed soil and soil on rocks, rarely found on bare rocks or on shaded soil; they often form
+soil crusts, in open seepage areas, on the edges of flooding zones of temporary ponds, in farm fields and other
+disturbed areas. We found it in similar areas in the savanna region.
+
+296 •
+
+Phytotaxa 161 (4) © 2014 Magnolia Press
+
+AYUB ET AL.
+
+Specimens examined:—BRAZIL. Rio Grande do Sul: Caçapava do Sul, 300 m, 30°45'2.57"S,
+53°31'42.08"W, on exposed wet soil near east side of road, 1 October 2012, D.M. Ayub, 190970 (ICN, RB).
+
+Riccia iodocheila M. Howe, Proc. Calif. Acad. Sci. Ser. 4, 21: 200. 1934. (Fig. 2)
+Thallus small-sized, lobes 3–4 mm long, 2–3 times dichotomous; in hemirosettes or gregarious patches; rounded apically,
+medium groove shallow, apex with papillae and margins pink with few papillae; in cross section, lobes up to 0.56–0.59
+mm wide, 2 times wider than high (0.28–0.31 mm high), flanks violet ascending vertically; ventral scales small, violet, of
+few cells, projecting marginal cells; spores tetrahedral, 90–104 µm diameter, dark brown, wingless, sometimes show
+vestigial wing margins finely crenulated, distal surface areolated with tubercles, proximal surface areolated with tubercles
+and trirradiate mark.
+
+FIGURE 2. A. Habit of Riccia iodocheila; B. Light microscopy photo of papillae at apex of thallus; C. Papillae on margins of thallus;
+D–E. SEM micrographs of spores D. Proximal face; E. Distal face with detail of areolate ornamentation; F. Light microscopy
+micrographs of spores, (left) distal face with detail of triangular tubercles, and (right) proximal face, with detail of weak trirradiate scar
+and crenulated margins. Bars: A=2 mm; B=500 µm; C=1 mm; D–F=20 µm.
+
+Distribution and ecology:—The species is known from the southwestern United States (California, Texas) and in
+the Neotropics from Mexico (Baja California, Oaxaca, Socorro Is., Sonora), Galápagos Islands (San Cristóbal, San
+Salvador) (Jovet-Ast 2005), and Argentina (Tucumán, Salta, La Rioja, Córdoba; Hassel de Menéndez, 1963). We
+found it with other species of Riccia (R. fruchartii Stephani (1898:22), R. plano-biconvexa Stephani (1897:29), R.
+brasiliensis Schiffner & S.W.Arnell (1964:6)). This is the first record for Brazil, Rio Grande do Sul, municipalities
+of Caçapava do Sul, thus expanding its distribution.
+Specimens examined:—BRAZIL. Rio Grande do Sul: Caçapava do Sul, 300 m, 30°45'2.57"S,
+53°31'42.08"W, on exposed wet soil near east side of road, 1 October 2012, D.M. Ayub 192152 (ICN, RB).
+
+Riccia squamata Nees in Martius, Fl. Brasil. 1: 302. 1833. (Fig. 3)
+Thallus medium-sized, lobes 5–8 mm long, 2–3 times dichotomous, rounded apically; in gregarious patches; margins smooth
+without papillae and cilia; ventral scales black, glossy, extending beyond margin; in cross section, lobes up to 1.8–1.9 mm
+wide, 3–4 times wider than high (0.58–0.62 mm high); spores tetrahedral, 101–118 µm diameter, light brown, wing margin
+up to 4 µm wide, transparent yellow, distal surface tuberculate and proximal surface with vermiform low ridges and
+trirradiate mark.
+
+ADDITIONS TO THE RICCIACEAE FLORA OF RIO GRANDE DO SUL
+
+Phytotaxa 161 (4) © 2014 Magnolia Press
+
+• 297
+
+FIGURE 3. A. Habit of Riccia squamata; B. Detail of scales; C. Ventral black scales; D. Transverse section of segment showing inner
+tissue organization; E–F. SEM micrographs of spores. E. Proximal face; F. Distal face; G–H. Light microscopy micrographs . G. Distal
+face with detail of tuberculate ornamentation; H. Proximal face with detail of sinuose low ridges surface. Bars: A=2 mm; B=1 mm; C–
+D=300 µm; E–H=20 µm.
+
+Distribution and ecology:—The species has been recorded from Mexico (Zacatecas), southern Dutch Antilles
+(Curaçao), Brazil (Bahia, Minas Gerais, Paraíba, Pernambuco, Piauí), Chile (Valparaiso) (Jovet-Ast 2005), and
+Argentina (Misiones; Hässel de Menéndez 1963). This is the first record for Brazil, Rio Grande do Sul,
+municipality of Pinheiro Machado.
+Specimens examined:—BRAZIL. Rio Grande do Sul: Pinheiro Machado, 370 m, 31°31'19.20"S,
+53°30'35.37"W, 29 September 2012, D.M. Ayub, 190971 (ICN, RB).
+
+Riccia subplana. Steph. Urban, Symb. Antill. 3: 275. 1902. (Fig. 4)
+Thallus medium-sized 5-7mm long, lobes up to 2 mm long, 2–3 times dichotomous, in gregarious patches; rounded apically
+with deep median groove vanishing below, margins smooth, without papillae and cilia; in cross section, thallus up to 2.0–
+2.4 mm wide, 2–3 times wider than high (0.77–0.90 mm high), tissue cells thin walled and idioblasts absent; scales pink,
+imbricate, reaching lobe margin; spores subspherical, 82–85 µm diameter, brown, wingless, distal surface areolated with
+thick ridges and large tubercles, proximal surface with similar ornamentation and trirradiate mark discontinued.
+
+Distribution and ecology:—R. subplana is known from Brazil (Amazonas),Costa Rica, Guatemala, Virgin
+Islands, Venezuela, Guyana, French Guiana and Peru (Jovet-Ast 2005). This species seems to be infrequent in
+Brazil, however it is collected in gardens and streets among paving stones as found here. This is the first record for
+Rio Grande do Sul, municipality of Bento Gonçalves, thus expanding its distribution, but does not explain the
+discontinuity.
+Specimens examined:—BRAZIL. Rio Grande do Sul: Bento Gonçalves, 660 m, 29°9'48.29"S,
+51°31'20.23"W, on exposed soil in park behind school, 10 September 2012, D.M. Ayub, 190972 (ICN, RB).
+
+298 •
+
+Phytotaxa 161 (4) © 2014 Magnolia Press
+
+AYUB ET AL.
+
+FIGURE 4. A. Habit of Riccia subplana; B. Transverse section of segment showing the dark area where the sporophyte is located; C.
+Ventral pink scales; D. Enlarged ventral area of scales; E–F. SEM micrographs of spores. E. Proximal face; F. Detail of small ridges; G.
+Light microscopy micrographs of spores in distal and proximal views with detail of areoles and small ridges. Bars: A=2 mm; B=300
+µm; C =2 mm; D=500 µm; E=10 µm; F=5 µm; G=10 µm.
+
+Conclusions
+The Ricciaceae is well represented in Rio Grande do Sul, and the large number of species of Riccia found in this
+study suggests that the southern region is a center of diversity of this genus in Brazil. Our results increase the total
+number of Riccia species known to Brazil from 32 to 34.
+Floristic inventories are still needed in regions of the state that are considered under collected, including the
+northwestern part of the state, “Alto Uruguai” and the southeastern region around the great lagoons. No collections
+from these areas are held in the ICN herbarium. Collecting efforts in these regions would most probably add new
+records to the known liverwort flora of southern Brazil.
+Knowledge of the distribution of the species is considered incomplete for two reasons: the pronounced
+seasonality of the species of Riccia, which disappear during the dry season and sometimes for several years; and
+the fact that some areas are still under collected. The new additions recorded here enlarge the distributions of the
+species.
+We did not expect to find R. subplana in the southern region, because it is typical of Central America and
+occurs in the Amazonas, but its occurrence is common among the paving stones and gardens, which suggests
+having spread to other habitats or having been introduced in the state.
+Until now, no species with black scales had been found in southern Brazil, and the collections of two different
+species with this feature increased the distribution of the genus. A very common characteristic found in the Riccia
+species from Rio Grande do Sul, is the spores with crenulated wing, as seen in R. iodocheila and R. boliviensis, and
+this is a very useful character to separate these species.
+The black glossy scales of R. boliviensis are similar to those of R. squamata. However, in R. boliviensis the
+spores have a crenulated wing and shorter thallus segments. Likewise the idioblasts found in R. albopunctata
+Jovet-Ast (1991:237), are lacking in both species.
+
+ADDITIONS TO THE RICCIACEAE FLORA OF RIO GRANDE DO SUL
+
+Phytotaxa 161 (4) © 2014 Magnolia Press
+
+• 299
+
+Riccia squamata is typical of the Caatinga in Brazil (Paraíba, Pernambuco, Bahia, Piauí, and Minas Gerais
+states) a unique biome in Brazil and very distinct from those found in Rio Grande do Sul, the Campos Sulinos
+(Southern Brazilian Campos) and the Atlantic Forest. We expected to find this species in the Rio Grande do Sul
+state, because it is also found in northern Argentina and in the open areas of Campos Sulinos where the conditions
+of intense luminosity are similar. The discontinuous distribution in Brazil may partly be explained by the few
+inventories of Ricciaceae in the country.
+The widespread distribution of R. iodocheila, from the southern USA to Argentina, suggested that it could
+occur in southern Brazil, which was confirmed in our study. Other species that are expected to occur in Rio Grande
+do Sul are R. crystallina Linnaeus (1753:1138), R. frostii Austin (1875:17), R. mauryana Stephani (1898:19), R.
+sorocarpa Bischoff (1835:1053), and R. weinionis Stephani (1898:18), which occur elsewhere in Brazil and/or in
+neighboring Argentina and Paraguay.
+These results suggest the need for additional fieldwork to have a better understanding of the distribution and
+ecology of the species of Riccia in southern Brazil.
+
+Acknowledgements
+We thank the Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Laboratório de Anatomia Vegetal (LAVeg)
+of Universidade Federal do Rio Grande do Sul (UFRGS), and the Instituto Federal de Educação, Ciência e
+Tecnologia do Rio Grande do Sul campus Bento Gonçalves. Financial support for this work came from LAVeg and
+Programa de Pós Graduação em Botânica of UFRGS.
+
+References
+Austin, C.F. (1875) New Hepaticae. Bulletin of the Torrey Botanical Club 6: 1–379.
+http://dx.doi.org/10.2307/2475861
+Bischler-Causse, H., Gradstein, S.R., Jovet-Ast, S. Long, D.G. & Salazar Allen, N. (2005) Marchantiidae. Flora Neotropica
+97:1–262.
+Bischoff, G.W. (1835) Bemerkungen Uber die Lebermoose vorzüglich aus den Gruppen der Marchantienn und Riccien. Nova
+Acta Physico-Medica Academiae Caesareae Leopoldino-Carolinae Naturae Curiosorum 17(2): 909–1088.
+Gradstein, S.R. & Costa, D.P. (2003) The Hepaticae and Anthocerotae of Brazil. Memoirs of the New York Botanical Garden
+87: 1–318.
+Hässel de Menéndez, G. (1963) Estudio de las Anthocerotales y Marchantiales de la Argentina. Opera Lilloana 7: 1–297.
+Howe, M. (1934) The Hepaticae (chiefly Riccia and Anthocerotaceae) of the Galapagos Islands and the coast and islands of
+Central America and Mexico. Proceedings of California Academy of Sciences Series 4 21: 199–210.
+Jovet-Ast, S. (1991) Riccia (Hépatiques, Marchantiales) d´Amérique Latine. Taxons du Sous-Genre Riccia. Cryptogamie,
+Bryologie Lichénologie 12(3): 189–370.
+Jovet-Ast, S. (1993) Riccia (Hépatiques, Marchantiales) d´Amérique Latine. Taxon des sous-genres Thallocarpus, Leptoriccia,
+Ricciella. Cryptogamie, Bryologie Lichénologie 14(3): 219–301.
+Jovet-Ast, S. (2005) Riccia In: Bischler-Causse, H., Gradstein, S.R., Jovet-Ast, S. Long, D.G. & Salazar Allen, N. (2005)
+Marchantiidae. Flora Neotropica 97: 25–123.
+Linnaeus, C. (1753) Species plantarum 2: 561–1200.
+http://dx.doi.org/10.5962/bhl.title.669
+Leite, P.F. & Klein, R.M. (1990) Geografia do Brasil. Região Sul. Rio de Janeiro, IBGE.
+Martius, C.F.P. (1833) Flora Brasilinesis, Pars Prior. (Stuttgart & Tübingen) 293–390.
+Schiffner, V. & Arnell, S.W. (1964) Ergebnisse der Botanischen Expedition der kaiserlichen Akademie der Wissenschaften
+nach Südbrasilien. II. Hepaticae. Österreichische Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche
+Klasse. Denkschriften 111:1–156.
+Stephani, F. (1897) Die Lebermoose der ersten Regnell'schen Expedition nach Südamerika. Bihang til Kongliga Svenska
+Vetenskaps-Akademiens Handlingar 23 (III, 2): 1–36.
+Stephani, F. (1898–1900) Species hepaticarum: eine Darstellung ihrer Morphologie und Beschreibung ihrer Gattungen wie
+aller bekannten Arten in Monographien unter Berücksichtigung ihrer gegenseitigen Verwandtschaft und geographischen
+Verbreitung. Georg, Geneve & Bale. 1–438.
+http://dx.doi.org/10.5962/bhl.title.45014
+Stephani, F. (1902) Urban.   3:275–279.
+Vianna, E.C. (1985) Flora Ilustrada do Rio Grande do Sul, 15, Marchantiales. Bol. Boletim do Instituto de Biociências (Porto
+Alegre) 38: 1–213.
+
+300 •
+
+Phytotaxa 161 (4) © 2014 Magnolia Press
+
+AYUB ET AL.
+
+

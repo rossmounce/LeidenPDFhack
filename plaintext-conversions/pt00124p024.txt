@@ -1,0 +1,648 @@
+Phytotaxa 124 (1): 13–24 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.124.1.2
+
+Two new species of Oxalis (Oxalidaceae) from the Greater Cape Floristic Region
+JAN SUDA1,2, JANA KREJČÍKOVÁ1,2, RADKA SUDOVÁ2, KENNETH C. OBERLANDER2,3 & LÉANNE
+L. DREYER4,5
+1
+
+Department of Botany, Faculty of Science, Charles University in Prague, Benátská 2, Prague, CZ-128 01, Czech Republic
+Institute of Botany, Academy of Sciences of the Czech Republic, Průhonice 1, CZ-252 43, Czech Republic
+3
+Department of Conservation Ecology and Entomology, Stellenbosch University, Private Bag X1, Matieland, 7602, South Africa
+4
+Department of Botany and Zoology, Stellenbosch University, Private Bag X1, Matieland, 7602, South Africa
+5
+E-mail ld@sun.ac.za
+2
+
+Abstract
+Two new multifoliolate species of Oxalis L. (Oxalidaceae) from the Hantam Karoo region of South Africa are described
+and illustrated: Oxalis carolina and O. filifoliolata. Both species occur in single populations in the extremely geophyterich area on the Bokkeveld Plateau in the Northern Cape Province. Morphological characteristics, phylogenetic position,
+habitat description and conservation status of the new species are provided, in addition to a diagnostic comparison with
+other phenotypically similar Cape species. Fifteen multifoliolate Oxalis species are currently recognized in South Africa,
+disregarding multifoliolate varieties of otherwise trifoliolate species. A key for multifoliolate Oxalis species known from
+the Bokkeveld Plateau is presented.
+Key words: Cape Floristic Region, genome size, Oxalidaceae, phylogeny, South Africa, taxonomy
+
+Introduction
+With ± 200 species and many intraspecific taxa, Oxalis L. (Oxalidaceae) is the largest geophytic genus in the
+Greater Cape Floristic Region of South Africa (Dreyer & Makgakga 2003). Several new species have been
+described recently, including O. ericifolia Oberlander & Dreyer (2009: 242) from the Knersvlakte and O.
+saltusbelli Dreyer & Roets (2009: 113), a multifoliolate species from the Bokkeveld Plateau in the Northern
+Cape Province. Multifoliolate leaves are restricted to a small, but phylogenetically diverse, group of South
+African Oxalis species (Oberlander et al. 2011). In his monograph of the genus in South Africa, Salter (1944)
+recognized 14 multifoliolate species, 12 of which are still recognized (Dreyer & Makgakga 2003, Dreyer et al.
+2010), in addition to four multifoliolate varieties of otherwise trifoliolate species. Two unusual and very
+distinct multifoliolate Oxalis taxa were discovered north of Nieuwoudtville in the Northern Cape Province
+during field work collecting species for cytogenetic analyses. We describe these species as O. carolina J. Suda
+& Sudová and O. filifoliolata J. Suda & Krejčíková, and evaluate their systematic position based on DNA
+sequence data, morphology and karyological evidence. In addition, we provide an updated key to all
+multifoliolate Oxalis species reported from the Bokkeveld Plateau, to facilitate identification of this distinct
+group in the geophyte-rich area.
+
+Accepted by Maximilian Weigend: 12 July 2013; published: 15 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+13
+
+Material and Methods
+Morphological assessment
+The new taxa were compared with descriptions of all known southern African species (Salter 1944, Ornduff
+1973, Oliver 1993, Williamson 1999, Kumwenda et al. 2004, Dreyer et al. 2009, Oberlander et al. 2009) and
+with the living collection in the Stellenbosch University Botanical Garden. All named and unnamed Oxalis
+collections from the Stellenbosch University (STEU, Stellenbosch, South Africa) and Compton (NBG, Cape
+Town, South Africa) herbaria were examined. Although not strictly correct, we use the term “rhizome” when
+referring to the below-ground stem in order to maintain consistency with previously published taxonomic
+contributions, including the monograph of South African Oxalis (Salter 1944).
+DNA sequencing and molecular analysis
+The nuclear ribosomal Internal Transcribed Spacer region (ITS; Sun et al. 1994) was sequenced for the new
+taxa following the methods of Oberlander et al. (2011). By using morphological characters as a first estimate
+of phylogenetic placement, we added the sequence of O. filifoliolata to the ITS matrix of the O. flava
+Linnaeus (1753: 433) clade sensu Oberlander et al. (2009). Similarly, we added O. carolina to the ITS matrix
+of the O. tomentosa Linnaeus f. (1782: 244) alliance sensu Dreyer et al. (2009). Previous work has shown
+substantial conflict between nuclear and plastid DNA data (Oberlander et al. 2011) regarding the phylogenetic
+placement of members of the O. tomentosa alliance; consequently, we also sequenced the chloroplast noncoding trnL intron, 3’ trnL exon and trnL-trnF spacer (trnL-trnL-trnF: Taberlet et al. 1991) for a taxon set
+corresponding to the ITS matrix. The chosen outgroups for all analyses were O. comosa Meyer ex Harvey &
+Sonder (1860: 340) and two species of the O. purpurea Linnaeus (1753: 433) clade (O. purpurea and O.
+obtusa Jacquin (1794: 106)). All generated sequences were submitted to the NCBI database (http://
+www.ncbi.nlm.nih.gov) (see Supplementary material). Parsimony analyses were conducted in PAUP*
+v4.0b10 (Swofford 2003), using heuristic searches to find most parsimonious trees. Starting trees were
+generated using random taxon addition, and 1 000 TBR branch-swapping replicates, saving up to 100 trees
+per replicate. The degree of homoplasy in the data was calculated using the parsimony-based Consistency (CI)
+and Retention (RI) Indices. Support levels for nodes were assessed using non-parametric bootstrap (BS: 10
+000 replicates) using heuristic searches. Bayesian Inference was conducted on the same data set using
+MrBayes v3.2 (Ronquist et al. 2012) under the most complex model of sequence evolution within the 95%
+confidence interval as estimated by jModelTest v0.1.1 (GTR+G+I in all cases; Posada 2008). Ten million
+generations in two separate analyses, sampling every 1000th generation, were run in order to ensure adequate
+sampling of the posterior distribution. Convergence on the posterior was judged using MrBayes’ own
+diagnostics. Posterior probabilities (PP) served as levels of support for nodes. For the two O. tomentosa
+alliance matrices, incongruence between data sets was assessed using the ILD test (Farris et al. 1994), with
+10 000 replicates and all uninformative characters removed.
+Flow Cytometry
+Genome size was estimated by propidium iodide flow cytometry using a Partec SL cytometer equipped with
+532-nm, 150 mW solid state diode-pumped laser (Cobolt Samba). Sample preparation followed the simplified
+two-step procedure using Otto´s buffers as described in Doležel et al. (2007) and Krejčíková et al. (2013).
+Glycine max (Linnaeus) Merrill (1917: 274) 'Polanka' (2C = 2.50 pg) was selected as an internal reference
+standard.
+
+14 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+SUDA ET AL.
+
+Taxonomy
+Oxalis carolina J. Suda & Sudová, sp. nov. (Fig. 1)
+Species multifoliolata, O. tomentosae similis, sed robustior, petiolis longioribus, foliolis paucioribus (numero 9-11) sed
+maioribus. Corolla cum tuba calva. Sepala cum apicibus retrorsis.
+Type:—SOUTH AFRICA, Northern Cape Province, Namakwa District, Hantam Local Municipality: southwest-facing
+slopes above the road R357, 12.3 km north of Nieuwoudtville, 31°16’52.6’’S 19°08’37.2’’E, 550 m, 9 June 2010, J.
+Suda & R. Sudová J628 (holotype NBG!, isotypes PRC!, STEU!).
+
+FIGURE 1. Oxalis carolina. a. flowering individual in spring; b. bulb; c. sterile plant in autumn; d. pollen.
+
+Robust geophyte, stemless or rarely with shortly (< 12 mm) exserted above-ground stem. Bulbs solitary,
+ovate with prominent beak, up to 25 mm long, outer tunics dark brown, glabrous, inner tunics reddish-brown;
+young bulbs lanceolate, much narrower (usually less than 5 mm broad) than mature bulbs, with paler tunics.
+Rhizome up to 30 cm long, often with numerous, prominently beaked bulbils. Leaves congested at apex of
+rhizome or above-ground stem, 3–12 per plant, erect, increasing in size after flowering; petiole 3–13 cm at
+flowering, elongating up to 25 cm later in the season, densely pilose with long (exceeding the diameter of the
+petiole), patent, stout, grey trichomes; leaflets (7–)9–11(–12), peltately spreading, oblong to narrowly
+obovate, 10–40 mm × 1–8 mm (larger in full shade), slightly conduplicate at flowering, but flat or weakly
+involute at fruiting stage, tomentose with grey, stout hairs, more densely so abaxially, mid-vein dilated and
+prominent beneath in proximal half of leaflet, apex emarginate, abaxial surface with scattered, round, orange
+calli that became larger and elongated towards apex. Peduncle 1-flowered, 3–14 cm long, usually only
+slightly longer than leaves, pilose with long grey hairs; bracts alternate, enclosing calyx, filiform to narrowly
+lanceolate, 2.0–3.0 mm × 0.2–0.3 mm, sparsely pilose. Sepals narrowly to broadly lanceolate, 4–6 mm × 1–2
+mm, tips distinctly recurved, densely pilose abaxially (especially near base), glabrous adaxially, margins and
+
+TWO NEW SPECIES OF OXALIS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 15
+
+sometimes surface brownish red, with two inconspicuous, orange calli near apex. Flowers tristylous, corolla
+white to pale lilac, with narrowly funnel-shaped, white to yellow, glabrous tube. Petals broadly obovate, 2.0–
+3.5 cm × 0.8–1.2 cm, with distinct claw ± as long as or slightly shorter than lamina. Stamens 3-seriate with 2
+series per plant, shortest series 2.5–3.5 mm, middle 4.0–5.0 mm, longest 8.0–10.0 mm long, filaments
+sparsely pilose, dilating towards base, with distinct, glabrous, papery teeth on the longer filaments, ± 2.5 × 0.2
+mm; pollen tricolpate, tectum reticulate, with prominent blunt, scattered intra-luminary bacules. Ovary ovoid,
+densely pilose in distal half; styles 5, pilose, in three series with one series per plant, reciprocally
+herkogamous to stamen series, shortest ± 3 mm long, middle 5–6 mm, longest 8–10 mm long; stigmas yellow,
+fimbriate. Fruit not seen. Seeds not seen.
+
+FIGURE 2. Geographic distribution of Oxalis carolina (circle) and O. filifoliolata (diamond).
+
+Diagnostic characters:—Oxalis carolina is morphologically most similar to O. tomentosa from the SW
+Cape. In addition to a clear geographic gap between the distributional ranges of these two species, O. carolina
+is a more robust plant, with longer petioles and fewer, but larger leaflets (mostly 9–11 compared to 10–20 in
+O. tomentosa). Another distinct feature of O. carolina is the presence of recurved sepal tips (Table 1, Fig. 1).
+In addition, O. tomentosa has a pubescent corolla tube, while the corolla tube of O. carolina is glabrous.
+Despite morphological similarities, O. carolina can hardly be regarded as a recent autopolyploid derivative of
+the diploid O. tomentosa, because their monoploid genome sizes differ by ca. 10% (1Cx-values for O.
+carolina and O. tomentosa are 0.29 pg and 0.32 pg, respectively). Nonetheless, detailed molecular work is
+required to accurately identify progenitors of the new species. Oxalis palmifrons T.M. Salter (1936: 161) and
+
+16 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+SUDA ET AL.
+
+O. saltusbelli are two other multifoliolate species found in the Northern Cape Province. The former is easily
+recognized by very numerous leaves with more than 20 leaflets and markedly compressed petioles. The
+recently described O. saltusbelli from the Nieuwoudtville area has uniquely grooved petioles, its mature
+leaflets are narrower and indumentum is sparser and softer than that of O. carolina (Table 1). Other potentially
+sympatric multifoliolate species (e.g., O. zeyheri Sonder in Harvey & Sonder (1860: 347)) are prominently
+caulescent and thus easy to distinguish from O. carolina.
+Distribution and ecology:—Oxalis carolina grows on southwest-facing slopes above the road R357
+north of Nieuwoudtville, in open Hantam Karoo vegetation (Fig. 2). Other Oxalis species recorded at this
+locality include O. callosa R. Knuth (1927: 15), O. flava, O. obtusa and O. suteroides T.M. Salter (1935: 116).
+The slope is very stony and the long rhizome of O. carolina appears to be an adaptation to these conditions.
+Bulbs are deeply-seated in loamy soil and were often found below boulders or in crevices between stones. A
+regular sympatric occurrence of mosses indicates enough moisture during the growth season. Oxalis carolina
+generally favours shaded microsites, sheltered either by boulders or by surrounding shrubby vegetation, and
+the species is exposed to direct sunlight only occasionally and for short periods. The size of the population
+was estimated at a few hundred individuals. Plants often grow aggregated into clumps. Only a small
+proportion of individuals were flowering (and flowers were seldom fully open), while most plants produced
+only leaves. The palmately compound leaves superficially resemble some multifoliolate Lupinus (Fabaceae)
+species. Vegetative reproduction via bulbils seems to be the prevailing mode of propagation; bulbils are
+especially common along the rhizome in autumn. Although it is possible that other populations of O. carolina
+occur in the area, our repeated searches during 2011–2012 in localities with similar ecological conditions were
+not successful.
+Phenology:—The species flowers from mid-May to late June.
+Phylogenetic analysis:—The ITS data set consisted of 20 taxa and 783 characters, of which 58 were
+parsimony-informative. The trnL-trnL-trnF data set consisted of 20 taxa and 937 characters, of which 16 were
+parsimony-informative. Parsimony analyses of ITS and trnL-trnL-trnF found 15 trees of length 221 (CI:
+0.760; RI: 0.694), and 78 600 trees of length 81 (CI: 0.951; RI: 0.909), respectively. Bayesian analyses
+provided 15 002 trees after burn-in (harmonic mean log likelihood ITS: -2 437.37, trnL-trnL-trnF: -1 854.72).
+All diagnostics indicated that all runs for each marker had converged on the same stable posterior
+distributions. Parsimony and Bayesian trees were very similar, and similar to previous analyses using these
+markers (Oberlander et al. 2009, 2011, Dreyer et al. 2010). The O. tomentosa alliance is strongly supported as
+a monophyletic group in the ITS data set (Fig. 3), with O. carolina and two accessions of O. palmifrons
+resolving with the multifoliolate members of the alliance (PP: 1.00; BS: 98%). In contrast, O. palmifrons does
+not group with the remainder of the alliance in trnL-trnL-trnF trees, and O. carolina is only weakly supported
+(PP: 0.98; BS: 53%) as sister to the remaining species of the alliance. The ILD test in PAUP* showed that the
+ITS and trnL-trnL-trnF data sets were barely congruent with one another (P = 0.067). Although clearly
+associated with members of the O. tomentosa alliance in both analyses, neither nuclear nor plastid data
+support a close relationship of O. carolina to any particular member species.
+Genome size:—The mean 2C-value was estimated to be 1.16 pg, showing the new species to be
+tetraploid. The amount of nuclear DNA is very different from the closest relatives of O. carolina (i.e., O.
+oligophylla T.M. Salter (1938: 114), O. palmifrons, O. saltusbelli and O. tomentosa), all of which are
+uniformly diploid according to flow cytometric analysis (Fig. 5B); another related species, O. hygrophila
+Dreyer (2004: 262), seems to be hexaploid on the basis of genome size data.
+Conservation status:—The species is known from only one very localized population consisting of a few
+hundred individuals. Because the population occurs close to the road verge, it may be threatened by possible
+future road construction. This species would qualify as Vulnerable under South African Red List Criteria
+(Raimondo et al. 2009), due to a geographic range of less than 20 km 2 and only one known population
+(Criterion D).
+Etymology:—The specific epithet honours the Charles University in Prague (Universitas Carolina
+Pragensis), which is the oldest university in Central Europe and Alma Mater of the first three authors.
+TWO NEW SPECIES OF OXALIS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 17
+
+FIGURE 3. Phylogenetic placement of a) Oxalis carolina based on ITS and trnL-trnL-trnF sequence data; and b) O. filifoliolata based
+on ITS sequence data. All trees presented are Bayesian 50% majority-rule consensus trees. Numbers below the branches indicate
+Bayesian Posterior Probability values, numbers above the branches refer to Parsimony Bootstrap values. The new taxa are highlighted
+in larger, bold font. The shading in a) indicates the O. tomentosa alliance.
+
+Oxalis filifoliolata J. Suda & Krejčíková, sp. nov. (Fig. 4)
+Species gracillima, multifoliolata. Pedunculi et item petioli tenues, basi articulati. Foliola saepissime 4-7, callosa.
+Petala coloris arancii, infra albo-marginata, basis viridi-flava, ostium coloris rubri lateris. Filamenta calva,
+edentata.
+Type:—SOUTH AFRICA, Northern Cape Province, Namakwa District, Hantam Local Municipality: Gannabos north of
+Nieuwoudtville, 31°13’41.0’’S 19°15’33.9’’E, 420 m, 24 May 2011, J. Suda & J. Rauchová J11-155 (holotype
+NBG!, isotypes BOL!, PRC!, STEU!).
+
+Stemless, slender geophyte, 40–55 mm tall. Bulbs solitary, fusiform to narrowly ovate, 20–30 mm long, outer
+tunics dark brown, glabrous, inner tunics reddish-brown, papery. Rhizome 40–100 mm long, covered by
+glabrous, dark brown sheaths, with large, semi-amplexicaul scales at nodes in distal half, with 2–4 prominent
+apical scales surrounding bases of petioles and peduncles, apical scales apiculate, reddish-brown, glabrous.
+Leaves congested at apex of rhizome, 1–8 per plant, erect; petiole 35–50 mm long, with prominent basal
+articulation, white and slightly dilated below articulation, rigid, wiry, black, filiform above basal articulation,
+± 0.4 mm in diameter; leaflets 4–7, peltately spreading, linear, conduplicate, glabrous, 7–15 mm × 1.0–1.5
+mm, apex emarginate with two distinct, round, orange calli. Peduncle 1-flowered, 40–55 mm long, filiform
+but slightly thicker than petioles, apically swollen, glabrous, black, shiny, basal articulation prominent, with
+portion below basal articulation slightly swollen and completely surrounded by scales; bracts 2, inserted on
+distal part of peduncle, alternate, filiform, black. Sepals triangular to lanceolate, 2.5–3.0 mm × 1.0–1.5 mm,
+ecallose, acute, brown, streaked and blotched with dark brown markings abaxially, especially around margins.
+Flowers tristylous, corolla bright orange with brick-red to brownish throat and greenish-yellow, narrowly
+
+18 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+SUDA ET AL.
+
+funnel-shaped tube, conspicuously whitish-edged on outer margin beneath. Petals adhering for ± 3–5 mm to
+form broadly funnel-shaped tube, oblanceolate, truncate to rounded, glabrous. Stamens 3-seriate with 2 series
+per plant, the shortest 2.0–2.5 mm, the middle 3.5–4.0 mm, the longest 5.0–6.0 mm long and exserted ± 2 mm
+from tube; filaments pale yellow, glabrous, edentate; pollen yellow, tricolpate, tectum reticulate, with
+prominent blunt, scattered intra-luminary bacules. Ovary 1.2–1.4 mm long, ovoid, glabrous, 5-locular with 2–
+3 ovules per locule; styles 5, glabrous, in three series with one series per plant, reciprocally herkogamous to
+stamen series, shortest ± 2.5 mm long, middle ± 3.5 mm long, longest ± 7.0 mm long; stigmas orange,
+fimbriate. Fruit not seen. Seeds not seen.
+
+FIGURE 4. Oxalis filifoliolata. a. illustration; b. flowering individual in its natural habitat; c. pollen.
+
+Diagnostic characters:—In its delicate habit, filiform petioles and linear leaflets, the new taxon
+superficially resembles the recently described O. ericifolia. However, peduncles of the new taxon lack the
+large swelling surrounding basal articulation that is characteristic of O. ericifolia, while the leaflets lack the
+large papillae on the adaxial leaflet epidermis. The very short petal claws of O. ericifolia result in open,
+campanulate flowers without a floral tube. This is very different to O. filifoliolata, which has much longer
+claws and a well-developed floral tube. The petal claws of O. ericifolia are red, with white petal lobes, while
+the claws of O. filifoliolata are greenish-yellow, the throat brick-red to brownish and the petal lobes bright
+orange. The filaments of O. ericifolia are wine-red, while those of O. filifoliolata are pale yellow (Table 1).
+Oxalis filifoliolata also shows numerous morphological similarities to members of the highly variable O. flava
+clade (Oberlander et al. 2011), and has the same type of pollen as all members of this clade (Dreyer 1996).
+Similarities between O. filifoliolata and some of the multifoliolate forms of O. flava include the acaulescent to
+near acaulescent habit, glabrous leaves, distinct basal articulations on the petioles, with the petiole somewhat
+dilated below this articulation, and the multifoliolate leaves with a peltate leaflet arrangement. However, O.
+filifoliolata is substantially more delicate than any of the known forms of O. flava. It has dark brown outer
+bulb tunics, while the bulb tunics of O. flava are usually light brown. Each leaflet has two distinct orange
+apical calli, which are absent from the leaflets of O. flava. Oxalis flava usually has orange calli on its sepals,
+
+TWO NEW SPECIES OF OXALIS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 19
+
+while the sepals of the new taxon are ecallose. Flower colours known from the O. flava complex include
+white, yellow and light pink, while the new taxon has orange flowers with a brick-red to brownish throat and
+greenish-yellow tube. The new taxon has glabrous, edentate filaments, while the filaments of O. flava are
+minutely glandular-pilose with obtuse teeth (Table 1).
+Oxalis pulvinata Salter (1940: 170) is another multifoliolate member of the O. flava clade (Oberlander et
+al. 2011) with filiform petioles, which occurs in the same geographic region as O. filifoliolata and may be
+confused with it. Oxalis pulvinata differs from O. filifoliolata in having pale brown bulb tunics, pale rose or
+yellow petals and abruptly swollen, pulvinate lower and upper petiole articulations. Both its leaflets and
+sepals are ecallose, and the often blood red filaments bear distinct teeth.
+Distribution and ecology:—Oxalis filifoliolata is known from a single population at Gannabos north of
+Nieuwoudtville en route to Loeriesfontein (Fig. 2). The population is large, consisting of several thousand
+individuals spread over approximately two kilometres along the route. It is more abundant in the lower lying
+flat areas, but some individuals do occur on the slopes and even summits of the surrounding hills. The
+substrate is dry and very stony. Plants usually grow in open places unassociated with surrounding vegetation
+and are mostly exposed to full sun.
+Phenology:—The species flowers from mid-May to late June.
+Phylogenetic analysis:—The ITS data set consisted of 41 taxa and 800 characters, of which 110 were
+parsimony-informative. Parsimony analyses of ITS found 353 trees of length 407 (CI: 0.568; RI: 0.657).
+Bayesian analyses provided 15 002 trees after burn-in (harmonic mean log likelihood: -3 566.6). All
+diagnostics indicated that both runs had converged on the same stable posterior distribution. Parsimony and
+Bayesian trees were very similar to each other and to trees in previous analyses using this marker (Oberlander
+et al. 2009, 2011, Dreyer et al. 2010) (Fig. 3). Although the O. flava clade is well-supported (PP: 1.00; BS:
+81%), internal relationships are generally poorly resolved. The well-supported sister relationship between O.
+flava and O. monophylla Linnaeus (1771: 241) is complicated here by the new taxon, which resolves as sister
+to O. flava with only moderate support (PP: 0.84; BS: 68%). Although we also sequenced a non-coding
+plastid marker for the new taxon (the trnS-trnG spacer), more limited sampling for the O. flava clade
+compared to ITS precluded any conclusive findings beyond a well-supported relationship with two sequences
+of O. flava, although further relationships within this group were unresolved (data not shown).
+Genome size:—The mean 2C-value was estimated to be 0.64 pg, showing the new species to be diploid.
+The monoploid genome size of O. filifoliolata is much smaller than the values determined for other members
+of the O. flava clade (Fig. 5A).
+Conservation status:—The species is known from only one rather large population. Due to its restricted
+geographic area, O. filifoliolata deserves attention of conservation authorities. This plant would qualify as
+Vulnerable under South African Red List criteria (Raimondo et al. 2009), due to a known range smaller than
+20 km2 and less than five known populations (Criterion D).
+Etymology:—The specific epithet refers to the long, thin leaflets.
+Note:—Non-flowering and partially dry material of O. filifoliolata was first observed in the Aloe
+dichotoma Masson (1776: 310) forest at Gannabos in September 2009, but was considered to be a
+multifoliolate form of the superficially similar O. ericifolia. Subsequent visits in May and June 2011,
+however, found the population in full flower, and the striking orange flowers clearly distinguished this species
+from O. ericifolia. It is very surprising that O. filifoliolata was only discovered now, given that it grows in
+sympatry with the charismatic and easily visible Aloe dichotoma. Oxalis filifoliolata produces bright orange
+flowers during May/June, which coincides with the flowering time of A. dichotoma, arguably a phenomenon
+that would attract many visitors to the site. The most plausible explanation for this late discovery of O.
+filifoliolata is its very diminutive size, and the inconspicuous leaves and leaflets. An unusual variety of O.
+flava var. unifoliolata Dreyer & Oberlander (2010: 258) was recently described from this same locality
+(Dreyer et al. 2010).
+
+20 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+SUDA ET AL.
+
+TWO NEW SPECIES OF OXALIS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 21
+
+toothed
+
+Petals
+
+Sepals
+
+Filaments
+
+stout, rather short
+(up to 5 cm),
+±rounded, densely
+pilose
+peltately
+spreading, 1020,
+not longer than 2
+cm, ecallose
+
+stout, long (up to 25
+cm), ±rounded,
+densely pilose
+
+toothed
+
+white to pale
+violet, tube
+pubescent
+
+ecallose
+
+greyish-brown
+
+dark brown
+
+peltately spreading,
+(7)911(12), up to
+4 cm long, with
+distinct calli on
+abaxial side
+with 2 orange calli,
+tips distinctly
+recurved
+white to pale violet,
+tube glabrous
+
+O. tomentosa
+
+O. carolina
+
+Leaflets
+
+Species /
+Diagnostic
+character
+Bulb
+tunics
+Petioles
+
+toothed
+
+pale lilac, tube
+glabrous
+
+ecallose
+
+long (up to 16 cm),
+grooved, sparsely
+covered with long
+soft hairs
+peltate, (6)811(
+13), up to 9 cm
+long, with 2 apical
+calli
+
+blackish-brown
+
+O. saltusbelli
+
+toothed
+
+white or yellow
+
+ecallose
+
+palmate, above
+20 in number,
+ecallose
+
+short (c. 2 cm),
+compressed
+
+dark brown
+
+O. palmifrons
+
+bright orange,
+throat brick-red,
+base greenishyellow
+edentate, pale
+yellow
+
+ecallose
+
+47, filiform,
+with 2 orange
+apical calli,
+glabrous
+
+filiform, slightly
+swollen at the
+base
+
+dark brown
+
+O. filifoliolata
+
+toothed, wine red
+
+white with wine
+red base
+
+ecallose
+
+3, filiform,
+ecallose,
+papillose on the
+adaxial side
+
+filiform, with
+large swollen
+basal articulation
+
+dark brown
+
+O. ericifolia
+
+toothed
+
+white, yellow,
+pale pink
+
+usually with
+orange calli
+
+linear, not or
+slightly
+swollen at the
+base
+(1) 212,
+linear-oblong,
+ecallose,
+glabrous
+
+pale brown
+
+O. flava
+
+TABLE 1. Comparison of the morphological characters of Oxalis carolina, O. filifoliolata and the phenotypically similar South African Oxalis species.
+
+toothed
+
+pale rose or
+yellow
+
+ecallose
+
+filiform, with
+large swollen
+basal
+articulation
+713, linear,
+ecallose,
+glabrous
+
+pale brown
+
+O. pulvinata
+
+FIGURE 5. Fluorescence histograms showing simultaneous analysis of a) O. filifoliolata and its closest relative O. flava (differing
+~20% in their genome sizes); and b) O. carolina and morphologically most similar O. tomentosa (differing ~80% in their genome sizes).
+
+22 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+SUDA ET AL.
+
+Key to the multifoliolate species of Oxalis from the Bokkeveld Plateau, South Africa
+1.
+2.
+3.
+4.
+5.
+-
+
+Well-developed above-ground stem (exserted at least 12 mm above ground) ..............................................O. zeyheri
+Stemless or with very short above-ground stem (less than 12 mm above ground) ...................................................... 2
+Leaflets glabrous.......................................................................................................................................................... 3
+Leaflets pubescent to hirsute ........................................................................................................................................ 5
+Plant semi-succulent, leaflets oblong to linear-oblong, petiole fleshy to winged, sepals callose .................... O. flava
+Plant wiry to delicate, leaflets linear, conduplicate or U-shaped in cross-section, petioles filiform, sepals ecallose ....
+..................................................................................................................................................................................... 4
+Petiole base and apex distinctly swollen, petals with two swollen basal papillate swellings, filaments toothed...........
+.................................................................................................................................................................... O. pulvinata
+Petiole base and apex slightly swollen, petals non-papillate, filaments edentate.................................... O. filifoliolata
+Petioles sparsely pilose, grooved, leaflets with two apical calli, sepals ecallose ......................................O. saltusbelli
+Petioles densely pilose, terete, leaflets with multiple abaxial calli, sepals distinctly callose, recurved ......O. carolina
+
+Acknowledgements
+We thank J. Krejčík, M. Lučanová and P. Trávníček for their help in the field. Jiří Machač provided SEM
+photos of pollen, and Pavel Zavadil assisted with the Latin diagnosis. Department of Environment and Nature
+Conservation, Northern Cape is thanked for issuing collection and transport permits (nos. ODB 669 2011
+FLORA 033 2011, ODB 670 2011 FLORA 034 2011 and ODB 1792 2011 FLORA 077 2011). The work was
+supported by the Czech Science Foundation (project P506/10/0643 awarded to JS). Additional support was
+provided by the Grant Agency of the Charles University (project no. 410111), Academy of Science of the
+Czech Republic (long-term research development project no. RVO 67985939) and institutional resources of
+Ministry of Education, Youth and Sports of the Czech Republic for the support of science and research. This
+research was further supported by a NRF grant (GUN nr. 2053585) awarded to LD. KCO was supported by
+project CZ.1.07/2.3.00/30.0048 of the European Social Fund in the Czech Republic (through the operational
+programme Education for Competitiveness).
+
+References
+Doležel, J., Greilhuber, J. & Suda, J. (2007) Estimation of nuclear DNA content in plants using flow cytometry. Nature
+Protocols 2: 2233–2244.
+http://dx.doi.org/10.1038/nprot.2007.310
+Dreyer, L.L. (1996) A palynological review of Oxalis (Oxalidaceae) in Southern Africa. Ph.D. thesis, University of
+Pretoria, 190 pp.
+Dreyer, L.L. & Makgakga, M.C. (2003) Oxalis L. In: Germishuizen, G. & Meyer, N.L. (eds.) Plants of southern Africa:
+an annotated checklist. Strelitzia 14: 762–770.
+Dreyer, L.L., Roets, F. & Oberlander, K.C. (2009) Oxalis saltusbelli: a new Oxalis (Oxalidaceae) species from the
+Oorlogskloof Nature Reserve, Nieuwoudtville, South Africa. South African Journal of Botany 75: 110–116.
+http://dx.doi.org/10.1016/j.sajb.2008.08.004
+Dreyer, L.L., Oberlander, K.C. & Roets, F. (2010) Reassessment of the taxonomic status of Oxalis fabaefolia
+(Oxalidaceae) and the description of a unique variety of Oxalis flava from the Northern Cape Province of South
+Africa. Blumea 55: 253–258.
+http://dx.doi.org/10.3767/000651910X545004
+Farris, J.S., Källersjö, M., Kluge, A.G. & Bult, C. (1994) Testing significance of incongruence. Cladistics 10: 315–319.
+http://dx.doi.org/10.1111/j.1096-0031.1994.tb00181.x
+Harvey, W.H. & Sonder, O.W. (1860) Flora Capensis. Volume 1. Hodges, Smith, and Co., Dublin, 547 pp.
+Jacquin, N.J. (1794) Oxalis. Monographia, Iconibus Illustrata. White & Sons, London, 119 pp.
+Knuth, R. (1927) Species novae africanae generis Oxalis. Botanische Jahrbücher 61: 8–28.
+Krejčíková, J., Sudová, R., Lučanová, M., Trávníček, P., Urfus, T., Vít, P., Weiss-Schneeweiss, H., Kolano, B.,
+Oberlander, K., Dreyer, L.L. & Suda, J. (2013) High ploidy diversity and distinct patterns of cytotype distribution in
+
+TWO NEW SPECIES OF OXALIS
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 23
+
+a widespread species of Oxalis in the Greater Cape Floristic Region. Annals of Botany 111: 641–649.
+http://dx.doi.org/10.1093/aob/mct030
+Kumwenda, M.W., Dreyer, L.L. & Marais, E.M. (2004) A taxonomic reassessment of the varieties of Oxalis minuta
+(Oxalidaceae) and the change of O. minuta var. callosa to specific rank as O. hygrophila. South African Journal of
+Botany 70: 259–264.
+Linnaeus, C. (1753) Species Plantarum. Volume 1. Impensis Laurentii Salvii, Stockholm, 560 pp.
+Linnaeus, C. (1771) Mantissa Plantarum Altera. Volume 2. Holmiae, Stockholm, 587 pp.
+Linnaeus, C. fil. (1782) Supplementum Plantarum. Impensis Orphanotrophei, Brunswick, 467 pp.
+Masson, F. (1776) An account of three journeys from the Cape Town into the southern parts of Africa; Undertaken for
+the discovery of new plants, towards the improvement of the Royal Botanical Gardens at Kew. By Mr. Francis
+Masson, one of His Majesty's gardeners. Addressed to Sir John Pringle, Bart. P. R. S. Philosophical Transactions of
+the Royal Society of London 66: 268–317.
+http://dx.doi.org/10.1098/rstl.1776.0017
+Merrill, E.D. (1917) An Interpretation of Rumphius's Herbarium Amboinense. Bureau of Printing, Manila, 595 pp.
+Oberlander, K.C., Dreyer, L.L. & Curran, H. (2009) An unusual new species of Oxalis (Oxalidaceae) from the
+Knersvlakte, South Africa. South African Journal of Botany 75: 239–245.
+http://dx.doi.org/10.1016/j.sajb.2008.11.004
+Oberlander, K.C., Dreyer, L.L. & Bellstedt, D.U. (2011) Molecular phylogenetics and origins of southern African Oxalis.
+Taxon 60: 1667–1677.
+Oliver, E.G.H. (1993) A new species of Oxalis from the Western Cape. Bothalia 23: 72–74.
+Ornduff, R. (1973) Oxalis dines, a new species from the western Cape. Journal of South African Botany 39: 201–203.
+Posada, D. (2008) Selection of models of DNA evolution with jModelTest. pp. 93–112. In: Posada, D. (ed.)
+Bioinformatics for DNA sequence analysis. Humana Press, Totowa, USA. Available from http://darwin.uvigo.es/
+software/jmodeltest.html.
+Raimondo, D., von Staden, L., Foden, W., Victor, J.E., Helme, N.A., Turner, R.C., Kamundi, D.A. & Manyama, P.A.
+(2009) Red List of South African Plants. Strelitzia 25: 1–668.
+Ronquist, F., Teslenko, M., van der Mark, P., Ayres, D., Darling, A., Höhna, S., Larget, B., Liu, L., Suchard, M.A. &
+Huelsenbeck, J.P. (2012) MrBayes 3.2: efficient Bayesian MCMC inference and model choice across a large model
+space. Systematic Biology 61: 539–542.
+http://dx.doi.org/10.1093/sysbio/sys029
+Salter, T.M. (1935) Plantae Novae Africanae series III. Journal of South African Botany 1: 111–125.
+Salter, T.M. (1936) Plantae Novae Africanae series VII. Journal of South African Botany 2: 145–169.
+Salter, T.M. (1938) Plantae Novae Africanae series X. Journal of South African Botany 4: 109–119.
+Salter, T.M. (1940) Plantae Novae Africanae series XV. Journal of South African Botany 6: 170–175.
+Salter, T.M. (1944) The genus Oxalis in South Africa: a taxonomic revision. The Journal of South African Botany.
+Supplemental Edition, Vol. 1. Cape Times Limited, Cape Town.
+Sun, Y., Skinner, D., Liang, G. & Hulbert, S. (1994) Phylogenetic analysis of Sorghum and related taxa using Internal
+Transcribed Spacers of nuclear ribosomal DNA. Theoretical and Applied Genetics 89: 26–32.
+http://dx.doi.org/10.1007/BF00226978
+Swofford, D.L. (2003) PAUP*: Phylogenetic Analysis Using Parsimony (* and Other Methods), Version 4.0b10. Sinauer,
+Sunderland.
+Taberlet, P., Gielly, L., Pautou, G. & Bouvet, J. (1991) Universal primers for amplification of three non-coding regions of
+chloroplast DNA. Plant Molecular Biology 17: 1105–1109.
+http://dx.doi.org/10.1007/BF00037152
+Williamson, G. (1999) A new succulent Oxalis (Oxalidaceae) from the Richtersveld. Aloe 36: 68–70.
+
+24 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+SUDA ET AL.
+
+

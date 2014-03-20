@@ -1,0 +1,471 @@
+Phytotaxa 161 (3): 219–226
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.161.3.5
+
+Cocconeis tortilis: a new marine diatom (Bacillariophyta, Cocconeidaceae) from
+Japan
+HIDEKAZU SUZUKI1*, TAMOTSU NAGUMO2 & JIRO TANAKA1
+1
+
+Graduate School of Marine Science and Technology, Tokyo University of Marine Science and Technology, 4-5-7 Konan, Minato-ku,
+Tokyo, 108-8477, Japan
+2
+Department of Biology, The Nippon Dental University School of Life Dentistry at Tokyo, 1-9-20 Fujimi, Chiyoda-ku, Tokyo, 1028159, Japan
+*
+Corresponding author: hsuzuki@kaiyodai.ac.jp
+
+Abstract
+A new species of Cocconeis, C. tortilis, was found on some seaweed collected from the Izu and Okinawa Islands of
+Japan. Its morphology was examined using both light and electron microscopy; details are described herein. This small
+diatom is characterized by: 1) a concave raphid valve with a straight raphe inclined from the apical axis, central area
+forming stauros, and uniseriate striae consisting of circular areolae occluded by hymens: 2) a twisted convex araphid
+valve with a narrow lanceolate sternum inclined from the apical axis, and uniseriate striae consisting of several loculate
+areolae occluded by hymens: and 3) a cingulum consisting of three non fimbriated girdle bands including a valvocopula.
+Key words: Bacillariophyta, Cocconeis tortilis, Japan, marine diatom, new species
+
+Introduction
+This report is a continuation of our previous papers dealing with morphological and taxonomic investigations of
+species in the genus Cocconeis (Ehrenberg 1837: 173; Nagumo & Kobayasi 1985, Suzuki et al. 2001). In the
+present study, an unrecognized species of Cocconeis was found growing on seaweed (e.g. Codium intricatum
+Okamura 1913: 74) and the seagrass Zostera japonica Ascheron & Graebner (1907: 32) from the coasts of Izu
+Islands, Minami-Daito Island and Okinawa Islands, both affected by the Kuroshio Current. It has been named C.
+tortilis Hide. Suzuki sp. nov. and is described using light (LM), scanning and transmission electron microscopy
+(SEM and TEM); it is compared to similar taxa.
+
+Material and methods
+Samples were obtained from seaweeds and seagrass collected from the intertidal zone of the North Pacific coast of
+Japan at the following localities (Fig. 1):
+I. Tsuchikata beach (34°04’20”N, 139°28’41”E), Miyake Island, the Izu Islands, Tokyo, epiphytic on Codium
+intricatum (Codiaceae, Ulvophyceae) collected by A. Takahashi on 3 July 2012, material and slide BM 101683 and
+MTUF-AL-43010;
+II. Shioma beach (33°04’06”N, 139°50’07”E), Hachijo Island, the Izu Islands, Tokyo, epiphytic on
+Asparagopsis taxiformis (Delie) Trevisan (Bonnemaisoniaceae, Rhodophyceae) collected by A. Kobayashi on 28
+June 2003, material MTUF-AL-43011;
+III. Honba beach (25°52’19”N, 131°14’58”E), Minami-Daito Island, the Daito Islands, Okinawa Pref.,
+epiphytic on Jania sp. (Corallinaceae, Rhodophyceae) collected by T. Nagumo on 17 Feb. 2004, material MTUFAL-43012;
+IV. Eef beach (26°19’54”N, 126°48’39”E), Kume Island, the Okinawa Islands, Okinawa Pref., epiphytic on the
+Accepted by Patrick Kociolek: 5 Feb. 2014; published: 28 Feb. 2014
+
+219
+
+seagrass Zostera japonica (Zosteraceae, Liliopsida) collected by Y. Mikame on 31 May 2010, material MTUF-AL43013; and
+V. Shinri Beach (26°21’18”N, 126°42’50”E), Kume Island, the Okinawa Islands, Okinawa Pref., epiphytic on
+Boodlea coacta (Dickie) G.Murray & De Toni (Boodleaceae, Ulvophyceae) collected by Y. Mikame on 31 May
+2010, material MTUF-AL-43014.
+Samples and type slides were deposited at BM (BM 101683) and the Algae Collections of the Museum of
+Fishery Sciences, Tokyo University of Marine Science and Technology, Japan (MTUF-AL-43010-43014).
+
+FIGURE 1: Map of the 5 sampling sites in the North Pacific coast of Japan (arrows). Numbers (I–V) correspond to those in text.
+
+All samples were fixed with 2.5 % glutaraldehyde solution.
+The material was treated using the bleaching method described by Nagumo & Kobayasi (1990), Nagumo
+(1995) and Osada & Nagumo (2001). Light and electron microscopy techniques are described in Nagumo &
+Kobayasi (1985) and Suzuki et al. (2001). Prepared specimens were examined using HITACHI S-5000 SEM and
+JEOL-2000EX TEM (The Nippon Dental University School of Life Dentistry at Tokyo) operating at 2kVand 80
+kV, respectively.
+The valves’ size was determined from measurements of 30 valves; striae density was measured in 15 valves
+using TEM as the striae are difficult to observe accurately by LM.
+The terminology for the parts of the valve and girdle follow Anonymous (1975), Ross et al. (1979) and Cox
+(2012), with additional terms from Kobayasi et al. (2006).
+
+220 •
+
+Phytotaxa 161 (3) © 2014 Magnolia Press
+
+SUZUKI ET AL.
+
+New species description
+Division Bacillariophyta
+Class Bacillariophyceae
+Order Achnanthales Silva 1962
+Family Cocconeidaceae Kützing 1844
+Genus Cocconeis Ehrenberg 1837
+Cocconeis tortilis Hide. Suzuki, sp. nov. (Figs 2–35)
+Type:—JAPAN. Tsuchikata beach (34°04’20”N, 139°28’41”E), Miyake Island, the Izu Islands, Tokyo, collected from surface
+of Codium intricatum on 3rd July 2012 (holotype! BM 101683, designated here = Figs 2, 4; isotype! MTUF-AL-43010,
+designated here, the Algae Collections of the Museum of Fishery Sciences, Tokyo University of Marine Science and
+Technology, Japan.
+
+FIGURES 2–11: Cocconeis tortilis. LM (2–5), TEM (6–9) and SEM (10, 11), holotype and other specimens. Figs 2–5: Focused for
+raphid valves (RV) (Figs 2, 3) and araphid valves (ARV) (Figs 4, 5) of the same frustule. Figs 2, 4: Specimens from holotype slide.
+Figs 6–9: RV (Figs 6, 7) and ARV (Figs 8, 9). Fig. 10: C. tortilis (arrowheads), epiphytic on Codium intricatum. Fig. 11: C. tortilis,
+epiphytic on Asparagopsis taxiformis.
+
+COCCONEIS TORTILIS: A NEW MARINE DIATOM FROM JAPAN
+
+Phytotaxa 161 (3) © 2014 Magnolia Press
+
+• 221
+
+The frustule is heterovalvate. The valve is small, elliptic to oval, and twisted (Figs 2–9), measuring 10.4–17.2 µm
+in length, 7.2–11.6 µm in breadth. Striae densities at the centre of the valves are 33–45 in 10 µm for the raphid
+valve (RV), 43–55 in 10 µm for the araphid valve (ARV). The RV is slightly concave (Fig. 12). The raphe is
+straight, and inclined from the apical axis (Figs 2, 3, 6, 7). The inner raphe lie in a very narrow, but raised, axial
+area (Fig. 13). The proximal raphe ends are coaxial and slightly-dilated externally (Fig. 15) but internally they are
+undilated and deflected in opposite directions (Fig. 17). The distal raphe ends are elliptically-dilated externally
+(Fig. 14) but, internally, terminate in short helictoglossae (Fig. 16, arrow). The central area is rhombic in shape
+(Figs 6, 7) and extending laterally to the valve margin in one stria’s width (Figs 12, 13, 18, 19). This area is flat on
+the outer surface (Figs 15, 18, 19) and slightly raised on the inner surface (Figs 13, 17), forming a stauros (Figs 18,
+19, asterisks). The striae consist of small round areolae, and are radiate and uniseriate (Fig. 12). Each areola is
+circular and occluded by a hymen with perforations arranged in a centric array (Figs 20, 21). A submarginal
+hyaline area is not recognizable; a narrow marginal hyaline area is visible (Fig. 12). The terminal hyaline area is
+small and elliptical, and extends to the marginal hyaline one (Figs 12, 14).
+
+FIGURES 12–21: Cocconeis tortilis, SEM (12–19, 21) and TEM (20), raphid valves (RV). Figs 12, 14, 15, 18, 19, 21: External views.
+Figs 13, 16, 17: Internal views. Figs 12, 13: Whole valves. Figs 14, 16: Distal raphe ends in terminal area. Arrow indicates
+helictoglossa. Figs 15, 17: Proximal raphe ends in central area. Figs 18, 19: Central areas extending laterally to the valve margin,
+forming the stauros (asterisks). Figs 20, 21: Areolae occluded by the hymenes with linear perforations in a centric array.
+
+The ARV is convex (Fig. 22) and twisted (Figs 11, 34). The ARV (Fig. 23) is thicker than the RV (Fig. 13). The
+sternum, inclined from the apical axis (Fig. 35, dashed line), is a narrow furrow on the outer surface (Fig. 22), and
+narrow lanceolate internally (Figs 8, 9, 23). In some valves, a vestigial raphe is observed (Fig. 25, arrows). The
+
+222 •
+
+Phytotaxa 161 (3) © 2014 Magnolia Press
+
+SUZUKI ET AL.
+
+striae that consist of several loculate areolae (Fig. 24) are radiate and uniseriate (Fig. 22). Each areola is occluded
+by a hymen located near the outer surface (Fig. 28, arrows), internally, opens by means of a circular to elliptic
+foramen (Figs 23, 25). The perforations of the hymen are linear, oblique and arranged in a parallel array (Figs 26,
+27).
+The mature cingulum consists of three girdle bands (Figs 29, 30): a valvocopula and two bands (the second and
+the third bands), which are both narrower and thinner than the valvocopula. The valvocopula of each valve is open
+at one pole (Figs 31–33, arrows) and has no fimbriae and areolae; their inner edges are smooth (Figs 31, 33). The
+second band, adjacent to the valvocopula, is open at the opposite pole (Fig. 30) and possesses a ligula (Fig. 29).
+The third band is also open (Fig. 29). The valvocopula of each valve is open at a place slightly shifted from one
+distal end of the raphe or sternum (Figs 31–35, arrows). This is similar to the second and third bands; the
+disordered of arrangement of striae, known as the “Voigt fault” (Voigt 1956) can be observed here (Figs 29, 30,
+arrows).
+Etymology:—From the Latin tortilis (twisted), referring to the twisted appearance of the valve plane.
+Distribution and ecology:—Cocconeis tortilis has been found in the Izu, Daito, and Okinawa Islands affected
+by the Kuroshio Current, which is a north-flowing warm ocean current on the west side of the North Pacific Ocean,
+and grows abundantly on the spherical utricles of Codium intricatum in Miyake Island, Japan (Fig. 10, arrowheads)
+and on the fine branches of Asparagopsis taxiformis in Hachijo Island, Japan (Fig. 11).
+Observations:—Cocconeis tortilis has the following characteristics of the genus (after Round et al. 1990):
+1) heterovalvar; one valve (RV) with a raphe, the other (ARV) without;
+2) valves elliptical or almost circular;
+3) RV concave with a correspondingly convex ARV;
+4) areolae occluded by hymens with linear perforations;
+5) terminal raphe endings without fissures;
+6) central raphe endings externally simple or slightly expanded, internally deflected towards opposite sides; and
+7) cingulum consisting of a few narrow, non-areolae bands.
+Our study suggests that C. tortilis is most similar to C. molesta Kützing var. crucifera Grunow (in Van Heurck
+1880–1885: pl. 30, figs 20–23; Kobayasi & Nagumo 1985, De Stefano et al. 2000), C. dirupta Gregory (1857: 491;
+Kobayasi & Nagumo 1985), and C. convexa Giffen (1967: 257; Suzuki et al. 2001, De Stefano & Romero 2005),
+but can be distinguished from each other by several characters (listed in Table 1).
+TABLE 1. Comparison of Cocconeis tortilis with C. molesta var. crucifera, C. dirupta and C. convexa in morphological attributes.
+C. tortilisa
+
+C. molesta var. crucifera b, c, e C. diruptab
+
+C. convexad, f
+
+Apical axis (µm)
+
+10.4–17.2
+
+b
+
+18.0, 16.0–18.0, 12.0–21.0 14.0–30.0
+
+d
+
+14.5–22.5, f14.0–30.0
+
+Transapical axis (µm)
+
+7.2–11.6
+
+b
+
+7.0, c7.5–9.0, e8.5–16.0
+
+9.0–23.0
+
+d
+
+12.0–17.0, f8.6–20.0
+
+Valve shape
+
+Elliptic to oval
+
+Broad elliptic
+
+Broad elliptic to elliptic
+
+Rhombic to elliptic
+
+Density of striae in 10 µm
+
+33–45
+
+b
+
+30, c28–30, e20–30
+
+22
+
+d
+
+Shape of raphe
+
+Straight
+
+Straight
+
+Sigmoid
+
+Straight
+
+Characteristics
+
+c
+
+e
+
+Raphid valve
+24–28, f30–34
+
+Central area
+
+Stauros
+
+Not stauros
+
+Stauros
+
+Not stauros
+
+Position between raphe and apical axis
+
+Inclined
+
+Not inclined
+
+Not inclined
+
+Not inclined
+
+Density of striae in 10 µm
+
+43–55
+
+b
+
+38, c35–37, en.d.
+
+20
+
+d
+
+Curvature of valve
+
+Convex and twisted
+
+Strongly convex
+
+Convex
+
+Strongly convex
+
+Shape of sternum
+
+Narrow lanceolate
+
+Not lanceolate, linear
+
+Sigmoid, lanceolate
+
+Narrow lanceolate
+
+Position between sternum and apical axis
+
+Inclined
+
+Not inclined
+
+Not inclined
+
+Not inclined
+
+Structure of areola
+
+Loculate
+
+Loculate
+
+Loculate
+
+Alveolate
+
+Araphid valve
+36–40, f34–38
+
+Occlusion of areola
+
+Elongate hymen
+
+Two horseshoe shaped
+
+Elongate hymen
+
+Elongate hymen
+
+Arrangement of hymen perforations
+
+Parallel array
+
+Parallel array
+
+Parallel array
+
+Parallel array
+
+Fimbriae and areolae
+
+None
+
+None
+
+None
+
+None
+
+Inner edge
+
+Smooth
+
+Smooth
+
+Smooth
+
+Smooth
+
+Girdle bands
+
+a
+
+This study, b Kobayasi and Nagumo (1985), cDe Stefano et al. (2000), dSuzuki et al. (2001), eSar et al. (2003), fDe Stefano and Romero (2005), n.d.: no data.
+
+COCCONEIS TORTILIS: A NEW MARINE DIATOM FROM JAPAN
+
+Phytotaxa 161 (3) © 2014 Magnolia Press
+
+• 223
+
+Cocconeis tortilis has the following unique characters:
+1. The ARV plane is twisted; and
+2. the raphe in the RV and the sternum in the ARV are inclined from the apical axes.
+
+FIGURES 22–28: Cocconeis tortilis, SEM (22–26, 28) and TEM (27), araphid valves (ARV). Figs 22, 24, 26: External views. Figs
+23, 25, 28: Internal views. Figs 22, 23: Whole valves. Figs 24, 25: Valves between the axial and marginal area. Figs 26, 27: Areolae
+occluded by the hymenes with perforations in a parallel array. Fig. 28: Loculate areolae occluding by hymenes (arrows) located near
+the outer surface.
+
+These characters have not been observed in any other species of Cocconeis, and are thus diagnostic for
+Cocconeis tortilis. C. tortilis can be readily distinguished from C. molesta var. crucifera in having a central area not
+forming stauros in the RV, in having an areola occluded by two ‘horseshoe shaped’ hymens and a linear sternum of
+ARV and in having a lower density of the striae on both valves (30, 28–30 in 10 µm on the RV, 38, 35–37 in 10 µm
+on the ARV; Kobayasi & Nagumo 1985, De Stefano et al. 2000, respectively); it can be distinguished from C.
+
+224 •
+
+Phytotaxa 161 (3) © 2014 Magnolia Press
+
+SUZUKI ET AL.
+
+dirupta in having a sigmoid raphe of RV, in having a sigmoid sternum of ARV and in having a lower density of the
+striae on both valves (22 in 10 µm on the RV, 20 in 10 µm on the ARV; Kobayasi & Nagumo 1985); it can be
+distinguished from C. convexa in having a central area not forming stauros of RV, in having an alveolate areola of
+ARV and in having a lower density of the striae on both valves (24–28, 30–34 in 10 µm on the RV, 36–40, 34–38 in
+10 µm on the ARV; Suzuki et al. 2001, De Stefano & Romero 2005, respectively).
+
+FIGURES 29–35: Cocconeis tortilis, SEM (29–31, 33–35) and LM (32), cingula. Fig. 29: Valvocopula (VC), and the second (S) and
+the third (T) bands of ARV. Fig. 30: Opposite pole. Arrows indicate the disorder of arrangement of striae. Figs 31, 33: Internal views
+of the poles of RV and ARV with valvocopula (VC), respectively. Arrows indicate the open parts of valvocopula. Fig. 32: Valvocopula
+of ARV. Arrow indicates the open part of valvocopula. Figs 34, 35: Open parts (arrows) of each band of ARV. Note that the sternum is
+inclined from the apical axis (dashed line).
+
+Acknowledgements
+Thanks are due Dr David Williams, Life Sciences Department, the Natural History Museum, London, who has read
+thorough the entire manuscript and made a number of helpful suggestions. We are grateful to Dr Atsushi
+Kobayashi, Kanto Daiichi High School, and Ms. Yurika Mikame and Mr. Akihiro Takahashi, graduate students of
+Graduate School of Marine Science and Technology, Tokyo University of Marine Science and Technology for
+
+COCCONEIS TORTILIS: A NEW MARINE DIATOM FROM JAPAN
+
+Phytotaxa 161 (3) © 2014 Magnolia Press
+
+• 225
+
+providing us with the samples treated herein. We thank anonymous reviewers for valuable suggestions and
+comments. This work has been partially supported by a Grant in Aid for Scientific Research (C: 24580261 &
+25450272) from the Japan Society of the Promotion of Science.
+
+References
+Anonymous (1975) Proposals for a standardization of diatom terminology and diagnoses. Nova Hedwigia, Beiheft 53: 323–
+354.
+Ascherson, P. & Graebner, P. (1907) Potamogetonaceae. In: Engler, A. (ed.) Das Pflanzenreich heft 31. Wilhelm Englemann,
+Leipzig. 184 pp.
+Cox, E.J. (2012) Ontogeny, homology and terminology – wall morphogenesis as an aid to character recognition and character
+state definition for pennate diatom systematics. Journal of Phycology 48: 1–31.
+http://dx.doi.org/10.1111/j.1529-8817.2011.01081.x
+De Stefano, M. & Romero, O. (2005) Survey of alveolate species of the diatom genus Cocconeis (Ehr.) with remarks on the
+new section Alveolatae. Bibliotheca Diatomologica 52: 1–132.
+De Stefano, M., Marino, D. & Mazzella, L. (2000) Marine taxa of Cocconeis on leaves of Posidonia oceanica, including a new
+species and two new varieties. European Journal of Phycology 35: 225–242.
+http://dx.doi.org/10.1080/09670260010001735831
+Ehrenberg, C.G. (1837) Zusätze zur Erkenntniss grosser organischer Ausbildung in den kleinsten thierischen Organismen.
+Abhandlungen der Königlichen Akademie der
+Wissenschaften zu Berlin 1835: 151–180.
+Giffen, M.H. (1967) Contributions to the diatom flora of South Africa III. Diatoms of the marine littoral regions at Kidd's
+Beach near east London, Cape Province, South Africa. Nova Hedwigia 13: 245–292
+Gregory, W. (1857) On new forms of Marine Diatomaceae, found in the Firth of Clyde and in Loch Fine. Transactions of the
+Royal Society of Edinburgh 21: 473–542.
+http://dx.doi.org/10.1017/s0080456800032269
+Kobayasi, H. & Nagumo, T. (1985) Observations on the valve structure of marine species of the diatom genus Cocconeis Ehr.
+Hydrobiologia 127: 97–103.
+http://dx.doi.org/10.1007/bf00004189
+Kobayasi, H., Idei, M., Mayama, S., Nagumo, T. & Osada, K. (2006) H. Kobayasi's Atlas of Japanese Diatoms Based on
+Electron Microscopy 1. Uchida Rokakuho, Tokyo. 533 pp.
+Kützing, F.T. (1844) Die Kiselschaligen Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+http://dx.doi.org/10.1080/037454809495289
+Nagumo, T. (1995) Simple and safe cleaning methods for diatom samples [in Japanese]. Diatom 10: 88.
+Nagumo, T. & Kobayasi, H. (1990) The bleaching method for gently loosening and cleaning a single diatom frustule. Diatom 5:
+45–50.
+Okamura, K. (1913) Icones of Japanese algae. Vol. III, pp. 1–77, pls CI–CXX. Tokyo: published by the author.
+Osada, K. & Nagumo, T. (2001) An introduction to diatom research. Bulletin of Nippon Dental University, General Education
+30: 131–142
+Ross, R., Cox, E.J. Karayeva, N.I., Mann, D.G., Paddock, T.B.B., Simonsen, R. & Sims, P.A. (1979) An amended terminology
+for the siliceous components of the diatom cell. Nova Hedwigia, Beiheft 64: 513–533.
+Round, F.E., Crawford, R.M. & Mann, D.G. (1990) The diatoms: biology and morphology of the genera. Cambridge University
+Press, Cambridge. 747 pp.
+http://dx.doi.org/10.1017/s0025315400059245
+Silva, P.C. (1962) Classification of algae. In: Lewin, R.A. (ed.), Physiology and biochemistry of algae. Academic Press, New
+York and London, pp. 827–837.
+Suzuki, H., Nagumo, T. & Tanaka, J. (2001) Morphology of the marine epiphytic diatom Cocconeis convexa Giffen
+(Bacillariophyceae). Diatom 17: 59–68.
+Van Heurck, H. (1880–1885) Synopsis des diatomées de Belgique. Texte & Atlas. Ducaju & Cie., Anvers. 235+120 pp. 135 pls.
+http://dx.doi.org/10.5962/bhl.title.1990
+Voigt, M. (1956). Sur certaines irrégulariés dans la structure des Diatomées. Revue Algologique, nouvelle série, 2: 85–97.
+
+226 •
+
+Phytotaxa 161 (3) © 2014 Magnolia Press
+
+SUZUKI ET AL.
+
+

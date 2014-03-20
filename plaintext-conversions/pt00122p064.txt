@@ -1,0 +1,220 @@
+Phytotaxa 122 (1): 61–64 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.122.1.3
+
+Taxonomic novelties in the fern genus Tectaria (Tectariaceae)
+HUI-HUI DING1,2, YI-SHAN CHAO3 & SHI-YONG DONG1*
+1
+
+Key Laboratory of Plant Resources Conservation and Sustainable Utilization, South China Botanical Garden, Chinese Academy of
+Sciences, Guangzhou 510650, China.
+2
+Graduate University of the Chinese Academy of Sciences, Beijing 100093, China.
+3
+Division of Botanical Garden, Taiwan Forestry Research Institute, Taipei 10066, Taiwan.
+* Corresponding author: dongshiyong@scib.ac.cn
+
+Abstract
+The misapplication of the name Tectaria griffithii is corrected, which results in the revival of T. multicaudata and the
+proposal of a new combination (T. multicaudata var. amplissima) and two new synonyms (T. yunnanensis and T.
+multicaudata var. singaporeana). For the reduction of Psomiocarpa and Tectaridium (previously monotypic genera) into
+Tectaria, T. macleanii (new combination) and T. psomiocarpa (new name) are proposed as new combinations. In
+addition, the new name Tectaria subvariolosa is put forward to replace a later homonym (T. stenosemioides).
+Key words: nomenclature, Psomiocarpa, taxonomy, Tectaridium
+
+Introduction
+Tectaria Cavanilles (1799) (Tectariaceae) is a fern genus frequent in tropical regions, with most species
+growing terrestrially in rain forests. This group is remarkable for its extremely diverse morphology, and the
+estimated number of species ranges from 150 (Tryon & Tryon 1982; Kramer 1990) to 210 (Holttum 1991a).
+Holttum (1991a) recognized 105 species in Tectaria from Malesia and presumed that SE Asia is its center of
+origin. In SE Asia outside Malesia, the exact number of species in Tectaria remains unknown due to lack of a
+modern treatment since the first revision for the area (Ching 1931). Though several regional revisions were
+carried out in last decades (e.g., Tagawa & Iwatsuki 1988, Wang 1999, Chandra 2000), the delimitation of
+Tectaria, especially the species concept, is different from author to author.
+During an attempt to revise the taxonomy of Tectaria in mainland Asia and to explore the phylogenetic
+concept of Tectaria, we have made some studies of herbarium material and simultaneously conducted
+phylogenetic analyses based on cpDNA sequences in recent years. Before presenting our molecular results,
+we thought it necessary to clarify some confusion on species identities.
+
+Taxonomic treatment
+Tectaria griffithii (Baker) C.Christensen (1934: 180).
+Basionym:—Nephrodium griffithii Baker in Hooker & Baker (1867: 300). Type:—MYANMAR. Without locality,
+without date, Griffith s.n. (holotype K!).
+= Nephrodium yunnanense Baker (1906: 11); Tectaria yunnanensis (Baker) Ching (1931: 24), syn. nov. Type:—CHINA.
+Yunnan: Mengtze, Red river mountains, without date, Hancock 193 (holotype K!).
+
+Note:—Tectaria griffithii has long been confused with T. multicaudata (Clarke 1880: 540) Ching (1931: 20).
+Both Ching (1931) and Holttum (1991a, b) considered the two species as conspecific, albeit Ching (1931)
+Accepted by Marcus Lehnert: 16 July 2013; published: 8 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+61
+
+took T. multicaudata as the accepted name while Holttum (1991a, b) adopted T. griffithii. In fact, T. griffithii
+and T. multicaudata are distinct in the venation pattern. The holotype of T. griffithii (Griffith s.n., K) is
+characterized by having fully anastomosing veins, vein areoles mostly with free veinlets included, and lacking
+costal or costular areoles (Fig. 1a). The holotype of T. multicaudata (Clarke 18427, K) has partly
+anastomosing veins that form narrow areoles immediately beside costae or costules, without included free
+veinlets (or rarely occurring) in areoles (Fig. 1b). Noticeably, the feature of venation was clearly stated in the
+protologues of T. griffithii and T. multicaudata. Baker described the venation of T. griffithii as having “main
+veins distinct to the edge, with copious free included veinlets” (Hooker & Baker 1867: 300). For the venation
+of T. multicaudata, Clarke stated that “I can see little difference in the venation and sori between this and
+Nephrodium cicutarium var. coadunata” (Clarke 1880: 540). As we know, N. cicutarium var. coadunata
+mentioned by Clarke is nowadays T. coadunata (Smith 1842: 184) C.Christensen (1931: 331), which is
+characterized by veins forming costal and costular areoles lacking free included veinlets (Holttum 1991a).
+Unfortunately, later authors ignored the easily recognizable difference of venation between the two species. It
+is notable that the venation in such two conditions (costal areoles present or not) is the sole difference between
+two sections of Tectaria proposed by Holttum (1988, 1991a). According to Holttum’s subdivision of Tectaria,
+T. multicaudata should be grouped into sect. Sagenia, whereas T. griffithii to sect. Tectaria.
+Tectaria yunnanensis is included here in T. griffithii. When comparing the holotypes of both species, we
+found that they are similar in nearly all important characters, such as coarsely dissected fronds, fully
+anastomosing veins without costal or costular areoles, large sori in two rows between main veins, and sori
+rather deeply impressed on abaxial surface of lamina. They doubtless represent a single species. It is also
+noticed that there are no scales above the base of stipes in this species. Scaly stipes, previously considered a
+diagnostic character of T. griffithii (e.g., Holttum 1988, Tagawa & Iwatsuki 1988, Wang 1999), is actually a
+characteristic feature of T. multicaudata.
+Tectaria macleanii (Copel.) S.Y.Dong, comb. nov.
+Basionym:—Tectaridium macleanii Copeland (1926: 329). Type:—PHILIPPINES. Luzon: Cagayan (West Mountain,
+Claveria), 29 December 1919, Maclean & Catatan 84 (neotype MICH, isoneotype CAS, all original material
+destroyed in 1945 at PNH).
+= Tectaridium primitivum Copeland (1926: 329). Type:—PHILIPPINES. Leyte: Buenavista (Jaro), 9 June 1914, Wenzel
+876 (holotype PNH, destroyed, isotypes F, MO, NY, UC).
+
+Note:—Tectaridium Copeland (1926: 329) is a monotypic genus in the Philippines (Holttum 1991a). In our
+phylogenetic trees based on six cpDNA sequences (Ding et al., unpubl. data), however, the sample of
+Tectaridium was well resolved in a monophyletic clade with other Tectaria species. So the transfer of
+Tectaridium macleanii into Tectaria is needed.
+Tectaria multicaudata (C.B.Clarke) Ching (1931: 20).
+Basionym:—Nephrodium multicaudatum Clarke (1880: 540). Type:—BANGLADESH. Sylhet, 30 November 1887,
+Clarke 18427 (holotype K!).
+Tectaria griffithii auct. non (Baker) Christensen (1934: 180), Holttum (1991a: 54), pro parte, excluding the type of T.
+griffithii.
+= Tectaria griffithii var. singaporeana Holttum (1991b: 551), syn. nov. Type:—SINGAPORE. Bukit Timah, January
+1908, Matthew s.n. (holotype K!).
+
+≡
+
+Note:—As stated above, Tectaria multicaudata is a separate species from T. griffithii. They are distinct in the
+venation pattern, i.e., costal and costular areoles are present in T. multicaudata but absent in T. griffithii (Fig. 1).
+Holttum (1991b) proposed two varieties under his misunderstood Tectaria griffithii, i.e., T. griffithii var.
+singaporeana and T. griffithii var. amplissima, both having costal and costular areoles of veins. The only
+difference between the two varieties is “veins all free in lobes of fertile pinnae” in “T. griffithii var.
+singaporeana” but “veins amply anastomosing in fertile fronds” in “T. griffithii var. amplissima” (Holttum
+1991b). When carefully comparing a large number of specimens of T. multicaudata in herbaria, we found the
+
+62 •
+
+Phytotaxa 122 (1) © 2013 Magnolia Press
+
+DING ET AL.
+
+form of veins of “T. griffithii var. singaporeana” falling within the variation range of veins of T. multicaudata.
+Therefore we propose to include T. griffithii var. singaporeana in T. multicaudata. The holotype of the second
+variety, T. griffithii var. amplissima, however, represents a distinct taxon, which is transferred to T.
+multicaudata as a variety.
+Tectaria malayensis (Christ 1907: 187) Copeland (1907: 416) was submerged by Holttum (1991a) under
+his misapplied T. griffithii. It was based on a collection from Luzon (Loher 858, K!) with the same venation
+pattern of T. multicaudata. If T. malayensis will be eventually proved to be a synonymous name, it should be
+reduced to T. multicaudata instead of T. griffithii.
+
+FIGURE 1. Comparison of the venation between Tectaria griffithii (Baker) C.Chr. (a) and T. multicaudata (C.B.Clarke) Ching (b). a)
+Portion of a pinnule on basal pinna, based on the holotype of T. griffithii (Griffith s.n., K); b) portion of a pinnule on basal pinna, based
+on the holotype of T. multicaudata (Clarke 18427, K).
+
+Tectaria multicaudata var. amplissima (Holttum) S.Y.Dong, comb. nov.
+Basionym:—Tectaria griffithii var. amplissima Holttum (1991b: 551). Type:—INDONESIA. Sumatra: Padang Panjang
+(Bukit Tilabung), 9 January 1913, Matthew s.n. (holotype K!).
+
+Note:—As Holttum (1991a, b) has pointed out, T. multicaudata var. amplissima has rather finely dissected
+fronds with as many as six pairs of pinnules on the basal pinnae. In contrast, the fronds are not so dissected
+with only one or rarely two pinnules on basal pinna in T. multicaudata var. multicaudata.
+Tectaria psomiocarpa S.Y.Dong, nom. nov. for Polybotrya apiifolia J.Sm. ex Kunze (1844: 142). Psomiocarpa
+apiifolia (J.Sm. ex Kunze) Presl (1851: 161). Acrostichum apiifolium (J.Sm. ex Kunze) Hooker (1864: 248).
+Type:—PHILIPPINES. Luzon, 1936–1940, Cuming 26 (holotype MICH!, isotypes E!, MO!, P!).
+Blocking name:—Tectaria apiifolia (Schkuhr 1809: 198) Copeland (1907: 410). Type:—JAMAICA. Without locality,
+Sloane s.n. (holotype? BM!).
+
+Note:—Psomiocarpa C.Presl (1851: 161) is currently an accepted genus containing only one species, P.
+apiifolia (Schkuhr) Copeland (1907: 410) (Holttum 1991a). Our molecular analyses (Ding et al., unpubl.
+data), however, do not support the monophyly of Psomiocarpa, as P. apiifolia is constantly embedded with
+Tectaria species in all resulting phylogenetic trees. Thus, in taxonomic treatment P. apiifolia should be
+transferred into Tectaria. Since an earlier T. apiifolia (Schkuhr) Copeland (1907: 410) exists, which is based
+on material from Jamaica, we have to propose a new name for P. apiifolia, Tectaria psomiocarpa.
+
+TAXONOMIC NOVELTIES IN THE FERN GENUS TECTARIA
+
+Phytotaxa 122 (1) © 2013 Magnolia Press
+
+• 63
+
+Tectaria subvariolosa S.Y.Dong, nom. nov. for Tectaria stenosemioides Tardieu & C.Christensen (1938: 88).
+Type:—VIETNAM. Quang Tri: Vinh Linh (Liem-Cong), July 1910, Cadière 14 (holotype P!, isotypes BM!, P!).
+Blocking name:—Tectaria stenosemioides (van Alderwerelt van Rosenburgh 1920: 164) Christensen (1934: 184).
+Type:—INDONESIA. Sumatra: Sibolangit, 4 June 1917, Lorzing 5161 (holotype BO).
+
+Acknowledgements
+We would like to thank the head and the staff for supplying facilities for the senior author during his visit in
+2008 to 2012 in these herbaria: BM, BO, E, K, KUN, L, P, PE, and PYU. This study is funded by National
+Nature Science Foundation of China (grants 31110103911 & 31270258) and by Main Direction Program of
+Knowledge Innovation of Chinese Academy of Sciences (grant no. KSCX2-EW-Z-1).
+
+References
+Baker, J.G. (1906) Filices Chinensis, in Decades Kewenses XXXVI-XL. Bulletin of Miscellaneous Information Kew 1906: 8–
+15.
+Cavanilles, A.J. (1799) Helechos propiamente dichos, esto es, Helechos dorsíferos. Anales de Historia Natural 1: 109–115.
+Chandra, S. (2002) The ferns of India. International Book Distributors, Dehra Dun, 459 pp.
+Ching, R.-C. (1931) The studies of Chinese ferns VII, a revision of the genus Tectaria from China and Sikkim-Himalaya.
+Sinensia 2: 9–36.
+Christ, H. (1907) Spiciligium filicum Philippinensium novarum aut imperfecte cognitarum. The Philippine Journal of Science
+2: 153–188.
+Christensen, C. (1931) Asiatic Pteridophyta collected by Joseph F. Rock 1920–1924. Contributions from the United States
+National Herbarium 26: 265–337.
+Christensen, C. (1934) Index Filicum, Supplement tertium. H. Hagerup, Copenhagen, 219 pp.
+Clarke, C.B. (1880) A revision of the ferns of northern India. The Transactions of the Linnean Society of London II, Botany 1:
+425–611.
+Copeland, E.B. (1907) A revision of Tectaria with special regard to the Philippine species. The Philippine Journal of Science 2:
+409–418.
+Copeland, E.B. (1926) Filices aliquot novae orientales. The Philippine Journal of Science 30: 325–331.
+Holttum, R.E. (1988) Studies in the fern genera allied to Tectaria Cav. VII, species of Tectaria sect. Sagenia (Presl) Holttum in
+Asia excluding Malesia. Kew Bulletin 43: 475–489.
+http://dx.doi.org/10.2307/4118979
+Holttum, R.E. (1991a) Flora Malesiana, series II, Pteridophyta, vol. 2, part 1, Tectaria group. Rijksherbarium / Hortus
+Botanicus, Leiden, 132 pp.
+Holttum, R.E. (1991b) New taxa in the Tectaria group (Polypodiaceae) from Malesia. Blumea 35: 547–557.
+Hooker, W.J. (1864) Species Filicum, vol. 5. London, 314 pp.
+Hooker, W.J. & Baker, J.G. (1867) Synopsis filicum. London, 482 pp.
+Kramer, K.U. (1990) Dryopteridaceae. In: Kubitzki, K. (ed.) The Families and Genera of Vascular Plants, vol. I, Pteridophytes
+and Gymnosperms. Springer-Verlag, Berlin, pp. 101–144
+Kunze, G. (1844) Dir Farrnkräuter in kolorirten Abbildungen, naturgetreu erläutert und beschrieben, 1. Ernst Fleischer,
+Leipzig, 28 pp.
+Presl, C. (1851) Epimeliae Botanicae. A. Haase, Prague, 264 pp.
+Schkuhr, C. (1809) Vier und zwanzigste Klasse des Linnéischen Pflanzensystems oder Kryptogamishe Gewächse 1. Wittenberg,
+212 pp.
+Smith, J. (1842) Arrangement and definition of the genera of ferns, with observations on the affinities of each genus. Hooker’s
+Journal of Botany 4: 147–198.
+Tagawa, M. & Iwatsuki, K. (1988) Flora of Thailand, vol. 3, part 3. Forest Herbarium, Bangkok, 170 pp.
+Tardieu-Blot, M. & Christensen, C. (1938) Les Fougères d’Indochine XIV, Dryopteridaceae. Notulae Systematicae, Herbier du
+Museum de Paris 7: 65–104.
+Tryon, R.M. & Tryon, A.F. (1982) Ferns and allied plants with special reference to Tropical America. Springer-Verlag, New
+York, 857 pp.
+van Alderwerelt van Rosenburgh, C.R.W.K. (1920) New or interesting Malayan ferns 11. Bulletin de l'Institut Botanique de
+Buitenzorg, ser. 3, 2: 129–186.
+Wang, C.-H. (1999). Aspidiaceae. In: Wu, S.H. (ed.) Flora Reipublicae Popularis Sinicae, vol. 6, part 1. Science Press,
+Beijing, pp. 1–103.
+
+64 •
+
+Phytotaxa 122 (1) © 2013 Magnolia Press
+
+DING ET AL.
+
+

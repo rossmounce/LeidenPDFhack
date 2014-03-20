@@ -1,0 +1,62 @@
+Phytotaxa 132 (1): 64 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.132.1.7
+
+A new combination in Thelypteridaceae
+JAIDEEP MAZUMDAR
+Department of Biological Sciences, Burdwan Town School, Burdwan-713101, India.
+E-mail: jaideepmazumdar10@gmail.com
+
+Sledge (1981) described the fern Trigonospora obtusiloba Sledge (1981: 18) of Thelypteridaceae as a new
+endemic species from Sri Lanka. Fraser-Jenkins (2008: 595) suspected that this species was a probable
+synonym of Cyclosorus caudipinna (Ching) Panigrahi (1993: 66) but it differs from C. caudipinna in smaller
+size and lack of caudate pinnae apices (Sledge 1981). It can further be distinguished by its strongly dimorphic
+fronds, i.e., fertile fronds have narrower pinnae and longer stipes than sterile fronds. This is clearly evident in
+all specimens listed below and has not been reported from any other species of Cyclosorus subgenus
+Trigonospora (Holttum) Panigrahi (1991: 13). Since the opinion of Fraser-Jenkins (2008) is not supported, it
+is logical to maintain T. obtusiloba as a distinct species until further molecular data clarify its position.
+According to present generic concept of Thelypteridaceae (Christenhusz et al. 2011, Rothfels et al. 2012) T.
+obtusiloba should be transferred to Cyclosorus Link (1833: 128) and consequently a new combination under
+Cyclosorus is proposed here.
+Cyclosorus obtusilobus (Sledge) J.Mazumdar comb. nov.
+Trigonospora obtusiloba Sledge (1981: 18). Thelypteris obtusiloba (Sledge) Fraser-Jenkins (1997: 282). Type:—SRI LANKA:
+Sinha Raja Forest near Hedigalla, Western Province, 5 January 1951, W.A. Sledge 814 (holotype BM, isotype US).
+
+Paratypes (digitalized specimens):—SRI LANKA: Adam’s peak, 14 December 1950, W.A. Sledge 609
+(BM-01044534); near Stakgala, 27 Dec 1950, W.A. Sledge 754 (BM-01044529); Pahala Hewessa near
+Moragalla, 20 January 1951, W.A. Sledge 889 (BM-001044530); Kanneliya Forest Reserve near Udugama, 21
+Jan 1951, W.A. Sledge 907 (BM-001044531); above Beverley estate near Deniyaya, 12 March 1954, W.A.
+Sledge 1287 (BM-001044533); Kottawa Forest Reserve Southern province, 1 April 1954, W.A. Sledge 1378
+(BM-001044532).
+
+References
+Christenhusz, M.J.M., Zhang, X.-C. & Schneider, H. (2011) A linear sequence of extant families and genera of lycophytes and
+ferns. Phytotaxa 19: 7–54.
+Freser-Jenkins, C.R. (1997) New species syndrome in Indian Pteridology and the ferns of Nepal. International Book
+Distributors, Booksellers and Publishers. 404 pp.
+Fraser-Jenkins, C.R. (2008) Taxonomic revision of three hundred Indian subcontinental pteridophytes with a revised censuslist. Bishen Singh Mahendra Pal Singh, Dehra Dun. 685 pp.
+Link, J.H.F. (1833) Hortus Regius Botanicus Berolinensis descriptus, ab Henrico Friderico Link. 2. G. Reimer Berlin, 390 pp.
+(http://www.biodiversitylibrary.org/item/48450)
+Panigrahi, G. (1991) Pteridophytic flora of Orissa. Abstracts and Souvenir. National Symposium on Current Trends in
+Pteridology, 4-6 October Palayamkotti, Tamil Nadu: 12–13.
+Panigrahi, G. (1993) Generic delimitation in the Thelypteridaceae Pichi Serm. Bhambie Commemoration Volume, Research
+Journal of Plant and Environment 9: 63–67.
+Rothfels, C.J., Sundue, M.A., Kuo, L.-Y., Larsson, A., Kato, M., Schuettpelz, E. & Pryer, K.M. (2012) A revised family-level
+classification for eupolypod II ferns (Polypodiidae: Polypodiales). Taxon 61: 515–533.
+Sledge WA. (1981) The Thelypteridaceae of Ceylon. Bulletin of the British Museum (Natural History), Botany 8: 1–54. (http://
+www.biodiversitylibrary.org/item/127063)
+
+64 Accepted by Marcus Lehnert: 20 Aug. 2013; published: 18 Sept. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+

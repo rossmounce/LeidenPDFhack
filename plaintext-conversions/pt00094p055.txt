@@ -1,0 +1,285 @@
+Phytotaxa 94 (2): 49–55 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.94.2.3
+
+A new species of Philodendron (Araceae) and a key to Brazilian Atlantic Forest
+species of P. subgenus Pteromischum
+LUANA S.B. CALAZANS1* & CASSIA M. SAKURAGUI1
+1
+
+Universidade Federal do Rio de Janeiro, CCS, Instituto de Biologia, Departamento de Botânica, Av. Carlos Chagas Filho, 373 - Sala
+A1-088 - Bloco A, Ilha do Fundão, Rio de Janeiro, RJ, CEP 21941-902, Brazil.
+*Corresponding author: luanasbcalazans@gmail.com
+
+Abstract
+This paper describes and illustrates a new Philodendron subgenus Pteromischum species from Espírito Santo State, in
+Southeastern Brazil, including information on its conservation in a high priority area for conservation of the Atlantic
+Forest. The work also includes a key to the Brazilian Atlantic Forest species of the subgenus.
+Key words: aroids, endemism, humid flora, taxonomy
+
+Introduction
+Philodendron Schott (1829: 780) is the second largest genus of Araceae, being exclusively Neotropical with
+ca. 480 published species and ca. 700 estimated (Boyce & Croat 2012). In Brazil it has ca. 165 species
+(Sakuragui et al. 2012) in several biomes, especially in Amazonian and Atlantic rainforests, with 59% and
+39% of the diversity respectively (Sakuragui et. al. 2012). The infrageneric classification into three subgenera
+is widely accepted: Philodendron (80% of the species), Pteromischum (Schott 1856: 77) Mayo (1989: 168)
+(15% of the species) and Meconostigma (Schott 1832: 20) Engler (1899: 554) (5% of the species).
+The species of the subgenus Pteromischum, originally a section of subgenus Euphilodendron Engler
+(1899: 510) (e.g. in Krause 1913), can be morphologically characterized by the well-developed foliar sheath
+and anisophyllous sympodial growth, bearing many leaves per article (Grayum 1996). Mayo (1989), based on
+anatomical investigations, elevated Pteromischum to the status of subgenus, a decision that was later
+supported by a molecular phylogenetic study (Gauthier et al. 2008), which indicated that the other two
+subgenera were also monophyletic.
+Philodendron subg. Pteromischum has two centers of diversity, one in Central America and another in
+West Amazonia (Grayum 1996), but is poorly represented in extra-Amazonian South America. Grayum’s
+(1996) detailed revision of species occurring in Central America and the Pacific Coast of South America is the
+only modern study of the group. However, in that work, most Brazilian species were not discussed.
+Here we describe Philodendron rhodospermum sp. nov. and propose an updated key to Brazilian species
+of the subgenus from the Atlantic Forest.
+
+Methods
+During field expeditions and a visit to the MBML herbarium, in Espírito Santo State, we found an unidentified
+specimen of Philodendron subgenus Pteromischum from Reserva Biológica Augusto Ruschi (REBIO
+Augusto Ruschi). To provide a more detailed description of the species and its habitat, the first author visited
+Accepted by Samuli Lehtonen: 4 Apr. 2013; published online in PDF: 22 Apr. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+49
+
+the area during the plant´s fertile period and collected fresh material. A taxonomic analysis of the specimen
+revealed that it belonged to a new species, which is described here.
+The descriptive terminology follows Stearn (2004) and Mayo (1991). The new species was compared
+with the type of species morphologically similar to the collected material, as well as to the descriptions in
+works including species of Philodendron subg. Pteromischum (e.g. Grayum 1996, Krause 1913). The key is
+based on the original descriptions of species.
+
+Taxonomy
+Philodendron rhodospermum Calazans & Sakur., sp. nov. (Figures 1, 2)
+Philodendron rhodospermum is most similar to Philodendron propinquum Schott (1856: 78), but the former has broader
+ovate leaves, sometimes slightly asymmetric, fewer primary lateral veins (3–5 pairs), lamina notable thinner
+with secondary lateral veins prominent in dry material, and reddish seeds.
+Type:—BRAZIL. Espírito Santo: Santa Teresa, Reserva Biológica Augusto Ruschi, road to Goiapaba-açu, 19° 54’ 26.7”
+S, 40° 32’ 53.7” W, 24 November 2012, L.S.B. Calazans & R.T. Valadares 213 (holotype: RB!; isotypes: CEPEC!,
+K!).
+
+Herb perennial, hemiepiphytic near the ground. Stem branched; internodes 1.5–5.5(–7.5) cm long, cylindrical,
+dark green to brownish, matte, drying paler brown, epidermis vertically cracked; flagellar shoots present.
+Petiole 11.6–16.7 × 1.0–1.5 cm, sheath 11.0–15.6 × 1.0–1.5 cm, horizontally splayed, glossy green, apical
+ligule 0.6–1.1 cm long, acute to narrowly rounded, slightly unequal, unsheathed portion of petiole 0.3–1.5 cm
+long, adaxially flattened, abaxially rounded; leaf blade 13.0–22.0 × (5.0–)7.5–13.5 cm, often pendulous from
+the petiole apex, elliptic to broadly ovate, sometimes slightly asymmetric, apex acuminate to cuspidate,
+margin entire, base rounded to subcordate, smooth, glossy green on both faces, drying membranaceous to
+subchartaceous , striated, olive-green to brownish; midrib and primary lateral veins adaxially sunken,
+abaxially raised, primary lateral veins 3–5 pairs, arising at (30–)45–60º angle from midrib, arcuate to margin,
+drying prominent and greenish-yellow abaxially, secondary veins discrete, parallel to primary veins,
+numerous, drying prominent on both surfaces. Inflorescence solitary; peduncle 2.0–4.5 cm long, cylindrical,
+striated; spathe 6.0–9.0 cm long, ovate, acuminate (the acumen ca. 1.0 cm long), constriction not evident,
+externally pale yellow, becoming green in fruit, internally cream, resin canals internally visible; stipe of
+spadix up to 1.5 cm long; spadix 5.1–6.2(–7.2) cm long, slender; fertile male zone 2.8–3.4 cm long, not
+obviously exerted in fruit; intermediate sterile zone 0.4–0.55 cm long; female zone 1.7–2.0 cm long; stamens
+ca. 1.0 mm long, in groups of 4–6, prismatic; intermediate staminodes ca. 1.5 mm long, clavate; gynoecium
+1.0–2.0 mm long, ovary flask-shaped, slightly broader than style, 2–3(–4)-locular, multi-ovulated,
+placentation axile. Juvenile berries pale green. Seeds ca. 1 mm long, fusiform, slightly curved, longitudinally
+striated, reddish-pink, drying purplish-red to brownish.
+Phenology:—Collected in flower from September to November and in fruit from September to January.
+Etymology:—The specific epithet alludes to the remarkable reddish-pink coloration of the seeds (Figure
+2b–c), a very useful character for field identification.
+Distribution and habitat:—Known only from two localities in the Espírito Santo State, Atlantic Forest;
+600–850 m elevation. Almost all collections are from REBIO Augusto Ruschi, municipality of Santa Teresa,
+where the species is common and can be easily found on the edge of the trails. Until now, only one collection
+outside this area is known, at Pedra de Santa Luzia, municipality of Governador Lindenberg, ca. 70 km distant
+from Santa Teresa. Both localities are situated in an extension of the Serra da Mantiqueira, suggesting a
+possible broader area of occurrence along this mountain region.
+
+50 •
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+CALAZANS & SAKURAGUI
+
+FIGURE 1. Philodendron rhodospermum. A. Habit. B. Dry broadly ovate leaf, adaxial view, nervation (detail). C. Dry ovate leaf,
+abaxial view. D. Inflorescence. E. Stamen. F. Staminode. G. Side view of a female flower. H. Top view of a female flower. I.
+Longitudinal cut of a female flower. J. Transversal cut of a female flower showing the 2–3-locular ovary. K. Seed. A–C, K from
+Calazans & Valadares 213 (RB); D–J from Vervloet et al. 1150 (MBML).
+
+A NEW SPECIES OF PHILODENDRON SUBG. PTEROMISCHUM
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+• 51
+
+FIGURE 2. Philodendron rhodospermum. A. Habit. B. Immature infrutescence cut open to show the reddish seeds. C. Detail of the
+reddish-pink seeds.
+
+Conservation:—Collections made so far are located in remnants of Atlantic Forest (Figure 3). The
+fragment at Santa Teresa, in the southern part of Espírito Santo State, is extensive and includes a Federal
+Conservation Unit (REBIO Augusto Ruschi), which ensures some protection for the species. Moreover, there
+are contiguous protected fragments in the region, such as the Parque Natural Municipal de São Lourenço.
+The fragment located at Governador Lindenberg is extremely small and is located outside the
+conservation area, however it is in an area of high priority for conservation, according to Brazilian federal law
+(Brasil 2007) (Figure 3). Furthermore, according to the laws of Espírito Santo State (Brasil 2011), this
+fragment is also inserted in a priority area for conservation of Atlantic Forest named Marilândia, which is
+important for harbouring threatened and endemic species as well as possible taxa new to science. It also
+consists of a large area of unprotected fragments that contribute to the connectivity of other priority areas for
+conservation. Official guidelines for the area include biological inventories of fauna and flora, diagnosis of
+forest fragments and the creation of new protected areas. The presence of this new Philodendron in the area
+highlights the importance and urgency of these conservation actions in the state.
+Due to the lack of ecological data and records we are unable to suggest a conservation status for the
+species at this moment, which should remain as data deficient for conservation purposes.
+Paratypes:—BRAZIL. Espírito Santo: Santa Teresa, Reserva Biológica Augusto Ruschi, 24 September
+2002, R.R. Vervloet et al. 1036 (MBML!); loc. cit., 03 October 2002, R.R. Vervloet et al. 1150 (MBML!); loc.
+cit., 29 October 2002, R.R. Vervloet et al. 1309 (MBML!); loc. cit., 09 January 2003, R.R. Vervloet et al. 1672
+(MBML!).
+
+52 •
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+CALAZANS & SAKURAGUI
+
+FIGURE 3. Distribution of Philodendron rhodospermum. The Northern point is situated in municipality of Governador Lindenberg
+and the Southern point in municipality of Santa Teresa. Delimitation of high priority conservation area according to Portaria MMA
+No. 09, 23 January 2007.
+
+Additional examined material:—BRAZIL. Espírito Santo: Governador Lindenberg, Pedra de Santa
+Luzia, 19° 17’ 17” S, 40° 27’ 56” W, 07 November 2007, V. Demuner et al. 4483 (MBML!); Santa Teresa,
+Reserva Biológica Augusto Ruschi, 19 September 2001, L. Kollmann et al. 4684 (MBML!).
+Affinities:—According to Grayum’s concepts (1996) of sections in subgenus Pteromischum,
+Philodendron rhodospermum belongs to section Fruticosa Grayum (1996: 117), displaying proleptic growth,
+stem branched and shrubby, lack of nodal anchor roots, extensive sheath and solitary inflorescences lacking
+cataphylls. It is similar to P. propinquum Schott (1856: 78), differing by its broader ovate leaves, often
+pendulous leaf blade (i.e. the acute angle between petiole and lamina), fewer primary lateral veins and reddish
+seeds (vs. oblong or ovate-oblong leaves, often erect leaf blade, 5–7 primary lateral veins and pale brown
+seeds). In dry material of P. rhodospermum the leaves are notable thinner and the numerous secondary lateral
+veins become prominent, providing a striated appearance to the lamina, which is also useful in separating
+these species.
+The new species resembles P. romeroi Grayum (1996: 70), an endemic species of Sierra Nevada de Santa
+Marta, Colombia. This latter can be distinguished by its appressed climbing habit, larger leaves, stout
+inflorescences and granular abaxial surface on dry leaves, being a member of section Pteromischum (Schott
+1856: 77) Engler (1878: 133). Although the previously listed characters indicate the inclusion of P.
+rhodospermum in section Fruticosa, its similarity with a member of another section emphasizes the
+complexity involving classification below subgenus level in Pteromischum, as in the whole genus.
+
+A NEW SPECIES OF PHILODENDRON SUBG. PTEROMISCHUM
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+• 53
+
+Preliminary key to the Philodendron subgenus Pteromischum from Brazilian Atlantic Forest
+1.
+–
+2.
+–
+3.
+–
+4.
+
+–
+5.
+–
+6.
+–
+7.
+–
+
+Stem subtetragonal, primary lateral veins not visible, plants from Northeastern Brazil (Bahia State) and Northern
+(Amazonian Forest).............................................................. P. surinamense (Miquel 1851: 211) Engler (1879: 361)
+Stem terete, primary lateral veins visible (4–16), plants from Southern and Southeastern Brazil .............................. 2.
+Petiolar sheath closed and upright .............................................P. oblongum (Vellozo 1831: t115) Kunth (1841: 51)
+Petiolar sheath horizontally expanded ......................................................................................................................... 3.
+Leaf blade asymmetric, apex obtuse to rotundate, abruptly acuminate..................... P. rudgeanum Schott (1856: 78)
+Leaf blade symmetric, apex acuminate or cuspidate ................................................................................................... 4.
+Leaf blade elliptic or ovate-lanceolate, apex acuminate, apical sterile male zone present in spadix, plants from
+Southern Brazil (RS, SC, PR), Argentina and Paraguay ...............................................................................................
+.......................................................................................... P. missionum (Hauman 1917: 412) Hauman (1925: 101)
+Leaf blade elliptic, ovate-oblong or broadly ovate, apex cuspidate, apical sterile male zone absent in spadix,plants
+from Southeastern, Northeastern and Southern Brazil (PR) ....................................................................................... 5.
+Primary lateral veins 7–16, ovary 4–6 locular.......................................................P. ochrostemon Schott (1860: 229)
+Primary lateral veins up to 7, ovary 2–4 locular.......................................................................................................... 6.
+Leaf base rounded to subcordate, primary lateral veins 3–5, ovary 2–3-locular, seeds reddish-pink, plants endemic to
+Espírito Santo State .......................................................................................... P. rhodospermum Calazans & Sakur.
+Leaf base attenuate or obtuse to rounded, primary lateral veins 5–7, ovary 4-locular, seeds yellowish (P. propinquum), plants widely distributed in the Eastern Brazil ............................................................................................... 7.
+Leaf blade oblong or ovate-oblong, petiolar sheath extending to the leaf base, locules 2-seriate .................................
+..................................................................................................................................P. propinquum Schott (1856: 78)
+Leaf blade oblong to elongate, petiolar sheath ending below the leaf base, locules 4-seriate .......................................
+.............................................................................................................................. P. sonderianum Schott (1857: 237)
+
+Acknowledgements
+Funding for field expeditions was provided by Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro
+(Faperj) (process no. 110.355/2012); plants were collected under SISBIO authorization (process no. 36886-1).
+We are grateful to Marco Octávio Pellegrini for the illustration, to Rodrigo Theófilo Valadares for the field
+support and map elaboration, to Antonio Mateo Solé-Cava for suggestions to an earlier version of the
+manuscript and two anonymous reviewers for helpful considerations.
+
+References
+Boyce, P.C. & Croat, T.B. (2012) The Überlist of Araceae: totals for published and estimated number of species in aroid
+genera. Available from: http://www.aroid.org/genera/120110uberlist.pdf (accessed: 26 March 2013).
+Brasil (2007) Portaria MMA nº 9, de 23 de janeiro de 2007. Atualização das áreas prioritárias para conservação, uso
+sustentável e repartição de benefícios da biodiversidade brasileira. Brasília, 300 pp.
+Brasil (2011) Decreto n° 2530-R, de 02 de junho de 2010. Áreas e ações prioritárias para a conservação da
+biodiversidade da Mata Atlântica no Estado do Espírito Santo. Vitória, 64 pp.
+Engler, A. (1878) Araceae. In: von Martius, C.F.P., Eichler, A.W. & Urban, I. (ed.) Flora Brasiliensis, Munchen, Wien &
+Leipzig, vol 3(2), pp. 25–224.
+Engler, A. (1879) Araceae. In: de Candolle, A. & de Candolle, C. Monographiae Phanerogamarum Prodromi nunc
+continuatio nunc revisio, vol 2, Masson, Paris, pp. 1–681.
+Engler, A. (1899) Beiträge zur Kenntnis der Araceae IX. 16. Revision der Gattung Philodendron Schott. Botanische
+Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie 26: 509–564.
+Gauthier, M.P.L., Barabé, D. & Bruneau, A. (2008) Molecular phylogeny of the genus Philodendron (Araceae):
+delimitation and infrageneric classification. Botanical Journal of the Linnean Society 156: 13–27.
+http://dx.doi.org/10.1111/j.1095-8339.2007.00733.x
+Grayum, M.H. (1996) Revision of Philodendron subgenus Pteromischum (Araceae) for Pacific and Caribbean Tropical
+America. Systematic Botany Monographs 47: 1–233.
+http://dx.doi.org/10.2307/25027858
+Hauman, L. (1917) Notes floristiques. Quelques Criptogames, Gymnospermes et Monocotylédones de l'Argentine.
+
+54 •
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+CALAZANS & SAKURAGUI
+
+Anales del Museo Nacional de Historia Natural de Buenos Aires 29: 391–444.
+Hauman, L. (1925) Nota sobre el Philodendron tweedianum Schott y algunas Aráceas argentinas. Physis 8: 99–103.
+Krause, K. (1913) Araceae. Philodendroideae-Philodendreae-Philodendrinae. In: Engler, A. (ed.) Das Pflanzenreich. 60
+(IV. 23Db), W. Engelmann, Leipzig, Berlin, pp. 1–143.
+Kunth, C.S. (1841) Enumeratio Plantarum Omnium Hucusque Cognitarum, Secundum Familias Naturales Disposita,
+Adjects Characteribus, Differentiis et Synonymis, vol 3, Cotta, Stuttgart, Tübingen, 644 pp.
+Mayo, S.J. (1989) Observations of the gynoecial structure in Philodendron (Araceae). Botanical Journal of the Linnean
+Society 100: 139–172.
+http://dx.doi.org/10.1111/j.1095-8339.1989.tb01714.x
+Mayo, S.J. (1991) A revision of Philodendron subgenus Meconostigma (Araceae). Kew Bulletin 46: 601–681.
+http://dx.doi.org/10.2307/4110410
+Miquel, F.A.G. (1851) Stirpes Surinamenses selectae. Natuurkundige Verhandelingen van de Bataafsche Maatschappy
+der Wetenschappen te Haarlem 7: 1–234.
+Sakuragui, CM, Calazans, L.S.B. & Soares, M.L. (2012) Philodendron In: Lista de Espécies da Flora do Brasil. Jardim
+Botânico do Rio de Janeiro. Available from: http://floradobrasil.jbrj.gov.br/2011/FB005015 (accessed: 15 January
+2013).
+Schott, H.W. (1829) Für Liebhaber der Botanik. Wiener Zeitschrift für Kunst, Literatur, Theater und Mode 94: 779–780.
+Schott, H.W. (1832) Araceae. In: Schott, H.W. & Endlicher, S. Meletemata Botanica, Vienna, pp. 16–22.
+Schott, H.W. (1856) Synopsis Aroidearum Complectens Enumerationem Systematicam Generum et Specierum Huju
+Ordinis. Typis Congregationis Mechitharisticae, Vienna, 140 pp.
+Schott, H.W. (1857) Aroideen-skizzen. Oesterreichisches Botanisches Wochenblatt 37: 293–295.
+http://dx.doi.org/10.1007/BF02070697
+Schott, H.W. (1860) Prodromus Systematis Aroidearum. Typis Congregationis Mechitharisticae, Vienna, 602 pp.
+Stearn, W.T. (2004) Botanical Latin. Timber Press, Portland, 546 pp.
+Vellozo, J.M.C. (1831) Gynandria Polyandria: tab 105–126. In: Vellozo, J.M.C. Flora Fuminensis Icones, vol 9, Paris,
+130 pp.
+
+A NEW SPECIES OF PHILODENDRON SUBG. PTEROMISCHUM
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+• 55
+
+

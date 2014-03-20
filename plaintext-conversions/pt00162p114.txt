@@ -1,0 +1,154 @@
+Phytotaxa 162 (2): 111–114
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.162.2.6
+
+Epitypification of Carex bolanderi (Cyperaceae)
+JAMES L. REVEAL 1, ROBERT F.C. NACZI2 & PETER F. ZIKA3
+1
+
+L.H. Bailey Hortorium, Department of Plant Biology, Cornell University, Ithaca, New York 14853-4301, U.S.A.
+E-mail: jlr326@cornell.edu
+2
+New York Botanical Garden, 2900 Southern Boulevard, Bronx, New York, 10458-5126, U.S.A. E-mail: rnaczi@nybg.org
+3
+WTU Herbarium, Box 355325, University of Washington, Seattle, Washington 98195-5325, U.S.A. E-mail: zikap@comcast.net
+
+With the description of Carex infirminervia Naczi (in Naczi et al. 2002: 528) and the summation of Carex sect.
+Deweyanae (Tuckerman ex Mackenzie 1913: 352) Mackenzie (1931: 114) by Naczi (in Naczi 2002: 321–325), a
+recent summary of Pacific Northwest sedges (Wilson et al. 2008: 106–107), and the new Jepson Manual (Zika et
+al. 2012: 1322), the circumscription of C. bolanderi Olney (1868: 393) is now firmly established. As such, C.
+bolanderi occurs from southern British Columbia to southern California east to Montana, Utah and New Mexico,
+and then south in the Sierra Madre Occidental through Chihuahua to northern Durango, Mexico. Previous usage of
+C. bolanderi was somewhat confused both as to its circumscription and to its distribution because of the inclusion
+of some specimens of C. infirminervia as in the cases of Munz (1959: 1443, 1974: 887) and Mastrogiuseppe (1993:
+1122), or when it was included in C. deweyana Schweinitz (1824: 65; e.g., Cronquist 1969: 261, 1977: 158, Taylor
+1983: 102).
+Olney (1868: 393) cited four collections when he proposed Carex bolanderi. Errors are present in the citation
+of the first two of these syntypes (Brewer 1665, Hillebrand 2313, Bolander 6201, and Bolander 6209). Brewer
+1665 does not exist among the C. bolanderi specimens in Olney’s herbarium (BRU) or in the other herbaria we
+examined. Rather, the correct number is Brewer 1655 (BRU!, DS [2]!, GH!, MO!, NY!, UC!, US). Similarly, the
+correct number for the second syntype is 2315 (BRU!, GH!, UC!, US). The latter correction was noted by
+Mackenzie (1921a: 37). However, the collector’s name on the label of 2315 at BRU is “Brewer” whereas
+“Hillebrand” is credited with the collections at GH and UC. Based on information in extant field books, the
+collector of the latter is Wilhelm B. Hillebrand rather than William H. Brewer.
+By selecting one of the four Olney syntypes, Mackenzie (1921a: 37) declared a step-1 lectotype when he wrote
+“Bolander 6209 from the Yosemite is taken as the type.” Designation of Bolander 6209 as the type subsequently
+was repeated by Mackenzie (1921b: 218, 1931: 117). At least three duplicates of Bolander 6209 exist (at BRU!,
+GH!, UC!). Our examination of this gathering has shown that important morphological details mentioned in the
+original description are not borne out in Bolander 6209. Olney described the perigynia as nerved and with spongy
+bases (“perigyniis ovalibus vel ellipticis acuminato-rostratis bifidis plano-convexis margine acutis serratis nervatis
+basi spongiosis squama ovata hispida aristata albo-hyalina nervo viridi longioribus”), and the achenes as orbicular
+or ovate (“achenio orbiculato vel ovato”). On Bolander 6209, the perigynia, being immature, lack nerves and
+spongy bases. In addition, the achenes are not developed. In contrast, Bolander 6201 possesses perigynia with 3–6
+complete nerves on their abaxial surfaces and has perigynia with spongy bases. Also, the achenes on Bolander
+6201 are orbicular-ovate. Examining the entirety of Olney’s detailed description, it is clear that Olney compiled his
+comments from most if not all of his syntypes and Mackenzie failed to examine the syntypes carefully before
+making a step-1 lectotypification. Furthermore, considering Olney’s English diagnosis that differentiated C.
+bolanderi from C. deweyana, his emphasis of “the oval or elliptical and nerved perigyna” as being critical to the
+identification of his new species further removes Bolander 6209 as a reasonable choice for a type as these features
+are not present. Mackenzie (1921a: 37) assigned Bolander 6201 to C. leptopoda Mackenzie (1917: 124, 1060), but
+this was a misidentification. Our examination of Bolander 6201 has shown the perigynium beaks are 41–48% of
+the perigynium lengths, and this feature unambiguously distinguishes that collection from C. leptopoda, which has
+perigynium beaks 28–38% of the perigynium lengths.
+
+Accepted by Hans-Joachim Esser: 17 Feb. 2014; published: 10 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+111
+
+FIGURE 1. Designated epitype for Carex bolanderi Olney, Bolander 6201 (BRU).
+
+112 •
+
+Phytotaxa 162 (2) © 2014 Magnolia Press
+
+REVEAL ET AL.
+
+Bolander 6209 lacks the characters considered to be critical by Olney to distinguish his new species and is so
+young that even now the collection cannot be assigned to any one of the species assigned to sect. Deweyanae.
+Thus, Bolander 6209 “is demonstrably ambiguous and cannot be critically identified for purposes of the precise
+application of the name to a taxon” (Art. 9.8; McNeill et al. 2012). However, because a syntype cannot be
+considered to be in conflict with the protologue (Art. 9.19; McNeill et al. 2012), Mackenzie’s step-1 lectotype
+collection, Bolander 6209, cannot be rejected under 9.19(b) of that article. Therefore, we (1) designate the BRU
+specimen as a necessary step-2 lectotypification (Art. 9.17), and (2) designate Bolander 6201 as an epitype to allow
+the continued use of C. bolanderi as currently circumscribed (Fig. 1).
+
+Carex bolanderi Olney (1868: 393)
+Lectotypus (step-1, Mackenzie 1921a: 37):—UNITED STATES OF AMERICA. California: [Mariposa Co., Big Trees],
+Yosemite [National Park], 1866, H.N. Bolander 6209 (lectotypus [step-2, hic designatus]: BRU!, isolectotypi: GH!, UC!,
+US).
+Epitypus (hic designatus):—UNITED STATES OF AMERICA. California: [Mariposa Co.], Yosemite Valley, 1866, H.N.
+Bolander 6201 (BRU!, isoepitypi: CAS!, DS!, G [2], GH!, MICH!, MO [2]!, NY [2]!, UC [2]!, US [2], VT!, YU [2]).
+
+Should it be demonstrated via future studies that Bolander 6209 differs taxonomically from our proposed epitype,
+Bolander 6201, the epitype would nevertheless maintain its standing unless and until it is displaced by
+a conservation proposal (Art. 9.20; McNeill et al. 2012).
+
+Acknowledgements
+We wish to thank Werner Greuter (B) and John McNeill (E) for pointing out that a syntype cannot be considered to
+be “in conflict with the protologue”. We thank Johanna Schmitt and Kathleen McCauley for lending Olney's
+syntypes from the Brown University Herbarium (BRU) as well as the curators at CAS, DS, GH, MO, NY, UC, and
+VT who lent other syntypes. For the digital image of the lectotype (fig 1), we thank Kimberly Watson of The New
+York Botanical Garden Herbarium (NY). We also acknowledge Amy Kasameyer (UC) for her assistance with the
+field notebooks of the California Geological Survey.
+
+References
+Cronquist, A. (1969) Cyperaceae. University of Washington Publications in Biology 17(1): 219–383.
+Cronquist, A. (1977) 8. Carex L. Sedge. In: Cronquist, A., Holmgren, A.H., Holmgren, N.H., Reveal, J.L. & Holmgren, P.K.
+Intermountain flora: Vascular plants of the Intermountain West, U.S.A. Volume six. The Monocotyledons. Columbia
+University Press, New York, pp. 95–175.
+Mackenzie, K.K. (1913) 18. Carex L. Sp. Pl. 972. 1753. In: Britton, N.L. & A. Brown, An illustrated flora of the northern
+United States. Second edition—Revised and enlarged in three volumes. Vol. I. Ophioglossaceae to Polygonaceae; ferns to
+buckwheats. Charles Scribner’s Sons, New York, pp. 352–441.
+Mackenzie, K.K. (1917) 13. Carex (Rupp.) L. Sedge. In: R.A. Rydberg, Flora of the Rocky Mountains and adjacent plains.
+Published by the author, New York, pp. 111–142.
+Mackenzie, K.K. (1921a) A monograph of the California species of the genus Carex. Erythea 8: 7–95.
+Mackenzie, K.K. (1921b) 10. Carex L. Sedge. In: W.L. Jepson, A flora of California … Illustrated with many original figures.
+Volume I. Associated Students Store, Berkeley, pp. 207–242.
+Mackenzie, K.K. (1931) Family 2. Cyperaceae. North American Flora 18(3): 113–168.
+Mastrogiuseppe, J. (1993) Carex Sedge. In: Hickman, J.C. (ed.) The Jepson manual. Higher plants of California. University of
+California Press, Berkeley, pp. 1107–1138.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D., Herendeen, P.S., Knapp, S., Marhold, K.,
+Prado, J., Prud-Homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012) International Code of
+Nomenclature for algae, fungi and plants (Melbourne Code). Regnum Vegetabile 154. Koeltz Scientific Books, Königstein,
+240 pp.
+Munz, P.A. (1959) A California flora. University of California Press, Berkeley, 1681 pp.
+Munz, P.A. (1974) A flora of southern California. University of California Press, Los Angeles, 1086 pp.
+Naczi, R.F.C. (2002) Carex Linnaeus sect. Deweyanae (Tuckerman ex Mackenzie) Mackenzie. In: Flora of North America
+
+EPITYPIFICATION OF CAREX BOLANDERI (CYPERACEAE)
+
+Phytotaxa 162 (2) © 2014 Magnolia Press
+
+• 113
+
+Committee (eds.) Flora of North America North of Mexico 23. Oxford University Press, New York, pp. 321–325.
+Naczi, R.F.C., Bryson, C.T. & Cochrane, T.S. (2002) Seven new species and one new combination in Carex (Cyperaceae) from
+North America. Novon 12: 508–532.
+Olney, S.T. (1868) Carices novae. Proceedings of the American Academy of Arts and Sciences 7: 393–396.
+Schweinitz, L.D. von (1824) An analytical table to facilitate the determination of the hitherto observed North America species
+of the genus Carex. Annals of the Lyceum of Natural History New York 1: 62–71.
+Taylor, T.M.C. (1983) The sedge family (Cyperaceae). British Columbia Provincial Museum 43: 1–375.
+Wilson, B. L., Brainerd, R., Lytjen, D., Newhouse, B. & Otting, N. (2008) Field guide to the sedges of the Pacific Northwest.
+Oregon State University Press, Corvallis, 431 pp.
+Zika, P.F., Hipp, A.L. & Mastrogiuseppe, J. (2012) Carex Sedge. In: Baldwin, B.G., Goldman, D.H., Keil, D.J. Patterson, R.,
+Rosatti, T.J. & Wilken, D.H. (eds.) The Jepson Manual. Vascular plants of California, second edition. University of
+California Press, Berkeley, pp. 1308–1342.
+
+114 •
+
+Phytotaxa 162 (2) © 2014 Magnolia Press
+
+REVEAL ET AL.
+
+

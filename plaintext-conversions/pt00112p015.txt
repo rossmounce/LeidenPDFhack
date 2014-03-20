@@ -1,0 +1,672 @@
+Phytotaxa 112 (1): 7–15 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.112.1.2
+
+Notes on Early Land Plants Today. 41. New combinations and synonyms in
+Cephaloziaceae (Marchantiophyta)
+JI Í VÁ A1, LARS SÖDERSTRÖM2, ANDERS HAGBORG3 & MATT VON KONRAT3
+
+Ň
+
+Ř
+
+1
+
+Department of Botany, Charles University, Benátská 2, CZ-12801 Praha 2, Czech Republic; vana@natur.cuni.cz
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+3
+Department of Botany, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Vilnet et al. (2012) and Feldberg et al. (2013) demonstrated that Cephalozia in the sense it has been treated in
+recent years is polyphyletic (e.g. Vá a 1988). The genus as usually circumscribed falls into two clades. The
+clade with the type of Cephalozia also includes Metahygrobiella as demonstrated by Feldberg et al. (2013)
+without making any nomenclatural changes. The other clade was shown by both studies to include
+Pleurocladula and Vilnet et al. (2013) therefore transferred many of the taxa included in their study to
+Pleurocladula. As they also demonstrated that Schofieldia belongs to this clade, they should have used this
+name for the genus as it is two years older. A number of taxa not included in their phylogeny are
+morphologically related to their taxa and should also be transferred. Feldberg et al. (2013) showed that
+Fuscocephaloziopsis also belongs here. As this name predates both Pleurocladula and Schofieldia, we
+transfer Pleurocladula and some Cephalozia species to Fuscocephaloziopsis. It should be noted, however,
+that there still are some taxa in Cephalozia that have been insufficiently studied to place them in any of the
+two genera.
+Vilnet et al. (2012) also demonstrated that Cladopodiella is nested within Odontoschisma, but they did
+not transfer any species. The two species are nested in different clades within the genus and a transfer is
+necessary unless Odontoschisma is split into several genera. In addition, Iwatsukia jishibae is nested within
+the genus. As the type of Iwatsukia Kitagawa (1964: 178) has not been included in any molecular study, a
+transfer of the genus cannot be done here.
+In the checklist of Southern South America, Hässel de Menéndez & Rubies (2009) cited “Cephaloziella
+magellanica Gola”. However, Gola (1923) described the species under Cephalozia (Dumortier 1831: 60)
+Dumortier (1835: 18) and it has never been validly transferred to Cephaloziella (Spruce 1882: 23) Schiffner
+(1893: 98). Because of the existence of Cephaloziella magellanica Arnell (1955: 230), a transfer is not
+possible without changing name.
+All Gola’s types are in FI, but no specimen labelled Cephalozia magellanica can be found (C. Nepi, pers.
+comm.). However, there exists a specimen named Cephalozia sp. by Gola that corresponds well with the
+description (Fig. 1). We assume that Gola failed to properly annotate the specimen after describing
+Cephalozia magellanica. The study of this specimen (JV) shows that it belongs to Cephalozia tubulata
+(=Metahygrobiella tubulata), which M. Fulford already annotated on the specimen in 1975. She never
+published the synonymy, however, as she probably did not recognize that it was Gola’s type specimen for
+Cephalozia magellanica.
+
+ň
+
+Accepted by Jon Shaw: 24 May 2013; published online in PDF: 17 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+7
+
+FIGURE 1. Label of the type of Cephalozia tubulata in FI.
+
+Formal treatment
+The format of this note follows what is outlined in Söderström et al. (2012) except that we use the Melbourne
+code of nomenclature (ICN; McNeill et al. 2012) instead of the Vienna code (ICBN; McNeill et al. 2006)
+Fuscocephaloziopsis Fulford, Mem. New York Bot. Gard. 11: 353, 1968 (Fulford 1968).
+Type:—Fuscocephaloziopsis pulvinata (Steph.) Fulford.
+= Schofieldia J.D.Godfrey, Bryologist 79: 314, 1976 (Godfrey 1976), syn. nov. Type:—Schofieldia monticola
+J.D.Godfrey.
+= Pleurocladula Grolle, J. Bryol. 10: 269, 1979 (Grolle 1979), syn. nov. Type:—Pleurocladula albescens (Hook.)
+Grolle. Pleuroclada Spruce, Cephalozia: 77, 1882 (Spruce 1882), nom illeg. (ICN Art. 53.1; non Pleurocladia
+A.Braun 1856 [Phaeophyta]).
+= Cephalozia subg. Macrocephalozia R.M.Schust., Hepat. Anthocerotae N. Amer. 3: 698, 1974), syn. nov. Type:—
+Cephalozia pulvinata (Steph.) R.M.Schust.
+= Cephalozia sect. Pachycaulis R.M.Schust., Bryologist 96: 623, 1993 (Schuster 1993), syn. nov. Type:—Cephalozia
+pachycaulis R.M.Schust.
+= Cephalozia sect. Catenulatae R.M.Schust., Hepat. Anthocerotae N. Amer. 3: 736, 1974 (Schuster 1974), syn. nov.
+Type:—Cephalozia catenulata (Huebener) Lindb.
+= Cephalozia sect. Lunulifoliae R.M.Schust., Hepat. Anthocerotae N. Amer. 3: 768, 1974 (Schuster 1974), syn. nov.
+Type:—Cephalozia lunulifolia (Dumort.) Dumort.
+
+≡
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+VÁ A ET AL.
+
+Ň
+
+8 •
+
+= Cephalozia sect. Haplocephalozia R.M.Schust., Hepat. Anthocerotae N. Amer. 3: 700, 1974 (Schuster 1974), syn. nov.
+Type:—Cephalozia uniloba N.Kitag. (=Fuscocephalozia leucantha (Spruce) Vá a et L.Söderstr.).
+
+ň
+
+Fuscocephaloziopsis affinis (Lindb. ex Steph.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia affinis Lindb. ex Steph., Bull. Herb. Boissier ser. 2, 8: 277 (Spec. Hep. 3: 291), 1908 (Stephani
+1908a).
+Type:—FINLAND. Nyland: in trunco putrido, 2 July 1877, S. O. Lindberg (lectotype [here designated] G-00282732!,
+isotype H-SOL!).
+Pleurocladula affinis (Lindb. ex Steph.) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis africana (Vá a) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+ň
+
+Basionym:—Cephalozia africana Vá a, Beih. Nova Hedwigia 90: 187, 1988 (Vá a 1988).
+Type:—RWANDA. Préfecture de Gikongoro: près de la commune Rugera, 2300 m, marais de la vallée de la Birara, dans
+un fourré d'Erica rugegensis, sur le sol, 7 September 1974, J.-L. De Sloover 19.161 (holotype PRC!, isotype NAM!).
+
+ň
+
+ň
+
+Fuscocephaloziopsis albescens (Hook.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Jungermannia albescens Hook., Brit. Jungerm.: pl. 72, 1815 (Hooker 1815).
+Type:—UNITED KINGDOM. Scotland: summit of Ben Nevis (BM, S).
+Pleurocladula albescens (Hook) Grolle, J. Bryol. 10: 269, 1979 (Grolle 1979).
+
+≡
+
+Fuscocephaloziopsis albescens var. islandica (Nees) Vá a et L.Söderstr., comb nov.
+
+ň
+
+Basionym:—Jungermannia islandica Nees, Naturgesch. Eur. Leberm. 2: 29, 1836 (Nees 1836).
+Type:—ICELAND. Hornschuch (lectotype [Grolle 1976] STR).
+Pleurocladula albescens var. islandica (Nees) L.Söderstr. et Vá a, Lindbergia 27: 43, 2002 (Söderström et al. 2002).
+Note:—The combination also creates the autonym.
+
+ň
+
+≡
+
+Fuscocephaloziopsis baldwinii (C.M.Cooke) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia baldwinii C.M.Cooke, Trans. Connecticut Acad. Arts 12: 35, 1904 (Cooke 1904).
+Type:—HAWAII. West Maui, Baldwin (lectotype [here designated] BISH!).
+
+Fuscocephaloziopsis catenulata (Huebener) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Jungermannia catenulata Huebener, Hepaticol. Germ.: 169, 1834 (Hübener 1834).
+Type:—FRANCE. Alsace: Vogesen bei Hambach (lectotype [Schiffner 1914] STR [Hb. Nees], isolectotype BP).
+Pleurocladula catenulata (Huebener) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis catenulata subsp. nipponica (S.Hatt.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia nipponica S.Hatt., Bull. Tokyo Sci. Mus. 11: 74, 1944 (Hattori 1944).
+Type:—JAPAN. Kyushu: Hyuga Pref., Minaminaka-gun, Sakatani-mura, April 1941, Hattori 8828 (holotype TNS174368!).
+Note:—The combination also creates the autonym.
+
+Fuscocephaloziopsis connivens (Dicks.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Jungermannia connivens Dicks., Fasc. Pl. Crypt. Brit. 4: 19, 1801 (Dickson 1801).
+Type:—UNITED KINGDOM. in umbrosis humidis (BM).
+Pleurocladula connivens (Dicks.) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis connivens subsp. fissa (Steph.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia fissa Steph., Hedwigia 30: 204, 1891 (Stephani 1891).
+Type:—CAMEROON. Ekundu Ndiae, 22 August 1890, P. Dusén 68, Herb. Stephani no. 18515 (lectotype [Bonner 1963]
+G-00045138!, isolectotype S!).
+
+Fuscocephaloziopsis connivens subsp. sandwicensis (Mont.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Jungermannia sandwicensis Mont., Ann. Sci. Nat. Bot. (ser. 2) 19: 249, 1843 (Montagne 1843).
+
+NEW COMBINATIONS AND SYNONYMS IN CEPHALOZIACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 9
+
+Type:—HAWAII. s. loc. spec., C. Gaudichaud (syntypes PC, G-00114856! [=Herb. Stephani no. 18516])
+Cephalozia connivens subsp. sandwicensis (Mont.) Vá a, Beih. Nova Hedwigia 90: 195, 1988 (Vá a 1988).
+Note:—The two subspecies above also create the autonym.
+
+ň
+
+ň
+
+≡
+
+Fuscocephaloziopsis crassifolia (Lindenb. et Gottsche) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Jungermannia crassifolia Lindenb. et Gottsche, Syn. Hepat. 5: 685, 1847 (Gottsche et al. 1847).
+Type:—MEXICO. Oaxaca: Tepinapa, 2000-2500 ft., F. M. Liebmann (isotypes BM!, G, S!).
+Cephalozia crassifolia (Lindenb. et Gottsche) Fulford, Mem. New York Bot. Gard. 11: 312, 1968 (Fulford 1968).
+
+≡
+
+Fuscocephaloziopsis gollanii (Steph.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia gollanii Steph., Bull. Herb. Boissier ser. 2, 8: 428 (Spec. Hep. 3: 304), 1908 (Stephani 1908b).
+Type:—INDIA. West Bengal: Darjeeling, Senchal Range, 8000 ft., 29 October 1900 A. C. Hartless, ex herb. Levier 3258
+(lectotype [Kitagawa 1969: 291] G-00061122! [=Stephani herb. no. 13501], isotype FI!).
+
+Fuscocephaloziopsis leucantha (Spruce) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia leucantha Spruce, Cephalozia: 68, 1882 (Spruce 1882).
+Type:—CZECH REPUBLIC. Riesengebirge, bei St. Peter [= Krkonoše Mts., near Sv. Petr], August 1871 K. G. Limpricht
+(lectotype [here designated] BP!, isolectotype MANCH).
+Pleurocladula leucantha (Spruce) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis loitlesbergeri (Schiffn.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia loitlesbergeri Schiffn., Österr. Bot. Z. 62: 10, 1912 (Schiffner 1912).
+Type:—AUSTRIA. Oberösterreich: bei Gmunden, 900 m, August 1895, Loitlesberger (Schiffn. Hep. Europ. Exs. no.
+543. Wien. 1913) (lectotype [here designated] FH!, isolectotype BP!, BRNU!, C!, JE!, PR!)
+Pleurocladula loitlesbergeri (Schiffn.) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis lunulifolia (Dumort.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Jungermannia lunulifolia Dumort., Syll. Jungerm. Europ.: 61, 1831 (Dumortier 1831).
+Type:—FRANCE. Dép. Vosges [Lorraine]: Bruyères, Mougeot, Nestler & Schimper, Stirpes Crypt. Vogeso-Rhen. no 432
+(Lectotype [Grolle 1967] BR [no 432/e], isolectotype GL, HAL, JE, W).
+Pleurocladula lunulifolia (Dumort.) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis macrostachya (Kaal.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia macrostachya Kaal., Rev. Bryol. 29: 8, 1902 (Kaalaas 1902).
+Type:—NORWAY. Ramholmen, Glemminge, April 1901, Ryan (Schiffn. Hep. Europ. Exs. no 545. Wien. 1913)
+(lectotype [here designated] FH!, isolectotypes BP!, BRNU!, C!, JE !, PR!, PRC!, O)
+Pleurocladula macrostachya (Kaal.) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis macrostachya subsp. australis (R.M.Schust.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia macrostachya subsp. australis R.M.Schust., Hepat. Anthocerotae N. Amer. 3: 754, 1974
+(Schuster 1974).
+Type:—USA. North Carolina: Macoun Co., cliff faces at the mouth of the "Narrows" of Chattooga R., just west of Bull
+Pen Mt., ca. 2-2.2 miles north of the Georgia state line, at 2500 feet, R.M. Schuster & V. Bryan 39400 (holotype F2142345).
+Note:—This subspecies also creates the autonym.
+
+Fuscocephaloziopsis macrostachya var. spiniflora (Schiffn.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia spiniflora Schiffn., Hedwigia 34: 323, 1914 (Schiffner 1914).
+Type:—GERMANY. Pomerania, Koppelsberg, 90 m., 15 September 1912, F. Hintze, (Schiffn., Hep. Europ. Exs. no.
+568) (lectotype [here designated] FH!, many isolectotypes, cf. G, PR!, S!).
+Note:—This variety also creates the autonym. Damsholt (2011) argues that the variety may be a sterile hybrid between
+Fuscocephaloziopsis lunulifolia and Fuscocephaloziopsis macrostachya but this remains to be tested.
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+VÁ A ET AL.
+
+Ň
+
+10 •
+
+Fuscocephaloziopsis monticola (J.D.Godfrey) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Schofieldia monticola J.D.Godfrey, Bryologist 79: 315, 1976 (Godfrey 1976).
+Type:—USA. Washington: Whatcom Co., Mt. Baker Nat. Forest, heather meadows of Austin Pass, Godfrey 3330
+(holotype UBC).
+Pleurocladula monticola (J.D.Godfrey) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis pachycaulis (R.M.Schust.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia pachycaulis R.M.Schust., Bryologist 96: 623, 1993 (Schuster 1993).
+Type:—USA. Alaska: Archangel Valley, near Archer Pass, N W of Palmer, R.M. Schuster & N. Konstantinova 92-336
+(holotype F).
+Pleurocladula pachycaulis (R.M.Schust.) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis pleniceps (Austin) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Jungermannia pleniceps Austin, Proc. Acad. Nat. Sci. Philadelphia 21: 222 1869 [1870] (Austin 1870).
+Type:—USA. New Hampshire: White Mountains, Oakes.
+Pleurocladula pleniceps (Austin) Konstant., Vilnet et A.V.Troitsky, Arctoa 21: 125, 2012 (Vilnet et al. 2012).
+
+≡
+
+Fuscocephaloziopsis pleniceps var. caroliniana (R.M.Schust.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia pleniceps var. caroliniana R.M.Schust., Hepat. Anthocerotae N. Amer. 3: 780, 1974 (Schuster
+1974).
+Type:—USA. North Carolina: along Davidson R., in gorge just above Looking Glass Falls, north of Brevard, R.M.
+Schuster 61245 (holotype F-1825694).
+Note:—This variety also creates the autonym.
+
+Fuscocephaloziopsis zoopsioides (Horik.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Cephalozia zoopsioides Horik., J. Sci. Hiroshima Univ., Ser. B., Div. 2, Bot. 2: 178, 1934 (Horikawa 1934).
+Type:— JAPAN. Kagoshima Pref.: Ins. Yakushima, Kosugidani-Wilsonkabu, July 1933, Y. Horikawa 11815 (holotype
+HIRO!)
+
+Cephalozia (Dumort.) Dumort., Recueil Observ. Jungerm.: 18, 1835 (Dumortier 1835).
+Basionym:—Jungermannia sect. Cephalozia Dumort., Syll. Jungerm. Europ.: 60, 1831 (Dumortier 1831).
+Type:—Jungermannia bicuspidata L. ( Cephalozia bicuspidata (L.) Dumort.)
+= Cephalozia (Dumort.) Dumort. subg. Eocephalozia R.M.Schust. ex J.J.Engel, Novon 17: 312, 2007 (Engel 2007), syn.
+nov.. Type:—Cephalozia badia (Gottsche) Steph.
+= Metahygrobiella R.M.Schust., Bryologist 64: 205, 1961 (Schuster 1961), syn. nov. Type:—Metahygrobiella acuminata
+(Herzog.) R.M.Schust.
+= Metahygrobiella subg. Apohygrobiella R.M.Schust. ex Vá a, Phytotaxa 76: 34, 2013 (Vá a et al. 2013), syn. nov.
+Type:—Metahygrobiella macgregorii (Steph.) R.M.Schust.
+= Metahygrobiella subg. Pterocephalozia (N.Kitag.) Grolle, J. Hattori Bot. Lab. 55: 508, 1984 (Grolle 1984).
+Basionym:—Hygrobiella subg. Pterocephalozia N.Kitag., Misc. Bryol. Lichenol. 9: 72, 1982 (Kitagawa 1982).
+Type:—Hygrobiella nishimurae N.Kitag.
+
+≡
+
+ň
+
+ň
+
+Cephalozia acuminata (Herzog) Vá a, comb. nov.
+
+ň
+
+Basionym:—Hygrobiella acuminata Herzog, Trans. Brit. Bryol. Soc. 1:292, 1950 (Herzog 1950).
+Type:—MALAYSIA. Sarawak: Dulit Ridge, c. 1230 m, Richards 2056 pp. (lectotype [here designated] JE!)
+
+Metahygrobiella acuminata (Herzog) R.M.Schust., Bryologist 64: 205, 1961 (Schuster 1961).
+
+≡
+
+Cephalozia acutiloba (Inoue) Vá a, comb. nov.
+
+ň
+
+Basionym:—Metahygrobiella acutiloba Inoue, Bull. Natl. Sci. Mus. Tokyo, n.s. 10: 155, 1967 (Inoue 1967).
+Type:—MALAYSIA. Pahang: Gunung Brinchang, Cameron Highlands, ca.6600 ft., Inoue 11213 (holotype TNS!)
+
+Cephalozia drucei (R.M.Schust.) Vá a, comb. nov.
+
+ň
+
+Basionym:—Metahygrobiella drucei R.M.Schust., J. Hattori Bot. Lab. 26: 273, 1963 (Schuster 1963).
+Type:—NEW ZEALAND. North Island: West Peak, Mt. Hector, 4500 ft., R.M. Schuster 60444 (holotype F).
+
+NEW COMBINATIONS AND SYNONYMS IN CEPHALOZIACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 11
+
+Cephalozia fuegiensis Vá a, nom. nov.
+
+ň
+
+Hygrobiella dusenii Steph., Spec. Hepat. (Stephani) 6: 444, 1924 (Stephani 1924).
+Type:—CHILE. Tierra del Fuego: Rio Azopardo, 29 February 1896, Dusén 44, Herb. Stephani no. 753 (lectotype
+[Schuster 1964] G-00069519).
+Metahygrobiella dusenii (Steph.) R.M.Schust., Nova Hedwigia 8: 219, 1964 (Schuster 1964).
+Blocking name:—Cephalozia dusenii (Steph.) Steph., Bull. Herb. Boissier ser. 2, 8: 504 (Sp. Hepat. [Stephani] 3: 334),
+1908 (Stephani 1908c).
+
+≡
+≡
+
+Cephalozia macgregorii (Steph.) Vá a, comb. nov.
+
+ň
+
+Basionym:—Hygrobiella macgregorii Steph., Hedwigia 34: 45, 1895 (Stephani 1895).
+Type:—PAPUA NEW GUINEA. Northern Distr.: Mt. Suckling, Macgregor, Herb. Stephani no. 3712 (lectotype [Piippo
+1984] G-00069518).
+Metahygrobiella macgregorii (Steph.) R.M.Schust., Bryologist 64: 206, 1961 (Schuster 1961).
+
+≡
+
+Cephalozia mollusca (De Not.) Vá a, comb. nov.
+
+ň
+
+Basionym:—Jungermannia mollusca De Not., Epat. Borneo: 16, 1874 (De Notaris 1894).
+Type:—MALAYSIA. Sarawak: Mt. Linga, 1867, O. Beccari 55 (lectotype FI-2799!, isotypes JE, PC-103103).
+Metahygrobiella mollusca (De Not.) R.M.Schust., Bryologist 64: 206, 1961 (Schuster 1961).
+
+≡
+
+Cephalozia nishimurae (N.Kitag.) Vá a, comb. nov.
+
+ň
+
+Basionym:—Hygrobiella nishimurae N.Kitag., Misc. Bryol. Lichenol. 9: 69, 1982 (Kitagawa 1982).
+Type:—JAPAN. Kyushu: Oita, Sasano, Kamituemura, Hita-gun, 600 m, Nishimura 8459 (holotype KYO, isotypes
+HIRO, NICH, TNS).
+Metahygrobiella nishimurae (N.Kitag.) Grolle, J. Hattori Bot. Lab. 55: 508, 1984 (Grolle 1984).
+
+≡
+
+Cephalozia stolonacea (Herzog) Vá a, comb nov.
+
+ň
+
+Basionym:—Hygrobiella stolonacea Herzog, Trans. Brit. Bryol. Soc. 1: 293, 1950 (Herzog 1950).
+Type:—MALAYSIA. Sarawak: Dulit Ridge, c. 1320 m, Richards 1947 (holotype JE!).
+Metahygrobiella stolonacea (Herzog) R.M.Schust., Bryologist 64: 206, 1961 (Schuster 1961).
+
+≡
+
+Cephalozia tubulata (Hook.f. et Taylor) Trevis., Mem. Reale Ist. Lombardo Sci., Ser. 3, C. Sci. Mat. 4: 417,
+1877 (Trevisan 1877).
+Basionym:—Jungermannia tubulata Hook.f. et Taylor, London. J. Bot. 3: 463, 1844 (Hooker & Taylor 1844).
+Metahygrobiella tubulata (Hook.f. et Taylor) R.M.Schust. ex J.J.Engel, Bryologist 79: 514, 1976 (Engel 1976).
+= Cephalozia magellanica Gola, Nuovo Giorn. Bot. Ital. 29: 168, 1922 [1923] (Gola 1923), syn. nov. Type:—CHILE.
+Tierra del Fuego: Porto Sicurezza sugli scisti della costa, De Gasperi (lectotype [here designated] FI!; Fig. 1).
+
+≡
+
+Odontoschisma (Dumort.) Dumort., Recueil Observ. Jungerm.: 19, 1835 (Dumortier 1835).
+Basionym:—Pleuroschisma sect. Odontoschisma Dumort., Syll. Jungerm. Europ.: 68 (Dumortier 1831).
+= Cladopodiella H.Buch, Memoranda Soc. Fauna Fl. Fenn. 1: 89, 1927 (Buch 1927), syn. nov.
+
+Odontoschisma fluitans (Nees) L.Söderstr. et Vá a, comb. nov.
+
+ň
+
+Basionym:—Jungermannia fluitans Nees, Krypt. Gew. Fichtelgebirgs: 593, 1823 (Funck 1823).
+Type:—CZECH REPUBLIC, Riesengebirge, Schneekoppe, Funck (lecotype [Grolle 1976] STR! [sub Jung. inflata],
+isotypes JE, S, TO, BUC!, PRC!).
+Cladopodiella fluitans (Nees) Jørg., Bergens Mus. Skr. n.s. 16: 276, 1934 (Jørgensen 1934).
+
+≡
+
+Odontoschisma francisci (Hook.) L.Söderstr. et Vá a, comb. nov.
+
+ň
+
+Basionym:—Jungermannia francisci Hook, Brit. Jungerm.: pl. 49, 1816 (Hooker 1816).
+Type:—UNITED KINGDOM. New Forest, 1812, Lyell (lectotype [here designated] BM-001146107!).
+Cladopodiella francisci (Hook.) Jørg., Bergens Mus. Skr. n.s. 16: 274, 1934 (Jørgensen 1934).
+
+≡
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+VÁ A ET AL.
+
+Ň
+
+12 •
+
+Odontoschisma jishibae (Steph.) L.Söderstr. et Vá a, comb. nov.
+
+ň
+
+Basionym:—Cephalozia jishibae Steph., Sp. Hepat. (Stephani) 6: 437, 1924 (Stephani 1924).
+Type:—JAPAN. Mont Yaku, Shinano, 26 July 1908, Jishiba, Herb. Stephani no. 10725 (lectotype [Grolle 1965] G00061127!).
+Iwatsukia jishibae (Steph.) N.Kitag., Acta Phytotax. Geobot. 21: 114, 1965 (Kitagawa 1965).
+
+≡
+
+Acknowledgement
+We thank C. Nepi (FI) for help with type specimens and permission to publish the image of the label of
+Cephalozia tubulata. The Early Land Plants Today project (ELPT) has been generously supported in part by
+the Global Biological Information Facility (GBIF) Seed Money Award No.2007-41, activities facilitated in
+part by funding from the Biodiversity Synthesis Center of the Encyclopedia of Life (BioSynC), partial
+funding from the National Science Foundation (Award No's 0749762, 1115002), the Warwick Foundation,
+and the Negaunee Foundation.
+
+References
+Arnell, S. (1955) Hepaticae of Chile and Argentina collected by R. Santesson. Svensk Botanisk Tidskrift 49: 229–237.
+Austin, C.F. (1870 “1869”) Characters of some new Hepaticae (mostly North American) together with notes on a few
+imperfectly described species. Proceedings of the Academy of Natural Sciences of Philadelphia 21: 218–234.
+http://dx.doi.org/10.5962/bhl.title.40659
+Buch, H. (1927) Cladopodiella statt Cladopus. Memoranda societatis pro fauna et flora fennica 1: 89–90.
+Cooke, C.M. (1904) The Hawaiian Hepaticae of the tribe Trigonantheae. Transactions of the Connecticut Academy of
+Arts and Sciences 12: 1–45.
+Damsholt, K. (2011) Cephalozia spiniflora Schiffn. – en steril bastard? Myrinia 21: 55–59.
+De Notaris, G. (1874) Epatiche di Borneo raccolte dal Dre O. Beccari nel Ragiato di Sarawak durante gli anni 1865-6667. Stamperia reale di G. B. Paravia E. C., Torino, 42 pp.
+Dickson, J. (1801) Fasciculus quartus Plantarum Cryptogamicarum Britanniae. G. Nichol, London, 28 pp.
+http://dx.doi.org/10.3366/jsbnh.1957.3.4.230
+Dumortier, B.C. (1831) Sylloge Jungermannidearum Europae indigenarum, earum genera et species systematice
+complectens. J. Casterman, Tournay, 100 pp.
+http://dx.doi.org/10.5962/bhl.title.22343
+Dumortier, B.C. (1835) Recueil d'Observations sur les Jungermanniacées. I. Révision des genres. J.-A. Blanquart,
+Tournay, 27 pp.
+Engel, J.J. (1976) Austral Hepaticae VI. Some new combinations of taxa from southern Chile. The Bryologist 79: 514–
+515.
+Engel, J.J. (2007): Studies of New Zealand Hepaticae. 20-38. A miscellanea of new taxa and combinations. Novon 17:
+310-314.
+http://dx.doi.org/10.3417/1055-3177(2007)17[310:sonzha]2.0.co;2
+Feldberg, K., Heinrichs, J., Schmidt, A.R., Vá a, J. & Schneider, H. (2013) Exploring the impact of fossil constraints on
+the divergence time estimates of derived liverworts. Plant Systematics and Evolution 299: 585-601.
+http://dx.doi.org/10.1007/s00606-012-0745-y
+Fulford, M. (1968) Manual of the leafy Hepaticae of Latin America III. Memoirs of the New York Botanical Garden 11:
+277–392.
+Funck, H.C. (1823) Kryptogamische Gewächse des Fichtelgebirgs, Fascicle 29, no. 586-605. Leipzig, pp. 1–6.
+Godfrey, J.D. (1976) Schofieldia, a new Hepaticae from the Pacific Northwest. Bryologist 79: 314–320.
+Gola, G. (1923 “1922”) Le epatiche raccolte dal Dott. G.B. de Gasperi nella Terra del Fuoco sud-occidentale. Nuovo
+Giornale Botanico Italiano 29: 162–173.
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, S.G. (1847) Synopsis Hepaticarum, fasc. 5. Meissner,
+Hamburg, pp. 625–834.
+http://dx.doi.org/10.5962/bhl.title.15221
+Grolle, R. (1965) Miscellania Hepaticologica 31-40. Journal of the Hattori Botanical Laboratory 28: 101–106.
+Grolle, R. (1967) Miscellanea hepaticologica 71-80. Transactions of the British Bryological Society 5: 271–282.
+http://dx.doi.org/10.1179/006813867804804179
+
+ň
+
+NEW COMBINATIONS AND SYNONYMS IN CEPHALOZIACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 13
+
+Grolle, R. (1976) Verzeichnis der Lebermoose Europas und benachbarter Gebiete. Feddes Repertorium 87: 171–279.
+http://dx.doi.org/10.1002/fedr.4910870303
+Grolle, R. (1979) Miscellanea Hepaticologica 171-180. Journal of Bryology 10: 263–272.
+Grolle, R. (1984) Miscellanea Hepaticologica 221-230. Journal of the Hattori Botanical Laboratory 55: 501–511.
+Hässel de Menéndez, G.G. & Rubies, M.F. (2009) Catalogue of Marchantiophyta and Anthocerotophyta of southern
+South America. Beihefte zur Nova Hedwigia 134: 1–672.
+Hattori, S. (1944) Contributio as Floram Hepaticarum Austro-Kiushiuensem. Bulletin of the Tokyo science museum 11:
+1–203.
+Herzog, T. (1950) Hepaticae borneenses (Oxford University expeditions to Sarawak, 1932). Transactions of the British
+Bryological Society 1: 275–326.
+http://dx.doi.org/10.1179/006813850804878680
+Hooker, J.D. & Taylor, T. (1844) Hepaticae Antarcticae; being characters and brief descriptions of the Hepaticae
+discovered in the southern circumpolar regions during the voyage of H.M. Discovery ships Erebus and Terror. I.
+Species of Lord Auckland's and Campbell's Islands. London Journal of Botany 3: 366–400.
+Hooker, W.J. (1815) British Jungermanniae: being a history and description, with figures, of each species of the genus,
+and microscopical analysis of the parts, vol. 18-19. Longmans, London, pp. 69–76.
+Hooker, W.J. (1816) British Jungermanniae: being a history and description, with figures, of each species of the genus,
+and microscopical analysis of the parts, vol. 20–22. Longmans, London, pp. 77–84.
+Horikawa, Y. (1934) Monographia Hepaticarum Australi-Japonicarum. Journal of Science of the Hiroshima University:
+Series B, Division 2 (Botany) 2: 101–325.
+Hübener, J.W.P. (1834) Hepaticologia Germanica oder Beschreibung der deutschen Lebermoose. Schwann and Götz,
+Mannheim, 314 pp.
+Inoue, H. (1967) Three new hepatics from Malaya Peninsula. Bulletin of the National Science Museum, n.s. 10: 155–162.
+Jørgensen, E. (1934) Norges Levermossor. Bergens Museums Skrifter, n.s. 16: 1–343.
+Kaalaas, B. (1902) Cephaloziae species duae novae. Revue Bryologique 29: 8–10.
+Kitagawa, N. (1964) A new genus of Hepaticae from Borneo. Journal of the Hattori Botanical Laboratory 27: 178–182.
+Kitagawa, N. (1965) Cephaloziellaceae of Japan. Acta Phytotaxonomica et Geobotanica 21: 107–116.
+Kitagawa, N. (1969) Studies on the Hepaticae of Thailand. II. Cephalozia and Cephaloziella. Journal of the Hattori
+Botanical Laboratory 32: 290–306.
+Kitagawa, N. (1982) A remarkable new species of Hygrobiella from Japan. Miscellanea Bryologica et Lichenologica 9:
+69–72.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+146: 1–260.
+Montagne, J.F.C. (1843) Quatrième centurie de plantes cellulaires exotiques nouvelles, décades I-VI. Annales des
+Sciences Naturelles, Botanique, ser. 2 19: 238–266.
+Nees von Esenbeck, C.G. (1836) Naturgeschichte der Europäischen Lebermoose mit besonderer Beziehung auf Schlesien
+und die Oertlichkeiten des Riesengebirgs, vol. 2. Grass, Barth & Co., Berlin, 500 pp.
+Piippo, S. (1984) Bryophyte flora of the Huon Peninsula, Papua New Guinea. VI. Lepidoziaceae subfam.
+Lepidozioideae, Calypogeiaceae, Adelanthaceae, Cephaloziaceae subfam. Cephalozioideae and subfam.
+Odontoschismatoideae and Jubulaceae (Hepaticae). Annales Botanici Fennici 21: 309–335.
+Schiffner, V. (1893) Hepaticae (Lebermoose). In: Engler, A. & Prantl, K. (Ed), Die Natürlichen Pflanzenfamilien, Teil. I,
+Abt. 3. Engelmann, Leipzig, pp. 1-144.
+Schiffner, V. (1912) Bryologische Fragmente LXVI-LXXI. Österreichische Botanische Zeitschrift 62: 8–15.
+http://dx.doi.org/10.1007/bf01644055
+Schiffner, V. (1914) Cephalozia-Studien. Hedwigia 54: 311–327.
+Schuster, R.M. (1961) Studies on Hepaticae. III.-VI. Bryologist 64: 198–208.
+Schuster, R.M. (1963) Studies on antipodal Hepaticae I. Annotated key to the genera of antipodal Hepaticae with special
+reference to New Zealand and Tasmania. Journal of the Hattori Botanical Laboratory 26: 185–309.
+Schuster, R.M. (1964) Studies on antipodal Hepaticae. XXI. Cephaloziaceae with particular reference to
+Metahygrobiella Schust. and Cephalozia Dumort. Nova Hedwigia 8: 211–223.
+Schuster, R.M. (1974) The Hepaticae and Anthocerotae of North America. vol. III. Columbia University Press, New
+York, 880 pp.
+Schuster, R.M. (1993) On Cephalozia pachycaulis sp. nov. and the perimeters of Cephalozia. Bryologist 96: 619–625.
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+VÁ A ET AL.
+
+Ň
+
+14 •
+
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+Söderström, L., Urmi, E. & Vá a, J. (2002) Distribution of Hepaticae and Anthocerotae in Europe and Macaronesia.
+Lindbergia 27: 3–47.
+Spruce, R. (1882) On Cephalozia, its subgenera and some allied genera. Slater, Malton, 99 pp.
+http://dx.doi.org/10.5962/bhl.title.46289
+Stephani, F. (1891) Hepaticae africanae. Hedwigia 30: 265–272.
+Stephani, F. (1895) Hepaticarum species novae VII. Hedwigia 34: 43–65.
+Stephani, F. (1908a) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8(4): 267–282.
+Stephani, F. (1908b) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8(6): 426–436.
+Stephani, F. (1908c) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8(7): 483–514.
+Stephani, F. (1924) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 433–622.
+Trevisan de Saint-Léon, V.B.A. (1877) Schema di una nuova classificazione della Epatiche. Memorie del Reale Istituto
+Lombardo di Scienze e Lettere, Serie 3, Classe de Scienze Matematiche e Naturali 4: 383–451.
+Vá a, J. (1988) Cephalozia (Dum.) Dum. in Africa, with notes on the genus (Notes on some African hepatic genera 10).
+Beihefte zur Nova Hedwigia 90: 179–198.
+Vá a, J., Söderström, L., Hagborg, A. & von Konrat, M. (2013) Notes on Early Land Plants Today. 16. Validation of
+Metahygrobiella subgen. Apohygrobiella (Cephaloziaceae, Marchantiophyta). Phytotaxa 76(3): 34.
+http://dx.doi.org/10.11646/phytotaxa.76.3.4
+Vilnet, A.A., Konstantinova, N.A. & Troitsky, A.V. (2012) Molecular phylogeny and systematics of the suborder
+Cephaloziineae with special attention to the family Cephaloziaceae s.l. (Jungermanniales, Marchantiophyta). Arctoa
+21: 113–132.
+
+ň
+
+ň
+ň
+
+NEW COMBINATIONS AND SYNONYMS IN CEPHALOZIACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 15
+
+

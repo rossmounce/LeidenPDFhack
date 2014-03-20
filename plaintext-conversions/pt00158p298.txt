@@ -1,0 +1,121 @@
+Phytotaxa 158 (3): 297–298
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.158.3.10
+
+Nomenclatural note on three ferns from India
+JAIDEEP MAZUMDAR
+Department of Biological Sciences, Burdwan Town School, Burdwan-713101, India.
+E-mail: jaideepmazumdar10@gmail.com
+
+Ongoing molecular phylogenetic analyses are continuously providing better resolution of phylogenetic relations of
+ferns (Ebihara et al. 2006,Tsutsumi et al. 2008) and nomenclatural changes are necessary to maintain uniformity
+(Christenhusz et al. 2011). Here contemporary names are suggested for three fern species from India. Type
+information is provided and barcodes of digitalized specimens are given.
+
+[Davalliaceae]
+Davallodes squamata (Decne.) Mazumdar, comb. nov.
+Cystopteris squamata Decne. in Jacquemont (1844: 178). Araiostegia squamata (Decne.) Fraser-Jenkins (2008: 354). Type:—
+INDIA. Maharashtra: north Western Ghats [as “a Carli ad Candala”], September, V. Jacquemont 599 (lectotype P00645160 specimen 1 of 2, designated here; isolectotypes P-00645160 specimen 2 of 2, P-00645161, P-00645162).
+
+Note:— Fraser-Jenkins (2008: 354) distinguished this species from Davallodes pulchra (D.Don Prodromus Florae
+Nepalensis 11. 1825) Kato & Tsutsumi (2008: 13) following the description by Jacquemont (1844: 178), in having
+relatively shorter stipes, wider fronds with wider segments and thicker, less knobby rhizomes; this is evident in
+type specimens at P (P-00645160, 00645161, 00645162). In sheet P-00645160, plant material at left is treated as
+lectotype and the other one at right as isolectotype (http://dsiphoto.mnhn.fr/sonnerat/LAPI/scanH/H20081008/
+P00645160.jpg). Araiostegia Copeland (1927: 240) is now included in Davallodes Copeland (1908: 33) (Tsutsumi
+et al. 2008, Christenhusz et al. 2011: 32) and a new combination is made here.
+
+[Hymenophyllaceae]
+Didymoglossum henzaianum (Parish ex Hook.) Mazumdar comb. nov.
+Trichomanes henzaianum Parish ex Hooker (1861: 1). Microgonium henzaianum (Parish ex Hooker) Copeland (1938: 62).
+Type:—MYANMAR. Mawlamyine [as “Moulmein”]: Henzai basin, 60 miles from Tavoz, between Tavoz and Henzai, 1
+June 1859, C.S.P. Parish 5 (holotype K-000974336, isotypes BM, GH).
+Topotypes:— MYANMAR. Mawlamyine, 1858, C.S.P. Parish s.n. (K-000974333, K-000974334, K-000974335, P-00623405,
+P-00623406); 1 July 1858, C.S.P. Parish s.n. (E-00413866); 15 December 1858, C.S.P. Parish s.n. (E-00413864); 1859,
+C.S.P. Parish s.n. (MICH-1191074).
+
+Note:—This species is known to occur in India (Karnataka), Myanmar, Thailand, Vietnam and Malaysia (Croxall
+1986, Madhusoodanan et al. 1996, Fraser-Jenkins 2012). Ebihara et al. (2006) listed this species under
+Didymoglossum Desvaux (1827: 330), oblivious of the fact that the corresponding combination did not exist.
+Croxall (1986) mentioned K-000974336 as holotype, but Hooker (1861) did not designate a holotype in the
+protologue, reporting that the plants have been “detected by Mr. Henzai and the Rev. C.S.P. Parish, partially
+clothing the trunks of trees at Moulmein [Mawlamyine], 1859”. The matching information between protologue and
+the specimen label of holotype (K-000974336) as well as the congruence between the illustration (Hooker 1861)
+and the Kew specimen compel me to follow Croxall (1986) because the Kew specimen apparently served solely as
+basis for the species description. Also, other specimens mentioned as types at E, K, MICH, P (listed above) should
+be considered as topotypes as those bear different dates and are without any collection numbers.
+
+Accepted by Marcus Lehnert: 13 Jan. 2013; published: 4 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+297
+
+[Tectariaceae]
+Tectaria nayarii Mazumdar, nom. nov.
+Stenosemia pinnata Copeland (1906: 146). Heterogonium pinnatum (Copel.) Holttum (1949: 163), not Tectaria pinnata
+(Christensen 1936[1937]: 37) Tryon & Tryon (1981: 136). Type:—PHILIPPINES. Mindanao: Zamboanga, San Ramon,
+300 ft, 8 January 1905, E.B. Copeland 1601 (holotype MICH-1191022).
+
+Note:—H. pinnatum is known to occur in India (Andaman Islands), Malaysia, Indonesia, and Philippines (Dixit &
+Sinha 2001, Fraser-Jenkins 2012). Heterogonium Presl (1851: 142) is subsumed in Tectaria Cavanilles (1799: 115)
+(Christenhusz et al. 2011). Due to preoccupancy by Tectaria pinnata (C.Chr.) R.M.Tryon & A.F.Tryon, a new
+name honoring eminent Indian pteridologist Bala Krishnan Nayar (1927–2012) is proposed.
+
+Acknowledgements
+I sincerely thank Dr. M. Lehnert, editor, Phytotaxa for correcting and improving the manuscript and Miss M. Gimber,
+Assistant Botanist, Kew for providing useful information about specimens of Trichomanes henzaianum at K.
+
+References
+Cavanilles, A.J. (1799) Botánica. Anales de historia natural 1(2): 89–115. (http://www.biodiversitylibrary.org/item/4484)
+Christenhusz, M.J.M., Zhang, X.-C. & Schneider, H. (2011) A linear sequence of extant families and genera of lycophytes and
+ferns. Phytotaxa 19: 7–54.
+Christensen, C. (1936[1937]) The collection of Pteridophyta made in Hispaniola by E.L. Ekman, 1917 and 1924-30. Kongliga
+Svenska Vetenskaps Academiens Handlingar, n.s. 16: 1–93.
+Copeland, E.B. (1906) New Philippine ferns. The Philippine Journal of Science 1(Suppl. 2): 143–166.
+Copeland, E.B. (1908) New or interesting Philippine ferns III. The Philippine Journal of Science 1: 31–39.
+Copeland, E.B. (1927) Davallodes and related genera. The Philippine Journal of Science 34:239–257.
+Copeland, E.B. (1938) Genera Hymenophyllacearum. The Philippine Journal of Science 67: 1–110.
+Croxall, J.P. (1986) Microgonium (Hymenophyllaceae) in Malesia, with Special Reference to Peninsular Malaysia. Kew
+Bulletin 41: 519–553.
+http://dx.doi.org/10.2307/4103113
+Desvaux, N.A. (1827) Prodrome de la famille des fougères. Mémoires de la Société Linnéenne de Paris 6: 171–337.
+Dixit, R.D. & Sinha, B.K. (2001) Pteridophytes of Andaman and Nicobar Islands. Bishen Singh Mahendra Pal Singh,
+Dehradun. 155 pp.
+Don, D. (1825) Prodromus Florae Nepalensis. J. Gale, London, 256 pp.
+Ebihara, A., Dubuisson, J.-Y., Iwatsuki, K., Hennequin, S. & Ito, M. (2006) A Taxonomic Revision of Hymenophyllaceae.
+Blumea 51: 221–280.
+http://dx.doi.org/10.3767/000651906x622210
+Fraser-Jenkins, C.R. (2008) Taxonomic revision of three hundred Indian subcontinental Pteridophytes with a revised CensusList. Bishen Singh Mahendra Pal Singh, Dehra Dun, 685 pp.
+Fraser-Jenkins, C.R. (2012) Rare and Threatened Pteridophytes of Asia 2. Endangered Species of India—the Higher IUCN
+Categories. Bulletin of the National Museum of Nature and Science. Series B 38: 153–181.
+Holttum, R.E. (1949) The fern genus Heterogonium Presl. Sarawak Museum Journal 5: 156–166.
+Hooker, W.J. (1861) A second century of ferns. W. Pamplin, London, 218 pp. http://dx.doi.org/10.5962/bhl.title.54283
+Jacquemont, V. (1844) Voyage dans l’Inde /par Victor Jacquemont, pendant les années 1828 à 1832; publié sous les auspices
+de M. Guizot, ministre de l'instruction publique. Firmin Didot frères, Paris, 180 pp.
+http://dx.doi.org/10.5962/bhl.title.50803
+Kato, M. & Tsutsumi, C. (2008) Generic classification of Davalliaceae. Acta Phytotaxonomica et Geobotanica 59: 1–14.
+Madhusoodanan, P.V., Hameed, C.A. & Rajagopal, P.K. (1996) Microgonium henzaianum (Parish ex. Hook.) Copel.
+(Hymenophyllaceae) a new record for India. Indian Fern Journal 13: 75–77.
+Presl, C. (1849[1851]) Epimeliae botanicae. A. Haase, Prague, 264 pp. http://dx.doi.org/10.5962/bhl.title.61845
+Tryon R. & Tryon A. (1981) Taxonomic and nomenclatural notes on ferns. Rhodora 83: 133–137.
+Tsutsumi, C., Zhang, X.-C. & Kato, M. (2008) Molecular phylogeny of Davalliaceae and implications for generic
+classification. Systematic Botany 33: 44–48.
+http://dx.doi.org/10.1600/036364408783887492
+
+298 •
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+MAZUMDAR
+
+

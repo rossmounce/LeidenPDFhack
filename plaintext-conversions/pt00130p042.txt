@@ -1,0 +1,1045 @@
+Phytotaxa 130 (1): 34–42 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.130.1.4
+
+A new species of Chrysosphaerella (Chrysophyceae: Chromulinales),
+Chrysosphaerella rotundata sp. nov., from Finland
+MAGDA ŠKALOUDOVÁ1 & PAVEL ŠKALOUD
+Department of Botany, Charles University in Prague, Benátská 2, 128 01 Prague, Czech Republic
+1
+Corresponding author (magda.skaloudova@centrum.cz)
+
+Abstract
+Chrysosphaerella rotundata sp. nov. is described from a small lake in Finland. Ultrastructural morphology of C.
+rotundata scales is similar, even identical, to the morphology of C. brevispina scales. However, C. rotundata possesses
+three types of scales: scales characterized by a circular or almost circular outline were found in addition to the larger and
+smaller oval scales. Significant genetic differences were recognized in ITS rDNA sequences between C. rotundata and
+C. brevispina. Results of the molecular analyses and the observed morphological variation of scales have been discussed,
+clearly showing the existence of a hidden diversity within the genus Chrysosphaerella.
+
+Introduction
+The genus Chrysosphaerella Lauterborn (1896: 16) represents free-living, autotrophic organisms covered
+with siliceous scales and spines and bearing two flagella of unequal length. Cells may be solitary or grouped
+in more or less spherical colonies. Two colonial taxa, C. longispina Lauterborn (1896: 16) and C. brevispina
+Korshikov (1942: 31) emend. Harris & Bradley (1958: 75) are commonly found in freshwater habitats
+(Kristiansen & Preisig 2001). Taxonomy of the genus Chrysosphaerella is based on ultrastrucutre of siliceous
+scales and spines, and the images of C. longispina and C. brevispina include both transmission and scanning
+electron micrographs (e.g. Nicholls 1980, Cronberg & Kristiansen 1980, Siver 1993). The phylogenetic
+position of the genus Chrysosphaerella was reported by Andersen (2007) based on uncultured and
+unidentified isolates. Subsequently, SSU rDNA and rbcL sequences of cultured C. brevispina and C.
+longispina corroborated the phylogenetic position of Chrysosphaerella, which is firmly placed into the clade
+comprising naked chrysophyte genera Chrysamoeba Klebs (1893: 407), Chromulina Cienkowski (1870: 435),
+and Oikomonas Kent (1880: 230, 250) (Škaloud et al. 2013).
+The detailed ecological study of C. brevispina and C. longispina has been published by Siver (1993), who
+investigated their distribution along seasonal, temperature, pH, specific conductance, and total phosphorus
+gradients. Chrysosphaerella brevispina and C. longispina have been proposed to be distributed primarily in
+the winter and the summer/autumn months, respectively. Both taxa were found to be primarily distributed at
+pH 5 to 7, and in waters having low specific conductance. However, C. brevispina has been proposed to
+tolerate higher trophic and conductance conditions, which could explain its more common occurrence (Siver
+1993).
+Colonial Chrysosphaerella species are widely distributed worldwide (Siver 1993). Both species have been
+reported from Finland as well (e.g. Hällfors & Hällfors 1988, Ikävalko 1994). During our investigation of
+Finnish chrysophyte flora in the spring of 2012, we reported Chrysosphaerella taxa in several investigated
+localities. Besides C. brevispina colonies bearing morphologically typical silica scales, some isolated colonies
+were partially covered by distinct, rounded scales. Therefore, we aimed to further investigate the morphology
+and phylogenetic position of this organism.
+
+34 Accepted by Saúl Blanco Lanza: 27 Aug. 2013; published: 10 Sept. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Material and methods
+The material was collected on 1 May 2012 from a small, unnamed lake near the Alalampi lake in Central
+Finland (62° 15’ 1.07” N, 26° 34’ 48.00” E, water temperature: 5.6 °C, pH: 7, conductivity: 40 μS cm-1), using
+a plankton net with a mesh size of 20 μm. The Chrysosphaerella colonies were isolated by pipetting, and were
+subsequently cultured at 15 °C in Erlenmeyer flasks filled with DY IV medium (Andersen et al. 1997). In
+addition, we investigated the culture of C. brevispina S 74.D5 isolated from Dráchovské pools in the Czech
+Republic (Škaloud et al. 2013). For transmission electron microscopy (TEM) investigations, the samples were
+dried onto Formvar-coated copper grids and gently rinsed with distilled water. The TEM grids were examined
+with a JEOL 1011 transmission electron microscope.
+For DNA isolation, ca. 2000 cells were centrifuged in PCR tubes (6000 rpm for 3 minutes), and 50 mL of
+InstaGene matrix (Bio-Rad Laboratories) was added to the pellet. The solution was vortexed for 10 s, incubated
+at 56 °C for 30 min, and heated at 99 °C for 8 min. After vortexing a second time, the tubes were centrifuged at
+12000 rpm for 2 min, and the supernatant was directly used as a PCR template. Two molecular markers were
+ampliﬁed by PCR: nuclear SSU rDNA and chloroplast rbcL. The amplification of SSU rDNA was performed
+as described by Škaloud et al. (2013), using the primers 18S-F and 18S-R (Katana et al. 2001). The
+amplification of the rbcL marker was performed according to Jo et al. (2011), using the newly designed primers
+rbcL-Chrys-F1 (5’-TTG GAC AGA TTT ATT AAC-3’), rbcL-Chrys-F2 (5’-TTA TTA ACW GCT TGT GAT3’) and rbcL-Chrys-R (5’-TCC ATR TCR AAG AAA ATW CC-3’). The amplification of ITS rDNA was
+performed as described by Kynčlová et al. (2010). The PCR products were purified and sequenced at Macrogen
+in Seoul, Korea. The newly obtained sequences of the ITS rDNA, SSU rDNA and rbcL regions of C. rotundata
+and C. brevispina were deposited in GenBank with the accession numbers HG315742 - HG315746.
+A multiple alignment of the newly determined SSU rRNA and rbcL gene sequences and other sequences
+selected from the GenBank/EMBL/DDBJ databases was built using MAFFT, version 6, applying the Q-INS-i
+strategy (Katoh et al. 2002). The sequences were selected to encompass all known Chrysophyte lineages, with
+the exception of Paraphysomonadales, for which the rbcL sequences are unavailable. The final matrix
+contained 52 taxa (51 SSU rDNA and 48 rbcL sequences, respectively). Nannochloropsis limnetica
+(Eustigmatophyceae) and Synchroma grande (Picophagea/Synchromophyceae) were selected as ougroup.
+Poorly aligned regions of the SSU rDNA partition, as well as the saturated positions of the rbcL partition,
+were removed as described in Škaloud et al. (2013). The final concatenated alignment consisted of 2591 bp
+comprising 1687 bp of SSU rDNA and 904 bp of rbcL. Suitable substitution models for the entire SSU rDNA
+dataset and individual rbcL codon positions were selected using MEGA 5 (Tamura et al. 2011). The
+GTR+G+I model was estimated as the most appropriate for all partitions.
+The phylogenetic trees were inferred with Bayesian Inference (BI) by using MrBayes v. 3.2.1 (Ronquist &
+Huelsenbeck 2003), maximum likelihood (ML) analysis using GARLI v. 2.0 (Zwickl 2006), and weighted
+maximum parsimony (wMP) analysis using PAUP v. 4.0b10 (Swofford 2002), respectively. BI analysis was
+carried out on a partitioned dataset to differentiate among SSU rDNA gene and individual rbcL codon
+positions. All parameters were unlinked among partitions. Two parallel Markov Chain Monte Carlo (MCMC)
+runs were carried out for 5 million generations each with one cold and three heated chains. Trees and
+parameters were sampled for every 100 generations. Parameter stability and run convergence were inspected
+using Tracer v1.4.1 (Rambaut & Drummond 2003). The first 10% of samples were discarded as burnin, using
+the “sumt” command. ML analysis was carried out on a partitioned dataset, with the GTR+G+I model applied
+to each partition, using default settings, five search replicates, and the automatic termination set at 100000
+generations. The wMP analysis was performed using heuristic searches with 1000 random sequence addition
+replicates, TBR swapping, and random addition of sequences (the number was limited to 10000 for each
+replicate). The weight to the characters was assigned using the rescaled consistency index on a scale of 0–
+1000. New weights were based on the mean of the ﬁt values for each character over all of the trees in memory.
+ML and MP bootstrap support values were obtained from 100 and 1000 bootstrap replicates, respectively.
+Only one search replicate was applied for the ML bootstrapping.
+CHRYSOSPHAERELLA ROTUNDATA SP. NOV.
+
+Phytotaxa 130 (1) © 2013 Magnolia Press
+
+• 35
+
+The ITS2 secondary structures of investigated Chrysosphaerella strains were constructed using the mfold
+computer program v. 2.3 (Zuker 2003), with folding temperature set to 18 °C. Consensus secondary structure
+was drawn using VARNA (Darty et al. 2009), and the compensatory base changes (CBC) were manually
+derived.
+
+FIGURES 1–6. Chrysosphaerella rotundata, sp. nov. Fig. 1. Large oval and less or more circular scales. Fig. 2. Large circular scale.
+Fig. 3. Large and small oval scales. Fig. 4. Spine with a thick shaft, and both oval and circular scales. Fig. 5. Two spines with a thick
+shaft. Fig. 6. Spine showing a variation in a thickness of a shaft. Scale bars: Figs. 1, 3–6: 2 µm; Fig. 2: 1 µm.
+
+36 •
+
+Phytotaxa 130 (1) © 2013 Magnolia Press
+
+ŠKALOUDOVÁ & ŠKALOUD
+
+Taxonomy
+Chrysosphaerella rotundata Škaloudová & Škaloud, sp. nov. (Figs. 1–6)
+Colonies spherical, consisting of cells bearing two flagella. Cells covered by numerous scales and spines. Three size
+classes of scales occur: large circular scales (3.0–3.5 × 2.2–3.1 μm), large oval scales (2.0–3.1 × 1.3–2.4 μm), and
+smaller oval scales (1.5–1.7 × 1.2 μm). Scales patterned with a series of short ridges forming a scalloped shaped
+pattern. Spines with a shaft joining the two plates of the bobbin-like structure. The length of the spines varies from 4
+μm to 10 μm. Cysts unknown.
+Type:—FINLAND. Keski-Suomi, 62° 15’ 1.07” N, 26° 34’ 48.00” E, a small, oligotrophic unnamed lake, water
+temperature 5.6 °C, pH 7, conductivity 40 μS cm-1, coll. Škaloudová & Škaloud, 1 May 2012 (holotype: Strain
+S89.C4, frozen material deposited at the Culture Collection of Algae of the Charles University in Prague,
+Department of Botany, Benátská 2, 12801 Prague 2, Czech Republic). Fig. 2 is an illustration of the holotype.
+
+Cells were grouped into spherical colonies. Individual cells were spherical to pyriform, about 12–13 μm long
+and 11 μm wide, bearing two flagella. Cells were covered by numerous scales and spines. Three size classes
+of scales might be discerned; however, a continuous transition in size of scales existed. The majority of the
+scales were larger and oval in outline (Figs. 1, 3). The second type of the scales, larger and circular in outline,
+were produced less frequently (Fig. 2). However, presence of the large, circular-shaped scales was a main
+distinguishing character of Chrysosphaerella rotundata. Both large circular and oval scales were patterned
+with a series of short ridges forming a scalloped shaped pattern. The pattern of smaller oval scales (Fig. 3) was
+the same as that of larger scales, but often less distinct. The spines had a thick shaft joining the two plates of
+the bobbin-like structure (Figs. 4–5); however, a variation in the thickness of the shaft was observed and
+spines with a thinner shaft were found as well (Fig. 6).
+Etymology:—The specific epithet ‘rotundata’ refers to the rounded shape of scales.
+Phylogenetic analyses, ITS2 secondary structures:—Bayesian inference, Maximum Likelihood, and
+Maximum Parsimony analyses inferred from the concatenated SSU rDNA and rbcL sequences resulted in
+highly similar phylogenetic trees, recognizing the six main lineages within Chrysophyceae (Fig. 7). According
+to their members, the lineages could be recognized as traditionally defined orders: Chromulinales,
+Chrysosaccales, Hibberdiales, Hydrurales, Ochromonadales, and Synurales. With the exception of the
+Ochromonadales, all lineages were also significantly supported by ML and wMP analyses. Both analyses
+resolved the Ochromonadales as monophyletic, but without any statistical support. The genus
+Chrysosphaerella formed a firmly supported monophyletic lineage within the Chromulinales (Fig. 7). It was
+divided into two supported subclades. Chrysosphaerella rotundata was inferred as closely related to
+morphologically similar C. brevispina, with which it formed the first inferred subclade. The species differed by
+eight and eleven nucleotide substitution changes in the SSU rDNA and rbcL sequences, respectively. The
+second subclade consisted of C. longispina and two environmental Chrysosphaerella isolates. Since the isolates
+were molecularly characterized by only the SSU rDNA (summer isolate) or rbcL (winter isolate) sequence, we
+could not exclude that they in fact belong to the same genotype. The environmental isolates differed by two
+nucleotide substitution changes in the SSU rDNA and rbcL sequences from the C. longispina sequences.
+To further evaluate the degree of genetic differentiation of the closely related C. rotundata and C.
+brevispina, we additionally sequenced the ITS1-5.8S rDNA-ITS2 region. The ITS1 region was hardly
+alignable, and the sequences differed significantly in their length (342 bp in C. rotundata vs. 294 bp in C.
+brevispina). Within the aligned regions, the divergence between the ITS1 rDNA sequences was approximately
+15.5%. The length of the ITS2 region was similar in both species (293 bp in C. rotundata vs. 287 bp in C.
+brevispina), and the overall divergence between the ITS2 rDNA sequences was approximately 12.5%. In
+addition, we mapped the differences in the ITS2 sequence on a predicted ITS2 secondary structure (Fig. 8).
+Most of the differences were located in terminal and internal hairpin loops. Four compensatory base changes
+(CBCs) were found in the stem regions of helices I and II.
+
+CHRYSOSPHAERELLA ROTUNDATA SP. NOV.
+
+Phytotaxa 130 (1) © 2013 Magnolia Press
+
+• 37
+
+FIGURE 7. Bayesian analysis of Chrysophyceae, based on the combined and partitioned SSU rDNA + rbcL dataset using a GTR+G+I
+model for all partitions. Values at the nodes indicate statistical support estimated by three methods – MrBayes posterior-node probability
+(left), maximum-likelihood bootstrap (middle), and maximum parsimony bootstrap (right). Thick branches represent nodes receiving the
+highest PP support (1.00). Newly obtained sequences are given in bold. Accession numbers for the concatenated sequences (SSU rDNA
+and rbcL, respectively) accompany each species name. Scale bar shows the estimated number of substitutions per site.
+
+Discussion
+Chrysosphaerella brevispina is characterized by two types of scales, differing by their size. Siver (1993) has
+measured both types of scales found in several North American localities: the dimension of the larger oval
+scales was 2.9–4.0 × 1.4–2.5 μm, and the mean size of the smaller oval scales was 1.7 × 0.8 μm. This
+observed range of scale sizes of both the large and the small types is in agreement with the C. brevispina
+scales found in Europe (own unpublished data). In Chrysosphaerella rotundata, both large and small scale
+types are also produced. Morphologically, they are identical to C. brevispina by their oval shape, but they tend
+to be slightly shorter and wider. Besides the larger and smaller oval scales, C. rotundata possesses the third,
+newly recognized type of scales, characterized by a circular or almost circular outline. Interestingly, large,
+more or less circular Chrysosphaerella scales have been recorded by Nicholls (1984), who considered them as
+belonging to C. brevispina. However, only oval scales were mentioned and illustrated in Korshikov’s original
+description of C. brevispina (Korshikov 1942), based on light microscopic investigations. Subsequently,
+Harris & Bradley (1958) have emendated Korshikov’s description by characterizing the detailed
+ultrastructural morphology of the C. brevispina scales and spines observed by electron microscope. Congruent
+with the original description, they have recorded the oval shaped scales only.
+
+38 •
+
+Phytotaxa 130 (1) © 2013 Magnolia Press
+
+ŠKALOUDOVÁ & ŠKALOUD
+
+CHRYSOSPHAERELLA ROTUNDATA SP. NOV.
+
+Phytotaxa 130 (1) © 2013 Magnolia Press
+
+• 39
+
+A
+
+A
+
+C
+
+G
+
+G
+
+A
+
+U
+
+C
+
+U
+
+A
+
+C
+
+G
+
+U
+
+U
+
+U
+
+A
+
+A
+
+G
+
+C
+
+A
+
+40
+
+C
+
+G
+
+U
+
+C
+
+C
+
+C
+
+G
+
+C
+
+C
+
+C
+
+U
+C
+A
+
+U
+
+G
+
+A
+
+U
+
+C
+
+C U U U
+
+U
+
+A
+
+U
+
+G
+
+G A
+
+U
+
+C
+
+110
+
+U
+
+30
+
+U
+
+C
+
+A
+
+G
+
+G
+
+U
+
+A
+
+G
+
+A
+
+U
+
+C
+
+U
+
+C
+
+C
+
+U
+
+A
+
+I
+
+U
+
+C
+
+U
+
+U
+G
+
+G
+U
+
+A
+C
+
+A
+
+U
+
+U
+
+U
+
+A
+
+C
+
+A
+10
+
+U
+
+C
+
+130
+
+G
+A
+A
+
+U
+
+A
+
+G
+
+A
+
+1
+
+A
+
+C
+
+G
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+G
+
+C
+
+U
+
+U
+
+U
+
+5' 3'
+
+U
+
+U
+
+C
+
+G
+
+G
+
+G
+
+A
+
+C
+
+U
+
+C
+
+U
+
+U
+
+G
+
+A
+
+A
+
+G
+
+G
+
+305
+
+A
+
+C
+
+160
+
+A
+
+150
+
+U
+
+U
+
+G
+
+26S
+
+G
+300
+
+C
+
+U
+
+CC
+
+A
+
+G
+U
+U
+U
+U
+
+U
+U
+
+A
+
+ITS2
+
+5.8S
+
+G
+
+90
+
+A
+
+G
+
+A
+
+U
+
+U
+
+U
+
+A
+
+A
+
+G
+
+140
+
+A
+
+C
+
+U
+
+C 290
+C
+
+UU A UG
+
+U
+A
+A
+C
+A
+
+C
+
+G
+
+U
+
+U
+
+G
+
+C
+
+C
+
+C
+
+U
+
+Chrysosphaerella rotundata
+
+20
+
+U
+
+C
+
+G
+
+U
+
+C
+
+U
+
+U
+
+G
+
+A
+
+A 100
+
+G
+
+G
+
+A
+
+U
+
+A G G
+
+U
+
+U
+
+A
+
+A
+
+C
+
+C
+
+U
+
+U
+
+A
+
+G
+
+G
+
+G
+
+A
+
+A 120
+
+U
+
+U
+
+80
+
+G
+
+A
+
+A
+
+C
+
+III
+G
+
+U
+U
+
+A
+
+170
+A
+
+280
+
+U
+
+G
+
+A
+
+G
+
+A
+
+U
+
+U
+
+U
+
+A
+
+U U
+G C
+U
+
+U
+
+A
+
+U
+
+A
+A
+A
+
+A
+
+A
+
+180
+
+270
+
+G
+
+U
+
+U
+
+C
+
+U
+
+A
+
+U A
+
+A
+
+G
+
+U
+
+G
+
+C
+
+U
+
+CC
+
+GA
+
+C
+
+A
+
+C
+
+U
+
+U
+
+G
+
+A
+
+C
+C
+
+A
+
+250
+
+A
+
+U
+
+C
+
+U G
+
+G
+
+G
+
+IV
+UUU
+260
+
+A
+A
+A
+
+U
+
+190
+C
+
+A
+U
+
+240
+
+A
+
+G
+
+200
+
+G
+
+C
+
+U
+
+U
+
+U
+
+A
+
+A
+
+A
+
+C
+
+G
+
+U
+
+A
+
+U
+G
+
+A
+
+GG
+
+C
+
+A
+210
+U
+
+G
+
+A
+
+G
+
+U
+C
+A
+C
+C
+A
+
+U
+
+U
+
+U
+
+A
+
+C
+
+U
+
+U
+
+230
+
+U
+
+A
+
+G
+
+U
+
+U
+
+220
+U
+
+U
+G C
+
+C
+
+A
+
+U
+
+(CBCs).
+
+shown by the structure and connected to the respective position by a short line, deletions are indicated with minus symbols. Four base pairs marked in grey boxes are compensatory base changes
+
+helices are numbered with Roman numerals. The structure shown corresponds to C. rotundata; positions conserved in C. brevispina are portrayed in green, bases substituted in C. brevispina are
+
+FIGURE 8. Comparison of the ITS2 sequences and predicted secondary structures of Chrysosphaerella rotundata and C. brevispina. Base numbering is indicated every 10 bases, and the four
+
+50
+
+A
+
+U
+
+G
+
+A
+
+60
+
+U
+
+70
+
+II
+
+U A
+
+U
+U
+
+The above-mentioned morphological differences warrant the recognition of C. brevispina and C.
+rotundata as two distinct species. The existence of these two species is further supported by significant
+genetic differences found in their ITS rDNA sequences. Within the past two decades, the ITS rDNA region
+has become the single most frequently utilized DNA marker to assess species diversity in various groups of
+microalgae, including chrysophyte algae (Wee et al. 2001, Kynčlová et al. 2010, Boo et al. 2010, Škaloud et
+al. 2012). The observed sequence divergence in both the ITS1 rDNA (15.5%) and the ITS2 rDNA (12.5%)
+region is much higher or comparable to the differences observed among the recently described cryptic species
+within the S. petersenii complex (Škaloud et al. 2012), where it varies from 2 to 13% in the ITS1 region and 5
+to 12% in the ITS2 region, respectively). In addition, a comparison of ITS2 secondary structures of C.
+brevispina and C. rotundata revealed the presence of four compensatory base changes (CBCs) in the stem
+regions of helices I and II. According to the CBC species concept, the presence of even a single CBC in
+helices II and III should correspond to incompatibility to sexually cross, and thus determines the limit between
+biological species (Coleman 2000). However, since the application of the CBC species concept in species
+delimitation is still speculative (Caisová et al. 2011), we rather consider the presence of three CBCs as an
+attribute of elapsed evolutionary time, indicating that sufficient time has passed to produce a speciation event
+(Müller et al. 2007).
+Finally, our results provide the first clear evidence of the existence of hidden diversity within the genus
+Chrysosphaerella. Observations of morphologically exceptional Chrysosphaerella scales were occasionally
+reported in the past. Apart from the large, circular scales (Nicholls 1984), morphologically distinct triangular
+shaped scales were reported by Siver (1993) in Connecticut, U.S.A. and by Wujek et al. (1981) in Minnesota,
+U.S.A. It is highly probable that all these scales in fact belong to a yet undescribed, hidden species. Recently
+published studies provide clear data that hidden species could significantly differ in their ecological niche
+(e.g., Amato et al. 2007, Pfandl et al. 2009). Therefore, characterization of these species is extremely
+important as it may provide the key to correctly interpret the distribution, abundance, and biology of
+planktonic organisms.
+
+Acknowledgements
+This study was supported by Grant P506/11/P056 from the Czech Science Foundation.
+
+References
+Amato, A., Kooistra, W.H.C.F., Ghiron, J.H.L., Mann, D.G., Pröschold, T. & Montresor, M. (2007) Reproductive
+isolation among sympatric cryptic species in marine diatoms. Protist 158: 193–207.
+http://dx.doi.org/10.1016/j.protis.2006.10.00
+Andersen, R.A. (2007) Molecular systematics of the Chrysophyceae and Synurophyceae. In: Brodie, J. & Lewis, J. (eds.)
+Unravelling the algae: the past, present, and future of algal systematics. CRC Press, Boca Raton, pp. 285–313.
+http://dx.doi.org/10.1201/9780849379901.ch15
+Andersen, R.A., Morton, S.L. & Sexton, J.P. (1997) Provasoli-Guillard National Center for Culture of Marine
+Phytoplankton 1997. List of strains. Journal of Phycology 33 (suppl.): 1–5.
+http://dx.doi.org/10.1111/j.0022-3646.1997.00001.x
+Boo, S.M., Kim, H.S., Shin, W., Boo, G.H., Cho, S.M., Jo, B.Y., Kim, J., Kim, J.H., Yang, E.C., Siver, P.A., Wolfe, A.P.,
+Bhattacharya, D., Andersen, R.A. & Yoon, H.S. (2010) Complex phylogeographic patterns in the freshwater alga
+Synura provide new insights into ubiquity vs. endemism in microbial eukaryotes. Molecular Ecology 19: 4328–
+4338.
+http://dx.doi.org/10.1111/j.1365-294X.2010.04813.x
+Caisová, L., Marin, B. & Melkonian, M. (2011) A close-up view on ITS2 evolution and speciation - a case study in the
+Ulvophyceae (Chlorophyta, Viridiplantae). BMC Evolutionary Biology 11: 262.
+http://dx.doi.org/10.1186/1471-2148-11-262
+Cienkowski, L. (1870) Über Palmellaceen unde einige Flagellaten. Archiv für Mikroskopische Anatomie 6: 421–438.
+
+40 •
+
+Phytotaxa 130 (1) © 2013 Magnolia Press
+
+ŠKALOUDOVÁ & ŠKALOUD
+
+Coleman, A.W. (2000) The significance of a coincidence between evolutionary landmarks found in mating affinity and a
+DNA sequence. Protist 151: 1–9.
+http://dx.doi.org/10.1078/1434-4610-00002
+Cronberg, G. & Kristiansen, J. (1980) Synuraceae and other Chrysophyceae from central Småland, Sweden. Botaniska
+Notiser 133: 595–618.
+Darty, K., Denise, A. & Ponty, Y. (2009) VARNA: interactive drawing and editing of the RNA secondary structure.
+Bioinformatics 25: 1974–1975.
+http://dx.doi.org/10.1093/bioinformatics/btp250
+Hällfors, G. & Hällfors, S. (1988) Records of chrysophytes with siliceous scales (Mallomonadaceae and
+Paraphysomonadaceae) from Finnish innland waters. In: Jones, R. & Ilmavirta, V. (eds.) Flagellates in freshwater
+ecosystems. Hydrobiologia 161: 1–29.
+http://dx.doi.org/10.1007/BF00044096
+Harris, K. & Bradley, D.E. (1958) Some unusual Chrysophyceae studied in the electron microscope. Journal of General
+Microbiology 18: 71–83.
+http://dx.doi.org/10.1099/00221287-18-1-71
+Ikävalko, J. (1994) Contribution to the flora of silica-scaled flagellates in Mikkeli, central Finland. Nova Hedwigia 58:
+475–505.
+Jo, B.Y., Shin, W., Boo, S.M., Kim, H.S. & Siver, P.A. (2011) Studies on ultrastructure and three-gene phylogeny of the
+genus Mallomonas (Synurophyceae). Journal of Phycology 47: 415–425.
+http://dx.doi.org/10.1111/j.1529-8817.2010.00953.x
+Katana, A., Kwiatowski, J., Spalik, K., Zakryś, B., Szalacha, E. & Szymańska, H. (2001) Phylogenetic position of
+Koliella (Chlorophyta) as inferred from nuclear and chloroplast small subunit rDNA. Journal of Phycology 37: 443–
+451.
+http://dx.doi.org/10.1046/j.1529-8817.2001.037003443.x
+Katoh, K., Misawa, K., Kuma, K. & Miyata, T. (2002) MAFFT: a novel method for rapid multiple sequence alignment
+based on fast Fourier transform. Nucleic Acids Research 30: 3059–3066.
+http://dx.doi.org/10.1093/nar/gkf436
+Kent, W.D. (1880) A manual of the Infusoria; including a description of all known flagellate, ciliate and tentaculiferous
+Protozoa, British and foreign, and an account of the organisation and affinities of the sponges. London: David
+Bogue. Vol. I pp. 1–193.
+Klebs, G.A. (1893) Flagellatenstudien II. Zeitschrift für Wissenschaftliche Zoologie 55: 353–445.
+Korshikov, A.A. (1942) On some new or little known flagellates. Archiv für Protistenkunde 95: 22–44.
+Kristiansen, J. & Preisig, H.R. (eds.) (2001) Encyclopedia of Chrysophyte Genera. Bibliotheca Phycologica 110: 1–260.
+Kynčlová, A., Škaloud, P. & Škaloudová, M. (2010) Unveiling hidden diversity in the Synura petersenii species complex
+(Synurophyceae, Heterokontophyta). Nova Hedwigia Beiheft 136: 283–298.
+Lauterborn, R. (1896) Diagnosen neuer Protozoen aus dem Gebiete des Oberrheins. Zoologischer Anzeiger 19: 14–18.
+Müller, T., Philippi, N., Dandekar, T., Schultz, J. & Wolf, M. (2007) Distinguishing species. RNA 13: 1469–1472.
+http://dx.doi.org/10.1261/rna.617107
+Nicholls, K.H. (1980) A reassessment of Chrysosphaerella longispina and C. multispina, and a revised key to related
+genera in the Synuraceae (Chrysophyceae). Plant Systematics and Evolution 135: 95–106.
+Nicholls, K.H. (1984) Spiniferomonas septispina and S. enigmata, two new algal species confusing the distinction
+between Spiniferomonas and Chrysosphaerella. Plant Systematics and Evolution 148: 103–117.
+Pfandl, K., Chatzinotas, A., Dyal, P. & Boenigk, J. (2009) SSU rRNA gene variation resolves population heterogeneity
+and ecophysiological differentiation within a morphospecies (Stramenopiles, Chrysophyceae). Limnology and
+Oceanography 54: 171–181.
+http://dx.doi.org/10.4319/lo.2009.54.1.0171
+Rambaut, A. & Drummond, A. (2003) Tracer: MCMC trace analysis tool. University of Oxford, Oxford.
+Ronquist, F. & Huelsenbeck, J.P. (2003) MrBayes 3: Bayesian phylogenetic inference under mixed models.
+Bioinformatics 19: 1572–1574.
+http://dx.doi.org/10.1093/bioinformatics/btg180
+Siver, P. (1993) Morphological and ecological characteristics of Chrysosphaerella longispina and C. brevispina. Nordic
+Journal of Botany 13: 343–351.
+Swofford, D.L. (2002) PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4. Sinauer
+Associates, Sunderland.
+Škaloud, P. Kynčlová, A., Benada, O., Kofroňová, O. & Škaloudová, M. (2012) Toward a revision of the genus Synura,
+section Petersenianae (Synurophyceae, Heterokontophyta): morphological characterization of six pseudo-cryptic
+species. Phycologia 51: 303–329.
+http://dx.doi.org/10.2216/11-20.1
+Škaloud, P., Kristiansen, J. & Škaloudová, M. (2013) Developments in the taxonomy of silica-scaled chrysophytes - from
+
+CHRYSOSPHAERELLA ROTUNDATA SP. NOV.
+
+Phytotaxa 130 (1) © 2013 Magnolia Press
+
+• 41
+
+morphological and ultrastructural to molecular approaches. Nordic Journal of Botany 31: 385–402.
+http://dx.doi.org/10.1111/j.1756-1051.2013.00119.x
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M. & Kumar, S. (2011) MEGA5: Molecular Evolutionary
+Genetics Analysis using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods.
+Molecular Biology and Evolution 28: 2731–2739.
+http://dx.doi.org/10.1093/molbev/msr121
+Wee, J.L., Fasone, L.D., Sattler, A., Starks, W.W. & Hurley D.L. (2001) ITS/5.8S DNA sequence variation in 15 isolates
+of Synura petersenii Korshikov (Synurophyceae). Nova Hedwigia Beiheft 122: 245–258.
+Wujek, D.E., Weis, M.M. & Andersen, R.A. (1981) Scaled Chrysophyceae from Lake Itasca region. II. Synura,
+Chrysosphaerella, Spiniferomonas. Journal of the Minnesota Academy of Science 47: 5–7.
+Zuker, M. (2003) Mfold web server for nucleic acid folding and hybridization prediction. Nucleic Acids Research 31:
+3406–3415.
+http://dx.doi.org/10.1093/nar/gkg595
+Zwickl, D. J. (2006) Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets
+under the maximum likelihood criterion. Ph. D. dissertation, University of Texas at Austin, Austin.
+
+42 •
+
+Phytotaxa 130 (1) © 2013 Magnolia Press
+
+ŠKALOUDOVÁ & ŠKALOUD
+
+

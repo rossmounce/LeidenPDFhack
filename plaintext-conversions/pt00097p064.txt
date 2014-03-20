@@ -1,0 +1,97 @@
+Phytotaxa 97 (2): 63–64 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.97.2.6
+
+Notes on Early Land Plants Today. 39. Microlejeunea indica (Marchantiophyta,
+Lejeuneaceae)
+YU-MEI WEI1 & RUI-LIANG ZHU 1,2
+1
+
+Department of Biology, School of Life Science, East China Normal University, 3663 Zhong Shan North Road, Shanghai 200062,
+China; rlzhu@bio.ecnu.edu.cn
+2
+Author for correspondence
+
+The systematic position of the pantropical genus Microlejeunea Stephani (1888: 61) has been debated. Grolle
+(1995) first defined the precise generic concept of Microlejeunea, which was also confirmed by molecular
+studies (Wilson et al. 2004; Dong et al. 2013). This concept has recently been followed by various authors
+(e.g., He & Zhu 2011; Lavocat & Schäfer-Verwimp 2011; Thouvenot et al. 2011; Marline et al. 2012; Thiers
+et al. 2012). Microlejeunea is well characterized and easily separated from Lejeunea Libert (1820: 372) by the
+presence of ocelli in the leaf lobe, transverse section of stem consisting of seven cortical cells and three
+medullary cells, and keel of female bract usually winged (Wei & Zhu 2013). Lejeunea indica Udar & Awasthi
+(1981: 345), known only from India (Udar & Awasthi 1981; Joshi 1995; Zhu & Long 2003; Dey et al. 2008),
+has all essential characters of Microlejeunea. Thus, a new combination is needed.
+
+Formal treatment
+The format of this note follows what is outlined in Söderström et al. (2012).
+Microlejeunea indica (Udar & U.S.Awasthi) Y.M.Wei & R.L.Zhu, comb. nov.
+Basionym:—Lejeunea indica Udar & U.S.Awasthi, Cryptog., Bryol. Lichénol. 2: 345, 1981 (Udar & Awasthi 1981).
+Type:—INDIA. Darjeeling: prope Mungpoo, 1280 m, 1 January 1978, S.C. Srivastava & U.S. Awasthi LWU 3388/78
+(holotype LWU).
+
+Acknowledgements
+This research was sponsored by the National Natural Science Foundation of China (no. 30825004, 31170190),
+the Special Program for the National Basic Work of the Ministry of Science and Technology, China
+(No. 2012FY110600), and 211 Project for the East China Normal University. The Early Land Plants Today
+project (ELPT) has been generously supported in part by the Global Biological Information Facility (GBIF)
+Seed Money Award No.2007-41, activities facilitated in part by funding from the Biodiversity Synthesis
+Center of the Encyclopedia of Life (BioSynC), partial funding from the National Science Foundation (Award
+No's 0749762, 1115002), the Warwick Foundation, and the Negaunee Foundation.
+
+References
+Dey, M., Singh, D.K. & Singh, D. (2008). Two new species of Lejeunea Lib. (Hepaticae: Lejeuneaceae) from Sikkim,
+India. Journal of Bryology 30: 126–132.
+
+Accepted by Lars Söderström: 19 Apr. 2013; published online in PDF: 1 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+63
+
+Dong, S.S., Schäfer-Verwimp, A., Pócs, T., Feldberg, K., Czumaj, A., Schmidt, A.R., Schneider, H. & Heinrichs, J.
+(2013) Size doesn’t matter—recircumscription of Microlejeunea (Lejeuneaceae, Porellales) based on molecular and
+morphological evidence. Phytotaxa 85: 41–45.
+Grolle, R. (1995) The Hepaticae and Anthocerotae of the East African Islands: An Annotated Catalogue. Bryophytorum
+Bibliotheca 48: 1–178.
+He, Q. & Zhu, R.-L. (2011) Spore output in selected species of Lejeuneaceae (Marchantiophyta) from China.
+Cryptogamie, Bryologie 32: 107–112.
+Joshi, D.Y. (1995 “1994”) On the collection of bryophytes from South-west India. Geophytology 24: 155−157.
+Lavocat, E. & Schäfer-Verwimp, A. (2011) Checklist of the bryophytes of the Guadeloupe archipelago and Martinique
+(French West Indies). Cryptogamie, Bryologie 32: 232–272.
+Libert, M.-L. (1820) Sur un genre nouveau d'hépatiques, Lejeunia. Annales générales des sciences physiques 6: 372–
+374.
+Marline, L., Andriamiarisoa, R.L., Bardat, J., Chuah-Petiot, M., Hedderson, T.A.J., Reeb, C., Strasberg, D., Wilding, N.
+& Ah-Peng, C. (2012) Checklist of the bryophytes of Madagascar. Cryptogamie, Bryologie 33: 199–255.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+Stephani, F. (1888) Hepaticae africanae. Hedwigia 27: 59–63.
+Thiers, B.M., Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on early land plants today. 11. Microlejeunea
+bischlerae (B.M. Thiers) comb. nov. Phytotaxa 65: 59.
+Thouvenot, L., Gradstein, S.R., Hagborg, A., Söderström, L. & Bardat, J. (2011) Checklist of the liverworts and
+hornworts of New Caledonia. Cryptogamie, Bryologie 32: 287–390.
+Udar, R. & Awasthi, U.S. (1981) A new species of Lejeunea from India. Cryptogamie: Bryologie Lichénologie 2: 345–
+348.
+Wei, Y.-M. & Zhu, R.-L. (2013) Transfer of two Asiatic taxa from Lejeunea to Microlejeunea (Lejeuneaceae,
+Marchantiophyta). Cryptogamie, Bryologie 34(e). In press
+Wilson, R., Gradstein, S.R., Heinrichs, J., Groth, H., Ilkiu-Borges, A.L. & Hartmann, F.A. (2004) Phylogeny of
+Lejeuneaceae: a cladistic analysis of chloroplast gene rbcL sequences and morphology with preliminary comments
+on the mitochondrial NAD4-2 spacer region. Monographs in Systematic Botany from the Missouri Botanical Garden
+98: 189–202.
+Zhu, R.-L. & Long, D.G. (2003) Lejeuneaceae (Hepaticae) from several recent collections from the Himalaya. Journal of
+the Hattori Botanical Laboratory 93: 101–115.
+
+64 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+WEI & ZHU
+
+

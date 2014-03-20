@@ -1,0 +1,68 @@
+Phytotaxa 162 (4): 239 – 239
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.162.4.9
+
+Notes on Early Land Plants Today. 50. Radula sainsburiana is a synonym of R.
+helix (Radulaceae, Marchantiophyta)
+MATT A. M. RENNER1, LARS SÖDERSTRÖM2, ANDERS HAGBORG3 & MATT VON KONRAT3
+1
+
+Royal Botanic Gardens and Domain Trust, Mrs Macquaries Road, Sydney NSW2000, Australia; matt.renner@rbgsyd.nsw.gov.au
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@ntnu.no
+3
+Science & Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Radula helix was described as Jungermannia helix from a specimen collected by J.D. Hooker on Hermite Island,
+Tierra del Fuego during the Antarctic expedition of HM Ships Erebus and Terror.
+A century later Radula sainsburiana was described from a collection made by G.O.K. Sainsbury on Mt
+Ruapehu in the North Island of New Zealand. Subsequently Radula sainsburiana was reported for Tasmania by
+Renner (2005).
+Radula sainsburiana specimens from Tasmania, New Zealand, and southern South American collections
+attributed to R. helix share all salient morphological characters, including the paroicous inflorescence, the tightly
+inrolled lobules, the yellow-green colour, and the habit of forming dense interwoven mats. The shared
+morphological and ecological similarity of individuals from all three regions is consistent with membership to a
+single species. Radula helix is so far the only Radula species having a circum-Subantarctic range disjunction.
+The format of this note follows what is outlined in Söderström et al. (2012).
+Radula helix (Hook.f. et Taylor) Gottsche et al. Syn. Hepat. 2: 260, 1845 (Gottsche et al. 1845).
+Basionym:—Jungermannia helix Hook.f. et Taylor, London J. Bot. 3: 475, 1844 (Hooker & Taylor 1844).
+Type:—CHILE. Hermite Island, Cape Horn, 1843, J.D. Hooker. (FH!, BM, NY)
+= Radula sainsburiana E.A.Hodgs. et Allison, Trans. & Proc. Roy. Soc. New Zealand 74: 279, 1944 (Hodgson 1944) syn. nov.
+Type:—NEW ZEALAND. North Island: Mt Ruapehu, Tongariro National Park, G. O. K. Sainsbury s.n. (MPN!).
+
+Acknowledgements
+This study is supported by ABRS grant RFL210-36B. The Early Land Plants Today project (ELPT) has been
+generously supported in part by the Global Biological Information Facility (GBIF) Seed Money Award No.200741, activities facilitated in part by funding from the Biodiversity Synthesis Center of the Encyclopedia of Life
+(BioSynC), partial funding from the National Science Foundation (Award No's 0749762, 1115002), the Warwick
+Foundation, and the Negaunee Foundation.
+
+References
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, S.G. (1845) Synopsis Hepaticarum, fasc. 2. Meissner, Hamburg, pp. 145–
+304.
+http://dx.doi.org/10.5962/bhl.title.15221
+Hodgson, E.A. (1944) New Zealand Hepaticae (Liverworts) IV. A review of the genus Radula. Transactions of the Royal Society of
+New Zealand 74: 273–287.
+Hooker, J.D. & Taylor, T. (1844) Hepaticae Antarcticae. Being an account of plants discovered in the southern circumpolar regions during
+the voyage of H. M. Discovery Ships “Erebus” and “Terror”. London Journal of Botany 3: 366–400, 454–481.
+Renner, M.A.M. (2005) Additions to the Radula floras of New Zealand and Tasmania. Journal of the Hattori Botanical Laboratory
+97: 39-79.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+http://dx.doi.org/10.11646/phytotaxa.112.1.3
+
+Accepted by Christine Cargill: 14 Dec. 2013; published: 17 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+239
+
+

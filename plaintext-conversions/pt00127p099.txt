@@ -1,0 +1,593 @@
+Phytotaxa 127 (1): 81–99 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.11
+
+Morphology of some fossil lacustrine centric species from the western United States
+assigned to the genus Cyclotella (Bacillariophyta), including four described as new
+J. P. KOCIOLEK1 & G. K. KHURSEVICH2
+1
+
+University of Colorado Museum of Natural History and Department of Ecology and Evolutionary Biology, University of Colorado,
+Boulder, Colorado, 80309, USA
+Email: patrick.kociolek@colorado.edu (corresponding author)
+2
+Department of Botany, M. Tank Belarus State Pedagogical University, 18 Sovetskaya Street, 220809 Minsk, Republic of Belarus
+E?mail: galinakhurs.41@mail.ru
+
+Abstract
+During consideration of fossil centric diatoms from a variety of non-marine localities in the western USA, we
+encountered four new species and two previously known taxa that should be assigned to the genus Cyclotella (F.T.
+Kützing) A. de Brébisson. We detail the morphological features of these species, and discuss their relevance to other
+members of the Cyclotella. These fossil species are studied in light and scanning electron microscopes, and can be
+assigned to several morphological groups with respect mainly to the structure of alveolae as well as positon(s) of
+rimoportula(e) and marginal fultoportulae. Presence of loculate areolae with internal domed cribra and external
+foramina, or both areolae and valve face fultoportulae in the central area are characteristics found in all of these
+Cyclotella taxa.
+
+Introduction
+The diatom genus Cyclotella (F.T. Kützing) A. de Brébisson (1838: 19) has been investigated intensively with
+light and scanning electron microscopy, Gaul et al. (1993) and Henderson and Reimer (2003) document
+investigations with electron microscopy on over 165 species, in over 200 papers, were published on the genus
+until 2003. Many of the authors who examined multiple species of Cyclotella noted the diversity of forms,
+and suggested informal morphological groups (e.g. Lowe 1975; McFarland & Collins 1978; Seriyiessol 1981;
+Servant-Vildary, 1986; Loginova, 1990). These works identified a set of criteria on which to establish
+morphological groups, including presence and spacing of marginal fultoportulae, presence and spacing of
+valve face fultoportulae, presence and number of rimoportulae, presence of spines, other special features such
+as granulae and the structure and distribution of striae and alveolae. Loginova (1990) identified 12
+morphological groups based on 7 features.
+Description of many new taxa have increased our knowledge of the diversity of Cyclotella (e.g. Jousé &
+Mukhina 1978; Chen & Zhu 1985; Kling & Håkansson 1988; Loginova 1989; Kozyrenko et al. 1992;
+Khursevich et al. 2001; Prasad & Nienow 2006; Khrusevich & Kociolek 2008). More recently, additional
+works have proposed new taxa based on this morphological diversity of forms for species assigned originally
+to Cyclotella, and genera such as Pliocaenicus Round & Håkannson (1992: 116); Tertiarius Håkannson &
+Khursevich (1997: 21) (Khursevich & Kociolek 2002), Puncticulata Håkannson (2002: 21, 112) and
+Discostella Houk & Klee (2004: 204–205) were created for taxa previously assigned to Cyclotella.
+Investigations of fossil material from Europe (Serieyssol 1981; Servant-Valdary 1986), Asia (Khursevich
+et al. 2001; Tanaka 2007) and western North America (Hanna 1932; Khursevich & Kociolek 2008) suggest
+the diversity of species assigned to Cyclotella is well represented in the stratigraphic record, extending from
+the Middle Eocene (Wolfe & Siver 2009), with a great radiation of species in the Pliocene. Many of the
+Accepted by M.L. Julius: 28 Nov. 2012; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+81
+
+morphological (not necessarily phylogenetic) groups that have been recognized have representatives, or are
+known exclusively, by fossil taxa.
+In this report we describe new species that would, in the current understanding of the genus, be referred to
+Cyclotella (sensu Houk et al. 2010). We compare these new species with previously described taxa, and
+comment on the morphological groups that have been identified within Cyclotella.
+
+Methods and Materials
+Our observations are based on primarily on diatomites housed at the Diatom Collection of the California
+Academy of Sciences (CAS). We took raw material and mixed it with distilled water, and settled and air-dried
+the slurry onto coverslips. The dried material was permanently mounted onto microscope slides with Naphrax
+and viewed with a Leica DMRB light microscope with 100X, 1.4NA , DIC optics. For SEM, the dried
+material was mounted onto aluminum stubs, sputter coated with gold-palladium, and observations were made
+with Leo 1450VP. Samples are archived at the Diatom Collection of the California Academy of Sciences, San
+Francisco.
+Material used in this study included:
+USA. Kansas: Wallace County, Diatom marl from center Sec. 11, T.11S., R38W, Marshall Ranch, North Fork Smoky
+Mill River, Ogallala Formation. CAS Accession Number 2383. This is the type material studied by Hanna (1932).
+USA. Idaho: Payette County, north bank of Willow Creek, 20 km NE on Willow Road from its intersection with Idaho
+highway 52, near center sec. 4, T.8N., R.2W., coll. S. Van Landingham. Diatomite is from Poison Creek Formation
+in the lower portion of Idaho Group, age approximately 11 to 12 mya. Unaccessioned material at the Diatom
+Collection of CAS.
+USA. Oregon: Christmas Valley, Fort Rock, OD Sections 7.9 m (Kociolek Collection at COLO Accession Number 0502)
+and 8.3 m (Kociolek Collection at COLO Accession Number 0503a) (Colbath & Steele 1982).
+USA, Oregon: Klamath County, Sprague River, Drews Road, CAS Accession Number 701883, Slide Number 1026029.
+Oregon: Klamath County, NE Sprague River Bridge, CAS Accession Number 600180.
+USA. Oregon: Klamath Co., Forest Road, No. 3683-A, 6.6 miles W of Beatty, N of highway 140. CAS Accession
+Numbers 600120, 600121, 600122, Slide Numbers 436069, 436070, 436071, 436072, 436073, 436074.
+USA. Idaho: Owyhee County, USGS Diatom Locality 5244, Chalk Hills Formation (CAS Accession Number 602190,
+Slide Number 381069),
+
+Results
+New species descriptions, observations and nomenclatural transfers
+Division Bacillariophyta
+Class Coscinodiscophyceae F.E. Round & R.M. Crawford in Round et al. 1990 emend. Medlin & Kaczmarska
+2004
+Order Thalassiosirales Glezer & Makarova 1986
+Family Thalassiosiraceae Lebour 1930
+Genus Cyclotella (Kützing) Brébisson 1838
+
+82 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+Cyclotella idahica Khursevich & Kociolek, sp. nov. (Figures 1–9)
+Type:—USA. Oregon: Christmas Valley, Fort Rock, 44° 10' N, 121° 48' W, OD Section 7.9 m (see Colbath & Steele
+1982), diatomite, collected summer 1981 (Circled specimen (Fig. 2) on Slide 019002, material Kociolek Collection
+0502 (COLO!), holotype, designated here; duplicate slide of COLO 019002 deposited in Khursevich Collection,
+Minsk, Belarus, isotype, designated here).
+
+Additional material examined:—Idaho, Payette County, north bank of Willow Creek, 20 km NE on Willow
+Road from its intersection with Idaho highway 52, near center sec. 4, T.8N., R.2W., coll. S. Van Landingham.
+Diatomite is from Poison Creek Formation in the lower portion of Idaho Group, age approximately 11 to 12 mya.
+
+FIGURES 1–5: Cyclotella idahica. LM. Valve views showing highly undulate valve face. Fig. 2. Holotype. Scale bar = 10 µm.
+
+Description:—Valve outline oval-elliptical, sometimes nearly circular, with several girdle bands.
+Dimensions of the major axis 8.0–48.0 µm, minor axis 6.5–46.0 µm. Valve surface is divided into two distinct
+zones. Central zone oval to elongate, transversely undulate, with irregularly arranged areolae, becoming more
+or less radiate, 7–10/ 10 µm in large specimens only. Areolae with internal domed velum and external
+foramina. Fultoportulae on the valve face have two to four satellite pores, but those with three satellite pores
+are located mainly in the concave part of the valve face internally. Fultoportulae with small aperatures
+externally. External valve face is often covered with bumps. Marginal zone extends from 1/3 to 1/2 of the
+valve radius, and consists of alveolate striae in fascicles, 7–10/ 10 µm, separated by hyaline interfascicles.
+Each fascicle consists of 3–4 parallel or slightly wavy rows of small puncta. Puncta number 40–60 in 10 µm
+measured radially, in small specimens. In large specimens, 5–6 puncta at the margin become bi- or triseriate
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 83
+
+on the valve face. Striae fascicles are all of the same length. A ring of marginal chambers can be observed
+internally. Adjacent chambers are divided by thicker costae. Each chamber encompasses mostly 2 or 3
+alveolar openings separated by thinner costae bearing marginal fultoportulae with 3 satellite pores, 4–6/ 10
+µm. Externally marginal fultoportulae are represented by short tubes, which are often broken. A single
+rimoportula with a slit oriented radially or subradially occurs in association with a thinner costa. The
+rimoportula has a small external opening. Spines are irregular in number, being located on the interfascicles
+at the margin. Granules occur along the mantle edge.
+Cyclotella idahica differs from C. jonesii McLaughlin (1992: 96, figs 1–11; see Figs 70–77 herein) by the
+smaller size of the valves, circular or oval valve shape, consistently having valve face fultoportulae, and
+having more pronounced bumps and granules on the valve face. Despite these differences, the two species
+share many features and appear to have close phylogenetic affinities.
+
+FIGURES 6–9: Cyclotella idahica. SEM. Figures 6, 7, 9. external views. Valve views showing transversely undulate central area
+with irregularly arranged areolae and covered by bumps. Present are external openings of areolae and short tubes of marginal
+fultoportulae. Spines and/or spines bases are found on the valve face/mantle junction. Scale bars = 1 µm. Figure 8, internal view.
+Valve view showing location of one fultoportula on the valve face. Arrow indicates position of the rimportula. Scale bar = 1 µm.
+
+84 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+Cyclotella kansasica Hanna (1932: 376) (Figs 10–24)
+Hanna 1932. University of Kansas Science Bulletin 20: 376, pl. 31, fig. 6.
+
+Material examined:—USA. Kansas: Wallace County, Diatom marl from center Sec. 11, T.11S., R38W,
+Marshall ranch, North Fork Smoky Hill River, Ogallala Formation. CAS Accession Number 2383 (CAS!).
+This is the type material studied by Hanna (1932). USA. Kansas: Wallace County, Sec. 12, T.11S., R38W.
+CAS Accession Number 604437, Slide numbers 423092, 423093 (CAS!).
+Description:—Valves are circular, nearly flat, 4.5–16.5 µm in diameter, with several girdle bands and a
+well-defined border between the central area and the marginal alveolate zone. Central area with one more or
+less well-developed depression at the center and a variable number of areolae which are arranged irregularly
+or in short radial rows. Marginal zone extending a little over 1/3 of the valve radius consists of alveolate striae
+fascicles, 8–12 in 10 µm, separated by hyaline interfascicles. Striae fascicles are of equal length. They
+contain 3–4 rows of puncta, 40–60 in 10 µm. Alveoli are simple. Length of alveolar openings is almost equal
+to the length of striae fascicles. Marginal fultoportulae with 3 satellite pores are located on every costa or
+every second costa separating alveolar openings internally. A single rimoportula occurs at the marginal ends
+of one of the costae. Spines are present at the junction of the valve face and mantle at every interfascicle, but
+they may be broken.
+
+FIGURES 10–18: Cyclotella kansasica. LM. Valve views showing flat valve face and size diminution series. Scale bars = 5 µm.
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 85
+
+FIGURES 19–24: Cyclotella kansasica, SEM. Figures 19–21, external views. Flat valve face has striae with 3–4 rows of areolae
+towards the margin, and scattered areolae in the center, usually with one enlarged depression. Openings of the marginal fultoportulae
+occur on every rib. Thick spines or bases are visible on the margin of the valve. Scale bars = 1 µm. Figures 22–24, internal views.
+Marginal fultoportulae occur on every costa. A ring of simple alveolae is present on the mantle. Central fultoportulae are wanting.
+Central areolae do not reflect an enlarged opening seen externally. Scale bars = 1 µm.
+
+Cyclotella discostelliformica Kociolek & Khursevich, sp. nov. (Figs 25–39)
+Type:—USA. Oregon: Klamath County, Sprague River, Drews Road, diatomite, (Circled specimen (Fig. 31) on CAS
+Slide Number 1026029, material CAS Accession Number 701883 (CAS!), holotype, designated here; duplicate of
+CAS Slide Number 1026029 deposited in Khursevich Collection, Minsk, Belarus, isotype, designated here).
+
+86 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+Additional material examined:—USA. Oregon: Klamath County, NE Sprague River Bridge, CAS Accession
+Number 600180, Slide Number 433093 (CAS!)
+Description:—Valve outline nearly circular, with several girdle bands, 5.0–17.0 µm in diameter. Valve
+surface is divided into two distinct zones with different morphologies. The central area is distinctly concave
+or convex with irregularly arranged areolae (5 to 17) and one to three valve face fultoportulae. The latter have
+three satellite pores internally and open by small aperatures externally. This central zone is separated from the
+marginal zone by a wide hyaline ring. Small specimens have simple alveolae. Marginal fultoportulae are
+located in small fovae on the gentle slope of costae. A single rimoportula has internal elongated slit and is
+positioned within the alveolar opening close to one of the costae. The marginal zone extends from 1/3 to ½ of
+
+FIGURES 25–31: Cyclotella discostelliformica. LM. Valve views showing highly undulate valve face. Fig. 31. Holotype. Scale bar
+= 5 µm.
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 87
+
+FIGURES 32–37: Cyclotella discostelliformica. SEM. Figures 32, 33. External views showing valves with sunken and elevated
+central areas, respectively. Fascicles are composed of 2–5 rows of areolae. Openings of the marginal fultoportulae are located at or near
+the thickened ribs. They lack tubes or thickenings. The central portion of the valves have isolated areolae, that are larger than those of
+the fascicles. Scale bars = 1 µm. Figures 34–37. Internal valve views showing a single central fultoportula with 3 satellite pores, and
+marginal fultoportulae at every costa or every second costa. The rimoportula is located on or near a costa (arrows). Scale bars = 1 µm.
+
+the valve radius and consists of alveolate and fasciculate striae, 8–10/10 µm, divided by hyaline interfascicles.
+Interfascicles become broader towards the margin. Each fascicle has one-two rows of smaller puncta, which
+have a row of larger puncta on each side. Striae fascicles are of equal length. A ring of marginal chambers,
+separated by thicker costae, is evident internally. Alveolar chambers appear simple and complex in larger
+
+88 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+specimens. Complex alveolae are comprised of alveolar openings divided by thinner costae. The thinner
+costae bear marginal fultoportulae. Each fultoportula has three satellite pores, and number 4 in 10 µm.
+Externally, marginal fultoportulae are represented by small, circular openings. A single rimoportula is located
+on a thinner costa or along the slope of one of the costae. External rimoportula opening is a small, but distinct,
+slit. Granules may occur along the edge of the mantle.
+
+FIGURES: 38–39: Cyclotella discostelliformica. SEM. Figure 38. External view showing opening of rimoportula and fine nature
+of the areolae. Scale bar = 1 µm. Figure 39. Internal view showing large rimoprotula (arrow) located on the side of a costa. Central
+fultoportula with 3 satellite pores is evident. Scale bar = 1 µm.
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 89
+
+Cyclotella discostelliformica differs from C. idahica by its smaller size, presence of strongly concave or
+convex central area, external expression of the rimoportula (a distinct slit in C. discostelliformica; a small
+circular opening in C. idahica) and the absence of spines.
+This new species appears in the light microscope to resemble Discotella stelligera (Cleve & Grunow)
+Houk & Klee (2004: 209, figs 23, 24) but differs in the position of the rimoportula and marginal fultoportulae,
+(between two costae in D. stelligera and on thinner costae in C. discostelliformica). Moreover, marginal
+fultoportulae in C. discostelliformica have three satellite pores; D. stelligera has marginal fultoportulae with
+two satellite pores.
+Cyclotella stoermeri Khursevich & Kociolek, sp. nov. (Figs 40–55)
+Type:—USA. Oregon: Klamath County, Sprague River, Drews Road, diatomite, (Circled specimen (Fig. 40) on CAS
+Slide #433091, material CAS Accession Number 600179 (CAS!), holotype, designated here).
+
+Additional material examined:—Oregon, Klamath County, Sprague River, Drews Road, CAS Accession
+Numbers 600175, 600176, 600181, 701883, Slide Number 1026029 (CAS!).
+
+FIGURES 40–49: Cyclotella stoermeri. LM. Valve views showing size diminution series. Note dissimilar lengths of striae. Fig. 40.
+Holotype. Scale bar = 10 µm.
+
+90 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+FIGURES 50–55: Cyclotella stoermeri. SEM. Figures 50–52. External valve views . Fascicles are comprised of 1–3 rows of small
+areolae. The ribs are thickened and elevated, becoming thinner on the valve mantle. The valve center has enlarged areolae. Scale bars
+= 10 and 3 µm, respectively. Figures 53–55, internal valve views. Complex and simple alveolae are positioned around the perimeter of
+the valves. Thick and thin costae are evident, and marginal fultoportulae are evident on the recessed costae. Rimportulae are
+positioned also on the recessed costae. Areolae with domed cribra are evident in the center of the valves. Scale bars = 3, 2 and 1 µm,
+respectively.
+
+Description:—Frustules solitary, round or circular in valve view, 7–100 µm in diameter, short cylindrical
+in girdle view with several intercalary bands. Valve face is nearly flat. The valve center has one-several
+areolae surrounded by hyaline ring, rarely it is structureless. Central area contains loculate areolae with
+internal domed cribra and external foramina, arranged in more or less short radial rows (from 2 to 17 small
+areolae in row). Central area fultoportulae have never been observed. The striated zone occupies 1/2 to 3/4 the
+length of the valve radius. Striae, 7–12 in 10 µm, are radial, of unequal length, slightly undulate towards the
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 91
+
+center of the valve. They consist of two rows of small puncta on the valve face surface and of three-five small
+puncta on the valve margin. The striae are divided by costae dichotomously branched from the central area
+towards the valve margin. Alveolae are complex and simple. Marginal fultoportulae with three satellite pores
+are located on all recessed costae within marginal chambers. They are represented by small openings
+externally. One-several raised rimoportulae are positioned also on the recessed costae internally. They are
+marked by small round apertures on the external valve surface. Solid conic spines are present irregularly at the
+valve face/mantle junction.
+Remarks:—Cyclotella stoermeri differs from C. elgeri Hustedt (1952: 374, fig. 31) by the wider striated
+zone, the smaller central area, as well as by the different structure and location of marginal fultoportulae (they
+have two satellite pores and are placed on all thick costae on the mantle in C. elgeri, while marginal
+fultoportulae in C. stoermeri possess three satellite pores and occur only on thin recessed costae). This
+species is dedicated to our friend and colleague, Dr. E.F. Stoermer of the University of Michigan, Ann Arbor.
+
+FIGURES 56–63: Cyclotella pseudokansasica. LM. Valve views showing size diminution series. Fig. 61. Holotype. Scale bar = 5 µm.
+
+92 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+FIGURES 64–69: Cyclotella pseudokansasica. SEM. Figures 64, 65. External valve views. Prominent spines or spine bases are
+located about the periphery of the valves. Multiseriate fascicles alternate with thick costae. Openings of the marginal fultoportulae are
+located near the base of the mantle. Scale bars = 1 µm. Figures 66–69. Internal valve views. The valves have a few to several
+scattered central areolae, and marginal fultoportulae positioned on every second or third costa. Scale bars = 1 µm (in figs 64–66, 68,
+69). Scale bar = 2µm (in fig. 67).
+
+Cyclotella pseudokansasica Khursevich & Kociolek, sp. nov. (Figs 56–69)
+Type:—USA. Idaho: Owyhee County, Chalk Hills Formation, USGS Diatom Locality 5244, (Circled specimen (Fig. 61)
+on CAS Slide #381069, material CAS Accession Number 602190 (CAS!), holotype, designated here).
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 93
+
+Description:—Valves are circular, nearly flat, 10–23 µm in diameter, with a well-defined border between the
+central area and the marginal alveolate zone. Central area with a variable number of irregularly arranged
+areolae. Marginal zone extending from 1/3 to 1/2 of the valve radius consists of alveolate striae fascicles, 8–
+12(14) in 10 µm, separated by hyaline interfascicles or costae. Striae fascicles are of equal length. They
+contain 3–4 rows of puncta, 40–60 in 10 µm. Alveoli are simple. Length of alveolar openings is not equal to
+the length of striae fascicles. Marginal fultoportulae with 3 satellite pores are located on every second–fourth
+costa separating alveolar openings internally. A single rimoportula occurs at one of the costae. Spines are
+present at the junction of the valve face and mantle at every interfascicle or costa.
+Remarks:—Cyclotella pseudokansasica is similar to C. kansasica in the structure of alveolae, in the
+location of rimoportula and marginal fultoportulae, but differs by the absence of one more or less welldeveloped depression at the center, as well as by the shorter length of alveolar openings as compared with the
+length of striae fascicles.
+Cyclotella jonesii McLaughlin (Figs 70–77)
+McLaughlin 1992, Diatom Research 7: p. 96, figs 1–11.
+
+Materials examined:—Oregon, Klamath Co., Forest Road, No. 3683-A, 6.6 miles W of Beatty, N of highway
+140. CAS Accession Numbers 600120, 600121, 600122, Slide Numbers 436069, 436070, 436071, 436072,
+436073, 436074 (CAS!)
+We observed two morphotypes in populations we examined. They are almost exactly the same except for
+size and valve outline. We present descriptions for both morphotypes even though at this time we recognize
+them as the same taxon, C. jonesii.
+Morphotype 1 (Figs 70, 72, 73, 75)
+Description:—Valve outline rhomboid to ellipsoid, but large forms are nearly circular. Major axis is 20
+to 95 µm, minor axis 11 to 93 µm. Central area is elongated, asymmetrically undulate with the depressed
+portion shallower than the rise of the elevated part. Central area occupies 1/3 to 1/2 of the total valve face and
+contains areolae arranged in more or less radial rows. Valve face fultoportulae are absent. Striae number 7–9/
+10 µm, consisting of 2–3 rows of small puncta (with up to 30 puncta in 10 µm measured radially), and
+separated by interstriae. Alveolae are complex and simple. Marginal fultoportulae have three satellite pores
+and are located on all recessed costae within alveolar chambers internally. They open by short tubes on the
+external valve surface. One or two rimoportulae are present also on recessed costae between two alveolar
+openings. A closed valvocopula and several open copulae without puncta are present.
+Morphotype 2 (Figs 71, 74, 76, 77)
+Description:—Frustules solitary, elliptical-lanceolate in valve view, with several girdle bands. A closed
+valvocopula has numerous plaques along the valve. Several open bands, as a valvocopula, lack areolae.
+Dimensions of major axis of valves vary from 11.7 to 42.7 µm, of minor axis from 7 to 30 µm. Valve face is
+distinctly divided into two zones: a marginal alveolate zone and a transversely undulate, elongated areolate
+central area. A narrow, irregular hyaline area separates these two zones. Central area is elliptical,
+symmetrically undulate: elevated and depressed parts are almost equal. Areolae with internal domed cribra
+and external foramina are arranged mainly irregularly. One valve face fultoportula with two satellite pores
+internally and a round thickened aperture externally can be seen within the central area, rarely can be absent.
+Striae, 10–12 in 10 µm, are slightly radiate in the middle part of the marginal zone and strongly radiate
+towards the valve ends. Striae consisting of two-four rows of small puncta (40–50 puncta in 10 µm) are
+divided by interstriae (costae). Alveolae are complex and simple, 10–12 in 10 µm. Marginal fultoportulae
+have three satellite pores internally and open by short tubes externally. They are positioned on all recessed
+costae within alveolar chambers on the internal valve surface. One or two rimoprtulae are sessile internally,
+and each is located on a costa between two alveolar openings in the pole area. Rimoportulae open by a round
+apertures externally. Spines can be present on the valve face/mantle junction, but they are often broken.
+
+94 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+FIGURES 70–71: Cyclotella jonesii. LM. Figure 70 is of Morphotype 1. Figure 71 is of Morphotype 2. Scale bars = 10 µm.
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 95
+
+FIGURES 72–77: Cyclotella jonesii. SEM. Figures 72, 73. External valve views of Morphotype 1. Fascicles are comprised of fine
+areolae, while the tangentially undulate center has larger areolae. Marginal fultoportulae have tubular external openings, located on or
+about every other costa. Scale bars = 10 µm, respectively. Figure 74. External valve view of Morphotype 2. Multiseriate fascicles are
+comprised of areolae much smaller than those in the center of the valve. Scale bar = 2 µm. Figure 75. Internal valve view of
+Morphotype 1. Thick and thin costa are present. Central areolae are numerous. Scale bar = 10 µm. Figures 76, 77. Internal valve
+view of Morphotype 2. Marginal fultoportulae are located on recessed costae, and have 3 satellite pores. Central fultoportula is
+present, situated among scattered areolae with domed cribra. Scale bars = 2, and 1 µm, respectively.
+
+96 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+Discussion
+Variation in Cyclotella morphology has been documented with light and electron microscopy over the past 35
+years (e.g. Lowe, 1975; Serieyssol, 1981, 1993; Servant-Vildary 1986; Håkansson 2002; Tanaka 2007), and
+from this diversity a number of formal and informal groups have been identified and named. Most recently
+Houk et al. (2010) identified three morphological groups within Cyclotella:
+Group 1: possess tangentially undulate to nearly flat valves, with the central part lacking areolae, and a single
+rimoportula within the ring of marginal fultoportulae (and contains the nomenclatural type of the genus C.
+distinguenda Hustedt (1927: 320))
+Group 2: possess the valve face tangentially undulate or nearly flat, central area is without areolae and at least
+one rimoportula not within the ring of marginal fultoportulae (included here, for example, are the well known
+species C. comensis Grunow in Van Heurck (1882: pl. 93, figs 16, 17), C. ocellata Pantocsek (1902: 104) and
+others)
+Group 3: possess the valve face tangentially undulate or nearly flat , a central area with areolae, one
+rimoportula not within the ring of marginal fultoportulae, but on the valve face, nearer to the center complex
+alveolae (C. bodanica Eulenstein in Grunow (1878: 126), C. comta (Ehrenberg) Kützing (1849: 20), etc.)
+Observations on centric diatoms from western North America presented here suggest the presence of three
+additional morphological groups:
+A. one group with C. idahica, C. jonesii and C. stoermeri; this group is closely related to C. oregonica
+Kociolek & Khursevich, though this last species lacks areolae in the center of the valve (Khursevich &
+Kociolek 2008);
+B. the second group has C. discostellaeformica;
+C. the third group is comprises C. pseudokansasica and C. kansasica. Also included here is C. mahoodii
+Kociolek & Khursevich in Khursevich & Kociolek (2008: 41), which also lacks central areolae
+(Khursevich & Kociolek 2008).
+Presence of a variety of taxa with, and without, central areolae in other groups that are otherwise diagnosed by
+a variety of features, suggest the feature of presence/absence of areolae in the central area is homoplasious,
+and not helpful in diagnosing natural groups. Data on the morphology of C. elgeri supported the transfer of
+this taxon, first suggested by Khursevich & Kociolek (2002), to the genus Tertiarius (Houk et al. 2010).
+The species of Cyclotella considered here can be separated into three morphological groups with respect
+mainly to the structure of alveolae and position(s) of rimoportula(e) and marginal fultoportulae. One of these
+groups is composed of 3 extinct species and distinguished by a variety of valve outlines, including circular to
+round (C. idahica, and C. stoermeri) to elliptical-lanceolate or even rhomboid-ellipsoid (C. jonesii). The
+central area is from almost flat or slightly concentrically undulate to strongly transversely undulate. The latter
+is characteristic of C. idahica and C. jonesii. The central area may consist of areolae only (C. stoermeri and
+C. jonesii), or of both areolae and valve face fultoportulae, internally surrounded by two or three or rarely four
+satellite pores (C. idahica). The position of rimoportulae in species from this group is one of recessed costae
+within marginal chambers that can be observed on the internal valve surface. Alveolae are complex and
+simple. Marginal fultoportulae with three satellite pores internally are located also on recessed costae within
+alveolar chambers. Spines may be present in this group.
+Cyclotella idahica is very similar morpholgically to C. jonesii, differing mainly in valve outline, having
+smaller dimensions, presence of valve face fultoportulae and pronounced bumps on the face of the valve.
+Cyclotella idahica and C. jonesii may well be sister taxa and discreet character differences suggests they be
+recognized as separate taxa.
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 97
+
+Cyclotella jonesii resembles C. oregonica Kociolek & Khursevich in Khursevich & Kociolek (2008: 44)
+in the outline of the valve and presence of other valve features described above for C. jonesii, but differs from
+C. oregonica in that the latter lacks valve face areolae.
+Cyclotella stoermeri is similar to C. iris Brun & Heribaud (1893: 224) in the structure of the marginal
+striated zone, presence of simple and complex alveolae, position of the rimportula and marginal fultoportulae
+on the internal recessed costae and absence of valve face fultoportulae (Serieyssol 1984). These taxa differ in
+the lack of areolae in the central area and mainly flat or slightly convex valves in C. iris.
+The second morphological group is represented by Cyclotella discostelliformica which resembles species
+of the genus Discostella (Houk & Klee 2004) in having well expressed concave-convex central area, slit-like
+external expression of the rimoportula and location of the rimoportula and marginal fultoportulae sometimes
+in the marginal part of the alveolae.
+The third morphological group includes the extinct species C. kansasica and C. pseudokansasica, which
+is characterized by circular valves with a flat central areolar area. Valve face fultoportulae are absent within
+the central area. Alveolae are simple. A single rimoportula is positioned on one of the costae, marginal
+fultoportulae are located on costae separating alveolar openings on the internal valve surface.
+Cyclotella kansasica is similar to C nevadica Khursevich & Kociolek (2008: 42) in the structure of
+alveolae, rimoportulae with radially-oriented internal slit and marginal fultoportulae located on costae, and
+absence of valve face fultoportulae. The two species differ in the relief of the valves, length of striated
+marginal zone, and lack of valve face areolae in C. nevadica.
+With regard to Puncticulata, Houk et al. (2010, p. 4–5) write, “As for the genus Puncticulata Håkansson
+(Hakansson 2002), it was based on Cyclotella comta Kutzing 1849 (nom.cons.). However, there is
+Puncticulata austriaca (Peragallo) Håkansson also mentioned as a synonym of Handmannia austriaca
+Peragallo in Handmann (1913: 14). But this is the type of validly published genus Handmannia Peragallo in
+Handmann (1913: 14) and from this point of view the generic name Puncticulata Hakansson is illegitimate by
+the International Code of Botanical Nomenclature, Art. 52. So we preferred to retain the previous generic
+name Cyclotella for the Puncticulata taxa.”
+Our observations on these mainly Pliocene aged species suggest that there are close morphological
+similarities between them and Puncticulata, as diagnosed by Håkansson (2002). Some of the relationships
+seem very close, with the only difference differentiating between members of the three morphological groups
+we describe here and members of Puncticulata is the lack of valve face areolae in the Cyclotella taxa. If the
+primary feature used by Håkansson to distinguish Puncticulata, namely presence of valve face areolae
+(Håkansson 2002), would turn out to be primitive among this group of very closely related taxa, it might result
+in Puncticulata not representing a natural group (Houk et al. 2010).
+Detailed phylogenetic analysis of this group of taxa, along with Tertiarius and Pliocaenicus, is required to
+sort out the complex set of features displayed among them. Interesting will be the fact that only a small subset
+of them have extant taxa, thus such an analysis will require and indicate the important role of fossil in
+understanding the relationships among this important group of freshwater diatoms.
+
+References
+Brébisson, A. de. (1838) Considérations sur les Diatomées et essai d'une classification des genres et des espèces appartenant à cette
+famille. Brée l'Ainé Imprimeur-Libraire, Falaise. 22 pp.
+Chen, J. & Zhu, H. (1985) Studies on the freshwater Centricae of China. Acta Hydrobiologica Sinica 9: 80 – 83.
+Colbath, G.K. & Steele, M.J. (1982) Diatomites-Fort Rock basin. Oregon Geology 44: 111–118.
+Gaul, U., Geissler, U., Henderson, M., Mahoney, R. & Reimer, C.W. (1993) Bibliography on the fine-structure of diatom frustules
+(Bacillariophyceae). Proceedings of the Academy of Natural Sciences of Philadelphia (USA) 144: 69–238.
+Grunow, A. (1878) Algen und Diatomaceen aus dem Kaspischen Meere. In: O. Schneider (ed.), Naturwissenschafte Beiträge zur
+Kenntniss der Kaukasusländer, auf Grund seiner Sammelbeute. Dresden. pp. 98–132, pls. 3–4.
+Håkansson, H. (2002) A compilation and evaluation of species in the genera Stephanodiscus, Cyclostephanos and Cyclotella with a
+new genus in the family Stephanodiscaceae. Diatom Research: 17: 1–139.
+http://dx.doi.org/10.1080/0269249X.2002.9705534
+
+98 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+KOCIOLEK & KHURSEVICH
+
+Håkansson, H. & Khursevich, G. (1997) Tertiarius gen. nov., a new genus in the Bacillariophyceae, the transfer of some cyclotelloid
+species and a comparison to closely related genera. Diatom Research 12: 19–33.
+http://dx.doi.org/10.1080/0269249X.1997.9705399
+Handmann, R. (1913) Die Diatomeenflora des Almseegebietes. Mitteilungen, Mikrologischer Verein Linz 1: 4–30.
+Hanna, G D. (1932) Pliocene diatoms of Wallace County, Kansas. University of Kansas Science Bulletin 20: 369–395.
+Henderson, M.V. & Reimer, C.W. (2003) Bibliography on the fine structure of diatom frustules (Bacillariophyceae). II. (+Deletions,
+addenda and corrigenda for bibliography I). Diatom Monographs 3: 1–377.
+Héribaud, J. (1893) Les Diatomées d'Auvergne. Librairie des Sciences Naturelles, Paris. pp. 1–255 pp., pls 1–6.
+Houk, V. & Klee, R. (2004) The stelligeroid taxa of the genus Cyclotella (Kützing) Brébisson (Bacillariophyceae) and their transfer
+into the genus Discostella gen. nov. Diatom Research 19: 203–228.
+http://dx.doi.org/10.1080/0269249X.2004.9705871
+Houk, V., Klee, R. & Tanaka, H. (2010) Atlas of freshwater centric diatoms with a brief key and descriptions. Part III.
+Stephanodiscaceae A: Cyclotella, Tertiarius, Discostella. Fottea 10 (Supplement): 1–498.
+Hustedt, F. (1927) Die Diatomeen der interstadialen Seekreide. In: H. Gams, Die Geschichte der Lunzer Seen, Moore und Wälder.
+Internationale Revue der gesamten Hydrobiologie 18:305–387.
+Hustedt, F. (1952) Neue und wenig bekannte Diatomeen IV. Botaniska Notiser 4: 366–410.
+Jousé, A P. & Mukhina, V.V. (1978) Diatoms units and the paleogeography of the Black Sea in the Late Cenozoic (DSDP, Leg 42B).
+Initial Reports of the Deep-Sea Drilling Project 42(2): 903–950.
+Khursevich, G.K., Karabanov, E.B., Prokopenko, A.A., Williams, D.F., Kuzmin, M.I. & Fedenya, S.A. (2001) Biostratigraphic
+significance of new fossil species of the diatom genera Stephanodiscus and Cyclotella from Upper Cenozoic deposits of Lake
+Baikal, Siberia. Micropaleontology 47: 47–71.
+http://dx.doi.org/10.2113/47.1.47
+Khursevich, G.K. and Kociolek, J.P. (2002) New Tertiarius (Bacillariophyta: Stephanodiscaceae) species from western North America.
+In: J. John (ed.), Proceedings of the Fifteenth International Diatom Symposium. O. Koeltz, Koenigstein, pp. 331–349.
+Khursevich, G.K. & Kociolek, J.P. (2008) Four new Cyclotella species from Pliocene lacustrine deposits in the U.S.A. In Likhoshway,
+Y (Ed.) Proceedings of the 19th International Diatom Symposium. Biopress, Bristol, pp. 39–54.
+Kling, H. & Håkansson, H. (1988) A light and electron microscope study of Cyclotella species (Bacillariophyceae) from central and
+northern Canadian lakes. Diatom Research 3: 55–82.
+http://dx.doi.org/10.1080/0269249X.1988.9705017
+Kozyrenko, T.F., Loginova, L.P., Genkal, S.I., Khursevich, G.K. and Sheshukova-Poretskaya, V.S. (1992) The genus Cyclotella
+(Kütz.) Bréb.. In: Makarova, I.V. (Ed.), The Diatoms of the USSR. Vol. II, fascicle 2. Nauka, St. Petersburg, pp. 24–47.
+Kützing, F.T. (1849) Species Algarum. Lipsiae. F.A. Brockhaus. 922 pp.
+Loginova, L.P. (1989) Two new taxa of the genus Cyclotella Kütz. (Bacillariophyta). Botanicheski Zhurnal 74: 1780–1782.
+Loginova, L.P. (1990) Classification of the diatom genus Cyclotella. In: Simola, H. (Ed.), Proceedings of the Tenth International
+Diatom Symposium. Koeltz Scientific Books, Koenigstein. pp 37–53.
+Lowe, R. L. (1975) Comparative ultrastructure of the valve of some Cyclotella species (Bacillariophyceae). Journal of Phycology 11:
+415–424.
+McFarland, B.H. & Collins, G.B. (1978) A key to the species of the diatom genus Cyclotella (Kütz.) Bréb., based on new
+morphological data. Abstract, 26th annual meeting of North American Benthological Society, Winnipeg, Mannitoba. p. 35.
+McLaughlin, R.B. (1992) Cyclotella jonesii, a new diatom species from Pliocene deposits at Chiloquin, Oregon, U.S.A. Diatom
+Research 7: 95–101.
+http://dx.doi.org/10.1080/0269249X.1992.9705200
+Pantocsek, J. (1902) Kieselalgen oder Bacillarien des Balaton. Resultate der Wissenschaftlichen Erforschung des Balatonsees,
+herausgegeben von der Balatonsee-Commission der Ung. Geographischen Gesellschaft. Commissionsverlag von Ed. Hölzel.
+Wien. 2(2): 112 pp., 17 pls.
+Prasad, A.K.S.K. & Nienow, J.A. (2006) The centric diatom genus Cyclotella, (Stephanodiscaceae: Bacillariophyta) from Florida Bay,
+USA, with special reference to Cyclotella choctawhatcheeana and Cyclotella desikacharyi, a new marine species related to the
+Cyclotella striata complex. Phycologia 45: 127–140.
+http://dx.doi.org/10.2216/05-13.1
+Round, F.E. & Håkansson, H. (1992) Cyclotelloid species from a diatomite in the Harz mountains, Germany, including Pliocaenicus
+gen. nov. Diatom Research 7: 109–125.
+http://dx.doi.org/10.1080/0269249X.1992.9705202
+Serieyssol, K. (1981) Cyclotella species of late Miocene age from St.Bauzite, France. In: Ross, R. (ed.) Proceedings of the Sixth
+Symposium on Recent and Fossil Diatoms. Budapest, Otto Koeltz, Koenigstein. pp. 27–42.
+Serieyssol, K. (1984) Cyclotella iris Brun & Héribaud. In: D.G. Mann (ed.) Proceedings of the Seventh International Diatom
+Symposium. O. Koeltz, Koenigstein, pp. 197–204.
+Serieyssol, K. (1993) Cyclotella multipunctata sp. nov., an early upper Miocene species. Nova Hedwigia, Beihefte, 106. pp. 221–226.
+Servant-Vildary, S. (1986) Fossil Cyclotella species from Miocene deposit of Spain. In: Ricard, M. (ed.) Proceedings of the Eighth
+International Diatom Symposium. Koeltz, Koenigstein. pp. 495–511.
+Tanaka, H. (2007) Taxonomic studies of the genera Cyclotella (Kützing) Brébisson, Discostella Houk et Klee and Puncticulata
+Håkansson in the family Stephanodiscaceae Glezer et Makarova (Bacillariophyta) in Japan. Bibliotheca Diatomologica. Band 53,
+205 pp.
+Van Heurck, H. (1882) Synopsis des Diatomées de Belgique. Atlas. Ducaju & Cie., Anvers. pls 78–103.
+Wolfe, A.P. & Siver, P.A. (2009) Three genera of extant thalassiosiroid diatoms from Middle Eocene lake sediments in northern
+Canada. American Journal of Botany 96: 487–497.
+http://dx.doi.org/10.3732/ajb.0800307
+
+FOSSIL CYCLOTELLA FROM WESTERN UNITED STATES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 99
+
+

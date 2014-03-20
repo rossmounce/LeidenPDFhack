@@ -1,0 +1,922 @@
+Phytotaxa 116 (1): 19–33 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.116.1.2
+
+The genus Pauridia (Hypoxidaceae) amplified to include Hypoxis sect. Ianthe,
+Saniella and Spiloxene, with revised nomenclature and typification
+DEIRDRE A. SNIJMAN1* & ALEXANDER KOCYAN2, 3
+1
+
+Compton Herbarium, South African National Biodiversity Institute, Private Bag X7, Claremont 7735, South Africa;
+E-mail: d.snijman@sanbi.org.za
+2
+Biodiversity Research/Systematic Botany, Institute of Biochemistry and Biology, University of Potsdam, Maulbeerallee 2a, D-14469
+Potsdam, Germany
+3
+ETH Zurich, Plant Ecological Genetics, Institute of Integrative Biology, Universitatstrasse 16, CH-8092 Zurich, Switzerland
+*
+Author for correspondence
+
+Abstract
+Recent phylogenetic analyses show that the species of the southern African genera Pauridia, Saniella and Spiloxene and
+the Australian, Tasmanian and New Zealand Hypoxis sect. Ianthe form a highly supported, monophyletic clade. In
+keeping with earlier suggestions that these taxa doubtfully warrant separate status, and to avoid the recognition of
+Hypoxis and Spiloxene as paraphyletic, we expand the circumscription of Pauridia to include Saniella, Spiloxene and
+Hypoxis sect. Ianthe. As a result 33 new combinations at specific and infraspecific level are proposed and one epitype,
+two neotypes and 30 lectotypes are newly designated. Three basionyms, of which Linnaeus, Linnaeus filius and Lamarck
+are the authors, are also typified (Amaryllis capensis, Hypoxis aquatica, and Hypoxis pumila).
+Key words: Hypoxidaceae, Hypoxis, new combination, Pauridia, Saniella, Spiloxene, taxonomy, typification
+
+Introduction
+For many years the circumscription of the genera included in the Hypoxidaceae R.Br. has posed major
+challenges to taxonomists studying the family (Nordal 1998, Burtt 2000). Past difficulties have been largely
+resolved, however, by the recent phylogenetic study of Kocyan et al. (2011), particularly with regard to
+understanding the relationships amongst the temperate southern hemisphere taxa, Pauridia Harvey (1838:
+341), Saniella Hilliard & Burtt (1978: 70), Spiloxene Salisbury (1866: 44), and Hypoxis Linnaeus (1759: 986)
+sect. Ianthe (Salisbury 1866: 44) Bentham & Hooker (1883: 717).
+Based on sequence data from four plastid DNA regions, Kocyan et al. (2011) confirmed the paraphyly of
+Spiloxene, as traditionally circumscribed by Nel (1914) and Garside (1936), and showed that Spiloxene is
+monophyletic only with the inclusion of Pauridia, Saniella and the Australian, Tasmanian and New Zealand
+species of Hypoxis belonging to sect. Ianthe, as given by Geerinck (1969) and Henderson (1987) (Fig. 1).
+Synapomorphies supporting this cladistically robust monophyletic group, referred to as the Pauridia clade by
+Kocyan et al. (2011), are the mucilage canals above the vascular bundles of the leaves (Rudall et al. 1998,
+Thompson 1976) and disulcate, micro-echinate pollen grains, with the exception of the secondarily derived
+trisulcate state in one of the Australian species (Simpson 1983, Rudall et al. 1998, Kocyan et al. unpubl. data).
+According to Nel (1914: as Ianthe) and Garside (1936), Spiloxene is remarkably uniform, comprising
+species that differ little from each other, often by a few, subtle features. According to the later, alternative
+classification of Geerinck (1969), Spiloxene was placed under Hypoxis, within sect. Ianthe, adding to the
+several species from Australia, Tasmania and New Zealand previously placed here. This change was not
+favoured by South African botanists, who retained Nel’s classification for the African taxa (Garside 1950,
+Accepted by Lorenzo Peruzzi: 17 June 2013; published online in PDF: 9 July 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+19
+
+Thompson 1976, Thompson 1978, Manning et al. 2002), a decision which has been upheld since by the
+molecular-based phylogenetic study of Kocyan et al. (2011). The Australian, Tasmanian and New Zealand
+representatives of Hypoxis sect. Ianthe (Fig. 2E, F) are remarkably like the southern African species in
+Spiloxene (Fig. 2A–D, G, H). All are cormous, characteristically glabrous herbs, apart from a few, short teeth
+on the leaf margins in some species. The star-shaped flowers have six, rarely four, exposed stamens, a threelobed stigma, and tepals which are mostly free from each other and inserted directly above the ovary. An often
+overlooked exception to this floral form is that of Spiloxene alba (Thunberg 1779: 26) Fourcade (1932: 76),
+which has tepals inserted on an elongated ovary beak (Fig. 2B). Burtt’s (Burtt 2000) final treatment of
+Saniella relied only on the presence of an ovary beak and a bowl-shaped perigone tube to distinguish Saniella
+(Fig. 2J) from Spiloxene, so the continued separation of these genera remained doubtful.
+
+FIGURE 1. Cladogram illustrating the phylogenetic relationships of the 19 Pauridia species treated by molecular systematic means
+so far (redrawn after Kocyan et al. 2011). 1Formerly in Hypoxis sect. Ianthe; 2formerly in Spiloxene; 3formerly in Saniella. Maximum
+likelihood heuristic bootstrap analysis = 100 for the clade.
+
+Like Saniella, the flowers of Pauridia also have a cup-shaped perigone tube (Fig. 2I). Pauridia, however,
+is unusual within Hypoxidaceae in having only three fertile stamens and three short, hooked processes on the
+style, although the flowers do have the same vascular supply as normal six-stamened Hypoxidaceae flowers.
+This apart, its other characters are common to both Spiloxene and Saniella. In contrast, plants of Hypoxis
+sensu stricto differ from those in all the above taxa by having a vertical rhizome and a pubescent covering, at
+least on the outside of the flowers.
+When Spiloxene was last revised, the species were divided among seven unranked groups, based primarily
+on small structural differences of the corm tunics (Nel 1914). None of these groups is supported in the study by
+Kocyan et al. (2011) and any attempts to divide the Pauridia clade into monophyletic subgroups would have to
+invoke various combinations of non-synapomorphic characters, making any formal reclassification unworkable.
+Consequently, we favour the recognition of one expanded genus, based on the known synapomorphies of leaf
+anatomy and pollen micromorphology. In so doing, we put into effect Burtt’s (Burtt 2000) earlier suggestion that
+these taxa could warrant treatment as one genus. Since Pauridia has nomenclatural priority over Spiloxene and
+Saniella, the amplification of the genus necessitates several new combinations. In effect 33 more taxa are added
+to the two species, P. minuta (Linnaeus f. 1782: 92) Durand & Schinz (1894: 142) and P. longituba Thompson
+(1972: 163), already recognized within Pauridia by Thompson (1979).
+
+20 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+SNIJMAN & KOCYAN
+
+FIGURE 2. Flower diversity in Pauridia. A, P. capensis; B, P. alba; C, P. curculigoides; D, P. monophylla; E, P. occidentalis var.
+quadriloba; F, P. gardneri; G, P. affinis; H, P. scullyi; I, P. minuta; J, P. alticola. Species formerly in: Spiloxene (A–D, G, H); Hypoxis
+sect. Ianthe (E, F); Saniella (J). Photographs by J.C. Paterson-Jones (A–D, G–J) and A. Kocyan (E, F).
+
+THE GENUS PAURIDIA (HYPOXIDACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 21
+
+The name Pauridia, dating from 1838, has been consistently applied in all floristic treatments from that of
+Baker (1896) to the present day (Manning & Goldblatt 2012). The name Spiloxene only came into usage in
+1932 (Fourcade 1932), having formerly been known by the illegitimate name Ianthe Nel (1914). Since then it
+has slowly gained acceptance in the floristic literature of southern Africa, but has always been given together
+with the closely allied genus Pauridia. This change in usage was applied only to the southern African taxa.
+After 1932, reference to Ianthe, rather than Spiloxene, can still be traced to Markötter (1936) and de Vos
+(1948). In Melchior (1964) and Hutchinson (1959) Ianthe was treated as a synonym of Hypoxis, whereas
+Geerinck (1969) and Henderson (1987) retained the name Ianthe as Hypoxis section Ianthe.
+With the publication in recent years of several popular books on Cape plants, the name Spiloxene has
+gained modest usage amongst specialist bulb growers, mainly through Spiloxene capensis (Linnaeus 1760:
+10) Garside (1936: 74) which has large, star-shaped flowers, often with brilliant peacock-coloured centres.
+The name Pauridia, in contrast, has been consistently used in literature for a much longer period than
+Spiloxene and although none of the species is in cultivation it is known to a growing number of nontaxonomists through images of the species in popular books (Manning et al. 2002), articles (Thompson 1980,
+Snijman 2008) and websites for citizen science [www.ispot.org.za/species_dictionary/Pauridia].
+Since the nomenclatural changes proposed here are as a result of a changed taxonomic concept and since
+the possible advantages of proposing to use the name Spiloxene, which has never been consistently applied,
+do not outweigh the use of the taxonomically well-established name Pauridia, we resort to the rule of
+nomenclatural priority as given in the ICN (McNeill et al. 2012).
+We make new combinations for all the Australian, Tasmanian and New Zealand taxa currently recognized
+within Hypoxis sect. Ianthe, but in other respects follow the previous taxonomic conclusions for the Flora of
+Australia (Henderson 1987). Since the typification of many of the southern African species has remained
+unresolved to date, we designate, where necessary, types for all the currently recognized taxa as given by
+Govaerts (2012) and discuss the particular problems associated with the names attributed to Linnaeus,
+Linnaeus filius and Lamarck. New names have been assigned to two species and the rank of one infraspecific
+taxon has been raised from variety to subspecies. Invalid names excluded from Pauridia sensu lato have been
+discussed by Nordenstam (1972: as Spiloxene).
+
+Materials and methods
+The names in bold, arranged alphabetically, are those in current use at the rank accepted by us. We cite or
+designate types for the accepted name of each taxon, but those for all the known corresponding synonyms, as
+given by Govaerts (2012), will be designated in a revision of Pauridia currently in preparation. A holotype, as
+interpreted below, is the single numbered specimen, as designated by the original author, who also stipulated
+the herbarium in which it is lodged. We have chosen lectotypes, epitypes and neotypes according to the
+relevant articles of the ICN (McNeill et al. 2012) and have examined all the relevant taxonomic literature.
+Herbarium material for the group has been studied in South Africa’s major herbaria (BOL, GRA, NBG, NH,
+PRE, SAM) and on JSTOR Plant Science [http://plants.jstor.org/] for European herbaria. Images of important
+specimens were also obtained from B, G, K, LINN, M, P, PR and UPS (codes according to Thiers 2012).
+
+Taxonomic treatment
+Pauridia Harvey (1838: 341). Type (holotype):—Pauridia hypoxidioides Harvey (1838: 342), nom. illeg.,
+superfl. pro Ixia minuta Linnaeus f. (1782: 92) (McNeil et al. 2012: Art. 11.4). (= Pauridia minuta (L.f.) Durand
+& Schinz). P. hypoxidioides (= Ixia minuta) is the only species given in the protologue.
+= Ianthe Salisbury (1866: 44), nom. illeg., orthographical variant for Janthe, non Janthe Grisebach (1844: 40) (McNeil et
+al. 2012: Art. 53.1) Hypoxis subg. Ianthe (Salisb.) Baker (1878: 99) Hypoxis sect. Ianthe (Salisb.) Benth. in
+
+≡
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+≡
+
+22 •
+
+SNIJMAN & KOCYAN
+
+Bentham & Hooker f. (1883: 717), syn. nov. Type (lectotype designated by Geerinck 1969: 76):—Ianthe ovata (L.f.)
+Salisb. ex Williams (= Pauridia ovata (L.f.) Snijman & Kocyan)
+= Ianthe [unranked] Aquaticae Nel (1914: 290), syn. nov. Type (lectotype designated here):—Ianthe aquatica (L.f.)
+Williams (= Pauridia aquatica (L.f.) Snijman & Kocyan). The epithet of Nel’s unranked taxon is based on this
+binomial and the description in the protologue is a good match for this species.
+= Ianthe [unranked] Flaccidae Nel (1914: 296), syn. nov. Type (lectotype designated here):—Ianthe flaccida Nel (=
+Pauridia flaccida (L.f.) Snijman & Kocyan). The epithet of Nel’s unranked taxon is based on this binomial and the
+description in the protologue is a good match for this species.
+= Ianthe [unranked] Minutae Nel (1914: 299), syn. nov. Type (lectotype designated here):—Ianthe minuta (L.) Williams
+(= Pauridia pygmaea Snijman & Kocyan). This species is the only one mentioned in the protologue.
+= Ianthe [unranked] Ovatae Nel (1914: 293), syn. nov. Type (lectotype designated here):—Ianthe ovata (L.f.) Salisb. ex
+Williams (= Pauridia ovata (L.f.) Snijman & Kocyan). The epithet of Nel’s unranked taxon is based on this
+binomial and the description in the protologue is a good match for this species.
+= Ianthe [unranked] Pectinatae Nel (1914: 299), syn. nov. Type (lectotype designated here):—Ianthe schlechteri (Bolus)
+Williams (= Pauridia affinis (Schult. & Schult.f.) Snijman & Kocyan). This species is the only one mentioned in the
+protologue.
+= Ianthe [unranked] Serratae Nel (1914: 292), syn. nov. Type (lectotype designated here):—Ianthe serrata (Thunb.)
+Salisb. ex Williams (= Pauridia serrata (Thunb.) Snijman & Kocyan). This species is the only one mentioned in the
+protologue.
+= Ianthe [unranked] Stellatae Nel (1914: 295), syn. nov. Type (lectotype designated here):—Ianthe stellata (Thunb.)
+Williams (= Pauridia capensis (L.) Snijman & Kocyan). The epithet of Nel’s unranked taxon is based on this
+binomial and the description in the protologue is a good match for this species.
+= Spiloxene Salisbury (1866: 44), syn. nov. Type (lectotype designated by Fourcade 1932: 76):—Spiloxene stellata
+(Thunb.) Salisb. ex Fourc. (= Pauridia capensis (L.) Snijman & Kocyan)
+= Saniella Hilliard & Burtt (1978: 70), syn. nov. Type (holotype):—Saniella verna Hilliard & Burtt. This species is the
+only one mentioned in the protologue.
+
+Note:—The genus Ianthe Salisb. was established in order to segregate the species with glabrous leaves and
+flowers occurring in southern Africa, Australia, Tasmania and New Zealand from those in the cosmopolitan
+genus Hypoxis, in which the plants characteristically have hairs at least on the flowers. Fourcade (1932)
+correctly argued against the generic name Ianthe, which is a later homonym and orthographical variant of
+Janthe Griseb. (McNeil et al. 2012: Art. 53.1), in favour of Spiloxene.
+Pauridia acida (Nel) Snijman & Kocyan, comb. nov.
+Spiloxene acida (Nel) Garside (1936: 268)
+Bas.:—Ianthe acida Nel (1914: 291). Type (holotype):—SOUTH AFRICA. [Western Cape], Langebergen, prope
+Zuurbraak, 3900 ft [1189 m], 23 January 1893, R. Schlechter 2164 (B! No. 100089227 [image])
+
+≡
+
+Pauridia aemulans (Nel) Snijman & Kocyan, comb. nov.
+Spiloxene aemulans (Nel) Garside (1936: 269)
+Bas.:—Ianthe aemulans Nel (1914: 295). Type (holotype):—SOUTH AFRICA. [Western Cape], Prom. bon. sp., Bergius
+s.n. (B! No. 100088699 [image])
+= Ianthe pusilla Brown (1933: 24), nom illeg., non Ianthe pusilla (Hooker 1858: 36) Williams (1901: 292) (McNeil et al.
+2012: Art. 53.1) Hypoxis brownii Geerinck (1969: 77). Type (lectotype designated here):—SOUTH AFRICA.
+[Western Cape], Riversdale Division; near Riversdale, June 20, 1933, Dr J. Muir (K! No. K000098835 [image]).
+The protologue for Ianthe pusilla N.E.Br. cites only one specimen, an un-numbered collection of J. Muir. The
+specimen in K, which has been annotated as Ianthe pusilla by N.E.Brown himself, is designated as lectotype.
+
+≡
+
+≡
+
+Pauridia affinis (Schult. & Schult.f.) Snijman & Kocyan, comb. nov.
+Bas.:—Hypoxis affinis Schultes & Schultes (1830: 774). Type (lectotype designated here):—SOUTH AFRICA. [Cape],
+Caput bonae spei, 1820, Brehm s.n. (M! [image]). Brehm s.n. (M) is annotated in Schultes’ hand as ‘Hypoxis affinis
+Syst. Veg’ and the specimen clearly matches the protologue.
+= Hypoxis pusilla Presl (1845: 546), nom. illeg., non Kunth (1816: 286), non Hooker (1858: 36. t. 130B) (McNeil et al.
+2012: Art. 53.1). Type (lectotype designated here):—SOUTH AFRICA. [Cape], Caput bona spei, Sieber Fl.
+capensis. No. 126 (PR! 290808/1709 [image]). Sieber’s collection, labeled ‘Fl capensis. No. 126’ is the only
+specimen mentioned in the protologue. No mention is made of where it is lodged.
+
+THE GENUS PAURIDIA (HYPOXIDACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 23
+
+= Hypoxis schlechteri Bolus (1893: 2259) Ianthe schlechteri (Bolus) Williams (1901: 292) Hypoxis curculigoides
+var. schlechteri (Bolus) Baker (1896: 176) Spiloxene schlechteri (Bolus) Garside (1936: 269), syn. nov. Type
+(lectotype designated here):—SOUTH AFRICA. [Western Cape], prope Kenilworth, 1892, R. Schlechter 628 (K!
+No. K000255983 [image]). The protologue mentions just one specimen, R. Schlechter 628, but Bolus (1893) does
+not refer to any particular herbarium where it is housed.
+
+≡
+
+≡
+
+≡
+
+β
+
+Note:—Until now Hypoxis affinis has been treated as a synonym of Spiloxene alba, possibly explaining why
+the name was overlooked by Bolus (1893), who later described matching plants as H. schlechteri. Like H.
+affinis, the early collections of H. schlechteri have also often been misidentified as S. alba, likely due to the
+apparent similarities in their succulent, terete leaves, which are often immature at the outset of flowering, and
+the flowers which are pink or reddish below. The southwestern Cape S. schlechteri has small, blackish brown
+corms covered by hard, fibrous ribs, which are simple and pectinate below and reticulate above, and the
+flowers, although yellow when fresh, characteristically dry reddish brown on the back, often fading to white
+ventrally, all features mentioned in the protologue of H. affinis. In contrast, S. alba has large, mostly naked
+corms with fine, brown fibres confined to a loose tuft above.
+Pauridia alba (Thunb.) Snijman & Kocyan, comb. nov.
+Spiloxene alba (Thunb.) Fourcade (1932: 76)
+Bas.:—Fabricia alba Thunberg (1779: 26) (excluding var. 1 Thunberg 1779: 27) Hypoxis alba (Thunb.) Linnaeus f.
+(1782: 198). Type (lectotype designated here):—SOUTH AFRICA. [Western Cape], Promontorii Bonae Spei,
+Thunberg s.n. (UPS-THUNB! No. 8248 [image]). Included amongst Thunberg’s collections in UPS are three sheets
+annotated as ‘Hypoxis alba’. Sheet 8248 is the one that most clearly shows the diagnostic, oblong ovary (fruit)
+mentioned in the protologue.
+= Hypoxis pumila Lamarck (1789: 184), syn. nov. Type (lectotype designated here):—SOUTH AFRICA. Cap de Bonneespérance, Lamarck s.n. (P! No. P00562768 [image], solitary-flowered specimen on right hand side of sheet). To
+date Hypoxis pumila has been treated as a synonym of Spiloxene minuta (L.) Fourcade (1932: 76), most recently by
+Govaerts (2012: record number 279164). The protologue of H. pumila states: “scapis foliosis unifloris” which is at
+variance with that of Helonias minuta Linnaeus (1771: 225), the basionym of S. minuta, which has “scapis ramosis”.
+Lamarck’s collection (P) includes one sheet that bears the name Hypoxis pumila. The plant on the left hand side of
+the sheet bears two inflorescences and the scape in each bears two flowers. This is taken to match Linnaeus’
+description of “scapis ramosis” for S. minuta, on the assumption that the “divided scape” refers to the scape
+‘dividing’ apically into a two-flowered inflorescence. The plant on the right hand side of the sheet, in contrast, bears
+a single-flowered inflorescence which is in accordance with Lamarck’s description, hence its choice as lectotype of
+H. pumila. It matches some of the smallest representatives of Pauridia alba.
+
+≡
+
+≡
+
+Note:—According to Bullock (1962), Fabricia Thunberg (1779: 23) is a synonym of the legitimately named
+Empodium Salisbury (1866: 43). Plants belonging to Fabricia alba, the basionym of Pauridia alba, have none
+of the diagnostic features of Empodium, namely a unilocular ovary with three parietal placentas and an
+inflorescence which consists of a single flower without bracts.
+Pauridia alticola Snijman & Kocyan, nom. nov.
+Bas.:—Forbesia occidentalis Nel (1914: 289) Saniella occidentalis (Nel) Burtt (2000: 69). Type (lectotype designated
+here):—SOUTH AFRICA. [Northern Cape], Hantam Geb[ied], 1869, Meyer s.n. (B! No. 100089229 [image])
+(McNeil et al. 2012: Art. 7.4). In B only one sheet collected by Meyer has been annotated by Nel as ‘Forbesia
+occidentalis’. Nel’s protologue; fails to indicate the number of the exsiccatum in B, thus this sheet is designated a
+lectotype.
+
+≡
+
+Note:—Bullock (1962) correctly treated Forbesia Ecklon ex Nel (1914: 243), a later homonym for Forbesia
+Johnson (1912: 177), as a synonym of Empodium Salisb. Due to several important morphological differences
+from the other species of Forbesia, namely white (not yellow) flowers and V-shaped (not plicate) leaves,
+Forbesia occidentalis was subsequently transferred into Saniella (Burtt 2000). Since the epithet ‘occidentalis’
+is taken up in the Australian species with the basionym Hypoxis occidentalis Bentham (1873: 451), we assign
+a new name to this previously much misunderstood species from Northern Cape, South Africa.
+
+24 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+SNIJMAN & KOCYAN
+
+Pauridia aquatica (L.f.) Snijman & Kocyan, comb. nov.
+Spiloxene aquatica (L.f.) Salisb. ex Fourcade (1932: 76)
+Bas.:—Hypoxis aquatica Linnaeus f. (1782: 197)
+Ianthe aquatica (L.f.) Williams (1901: 292). Type (lectotype
+designated here):—SOUTH AFRICA. in humidis argillosus, Sp[arrman] 124 (LINN! No. 1238.3, [under Chrysitrix
+Linnaeus (1771: 165), with a note by J.E.Smith ‘found in Restio’], umbellate plant without flowers on right hand
+side of sheet [image]). Type (epitype designated here):—SOUTH AFRICA. [Western Cape], ad rivulos tum in
+stagnis prope Cape Town, Julio 1877, H. Bolus 2814 (BOL!)
+
+≡
+
+≡
+
+Typification:—Because the lectotype of Hypoxis aquatica is inadequate for critical study we designate an
+epitype to support the lectotypification (McNeil et al. 2012: Art. 9.8). H. Bolus 2814 shows the characteristic
+inflorescence and slender leaves, as recognized in recent accounts of the species (Garside 1950, Manning et
+al. 2002).
+Note:—Pauridia aquatica, well known as Spiloxene aquatica, is widespread in the Greater Cape Floristic
+Region, South Africa. The protologue of Hypoxis aquatica indicates that the younger Linnaeus (1782) was
+unable to find the type specimen of this species in his father’s herbarium: “Hanc ego non vidi, mirror itaque
+unde descriptio facta fuit, cum nondum in Herbario eam reperire potui.” A study of manuscript material in
+possession of the Linnean Society, London (Barnard 1970), has revealed that the type specimen of Hypoxis
+aquatica is Sparrman 124 (LINN 1238.3), filed under Chrysitrix. The original details of Sparrman’s collection
+‘Sp. 124’ appear in the list compiled by Linnaeus which is referred to by Savage (1945) as the ‘Sparrmanni
+Capenses Ms. list ca. 1772’. Sparrman’s number 124 appears in the third part of this list against the words
+‘Dioecia hexandria’, the Class to which the plant might belong, following Sparrman’s opinion that the plants’
+solitary flowers are hermaphrodite but the umbellate flowers (on the right hand side of the sheet and now
+missing) were male. Thus in this list, Linnaeus placed No. 124 between Viscum Linnaeus (1753: 1023)
+(Dioecia tetrandria) and Arctopus Linnaeus (1753: 1058) (Polygamia dioecia). He also gave the plant a new
+name, Hydrophylax (Linnaeus f. 1782: 126), for which the flowers are described as ‘in aliis solitarii
+hermaphroditi in aliis umbellate mares’. The original generic and specific descriptions are given on two slips
+in the Slip Index in the Linnean Society’s Library. These descriptions were later transcribed into the
+Amannensis Draft for Mantissa 3: the generic description of Hydrophylax on page 16 and the species
+description, still without a specific name, on page 124. Only later did Linnaeus add, in his own hand, the
+specific epithet ‘natans’. Among the many alterations that Linnaeus subsequently made to the Draft, two relate
+to Hydrophylax. The two entries for Hydrophylax and natans were crossed out and inserted on the interleaf
+opposite Hypoxis (page 49). Here Linnaeus has rewritten the description of Hydrophylax natans under the
+name Hypoxis aquatica, but in so doing he omitted the reference to Sparrman as the collector. Having used the
+Amannensis Draft of Mantissa 3 as the basis of his own work, this is the entry that the younger Linnaeus would
+have found and published in the Supplementum (Linnaeus f. 1782) as Hypoxis aquatica.
+James Edward Smith, who was in possession of Linnaeus’s collections for several years, may have been
+responsible for having placed the type sheet, which is devoid of a name, under Chrysitrix. His handwriting on
+a note attached to the specimen suggests that he found it incorrectly placed, having been ‘found in Restio’. It
+is likely that he then checked Sparrman’s number with the Sparrmanni Capenses list. Finding it cited next to
+Arctopus (Polygamia dioecia), it is probable that he assigned the sheet to Chrysitrix, the only genus in that
+class to which it could possibly belong.
+Since no flowers remain in the four-pedicellate umbel of the plant on the right hand side of the sheet, it
+can never be known why Sparrman and Linnaeus thought these flowers were male. Field studies have shown,
+however, that the flowers of this and other species of Pauridia are frequently visited by beetles which feed on
+the floral parts (Kocyan et al. 2011: as Spiloxene). Hence it is probable that Sparrman’s ‘male flowers’ in
+Pauridia aquatica were beetle-induced.
+The fruiting plant on the left hand side of the sheet of Sparrman’s collection is typical of Spiloxene
+capensis (Linnaeus 1760: 10) Garside (1936: 74) or Spiloxene canaliculata Garside (1942: 249) in having a
+long, solitary sheathing bract inserted at the articulation between the scape and pedicel. The identity of the
+detached flower mounted on the top left hand corner of the sheet, however, remains uncertain.
+THE GENUS PAURIDIA (HYPOXIDACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 25
+
+Pauridia canaliculata (Garside) Snijman & Kocyan, comb. nov.
+Bas.:—Spiloxene canaliculata Garside (1942: 249). Type (holotype):—SOUTH AFRICA. [Western Cape], roadside near
+stream between Darling and Yzerfontein, 18 September 1932, Garside 4211 (BOL!)
+
+Pauridia capensis (L.) Snijman & Kocyan, comb. nov.
+Spiloxene capensis (L.) Garside (1936: 74)
+Bas.:—Amaryllis capensis Linnaeus (1760: 10), non Miller (1768: 12). Type (neotype designated here):—SOUTH
+AFRICA. [Cape], Caput bonae spei, Oldenland s.n. (G! in Collection Burman [image], named Sisyrinchium
+aethiopicum foliis gramineis [?] nivei anthos Sisyrinchium Cornuti Hist Canad. 168)
+Concerted efforts to trace any original material annotated in Linnaeus’ hand of Amaryllis capensis, the basionym of
+Pauridia capensis, have proved to be problematic (Jarvis 2007). The only reference to original material in Linnaeus’
+(1760) protologue is to Sisyrrhinchium (sic) in Cornut (1635), but with no reference to a page or figure number.
+Cornut’s work includes an illustration (Cornut 1635: 165 t. Xiij) of Sisynrichium indicum (sic), which is later
+explicitly referred to by Linnaeus (1762) as a synonym of Amaryllis capensis. The figure depicts a plant in which the
+flowers have five tepals, none with a dark base, a solitary, capitate stigma and a scape which lacks a persistent
+spathe. None of these features match the protologue: ‘Scapus infra medium vaginatus. Petala lanceolata, basi
+interiore atra. Stigmata tria’, and consequently, it cannot be eligible as the lectotype of Amaryllis capensis. The
+reference to Cornut’s publication does, however, provide a link to a sheet in Burman’s herbarium (G), the source for
+Linnaeus’ Plantae Rariores Africanae (Jarvis 2007), which was based largely on the plants collected by Oldenland
+circa 1695. This sheet has two plants mounted on paper cut from some other source and it is annotated in writing that
+matches Oldenland’s hand, with the phrase name Sisyrinchium aethiopicum foliis gramineis [?] nivei anthos, with
+reference to Sisyrinchium Cornuti Hist Canad. 168. We presume that the page number 168 is a typographic error for
+165, since the description on page 168 of this work is of a plant referred to as Solidago maxima. The dried plants are
+numbered two and three respectively above each corm and they appear to be part of a set comprising at least an
+additional specimen, numbered four in the same hand, mounted on paper characterized by an irregularly cut top right
+edge and annotated ‘Amaryllis capensis’, thought to be in the hand of Burman. The unevenly cut corner suggests
+that this sheet is also one of Oldenland’s collections (see Jarvis 2007: 224), probably removed from an original
+volume believed to have held his Cape collections (Nordenstam 1968: 92). Although the plants on both sheets of this
+set correspond well with Linnaeus’ protologue of Amaryllis capensis, the sheet referring to Cornut’s publication in
+Oldenland’s hand shows the characteristics most clearly. The scape is sheathed below the middle by a persistent
+spathe and although the stigma is concealed in the left hand specimen, it is exposed and clearly 3-branched in the
+adjacent plant. The dark spots at the base of the tepals, which were explicitly described by Linnaeus (1760), can be
+seen clearly in the left hand plant. To maintain what has become established usage of the epithet in Spiloxene from
+1936 onwards (Garside 1936, Arnold & De Wet 1993, Goldblatt & Manning 2000, Manning et al. 2002,
+Germishuizen & Meyer 2003, Klopper et al. 2006), we designate a neotype of Amaryllis capensis, namely
+Oldenland s.n. (G!, the sheet with the phrase name, Sisyrinchium aethiopicum foliis gramineis [?] nivei anthos
+Sisyrinchium Cornuti Hist Canad. 168) in Burman’s herbarium.
+= Fabricia stellata Thunberg (1779: 27)
+Hypoxis stellata (Thunb.) Linnaeus f. (1782: 197)
+Spiloxene stellata
+(Thunb.) Salisbury (1866: 44) Ianthe stellata (Thunb.) Williams (1901: 292). Type (lectotype designated here):—
+SOUTH AFRICA. [Cape], Cap. b. Spei, Thunberg s.n. (UPS-THUNB! No. 8266 [image]). Three sheets amongst
+Thunberg’s collections in UPS are annotated ‘Hypoxis stellata’. Sheet 8266 is chosen as lectotype since it clearly
+shows the contrasting colour at the base of each tepal as mentioned in Thunberg’s protologue.
+= Hypoxis stellata var. 1 albiflora Baker (1878: 101), syn. nov. [Hypoxis stellata var. Thunberg (1823: 304)]. Type
+(lectotype designated here):—SOUTH AFRICA. [Cape], Caput bonae spei, Thunberg s.n. (UPS-THUNB! 8264
+[image]). We choose sheet 8264 from Thunberg’s collection in UPS which is marked ‘Hypoxis stellata ’ to apply
+the concept of “Hypoxis stellata Thunb.” which is referred to in Baker’s protologue (Baker 1878).
+
+≡
+
+≡
+
+≡
+
+≡
+
+α
+
+α
+
+α
+
+Note:—Fabricia stellata was mistakenly allied with Fabricia plicata Thunberg (1779: 29), designated by
+Bullock (1962) as the type of Fabricia Thunb., a synonym of Empodium Salisb.
+Pauridia curculigoides (Bolus) Snijman & Kocyan, comb. nov.
+Spiloxene curculigoides (Bolus) Garside (1936: 269)
+Bas.:—Hypoxis curculigoides Bolus (1893: 2259) Ianthe curculigoides (Bolus) Williams (1901: 292). Type (lectotype
+designated here):—SOUTH AFRICA. [Western Cape], prope Kenilworth, 80 ft [24 m], May, R. Schlechter 627 (K!
+No. K000255993 [image], isolectotypes B! No. 100088700 [image], ZT!)
+
+≡
+
+≡
+
+26 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+SNIJMAN & KOCYAN
+
+Typification:—Bolus (1893) specifies only one collection in his protologue: R. Schlechter (No. 627). Since
+none of the exsiccata bears Bolus’ handwriting, we designate the specimen in K as lectotype since it best
+matches the description and illustration in the protologue.
+Pauridia etesionamibensis (Müll.-Doblies et al.) Snijman & Kocyan, comb. nov.
+Bas.:—Spiloxene etesionamibensis Müller-Doblies et al. (2011: 320). Type (holotype):—NAMIBIA. Farm Spitskop
+(LUS 111), 25 September 1977, Merxmüller & Giess 32268 (M! [image], isotype WIND!)
+
+Pauridia flaccida (Nel) Snijman & Kocyan, comb. nov.
+Spiloxene flaccida (Nel) Garside (1936: 74)
+Bas.:—Ianthe flaccida Nel (1914: 298). Type (lectotype designated here):—SOUTH AFRICA. [Western Cape], Sir
+Lowry’s Pass, 400 ft [122 m], 16 July 1892, R. Schlechter 1141 (B! No. 100088697 [image], isolectotype ZT!)
+
+≡
+
+Typification:—Of the eight different collections listed in Nel’s protologue (Nel 1914), we select as lectotype
+the numbered Schlechter specimen in B, which is the only one inscribed by Nel.
+Pauridia gardneri (R.J.F.Hend.) Snijman & Kocyan, comb. nov.
+Bas.:—Hypoxis gardneri Henderson (1987: 487). Type (holotype):—AUSTRALIA. Western Australia, Mundaring Weir,
+E of Perth, 12 July 1920, C.A. Gardner 542 (PERTH)
+
+Pauridia glabella (R.Br.) Snijman & Kocyan, comb. nov.
+Bas.:—Hypoxis glabella Brown (1810: 289). Type (lectotype designated by Henderson 1987: 487):—AUSTRALIA.
+Victoria, Arthurs Seat, Port Phillip, May 1802, R. Brown Iter Australiense 5634 (BM [portion of sheet with Brown’s
+original tag, annotated ‘Hypoxis glabella prod. 289’])
+
+Pauridia glabella var. leptantha (Benth.) Snijman & Kocyan, comb. nov.
+Hypoxis glabella var. leptantha (Benth.) Henderson (1987: 488)
+Bas.:—Hypoxis leptantha Bentham (1873: 451)
+Ianthe leptantha (Benth.) Williams (1901: 292). Type (lectotype
+designated by Henderson 1987: 488):—AUSTRALIA. Western Australia, Swan River, 1843, J. Drummond s.n. (K
+[single plant on extreme right of top row of plants])
+
+≡
+
+≡
+
+Pauridia gracilipes (Schltr.) Snijman & Kocyan, comb. nov.
+Spiloxene gracilipes (Schltr.) Garside (1936: 268)
+Bas.:—Hypoxis gracilipes Schlechter (1900: 88) Ianthe gracilipes (Schltr.) Williams (1901: 292). Type (lectotype
+designated here):—SOUTH AFRICA. [Western Cape], Piqueniers Kloof, 2000 ft [610 m], 29 June 1896, R.
+Schlechter 7957 (BOL!, isolectotypes E, K! No. K000255996 [image], COI! [image], GRA!, LISC! [image], PRE!,
+S! [image]). R. Schlechter 7957, the only collection given in the protologue, is not associated with any particular
+herbarium. As lectotype we designate the numbered specimen in K since it shows the characteristic inflorescence
+described in the protologue, namely the slender scape that is devoid of all but the most minute bract.
+= Ianthe cuspidata Nel (1914: 294) Spiloxene cuspidata (Nel) Garside (1936: 268) Hypoxis cuspidata (Nel) Geerinck
+(1969: 78), syn. nov. Type (holotype):—SOUTH AFRICA, [Western Cape], Brakfontein, Ecklon & Zeyher [Hypoxid
+19] (B! No. 100089225 [image], isotype W). Nel’s protologue mentions a single pair of numbered specimens, one in
+B and the other in W (Nel 1914). The holotype, which is annotated by Nel as the “original”, is in B.
+
+≡
+
+≡
+
+≡
+
+≡
+
+Note:—Spiloxene gracilipes was informally treated as part of the S. ovata (Linnaeus f. 1782: 197) Garside
+(1936: 268) complex in Goldblatt & Manning (2000: 110). Further studies have resolved several differences
+between the two species (D. Snijman in prep.). The yellow-flowered Pauridia gracilipes is widespread in the
+western part of the Greater Cape Floristic Region, unlike P. ovata (L.f.) Snijman & Kocyan, which has white
+flowers and is restricted to the Overberg in the southern part of the Cape Region.
+Plants of Pauridia gracilipes vary considerably in size and the most diminutive forms of the species,
+found in the Olifants River Valley, Western Cape, resemble the type of S. cuspidata. As did Hilliard & Burtt
+(1978), we disagree with some of the statements made by Nel (1914), who regarded S. cuspidata as having
+two filiform bracts on the scape, whereas only one is evident on the type specimen.
+
+THE GENUS PAURIDIA (HYPOXIDACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 27
+
+Pauridia linearis (Andrews) Snijman & Kocyan, comb. nov.
+Spiloxene linearis (Andrews) Garside (1936: 268)
+Bas.:—Hypoxis linearis Andrews (1801: t. 171) Hypoxis stellata var. linearis (Andrews) Baker (1878: 101) Ianthe
+linearis (Andrews) Salisb. ex Williams (1901: 292). Type (lectotype designated here):—(illustration in) Andrews
+(1801: t.171)
+
+≡
+
+≡
+
+≡
+
+Typification:—The colour plate, painted from a plant grown in Hibbert’s living collection at Clapham, is
+designated as the lectotype since it clearly shows the flower’s colour, an important character given in the
+protologue. A dried voucher specimen of this plant is not known.
+Note:—Although Spiloxene linearis was regarded as part of the S. serrata (Thunberg 1779: 29) Garside
+(1936: 268) complex in Goldblatt & Manning (2000: 110), the name has never been formally placed into
+synonymy with S. serrata. Currently it is recognized as a highly localized, Vulnerable species in the Red List
+of South African plants (Raimondo et al. 2009: 125).
+Pauridia maximiliani (Schltr.) Snijman & Kocyan, comb. nov.
+Spiloxene maximiliani (Schltr.) Garside (1936: 268)
+Bas.:—Hypoxis maximiliani Schlechter (1900: 89) Ianthe maximiliani (Schltr.) Williams (1901: 292). Type (lectotype
+designated here):—SOUTH AFRICA. [Western Cape], Olifantsrivier, 300 ft [91 m], 2 July 1896, R. Schlechter 7994
+(BOL!, isolectotypes E, GRA!, K! No. K000256006 [image], NH!, PRE!, ZT!)
+
+≡
+
+≡
+
+Typification:—Schlechter (1900) mentions only one of his numbered collections in the protologue, without
+any reference to where it was seen. The specimen in BOL is of two whole plants which show clearly the
+submembranous bracts described in the protologue.
+Note:—Spiloxene maximiliani was incorrectly listed as a synonym of S. umbraticola (Schlechter 1900:
+89) Garside (1936: 269) in Germishuizen & Meyer (2003) and Klopper et al. (2006). Although superficially
+resembling each other in leaf, S. maximiliani is distinguished by a unilocular ovary, unlike the fully threelocular S. umbraticola.
+Pauridia monophylla (Schltr. ex Baker) Snijman & Kocyan, comb. nov.
+Spiloxene monophylla (Schltr. ex Baker) Garside (1936: 269)
+Bas.:—Hypoxis monophylla Schltr. ex Baker (1897: 531) Ianthe monophylla (Schltr. ex Baker) Williams (1901: 292).
+Type (lectotype designated here):—SOUTH AFRICA. [Western Cape], Elim, 500 ft [152 m], 18 April 1896, R.
+Schlechter 7615 (K! No. K000255995 [image], isolectotypes B! No. 100165530 [image], BOL!, E, GRA!, LISC!
+[image], PRE!, S! [image], SAM!, WAG! [image])
+
+≡
+
+≡
+
+Typification:—In his protologue Baker (1897) cited just one collection, Schlechter 7615. This collection
+consists of several sheets, one of which is housed at K, where J.G. Baker was in a position to have examined
+the specimen.
+Pauridia nana (Snijman) Snijman & Kocyan, comb. nov.
+Bas.:—Spiloxene nana Snijman (2006: 133). Type (holotype):—SOUTH AFRICA. Northern Cape, Nieuwoudtville,
+Oorlogskloof Nature Reserve, 773 m, 11 October 2000, W.A.J. Pretorius 589 (NBG!, isotypes K!, MO!, PRE!)
+
+Pauridia occidentalis (Benth.) Snijman & Kocyan, comb. nov.
+Bas.:—Hypoxis occidentalis Bentham (1873: 451). Type (lectotype designated by Henderson 1987: 489):—
+AUSTRALIA. Western Australia, Upper Hay River, 1870, Warburton s.n. (K [plant on extreme left hand side of
+sheet], isolectotype MEL)
+
+Pauridia occidentalis var. quadriloba (F.Muell.) Snijman & Kocyan, comb. nov.
+Hypoxis occidentalis var. quadriloba (F.Muell.) Henderson (1987: 489)
+Bas.:—Hypoxis glabella var. quadriloba Mueller (1867: 96). Type (lectotype designated by Henderson 1987: 489):—
+AUSTRALIA. Western Australia, Upper Kalgan River, October 1867, F. Mueller s.n. (MEL No. 107298)
+
+≡
+
+28 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+SNIJMAN & KOCYAN
+
+Pauridia ovata (L.f.) Snijman & Kocyan, comb. nov.
+Spiloxene ovata (L.f.) Garside (1936: 268)
+
+≡
+
+Bas.:—Hypoxis ovata Linnaeus f. (1782: 197) Ianthe ovata (L.f.) Salisb. ex Williams (1901: 292). Type (lectotype
+designated here):—SOUTH AFRICA. [Cape], Thunberg s.n. (UPS-THUNB! No. 8260 [image])
+
+≡
+
+Typification:—In his protologue, Linnaeus f. (1782) mentions material collected by Thunberg. Amongst
+Thunberg’s collections at UPS there are three sheets labeled Hypoxis ovata. Sheet number 8260 matches the
+protologue most closely in having white flowers. These flowers characteristically have dark undersides, which
+are clearly visible in this specimen.
+Pauridia pusilla (Snijman) Snijman & Kocyan, comb. nov.
+Bas.:—Spiloxene pusilla Snijman (2006: 135). Type (holotype):—SOUTH AFRICA. Western Cape, Vanrhynsdorp
+District, Driekoppen Peak, Gifberg Mountains, 2000 ft [610 m], 6 September 1964, Esterhuysen 30747 (NBG!,
+isotypes B!, BOL!, K!, MO!, PRE!, Z!)
+
+Pauridia pygmaea Snijman & Kocyan, nom. nov.
+Bas.:—Helonias minuta Linnaeus (1771: 225)
+Fabricia minuta (L.) Thunberg (1779: 25) Hypoxis minuta (L.)
+Linnaeus f. (1782: 197) Ianthe minuta (L.) Williams (1901: 292) Spiloxene minuta (L.) Fourcade (1932: 76).
+Type (neotype designated here):—SOUTH AFRICA. [Cape], (LINN! No. 427.12 [image]) (McNeil et al. 2012: Art.
+7.4)
+
+≡
+
+≡
+
+≡
+
+≡
+
+Typification:—In the protologue of Helonias minuta, Linnaeus (1771) referred to a collection by Koenig
+[König], but no original material has been traced (Jarvis 2007). The neotype designated here, (LINN No.
+427.12), which bears the name Hypoxis minuta in Linnaeus filius’ hand, clearly matches Linnaeus’ (1771)
+protologue of Helonias minuta. The plant on sheet 427.12 has been mounted with the base of the corm facing
+upwards to reveal its truncate base and distinct, broad basal rim, above which the fibrous tunics converge
+towards the narrow neck. This distinctively shaped corm, which matches the description in the protologue, is
+unique to the species. Given that the epithet is occupied in Pauridia minuta Durand & Schinz (1894: 142), the
+species is newly named Pauridia pygmaea.
+Note:—We agree with Thompson (1979) that Fabricia minuta does not constitute a synonym of Pauridia
+minuta, as given by Geerinck (1969), since the plant under this name has six stamens, unlike the threestamened P. minuta. Hence the name F. minuta is treated here as a synonym of Pauridia pygmaea. Fabricia
+minuta was incorrectly assigned to the genus Fabricia Thunb. which, following the typification of the genus
+by Bullock (1962), is a synonym of Empodium Salisb. Linnaeus (1771) incorrectly included Helonias minuta
+in his genus Helonias (1753: 342), the type of which is Helonias bullata Linnaeus (1753: 342) that falls within
+the family Melanthiaceae Batsch.
+Pauridia salina (M.Lyons & Keighery) Snijman & Kocyan, comb. nov.
+Bas.:—Hypoxis salina Lyons & Keighery (2007: 318). Type (holotype):—AUSTRALIA. Western Australia, Chinocup
+Nature Reserve, 27 October 2006, M.N. Lyons & S.D. Lyons 4890 (PERTH 07575793, isotypes CANB, MEL)
+
+Pauridia scullyi (Baker) Snijman & Kocyan, comb. nov.
+Spiloxene scullyi (Baker) Garside (1936: 268)
+Bas.:—Hypoxis scullyi Baker (1889: 2). Type (lectotype designated here):—SOUTH AFRICA. [Northern Cape],
+Namaqualand, Scully s.n. (com. G. Scott-Elliott) (K! No. K000256008 [image])
+
+≡
+
+Typification:—The protologue mentions just one un-numbered collection, Scully, which was described as
+having been “received very lately from Mr. Scott Elliott”. The Scully collection in K, designated as lectotype,
+is the only one annotated “Com. G. Scott-Elliot 11. 1888”.
+Pauridia serrata (Thunb.) Snijman & Kocyan, comb. nov.
+Spiloxene serrata (Thunb.) Garside (1936: 268)
+
+≡
+
+THE GENUS PAURIDIA (HYPOXIDACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 29
+
+Bas.:—Fabricia serrata Thunberg (1779: 29) Hypoxis serrata (Thunb.) Linnaeus f. (1782: 197) Ianthe serrata
+(Thunb.) Salisbury (1866: 44). Type (lectotype designated here):—SOUTH AFRICA. [Cape] Cap. b. Spei,
+Thunberg s.n. (UPS-THUNB! No. 8262 [image]). Two sheets included amongst Thunberg’s collection at UPS are
+annotated ‘Hypoxis serrata’. All the plants mounted on sheet 8262 most consistently represent the characteristics
+given in Thunberg’s protologue.
+= Ianthe dielsiana Nel (1914: 293) Spiloxene dielsiana (Nel) Garside (1936: 268) Hypoxis dielsiana (Nel) Geerinck
+(1969: 78), syn. nov. Type (holotype):—SOUTH AFRICA, [Northern Cape], Karroofläche südostlich Calvinia, 800–
+900 m, 15 September 1900, Diels 696 (B! No. 100089226 [image])
+= Spiloxene namaquana Müller-Doblies et al. (2011: 326), syn. nov. Type (holotype):—SOUTH AFRICA. Northern
+Cape, Grootvlei, ca. 3.5 km W of N7 (from the T-junction 5 km S of Kamieskroon), ca. 750 m, 19 August 1988,
+Müller-Doblies 88110c (PRE, isotypes B, BTU, G, K, KMG, LD, M, NBG, WIND, Z)
+
+≡
+
+≡
+
+≡
+
+≡
+
+Note:—Spiloxene serrata exhibits a wide range of variation over its geographic distribution, especially with
+regard to corm covering and leaf width. Nel (1914) originally described Ianthe dielsiana, as differing from S.
+serrata by the root-entangled corms and the narrower, apparently terete leaves. These characteristics recur in
+randomly scattered populations throughout the widespread geographic range of S. serrata, hence both S.
+dielsiana and the recently described S. namaquana are treated here as conspecific with S. serrata, now known
+as Pauridia serrata. Fabricia serrata was incorrectly assigned to the genus Fabricia Thunb. which, based on
+the typification of the genus by Bullock (1962), is a synonym of Empodium Salisb.
+Pauridia serrata subsp. albiflora (Nel) Snijman & Kocyan, comb. & stat. nov.
+Spiloxene serrata var. albiflora (Nel) Garside (1936: 268)
+Bas.:—Ianthe serrata var. albiflora Nel (1914: 293). Type (lectotype designated here):—SOUTH AFRICA. [Northern
+Cape], Onder-Bokkeveld, Oorlogskloof, 2400 ft [732 m], R. Schlechter 10945 (B! No. 100165526 [image],
+isolectotypes BOL!, K! No. K000255997 [image], PRE!, S! [image], WAG! [image], ZT!). Two collections are
+mentioned in the protologue. Of these, Schlechter 10945 is the most well represented in herbaria. The specimen in
+K, which is inscribed as Ianthe serrata var. albiflora by Nel, is designated as lectotype.
+= Hypoxis alba var. gracilis Baker (1878: 102), syn. nov. Type (lectotype designated here):—(illustration in) Loddiges
+(1825: t. 1074). Apart from the illustration in Loddiges (1825), none of the other original material given in the
+protologue indicates that the flowers of this taxon are white. Since the presence of white flowers is diagnostic,
+Loddiges’ illustration is designated as the lectotype.
+
+≡
+
+Note:—Baker (1878) described Hypoxis alba var. gracilis as having solitary flowers which, from his
+reference to Loddiges (1825: t. 1074), he infers as having white tepals. Only rarely does Pauridia alba have
+solitary flowers and if so, the inflorescence is longer than the leaves. In contrast, Loddiges’ illustration of
+Hypoxis alba var. gracilis shows the inflorescence as long as the leaves, a characteristic feature of P. serrata
+subsp. albiflora. The two taxa also differ in the size and shape of the inflorescence bracts. These are
+conspicuously large on P. alba and inconspicuous in P. serrata subsp. albiflora, as suggested in the
+illustration.
+The white-flowered populations of S. serrata, previously treated as var. albiflora are recognized here as P.
+serrata subsp. albiflora, being morphologically and ecologically distinct from the yellow-flowered and
+widespread populations constituting subsp. serrata.
+Pauridia trifurcillata (Nel) Snijman & Kocyan, comb. nov.
+Spiloxene trifurcillata (Nel) Fourcade (1932)
+Bas.:—Ianthe trifurcillata Nel (1914: 297). Type (lectotype designated here):—SOUTH AFRICA. Uitenhage, 350 ft
+[107 m], 14 April 1893, R. Schlechter 2490 (BOL!, isolectotypes WU! [image], Z)
+
+≡
+
+Typification:—Several numbered collections are given in the protologue, many of which are poorly pressed
+specimens. Of the cited collections, R. Schlechter 2490 in BOL is designated as lectotype as it shows the
+unique downturned branches at the base of the style, which are clearly described in the protologue.
+
+30 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+SNIJMAN & KOCYAN
+
+Pauridia umbraticola (Schltr.) Snijman & Kocyan, comb. nov.
+Spiloxene umbraticola (Schltr.) Garside (1936: 269)
+Bas.:—Hypoxis umbraticola Schlechter (1900: 89) Ianthe umbraticola (Schltr.) Williams (1901: 292). Type (lectotype
+designated here):—SOUTH AFRICA. [Western Cape], Brackfontein, 100 ft [30 m], 1 July 1896, Schlechter 7982
+(BOL!, isolectotypes B! No. 100165522 [image], K! No. K000255992 [image], PRE!, S! [image], ZT!)
+
+≡
+
+≡
+
+Typification:—Only one numbered collection is given in the protologue, Schlechter 7982. The specimen in
+BOL is designated as lectotype as it clearly shows the long, subcylindrical ovary mentioned in the original
+description.
+Pauridia vaginata (Schltdl.) Snijman & Kocyan, comb. nov.
+Bas.:—Hypoxis vaginata Schlechtendal (1847: 568). Typical collection:—AUSTRALIA. South Australia, Oncaparinga
+River, near Kowimanilla, ca. 1844, H.H. Behr [not found by Henderson (1987: 187)]
+
+Pauridia vaginata var. brevistigmata (R.J.F.Hend.) Snijman & Kocyan, comb. nov.
+Bas.:—Hypoxis vaginata var. brevistigmata Henderson (1987: 490). Type (holotype):—AUSTRALIA. Victoria, 1 km N
+of Eastern Moorabooi River crossing on Ballan–Mt Egerton road, 25 October 1978, T.B. Muir 6246 (MEL)
+
+Pauridia verna (Hilliard & B.L.Burtt) Snijman & Kocyan, comb. nov.
+Bas.:—Saniella verna Hilliard & Burtt (1978: 71). Type (holotype):—LESOTHO. Black Mountains, between Sani and
+Mokhotlong, ca. 3050 m, 5 November 1973, Hilliard & Burtt 7076 (E! [image], isotype NU)
+
+Uncertain species
+Hypoxis andrewsii Baker (1878: 104). Type (lectotype designated here):—(illustration in) Andrews (1801: t.
+195)
+Note:—Baker (1878) cited Hypoxis obliqua Andrews (1801: t. 195) [nom. illeg., non Hypoxis obliqua Jacquin
+(1797: 54) (McNeil et al. 2012: Art. 53.1)] in his protologue of Hypoxis andrewsii. Baker noted, however, that
+there was conflict between Andrews’ iconography and Andrews’ diagnosis of H. obliqua (the stem is hairy in
+the diagnosis but it is glabrous in the illustration), thus he gave it a new name and placed it within Hypoxis
+subgenus Ianthe, which only includes plants that are entirely glabrous. Baker’s protologue also cites a plant
+referred to as “C. B. Spei, Hort. Hibberd [Hibbert], anno 1801” which he never saw. In the absence of a
+preserved specimen and because the identity of the plant in Andrews’ illustration remains doubtful, Hypoxis
+andrewsii is treated here as an uncertain species.
+
+Acknowledgements
+We thank the curators of B, BOL, G, GRA, K, NH, PR and PRE, for the loan of material or help with images,
+and JSTOR Plant Science for easy access to images. We are particularly grateful to Dr. Hans-Joachim Esser
+for considerable help in tracing specimens in the Botanische Staatssammlung München, to the late J.C.
+Paterson-Jones for the photographs taken in situ and to anonymous reviewers for improvements to the
+manuscript.
+
+References
+Andrews, H.C. (1801) Hypoxis obliqua. Botanist’s Repository, for new, and rare plants 3: t. 195.
+Arnold, T.H. & De Wet, B.C. (1993) Plants of southern Africa: names and distribution. Memoirs of the Botanical Survey of
+South Africa 62. National Botanical Institute, Pretoria, 825 pp.
+
+THE GENUS PAURIDIA (HYPOXIDACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 31
+
+Baker, J.G. (1878) A synopsis of Hypoxidaceae. Journal of the Linnean Society, Botany 17: 93–126.
+Baker, J.G. (1889) Hypoxideae. Journal of Botany, British and foreign. London 27: 2–3.
+Baker, J.G. (1896) Amaryllideae. In: Thiselton-Dyer, W.T. (ed.) Flora Capensis 6. Lovell Reeve & Co., London, pp. 171–246.
+Baker, J.G. (1897) Addenda. In: Thiselton-Dyer, W.T. (ed.) Flora Capensis 6. Lovell Reeve & Co., London, pp. 529–536.
+Barnard, T.T. (1970) The type of Spiloxene aquatica (L.f.) Fourcade. Paper read at the Congress of the South African
+Association for the Advancement of Science (1970), Cape Town, unpublished.
+Bentham, G. (1873) Flora australiensis 6. Lovell Reeve & Co., London, 475 pp.
+Bentham, G. & Hooker, J.D. (1883) Genera plantarum 3(2). Lovell Reeve & Co., London, 421 pp.
+Bolus, H. (1893) Hypoxis curculigoides and Hypoxis schlechteri. Icones plantarum 23, series 4: pl. 2259.
+Brown, N.E. (1933) Plants new or noteworthy. Gardeners’ Chronicle 94, third series: 24–25.
+Brown, R. (1810) Prodromus florae Novae Hollandiae. R. Taylor & Company, London. 590 pp.
+Bullock, A.A. (1962) Nomenclatural notes: XV. Forbesia, Fabricia and Empodium (Hypoxidaceae). Kew Bulletin 15: 389.
+http://dx.doi.org/10.2307/4115597
+Burtt, B.L. (2000) Saniella and its relation to other South African genera of Hypoxidaceae. Edinburgh Journal of Botany 57:
+63–70.
+http://dx.doi.org/10.1017/S0960428600000044
+De Vos, M.P. (1949) The development of the ovule and the seed in the Hypoxideae. II. The genera Pauridia Harv. and Forbesia
+Ecklon. Journal of South African Botany 15: 13–22.
+Cornut, J-P. (1635) Canadensium plantarum. Simon le Moyne, Paris, 238 pp.
+Durand, T.A. & Schinz, H. (1894) Conspectus florae Africae 5. Jardin botanique de l’état, Brussels, 957 pp.
+Fourcade, H.G. (1932) Contributions to the Flora of the Knysna and neighbouring divisions. Transactions of the Royal Society
+of South Africa 21: 75–76.
+http://dx.doi.org/10.1080/00359193209518876
+Garside, S. (1936) The South African species of Spiloxene Salisb. Journal of Botany, British and foreign. London 74: 267–269.
+Garside, S. (1942) Plantae novae africanae: series XVIII. Journal of South African Botany 8: 245–270.
+Garside, S. (1950) Amaryllidaceae. In: Adamson, R.S. & Salter, T.M. (eds.), Flora of the Cape Peninsula. Juta & Company,
+Cape Town, pp. 208–217.
+Geerinck, D. (1969) Genera des Haemodoraceae et des Hypoxidaceae. Bulletin du Jardin Botanique de l’état, Brussels 39: 47–
+82.
+Germishuizen, G. & Meyer, N.L. (2003) Plants of southern Africa: an annotated checklist. Strelitzia 14. National Botanical
+Institute, Pretoria, 1231 pp.
+Goldblatt, P. & Manning, J.C. (2000) Cape Plants. A Conspectus of the Cape flora of South Africa. Strelitzia 9. National
+Botanical Institute, Pretoria & Missouri Botanical Garden, Missouri, 743 pp.
+Govaerts, R. (2012) World Checklist of Hypoxidaceae. Facilitated by the Royal Botanic Gardens, Kew. Published on the
+Internet: [http://apps.kew.org/wcsp/Retrieved 13 November 2012].
+Grisebach, A.H.R. (1844) Spicilegium florae rumeliae et bithynicae 2(4). Friedrich Vieweg & Sohn, Braunschweig, 160 pp.
+Harvey, W.H. (1838) The genera of South African plants, A.S. Robertson, Cape Town, 429 pp.
+Henderson, R.J.F. (1987) Hypoxidaceae. In: George, A.S. (ed.), Flora of Australia 45, Hydatellaceae to Liliaceae. Government
+Publishing Service, Canberra, pp. 178–434.
+Hilliard, O.M. & Burtt, B.L. (1978) Notes on some plants from southern Africa chiefly from Natal: VII. Notes from the Royal
+Botanical Garden Edinburgh 36: 43–76.
+Hooker, J.D. (1858) Flora Tasmaniae 2. Lovell Reeve & Co., London, 422 pp.
+Hutchinson, J. (1959) The families of flowering plants, monocotyledons 2. Clarendon Press, Oxford. 795 pp.
+Jacquin, N.J. (1797) Collectaneorum supplementum. Ex Officina Wappleriana, Vindobonae, 220 pp.
+Jarvis, C. (2007) Order out of chaos: Linnaean plant names and their types. The Linnean Society of London in association with
+the Natural History Museum, London, 1016 pp.
+Johnson, T. (1912) Forbesia cancellata, gen et sp. nov. (Sphenopteris, sp., Baily.). The Scientific Proceedings of the Royal
+Dublin Society 13: 177.
+Klopper, R.R., Chatelain, C., Bänninger, V., Habashi, C., Steyn, H.M., De Wet, B.C., Arnold, T.H., Gautier, L., Smith, G.F. &
+Spichiger, R. (2006) Checklist of the flowering plants of Sub-Saharan Africa: An index of accepted names and synonyms.
+South African Botanical Diversity Network Report 42. SABONET, Pretoria, 892 pp.
+Kocyan, A., Snijman, D.A., Forest, F., Devey, D.S., Freudenstein, J.V., Wiland-Szyma ska, J., Chase, M.W. & Rudall, P.J.
+(2011) Molecular phylogenetics of Hypoxidaceae–Evidence from plastid DNA data and inferences on morphology and
+biogeography. Molecular Phylogenetics and Evolution 60: 122–136.
+http://dx.doi.org/10.1016/j.ympev.2011.02.021
+Kunth, C.S. (1816) Hypoxis. In: Humboldt, F.W.H.A., Bonpland, A.J.A. & Kunth, C.S. Nova genera et species plantarum 1.
+F.G. Levrault, Paris, pp. 286–287.
+Lamarck, J.B.A.P. de M. (1789) Encyclopédie méthodique. Botanique 3(1). Panckoucke, Paris, 360 pp.
+Linnaeus, C. (1753) Species Plantarum 2. Stockholm, 639 pp.
+Linnaeus, C. (1759) Systema Naturae (tenth edition) 2. Stockholm, 559 pp.
+Linnaeus, C. (1760) Plantae Rariores Africanae [dissertation of J. Printz]. Stockholm, 28 pp.
+
+ń
+
+THE GENUS PAURIDIA (HYPOXIDACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 32
+
+Linnaeus, C. (1762) Species Plantarum (second edition) 1. Stockholm, 784 pp.
+Linnaeus, C. (1771) Mantissa Plantarum Altera. Stockholm, 404 pp.
+Linnaeus, C. filius. (1782) [1781] Supplementum Plantarum. Braunschweig, 467 pp.
+Loddiges, C. (1825) [1826] Hypoxis alba. The botanical cabinet 11: t. 1074.
+Lyons, M.N. & Keighery, G.J. (2007) A new species of Hypoxis (Hypoxidaceae) from saline wetland margins in Western
+Australia. Nuytsia 16: 317–320.
+Manning, J. & Goldblatt, P. (2012) Plants of the Greater Cape Floristic Region 1: the Core Cape flora. Strelitzia 29. South
+African National Biodiversity Institute, Pretoria. 853 pp.
+Manning, J., Goldblatt, P. & Snijman, D. (2002) The color encyclopedia of Cape bulbs. Timber Press, Portland, Oregon, 486
+pp.
+Markötter, E.I. (1936) Die lewensgeskiedenis van sekere geslagte van die Amaryllidaceae. Annale van die Universiteit van
+Stellenbosch 14 Reeks A, Afl. 2: 1–84.
+Melchior, H. (ed.) (1964) Engler’s Syllabus der Pfanzenfamilien, ed. 12, 2. Bornträger, Berlin-Nikolassee, 520 pp.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K.,
+Prado, J., Prud’homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (eds.) (2012) International Code of
+Nomenclature (Melbourne Code): Adopted by the Eighteenth International Botanical Congress Melbourne, Australia, July
+2011. Regnum Vegetabile 154. Koeltz Scientific Books, 208 pp.
+Miller, P. (1768) The gardeners dictionary, edition 8. John & Francis Rivington, London, 1386 pp.
+Mueller, F.J.H. (1867) Fragmenta phytographiae Australiae 6. Joannis Ferres, Melbourne, 276 pp.
+Müller-Doblies, U., Ackermann, M., Weigend, M. & Müller-Doblies, D. (2011) De Liliifloris Notulae 9. The only hitherto
+known Spiloxene species (Hypoxidaceae) from Namibia is a new species, Spiloxene etesionamibensis, and a new
+Spiloxene species from Namaqualand (Northern Cape), S. namaquana. Feddes Repertorium 122: 319–334.
+http://dx.doi.org/10.1002/fedr.201000031
+Nel, G. (1914) Die afrikanischen Arten der Amaryllidaceae–Hypoxideae. Botanische Jahrbücher für Systematik 51: 287–340.
+Nordal, I. (1998) Hypoxidaceae. In: Kubitzki, K. (ed.), The families and genera of vascular plants Volume 3: Flowering plants
+Monocotyledons Liliane (except Orchidaceae). Springer-Verlag, Berlin, pp. 286–294.
+Nordenstam, B. (1968) The genus Euryops Part 1. Taxonomy. Opera Botanica 20: 1–409.
+Nordenstam, B. (1972) Types of Ecklon’s ‘Topographisches Verzeichniss’ in the Swedish Museum of Natural History in
+Stockholm. Journal of South African Botany 38: 277–298.
+Presl, C.B. (1845) Botanische Bemerkungen. Abhandlungen der Königlichen Böhmischen Gesellschaft der Wissenschaften,
+series 5, 3: 431–584.
+Raimondo, D., von Staden, L., Foden, W., Victor, J.E., Helme, N.A., Turner, R.C., Kamundi, D.A. & Manyama P.A. (eds.)
+(2009) Red List of South African plants. Strelitzia 25. South African National Biodiversity Institute, Pretoria, 667 pp.
+Rudall, P.J., Chase, M.W., Cutler, D.F., Rusby, J. & de Bruijn, A.Y. (1998) Anatomical and molecular systematics of
+Asteliaceae and Hypoxidaceae. Botanical Journal of the Linnean Society 127: 1–42.
+Salisbury, R.A. (1866) The genera of plants. John van Voorst, London, 143 pp.
+Savage, S. (1945) A catalogue of the Linnaean Herbarium. Taylor & Francis, London, 225 pp.
+Schlechtendal, D.F.L. (1847) Hypoxideae. Linnaea 20: 568.
+Schlechter, R. (1900). Amaryllidaceae. Botanische Jahrbücher für Systematik, Pfanzengeschichte und Pfanzengeographie 27:
+88–90.
+Schultes, J.A. & Schultes, J.H. (1830) Hypoxis. In: Roemer, J.J. & Schultes, J.A. (eds.) Systema vegetabilium 7(2). J.G. Cottae,
+Stuttgardt, pp. 759–779.
+Simpson, M.G. (1983) Pollen ultrastructure of the Haemodoraceae and its taxonomic significance. Grana 22: 79–103.
+http://dx.doi.org/10.1080/00173138309431969
+Snijman, D.A. (2006) Two new species of Spiloxene (Hypoxidaceae) from the northwestern Cape, South Africa. Bothalia 36:
+133–138.
+Snijman, D.A. (2008) Pauridia: small but not insignificant. The Indigenous Bulb Growers Association of South Africa Bulletin
+56: 7–9.
+Thiers, B. (2011) Index herbariorum, a global directory of public herbaria and associated staff. New York Botanical Garden’s
+Virtual Herbarium. Available from: http://sweetgum.nybg.org/ih/ (accessed: 25 October 2012).
+Thompson, M.F. (1972) Notes on Empodium and a new species of Pauridia. Journal of South African Botany 38: 163–164.
+Thompson, M.F. (1976) Studies in the Hypoxidaceae. I. Vegetative morphology and anatomy. Bothalia 12: 111–117.
+Thompson, M.F. (1978) Studies in the Hypoxidaceae. II. Floral morphology and anatomy. Bothalia 12: 429–435.
+Thompson, M.F. (1979) Studies in Hypoxidaceae: III. The genus Pauridia. Bothalia 12: 621–625.
+Thompson, M.F. (1980) A shower of brilliant little stars. Veld & Flora 66: 81–82.
+Thunberg, C.P. (1779) Fabricia. In: Fabricius, J.C. Reise nach Norwegen. C.E. Bohn, Hamburg, pp. 23–29.
+Thunberg, C.P. (1823) Flora Capensis. J.C. Cottae, Stuttgardt, 834 pp.
+Williams, F.N. (1901) On Ianthe, a genus of Hypoxidaceae. Journal of Botany, British and foreign. London 39: 289–294.
+
+THE GENUS PAURIDIA (HYPOXIDACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 33
+
+

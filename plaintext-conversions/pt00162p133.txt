@@ -1,0 +1,526 @@
+Phytotaxa 162 (3): 121–133
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.162.3.1
+
+A synopsis of the multilocular species of Ixora (Rubiaceae) from Madagascar
+PETRA DE BLOCK
+National Botanic Garden of Belgium, Domein van Bouchout, BE–1860 Meise, Belgium. E-mail: petra.deblock@br.fgov.be
+
+Abstract
+Two new Ixora species from Madagascar are described, Ixora lagenifructa and I. quadrilocularis. Ixora littoralis,
+previously positioned in the monospecific genus Thouarsiora, is newly named I. homolleae. These three species are
+characterized by 4-locular ovaries and fruits, 4-lobed stigmas, large fruits with thick walls and well-developed calyces. A
+fourth species, I. trimera, shows the same characters but its ovaries are 2-, 3- or 4-locular and its stigmas are 2-, 3- or 4lobed. A dichotomous key, detailed descriptions and distribution maps are given for these four species, the only
+multilocular ones in Madagascar.
+
+Introduction
+In Madagascar the genus Ixora Linneaus (1753: 110) comprises ca. 40 species, half of which remain undescribed.
+This paper is the fourth in a series of precursors to a revision (De Block 2007, 2008; De Block & Van De
+Kerckhove 2009), and treats the multilocular species, i.e. those with more than two locules, present on the island.
+In Africa and Madagascar, the genus Ixora is easily recognized by the following characters: articulate petioles;
+articulate, trichotomously branched, terminal inflorescences; 4-merous flowers with long, cylindrical corolla tubes;
+free stigmatic lobes; uni-ovulate locules; drupaceous fruits; and seeds with a large adaxial excavation extending
+into a basal groove (De Block 1998). In the past, to this list of key characters would be added: ovaries and fruits 2locular and stigma 2-lobed. Several small genera, closely related to Ixora and often considered as satellite taxa,
+were described to accomodate species with more than two locules. The Madagascan monospecific genus
+Thouarsiora Homolle ex Arènes (1960: 19) was described for a 4-locular species with uniflorous inflorescences,
+Thouarsiora littoralis Homolle ex Arènes (1960: 19). In the Mascarenes, two genera comprised species with
+dioecious or functionally dioecious flowers, short corolla tubes and 2–7-locular ovaries: Myonima Commerson ex
+Jussieu (1789: 206) with four species and Doricera Verdcourt (1983: 37) with a single species. In the Pacific, Hitoa
+Nadeaud (1899: 2) was established for a species with 2–6 flowers per inflorescence and 3- or 4-locular ovaries and
+fruits. Over time, it was realized that the number of locules is not a discriminating character after all, and, one by
+one, these genera were placed in synonymy with Ixora: Hitoa by Darwin (1979) and Thouarsiora by Guédès
+(1986) as previously suggested by Capuron (1969: 48). Guédès (1986) also emended the description of the genus
+Ixora to include species with 3- and 4-locular ovaries and 3- and 4-lobed stigmas. In a molecular phylogenetic
+study of the tribe Ixoreae, Mouly et al. (2009) confirmed the synonymy of Hitoa and Thouarsiora with Ixora and
+also placed Doricera and Myonima in synonymy with Ixora. This resulted in an even broader circumscription of
+Ixora including species with up to seven locules per ovary.
+Species having ovaries with more than two locules are rare within the ca. 530 species (Davis et al. 2009) of
+Ixora, but they do occur in several parts of the distribution range: the Mascarenes (Myonima, Doricera), the Pacific
+Region (Hitoa), Australia [Ixora baileyana Bridson & L.G.Adams in Adams et al. (1987: 214)] and Madagascar
+(Thouarsiora). The presence of more than two locules is sometimes correlated with dioecy or functional dioecy as
+in Myonima, Doricera and Ixora baileyana (Adams et al. 1987, Tosh et al., 2013), but this is not the case in Hitoa
+or in the Madagascan species. The phylogenetic analysis published by Mouly et al. (2009, p. 152, fig. 2) clearly
+shows that the switch from two to more locules occurred independently several times in the evolution of Ixora.
+Furthermore, even in Madagascar this switch seems to have occurred more than once. In a molecular study on the
+
+Accepted by Piero Delprete: 14 Feb. 2014; published: 13 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+121
+
+Madagascan Ixora, which included three out of the four multilocular species (Tosh et al. 2013, Fig. 3), multilocular
+species did not form a monophyletic group. Ixora homolleae Govaerts ex De Block (this publication) and I.
+quadrilocularis De Block (this publication) were resolved as sister species, but I. lagenifructa De Block (this
+publication) fell into a different subclade, which otherwise had only 2-locular species.
+The species discussed here are very distinct and cannot be confused with any other Ixora species on the island.
+Apart from the multilocular ovaries and fruits, and the stigma with three or four free lobes (rarely two), they differ
+from the other Madagascan Ixora species by the following combination of characters: coriaceous leaves; uni- or
+pauciflorous inflorescences (1–15 flowers); robust flowers (corolla tubes up to 8 cm long); well-developed calyx
+tubes (2.5–10 mm long); large, lageniform fruits, due to the persistent calyx; thick fruit wall; stony pyrenes; and,
+relatively small seeds shaped like spherical wedges (instead of the hemispherical or hemiovoid seeds of 2-locular
+Ixora species).
+
+Material and methods
+Herbarium material and preserved samples were studied from the BR, G, K, MO, P, TAN, TEF and WAG herbaria.
+Further material was collected during field work in Madagascar. Terminology generally follows Robbrecht (1988);
+leaf terminology is according to Anonymous (1962). The methods used followed normal practice of herbarium
+taxonomy (De Vogel 1987). In the descriptions, inflorescence size does not include the corollas, fruit shape and
+size does not include the persistent calyx, and, the peduncle is measured from the lowermost pair of inflorescencesupporting leaves to the inflorescence base. Colors given are for dried material except for flower parts and fruits.
+Specimens are cited per province and alphabetically by collector. All specimens listed were seen by the author.
+Coordinates of localities were determined using the online Gazetteer to Malagasy Botanical Collecting Localities
+(Schatz et al. 2003). Also, 1:500.000 maps from the Malagasy Institut National de Géodésie et Cartographie were
+used. Distribution maps were drawn using Arcmap 9.2. Abbreviations used: fir., firaisana (commune); fiv.,
+fivondronana (district); fok., fokotany (canton).
+
+Taxonomy
+Key to the multilocular species of Ixora from Madagascar
+1.
+2.
+
+-
+
+3.
+
+-
+
+Inflorescence uniflorous; flowers sessile or with pedicel < 2 mm long......................................................... Ixora homolleae
+Inflorescences 3–15-florous; at least some flowers with longer pedicels ............................................................................. 2
+Bracts and bracteoles densely sericeous adaxially; bracteoles broadly ovate or triangular, 3–12 mm long, with acuminate
+or rarely acute apices; calyx tube densely sericeous adaxially, no colleters visible without removal of pubescence; calyx
+lobes triangular, oblong or foliaceous, 2–12 mm long; flower bud with obtuse apex; corolla lobes 0.8–1.5 cm wide, apices
+round or round and shortly apiculate...................................................................................................................................... 3
+Bracts and bracteoles not densely pubescent adaxially; bracteoles triangular, 1–2 mm long, with acute apices; calyx tube
+sparsely or moderately pubescent adaxially, hairs interspaced with small, dark brown colleters; calyx lobes triangular, narrowly triangular, linear or irregular, 1.5–2 mm long; flower bud with acute apex; corolla lobes 0.4–0.7 cm wide, apices
+acute ............................................................................................................................................................ Ixora lagenifructa
+Stipular awn (1–)1.5–3.5 mm long; calyces and corollas often covered with sticky colleter exudate; bracteoles broadly
+ovate, 3–12 mm long, with acuminate apices; calyx tube 4–8 mm long; calyx lobes oblong or foliaceous and strongly
+keeled or triangular and weakly keeled, 2–12 mm long; corolla lobes 1–2.2 x 0.8–1.5 cm; stigma 4-lobed; ovaries 4-locular
+............................................................................................................................................................... Ixora quadrilocularis
+Stipular awn ca. 1 mm long; calyces and corollas not covered with sticky colleter exudate; bracteoles triangular, ca. 3 mm
+long, with acute to acuminate apices; calyx tube 2.5–5 mm long; calyx lobes oblong or foliaceous, not or only weakly
+keeled, (5–)7–11 mm long; corolla lobes ca. 1.2 x 1 cm; stigma 2-, 3- or 4-lobed; ovaries 2-, 3- or 4-locular. Ixora trimera
+
+Ixora homolleae Govaerts ex De Block, nom. nov. Fig. 1.
+Type:—MADAGASCAR. Without locality, Du Petit-Thouars s.n. (holotype P, isotype P).
+
+122 •
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+DE BLOCK
+
+FIGURE 1. Ixora homolleae. A—flowering branch; B—bracteoles, ovary and calyx; C—bracteole; D—corolla, stamens, style and 4lobed stigma; E—fruit. Drawn by Roger Lala Andriamiarisoa. Based on coll. ignot. 32528-SF (A–B, D), Perrier de la Bâthie 14187
+(C) and coll. ignot. 32190-SF (E).
+
+MULTILOCULAR IXORA SPECIES IN MADAGASCAR
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+• 123
+
+Thouarsiora littoralis Homolle ex Arènes (1960: 19).
+Ixora littoralis (Homolle ex Arènes) Guédès (1986: 248), nom. illeg.
+Illustrations:—Arènes (1960: 19, fig. 2, 4–9).
+
+Shrub (1–)2–7 m tall or tree 4–10(–15) m tall; young internodes brown, older internodes grayish-brown, grayish or
+fawn; all external parts glabrous. Stipule sheath 2–4 mm long, awn 2–5(–8) mm long. Leaves with petioles 0.2–0.7
+cm long; blades narrowly obovate or obovate, rarely narrowly elliptic or elliptic, 3–13 x 1.5–4 cm, coriaceous,
+drying brown or dark brown above, paler brown below; apex obtuse, acute or shortly acuminate, often mucronate;
+base cuneate or attenuate; secondary veins 7–14 each side. Inflorescences terminal, sessile or subsessile (peduncle
+≤ 0.5 cm), uniflorous; one or rarely two pairs of modified inflorescence-supporting leaves present, subsessile,
+blades ovate to broadly ovate, elliptic to broadly elliptic, 0.6–3 x 0.4–1.5 cm, base acute to round or cordate.
+Flowers sweetly fragrant, solitary, sessile to shortly pedicellate; pedicels ≤ 2 mm long; ovary and calyx green,
+corolla, style, stigma, filaments and anthers white; flower bud with acute apex; bracteoles broadly triangular or
+ovate, 8–10 mm long, adaxial surfaces densely sericeous, apices acuminate; hypanthium 2–3 mm long; calyx tube
+5–10 mm long, adaxial surface sericeous, the hairs interspaced with many small, dark brown colleters; calyx lobes
+oblong or foliaceous, often two by two crosswise equal in length, 5–12 mm long, keeled, sometimes with
+additional, smaller interstitial lobes, adaxial surfaces glabrous and without colleters, apices obtuse, acute or shortly
+acuminate. Corolla tube (1.2–)3–5 cm long; corolla lobes narrowly oblong , 1.5–2.8 × 0.5–0.9 cm, apices
+acuminate; filaments ca. 1 mm long, anthers 3–5 mm long, sterile apical appendix ca. 0.5 mm long; ovary 4locular; style exserted from corolla tube for 5–10 mm, stigma 4-lobed, stigmatic lobes 2–2.5 mm long. Fruits
+subglobose, 1.2–1.8 × 1.2–1.6 cm, with persistent calyx and often also with persistent dried flower remnants, red
+when ripe; fruit wall 1.5–2 mm thick; pyrenes 4, 6–7 × 4–5 mm, stony; seeds 5–6 × 3–4 mm.
+Habitat:—Eastern littoral or sublittoral forest, on sand; elev. 0–50 m.
+Distribution:—Along the eastern coast, from 15° to 23°30'S (provinces Antsiranana, Toamasina and
+Fianarantsoa) (Fig. 5A).
+Phenology:—Flowers: October–January(–April); fruits: January–December, mostly collected in January–
+May.
+Vernacular names:—hazomanity; kafeala; rotrandomohina; taolanania; vintanompotsy; voakazohandatra;
+voantalanina; voatrotrokala.
+Uses:—Ripe fruits are eaten by local people in southeastern Madagascar (Manombo, De Block et al. 1966).
+Notes: —Ixora littoralis (Homolle ex Arènes) Guédès is a later homonym of Ixora littoralis Merril (1910: 240)
+and is therefore illegitimate. Rafaël Govaerts (Royal Botanic Gardens, Kew) was the first to point this out and to
+suggest the new name (as I. homollei Govaerts) in a preliminary version of the World Checklist of Rubiaceae,
+which was distributed to Rubiaceae specialists in 1998. The name is corrected here into ‘homolleae’, since it
+honours Anne-Marie Homolle.
+One of the type specimens (Du Petit-Thouars s.n., P) is annotated as Pyrostria oleoides Lamarck (1792: 289),
+which is now considered a synonym of Pyrostria commersonii Gmelin (1791: 246) (Govaerts et al. 2013). This
+species is known only from Réunion Island (Mascarenes Islands) and differs in many aspects from Ixora
+homolleae, e.g. the inflorescences are axillary and not uniflorous.
+Unusually short flowers (corolla tube < 12 mm long) were observed in Dorr & Barnett 3413, a specimen that
+further does not differ from the other representatives of I. homolleae.
+Additional specimens examined:—MADAGASCAR. Province Antsiranana: forêt littorale d'Ambodipont,
+Ampanavoana, Antalaha, Parc Masoala, 0–10 m, 15°44’45”S, 50°19’25”E, 15–20 March 1996, Bernard 257 (MO,
+P); canton Ambohitralalana, district Antalaha, 15°14’20”S, 50°27’0”E, 22 January 1957, coll. ignot. 8735-RN (P);
+canton Ambohitralalana, district Antalaha, 15°14’20”S, 50°27’0”E, 22 January 1957, coll. ignot. 8738-RN (TEF);
+canton Ambohitralalana, district Antalaha, 15°14’20”S, 50°27’0”E, 6 May 1958, coll. ignot. 9992-RN (P, TEF).—
+Province Toamasina: fiv. Soanierano-Ivongo, fir. Manompana, fok. Antanambao-Ambodimanga, forêt
+d'Antanambao-Ambodimango, Nord Ambodivasihy, Andranon 'i Poeta, 7 m, 16°45’38”S, 49°42’22”E, 5 October
+2003, Andrianarivelo, Rabehevitra, Razakamalala & Fotsilahy 8 (BR, MO); route Farafangana-Vangaindrano,
+22°49’S, 47°49’E, December 1963, Bosser 18569 (P); Tampolo littoral forest, 33 m, 17°17’14”S, 49°24’31”E, 13
+January 2006, De Block, Tosh & Rakotonasolo 1812 (BR, MO, TAN, WAG); Analalava, W of Foulpointe,
+17°42’34”S, 49°26’50”E, 13 December 1984, Dorr & Barnett 3413 (K, MO, P, TAN, WAG); forêt d'Analalava, 2
+
+124 •
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+DE BLOCK
+
+km W of Foulpointe, Mahavelona, 10 m, 17°41’S, 49°31’E, 7 December 1985, Leeuwenberg 13785 (BR, K, MO,
+P, TAN, WAG); Vohibola, forest N of Pangalane hotel, N shore of Lac Ampitabe, ca. 2 km W of Andranokoditra,
+2–5 m, 18°35’46”S, 49°14’6”E, 9 February 2003, Lowry, Rabevohitra, Rabenantoandro, Razakamalala & Lowry
+SWJ 6028 (BR, MO, P); Tampina, 18°31’S, 49°17’E, November 1920, Perrier de la Bâthie 13299 (P); près de
+Mahanoro, 19°54’S, 48°48’E, October 1921, Perrier de la Bâthie 14187 (P); fiv. Sainte Marie, fir. Lokintsy, fok.
+Sahasifotra, forêt littorale d'Ambohidena, 10 m, 16°51’11”S, 49°57’10”E, 14 May 2003, Rabenantoandro,
+McPherson, Razakamalala & Poity 1460 (BR, MO); Île Sainte Marie, fir. Lokintsy, fok. Ambohidena, 16°51’11”S,
+49°57’10”E, 1 June 2004, Rabevehitra & Poity 1174 (BR, K, MO); fiv. Soanierano-Ivongo, commune rurale
+Manompana, forêt d'Antanambao-Ambodimanga, 16°46’24”S, 49°42’21”E, 30 January 2003, Rabevohitra,
+Rabenantoandro & Razakamalala 4321 (BR, MO, P); Ambodihazovola, 16°28’30”S, 49°48’0”E, 27 February
+1990, Raharimalala 342 (P); fiv. Soanierano-Ivongo, commune rurale de Manompana, forêt d'AntanambaoAmbodimanga, 16°46’6”S, 49°42’22”E, 16 May 2003, Razakamalala, McPherson & Rabenantoandro 472 (BR,
+MO); Sainte Marie, Lokintsy, Ambohidena, forêt d'Ambohidena, 34 m, 16°50’27”S, 49°57’1”E, 11 October 2003,
+Razakamalala, Rabevehitra, Andrianarivelo & Poity 827 (BR, MO, P); fiv. Sainte Marie, fir. Lokintsy, fok.
+Ambohidena, forêt littorale d'Ambohidena, 10 m, 16°50’25”S, 49°57’9”E, 19 February 2004, Razakamalala,
+Rabevohitra & Poity 930 (BR, K, MO); Tampina, entre Ambila-Lemaitso & Tamatave, 18°31’S, 49°17’E, 28
+December 1952, coll. ignot. 6475-SF (P, TEF); jardin botanique 2, Ambila-Lemaitso, 18°49’S, 49°8’E, 27 April
+1954, coll. ignot. 9650-SF (P); Tampolo, 17°17’S, 49°23’30”E, 25 March 1987, coll. ignot. 32190-SF (TEF); Allée
+des Pangalanes, Ambila, 18°49’S, 49°8’E, 30 March 1987, coll. ignot. 32232-SF (TEF); fiv. Brickaville, fir.
+Ambila, Ankaisin ny Nosy, village le plus proche Andranakoditra, 18°36’S, 49°15’E, 25 November 1983, coll.
+ignot. 32528-SF (TEF); Andranonampanga, village le plus proche Foulpointe, 17°41’S, 49°31’E, 20 February
+1991, coll. ignot. 34274-SF (TEF); Foulpointe, along road to Analalava forest, 17 m, 17°41’10”S, 49°29’52”E, 12
+January 2006, Tosh, De Block & Rakotonasolo 70 (BR, MO, P, TAN); Foulpointe, along road to Analalava forest,
+17 m, 17°41’10”S, 49°29’52”E, 12 January 2006, Tosh, De Block & Rakotonasolo 80 (BR, G, MO, P, TAN);
+Tampolo, 3 km N of Tampolo littoral forest, 10 m, 17°15’25”S, 49°24’53”E, 14 January 2006, Tosh, De Block &
+Rakotonasolo 107 (BR, MO, P, TAN, WAG); Ampanihy, littoral forest on Île Sainte Marie, 10 m, 16°54’51”S,
+49°55’46”E, 18 January 2006, Tosh, De Block & Rakotonasolo 207 (BR, MO, TAN, WAG); Ampanihy, littoral
+forest on Île Sainte Marie, 10 m, 16°54’51”S, 49°55’46”E, 18 January 2006, Tosh, De Block & Rakotonasolo 220
+(BR, MO, P, TAN, UPS).—Province Fianarantsoa: Réserve Spèciale de Manombo, parcelle 2, second part, 50 m,
+23°2’29”S, 47°46’23”E, 6 November 1998, Davis, Rakotonasolo & De Block 2163 (BR, K, TAN); Mahabo littoral
+forest, 20 km N of Vangaindrano, 10 m, 23°11’S, 47°42’E, 3 February 2006, De Block, Tosh & Rakotonasolo 1966
+(BR, MO, P, TAN); S of Farafangana, near village of Mahabo, 15 m, 23°10’20”S, 47°42’4”E, 1 November 2001,
+McPherson & Rabenantoandro 18287 (BR, MO); fiv. Nosy Varika, fir. Ambahy, fok. Ampasimaneva, forêt
+littorale d’Ambolo, 20°48’59”S, 48°27’9”E, 16 June 2004, Ranaivojaona, Razakamalala & Clément 768 (MO, P);
+fiv. Farafangana, commune rurale Mahabo, fok. Mahabo, forêt littorale de Mahabo, 35 m, 23°10’19”S, 47°42’2”E,
+10 March 2003, Randrianaivo, Andriantiana, Ratodimanana, Razadindrabeaza & Ratiany 949 (BR, MO, P);
+Farafangana, Mahabo, 14 m, 23°10’39”S, 47°42’24”E, 11 November 2002, Razakamalala & Reza 296 (BR, K,
+MO); Farafangana, Mahabo-Mananivo, Mahabo, 22 m, 23°11’13”S, 47°42’27”E, 26 August 2003, Razakamalala
+& Rabevehitra 709 (BR, MO, P); forêt d'Analalava mainty, canton Vohitrindry, district Vohipeno, 0 m, 22°22’30”S,
+47°51’0”E, 16 December 1952, coll. ignot. 7095-SF (P, TEF); forêt d'Ampangalana, Nord-Mananajary,
+21°12’30’’S, 48°21’30’’E, 26 February 1995, coll. ignot. 13686-SF (P); Farafangana, forêt de Nanomilo, village
+Nanomilo, 22°49’S, 47°49’E, 12 March 1995, coll. ignot. 34642-SF (TEF).—Without locality: s. dat., coll. ignot.
+34186-SF (TEF).
+
+Ixora lagenifructa De Block, sp. nov. Fig. 2.
+Type:—Madagascar, Antsiranana, forêt d'Analamateza, S d'Antsirabe-Nord, 13°58’S, 49°58’E, March 1967, Capuron 27584SF (holotype P, isotypes BR, K, TEF).
+Resembling Ixora homolleae because of the coriaceous leaves, the robust flowers, the large calyces and fruits and the 4-locular
+ovaries, but differing from it by the lax, pedunculate inflorescences with 3–15 flowers, the longer pedicels (lateral
+flowers), bracteoles 1–2 mm long (vs. 8–10 mm long), and calyx lobes 1.5–2 mm long (vs. 5–12 mm long).
+
+MULTILOCULAR IXORA SPECIES IN MADAGASCAR
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+• 125
+
+FIGURE 2. Ixora lagenifructa. A—flowering branch; B—pedicel, bracteoles, ovary and calyx; C—corolla, stamens, style and 4lobed stigma; D—fruit. Drawn by Roger Lala Andriamiarisoa. Based on Capuron 27584-SF (A–C) and coll. ignot. 7778-SF (D).
+
+Tree, 6–13 m tall; young internodes brown, older internodes greyish brown; all external parts glabrous. Stipule
+sheath 1.5–4.5 mm long, awn 1–2.5 mm long. Leaves with petioles 0.5–2.5 cm long; blades narrowly obovate,
+obovate to elliptic, 7–19.5 × 2.5–6.5 cm, coriaceous, drying brown or dark brown and often somewhat glossy
+above, paler brown below; apex shortly acuminate (acumen 0.5–1.5 cm long); base cuneate to attenuate; secondary
+veins 10–20 each side. Inflorescences terminal, trichotomously branched, shortly pedunculate, lax, 2–12 × 2–12
+
+126 •
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+DE BLOCK
+
+cm, often 3-flowered (to 15-flowered); modified inflorescence-supporting leaves usually absent (seen once and
+then less than 1 cm long); peduncle 1.5–3.5 cm long; first order axes 2.5–16 cm long; bracts triangular and vaulted,
+adaxial surfaces moderately pubescent. Ultimate flower triads with flowers pedicellate; pedicels 1–35 mm long, the
+pedicels of the central flowers 1–3 mm long, those of the lateral flowers 10–20 mm long (but pedicels 15–35 mm
+long in case of reduction). Flowers with ovary and calyx green, corolla white; flower bud with acute apex;
+bracteoles triangular, 1–2 mm long, adaxial surfaces moderately pubescent, apices acute or acuminate; hypanthium
+2–2.5 mm long; calyx tube 5–7 mm long, adaxial surface sparsely to moderately pubescent with long spreading
+hairs, hairs interspaced with many small, dark brown colleters; calyx lobes triangular and keeled, narrowly
+triangular, linear or irregular, 1.5–2 mm long, adaxial surfaces glabrous and without colleters, apices acute to
+acuminate; corolla tube 3.5–6.5 cm long; corolla lobes oblong, 1–2 × 0.4–0.7 cm, apices acute; filaments 1–1.5 mm
+long, anthers 4–5 mm long, sterile apical appendix 0.5–0.75 mm long; ovary 4-locular; style exserted from corolla
+tube for 5–7 mm, stigma 4-lobed, lobes 2–2.5 mm long. Fruits subglobose, 1–1.2 cm diam., with persistent calyx;
+fruit wall ca. 2 mm thick; pyrenes 4, ca. 6 x 4 mm, stony; mature seeds unknown.
+Habitat:—lowland humid eastern forest or littoral forest, elev. < 100 m.
+Distribution:—North-eastern Madagascar, known from the Masoala Peninsula and the Marojejy region
+(province Antsiranana) (Fig. 5B).
+Phenology:—flowers: February–March; fruits: May–September.
+Vernacular names:—mantalanatorotra; valotrafotsy.
+Notes:—This species is easily distinguished by its short bracteoles and calyx lobes, both ≤ 2 mm long. Also, it
+lacks the dense sericeous pubescence on the adaxial surfaces of the calyx, bracts and bracteoles that is present in I.
+homolleae, I. trimera and I. quadrilocularis. Furthermore, colleters are easily visible all over the adaxial surface of
+the calyx tube.
+Morphologically, this species seems to fit well with the other 4-locular species. It has the typical lax,
+pauciflorous inflorescences, the robust flowers with large calyces and the thick ovary (ca. 1.5 mm) and fruit wall
+(ca. 3 mm). However, in the study of Tosh et al. (2013), I. lagenifructa did not form a monophyletic group with I.
+homolleae and I. quadrilocularis.
+Additional specimens examined (paratypes):—MADAGASCAR. Province Antsiranana: Massif MarojejyFarakalana-Sambava, 14°32’S, 49°52’E, 13 June 1953, coll. ignot. 7435-SF (BR, P, TEF); Massif de Bezavo, N
+d'Ansahamona, canton Anoviana, district Andapa, 14°39’S, 49°38’30”E, 14 September 1953, coll. ignot. 7778-SF
+(P, TEF); on road to Parc National de Marojejy, ca. 1 km before entrance to Park, 14°27’30”S, 49°52’30”E, 12
+February 2006, De Block, Tosh, Rakotonasolo & Ravelonarivo 2036 (BR, MO, TAN); fiv. Antalaha, fir.
+Ambohitralanana, village le plus proche Ambodimany, 25 m, 15°16’2”S, 50°26’53”E, 26 May 2001,
+Razakamalala, Antilahimena, Bernard & Rakotoarisoa 115 (BR, K, MO, P); fiv. Antalaha, fir. Ambohitralanana,
+Antsahamanara, 66 m, 15°17’50”S, 50°13’27”E, 7 March 2001, Razakamalala, Rakotoarisoa, Rasolohery,
+Antilahimena & Bernard 72 (BR, MO, P).
+
+Ixora quadrilocularis De Block, sp. nov. Fig. 3.
+Type:—Madagascar, Toamasina, forêt de Sahavolamena, S de Sonierana-Ivongo, 16°56’S, 49°37’E, November 1964, Capuron
+23803-SF (holotype P, isotypes BR, TEF).
+Similar to Ixora lagenifructa because of the 4-locular ovaries, 4-lobed stigmas, robust flowers, large calyces and fruits and lax,
+pedunculate, few-flowered inflorescences, and differing from it by bracteoles 3–12 mm long (vs. 1.5–2 mm long), corolla
+lobes 0.8–1.5 cm wide (vs. 0.4–0.7 cm wide), the denser pubescence without visible colleters on the adaxial surface of
+bracts and bracteoles (vs. moderately pubescent with visible colleters) and the densely sericeous adaxial surfaces of the
+calyx lobes (vs. glabrous surfaces).
+
+Tree, (4–)6–10 m tall; young internodes brown, older internodes grayish brown, grayish or fawn; all external parts
+glabrous. Stipule sheath 2–4 mm long, awn (1–)1.5–3.5 mm long. Leaves with petioles 0.5–1.5 cm long; blades
+obovate to narrowly obovate, 7–16 × 3–7 cm, coriaceous, drying brown or dark brown and often somewhat glossy
+above, paler brown below; apex shortly acuminate (acumen < 0.5(–1) cm), apiculate or acute; base cuneate;
+secondary veins 12–18 each side. Inflorescences terminal, trichotomously branched, shortly pedunculate, lax, 2.5–
+6.5 × 2.5–7 cm, often 3-flowered but comprising up to 9 flowers; modified inflorescence-supporting leaves absent or
+MULTILOCULAR IXORA SPECIES IN MADAGASCAR
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+• 127
+
+FIGURE 3. Ixora quadrilocularis. A—flowering branch; B—pedicel, bracteoles, ovary and calyx; C—corolla, stamens, style and 4lobed stigma; D—adaxial view of seed. Drawn by Roger Lala Andriamiarisoa (A–C) and Antonio Fernandez (D). Based on Capuron
+23803-SF (A–C) and coll. ignot. 13688-SF (D).
+
+128 •
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+DE BLOCK
+
+present, if present then preceded by a shorter internode, blades similar in shape to vegetative leaves but smaller, 0.3–
+5.5 x 0.3–3 cm; peduncle 0.2–4 cm long; first order axes 1.5–5 cm long; bracts broadly triangular or ovate, vaulted,
+adaxial surfaces densely sericeous, apices acuminate. Ultimate flower triads with flowers pedicellate; pedicels 1–40
+mm long (only central flowers of triad with pedicels < 1 cm). Flowers sweetly fragrant, often covered with sticky
+colleter exudate; ovary and calyx green, corolla, style, stigma, filaments and anthers white; flower bud with obtuse
+apex; bracteoles broadly ovate, 3–12 mm long, adaxial surfaces densely sericeous, apices acuminate; hypanthium
+2–3.5 mm long; calyx tube 4–8 mm long, adaxial surface densely sericeous (no colleters visible without removal of
+pubescence); calyx lobes oblong or foliaceous and strongly keeled or triangular and weakly keeled, 2–12 mm long,
+often unequal within one flower, adaxial surfaces densely sericeous, apices obtuse or acute; corolla tube 3.5–7.5 cm
+long; corolla lobes oblong , 1–2.2 × 0.8–1.5 cm, apices round and shortly apiculate; filaments 1.5–2 mm long,
+anthers 3.5–5.5 mm long, sterile apical appendix ca. 0.5 mm long; ovary 4-locular; style exserted from corolla tube
+for 5–8 mm, stigma 4-lobed, lobes 2–3,5 mm long. Fruits probably subglobose, ca. 1.5 cm in diam., with persistent
+calyx; fruit wall thick; pyrenes 4, ca. 10 × 4 mm, stony; seeds ca. 9 × 3.5 mm.
+Habitat:—low altitude humid or sublittoral eastern forest, on laterite; elev. 25–100 m.
+Distribution:—On the eastern coast, from ca. 16° to 23° S (provinces Toamasina and Fianarantsoa) (Fig. 5C).
+Notes:—I. quadrilocularis is characterized by dense sericeous pubescence on the adaxial surfaces of bracts,
+bracteoles and calyx tube. This pubescence is partly visible from the outside and is an easy character to distinguish
+I. quadrilocularis from I. lagenifructa. The inflorescence parts are often covered with sticky colleter exudate.
+Fruit size and thickness of the fruit wall could not be measured, since the only mature fruit available was
+collected in overripe state (s. coll. 13688-SF, P); seed measurements were possible, however.
+The specimens from the Fianarantsoa province generally have shorter bracteoles (3–5 mm long vs. 5–12 mm
+long), calyx tubes (4–5 mm long vs. 5–8 mm long), calyx lobes [2–4 mm long vs. (2–)4–12 mm long] and corolla
+lobes (1–1.5 cm long vs. 1.4–2.2 cm long), with respect to those from the Tomasina province; however, the
+character set between the specimens from the two regions is a continuum, and no subspecific ranks are recognized.
+Additional specimens examined (paratypes):—MADAGASCAR. Province Toamasina: forêt de
+Mangalimaso, W de Foulpointe, 17°41’S, 49°31’E, 23 November 1962, Capuron 22110-SF (BR, K, MO, P, TEF);
+district Fenoarivo-Est, forêt d'Analava, ca. 6.8 km SW of Mahavelona (Foulpointe) en route to Ambatobe, 50 m,
+17°42’36”S, 49°27’21”E, 18 November 1999, Davis, Rakotonasolo, Baker & Dransfield 2297 (BR, K, TAN); Île
+Sainte Marie, Kalalao Forest, path near Maromandia village, 16°53’S, 49°53’E, 17 January 2006, De Block, Tosh
+& Rakotonasolo 1848 (BR, TAN); Île Sainte Marie, Kalalao Forest, path near Maromandia village, 16°53’S,
+49°53’E, 17 January 2006, De Block, Tosh & Rakotonasolo 1849 (BR, K, MO, TAN); Île Sainte Marie, Kalalao
+Forest, path near Maromandia village, 16°53’S, 49°53’E, 17 January 2006, De Block, Tosh, Rakotonasolo &
+Ravelonarivo 1854 (BR, TAN); Analalava, 3.9 km W of the old fortress at Foulpointe, 17°42’34”S, 49°26’50”E, 2
+December 1985, Dorr, Barnett, Leeuwenberg & Ralimanana 4425 (K, MO, P, TAN); forêt d'Ibanda, fir.
+Antanambe, 16°26’S, 49°50’30”E, 12 February 1990, Raharimalala 283 (P); Foulpointe, Analalava Forest
+Reserve, 30 m, 17°42’34”S, 49°26’50”E, 12 January 2006, Tosh, De Block & Rakotonasolo 84 (BR, MO, TAN,
+WAG); Foulpointe, Analalava Forest Reserve, 30 m, 17°42’34”S, 49°26’50”E, 12 January 2006, Tosh, De Block &
+Rakotonasolo 85 (BR, MO, P, TAN).—Province Fianarantsoa: forêt de Marovitsika, canton Vohitsindra, district
+Vohipeno, 21°58’S, 47°35’E, 21 December 1951, coll. ignot. 5201-SF (P, TEF); près du village de Maroantsetra,
+Marosangy, Mananjary, 21°0’S, 48°18’E, 16 February 1955, coll. ignot. 13688-SF (P); forêt d'Amporoforo, entre
+Farafangana et Vohipeno, 22°29’S, 47°47’30”E, 9 December 1964, Capuron 23980-SF (P, TEF); fiv. Farafangana,
+fok. Manombo, Réserve Spéciale de Manombo, 30 m, 23°1’19”S, 47°43’56”E, 14 November 2001,
+Rabenantoandro, McPherson & Gervais 757 (BR, MO).
+
+Ixora trimera Guédès (1986: 250). Fig. 4.
+Type:—Madagascar, province Fianarantsoa, Mazoarivo, district Vohipeno, 60 m, 22°21’S, 47°51’E, 25 November 1952, coll.
+ignot. 6500-SF (holotype P, isotype TEF).
+
+Tree; young internodes brown, older internodes greyish or fawn; all external parts glabrous. Stipule sheath 2.5–4
+mm long, awn ca. 1 mm long. Leaves with petioles 0.5–0.8 cm long; blades narrowly obovate, obovate to elliptic,
+10–15 × 2.5–4 cm, coriaceous, drying dark brown and somewhat glossy above, paler brown below; apex shortly
+MULTILOCULAR IXORA SPECIES IN MADAGASCAR
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+• 129
+
+and broadly acuminate (acumen up to 1 cm long) or acute; base cuneate to attenuate; secondary veins 10–18 each
+side. Inflorescences terminal, trichotomously branched, pedunculate, lax, 4–8 × 2–4 cm, with 3–5 flowers; one pair
+of modified inflorescence-supporting leaves present, blades broadly elliptic, 4–6 × 2–4 cm, subsessile or shortly
+petiolate (petioles up to 3 mm), base cuneate to acute; peduncle 2–4.5 cm long; first order axes 2–5 cm long; bracts
+triangular and vaulted, adaxial surfaces densely sericeous, apices acuminate. Ultimate flower triads with flowers
+pedicellate; pedicels 8–50(–80) mm long. Flowers with calyx green, corolla, filaments and anthers white; flower
+bud with obtuse apex; bracteoles triangular, ca. 3 mm long, adaxial surfaces densely sericeous, apices acute to
+acuminate; hypantium 2–3 mm long; calyx tube 2.5–5 mm long, adaxial surface densely sericeous (no colleters
+
+FIGURE 4. Ixora trimera. A—flowering branch; B—bracteoles, ovary and calyx. Drawn by Mia Scheerlinck. Based on coll. ignot.
+6500-SF.
+
+130 •
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+DE BLOCK
+
+visible without removal of pubescence); calyx lobes oblong or foliaceous, (5–)7–11 mm long, often unequal within
+one flower, not or weekly keeled, adaxial surfaces sparsely to moderately pubescent, apices obtuse; corolla tube
+5.5–7 cm long; corolla lobes oblong, ca. 1.2 × 1 cm, apices round or round and shortly apiculate; filaments ca. 2
+mm long, anthers unknown; ovary 2-, 3- or 4-locular; style exserted from corolla tube for 2–3 mm, stigma 2-, 3- or
+4-lobed, stigmatic lobes ca. 2 mm long. Fruits and seeds unknown.
+
+FIGURE 5. Distribution maps of the multilocular Ixora species in Madagascar. A—Ixora homolleae; B—Ixora lagenifructa; C—
+Ixora quadrilocularis; D—Ixora trimera.
+
+MULTILOCULAR IXORA SPECIES IN MADAGASCAR
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+• 131
+
+Habitat:—Eastern lowland humid forest, on clay; elev. 60 m.
+Distribution:—Only known from the type locality Vohipeno on the coast in southeastern Madagascar
+(province Fianarantsoa) (Fig. 5D).
+Phenology:—flowers: November; fruits: unknown.
+Vernacular names:—jorojoro; soaravy.
+Notes:—This species is only known from the type collection found in 1952. It was never recorded or collected
+afterwards. It occurs in lowland humid eastern forest, a vegetation type that is heavily deforested. The remaining
+forest cover is under intense pressure, degraded and fragmented. It is highly probable that I. trimera is currently
+extinct. Nevertheless, there have been astounding rediscoveries of species thought extinct in Madagascar, such as
+the genus Lathraeocarpa Bremekamp (1957: 160), which was recently rediscovered after more than fifty years
+after its description (Groeninckx et al. 2009).
+The protologue description (Guédès 1986) does not correspond to the features of the type specimen. Leaves are
+cited as up to 21 cm long, whereas the largest ones seen are 15 cm long. The inflorescences are described as
+uniflorous and axillary with both peduncle and corolla tubes ca. 6.5 mm long; however, the inflorescences are in
+fact terminal and 3–5-florous, the peduncles are 2.5–4 cm long, and the corolla tubes are 5.5–7 cm long.
+Since only the type material is available, very few observations on the flowers could be made. Seven flowers
+were scored for the number of stigmatic lobes: of these, four have a bilobed stigma, two a 3-lobed stigma and one a
+4-lobed stigma. A dissected flower available on the holotype (P) has a specimen with a 3-locular ovary and a thick
+ovary wall. While the fruits of I. trimera are not known, the thick ovary wall suggests that the fruit wall may be
+massive as well.
+Like I. quadrilocularis, this species has a dense sericeous pubescence on the adaxial surfaces of calyx tubes,
+bracts and bractoles. No colleters are visible (without removal of pubescence) on the adaxial surface of the calyx
+tube.
+At first glance, Ixora trimera looks somewhat similar to I. trichocalyx Hochreutiner (1908: 107). Both species
+are found on the coast in eastern Madagascar, although I. trichocalyx occurs more to the north (region of
+Vatomandry). In both species 2-, 3- and 4-lobed stigmas occur. However, I. trimera differs from this species by the
+petioles 0.5–0.8 cm long (vs. 0.8–1.5 cm long), stipular awns ca. 1 mm long (vs. 2–3 mm long), calyx tube 3–4 mm
+long (vs. 1–1.5 mm long), calyx lobes (5–)7–11 mm long (vs. 2.5–4.5 mm long), corolla lobes ca. 12 x 10 mm (vs.
+ca. 16 x 5–6 mm), filaments 2 mm long (vs. 1 mm long) and thicker ovary wall. Furthermore, Ixora trichocalyx has
+2-locular ovaries (Hochreutiner 1908), whereas I. trimera has at least some multilocular ovaries.
+
+Acknowledgements
+I would like to thank the herbarium curators of the BR, G, K, MO, P, TAN, TEF and WAG herbaria, for providing
+plant material and for help extended during study visits. Mr. Roger Lala Andriamiarisoa, Ms. Mia Scheerlinck and
+Mr. Antonio Fernandez are gratefully acknowledged for making the line drawings, and Ing. Marcel Verhaegen and
+Mr. Sven Bellanger for making the distribution maps. Dr. Piet Stoffelen is acknowledged for useful comments on a
+previous version of the manuscript. Fieldwork was conducted within the framework of the Madagascar Research
+and Conservation Program of Missouri Botanical Garden. I thank Dr. Pete Lowry for providing access to the MBG
+Facilities. The MBG office and field staff is gratefully acknowledged for their hospitality and help. I extend special
+thanks to Dr. Franck Rakotonasolo, who provided help during the fieldwork. I am also grateful to Madagascar
+National Parks (previously known as Association Nationale pour la Gestion des Aires Protégées, ANGAP), the
+Ministère des Eaux et Forêts and the Parc Botanique et Zoologique de Tsimbazaza (PBZT) for permission to
+collect in protected areas. The fieldwork was financially supported by the Fund for Scientific Research-Flanders
+(research project G.0250.05) and the Percy Sladen Memorial Fund.
+
+132 •
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+DE BLOCK
+
+References
+Adams, L.G., Bridson, D.M. & Robbrecht, E. (1987) The identity of Lasianthus graciliflorus Bailey (Rubiaceae). Kew Bulletin
+42: 209–214.
+http://dx.doi.org/10.2307/4109904
+Anonymous (1962) Systematics Association committee for descriptive biological terminology. II. Terminology of simple
+symmetrical plane shapes (chart 1). Taxon 11: 145–156.
+http://dx.doi.org/10.2307/1216718
+Arènes, J. (1960) A propos de quelques genres Malgaches de Rubiacées. Notulae Systematicae (Paris) 16: 6–19.
+Bremekamp, C.E.B. (1957) Les Lathraeocarpées, tribu nouvelle des Rubioïdées (Rubiacées). Bulletin du Jardin Botanique de
+l'Etat, Bruxelles 27: 159–166.
+http://dx.doi.org/10.2307/3666986
+Capuron, R. (1969) A propos des Rubiacées-Vanguériées de Madagascar. Adansonia, ser. 2, 9: 47–55.
+Darwin, S.P. (1979) A synopsis of the indigenous genera of Pacific Rubiaceae. Allertonia 2: 1–44.
+Davis, A.P., Govaerts, R., Bridson, D.M., Ruhsam, M., Moat, J. & Brummitt N.A. (2009) A global assessment of distribution,
+diversity, endemism, and taxonomic effort in the Rubiaceae. Annals of the Missouri Botanical Garden 96: 68–78.
+http://dx.doi.org/10.3417/2006205
+De Block, P. (1998) The African species of Ixora (Rubiaceae-Pavetteae). Opera Botanica Belgica 9: 1–218.
+De Block, P. (2007). Three new Madagascan Ixora species (Rubiaceae) with flowers up to 25 cm long. Nordic Journal of
+Botany 25: 75–84.
+http://dx.doi.org/10.1111/j.0107-055x.2007.00111_7.x
+De Block, P. (2008) Synopsis of the uniflorous Madagascan Ixora (Rubiaceae) species belonging to section Microthamnus.
+Belgian Journal of Botany 141: 141–156.
+De Block, P. & Van De Kerckhove, O. (2009) Ixora foliicalyx. Flowering Plants of Africa 61: 132–138.
+Gmelin, J.F. (1791) Caroli a Linné, systema naturae 2 (1). Beer, Lipsiae, i–xl + 884 pp.
+Govaerts, R., Ruhsam, M., Andersson L., Robbrecht E., Bridson, D., Davis, A., Schanzer, I. & Sonké, B. (2013) World
+Checklist of Rubiaceae. Royal Botanic Gardens, Kew. Available from: http://apps.kew.org/wcsp/ (January 2013).
+Groeninckx, I., De Block, P., Rakotonasolo, F., Smets, E. & Dessein, S. (2009) Rediscovery of Madagascan Lathraeocarpa
+reveals its taxonomic position within Rubiaceae. Taxon 58: 209–226.
+Guédès, M. (1986) Ixoras malgaches nouveaux à fleurs solitaires. Phytologia 60: 243–250.
+Hochreutiner, B.P.G. (1908) Sertum madagascariense. Etude systématique de deux collections de plantes récoltées à
+Madagascar par M.M. J. Guillot et H. Rusillon. Annuaire du Conservatoire et du Jardin Botaniques de Genève 11–12: 35–
+135.
+Jussieu, A.L. de (1789) Genera plantarum secumdum ordines naturales disposita. Herissant & Barrois, Paris, 498 pp.
+http://dx.doi.org/10.5962/bhl.title.7762
+Lamarck J.-B. de (1792) Tableau encyclopédique et méthodique des trois règnes de la nature. Botanique, tome 1. Panckoucke,
+Paris, iii–xvi + 496 pp.
+Linnaeus, C. (1753) Species Plantarum. Impensis Laurentii Salvii, Stockholm, 560 pp.
+Merril, E.D. (1910) New or noteworthy Philippine plants, VIII. The Philippine Journal of Science 5: 167–257.
+Mouly, A., Razafimandimbison, S.G., Florence, J., Jeremie, J. & Bremer, B. (2009) Paraphyly of Ixora and new tribal
+delimitation of Ixoreae (Rubiaceae): inference from combined chloroplast (rps16, rbcl, and trnT-F) sequence data. Annals
+of the Missouri Botanical Garden 96: 146–160.
+http://dx.doi.org/10.3417/2006194
+Nadeaud, J. (1899) Plantes nouvelles des Iles de la Société. Journal de Botanique (Morot) 13: 1–8.
+Robbrecht, E. (1988) Tropical woody Rubiaceae: Characteristic features and progressions. Contributions to a new subfamilial
+classification. Opera Botanica Belgica 1: 1–271.
+Schatz, G.E., Lescot, M., Rogers, Z., Sikes, K., Andriambololonera, S., Raharimampionona, J. & Wolf, A.-E. (2003) Gazetteer
+to Malagasy Botanical Collecting Localities. Available from: http://www.mobot.org/MOBOT/Research/madagascar/
+gazetteer/.
+Tosh, J., Dessein, S., Buerki, S., Groeninckx, I., Mouly, A., Bremer, B., Smets, E.F. & De Block, P. (2013). Evolutionary
+history of the Afro-Madagascan Ixora species (Rubiaceae): species diversification and distribution of key morphological
+traits inferred from dated molecular phylogenies. Annals of Botany 112: 1723–1742.
+http://dx.doi.org/10.1093/aob/mct222
+Verdcourt, B. (1983) Notes on Mascarene Rubiaceae. Kew Bulletin 37: 521–574.
+http://dx.doi.org/10.2307/4109725
+Vogel, E.F. de (1987) Manual of herbarium taxonomy: theory and practice. UNESCO, Indonesia, 164 pp.
+
+MULTILOCULAR IXORA SPECIES IN MADAGASCAR
+
+Phytotaxa 162 (3) © 2014 Magnolia Press
+
+• 133
+
+

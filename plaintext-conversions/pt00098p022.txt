@@ -1,0 +1,339 @@
+Phytotaxa 98 (1): 16–22 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.98.1.2
+
+The new synonymy of Horikawaea with Cryptogonium and a proposal of
+Pseudocryptogonium, gen. nov. (Musci, Pterobryaceae)
+HIROYUKI AKIYAMA1, 2, 4 & BENITO C. TAN3
+1
+
+Museum of Nature and Human Activities, Yayoigaoka-6, Sanda, Hyogo 669-1546, Japan.
+University of Hyogo, Institute of Environmental Science, Yayoigaoka-6, Sanda, Hyogo 669-1546, Japan.
+3
+National University of Singapore, Department of Biological Science, 21 Lower Kent Ridge Road, 119077 Singapore.
+4
+Author for correspondence (akiyama@hitohaku.jp)
+2
+
+Abstract
+Male organs and mature sporophytes of a calciphilous moss previously known as Horikawaea dubia are newly reported
+and described in detail based on a single specimen collected in Guangxi Province, southern China. Sporophytic features,
+such as the immersed and cylindrical capsule on a very short seta (ca. 1.2 mm long) and reduced peristome with 16
+smooth and almost linear exostome teeth, as well as the gametophytic resemblance to Cryptogonium phyllogonioides in
+having complanate foliation, highly differentiated alar region of the stem and branch leaves, and more or less cucullate
+leaf apices, suggest a new synonymy of Horikawaea in Cryptogonium. Two new combinations, namely, C. dubia (Tixier)
+H.Akiyama & B.C.Tan comb. nov. and C. nitida (Nog.) H.Akiyama & B.C.Tan comb. nov. are made. Additionally,
+Pseudocryptogonium H.Akiyama & B.C.Tan gen. nov. is proposed to accommodate Horikawaea tjibodensis (syn. H.
+redfearnii).
+Key words: Bryopsida, China, mosses, Malesia, taxonomy
+
+Introduction
+In the course of examining bryophyte collections from limestone areas in the southern part of China (Guangxi
+Province) in 1997, two specimens of Horikawaea dubia (Tixier) S.H.Lin were found. One of them bore male
+gametangia and mature sporophytes, both of which were unknown for the species. They are newly described
+here as follows.
+
+Description
+Sexual organs and sporophytes of Horikawaea dubia (Figures 1–16)
+Dioicous? (at least, perichaetia and perigonia produced on different ascending stems). Perigonia lateral on
+ascending stems, bud-like; antheridia ca. 10 in number, long-pedicellate, 70–80 µ m long, paraphyses
+filamentous, ca. 20 in number, to 0.7 mm long, longer than the length of antheridia. Perigonial leaves ovoid,
+shortly acuminate, concave, ecostate, ca. 1 mm long, yellowish green above, reddish brown at base; median
+laminal cells linear-rhomboid, smooth, ± thick-walled; basal laminal cells rectangular, thick-walled and pitted.
+Perichaetia lateral on ascending stems; archegonia 7–20 in number; paraphyses filamentous, fewer than
+archegonia in number. Perichaetial leaves oblong-ovate, ca. 1 mm long, incurved, ecostate, yellowish green
+above, reddish brown at base, becoming much longer after fertilization and reaching 7 mm long; upper and
+median laminal cells linear-rhomboid, smooth, ± thick-walled; basal laminal cells much differentiated,
+rectangular, thick-walled and pitted. Calyptrae cucullate, densely papillose, naked.
+
+16 Accepted by Jon Shaw: 10 Apr. 2013; published online in PDF: 3 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Seta short, ca. 1.2 mm long, yellow, smooth. Capsules deeply immersed among perichaetical leaves,
+cylindrical, to 3 mm long, not constricted below the mouth, weakly plicate at base when dry; columella
+absent; exothecial cells hexagonal, smooth; stomata absent; opercula conic or shortly rostrate, falling with
+calyptrae; annuli not seen. Peristome single, pale yellow, with weakly developed properistome; exostome
+teeth linear, 16, slightly inserted below the rim, sometimes adnate to each other and becoming paired, to 280
+µm tall, smooth on both surfaces, sometimes perforate proximally, dorsal trabeculae thin, low and distant,
+ventral trabeculae thick and broad; closed when wet, open and recurved when dry. Spores spherical, light
+brown and thin-walled, greenish inside, minutely papillose, 25–30 µm in diameter, about half in a single spore
+sac highly shrunken.
+Specimens examined:—CHINA. Guangxi: Baise City, Nabao county, between Nabao (23.4058°N,
+105.8406°E) and Ping Meng (22.9333°N, 105.8333°E), Mt. Qui-Kan-Shan, 1060–1160 m elev., limestone
+area, on tree trunk in a well preserved, moist secondary forest, 1997 Oct. 19, H. Akiyama China-1335 (HYO!),
+with sporophytes; ibid., in the vicinity of Nabao, Mt. Longli, 1000–1200 m elev., on limestone boulder and
+shrub branches, 1997 Oct. 22, H. Akiyama China-1386 (HYO!).
+Differences of sporophytes between Horikawaea and Cryptogonium
+Sporophytic features of Cryptogonium (Müll.Hal.) Hampe have been described in detail by Noguchi
+(1961) and Lin (1984a) based on C. phyllogonioides (Sull.) Isov. In addition, the senior author (HA) has
+observed sporophytes on the specimens of C. phyllogonioides from Seram Island of Indonesia (see
+"specimens examined" below). Characteristic features of the sporophytes are distinctly pilose calyptrae;
+capsules constricted just below the mouth; and exostome teeth inserted below the rim. However, other
+important features such as peristome morphologies (e.g., number and shape of smooth and linear exostome
+teeth, the wide trabeculae on the inner side of the tooth surfaces, and presence of a weak properistome), the
+immersed position of the capsule amongst the perichaetial leaves, and the absence of stomata are quite similar
+between C. phyllogonioides and Horikawaea dubia (see description above), as well as their shared
+gametophytic features such as the cucullate leaf acumen, strong differentiation of alar regions, complanate
+foliation, single costa often reaching to the middle of leaf length, Bryum-type of dormant branch primordia
+with filamentous pseudoparaphyllia, and septate short gemmae in leaf axils (Lin 1984a, Isoviita 1986,
+Akiyama 1990).
+When establishing a new genus Pursellia S.H.Lin (treated here as a synonym of Cryptogonium), Lin
+(1984a, table 10) pointed out some morphological differences from those of Horikawaea. At that time,
+however, no sporophyte was known for Horikawaea.
+The present discovery of sporophytes from Horikawea dubia and their resemblance to those of species of
+Cryptogonium, as well as their gametophytic similarities, strongly suggest that these two genera are
+congeneric. Recent molecular analyses (for example, Cox et al. 2010) are supportive of the cladistic proximity
+of these two genera.
+The sporophyte of Horikawaea tjibodensis [syn., H. redfearnii B.C. Tan & P.-J. Lin], a species included in
+the genus recently by Ji & Enroth (2006) is, however, quite different from that of Horikawaea phyllogonioides
+and Horikawaea dubia. According to Tan & Lin (1995) and our confirmation, sporophytes of H. tjibodensis
+show the following features: young calyptrae bearing papillae on the surfaces; setae 4–5 mm long, weakly
+papillate; capsules (ovoid-oblong, erect, 1–1.5 mm long) highly exserted beyond the perichaetial leaves;
+opercula conic to rostrate; stomata present at neck (after Jia 2011); peristome highly reduced; exostome teeth
+about 8 in number, deeply inserted below the rim, outer surface weakly striate; spores round to tetrahedral,
+24–44 µm in diameter, granulose and chlorophyllose. In addition, there are leaf morphological differences
+seen between H. tjibodensis and other congeners as shown in the keys below. We therefore propose a new
+genus, Pseudocryptogonium, in the Pterobryaceae to accommodate H. tjibodensis.
+
+NEW SYNONYMY OF HORIKAWAEA WITH CRYPTOGONIUM
+
+Phytotaxa 98 (1) © 2013 Magnolia Press
+
+• 17
+
+Taxonomy
+Cryptogonium (Müll.Hal.) Hampe, Fragm. Phyt. Austr. 11: 49 (1881) [Pterobryaceae].
+Basionym: Phyllogonium Brid. sect. Cryptogonium Müll.Hal., J. Mus. Godeffroy 3(6): 69 (1874).
+Pursellia S.H.Lin, J. Hattori Bot. Lab. 55: 299 (1984). “Type species:—Phyllogonium cylindricum Lindb.” For more
+details, see Isoviita (1986).
+Horikawaea Nog., J. Sci. Hiroshima Univ. B (2), Bot. 3: 46 (1937), syn. nov.
+
+Familial affinity of Cryptogonium has been variously proposed by different authors, for example, in the
+Neckeraceae, Phyllogoniaceae, or Pterobryaceae. Judging from morphological features, such as septate, short
+filamentous gemmae abundantly produced from dormant branch buds in leaf axils, and filamentous
+pseudoparaphyllia produced on dormant branch buds, as well as the presence of a reduced properistome,
+smooth exostome teeth, and well-developed alar regions of the stem and branch leaves, its placement in the
+Pterobryaceae is preferred (Akiyama 1990 and others). In addition, molecular analyses support this familial
+treatment [Goffinet et al. (2009), Cox et al. (2010; fig.1-B), Wang et al. (2010; fig. 1)].
+All members of Cryptogonium listed below share the following morphological features: (1) more or less
+shiny plants with complanate foliation; (2) somewhat cucullate apices of leaves in lateral position on stems
+and branches; (3) colored, well differentiated alar cells of leaves with quadrate, markedly pitted cells; (4)
+dormant branch buds of AI-type (Akiyama 1990) with a number of short, septate gemmae emerging directly
+from the surface of buds; and (5) filamentous pseudoparaphyllia (often branched and 1–2 cells wide at base).
+1. Cryptogonium nitidum (Nog.) H.Akiyama & B.C.Tan, comb. nov. (Figs. 17–19)
+Basionym: Horikawaea nitida Nog., J. Sci. Hiroshima Univ. B (2), Bot. 3: 47 (1937). “Type:— FORMOSA (TAIWAN).
+Taipei: Sinten–Urai, Aug. 12, 1932, Noguchi 5850 (holotype HIRO!, isotypes BM, NICH!).”
+
+Other specimens examined:—TAIWAN. Taipei Hsien: San-hsia, 300 m elev., Jan. 28, 1986, T. Y. Ching 12940
+(HIRO!); ibid., Nov. 3, 1987, T. Y. Ching 23892 (HIRO!).
+Distribution. Endemic to Taiwan.
+Note. Horikawaea nitida is the type species of the genus Horikawaea Nog. We follow Lin (1984a) who
+treated Cryptogonium nitidum ( Horikawaea nitida) and C. dubium ( H. dubia) as two different species and
+C. nitidum as a Taiwanese endemic. For more details, see notes under C. dubium. Although the sporophyte of
+H. nitida is still not known, we can assume that it will be similar to that observed in H. dubia because of the
+strong similarity of their gametophytes and to the extent that the two have been accepted as synonyms by
+several researchers [Pócs (1969), Tan & Lin (1995), Ji & Enroth (2006)].
+
+≡
+
+≡
+
+2. Cryptogonium dubium (Tixier) H.Akiyama & B.C.Tan, comb. nov. (Figs. 1–16 & 26)
+Basionym: Pterobryopsis dubia Tixier, Bot. Közlem. 54: 34 (1967). Horikawaea dubia (Tixier) S.H.Lin, J. Hattori Bot.
+Lab. 55: 299 (1984). “Type:—VIETNAM. Ninh-Binh: reservatum Cuc-Phuong, Oct. 22, 1963, T. Pócs 2634/d
+(holotype PC, isotype EGR!).”
+
+≡
+
+Other specimens examined:—As described above.
+Distribution. E. India, North Vietnam, China (Guangdong, Guizhou, Hainan, Sichuan, Yunnan).
+Note. Lin (1984a, table 9) compared the morphological features of Cryptogonium dubium and C. nitidum
+(as Horikawaea nitida) in detail and treated them as two distinct species. Luo (1989) and Jia (2011) followed
+the treatment. The main differences between the two species are: (1) more slender and shorter plants with
+pendent flagelliform branches; (2) small medullary cells of stems with incrassate walls; and (3) strongly
+complanate foliation in C. dubium. However, Pócs (1969), Tan & Lin (1995), Ji & Enroth (2006) regarded
+these morphological differences as just phenotypic plasticity caused by environmental factors and treated
+them as a single variable species. We tentatively treat them as different species here. As shown in the keys
+below, C. dubium and C. nitidum can be distinguished by their difference in leaf shape at the dorsal and
+ventral position of stems, especially when wet.
+
+18 •
+
+Phytotaxa 98 (1) © 2013 Magnolia Press
+
+AKIYAMA & TAN
+
+FIGURES 1–16. Cryptogonium dubium (H.Akiyama China-1335). 1; male plants. 2; close-up of a perigonium (stem leaves are
+removed). 3; stem with several perigonia arranged in rows. 4; female plants. 5; close-up of a perichaetium, with filamentous
+pseudoparaphyllia at base. 6; two sporophytes. 7 & 8; close-up of peristome teeth. 9; almost detached operculum. 10; two perichaetial
+leaves and a sporophyte inside. 11; peristome teeth. 12; close-up of basal part of peristome teeth, with poration. 13; exothecial cells.
+14; spores. 15; operculum. 16; cucullate calyptra.
+
+NEW SYNONYMY OF HORIKAWAEA WITH CRYPTOGONIUM
+
+Phytotaxa 98 (1) © 2013 Magnolia Press
+
+• 19
+
+FIGURES 17–32. 17–19; Cryptogonium nitidum (holotype of Horikawaea nitida). 20–23; Pseudocryptogonium tjibodensis (holotype
+of Horikawaea redfearnii). 24–26; C. phyllogonioides (H.Akiyama C-10140). 27; C. dubium (left; H.Akiyama China-1335) and C.
+phyllogonioides (H.Akiyama C-10140). 28–29; C. phyllogonioides (holotype of Neckera phyllogonioides). 30–32; C. phyllogonioides
+(lectotype of Phyllogonium cylindricum).
+
+20 •
+
+Phytotaxa 98 (1) © 2013 Magnolia Press
+
+AKIYAMA & TAN
+
+3. Cryptogonium phyllogonioides (Sull.) Isov., J. Hattori Bot. Lab. 60: 452 (1986). (Figs. 24–32)
+Basionym: Neckera phyllogonioides Sull., Proc. Arts Sci. 3: 181 (1855) Orthorrhynchium phyllogonioides (Sull.) E.
+Britton in A. Gepp, Philipp. J. Sci. 68: 232 (1939) Horikawaea phyllogonioides (Sull.) Nog., Bull. Bot. Soc. Univ.
+Saugar 13: 29 (1961) Pursellia phyllogonioides (Sull.) S.H.Lin., J. Hattori Bot. Lab. 55: 299 (1984). “Type:—
+PHILIPPINES. Luzon: Wilkes U.S. Explor. Exped. s.n. (holotype US!, isotype FH-herb. Fleisch.!).”
+Phyllogonium cylindricum Lindb., Öfvers. Kongl. Vet.-Akad. Förh. 21: 603 (1865)
+Cryptogonium cylindricum
+(Lindb.) Paris, Ind. Bryol.: 293 (1894), nom. invalid, based on superfluous combination under Cryptogonium Lindb.
+(Art. 34.1) Orthorrhynchium cylindricum (Lindb.) Broth., Natürl. Pflanzenf. I (3): 835 (1906). “Type:—TAHITI:
+insula O'tahiti, ubi inter alios muscos sparse crescens, Sept. 1852, S. B. Pontén s.n. (lectotype H!, isolectotype H).”
+For complete list of synonyms, see Lin (1984a).
+
+≡
+
+≡
+
+≡
+
+≡
+
+≡
+
+Other specimens examined:—MALAYSIA. Sabah: Crocker Range National Park, H. Akiyama Crocker-248
+(BORN!, HYO!). INDONESIA. West Seram: H. Akiyama C-10016, C-10135, C-10139 and C-10140 (c. sp.)
+(all HYO!). Central Seram: H. Akiyama C-9261, C-9368, and C-9488 (c. sp.) (all HYO!).
+Distribution. Widely distributed in South India, Sri Lanka, SE Asia, Pacific Islands (New Hebrides,
+Samoa, Tahiti), and New Zealand (after Lin 1984a).
+Note. This species has been fully treated by Noguchi (1961) and Lin (1984a).
+Pseudocryptogonium H. Akiyama & B.C. Tan, gen. nov.
+Differing from Cryptogonium in having weakly conduplicate foliation, almost plane leaf lamina even at the apices, weak
+differentiation of leaf alar regions, longer setae 3–4 mm in length, and capsules well exserted beyond the perichaetial
+leaves.
+Type species:—Neckera tjibodensis M.Fleisch., Musci Fl. Buitenzorg 3: 873 (1908)
+
+The monotypic new genus is based on Neckera tjibodensis. It differs from Cryptogonium in having: (1) a
+weakly conduplicate foliation and a plane (not cucullate) leaf lamina and apices; (2) development of very
+short double costae (except for C. phyllogonioides); and (3) longer setae and capsules exserted beyond the
+perichaetial leaves. See Lin (1984a) for more details. Its differences from the superficially similar genus,
+Neckera Hedw., have been well elaborated by Ji & Enroth (2006).
+1. Pseudocryptogonium tjibodensis (M.Fleisch.) H.Akiyama & B.C.Tan, comb. nov. (Figs. 20–23).
+Basionym: Neckera tjibodensis M.Fleisch., Musci Fl. Buitenzorg 3: 873 (1908) Horikawaea tjibodensis (M.Fleisch.)
+M.C. Ji & Enroth, J. Bryol. 28: 167 (2006). “Type:—INDONESIA. Java: Tjibodas, detex F. (holotype FH-herb.
+Fleisch.!, isotype L).”
+Horikawaea redfearnii B.C.Tan & P.J.Lin, Trop. Bryol. 10: 59 (1995), fide Ji & Enroth (2006). “Type:—PHILIPPINES.
+Palawan: Aborlan Municipality, Barangay Aporawan, Sitio Daan, Mt. Tinikbasan (ca. 2000 ft), 27 Apr., 1992,
+B.C.Tan & W.S.Gruezo 92-739 (holotype FH!, isotypes BO!, BM!, CAHUP!, H!, IBSC!, L!, MO!, NY!, US!).”
+
+≡
+
+Other specimens examined:—CHINA. Hainan Island: Changjiang Co., Bawanglin Forest Reserve, 1000-1100
+m elev., P.L.Readfearn 35918 (FH!); ibid., Mt. Jiangfengling, P.C.Chen et al. 431g (IBSC!).
+Distribution. Philippines (Palawan), Indonesia (Java), China (Hainan).
+Note. In Pseudocryptogonium tjibodensis, the totally naked dormant buds are surrounded by single-celled
+wide, unbranched filamentous pseudoparaphyllia. Asexual reproductive organs were not found among the
+specimens examined. Molecular phylogenetic analyses including the new genus (as Horikawaea redfearnii)
+show a low bootstrap support in a clade with Cryptogonium phyllogonioides, but a close relationship with
+members of the family Pterobryaceae (Cox et al. 2010 fig.1-B, Wang et al. 2010, fig.1).
+
+Keys to the species of Cryptogonium and Pseudocryptogonium
+1.
+
+Costa single, reaching middle of leaf length or short and double; pseudoparaphyllia filamentous, two-cell wide and
+branched at base ........................................................................................................................................................... 2.
+
+NEW SYNONYMY OF HORIKAWAEA WITH CRYPTOGONIUM
+
+Phytotaxa 98 (1) © 2013 Magnolia Press
+
+• 21
+
+-.
+2.
+-.
+
+3.
+
+-.
+
+Costa absent or short and double, rarely single but not reaching 1/4 of leaf length; pseudoparaphyllia filamentous,
+single-cell wide at base and usually not branched ....................................................................................................... 3.
+Stem leaves at dorsal, lateral and ventral position deeply concave and cucullate at apices. Taiwan endemic.
+(Sporophyte unknown.)...............................................................................................................Cryptogonium nitidum
+Stem leaves at dorsal and ventral position not concave (often weakly conduplicate), plane at apices. Widely
+distributed in limestone areas from E. India to South China. (Seta ca. 1.2 mm long. Capsules deeply immersed
+among perichaetial leaves).......................................................................................................... Cryptogonium dubium
+Stem leaves at lateral position deeply conduplicate, cucullate at apices; alar cells markedly developed and decurrent;
+setae ca. 1.2 mm long; capsules deeply immersed among perichaetial leaves. Widely distributed in Southeast Asia,
+South Pacific Islands, and New Zealand....................................................................... Cryptogonium phyllogonioides
+Stem leaves at lateral position weekly conduplicate, weakly cucullate to plane at apices; alar cells narrower and not
+decurrent; seta 3–4 mm long; capsules long exerted. So far known only by three locations (Java, Hainan, and
+Palawan Islands) ........................................................................................................Pseudocryptogonium tjibodensis
+
+Acknowledgments
+The authors thank Prof. R. Seppelt (Australian Antarctic Division) for linguistic correction on English text, to
+Dr. J. Murata (University of Tokyo) who gave the senior author the chance to do field surveys in China, and to
+Dr. Wu Su-Kung (Kunming Institute of Botany, Chinese Academy of Science) for his kind assistance and
+arrangements in the field, and the curators of EGR, FH, HIRO, NICH, US for their kind arrangements for
+loans of type specimens.
+09041165 to JM.
+
+rebmuN tnarG IHNEKAK SPSJ yb detroppus yllaicnanif saw yduts sihT
+
+dna AH ot 80107542
+References
+
+Akiyama, H. (1990) Morphology and taxonomic significance of dormant branch primordia, dormant buds, and
+vegetative reproductive organs in the suborders Leucodontineae and Neckerineae (Musci, Isobryales). The
+Bryologist 93: 395–408.
+http://dx.doi.org/10.2307/3243603
+Cox, J.C., Goffinet B., Wickett, N.J., Boles, S.B. & Shaw, A.J. (2010) Moss diversity: A molecular phylogenetic analysis
+of genera. Phytotaxa 9: 175–195.
+Goffinet, B., Buck, W.R. & Shaw, A.J. (2009) [2008] Morphology, anatomy, and classification of the Bryophyta. pp. 55–
+138. In: Bryophyte Biology Ed. 2. Cambridge University Press, Cambridge.
+Isoviita, P. (1986) Cryptogonium replaces Pursellia (Musci, Pterobryaceae). Journal of the Hattori Botanical Laboratory
+60: 451–453.
+Ji, M.-C. & Enroth, J. (2006) The identity of Neckera tjibodensis. Journal of Bryology 28: 167–169.
+Jia, Y. (2011) Phyllogoniaceae. In: Moss Flora of China vol. 5. Science Press & Missouri Botanical Garden, Beijing,
+New York & St. Louis, pp. 315–318.
+Lin, S.-H. (1984a) A taxonomic revision of Phyllogoniaceae (Bryopsida), Part II. Journal of the Taiwan Museum 37: 1–
+54.
+Lin, S.-H. (1984b) Reclassification of Phyllogoniaceae sensu lato. Journal of the Hattori Botanical Laboratory 55: 295–
+301.
+Luo, J.-X. (1989) Comments on the moss genus Horikawaea (Pterobryaceae) in China. The Bryologist 92: 490–492.
+http://dx.doi.org/10.2307/3243672
+Noguchi, A. (1937) Studies on the Japanese mosses of the orders Isobryales and Hookeriales. II. Journal of Science of
+the Hiroshima University B(2) Botany 3: 37–55.
+Noguchi, A. (1961) Notes on the genus Horikawaea Nog. (Musci). Bulletin of the Botanical Society of the University of
+Saugar 13: 27–30.
+Pócs, T. (1969) Fifth contribution to the bryoflora of North Vietnam. Botanikai Kö zlemenyek 56: 139–147.
+Tan, B.C. & Lin, P.-J (1995) Three new and remarkable species of mosses from China and the Philippines. Tropical
+Bryology 1: 55–63.
+Wang, Q., Jia, Y., Liu, Y. & Chen, Z. (2010) The systematic position of Meteoriella S.Okamura (Musci) based on
+molecular and morphological data. Taxon 59: 93–100.
+
+22 •
+
+Phytotaxa 98 (1) © 2013 Magnolia Press
+
+AKIYAMA & TAN
+
+

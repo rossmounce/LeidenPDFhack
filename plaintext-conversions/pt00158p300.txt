@@ -1,0 +1,107 @@
+Phytotaxa 158 (3): 299–300
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.158.3.11
+
+Nomenclatural note for Pedicularis oederi var. angustiflora (Orobanchaceae)
+WEN-BIN YU, HONG WANG & DE-ZHU LI
+Key Laboratory for Plant Diversity and Biogeography of East Asia, and Plant Germplasm and Genomics Center, Kunming Institute of
+Botany, Chinese Academy of Sciences, Kunming, 650201, China. E-mail: yuwenbin@mail.kib.ac.cn, dzl@mail.kib.ac.cn.
+
+The genus Pedicularis L. comprises approximately 600 species (Li 1948; Fischer 2004), and as such, it is the
+largest genus of the family Orobanchaceae (Olmstead 2012). More than 350 species are recorded from China (Yang
+et al. 1998). In this study, the validity of Tsoong’s (1963: 334) new combination P. oederi var. angustiflora
+(H.Limpricht) P.C.Tsoong and its taxonomical history are discussed, and a lectotype is designated.
+Franchet (1891: 149) proposed Pedicularis stenantha Franchet as a new species for a whorled-leaved
+Pedicularis taxon. Later, he (1900: 32) proposed P. stenocorys Franchet as another whorled-leaved new species.
+Furthermore, perhaps absentmindedly, he (1900: 36) proposed the name P. stenantha again as a new species for an
+alternate-leaved Pedicularis taxon and thus created a later homonym. The whorled-leaved Pedicularis species
+belongs to the series Lyratae Maximovicz (1888: 603), whereas the alternate-leaved Pedicularis species belongs to
+the series Flammeae Prain (1890: 100). Franchet (1900: 32) proposed P. stenocorys Franchet as another whorledleaved new species. Presently, the preceding species is treated as conspecific with the 1891 whorled-leaved species
+(see Yu et al. 2013). Bonati (1910: 32) and Limpricht (1922a: 485) overlooked the difference between the 1891
+(whorled-leaved) and 1900 (alternate-leaved) taxa and applied the 1891 name to refer to the alternate-leaved
+species. Limpricht (1922b: 244), however, realized his mistake and proposed P. angustiflora as a replacement name
+for the 1900 alternate-leaved species.
+For the current usage (Tsoong 1963; Yang et al. 1998), Pedicularis angustiflora is treated as a variety under P.
+oederi Vahl (in Hornemann 1806: 580). In volume 68 of the Flora Reipublicae Popularis Sinacae, Tsoong (1963:
+334) proposed the new combination P. oederi var. angustiflora and provided a direct full reference to the basionym
+P. angustiflora H. Limpricht (see Art. 41.5; McNeill et al. 2012). In his basionym reference, he made a minor error.
+The correct page number of the basionym P. angustiflora is “244”. Tsoong, however, cited the page number as
+“18”, which is the same as the volume number of this journal published in 1922. This error is likely a lapsus calami
+(= slip of the pen) overlooked by the author and the editors. Interestingly, Wang & Wu (1994) and Yang et al.
+(1998) perpetuated Tsoong’s error in the subsequent revision of Pedicularis. According to Article 41.6, this error is
+correctable for name published during 1953-2006, and therefore, we conclude that Tsoong validly published his
+new combination. For the formal usage, the publication page P. oederi var. angustiflora is corrected herein.
+
+Pedicularis oederi Vahl (in Hornemann 1806: 580) var. angustiflora (H.Limpricht) P.C.Tsoong (1963: 334)
+Basionym: Pedicularis angustiflora H.Limpricht (1922: 244). Homotypic synonym:―Pedicularis stenantha Franchet (1900:
+36, non Franchet 1891).
+Lectotype (designated here):―CHINA. Sichuan: Kangding (Ta-tsien-lou), J.A.Soulié 768 (lectotype P-02969040!;
+isolectotype P-02969043!). Syntype:―CHINA. Sichuan: Kangding (Ta-tsien-lou), Henri D'Orléans s.n. (syntype P02969041!).
+
+In the protologue, Franchet (1900: 36) listed two gatherings, i.e., J. A. Soulié 768 and Henri D'Orléans s.n for the
+name P. stenantha. The first gathering comprises of two sheet specimens: sheets P-02969040 and P-02969043
+including 10 and four flowering plants, respectively, and the second gathering includes one sheet (P-02969041)
+alone with a fragmental inflorescence. Herein, we favor to choose the sheet P-02969040, with more flowering
+plants, as the lectotype of P. stenantha (1900).
+
+Accepted by Libing Zhang: 14 Jan. 2014; published: 4 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+299
+
+Acknowledgements
+We are grateful to the herbarium of Muséum National d'Histoire Naturelle (P) for providing specimens online
+access; and to Dr. Kanchi N. Gandhi and Dr. Li-Bing Zhang for their valuable comments and suggestions. This
+study was supported by grants from the National Natural Science Foundation of China (31200185), and the West
+Light Foundation of the Chinese Academy of Sciences.
+
+References
+Bonati, G. (1910) Contribution à l'étude du genre Pedicularis. Bulletin de la Société Botanique de France 57 (18): 1–35.
+Fischer, E. (2004) Scrophulariaceae. In: Kadereit, J.W. (ed.) The Families and genera of vascular plants. Springer-Verlag,
+Berlin. pp. 333–432.
+Franchet, A.R. (1891) Diagncses D'espèces nouvelles provenant dune collection de plantes du Thibet chinois envoyée au
+muséum par M. L'abbé Soulié. Bulletin de la Societe Philomatique de Paris series 3, 3: 140–150.
+Franchet, A.R. (1900) Les Scrofulariacees de la Chine, dans L'herbier du Muséum de Paris. Bulletin de la Société botanique de
+France 47: 10–37.
+Hornemann, J.M. (1806) Forsøg til en dansk oekonomisk Plantelaere. C.L. Buchs forlag, Kjøbenhavn [Copenhagen], 990 pp.
+Li, H.-L. (1948) A revision of the genus Pedicularis in China. part I. Proceedings of the Academy of Natural Sciences of
+Philadelphia 100: 205–378.
+Limpricht, H. W. (1922a) Botanische Reisen in den Hochgebirgen Chinas und Ost-Tibets. Repertorium specierum novarum
+regni vegetabilis, Beihefte 12: 1–555.
+Limpricht, H. W. (1922b) Neue Pedicularis aus Ost-Tibet. I. Repertorium Specierum Novarum Regni Vegetabilis 18: 243–244.
+http://dx.doi.org/10.1002/fedr.19220181016
+Maximovicz, C.J. (1888) Diagnoses des plantes nouvelles asiatiques. VII. Bulletin de l'Academie Impériale des Sciences de StPétersbourg 32: 477–629.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K.,
+Prado, J., Prud'homme Van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012) International Code of
+Nomenclature for algae, fungi, and plants (Melbourne Code), adopted by the eighteenth International Botanical Congress
+Melbourne, Australia, July 2011 (Regnum Vegetabile, 154). A.R.G. Gantner Verlag, Ruggell, 240 pp.
+Olmstead, R.G. (2012) A synoptical classification of the Lamiales (version 2.4). Available from: http://depts.washington.edu/
+phylo/Classification.pdf (accessed: 30 May 2013).
+Prain, D. (1890) The species of Pedicularis of the Indian Empaire and its frontiers. Annals of the Royal Botanical Garden 3: 1–
+196.
+Tsoong, P.-C. (1963) Scrophulariaceae (Pars II). In: Chien, S.-S. & Chun, W.-Y. (eds.), Flora Reipublicae Popularis Sinacae,
+Vol. 68. Science Press, Beijing. pp. 1–378.
+Wang, W.-T. & Wu, S.-G. (1994) Vascular plants of the Hengduan Mountains (Part II). Science Press, Beijing, 1244 pp.
+Yang, H.-B., Holmgren, N.H. & Mill, R.R. (1998) Pedicularis In: Wu, Z.-Y. & Raven, P.-H. (eds.), Flora of China (Vol. 18).
+Missouri Botanical Garden Press, Science Press, St. Louis, Beijing. pp. 97–209.
+Yu, W.-B., Wang, H. & Li, D.-Z. (2013) Proposal to conserve Pedicularis stenocorys against P. stenantha (Orobanchaceae).
+Taxon 62: 1066–1067.
+http://dx.doi.org/10.12705/625.33
+
+300 •
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+YU ET AL.
+
+

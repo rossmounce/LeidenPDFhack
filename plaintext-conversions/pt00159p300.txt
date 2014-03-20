@@ -1,0 +1,167 @@
+Phytotaxa 159 (4): 298–300
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.159.4.8
+
+Two new combinations in the genus Bornmuellera (Brassicaceae)
+IVANA REŠETNIK1, GERALD M. SCHNEEWEISS2 & ZLATKO LIBER1
+1
+
+University of Zagreb, Faculty of Science, Department of Botany, Marulićev trg 9a, HR-10000 Zagreb, Croatia.
+E-mail: ivana.resetnik@biol.pmf.hr
+2
+University of Vienna, Department of Systematic and Evolutionary Botany, Rennweg 14, A-1030 Vienna, Austria
+
+The genus Bornmuellera Haussknecht (1897: 71) encompasses seven species distributed from the south-western
+Balkan Peninsula to Anatolia (Warwick et al. 2006). The original description of the genus encompassed only one
+species, B. tymphaea (Hausskn.) Haussknecht (1897: 72) which he previously described within Vesicaria Adanson
+(1763: 420). Haussknecht characterized the genus with non-saccate decidous sepals, white flowers with obtuse
+petals, filaments with appendages at the base, sessile subglobose glabrous fruits and two seeds in each loculi. The
+other taxa known at the time, B. cappadocica (Willdenow 1800: 452) Cullen & T.R. Dudley in Dudley & Cullen
+(1965: 228), B. glabrescens (Boiss. & Balansa in Boissier 1856: 32) Cullen & T.R. Dudley in Dudley & Cullen
+(1965: 228) and B. baldaccii (Degen 1896: 413) Heywood (1964: 61), were left classified in either Ptilotrichum
+Meyer (1831: 64, e.g., Degen 1896, Boissier 1867) or Vesicaria (Boissier 1856). Later, Heywood (1964) and
+subsequently Dudley & Cullen (1965) taxonomically re-defined the genus, whose new circumscription was
+followed by succeeding authors (Hartvig 2002, Warwick et al. 2006).
+Recent molecular phylogenetic analyses of the tribe Alysseae (Rešetnik et al. 2013) revealed that the
+monotypic genera Leptoplax Schulz (1933: 92) and Physocardamum Hedge (1968: 293) phylogenetically nest
+within Bornmuellera and thus should be included in it. Leptoplax emarginata (Boissier 1842: 160) Schulz (1933:
+92), endemic to Greece, was previously considered closely related to and even included in Peltaria Jacquin (1762:
+260) of tribe Thlaspideae (Dudley & Cullen 1965, Ball 1993, Appel & Al-Shehbaz 2003, Warwick et al. 2008)
+because of shared compressed indehiscent silicules compared to terete, thin leathery fruits in Bornmuellera. As is
+often the case in Brassicaceae (Koch et al. 2003 and references therein, Alexander et al. 2010, Moazzeni et al.
+2010), the similarity in fruit characters is superficial and the compressed siliculae in Peltaria and Leptoplax are of
+independent origin. Diagnostic morphological characters shared between Leptoplax and Bornmuellera include
+malpighiaceous hairs, non-saccate sepals, white flowers with obtuse petals and filaments with appendages. Both
+genera share a base chromosome number of x=8 (Constantinidis et al. 2002; compared to x=7 in Peltaria: Warwick
+& Al-Shehbaz 2006) and an ecological specialization to serpentine soils and the capability of nickel
+hyperaccumulation. Furthermore, L. emarginata hybridises easily and extensively with sympatric Bornmuellera
+species, B. tymphaea and B. baldaccii (Ball 1993, Hartvig 1986, 2002). A molecular phylogenetic study based on
+nuclear ITS data (Cecchi et al. 2010) inferred Leptoplax as sister to the European members of Bornmuellera. When
+considering Anatolian Bornmuellera taxa, L. emarginata is inferred by both nuclear and plastid sequence data as
+embedded within Bornmuellera (Rešetnik et al. 2013).
+Previously, Physocardamum was tentatively placed in Lepidieae (Hedge 1968, Al-Shehbaz 1986) or not
+assigned to any tribe (Al-Shehbaz et al. 2006). The tribal placement of Physocardamum in Alysseae was only
+recently clarified by molecular data (Warwick et al. 2010, Rešetnik et al. 2013). This is supported by
+morphological data, because most features of P. davisii Hedge (1968: 293) are shared with Bornmuellera,
+including perennial life form, presence of malphighiaceous trichomes, non-saccate sepals, white petals, inflated
+and glabrous siliculae, and biovulate loculi; the only difference is that Physocardamum possesses edentate
+filaments (Hedge 1968). Molecular data identified P. davisii as sister to Anatolian B. cappadocica and resolved this
+Turkish clade as sister to a clade including the European species, i.e., including Leptoplax (Rešetnik et al. 2013).
+Therefore, in the light of available molecular data (Rešetnik et al. 2013) and a re-evaluation of morphological
+characters, the monotypic genera Leptoplax and Physocardamum should be merged with Bornmuellera, requiring
+the following new combinations.
+
+298 Accepted by Karol Marhold: 18 Jan. 2014; published: 18 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+New combinations in Bornmuellera Hausskn.
+Bornmuellera emarginata (Boiss.) Rešetnik, comb. nov.
+basionym: Ptilotrichum emarginatum Boissier (1842: 160), synonyms: Koniga emarginata (Boiss.) Nyman (1855: 200);
+Peltaria emarginata (Boiss.) Haussknecht (1893: 111); Leptoplax emarginata (Boiss.) O.E. Schulz (1933: 92)
+Type: [Greece, W Aegean] “Hab. in monte Delphi Euboea”, ?1837, Aucher-Éloy no. 228 (G-BOISS photo!)
+
+Bornmuellera davisii (Hedge) Rešetnik, comb. nov.
+basionym: Physocardamum davisii Hedge (1968: 293)
+Type: “Turkey, B9 Ağri: 2 km SW of Hamur (Murat valley). 1670 m. Sloping meadows; perennial; fruits inflated; pale green;
+flowers white.“ 2 June 1966, Davis 44017 (http://data.rbge.org.uk/herb/E00386088) (E photo!)
+
+References
+Adanson, M. (1763) Families des Plantes 2. Vincent, Paris. 640 pp.
+Alexander, P.J., Windham, M.D., Govindarajulu, R., Al-Shehbaz, I.A. & Bailey, C.D. (2010) Molecular phylogenetics and
+taxonomy of the genus Thysanocarpus (Brassicaceae). Systematic Botany 35: 559–577.
+http://dx.doi.org/10.1600/036364410792495926
+Al-Shehbaz, I.A. (1986) The genera of Lepidieae (Cruciferae; Brassicaceae) in the southeastern United States. Journal of the
+Arnold Arboretum 67: 265–311.
+Al-Shehbaz, I.A., Beilstein, M.A. & Kellogg, E.A. (2006) Systematics and phylogeny of the Brassicaceae (Cruciferae): an
+overview. Plant Systematics and Evolution 259: 89–120.
+http://dx.doi.org/10.1007/s00606-006-0415-z
+Appel, O. & Al-Shehbaz, I.A. (2003) Cruciferae. In: Kubitzki, K. & Bayer, C. (Eds.) The families and Genera of Vascular
+Plants V. Flowering Plants, Dicotyledons: Malvales, Capparales, and non-betalain Caryophyllales. Springer, Berlin, pp.
+75–174.
+http://dx.doi.org/10.1007/978-3-662-07255-4_17
+Ball, P.W. (1993) Peltaria Jacq. In: Tutin, T.G., Burges, N.A., Chater, A.O., Edmondson, J.R., Heywood, V.H., Moore, D.M.,
+Valentine, D.H., Walters, S.M. & Webb, D.A. (Eds.) Flora Europaea 1, 2nd ed. Cambridge University Press, Cambridge,
+pp. 358.
+Boissier, P.E. (1842) Plantae aucherianae orientalis enumeratae, cum novarum specierum description. Annales des Sciences
+Naturelles Botanique II 17: 150–162.
+Boissier, P.E. (1856) Diagnoses Plantarum Orientalium Novarum. Series secunda, no. 5. B. Herrmann, Lipsia. 118 pp.
+Boissier, P.E. (1867) Flora Orientalis 1. H. Georg, Basel, Switzerland. 1017 pp.
+Cecchi, L., Gabbrielli, R., Arnetoli, M., Gonnelli, C., Hasko, A. & Selvi, F. (2010) Evolutionary lineages of nickel
+hyperaccumulation and systematics in European Alysseae (Brassicaceae): evidence from nrDNA sequence data. Annals of
+Botany 106: 751–767.
+Constantinidis, T., Bareka, E-P. & Kamari, G. (2002) Karyotaxonomy of Greek serpentine angiosperms. Botanical Journal of
+the Linnean Society 139: 109–124.
+http://dx.doi.org/10.1046/j.1095-8339.2002.00044.x
+Degen, A. (1896) Bemerkungen über einige orientalische Pflanzenarten. XXII-XXVII. Österreichische Botanische Zeitschrift
+46: 411–418.
+http://dx.doi.org/10.1007/bf01794719
+Dudley, T.R. & Cullen, J. (1965) Studies in the Old World Alysseae Hayek. Feddes Repertorium 71: 218–228.
+http://dx.doi.org/10.1002/fedr.19650710105
+Hartvig, P. (1986) Leptoplax O.E. Schulz. In: Strid, A. (Ed.) Mountain Flora of Greece 1. Cambridge University Press,
+Cambridge, pp. 275–276.
+Hartvig, P. (2002) Bornmuellera Hausskn. In: Strid, A. & Tan, K. (Eds.) Flora Hellenica 2. A. R. G. Gantner, Ruggell, pp. 233–
+234.
+Haussknecht, C. (1893) Symbolae ad floram graecam. Aufzählung der im Sommer 1885 in Griechenland gesammelten
+Pflanzen. Mittheilungen des Thüringischen Botanischen Vereins 3–4: 96–116.
+Haussknecht, C. (1897) Drei neue Cruciferen-Gattungen der orientalischen Flora. Mittheilungen des Thüringischen
+Botanischen Vereins 11: 68–76.
+Hedge, I.C. (1968) Physocardamum: a new genus of Cruciferae from Turkey. Notes from the Royal Botanic Garden, Edinburgh
+28: 293–296.
+Heywood, V.H. (1964) Bornmuellera Hausskn. In: Tutin, T.G., Heywood, V.H., Burges, N.A., Valentine D.H., Walters, S.M. &
+Webb, D.A. (eds.) Flora Europaea 1. Cambridge University Press, Cambridge, pp. 306.
+Jacquin, N. J. (1762) Enumeratio stirpium plerarumque, quae sponte crescunt in agro Vindobonensi, montibusque confinibus.
+Joannis Pauli Kraus, Vindobona, 315 pp.
+
+TWO NEW COMBINATIONS IN THE GENUS BORNMUELLERA
+
+Phytotaxa 159 (4) © 2014 Magnolia Press
+
+• 299
+
+Koch, M.A., Al-Shehbaz, I.A. & Mummenhoff, K. (2003) Molecular systematics, evolution, and population biology in the
+mustard family (Brassicaceae). Annals of the Missouri Botanical Garden 90: 151–171.
+http://dx.doi.org/10.2307/3298580
+Meyer, C.A. (1831) Ptilotrichum C.A.Mey. In: Ledebour, C.F. (ed.) Flora Altaica 3. Berolini, pp. 64–67.
+Moazzeni, H., Zarre, S., Al-Shehbaz, I.A. & Mummenhoff, K. (2010) Phylogeny of Isatis (Brassicaceae) and allied genera
+based on ITS sequences of nuclear ribosomal DNA and morphological characters. Flora 205: 337–343.
+http://dx.doi.org/10.1016/j.flora.2009.12.028
+Nyman, C.F. (1855) Sylloge Florae Europaeae. Oerebroa. 442 pp.
+http://dx.doi.org/10.5962/bhl.title.11052
+Rešetnik, I., Satovic, Z., Schneeweiss, G.M. & Liber, Z. (2013) Phylogenetic relationships in Brassicaceae tribe Alysseae
+inferred from nuclear ribosomal and chloroplast DNA sequence data. Molecular Phylogenetics and Evolution 69: 772–
+786.
+http://dx.doi.org/10.1016/j.ympev.2013.06.026
+Schulz, O.E. (1933) Leptoplax O.E. Schulz. Botanische Jahrbücher fur Systematik, Pflanzengeschichte und
+Pflanzengeographie 66: 92.
+Warwick, S.I. & Al-Shehbaz, I.A. (2006) Brassicaceae: Chromosome number index and database on CD-Rom. Plant
+Systematics and Evolution 259: 237–248.
+http://dx.doi.org/10.1007/s00606-006-0421-1
+Warwick, S.I., Francis, A. & Al-Shehbaz, I.A. (2006) Brassicaceae: Species checklist and database on CD-Rom. Plant
+Systematics and Evolution 259: 249–258.
+http://dx.doi.org/10.1007/s00606-006-0422-0
+Warwick, S.I., Mummenhoff, K., Sauder, C.A., Koch, M.A. & Al-Shehbaz, I.A. (2010) Closing the gaps: phylogenetic
+relationships in the Brassicaceae based on DNA sequence data of nuclear ribosomal ITS region. Plant Systematics and
+Evolution 285: 209–232.
+http://dx.doi.org/10.1007/s00606-010-0271-8
+Warwick, S.I., Sauder, C.A. & Al-Shehbaz, I.A. (2008). Phylogenetic relationships in the tribe Alysseae (Brassicaceae) based
+on nuclear ribosomal ITS DNA sequences. Canadian Journal of Botany 86: 315–336.
+http://dx.doi.org/10.1139/b08-013
+Willdenow, C.L. (1800) Species Plantarum, editio quarta, tomus III. Nauk, Berolini, 847 pp.
+
+300 •
+
+Phytotaxa 159 (4) © 2014 Magnolia Press
+
+REŠETNIK ET AL.
+
+

@@ -1,0 +1,209 @@
+Phytotaxa 112 (2): 57–60 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.112.2.4
+
+Update on the systematics of Benstonea (Pandanaceae): When a visionary
+taxonomist foresees phylogenetic relationships
+MARTIN W. CALLMANDER*1, 2, THOMAS J. BOOTH3, HENK BEENTJE4 & SVEN BUERKI3
+1
+
+Missouri Botanical Garden, P.O. Box 299, St. Louis, MO 63166-0299, U.S.A.
+Conservatoire et Jardin botaniques de la ville de Genève, ch. de l’Impératrice 1, case postale 60, 1292 Chambésy, Switzerland
+3
+Jodrell Laboratory, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3DS, United Kingdom
+4
+Herbarium, Library, Art & Archives, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AE, United Kingdom
+*Corresponding author: martin.callmander@mobot.org
+2
+
+Abstract
+The paleotropical monocot Pandanaceae family comprises c. 700 species distributed into five genera: Benstonea (c. 60
+spp.), Freycinetia (c. 250 spp.), Martellidendron (6 spp.), Pandanus (c. 450 spp.) and Sararanga (2 spp.). Benstonea was
+circumscribed to include species previously placed in Pandanus section Acrostigma (one of the four sections of
+Pandanus subgenus Acrostigma). New phylogenetic data show that the six species of the remaining three sections of
+subgenus Acrostigma (sections Epiphytica, Fusiforma and Platystigma) and a seventh species doubtfully placed in
+section Acrostigma (Pandanus microglottis) also belonged to Benstonea. This genus is therefore characterized by a suite
+of morphological characters, viz. stigmatic groove on the adaxial side of the stigma and a staminate flower reduced to 1
+to 3 free stamens (sometimes joined at base). We therefore make here the necessary seven new combinations
+accompanied by one lectotypification in Benstonea, a genus that now reflects the view of the visionary Benjamin Stone
+who had already grouped these species in Pandanus subgenus Acrostigma based solely on morphology.
+
+Introduction
+The arborescent or lianoid dioecious monocot family Pandanaceae has c. 700 species distributed throughout
+the paleotropics. Five genera have been recognized within the family: Benstonea Callmander & Buerki (in
+Callmander et al. 2012: 328) (c. 60 spp.), Freycinetia Gaudichaud (1824: 509) (c. 250 spp.), Martellidendron
+(Pichi-Sermolli in Martelli & Pichi-Sermolli 1951: 20) Callmander & Chassot (in Callmander et al. 2003) (6
+spp.), Pandanus Parkinson (1773: 76) (c. 450 spp.) and Sararanga Hemsley (1894: 216) (2 spp.). The
+systematics of this family has puzzled generations of botanists due to the apparent convergence/homology of
+key morphological characters (especially in its largest genus Pandanus, see Buerki et al. 2012). A recent
+molecular analysis based on plastid data greatly contributed to our understanding of the evolution of this
+family and provided evidence to i) support new generic circumscriptions and ii) assess the infra-generic
+classification within Pandanus (Buerki et al. 2012). One of the main results of this study was to show the
+paraphyly of Pandanus: the species of Pandanus section Acrostigma Kurz (1867: 100) formed a distinct
+lineage, now described as the genus Benstonea (Buerki et al. 2012, Callmander et al. 2012). Only species from
+Pandanus section. Acrostigma were included in Benstonea (except P. microglottis Stone (1982: 34), doubtful
+sectional placement; see Stone, 1982, 1993) since only species belonging to this section were included in the
+phylogenetic inference. Pandanus subgenus Acrostigma (Kurz) Stone (1974: 521) included three other
+sections: Epiphytica Martelli (1904: 304), Fusiforma St. John (in Holttum & St. John 1962: 227) and
+Pseudoacrostigma Stone (1971: 146) in Stone’s (1974, 1978, 1983) classification. This subgenus was based
+on the constant adaxial disposition of the stigmatic groove on the apex of each drupe and stamens solitary or in
+triads (where in triads, free or very slightly joined at the base). Callmander et al. (2012) did not transfer all four
+
+Accepted by William J. Baker: 4 June 2013; published online in PDF: 19 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+57
+
+sections to Benstonea due to the high morphological heterogeneity of Pandanaceae and the frequent
+convergence of key characters. In this context, the new genus was characterised by a very distinctive sharp
+spiniform style with an adaxial disposition of the stigma groove. The three other sections possess blunter
+(Pandanus section Fusiforma) to flat elliptic-ovate stigmas (Pandanus section Epiphytica and section
+Pseudoacrostigma), but all with stigmatic grooves also placed on the adaxial side of the style.
+Thanks to collaboration and recent fieldwork in Peninsular Malaysia and Borneo, the authors have been
+able to include the species belonging to the three sections of Pandanus subgenus Acrostigma missing from
+their previous molecular dataset (Booth et al. unpubl. data) and have confirmed that they resolve with the
+other species of Benstonea. This new finding was obtained by including at least one representative of each
+species in our previous plastid DNA matrix based on matK, trnQ-rps16 and trnL-trnF (Buerki et al. 2012). To
+further improve our understanding of phylogenetic relationships between species of Benstonea, two additional
+plastid regions were sequenced (ndhF-rpl32, trnV-ndhC). Finally, a Bayesian phylogenetic inference was
+conducted following the approach described in Buerki et al. (2012) that strongly supported (with Bayesian
+posterior probabilities > 0.95) the placement of these species in Benstonea (Booth et al. unpubl. data). The
+newly sampled species are Pandanus microglottis B.C. Stone doubtfully placed in Pandanus section
+Acrostigma (see Stone 1982, 1993), Pandanus epiphyticus Martelli (1904: 304), the sole member of Pandanus
+section Epiphytica; P. platystigma Martelli (1904: 300), a member of Pandanus section Pseudoacrostigma
+and P. dumetorum Holttum & St. John (1962: 227), P. saint-johnii Stone (1968: 412) and P. sobolifer Stone
+(1968: 415), all three members of Pandanus section Fusiforma.
+Benjamin Stone worked extensively for more then three decades (1960-1993) on the screw-pine family
+and remains a leading source for global understanding and reliable classification of the whole family. Our new
+results are in agreement with Stone’s circumscription of Pandanus subgenus Acrostigma. He was certainly a
+visionary in combining characters from both staminate and pistillate plants in his classification (Stone, 1974).
+When sterile, Benstonea is characterized by its leaves with generally armed apical ventral pleats. This
+character is also present in a few species of Pandanus, e.g. P. discostigma Martelli (1914: 427). The pistillate
+plants are characterized by their monocarpellate drupes with the stigmatic grooves consistently placed on the
+adaxial side of the stigma (never present in Pandanus). Finally, the staminate flowers of Benstonea are
+reduced to one stamen, or stamens in triads, free or very slightly joined at the base, a rare combination in
+Pandanus. A clear trend towards filament connation and fasciation of stamens can be observed throughout the
+latter genus with species showing an androecium represented by numerous stamens arranged in phalanges,
+often with a stemonophore (nearly all the species) but some species have flowers reduced to a single stamen
+attached to the axis (rarely, i.e. P. discostigma).
+We here transfer the seven remaining species previously placed in Pandanus subgenus Acrostigma by
+Stone (1974, 1978, 1982) to Benstonea. These species were previously placed in Pandanus section
+Acrostigma (1 sp.), Pandanus section Epiphytica (1 sp.), Pandanus section Fusiforma (3 spp.) and Pandanus
+section Pseudoacrostigma (2 spp.). Based on the findings mentioned above, we therefore propose the
+following new combinations: Benstonea dumetorum (Holttum & H. St. John) Callm. & Buerki, comb. nov., B.
+epiphytica (Martelli) Callm. & Buerki comb. nov., B. microglottis (B.C. Stone) Callm. & Buerki comb. nov.,
+B. ornithocephala (B.C. Stone) Callm. & Buerki, comb. nov., B. platystigma (Martelli) Callm. & Buerki,
+comb. nov., B. saint-johnii (B.C. Stone) Callm. & Buerki comb. nov. and B. sobolifer (B.C. Stone) Callm. &
+Buerki, comb. nov. A lectotypification is also provided for B. platystigma where the most mature specimen is
+designated as lectotype (Beccari 2050).
+Taxonomy
+Benstonea dumetorum (Holttum & H. St. John) Callm. & Buerki, comb. nov.
+Basionym: Pandanus dumetorum Holttum & St. John (1962: 227). Type:—MALAYSIA [PENINSULAR]. Trengganu,
+Ulu Bendong, 500 ft., 30 October 1935, fr., Corner 30066 (holotype, SING [SING0059073, SING0059074]!;
+isotype, K [carpo.]!)
+
+58 •
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+CALLMANDER ET AL
+
+Benstonea epiphytica (Martelli) Callm. & Buerki, comb. nov.
+Basionym: Pandanus epiphyticus Martelli (1904: 304). Lectotype (designated by Stone 1978: 65):—MALAYSIA
+[BORNEO]. Sarawak: Mt. Mattang, 6.1866, fr., Beccari 1901 (lectotype, FI-B [FI003954]!; isolectotype, FI
+[FI003960] image seen). Paralectotypes:—MALAYSIA [BORNEO]. Sarawak: Kuching, November 1866, st. fl.,
+Beccari 2708 (paralectotype, FI-B [FI003956]!; isoparalectotype, FI [FI003961] image seen); ibid. loc., December
+1867, st., Beccari 3991 (paralectotype, FI-B [FI003955]!).
+
+Benstonea microglottis (B.C. Stone) Callm. & Buerki, comb. nov.
+Basionym: Pandanus microglottis Stone (1982: 34). Type:—MALAYSIA [BORNEO]. Sarawak: Mulu National Park,
+upper reaches of Sg. Melinau Paku, 5 April 1979, fr., Stone 13694 (holotype, KLU [2 sheets]!; isotypes, BISH
+[BISH1011591]!, K [K000781348]!, PH [PH00018287, PH00018288, PH00018289, PH00018290] images seen,
+SAR!)
+
+Benstonea ornithocephala (B.C. Stone) Callm. & Buerki, comb. nov.
+Basionym: Pandanus ornithocephalus (1978: 64). Type:—INDONESIA [NEW GUINEA]. West Papua Prov.: Vogelkop
+Peninsula [Kepala Burung], Skendi (N of Teminaboean), c. 100 m, 21 May 1958, fr., Versteegh BW7474 (holotype,
+L [L0050607]!)
+
+Benstonea platystigma (Martelli) Callm. & Buerki, comb. nov.
+Basionym: Pandanus platystigma Martelli (1904: 300). Lectotype (designated here):—MALAYSIA [BORNEO].
+Sarawak: Mt. Mattang, July 1866, fr., Beccari 2050 (lectotype, FI-B [FI003958] image seen). Paralectotype:—
+MALAYSIA [BORNEO]. Sarawak: Kuching, June 1865, y. fr., Beccari 44 (paralectotype, FI-B [FI003957] image
+seen).
+
+Benstonea saint-johnii (B.C. Stone) Callm. & Buerki, comb. nov.
+Basionym: Pandanus saint-johnii Stone (1968: 412). Type:—MALAYSIA [PENINSULAR]. Johore: Kota Tinggi,
+Gunung Panti, W ridge, Panti Forest Reserve, c. 1 mile NE of Lombong, 500 ft., 14 April 1966, fr., Stone, Chew &
+Hill 6231 (holotype, KLU [2 sheets, carpo.]!)
+
+Benstonea sobolifer (B.C. Stone) Callm. & Buerki, comb. nov.
+Basionym: Pandanus sobolifer Stone (1968: 415) [as soboliferus]. Type:—MALAYSIA [PENINSULAR]. Perak:
+Gunung Bubu, 19 August 1966, fr., Whitmore FRI0694 (holotype, KEP!)
+
+Acknowledgements
+The authors are deeply grateful to all the people who provided material and/or helped with material collection,
+without whom this study would not have been possible. We are especially grateful to Chiara Nepi, Pete
+Lowry, Pete Phillipson, Sharon Christopher, Chris Davidson, Yong Kien Thai, Nicolien Sol, Dion Devey and
+Lauren Gardiner for interest, support and help in this study. We are grateful to Bill Baker for his comments
+that improved an earlier version of this manuscript. Financial support to MWC was provided by a National
+Geographic Society Exploration Grant (# 9042-11).
+
+References
+Buerki, S., Callmander, M.W., Devey, D.S., Chappell, L., Gallaher, T., Munzinger, J., Haevermans, T. & Forest, F. (2012)
+Straightening out the screw-pines: A first step in understanding phylogenetic relationships within Pandanaceae.
+Taxon 61: 1010–1020.
+Callmander, M.W., Chassot, P., Küpfer, Ph. & Lowry II, P.P. (2003) Recognition of Martellidendron, a new genus of
+Pandanaceae, and its biogeographic implications. Taxon 52: 747–762.
+http://dx.doi.org/10.2307/3647349
+Callmander, M.W., Lowry II, P.P., Forest, F., Devey, D.S., Beentje, H. & Buerki, S. (2012) Benstonea Callm. & Buerki
+(Pandanaceae): characterization, circumscription, and distribution of a new genus of screw-pines, with a synopsis of
+
+UPDATE ON THE SYSTEMATICS OF BENSTONEA
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+• 59
+
+accepted species. Candollea 67: 323–345.
+Hemsley, W.B. (1894) Pandanaceae. Journal of the Linnean society, Botany 30: 216–217.
+Holttum, R.E. & St. John, H. (1962) Revision of the Genus Pandanus Stickman, Part 11. New Species from Malaya.
+Pacific Science 16: 218–237.
+Kurz, S. (1867) Revision of the Indian screwpines and their allies. Journal of Botany 5: 93–107.
+Martelli, U. (1904) Pandani Asiatici Nuovi. Bolletino della Società Botanica Italiana 1904: 298–304.
+Martelli, U. (1914) Le specie e varietà nuove di “Pandanus” menzionate della enumerazione delle Pandanaceae. Webbia
+4: 399–435.
+http://dx.doi.org/10.1080/00837792.1914.10669574
+Martelli, U. & Pichi-Sermolli, R. (1951) Les Pandanacées récoltées par Perrier de la Bâthie à Madagascar. Mémoire de
+l’Institut Scientifique de Madagascar, Série B, Biologie Végétale 3: 1–175.
+Parkinson, S. (1773) Journal of a voyage to the South seas. Stanfield Parkinson, London, 256 pp.
+Stone, B.C. (1968) Studies in Malesian Pandanaceae. II. Two new species of Pandanus Stickm. sect. Fusiforma St. John.
+Reinwardtia 7: 411–410.
+Stone, B.C. (1971) Studies in Malesian Pandanaceae. VIII. Some new and little known sections in Pandanus. Federation
+Museums Journal, new series 13: 138–149.
+Stone, B.C. (1974) Toward an improved infra-generic classification in Pandanus (Pandanaceae). Botanishe Jahrbücher
+und Systematik 94: 459–540.
+Stone, B.C. (1978) Revisio Pandanacearum, Part I. Pandanus subgenera Coronata and Acrostigma. Flora Malesiana
+precursores. Federation Museums Journal, new series 23: 1–74.
+Stone, B.C. (1982) Two new species of Pandanus from Gunung Mulu National Park. In: Jeremy, A.C & Kavanaugh, M.
+(ed), Notulae et Novitates Muluensis. Botanical Journal of the Linnean Society 85: 31–36.
+Stone, B.C. (1983) Some new and critical Pandanus species of subgenus Acrostigma, I. Supplement to Revisio
+Pandanacearum. Gardens’ Bulletin Singapore 36: 205–212.
+Stone, B.C. (1993) Studies in Malesian Pandanaceae 21. The genus Pandanus in Borneo. Sandakania 2: 35–84.
+
+60 •
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+CALLMANDER ET AL
+
+

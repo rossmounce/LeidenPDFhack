@@ -1,0 +1,416 @@
+Phytotaxa 127 (1): 201–210 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.19
+
+MIDTAL (Microarrays for the Detection of Toxic Algae)
+LINDA K. MEDLIN 1 , MARINA MONTRESOR 2, EDNA GRANELI 3, BEATRIX REUGERA 4, ROBIN
+RAINE 5, BENTE EDVARDSEN 6 , JANE LEWIS7 , CHRIS ELLIOTT 8 , YOLANDA PAZOS9 & LUCIE
+MARANDA10
+1
+
+Marine Biological Association of UK, The Laboratory, Citadel Hill, Plymouth, PL1 2PB, UK
+Email: lkm@mba.ac.uk (corresponding author)
+2
+Laboratory of Ecology and Evolution of Plankton, Stazione Zoologica Anton Dohrn, Villa Comunale, 80121 Napoli, Italy
+3
+Linnaeus University, Marine Ecology Department, SE-39182 Kalmar, Sweden
+4
+Instituto Español de Oceanografía, Centro Oceanográfico de Vigo, Aptdo 1552. 36200 Vigo, Spain
+5
+Martin Ryan Institute,National University of Ireland, University Road 1, Galway, Ireland
+6
+University of Oslo, Department of Biology, P.O. Box 1066 Blindern 0316 Oslo, Norway
+7
+School of Biosciences, University of Westminster, 115 New Cavendish Street London W1W 6UW, UK
+8
+Institute of Agri-Food and Land Use, Queens University of Belfast, Belfast BT7 1NN, UK
+9
+Instituto Tecnoloxico Para O Control Domedio Marino De Galicia—Intecmar, Peirao De Villaxoan S/N, Villagarcia De Arousa,
+36611 Spain
+10
+University of Rhode Island, Graduate School of Oceanography, Narragansett, RI 02882-1197 USA
+
+Abstract
+Microalgae in marine and brackish waters of Europe regularly cause harmful effects, considered from the
+human perspective, in that they cause economic damage to fisheries and tourism. Cyanobacteria cause similar
+problems in freshwaters. These episodes encompass a broad range of phenomena collectively referred to as
+harmful algal blooms (HABs). For adequate management of these phenomena, monitoring of microalgae is
+required. However, present day monitoring is time consuming and based on morphology as determined by
+light microscopy, which may be insufficient to give definitive species and toxin attribution. In the European
+Union (EU) FP7 project MIDTAL (microarrays for the detection of toxic algae), we will first target rapid
+species identification using rRNA genes. The variable regions of the rRNA genes can be used for probe design
+to recognize species or even strains. Second, a toxin based microarray will be developed that includes antibody
+reactions to specific toxins produced by these microalgae because even when cell numbers are low, toxins can
+be present and can accumulate in the shellfish. Microarrays are the state of the art technology in molecular
+biology for the processing of bulk samples for detection of target RNA/DNA sequence. Existing rRNA probes
+and antibodies for toxic algal species/strains and their toxins will be adapted and optimized for microarray use.
+The purpose of MIDTAL is to support the common fisheries policy and to aid the national monitoring agencies
+by providing new rapid tools for the identification of toxic algae and their toxins so they can comply with EU
+directive 91/1491/CEE to monitor for toxic algae, and reduce the need for the mouse bioassay.
+
+Introduction
+MIDTAL is a new EU 7th Framework Program (FP7) project entitled Microarrays for the Detection of Toxic
+Algae. It started on Sept 1, 2008 and is funded under THEME 6 ENVIRONMENT (including climate
+change) of the European Commission for 45 months. Ten partners from seven European countries and the USA
+make up the consortium. Partners include Marine Biological Association (MBA) (co-ordinator), Stazione
+Zoologica Anton Dohrn (SZN), University of Kalmar (now Linnaeus University), Instituto Español de
+Accepted by M.B. Edlund: 21 Sept. 2011; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+201
+
+Oceanografía (IEO), Martin Ryan Institute, National University of Ireland, Galway (NUIG); University of
+Oslo, University of Westminster, Instituto Tecnolóxico para o Control do Medio Mariño de Galicia
+(INTECMAR), University of Rhode Island and Queens University Belfast. The goal of the research consortium
+is to make a universal microarray for the detection of toxic algal species and another universal microarray for
+the detection of the toxins produced by these algae. Some partners are exclusively involved in probe design and
+testing, others are responsible for making calibration curves from established cultures to make the microarray
+quantitative, and others are devoted to taking field samples for two years to validate the microarray.
+Harmful effects from algal blooms, considered from the human perspective, in that they threaten public
+health through the contamination of seafood with biotoxins, cause economic damage to fisheries, and threaten
+tourism through negative impacts on the environment (Hallegraeff 2003, Maso & Garces 2006) regularly
+occur in marine and brackish waters worldwide. For adequate management of these phenomena within the
+European Union (EU), monitoring of microalgae is required (EU Directive 91/492d/EC and Commission
+Decision 2004/41/EC, Hallegraeff 2003). The effectiveness of monitoring programmes is limited by the fact
+that it is time consuming, and morphology, as determined by light microscopy, may not give definitive species
+and toxin attribution. In many countries, once cell numbers reach a trigger level, shellfish are selected for
+toxin analysis by the mouse bioassay. Thus all monitoring is tied to the identification of cells from the field
+samples. Some toxins, e.g., Amnesic Shellfish Poisoning toxins can only be detected by high-performance
+liquid chromatography (HPLC) (Quillian et al. 1991). In other countries, both species counts and toxin
+measurements are mandatory before harvesting. The mouse bioassay is used to ensure toxins do not exceed
+regulatory levels (established by EU Directives) and is employed more frequently when potentially toxic cells
+have been identified as being present. Recurrent toxin algal booms have made it necessary to devise means to
+identify potentially toxic algae and their toxins more rapidly. Molecular and biochemical methods are now
+available that offer rapid means of both species and toxin detection (Ayers et al. 2005; Tyrrell et al. 2002,
+Quillian et al. 1991). MIDTAL will target rapid species identification using rRNA genes. The target rRNA
+genes include regions that are so variable that they are species or even strain specific. These rRNA regions can
+be targeted for probe design to recognize species or even strains. Antibody reactions to specific toxins
+produced by these microalgae are also included in our microarray development, because harmful algal
+populations may be patchy and escape detection, and probes against the toxins may allow an early warning in
+shellfish. Microarrays are state of the art technology in molecular biology for the processing of bulk samples
+for detection of target RNA/DNA sequences and MIDTAL will develop the first commercially universal
+microarray (the so-called "phylochip") capable of rapidly detecting the presence of specific harmful algal
+species and their phycotoxins, which reduces the need for the mouse bioassay. The MIDTAL phylochip for
+toxins and toxic species is expected to reduce the health risk for humans who eat farm-raised fish and shellfish
+and even those who collect shellfish personally because warning notices not to collect can be posted earlier.
+Noxious algae have severe effects on the environment and humans. A concentration of only a few
+hundred cells of noxious microalgae per liter can have very harmful side effects (Masoand Graces 2006). The
+economic repercussions of toxic algal contamination can be very serious (Hallegraeff 2003). Not only is fish
+production affected, through stock destruction and consumer mistrust, but there are also ramifications for the
+tourism sector. Tourists do not like to swim in algal blooms and some toxic blooms cause skin and lung
+irritations (Hallegraeff 2003).
+
+The primary social objectives of MIDTAL are:
+• To provide a reduction in the health risk caused by presence of algal biotoxins both in swimming
+waters and in seafood by predicting dangerous concentrations of algal cells before cell numbers reach
+a dangerous level using the rapid in-situ detection and high sensitivity of the microarray,
+• To promote the health, fitness and well-being of the public by predicting levels of toxins irrespective of
+the cell numbers present,
+
+202 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+MEDLIN ET AL.
+
+• To contribute and support the economic well-being of small coastal fishing communities, which are
+under threat caused by interruptions in fishing activity, by providing them with a cost-effective means
+of personal monitoring by individual fish farmers for levels of toxins and species,
+• To prevent potential economic losses in aquaculture and tourist industry, and
+• To reduce the need for the mouse bioassay, which is ethically undesirable, by improving the current
+European monitoring systems.
+The purpose of MIDTAL is to support the common fisheries policy, which are the EU rules applied to the
+fisheries industry in all EU member states, to aid national monitoring agencies by providing new rapid tools
+for the identification of toxic algae and their toxins so that they can comply with EU directive 2004/41/EC,
+and to reduce the need for the mouse bioassay, which is being phased out by the EU in 2012. In this paper, we
+present a summary of our progress 18 months into the project. The toxin array is still under development and
+no results for this are reported.
+
+Material and Methods
+Probe design and synthesis—Species specific and group specific probes were designed with the probe design
+and probe match tool of the ARB software (Ludwig et al., 2004) to cover the diversity of toxic algae. Probes
+were initially designed to be 18 nt (nucleotides) in length and then increased to 25 nt. The molecular probes,
+including positive and negative controls were synthesized from Thermo Electron Corporation (Ulm,
+Germany) with a C6/MMT aminolink at the 5'-end.
+Microarray production—Probes were spotted onto epoxy-coated “Nexterion Slide E” slides (Peqlab
+Biotechnologie GMBH, Erlangen, Germany) at a final concentration of 1µM in 3x saline sodium citrate
+buffer (3x SSC). We utilized the pin printer VersArray ChipWriter Pro (Bio-Rad Laboratories GmbH,
+München, Germany) and split pins (Point Technologies, Inc., Colorado, USA). Subsequently, the slides were
+incubated at 60°C for 30 min in a Shake 'n' Stack hybridization oven (Thermo Hybaid, Ulm, Germany). The
+microarrays were stored at -20°C until needed. The present microarray contains 128 probes in a taxonomic
+hierarchy ranging from domain (all eukaryotes) to species. Each species has a minimum of two taxonomic
+hierarchies above it and many probes contain more.
+Extraction and Labelling of RNA—Total RNA was extracted from pure cultures using Tri-Reagent (Sigma)
+following the manufacture’s instructions and precipitated with isopropanol. After the final centrifugation step,
+the pellet is suspended in RNase free water and stored at -80°C. Total RNA is then labelled using a CY 5
+Platinum Bright 647 Infrared Nucleic Acid kit, fragmented to a size range of 500–600 bp and hybridised to a
+pre-activated epoxysilane-coated microarray chip at 65°C.
+Standard hybridization protocol—Hybridizations were done in two technical duplicates (two grids on one
+slide or one grid on two slides). The hybridization solution was prepared with 1x hybridization buffer (1M
+NaCl/10 mM Tris, pH 8/0.005% Triton X-100/1 mg/ml BSA/ 0.1 µg/µl HS-DNA) and the labeled total rRNA
+at a final concentration of 11.25 ng/µl. The TBP-fragment from Sacchromyces cerevisiae Meyen ex E.C.
+Hansen added as the positive control at a final concentration of 4.7 ng/µl. Blocking of the background noise
+was conducted by pre-hybridization of the slides at 65°C for 1 hour in a slide box with 50 ml 1xSTT buffer
+(1M NaCl/10 mM Tris, pH 8/0,005% Triton X-100/1 mg/ml BSA). Secondly, the slides were centrifuged, and
+the hybridization solution was placed at 94°C for 5 min to denature the RNA. A special cover slip, the Lifter
+Slip (Implen, Munich, Germany), was used for the hybridization. A volume of 30 µl hybridization solution
+was pipetted under the cover slip, and capillary action ensured even dispersal of hybridization solution
+between chip and cover slip. The slide was placed in a humid chamber, which was constructed from a 50 ml
+MIDTAL MICROARRAYS FOR THE DETECTION OF TOXIC ALGAE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 203
+
+tube filled with tissues moistened with hybridization solution. The hybridization was conducted at 65°C for 1
+hour; afterwards it was washed with 2x, then 1x saline sodium citrate containing washing buffer (2x SSC/10
+mM EDTA/0.05% SDS; 1x SSC/10 mM EDTA) for 15 min, and dried by centrifugation.
+Scanning and quantification of microarrays—The chip was scanned with a GenePix 4000B scanner
+(Molecular Devices Cooperation, Sunnyvale, USA), and analysis of the obtained fluorescence signal
+intensities was done with the GenePix 6.0 software (Molecular Devices Cooperation, Sunnyvale, USA). A
+grid of circles was superimposed onto the scanned image to calculate the fluorescent signals and the
+surrounding background intensity.
+Data Preparation and Analysis—The hybridization data obtained from the array-scanner were processed with
+the program PhyloChip-Analyzer (Metfies et al., 2008). This program implements the computation of signalnoise ratios (S/N) across the hierarchical probe set, which eliminates false positives. Error bars on the graphs
+are the results of the two hybridizations per sample as mentioned above.
+Field Samples—Water samples are taken at seven different sampling sites across Europe, and a measured
+volume is filtered through nitrocellulose filters (pore size 1–3 µm). The volume of sample filtered depends on
+the turbidity of the water: 0.5–2 l is usually filtered until the filter clogs. The filter is then immediately
+submersed in 1 ml of Tri-Reagent, and an aliquot of Dunaliella tertiolecta Butcher (1959: 22) (5 x 106 cells) is
+added as an internal control for the RNA extraction process. Probes for Dunaliella Teodoresco (1905: 230) on
+the chip provide an internal control for the hybridisation process. The material is then stored at -80°C. RNA
+extraction and labelling is carried out as above. Hybridisation results are then compared with microscopic
+examination of the original water sample. This ongoing process will be carried out over two years.
+Preliminary results comparing microarray signal intensities with actual field counts are presented.
+Quantification of the microarray—Quantification of the microarray will be based on calibration of the signal
+intensity with a concentration series of RNA from three strains of each species grown under environmentally
+relevant culture conditions. Cultures will be subjected to temperature, salinity, light and nutrient stress to
+assess the effect of these variables on rRNA content of each species. For example, if the optimal temperature
+for growth is 20°C, then a higher stress temperature of 30°C and a lower stress temperature of 10°C is tested
+along with the optimal value. For light the optimum light was tested for each species and high and low
+variations of light intensity were tested. For the nutrient stress, only nutrient replete cultures are compared
+with nutrient deplete ones. Nitrogen, phosphate, and, in the case of the diatoms, silica are the nutrients tested.
+Cultures of each strain in log phase are aliquoted into three different conditions for each variable tested,
+except for the nutrient stress. Twenty ml samples are taken on day 2, 3, 4 after the initial inoculation, counted,
+and total RNA is extracted. A scheme of our experimental protocol is shown in Figure. 1.
+From these experiments a calibration curve is constructed to equate cell numbers to RNA to signal
+intensity. From these calibration curves, which will be constructed for each probe on the microarray, it will be
+possible to infer a cell number from the microarray signal, which can be compared to cell counts performed on
+the same sample. It is possible that free RNA in the sample from dead or dying cells may give a signal when
+no cells appear in the sample. qPCR will be performed using the taqMan approach and the number of cells
+inferred will be compared to cell counts as well because in qPCR the increasing fluorescence is measured and
+the change in fluorescence is directly proportional to the amount of starting material (Demir et al. 2008).
+Standardisation of protocols across the project —We have standardised how rRNA should be extracted, how
+the hybridisation and the analysis of the microarray should be conducted, and how calibration curve
+experiments are to be conducted.
+
+204 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+MEDLIN ET AL.
+
+FIGURE 1: Scheme detailing the stress experiments performed on three strains of each species to obtain RNA for the calibration
+experiments using F/2 seawater media. N = nitrogen and P = phosphate.
+
+Results and Discussion
+The project (www.midtal.com) is divided into five workpackages (WP), each with their own set of objectives and
+deliverables. Wps 1–3 are the research wps, whereas Wp4 and 5 are dissemination and management wps.
+
+WP1. In the first 18 months of the project, we have reassessed all existing toxic algal fluorescence in-situ
+hybridization (FISH) probes for their applicability and specificity in a microarray format and redesigned any
+probes that proved not to work in a microarray format. Previous work has shown that a direct transfer from
+one detection format to another is not always successful (Metfies & Medlin 2008). We have designed new
+probes for those toxic algal species where none previously existed. We produced a first generation microarray
+with 112 probes for toxic algae and higher taxon levels within the first 10 months of the project. Two arrays
+were spotted on each slide (Fig. 2). A second generation microarray has now been produced incorporating the
+improved signal enhancement results from WP2. This microarray contains 128 probes. Cultures of all target
+species on the microarray have been established at each partner responsible for the respective probes for that
+species and its calibration.
+WP2. We have begun to enhance the signal of the probes on the microarrays by increasing their length to 25
+nucleotides instead of 18 and have optimised a fragmentation protocol to break the RNA into small pieces to
+prevent strong secondary structure formation for signal enhancement (Fig. 3). We have significantly increased
+the signal strength of some of our weakest, yet highly specific probes. In general, low signal strength was one
+of the major obstacles that we had to overcome in this project and in general we have increased signal strength
+about 10X over that obtained by probes that were first tested when the project began.
+Stress experiments have been completed for nearly all of the species on the chip (Fig. 4). Overall, Ndeficiency has been the factor that induced the highest changes in cellular RNA. Some variability in RNA
+content was observed among strains of the same species, though the effect of environmental and nutrient
+stressors was clearly higher than the intra-species variability. Calibration curves will be produced for each
+probe on the microarray.
+
+MIDTAL MICROARRAYS FOR THE DETECTION OF TOXIC ALGAE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 205
+
+FIGURE 2: Spotting scheme for the first generation MIDTAL microarray. In the upper panel the supergrid arrangement on each slide
+is shown. Each supergrid is composed of four grids. In the lower panel each grid is shown in more detail. Only two of the grids in each
+supergrid are hybridised in each experiment. Each probe is spotted four times, hence the four colors adjacent to one another. Each box
+in the cluster of four colors in the grid represents a spot of c. 50 µm in diameter where a given probe is immobilized. This generation
+of the microarray has 960 spots, covering 112 probes for toxic algal species and higher taxon levels, and various positive and negative
+control probes.
+
+FIGURE 3: Hybridization of fragmented RNA to 16 probes (x axis) on the microarray with increasing hybridisation temperature as
+compared to non fragmented RNA hybridised at 37°C. Probes with low signals are enhanced by fragmentation. The signal to noise
+ratio values above the background cut-off of 1 are shown.
+
+206 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+MEDLIN ET AL.
+
+FIGURE 4: Average RNA amounts (pg/cell) over a three-day period for three different strains of Prymnesium parvum N. Carter
+(1937: 40) cultures grown under three levels of four environmental stressors: light (top left), nutrients (top right), salinity (bottom left)
+and temperature (bottom right). In each treatment, the optimal value for the growth of P. parvum is shown in red and the stress
+conditions tested are in blue and green.
+
+WP3. Field collections have been started in five countries and triplicate filters have been taken for RNA,
+DNA and toxin analysis. Each field sample taken for RNA and DNA extraction is spiked with an internal
+control of Dunaliella cells equivalent to 50 ng total rRNA and then RNA extraction is performed with a
+standard protocol (Fig. 5).
+
+FIGURE 5: Comparison of RNA yields extracted from three filters of field material collected at eight stations in the Irish Sea at
+Galway, Ireland by PTR 5 NUIG with (av spiked = red) and without (av crudeblue = blue) the addition of cells of Dunaliella as the
+internal control prior to the extraction.
+
+MIDTAL MICROARRAYS FOR THE DETECTION OF TOXIC ALGAE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 207
+
+If insufficient RNA is extracted from the sample, then the second filter is extracted for total DNA and
+PCR products will be used for the microarray analysis. Cell counts are performed on each of the field samples
+taken for rRNA extraction and hybridisation to the microarray. Cell counts will be inferred from the
+microarray signal and compared to those obtained from field counts and from qPCR. Some preliminary tests
+of field material (Fig. 6) have been made that correlate well with species present at the time of collection.
+
+FIGURE 6: Scan image of a portion of one of the grids (left panel, see also the lower panel in Fig. 2) in the first generation MIDTAL
+microarray after hybridization with Cy5-labelled RNA extracted from a field sample collected in the Skagerrak coast (Gullmarnfjord,
+Sweden) in the beginning of August 2009. An analysis of the hybridisation was performed with the PhyloChip program, and a portion
+of this analysis is presented in the histogram (right panel). Each cluster of four dots in the left panel represents the same probe spotted
+four times as shown in Fig. 2 lower panel. Fluorescence values in the right panel are arranged from lowest to highest signal strength.
+The red line across the intensity values marks the threshold over which a positive signal is recorded. Stars indicate a significant signal
+for species level probe of two toxic species Karenia brevis (Davis) G. Hansen et Moestrup in Daugbjerg et al. (2000: 308) (KB5) and
+Pseudo-nitzschia multistriata (Takano) Takano (1995: 73) (mD3) present in the sample, seen both with the microarray and traditional
+counts. Other high signals include the probes for the positive control Dunaliella and other higher group level probes, such as
+EUK1209, a probe for all eukaryotes and HETERO01, a probe for all heterokonts. Error bars represent duplicate hybridisation of the
+same field sample (two grids hybridised at the same time and signals averaged).
+
+Outlook
+With molecular probes, MIDTAL can assess the presence of toxic populations and with antibodies, their
+toxins and ultimately could assist in the prediction of the environmental conditions under which these toxic
+algae may develop into blooms to impact on fisheries. As anthropogenic input has been cited as one of the
+possible causes for the increase in toxic algal blooms over the past twenty years, it is important to know how
+the abundances of the toxic algae might respond to environmental changes. In this respect, the results will
+improve tools and techniques for the implementation of monitoring of fishery regulations. Compliance with
+EU Directive 91/1491/CEE is very expensive in terms of manpower counting phytoplankton samples and
+facing uncertainties in classification of species with very similar morphologically but that can be quite
+different in their toxic potential. Additions to directive 91 include regulation of domoic acid, and new
+directives or decisions from 2002 about more and more toxins (associated with “new” species) that have to be
+regulated (i.e., azaspiracids). By developing a tool for biotoxins themselves and for the causative species that
+produce the biotoxins, the MIDTAL project can be considered as an in-silico technique because it is inferring
+
+208 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+MEDLIN ET AL.
+
+cell concentrations by using novel computer algorithms to converting signal intensity on the microarray to cell
+numbers. It is essential to know how numbers of species are increasing because the EU requirements in place
+today are tied first and foremost to species numbers and when these reach the threshold level dictated by EU
+directives, then tests for the biotoxins are invoked, i.e., the mouse bioassay. MIDTAL expects that optimised
+tests in the field will reduce the need for the mouse bioassay, which is heavily criticised for ethical reasons.
+Thus monitoring with the aid of an automatic identification tool would be very cost effective and will
+significantly support national monitoring programmes and would reduce the need for the mouse bioassay
+especially where toxic and non-toxic strains of the same species co-occur. The mouse bioassay will be phased
+out in 2012 and thus the MIDTAL microarray is well placed to provide an alternative to this EU requirement.
+MIDTAL will provide urgently needed and cost-effective support for national monitoring agencies by:
+1) providing sensitive and accurate replacements for labor-intensive cell counts
+2) providing an alternative to the mouse test for the presence of toxic algae
+3) providing an early warning system for the instigation of mitigation strategies for the demise of the
+toxic bloom
+The MIDTAL microarray will cost about 25€ per sample analysed and is thus attractive for monitoring
+agencies who have to process many samples rather than small fishermen because the microarray reader is
+expensive. Traditionally, once a sample is taken, it must be preserved and settled overnight before it is counted
+so not only time but also the need for highly skilled taxonomists to identify the cells is avoided. The
+hybridisation protocol is relatively straightforward and can be easily mastered with little training. At least 8
+samples can be processed in one day. Thus the small fishermen will receive notice of the potential toxicity
+present in their waters within 24 hours rather than the 5 days, which is the normal working time before lab
+reports are posted to determine closure of local fisheries. This time savings is crucial in moving mussels on
+rafts outside of contaminated regions into other regions where no toxic algae are present. If the mussels cannot
+be moved, the fisheries can close earlier to prevent any possible health threat.
+
+References
+Ayers, K., Rhodes, L.L., Tyrrell, J.V., Gladstone, M. & Scholin, C.A. (2005) International accreditation of sandwich
+hybridisation assay format DNA probes for micro-algae. New Zealand Journal of Marine and Freshwaters 39: 1225–
+1231.
+http://dx.doi.org/10.1080/00288330.2005.9517388
+Butcher, R.W. (1959) An introductory account of the smaller algae of British coastal waters. Part I: Introduction and
+Chlorophyceae. Ministry of Agriculture, Fisheries and Food, Fishery Investigations, Series IV. Her Majesty's
+Stationery Office, London.
+Carter, N. (1937) New or interesting algae from brackish water. Archiv für Protistenkunde 90: 1–68.
+Daugbjerg, N., Hansen, G., Larsen, J. & Moestrup, Ø. (2000) Phylogeny of some of the major genera of dinoflagellates
+based on ultrastructure and partial LSU rDNA sequence data, including the erection of three new genera of
+unarmoured dinoflagellates. Phycologia 39: 302–317.
+http://dx.doi.org/10.2216/i0031-8884-39-4-302.1
+Demir, E., Coyne, K.J., Doblin, M.A., Handy, S.M. & Hutchins, D.A. (2008) Assessment of microzooplankton grazing
+on Heterosigma akashiwo using a species-specific approach combining quantitative real-time pcr (qPCR) and
+dilution methods. Microbial Ecology 55: 583–594.
+http://dx.doi.org/10.1007/s00248-007-9263-9
+Hallegraeff, G.M. (2003) Harmful algal blooms: a global overview. In: Hallegraeff , G.M., Anderson, D.M., Cembella,
+A.D. (eds) Manual on Harmful Marine Microalgae. United Nations Educational, Scientific and Cultural
+Organization, Paris, pp. 25–49.
+Ludwig, W., Strunk, O., Westram, R., Richter, L., Meier, H., Yadhukumar, Buchner, A., Lai, T., Steppi, S., Jobb, G.,
+Förster, W., Brettske, I., Gerber, S., Ginhart, A. W., Gross, O., Grumann, S., Hermann, S., Jost, R., König, A., Liss,
+T., Lüßmann, R., May, M., Nonhoff, B., Reichel, B., Strehlow, R., Stamatakis, A., Stuckmann, N., Vilbig, A., Lenke,
+
+MIDTAL MICROARRAYS FOR THE DETECTION OF TOXIC ALGAE
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 209
+
+M., Ludwig, T., Bode, A. & Schleifer, K.-H. (2004) ARB, a software environment for sequence data. Nucleic Acids
+Research 32: 1363–1371.
+http://dx.doi.org/10.1093/nar/gkh293
+Maso, M. & Garces, E. (2006) Harmful microalgae blooms (HAB): problematic and conditions that induce them. Marine
+Pollution Bulletin 53: 620–630.
+http://dx.doi.org/10.1016/j.marpolbul.2006.08.006
+Metfies, K., Borsutzki, P., Gescher, C., Medlin, L.K. & Frickenhaus, S. (2008) PhylochipAnalyzer - A Program for
+Analysing Hierarchical Probe-Sets. Molecular Ecology Research 8: 99–102.
+http://dx.doi.org/10.1111/j.1471-8286.2007.01927.x
+Metfies, K. & Medlin, L.K. (2008) Feasibility of transferring FISH-probes to an 18S rRNA gene-phylochip and a
+mapping of signal intensities. Applied and Environmental Microbiology 74: 2814–2821.
+http://dx.doi.org/10.1128/AEM.02122-07
+Quilliam, M.A., Xie, M. & Hardstaff, W.R. (1991) A Rapid Extraction and Clean-Up Procedure for Determination of
+Domoic Acid in Tissue Sample; Technical Report 64 (NRCC No 3301); National Research Council Canada, Institute
+of Marine Bioscence: Halifax, NS, Canada.
+Takano, H. (1995) Pseudo-nitzschia multistriata (Takano) Takano, a new combination for the pennate diatom Nitzschia
+multistriata Takano. Diatom 10: 73–74.
+Teodoresco, E.C. (1905) Organisation et développement du Dunaliella, nouveau genre de Volvocacée - Polyblepharidée.
+Beihefte zum Botanischen Centralblatt 18(1): 215–232.
+Tyrrell, J.V., Connell, L.B. & Scholin, C.A. (2002) Monitoring for Heterosigma akashiwo using a sandwich
+hybridization assay. Harmful Algae 1: 205–214.
+http://dx.doi.org/10.1016/S1568-9883(02)00012-4
+
+210 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+MEDLIN ET AL.
+
+

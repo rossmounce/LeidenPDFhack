@@ -1,0 +1,104 @@
+Phytotaxa 159 (2): 129–130
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.159.2.8
+
+Typifications of select species of Stephaniella (Marchantiophyta:
+Stephaniellaceae)
+CATALINA JUÁREZ-MARTÍNEZ1
+1
+
+Departamento de Botánica, Instituto de Biología, Universidad Nacional Autónoma de México, Apartado Postal 70-233, 04510
+México, D.F; cjuarez@st.ib.unam.mx
+
+In a review of the literature, including a recent taxonomic revision of Stephaniella and Stephaniellidium, previous
+authors did not designate the nomenclatural types for three species of Stephaniella so that these names require
+lectotypification.
+In the following paragraphs, I propose lectotypes for Stephaniella boliviensis (Stephani 1916: 182), S.
+paraphyllina (J.B. Jack 1894: 11) and S. sleumeri (K. Müller 1951: 177) based on materials received on loan from
+B, G, M and S herbaria. In designating these lectotypes the characteristics of the specimens were checked against
+the original description; the condition and size of the specimens were also considered for this purpose. The names
+of the species are listed in alphabetical order.
+
+Stephaniella boliviensis Steph., Bibliotheca Botanica 87: 182, 1916.
+Type:—BOLIVIA. Catena Yanakaka, ca. 4600 m, Jul 1911, Th. Herzog 3750 (lectotype [here designated] M!, isolectotype G!,
+B!).
+
+Note:—Stephani (1916: 182), in the original description, cited two syntypes, Herzog 3750 and Herzog 4794. Váňa,
+in 1995, considered 3750 and 4794 at G to be isolectotype and isosyntype, respectively, but this information was not
+published (Váňa pers. comm.). Specimens of the remaining syntype, Th. Herzog 4794, were seen at G, M, and S.
+
+Stephaniella paraphyllina J.B. Jack, Hedwigia 33: 11, 1894.
+Type:—CORDILLERA ARGENTINO-BOLIVIANIS. Cienega, alpine region, 1873, P.G. Lorentz s.n. (lectotype [here
+designated] G-00120479!, isolectotype G!, M!).
+
+Note:—From Paul G. Lorentz’s collections of 1873, Jack (1894) described the genus Stephaniella with S.
+paraphyllina as the type species. The type locality (Cienega in alpibus Argentino-Bolivianis, in solo glaresolutoso)
+was cited, but no type specimens were mentioned.
+Original material of Stephaniella paraphyllina (G00120478, G00120479, G00115491, G; M-0182810, M),
+collected by Lorentz in 1873, was examined. Schmitt and Winkler (1968) considered the specimen at M to be a
+syntype, but it is not clear if this specimen is part of the same or different gatherings because Lorentz did not
+number his gatherings. Nonetheless, for nomenclatural purposes I conclude that all of the above original elements
+are part of a single gathering. It should be noted that the moss collection at B, which likely contained Lorentz’s best
+material, was destroyed (Stafleu & Cowan 1981: 157). At least one specimen in the Lorentz’s collection at G (G00115491) was likely examined by Jack as it was stamped with his herbarium name.
+
+Stephaniella sleumeri Müll. Frib., Revue Bryologique et Lichénologique 20: 177, 1951.
+Type:—ARGENTINA. Prov. Tucumán: Dep. Tafí, La Cienega, Morro de las Aguadas, ca. 2,800 m, 28 Jan 1950, H. Sleumer
+s.n. (lectotype [here designated] S-B47665!, isolectotype B!, S!).
+
+Note:—Müller (1951) only cited the type locality in the protologue, but did not cite a type specimen. Specimens
+with the same collecting data as those given in the original description are deposited at B and S and I conclude that
+
+Accepted by Jim L. Reveal: 28 Jan. 2014; published: 11 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+129
+
+these specimens represent a single gathering. No additional type information was provided when Stephaniellidium
+sleumeri (Müll.Frib.) S. Winkl. ex Grolle, Acta Botanica Fennica 121: 38. 1983, was proposed.
+
+Notes
+Stephaniella hamata Steph., Bulletin de l’Herbier Boissier ser. 2, 1: 1024, 1901.
+Type:—ARGENTINA. Córdoba, P.G. Lorentz s.n. (lectotype [Grolle in 1967, on herbarium label] G-00069943!).
+
+Stephani (1901) cited specimens from Argentina and Brazil in the protologue, but did not designate a type. Grolle,
+in 1967, designated Lorentz s.n. (G-00069943) as the lectotype on a label, but apparently did not publish his choice
+(Váňa pers. comm.). Schmitt and Winkler (1968: 126) subsequently formally proposed the lectotype.
+
+Acknowledgements
+I thank to the curators of B, G, M and S herbaria for the loan of material. Dr. Jiri Váňa offered comments on some
+species of genus Stephaniella. CONACYT, Mexico, provided financial support for this research as part of Posgrado
+en Ciencias Biológicas, Instituto de Biología, UNAM.
+Thanks are extended to Drs. F. Chiang, C. Delgadillo, H. Ochoterena and J. Reveal for their comments on the
+nomenclature problems and the revision of the manuscript.
+
+References
+Grolle, R. (1983) Nomina generica hepaticarum; references, types and synonymies. Acta Botanica Fennica 121: 1–62.
+Jack, J.B. (1894) Stephaniella paraphyllina Jack nov. gen. Hepaticarum. Hedwigia 33: 11–14.
+Müller, K. (1951) Neue Lebermoose. Revue Bryologique Lichénologique 20: 176–178.
+Schmitt, U. & Winkler, S. (1968) Systematische Untersuchungen über die foliose Lebermoosgattung Stephaniella Jack.
+Österreichische Botanische Zeitschrift 115: 120–133.
+http://dx.doi.org/10.1007/bf01373533
+Stafleu, F.A. & Cowan, R.S. (1981) Taxonomic literature: A selective guide to botanical publications and collections with
+dates, commentaries and types Vol. III: Lh-O, 157 p. The Hague, The Netherlands, Second edition.
+Stephani, F. (1901) Species hepaticarum. Bulletin de l’Herbier Boissier 1: 1022–1240.
+Stephani, F. (1916) Hepaticae, pp 173–268. In: T. Herzog, Die Bryophyten meiner zweiten Reise durch Bolivia. Bibliotheca
+Botanica 87: 1–347.
+http://dx.doi.org/10.5962/bhl.title.736
+
+130 •
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+JUÁREZ-MARTÍNEZ
+
+

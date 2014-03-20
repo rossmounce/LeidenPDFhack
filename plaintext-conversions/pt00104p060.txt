@@ -1,0 +1,143 @@
+Phytotaxa 104 (1): 58–60 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.104.1.9
+
+Phlogacanthus yangtsekiangensis, a new combination in Chinese Acanthaceae
+CHUN XIA1,2 & YUNFEI DENG1 *
+1
+
+Key Laboratory of Plant Resources Conservation and Sustainable Utilization, South China Botanical Garden, Chinese Academy of
+Sciences, Guangzhou 510650, China
+2
+University of Chinese Academy of Sciences, Beijing 100049, China.
+*Author for correspondence. E-mail: yfdeng@scbg.ac.cn
+
+The genus Cystacanthus was established by Anderson (1867: 457) and placed in tribe Ruellieae Dumortier
+(1829: 23) when published. In fact, it is closely related to Phlogacanthus Nees von Esenbeck (1832: 76, 99)
+and differs only in the corolla shape and indumentum. Thus, many authors merged Cystacanthus with
+Phlogacanthus (Benoist 1935, Imlay 1939, Brummit 1992, Mabberley 2008). But it was still recognized as a
+genus independent from Phlogacanthus by many recent authors (Scotland 1992, Scotland & Vollesen 2000,
+Hu 2002, Hu & Fu 2005, Wu et al. 2003, 2006, Hu et al. 2011). Our recently unpublished molecular analysis,
+however, showed that species of Cystacanthus are nested within Phlogacanthus and they might be treated as a
+single genus, Phlogacanthus. Phlogacanthus belongs to tribe Andrographideae Endlicher (1839: 707) and
+consists of about 35 species distributed in S and SE Asia (Scotland 1992, Scotland & Vollesen 2000,
+Mabberley 2008, McDade et al. 2008). In the recently published English version of the Flora of China (Hu et
+al. 2011), eight species were recognized in Cystacanthus. Among these, five species, i.e., Cystacanthus
+paniculatus Anderson (1867: 458), C. pyramidalis Benoist (1928: 907), C. abbreviatus Craib (1911: 438), C.
+vitellinus (Roxburgh 1820: 117) Y. F. Deng in Hu et al. (2011: 477) and C. colaniae (Benoist 1936: 109) Y. F.
+Deng in Hu et al. (2011: 477), already have names in Phlogacanthus; Cystacanthus yangtsekiangensis
+(Léveillé 1915: 6) Rehder (1935: 315), C. affinis Smith (1916: 103) and C. yunnanensis Smith (1916: 104),
+still need to be transferred to Phlogacanthus.
+Cystacanthus yangtsekiangensis, C. affinis and C. yunnanensis were described based on types from Jinsha
+Jiang Valley, N. Yunnan, China. Cystacanthus yunnanensis was considered to be different from C.
+yangtsekiangensis in the different indumentum. The character of the indumentum, however, is not sufficient
+to distinguish them as different species, as can be concluded after study of the type material. Cystacanthus
+affinis has abbreviated inflorescences and seems to be different from C. yangtsekiangensis. After comparing a
+large number of specimens, and after investigations in the field, it was reavealed that C. yangtsekiangensis has
+both abbreviated and elongated inflorescences and is therefore variable in this character. Therefore, we
+propose both Cystacanthus affinis and C. yunnanensis as synonyms of C. yangtsekiangensis.
+Currently, eight species in Phlogacanthus are recognized from China: P. abbreviatus (Craib 1911: 438)
+Benoist (1935: 712), P. colaniae Benoist (1936: 109), Phlogacanthus curviflorus (Wallich 1831: 9) Nees
+(1832: 99), P. paniculatus (Anderson 1867: 458) Imlay (1939: 128), P. pubinervius Anderson (1867: 508), P.
+pyramidalis (Benoist 1928: 907) Benoist (1935: 711), P. vitellinus (Roxburgh 1820: 117) Anderson (1867:
+507) and P. yangtsekiangensis (Léveille 1915: 7) C. Xia & Y. F. Deng.
+
+Phlogacanthus yangtsekiangensis (H. Lév.) C. Xia & Y. F. Deng, comb. nov.
+Basionym: Strobilanthes yangtsekiangensis Léveillé (1915: 7).⎯Cystacanthus yangtsekiangensis (H. Lév.) Rehder
+(1935: 315). Type:⎯CHINA. Yunnan: Dêqên Xian, Rives du fleuve Bleu à Ta-Tchai, 400–450 m, May–June 1912,
+E. E. Maire s.n. (holotype E!)
+Cystacanthus affinis Smith (1916: 103), syn. nov. Type: ⎯CHINA. Yunnan: Lijiang Shi, Fengkow Valley, Lat.
+27°40’N”, 8000 ft., June 1914, G. Forrest 12493 (holotype E!; isotype A!, K!).
+
+58 Accepted by Hans-Joachim Esser: 8 May 2013; published online in PDF: 29 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Cystacanthus yunnanensis Smith (1916: 104), syn. nov. Type:⎯CHINA. Yunnan: Dengchuan Xian, Tengchwan Valley,
+Lat. 26°5’N, 7000 ft, May 1913, G. Forrest 10007 (holotype E!).
+
+Distribution:—Phlogacanthus yangtsekiangensis is endemic to China and occurs in Sichuan and Yunnan.
+Ecology:—This species grows in thickets in the valley at the elevation of 400–2200 m.
+Conservation status:—Phlogacanthus yangtsekiangensis was collected from more than thirty localities
+and has a large area of occurrence in Jinsha Jiang Valley in N Yunnan and SW Sichuan Provinces which cover
+more than 20000 km2. It is thus considered to be of Least Concern (LC) according to the IUCN (2001, 2011)
+Red List criteria and categories.
+
+Acknowledgements
+This work was supported by the National Natural Science Foundation of China (grant nos. 31070175, 31270247,
+31110103911), and Main Direction Program of Knowledge Innovation of Chinese Academy of Sciences (grant no.
+KSCX2-EW-Z-1) We are grateful to the curators of the herbaria A, E and K for their help for our studies.
+
+
+
+References
+Anderson, T. (1867) An enumeration of the Indian species of Acanthaceae. Journal of the Linnean Society, Botany 9:
+425–526.
+Benoist, R. (1928) Acanthacées nouvelles asiatiques. Bulletin de la Société Botanique de France 74: 907–912.
+Benoist, R. (1935) Acanthacées. In: Lecomte, M. H. (ed.) Flore Générale de l’Indochine 4. Masson, Paris, pp. 610–772.
+Benoist, R. (1936) Acanthacées nouvelles d’Indochine. Notulae Systematicae 5: 106–131
+Brummitt, R.K. (1992) Vascular Plant Families and Genera. Royal Botanic Gardens, Kew, 804 pp.
+Craib, W.G. (1911) Contributions to the flora of Siam II. List of Siamese plants, with descriptions of new species.
+Bulletin of Miscellaneous Information Kew 1911: 385–474.
+http://dx.doi.org/10.2307/4115077
+Dumortier, B.C.J. (1829) Analyse des familles des plantes. J. Casterman, Tournay, 104 pp.
+Endlicher, S.F.L. (1839) Genera Plantarum 9. Fr. Beck, Wien, pp. 641–728.
+Hu, C.C. (2002) Cystacanthus, Phlogacanthus: In: Hu, C. C. (ed.) Flora Reipublicae Popularis Sinicae 70. Science
+Press, Beijing, pp. 207–214.
+Hu, C.C. & Fu, X.P. (2005) Acanthaceae. In: Fu, L. G. & Hong, T. (eds.) Higher plants of China 10. Qingdao Publishing
+House, Qingdao, pp. 329–416.
+Hu, C.C., Deng, Y.F. & Daniel, T.F. (2011) Cystacanthus, Phlogacanthus. In: Wu, Z. Y., Raven, P. H. & Hong, D. Y.
+(eds.) Flora of China 19. Science Press, Beijing & Missouri Botanical Garden Press, St. Louis, pp. 474–477.
+Imlay, J.B. (1939) Contributions to the flora of Siam, Additamentum LI, new and renamed Siamense Acanthaceae.
+Bulletin of Miscellaneous Information Kew 1939: 109–150.
+http://dx.doi.org/10.2307/4111677
+IUCN (2001) IUCN Red List Categories and Criteria, Version 3.1. Prepared by the IUCN Species Survival Commission.
+IUCN, Gland, Switzerland, and Cambridge, United Kingdom, 30 pp.
+IUCN (2011) Guidelines for using the IUCN Red List Categories and Criteria. Version 9. Prepared by the Standards and
+Petitions Subcommittee. Available from: http://www.iucnredlist.org/documents/RedListGuidelines.pdf (accessed 1
+April 2013).
+Léveillé, A.A.H. (1915) Catalogue des Plantes de Yun-Nan 1. Chez l’Auteur, Le Mans, pp. 1–16.
+Mabberley, D.J. (2008) Mabberley’s Plant-book: a portable dictionary of plants, their classification and uses. Third
+edition. Cambridge University Press, Cambridge, 1021 pp.
+McDade, L.A., Daniel, T.F. & Kiel, C.A. (2008) Toward a comprehensive understanding of phylogenetic relationships
+among lineages of Acanthaceae s.l. (Lamiales). American Journal of Botany 95: 1136–1152.
+http://dx.doi.org/10.3732/ajb.0800096
+Nees von Esenbeck, C.G. (1832) Acanthaceae Indiae Orientalis. In: Wallich, N. (ed.) Plantae Asiaticae Rariores 3.
+Treuttel, Würtz, Richter, London, pp. 70–112.
+Rehder, A. (1935) Notes on the ligneous plants described by Léveillé from Eastern Asia. Journal of the Arnold
+Arboretum 16: 311–340.
+Roxburgh, W. (1820) Flora Indica 1. Mission Press, Serampore, 493 pp.
+PHLOGACANTHUS YANGTSEKIANGENSIS, A NEW COMBINATION
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+• 59
+
+Scotland, R.W. (1992) Pollen morphology of Andrographideae (Acanthaceae). Review of Palaeobotany and Palynology
+72: 229–243.
+http://dx.doi.org/10.1016/0034-6667(92)90028-F
+Scotland, R.W. & Vollesen, K. (2000) Classification of Acanthaceae. Kew Bulletin 55: 513–589.
+http://dx.doi.org/10.2307/4118776
+Smith, W.W. (1916) Diagnoses specierum novarum in herbario Horti Regii Botanici Edinburghensis cognitum CLI–
+CCL. Notes from the Royal Botanic Garden Edinburgh 9: 71–144.
+Wallich, N. (1831) Plantae Asiaticae Rariores 2. Treuttel, Würtz, Richter, London, 86 pp.
+Wu, Z.Y., Lu, A.M., Tang, Y., Chen, Z.D. & Li, D.Z. (2003) The families and genera of angiosperms in China. Science
+Press, Beijing, 1210 pp.
+Wu, Z.Y., Zhou, Z.K., Sun, H., Li, D.Z. & Peng, H. (2006) The areal-types of seed plants and their origin and
+differentiation. Yunnan Publishing Group Corporation, Yunnan Science & Technology Press, Kunming, 566 pp.
+
+60 •
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+XIA & DENG
+
+

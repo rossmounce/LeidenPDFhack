@@ -1,0 +1,1077 @@
+Phytotaxa 127 (1): 32–48 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.7
+
+Encyonema droseraphilum sp. nov. (Bacillariophyta) and other rare diatoms from
+undisturbed floating-mat fens in the northern Rocky Mountains, USA
+LOREN BAHLS1, JOHN PIERCE2, RANDY APFELBECK3 & LOIS OLSEN4
+1
+
+Montana Diatom Collection, 1032 12th Avenue, Helena, Montana, 59601, USA
+Email: eemahtuskie@gmail.com (corresponding author)
+2
+737 Locust, Missoula, Montana, 59802, USA.
+3
+Montana Department of Environmental Quality, 1520 E. 6th Avenue, Helena, Montana, 59620, USA
+4
+Helena National Forest, Forest Service, United States Department of Agriculture, Helena, Montana, 59601, USA
+
+Abstract
+Relict assemblages of arctic, sub-arctic, and boreal diatoms were found intact in two undisturbed floating-mat fens at 47o
+north latitude and 1,830 m elevation in the Rocky Mountains of western Montana, USA. The fens support Encyonema
+droseraphilum sp. nov. and several rare northern/alpine diatom species—including eleven apparent first records for the
+contiguous United States—and three species of vascular plants that are imperiled in Montana. For many of the diatoms
+and one of the vascular plants, the fens are at the southern limit of their known distributions in North America. Twentyseven of the 49 diatom taxa in the fens are considered at risk or declining in Germany, and similar ratings appear to be
+appropriate for these taxa in Montana, especially in light of global warming and human destruction of wetlands. A
+nearby wetland that has been disturbed by dam-building activities of beaver (Castor canadensis), but not by human
+landscape alterations, produced a diatom assemblage that contained three times more taxa than the fens but was
+dominated by common species, primarily Staurosirella pinnata. Our findings illustrate the effects of natural, intermediate
+disturbance on diatom species composition and underscore the importance of protecting undisturbed aquatic systems for
+the purpose of conserving rare species and for monitoring environmental change.
+
+Introduction
+Peatlands occur mostly in northern latitudes where cool, humid climates allow for precipitation to exceed
+evapotranspiration. Peatlands are best developed on low elevation, nearly level landforms having some degree
+of impeded drainage. The most extensive and continuous tracts of peatland are found in northern North
+America—notably in Canada and Alaska—and in northern Europe and Asia. Peatlands in the contiguous USA
+tend to be smaller and more isolated, and most are scattered among the northern tier of states and southward
+along major cordillera—the Appalachian and Rocky Mountains—where moderate elevation gain may
+compensate thermally for more southerly latitudes (Rydin & Jelgum 2006).
+Peatlands are characterized by extreme environmental conditions not found in other wetland ecosystems.
+Cold, anaerobic, and nutrient-poor conditions limit decay of organic matter. Because the rate of organic matter
+accumulation exceeds the rate of decomposition, peatlands are autogenic or “self-creating” habitats. The
+resulting organic substrates support a number of uncommon plant communities. Due to their great masses of
+water-holding organic matter, peatlands are extremely stable at intermediate time scales and may persist for
+centuries. In the United States, the combination of habitat rarity, habitat stability, and extreme habitat
+conditions explain the distinctiveness of peatland vascular plant floras, as well as the high concentrations of
+rare species that are restricted to peatland environments (Bedford & Godwin 2003, Chadde et al. 1998, Rydin
+& Jelgum 2006). Diatom floristic studies of peatlands in the USA have typically recorded new and rare
+species (e.g., Reimer 1961, Stoermer 1963).
+
+32
+
+Accepted by M.B. Edlund: 28 Mar. 2011; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+In the Northern Rocky Mountains, peatlands are uncommon and occur mainly at lower elevations. In this
+region, they are represented by fens, with their water sources consisting of both groundwater and
+precipitation. They are even rarer southward in the Rockies, where intense solar radiation may be unfavorable
+for peatland plants (Larsen 1982). Intense solar radiation, summer dry periods, and steep terrain may inhibit
+peat development at higher elevations in the Northern Rockies (Chadde et al. 1998). Several plant species
+found in peatlands range southward along the Rocky Mountains and reach their southern limit in Montana.
+Twenty-one species of vascular plants from peatlands in the Northern Rockies have been designated as
+species of special conservation concern by the Montana Natural Heritage Program (http://mtnhp.org/), and 15
+of these have been designated as sensitive species by the US Forest Service (Chadde et al. 1998). These
+species, although uncommon in the Northern Rockies, are generally secure in other parts of their ranges. All
+of these rare Montana peatland species are boreal or north-temperate in distribution, and disjunct or peripheral
+in Montana from more continuous ranges to the north (Chadde et al. 1998).
+Floating-mat fens are a classic feature of basin or lake-fill peatlands. Roots and rhizomes of living plants
+and accumulated leaf litter intertwine to form a mat that develops horizontally across the water surface and
+floats or overlies very unstable muck below. Floating mats are ecologically stable communities because of
+their ability to adjust to fluctuating water levels. Floating mats have been reported to move vertically by as
+much as 0.75 m annually. Plant roots remain in constant contact with water and the plants avoid the
+inundation and drying that affect fixed or anchored mats (Chadde et al. 1998).
+
+Materials and methods
+Site description and sample collection
+Indian Meadows Research Natural Area (IMRNA) is located on the Helena National Forest in western
+Montana about 90 km northwest of Helena, Montana (Fig. 1). IMRNA lies at the extreme southern end of the
+Canadian Rockies Ecoregion, a largely pristine, highly glaciated subregion of the Northern Rockies (USEPA
+2000). IMRNA occupies a glaciated bench bordered by low hills at the head of Indian Meadows Creek, a first
+order tributary of the Blackfoot River. Elevations within the IMRNA range from 1692–2034 m. The area
+includes a diverse mix of vegetation types ranging from montane and lower subalpine conifer forests to
+aquatic features such as ponds, fens, and wet meadows. At the end of the Pleistocene much of the area was left
+covered by mixed glacial deposits. These deposits are underlain by Tertiary age rocks, which consist of
+volcanic tuffs near the south boundary (fen 4525) and unconsolidated sandstones and siltstones, composed of
+quartzites and argillites, near the north boundary (beaver pond 1241, fen 4526). Except for general
+atmospheric and climatic influences, the IMRNA is undisturbed by human landscape alterations. It is located
+at the southern limit of the Bob Marshall Wilderness Complex and part of the natural area lies within the
+Scapegoat Wilderness (USDA 1997).
+Two floating-mat fens, one with a central pool of open water (Fig. 2), are the most distinguishing features
+of IMRNA. These fens support three species of vascular plants that are imperiled in Montana: Drosera
+anglica Huds. (English or great sundew), Drosera linearis Goldie (slenderleaf or linear-leaf sundew), and
+Schoenoplectus subterminalis (Torr.) Soják (swaying or water bulrush, fen 4525 only) (http://mtnhp.org/).
+The rarest of these is Drosera linearis: the fens at IMRNA support two of only four Montana populations of
+this species and the fens are at the southern limit of the species’ known distribution in North America.
+We collected a composite sample of surface material from near the center of each fen and from an
+abandoned beaver pond nearby (Fig. 1, insert). Samples from the fens were composed of material squeezed
+from peat, Sphagnum, and other vegetation, and of material in the interstitial water that surfaced in
+depressions created by footfalls on the floating mats. The sample from the beaver pond consisted of surface
+sediment, material squeezed from plants, and scrapings from rocks and logs. Samples were preserved with
+Lugols’ iodine solution (IKI) before transporting them to the lab. Specific conductance and pH were measured
+in the field with a Hanna Instruments waterproof meter, model 98129, or a Horiba U-10 water quality checker.
+DIATOMS FROM FLOATING-MAT FENS IN THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 33
+
+FIGURE 1: Location of Indian Meadows Research Natural Area in western Montana, USA. Inset: Site map showing relative
+positions of abandoned beaver pond (site 1241), floating-mat fen with central pool (site 4525), and floating-mat fen without central
+pool (site 4526).
+
+Sample preparation
+Samples were treated with concentrated sulfuric acid, potassium dichromate, and hydrogen peroxide to remove
+organic matter. After repeated dilutions of the treated material with distilled water, aliquots were dried on cover
+glasses and permanent mounts were prepared in Naphrax. A proportional count of 800 valves was conducted
+on one slide from each site at 1000X. Each slide was then scanned and additional taxa were recorded until the
+time required to find another taxon exceeded 10 minutes. In this way a comprehensive list of diatoms was
+
+34 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BAHLS ET AL.
+
+constructed for each site. For counting, scanning, and LM photographs, we used a Leica DM LB2 research
+microscope with DIC optics and a Spot Insight Model 14.0 monochrome digital camera. SEM images were
+taken with a Hitachi S-4700 Type II cold field emission SEM at the Electron Microscopy Facility in the
+Division of Biological Sciences at the University of Montana. Samples were filtered, air-dried, and mounted
+on aluminum stubs, then sputter coated with gold and palladium using a Pelco Model 3 Sputter Coater.
+Slides containing holotype specimens of the new taxon are deposited in the Montana Diatom Collection
+(MDC) at the University of Montana Herbarium (MONTU) in Missoula. Duplicate slides containing isotype
+specimens have been deposited in the MDC in Helena and in the Diatom Herbarium at the Academy of
+Natural Sciences of Philadelphia (ANSP).
+TABLE 1: Some features of wetlands sampled for diatoms at Indian Meadows Research Natural Area, Helena National
+Forest, Montana, USA.
+Site
+
+Site Description
+
+1241 Abandoned beaver pond
+
+Latitude and
+Longitude
+47o 06’ 25“ N
+
+Plant Community Type
+
+Calamagrostis canadensis/
+
+pH
+(SU)
+
+SC
+( µS/cm)
+
+6.9
+
+169
+
+8.5
+
+19
+
+6.8
+
+257
+
+o
+
+112 36’ 45” W Carex utriculata/Salix spp.
+4525 Floating-mat fen with central pool
+
+47o 06’ 01” N
+
+Carex spp./Drosera spp./
+
+o
+
+112 35’ 47” W Menyanthes trifoliata/Sphagnum spp.
+4526 Floating-mat fen without central pool
+
+47o 06’ 19” N
+
+Carex spp./Drosera spp./
+
+o
+
+112 36’ 22” W Menyanthes trifoliata
+
+FIGURE 2: Floating-mat fen with central pool (site 4525). Site 4526 is similar but lacks a central pool of open water. Photo by Loren
+Bahls.
+
+DIATOMS FROM FLOATING-MAT FENS IN THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 35
+
+Results
+Diatom assemblage composition
+The abandoned beaver pond supported 126 diatom taxa, but over half of the valves (51%) belonged to
+Staurosirella pinnata (Ehrenberg) Williams & Round (1987: 274) (Table 2). Other taxa from the beaver pond
+that contributed more than 2% of the valves were all common, widespread forms: Pseudostaurosira brevistriata
+(Grunow) Williams & Round (1987: 276) (3.5%), Staurosira venter (Ehrenberg) Grunow (1882: 139) (3.2%),
+Navicula cryptocephala Kützing (1844: 95) (2.7%), Achnanthidium minutissimum (Kützing) Czarnecki (1994:
+157) (2.6%), Cocconeis placentula Ehrenberg (1838: 194) (2.6%), Aulacoseira italica (Ehrenberg) Simonsen
+(1979: 60) (2.4%), and Staurosira construens var. pumila (Grunow) Kingston (2000: 409) (2.4%).
+Contrasted to the high species richness of the beaver pond assemblage, the fens supported only 49 taxa
+(36 and 35 each) (Table 2). The fens also supported much more distinctive diatom assemblages composed
+largely of uncommon taxa. One taxon from the fens could not be identified using available floras and
+monographs. Ten taxa from the fens are not listed by Bahls (2009) in a checklist of diatoms from the
+northwestern United States and eleven are not listed by Kociolek (2005) in a checklist of diatoms from the
+contiguous United States (Table 2). We also show the conservation status for these fen species in Germany,
+where 27 of the 49 taxa are considered at risk or declining (Table 2). Below we discuss our rationale for
+consulting the German list as a surrogate list of imperiled diatoms for Montana.
+
+New species description
+Division Bacillariophyta
+Class Bacillariophyceae
+Subclass Bacillariophycidae D.G. Mann in Round et al. 1990
+Order Cymbellales D.G. Mann in Round et al. 1990
+Family Cymbellaceae Greville 1833
+Genus Encyonema Kützing 1833
+Encyonema droseraphilum Bahls, sp. nov. (Figs 3–10)
+Valvae 20–40 µm longae, 5–9 µm latae, ratio latitudinis et longitudinis 2.8–5.0. Margo ventralis leviter tumidus in
+centro ad planus vel leviter concavus in speciminibus minoribus. Striae dorsalis 8–11 in 10 µm. Striae ventralis
+curtae, 11–13 in 10 µm, 28–32 areolae in 10 µm. Extrema proximalia fissurarum externarum rhaphis leviter expansi
+dorsaliter declinati, extrema terminalia versus margines ventrales declinati. Extrema proximalia fissurarum
+internarum rhaphis ventraliter declinati ad anguli 90º, non recurvati atque E. silesiacum var. silesiacum. Extrema
+terminalia fissurarum internarum rhaphis terminans in linguliformibus helictoglossis.
+Valves 20–40 µm long, 5–9 µm wide. Length to breadth ratio 2.8–5.0. Ventral margin slightly tumid in center to flat or
+slightly concave in smaller specimens. Dorsal striae 8–11 in 10 µm. Ventral striae short, 11–13 in 10 µm. Areolae
+number 28–32 in 10 µm. Proximal ends of external raphe fissures are slightly inflated, deflected dorsally; distal ends
+are curved toward ventral margins (Fig. 9). Proximal ends of internal raphe fissures (Fig. 10, arrows) are bent
+dorsally at right angles, not hooked as in E. silesiacum (p. 184, pl. 2, fig. 7, Krammer 1997a). Distal ends of internal
+raphe fissures terminate in tongue-shaped helictoglossae (Fig. 10).
+Type:— USA. Montana: Helena National Forest, Indian Meadows Research Natural Area, Fen 4526, 47o 06’ 19” N, 112o
+36’ 22” W, collected 03 September 2009, Sample No. 452601 collected by L. Bahls from sedge peat and interstitial
+water; taxon is abundant and accounts for approximately 18% of frustules in sample (Circled specimen (Fig. 4) on
+slide marked MDC 452601(1) (MONTU!) holotype, designated here; circled specimens on slides marked MDC
+452601(2) (Helena!) and GC64892 (ANSP!), isotypes, designated here).
+
+36 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BAHLS ET AL.
+
+Similar taxa:—This taxon is distinguished from Encyonema silesiacum (Bleisch in Rabenhorst) D.G. Mann
+(1990: 667) by its longer length-to-breadth ratio, more widely spaced dorsal striae, shorter ventral striae, and
+shape of the internal proximal raphe ends. Valve ends are directed ventrally, not laterally as in E. silesiacum
+var. elegans Krammer. This appears to be the same taxon as the Encyonema sp. from Kitzbühel, Schwarzsee,
+Österreich reported by Krammer (1997a, pl. 8, figs 6, 7).
+
+FIGURES 3–10: Encyonema droseraphilum sp. nov. Figs 3–8: LM, size diminution series from the type locality. Fig. 4: Holotype
+specimen. Fig. 9: SEM, external valve view. Fig. 10: SEM, internal valve view. Arrows indicate dorsally bent (not curved) proximal
+raphe fissures. Scale bars: Figs 3–8: 10 µm; Figs 9, 10: 5 µm.
+
+DIATOMS FROM FLOATING-MAT FENS IN THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 37
+
+Distribution:—In North America, known only from the type locality.
+Etymology:—Drosera refers to the genus of sundews, which are common associates of this diatom at the
+type locality; philum is from the Greek philus, which means “loving”.
+
+Rare taxa and new records
+Here we provide morphological features, ecological information, and distribution records for selected rare
+taxa, including taxa recorded here for the first time from the northwestern USA and/or the contiguous USA
+(see Table 2).
+Encyonopsis neoamphioxys Krammer (1997b: p. 142, pl. 168, figs 1–7). One specimen measures 42 µm
+long, 5 µm wide. Striae number 13–15 in 10 µm. The type locality of this taxon is “Kitzbühel, Schwarzsee,
+Österreich”, the same locality from which Krammer (1997a) reported our “new” Encyonema. Encyonopsis
+neoamphioxys has been reported by several authors from oligotrophic waters in northern/alpine regions.
+Eunotia arculus Lange-Bertalot & Nörpel in Krammer & Lange-Bertalot (1991: p. 213, pl. 157, figs 4–
+12). Valves are 18–50 µm long, 4 µm wide. Striae number 18–20 in 10 µm. Krammer & Lange-Bertalot (1991)
+reported Eunotia arculus from northern Europe in weakly acid standing waters with low conductivity. In North
+America, Eunotia arculus has been reported from lakes in northern Quebec and Labrador (Fallu et al. 2000).
+Gomphonema hebridense Gregory (1854: 607). Cleve-Euler 1955, p. 181, fig. 1274; Lange-Bertalot &
+Metzeltin 1996, pl. 64, figs 18–25, pl. 98, fig. 1. Valves are 21–47 µm long, 5–7 µm wide. Large specimens
+are tumid in the middle and tend to be cymbelloid. Striae number 15–20 in 10 µm. Gomphonema hebridense
+has been reported as a northern-alpine species from Austria, Germany, and Finland (Cleve-Euler 1955, LangeBertalot & Metzeltin 1996). In the USA, it has been found in low numbers in nine streams in western Montana
+and western Oregon (Bahls 2009), where mean pH is 6.8 and mean conductance is 247 µS/cm (Montana
+Diatom Database, unpublished data).
+Kobayasiella okadae (Skvortzov) Lange-Bertalot (1999a: 267). Nagumo & Kobayasi 1990, p. 368, figs 1–
+16. Synonym: Navicula hoefleri Cholnoky & Schinder (1953: 607). Valves are 31–37 µm long, 7–8 µm wide.
+Striae number 22–24 in 10 µm in the middle of the valve and 36–38 in 10 µm toward the ends. Kobayasiella
+okadae is typically found together with K. parasubtilissima (Kobayasi & Nagumo) Lange-Bertalot (1999a:
+268) and K. subtilissima (Cleve) Lange-Bertalot (1999a: 268) in slightly acid waters in arctic to subarctic
+zones, and in temperate regions (Nagumo & Kobayasi 1990). Krammer & Lange-Bertalot (1986) report K.
+okadae (as Navicula hoefleri) from Scandinavia and the Alps. Lange-Bertalot & Metzeltin (1996) found K.
+okadae (reported as Naviculadicta hoefleri) in a Finnish lake that has low levels of conductance and inorganic
+nutrients and a high level of humic acid. In the United States, K. okadae had been reported (as Navicula
+hoefleri) only from a few oligotrophic and low conductivity lakes in New York (Camburn & Charles 2000) and
+Wisconsin (Diatom Paleolimnology Data Cooperative, Patrick Center, The Academy of Natural Sciences).
+Kobayasiella parasubtilissima (Kobayasi & Nagumo) Lange-Bertalot (1999a: 268). Kobayasi & Nagumo
+1988, p. 245, figs 19–37. Synonym: Navicula parasubtilissima Kobayasi & Nagumo (1988: 245, 247). Valves
+are 31–37 µm long, 3–5 µm wide. Striae number 40–42 in 10 µm. This taxon was described from the same
+material from which Cleve described Navicula (Kobayasiella) subtilissima Cleve (1891: 37): Lake Imandra,
+Russian Lapland. Krammer & Lange-Bertalot (1986) report this taxon (as Navicula subtilissima) from high
+moors in the Alps and Scandinavia, usually associated with Sphagnum species. Fallu et al. (2000) reported
+Navicula parasubtilissima (from lakes in northern Québec and Labrador. In the United States, K.
+parasubtilissima has been reported (as Navicula parasubtilissima) from low alkalinity lakes in the Northeast
+
+38 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BAHLS ET AL.
+
+(Camburn & Charles 2000). Kobayasiella parasubtilissima has been reported (as Kobayasiella subtilissima)
+from 19 lakes and streams in Montana and Washington (Bahls 2009), where mean pH is 7.5 and mean
+conductance is 116 µS/cm (Montana Diatom Database, unpublished data).
+Kobayasiella subtilissima (Cleve) Lange-Bertalot (1999a: 268). Kobayasi & Nagumo 1988, p. 240, figs 1–
+18. Synonyms: Navicula subtilissima, (?) Navicula pseudobryophila Hustedt (1942: 114). Valves are 22–24
+µm long, 5 µm wide. Striae number about 36 in 10 µm. This taxon was described by Cleve from material
+collected in Lake Imandra, Russian Lapland, at approximately 68o north latitude. Fallu et al. (2000) reported
+Navicula subtilissima from lakes in northern Québec and Labrador. In the United States, Kobayasiella
+subtilissima has been reported (as Kobayasia subtilissima) from the Great Lakes (Stoermer et al. 1999).
+Following Krammer & Lange-Bertalot (1986), we had identified this taxon as Navicula pseudobryophila
+Hustedt (Simonsen 1987), which has the same morphological features as Kobayasiella subtilissima. Krammer
+& Lange-Bertalot (1986) report N. pseudobryophila from high moors in the Alps and Scandinavia, usually
+associated with Sphagnum. In the Northwest, we have six records for Navicula pseudobryophila, from
+California, Idaho, Montana, and Wyoming (Bahls 2009).
+Navicula heimansioides Lange-Bertalot (2001: p. 87, pl. 40, figs 10–15). One valve measures 45 µm long, 6
+µm wide. Striae number 14 in 10 µm at the center to 18 in 10 µm toward the ends. Navicula heimansioides
+may be distinguished from Navicula leptostriata Jørgensen (1948: 59) and Navicula notha Wallace (1960: 4)
+by its larger size (Lange-Bertalot 2001). Navicula heimansioides is widespread in electrolyte poor,
+circumneutral to weakly acid, oligotrophic waters. This appears to be the first published record of this taxon in
+the USA. In the Northwest, we have 43 records of this taxon from California, Idaho, Montana, and Oregon,
+where mean pH is 7.0 and mean conductance is 134 µS/cm (Montana Diatom Database, unpublished data).
+Pinnularia polyonca (Brébisson) W. Smith (1856: 95). Krammer 2000, p. 90, pl. 95, figs 1–7. Valves are
+lanceolate, somewhat triundulate, widest in the middle, ends capitate and rounded. Valves measure 70–74 µm
+long, 9–10 µm wide. Striae consistently number 10 in 10 µm. Raphe lateral, the outer fissure weakly curved,
+proximal raphe ends small, bent to one side and close together. Distal raphe fissures large, ?-shaped. Axial
+area ¼ to ½ width of the valve, lanceolate and widening from the ends to a broad central area. This taxon is
+very rare; we found only two frustules—one on each of two slides. Scans of 10 additional slides that were
+made from sample 4526 failed to produce another frustule. In our specimens, one or two slightly longer striae
+occur in the central area on one side, which is a feature also shown by Siver et al. (2005) for specimens
+collected from Cape Cod (Massachusetts, USA). Krammer (1992, 2000) reports P. polyonca from Bavaria and
+as a “zonal element of the palaearctic region, rare, always isolated, [and in] waters of low electrolyte content”.
+We have only one other record of P. polyonca from the Pacific Northwest (Bahls 2009) and that is from Fish
+Lake in Glacier National Park.
+Pinnularia rhombarea Krammer in Metzeltin & Lange-Bertalot (1998: 185–186). Krammer 2000, p. 75,
+pl. 53, figs 1–10; pl. 54, figs 1–5. Valves measure 61–64 µm long, 11 µm wide. Striae number 9–10 in 10 µm.
+P. rhombarea was previously subsumed as Morphotype 3 of P. microstauron (Ehrenberg) Cleve (1891: 28)
+(Krammer 1992). Fallu et al. (2000) found Pinnularia microstauron Morphotype 3 in lakes in northern
+Quebec and Labrador. Krammer (2000) reports that Pinnularia rhombarea prefers cold, oligotrophic waters
+with low electrolyte content, in northern and subarctic regions. We have three other records of P. rhombarea
+from the Northwest (Bahls 2009) and all three are from lakes and fens in Glacier National Park.
+Stauroneis acidoclinatopsis Van de Vijver & Lange-Bertalot (2004: p. 16, pl. 57, figs 1–9). Valves are 57–
+61 µm long, 10–12 µm wide. Striae number 24 in 10 µm (constant). Areolae number 22–24 in 10 µm.
+Stauroneis acidoclinatopsis was described from Qeqertarsuaq, West Greenland (69o N latitude), where it was
+found in a small shallow pool with slightly acid water (pH 6.0), low conductance (<50 µS/cm), and very low
+DIATOMS FROM FLOATING-MAT FENS IN THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 39
+
+nutrient levels (Van de Vijver et al. 2004). Besides the fens at Indian Meadows, we have records of this
+species from 3 wetlands and small lakes in western Montana (Bahls 2010).
+Stauroneis heinii Lange-Bertalot & Krammer in Lange-Bertalot & Genkal (1999: p. 91, pl. 27, figs 1–4).
+Valves are elliptic lanceolate with protracted ends, 116–167 µm long, 23–30 µm wide. Striae number 15–17 in
+10 µm and areolae number 16–18 in 10 µm. External proximal raphe fissures are strongly inflated and
+strongly curved. Stauroneis heinii is bipolar, having been reported from South Georgia Island (Van de Vijver
+et al. 2004) and in the Andes Mountains from Venezuela to Patagonia (Rumrich et al. 2000), as well as from
+the Canadian Arctic (Antoniades et al. 2008), Greenland (Van Kerckvoorde et al. 2000), Siberia (LangeBertalot & Genkal 1999), Alaska (Hein 1990), and elsewhere in western Montana, where it prefers slightly
+acid to circumneutral waters with low concentrations of electrolytes (Bahls 2009, 2010).
+Stauroneis indianopsis Bahls (2010: 85–86). Valves are linear in small specimens to linear-lanceolate in
+larger specimens. Apices appear pinched, very slightly protracted. Length 105–150 µm, breadth 20–25 µm.
+Axial area narrow, barely widening near the central area. Stauros narrow, linear or slightly expanded toward
+the valve margins. Raphe fissures lateral, proximal ends weakly inflated and strongly curved; terminal raphe
+fissures hooked. Striae radiate throughout, more so near ends, 16–17 in 10 µm. Areolae 16–18 in 10 µm.
+Stauroneis indianopsis was described elsewhere (Bahls 2010) from material collected at IMRNA. It is also
+known from a small lake in Missoula County, Montana, having a pH of 7.5 and conductance of 10 µS/cm
+(Bahls 2010).
+Stauroneis regina Bahls (2010: 123-124). Valves are narrowly lanceolate with rounded ends that are not or
+only slightly protracted. Length 142–213 µm, breadth 22–33 µm. Axial area narrow, widening slightly near
+the central area. Stauros narrow, rectangular, widening slightly toward the valve margins. Outer raphe fissures
+lateral, proximal endings inflated and curved. Terminal raphe fissures are hooked. Striae radiate throughout,
+15–17 in 10 µm. Areolae 15–18 in 10 µm. Stauroneis regina was described elsewhere (Bahls 2010) from
+material collected at site 4525, IMRNA. Stauroneis regina is widely distributed in ponds, small lakes, and
+wetlands in the northern Rocky Mountains, where it prefers circumneutral waters with low concentrations of
+electrolytes (Bahls 2010). Stauroneis regina may be conspecific with S. supergracilis Van de Vijver & LangeBertalot (2004: 73).
+Stauroneis subborealis Bahls (2010: 151–152). Valves are linear in small specimens to lanceolate in larger
+specimens. Apices are protracted and broadly rounded. Length 46–142 µm, breadth 9–24 µm. Axial area
+narrow, widening slightly near the central area. Stauros narrow, somewhat expanded toward the valve
+margins. Raphe fissures lateral, proximal ends inflated and curved. Terminal raphe fissures hooked. Striae
+radiate throughout, 17–20 in 10 µm. Areolae 18–22 in 10 µm. Stauroneis subborealis was described
+elsewhere (Bahls 2010) from material collected at site 4526, IMRNA. Stauroneis subborealis has been found
+in a few ponds, fens, and small lakes in western Montana, where it tolerates a wide range of pH and low to
+moderate concentrations of electrolytes (Bahls 2010).
+Stauroneis submarginalis Bahls (2010: 157–158). Valves are broadly lanceolate with slightly protracted,
+broadly rounded apices. Length 140–186 µm, breadth 23–35 µm. A narrow line, visible in LM, runs parallel to
+and 2–3 µm inside the valve margins. Axial area narrow, widening slightly near the central area. Stauros
+narrow, rectangular, slightly expanded toward the valve margins and often containing short striae. Raphe
+fissures lateral, proximal ends inflated and curved (not straight). Terminal raphe fissures hooked. Striae radiate
+throughout, 15–17 in 10 µm. Areolae 16–20 in 10 µm. Stauroneis submarginalis was described elsewhere
+(Bahls 2010) from material collected at site 4525, IMRNA. Stauroneis submarginalis has also been found in
+several small lakes and wetlands in western Montana, northern Idaho, eastern Washington, and southern
+Alberta, where it prefers circumneutral waters with very low concentrations of electrolytes (Bahls 2010).
+
+40 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BAHLS ET AL.
+
+DIATOMS FROM FLOATING-MAT FENS IN THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 41
+
+Achnanthidium deflexum (Reimer) Kingston
+Achnanthidium minutissimum (Kützing) Czarnecki
+Brachysira brebissonii Ross
+Brachysira microcephala (Kützing) Compére
+Chamaepinnularia sp. Lange-Bertalot & Krammer
+Encyonema droseraphilum sp. nov.
+Encyonema neogracile Krammer
+Encyonopsis neoamphioxys Krammer
+Eolimna minima (Grunow) Lange-Bertalot
+Eunotia arculus Lange-Bertalot & Nörpel
+Eunotia flexuosa (Brebisson) Kützing
+Eunotia glacialis Meister
+Eunotia implicata Nörpel, Alles & Lange-Bertalot
+Eunotia monodon Ehrenberg
+Eunotia naegelii Migula
+Eunotia nymanniana Grunow
+Eunotia rhomboidea Hustedt
+Eunotia tetraodon Ehrenberg
+Frustulia crassinervia (Brébisson) Lange-Bertalot & Krammer
+Frustulia saxonica Rabenhorst
+Gomphonema hebridense Gregory
+Kobayasiella okadae (Skvortzov) Lange-Bertalot
+Kobayasiella parasubtilissima (Kobayasi & Nagumo) Lange-Bertalot
+Kobayasiella subtilissima (Cleve) Lange-Bertalot
+Navicula cryptocephala Kützing
+Navicula heimansioides Lange-Bertalot
+Neidium iridis (Ehrenberg) Cleve
+Nitzschia bryophila (Hustedt) Hustedt
+Nitzschia gracilis Hantzsch
+Nitzschia perminuta (Grunow) Peragallo
+
+Taxa
+
+Percent Abundance
+12411
+4525
+4526
+0.24
+2.62
+0.24
+1.66
+6.16
+0.12
+0.50
+3.14
+0.48
+17.87
+0.25
+0.24
+3.08
+p
+1.25
+0.24
+p
+3.91
+0.25
+0.12
+p
+0.12
+5.33
+p
+0.24
+0.36
+p
+0.62
+0.85
+0.47
+1.93
+20.53
+8.28
+0.60
+37.32
+11.24
+0.24
+0.95
+0.24
+24.14
+3.38
+1.07
+p
+4.11
+5.68
+0.24
+2.74
+1.30
+p
+p
+p
+p
+0.36
+p
+0.72
+0.88
+3.86
+3.91
+
+Number of Prior Records
+Lange-Bertalot
+Bahls 2009
+Kociolek 2005
+1996
+428
+4570
+**
+14
+*
+291
+*
+5
+0
+FR
+169
+3
+0
+2
+2238
+**
+0
+FR
+2
+3
+2
+18
+G
+14
+G
+26
+2
+15
+3
+1
+3
+15
+V
+2
+1
+33
+V
+7
+V
+3
+FR
+V
+0
+1
+0
+V
+24
+2
+1193
+**
+43
+FR
+3
+14
+G
+152
+G
+467
+*
+1206
+*
+……continued on the next page
+
+TABLE 2: Percent abundance of diatom taxa in floating-mat fens (sites 4525 and 4526) at Indian Meadows Research Natural Area, corresponding abundances in
+an abandoned beaver pond (site 1241), number of prior records in the Montana Diatom Database (Bahls 2009), taxa not included (FR = first report) in a checklist of U.S.
+diatoms (Kociolek 2005), and taxa status in the diatom Red List for Germany (Lange-Bertalot 1996): 1 = threatened by extinction; 2 = greatly at risk; 3 = at risk,
+imperiled; G = risk increasing; R = extremely rare; V = declining; * not at risk; ** confidently secure. A “p” for abundance indicates the taxon was observed but not
+counted. 1Note: for the abandoned beaver pond (site 1241), only taxa shared with the fens are shown; see text for a list of dominant diatom taxa at this site.
+
+42 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BAHLS ET AL.
+
+25
+35
+
+Taxa Counted
+Total Taxa
+
+28
+36
+
+59
+126
+
+Pinnularia divergens W. Smith
+Pinnularia macilenta Ehrenberg
+Pinnularia microstauron (Ehrenberg) Cleve
+Pinnularia polyonca (Brébisson) W. Smith
+Pinnularia rhombarea Krammer
+Pinnularia viridis (Nitzsch) Ehrenberg
+Pseudostaurosira brevistriata (Grunow) Williams & Round
+Sellaphora laevissima (Kützing) Mann
+Stauroneis acidoclinatopsis Van de Vijver & Lange-Bertalot
+Stauroneis heinii Lange-Bertalot & Krammer
+Stauroneis indianopsis Bahls
+Stauroneis regina Bahls
+Stauroneis subborealis Bahls
+Stauroneis submarginalis Bahls
+Staurosirella leptostauron (Ehrenberg) Williams & Round
+Staurosirella pinnata (Ehrenberg) Williams & Round
+Stenopterobia curvula (W. Smith) Krammer
+Stenopterobia delicatissima (Lewis) Van Heurck
+Tabellaria flocculosa (Roth) Kützing
+
+Taxa
+
+Percent Abundance
+12411
+4525
+4526
+0.24
+p
+4.11
+5.33
+p
+2.54
+2.96
+p
+0.24
+3.50
+0.71
+0.75
+p
+0.12
+0.12
+0.36
+p
+p
+p
+p
+p
+p
+0.12
+51.00
+0.71
+p
+0.24
+0.25
+7.25
+p
+
+TABLE 2. (Continued)
+Number of Prior Records
+Bahls 2009
+Kociolek 2005
+3
+4
+250
+1
+3
+FR
+117
+1183
+259
+0
+FR
+5
+FR
+0
+FR
+0
+FR
+0
+FR
+0
+FR
+1531
+1641
+10
+1
+435
+
+**
+**
+2
+3
+**
+
+*
+**
+V
+
+Lange-Bertalot
+1996
+V
+G
+V
+R
+
+Discussion
+Global warming is shrinking the glaciers of nearby Glacier National Park (Fagre 2007), altering the hydrology
+of the Northern Rockies (Rood et al. 2005), and threatening the integrity of peatlands worldwide (Dise 2009).
+As a consequence, even protected fens such as those at IMRNA and the taxa they support are at risk, despite
+the absence of land-based threats. For unprotected peatlands and other wetlands, draining and filling for
+human settlement and agriculture continues to be a major threat to wetland species (Larsen 2002).
+Germany and the northwestern United States have very similar diatom floras. Seventy-two percent of the
+diatom taxa in the Northwest are found in Germany based on a comparison of checklists for the two regions
+(Bahls 2009, Lange-Bertalot 1996). Both regions are within the Holarctic Kingdom of vascular plants
+(Takhtajan 1986), which coincides more or less with the circumboreal distribution of many diatom species in
+the Northern Hemisphere (e.g., see Medvedeva 2002, Metzeltin et al. 2009). Germany and the Northwest span
+similar latitudes and have similar climates, and both have mountains, coastal areas, and inland waters with
+very low to very high electrolyte content. For these reasons, and since there is no diatom “red list” for
+Montana or the United States, the German list may serve as a surrogate list of imperiled diatoms for Montana
+until such time as a more accurate list is prepared for this region.
+“At risk” or “declining” ratings appear to be appropriate for the rare, northern, cold-loving fen diatoms at
+Indian Meadows and elsewhere in Montana, especially in light of global warming and continued human
+encroachment on wetlands. For most of these taxa, the closest records are hundreds or even thousands of
+kilometers removed, mainly northward. Similar and potential habitats for these taxa are rare in Montana. The
+two fens at IMRNA support two of only four Montana populations of the rare slenderleaf sundew (Drosera
+linearis). The other two records are from fens in the Bob Marshall Wilderness about 40 km northwest of
+IMRNA. The Bob Marshall fens have not been sampled for diatoms, but hold promise for supporting more
+rare taxa and perhaps new species.
+If the new Encyonema sp. from IMRNA proves to be the same taxon as the one reported by Krammer
+(1997a) from Austria, it would be one of many diatom taxa from the European Alps to be reported in the
+Northern Rockies. The diatom Distrionella incognita (Reichardt) Williams (1990: 176-177), originally
+reported and known only from lakes in the foothills of the Alps, was recently found in the Northern Rockies,
+primarily in large fjord-like lakes at lower elevations in Glacier National Park (Morales et al. 2005, Bahls
+2007). A recently completed survey of diatom biodiversity in Glacier National Park (unpublished) has
+uncovered many more northern/alpine taxa that are also found in Europe, giving floristic substance to a
+common nickname for Glacier National Park: America’s Alps.
+The new species from IMRNA and the many other rare species with widely disjunct distributions all raise
+a perplexing question (Williams 1994): How did they get there? There are three possible answers to this
+question. First, taxa that are new and unique to the fens at Indian Meadows may have evolved there from
+precursors that already existed in the area, for example, Encyonema droseraphilum from E. silesiacum and
+Stauroneis indianopsis from S. heinii. Endemism among diatoms is more common than previously thought
+(Mann & Droop 1996) and ancient, stable ecosystems tend to produce large percentages of endemic species.
+In Lake Baikal, it is estimated that endemic diatom species account for 30% (Kozhov 1963) to over 50%
+(Skvortzov 1937) of the diatom flora. The fens at IMRNA are not nearly as old as Lake Baikal (they began
+their succession at the end of the Pleistocene, about 10,000 years B.P.) but they are old enough to allow for
+diatom speciation, as shown by the emergence of Stephanodiscus yellowstonensis Theriot & Stoermer (1984:
+41) from a Stephanodiscus niagarae Ehrenberg (1845:80) precursor over just a few thousand years in
+Yellowstone Lake (Theriot & Stoermer 1984, Theriot et al. 2006).
+The second possible answer to the question of how they got there is that they have been there all along, or
+at least since the continental and montane glaciers began to recede. At the end of the Pleistocene it is
+estimated that 90% of the Northern Great Plains was under water or very wet, and areas that were not
+submerged supported a boreal forest vegetation interspersed with muskeg (Pielou 1991). This was before the
+region became drier and warm enough to support grasslands. Just west of the Great Plains, in the Northern
+DIATOMS FROM FLOATING-MAT FENS IN THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 43
+
+Rockies, recently scoured lake basins provided the physical container and a cool, wet climate provided the
+right conditions for the development of peatlands. At that time, habitats for boreal diatoms that require cold,
+oligotrophic, and circumneutral waters were much more abundant and more closely spaced than they are
+today. Many of the meadows or grassy “parks” at lower elevations in the Northern Rockies began as small,
+shallow lakes, which progressed to fens and wet meadows and finally to dry meadows. Local dispersal and
+interchanges of peatland diatom taxa may have occurred at first, until most of the habitats dried up and the few
+remaining populations became widely separated. This geographic separation of habitats and populations,
+along with a local progression to more dystrophic conditions, may have driven the genetic divergence and
+speciation noted above.
+The final and least likely answer to the question of how they got there is recently, by dispersal and
+ecological selection. Passive, long-range dispersal of viable diatom cells between distant freshwater habitats is
+problematic and unproven (Harper 1999). Global history, including plate tectonics and glaciation, and the
+distribution histories of individual diatom taxa and groups of taxa, are sufficient to explain the current
+distributions of most diatoms (Kociolek & Spaulding 2000). Short-range dispersal from fen to fen, for
+example in the fur of amphibious animals or on the feet of shorebirds, is more likely to occur. But even this is
+problematic between widely separated fens.
+The much larger number of diatom taxa in the abandoned beaver pond illustrates the intermediate
+disturbance hypothesis, which holds that biodiversity is highest when disturbance is neither too rare nor too
+frequent (Connell 1978, Grime 1973). For diatoms, Asai & Watanabe (2004) demonstrated that the maximum
+number of species occurs at intermediate levels of organic enrichment; extremely high and extremely low
+levels of organic pollution produce the smallest number of species. In the case of the beaver pond, the
+disturbance is natural, mainly flooding, which results in a shift toward more minerotrophic and limnic
+conditions. The IMRNA fens, on the other hand, represent undisturbed or rarely disturbed and increasingly
+dystrophic habitats. In peatlands of northern Minnesota, Kingston (1982) demonstrated a decrease in diatom
+species richness with a decrease in minerotrophy that accompanies peatland development. In another study of
+an adjacent lake and fen in Labrador, Kingston (1984) found that the lake diatom assemblage was composed
+mainly of small fragilarioid taxa, which he says are typical of post-glacial assemblages in north-temperate
+lakes. We found several of these same small fragilarioid taxa in the abandoned beaver pond at IMRNA. The
+Laborador fen, on the other hand, supported a substantially different diatom assemblage that was rich in
+Eunotia Ehrenberg (1837: 44), Frustulia Rabenhorst 1853: 50), and Pinnularia Ehrenberg (1843: 45) species,
+which is similar to the fen assemblages at Indian Meadows. The take home message from this is that
+disturbance and pollution favor common species while the absence of disturbance and pollution favors
+uncommon species.
+In general, human activities tend to degrade water quality by increasing temperature, turbidity,
+sedimentation, and concentrations of inorganic salts and nutrients. Natural cold, clear and fresh oligotrophic
+and dystrophic waters are uncommon at temperate latitudes and are becoming more scarce with the advance
+of human development. Oligotrophic and dystrophic waters support unique diatom assemblages that include
+many new and rare species (e.g., Kulikovskiy et al. 2010, Lange-Bertalot & Metzeltin 1996). Most of the
+imperiled diatoms on the Red List for Germany are oligotraphentic and their habitats in that country and
+throughout much of central Europe are no longer available because of eutrophication from ubiquitous use of
+fertilizers (Lange-Bertalot 1996, 1999b). Undisturbed, nutrient-poor waters are therefore worth protecting, for
+the purpose of conserving rare species and for monitoring environmental change (Kociolek & Stoermer
+2009). In the case of Indian Meadows, the United States Forest Service has designated the fens and their
+watershed as a Research Natural Area (RNA), making it part of a national network of RNAs that protect
+exemplary habitats on National Forest lands in perpetuity.
+Despite their relative stability, peatlands are not immune to long-term change. At geologic time scales that
+allow for speciation to occur, natural wetland succession will also result in the fens’ and their floras’ eventual
+demise. As the fens progress toward wet meadows and eventually to dry meadows, more floristic changes will
+occur, leading ultimately to diatom assemblages composed of aerophilic taxa. This process may proceed more
+
+44 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BAHLS ET AL.
+
+quickly with global warming, but with or without global warming, unless there is another glacial epoch to
+scour new habitats and provide a starter climate for northern diatoms, the new and rare taxa described here
+will become extinct or restricted to suitable surviving habitats much farther north.
+
+Acknowledgements
+Thanks are extended to James Driver, who assisted with the capture of SEM images and to Saúl Blanco, who
+provided the Latin translation of the English description for Encyonema droseraphilum. Mark Edlund, Paul
+Hamilton, Steve Shelly and an anonymous reviewer improved the manuscript with their helpful comments.
+Laura Burns prepared the site map.
+
+References
+Antoniades, D., Hamilton, P.B., Douglas, M.S.V. & Smol, J. (2008) Diatoms of North America: The freshwater floras of
+Prince Patrick, Ellef Ringnes and northern Ellesmere Islands from the Canadian Arctic Archipelago. Volume 17 In:
+Lange-Bertalot, H. (Ed.), Iconographia Diatomologica: Annotated Diatom Micrographs. A.R.G. Gantner Verlag
+K.G., Ruggell, 649 pp.
+Asai, K. & Watanabe, T. (2004) Relationship between water quality and diversity indices of freshwater epilithic diatom
+assemblages. In: Poulin, M. (Ed.), Proceedings of the Seventeenth International Diatom Symposium, Biopress
+Limited, Bristol, pp. 1–10.
+Bahls, L.L. (2007) Diatom indicators of climate change in Glacier National Park. Intermountain Journal of Sciences 13:
+99–109.
+Bahls, L.L. (2009) A checklist of diatoms from inland waters of the northwestern United States. Proceedings of the
+Academy of Natural Sciences of Philadelphia 158: 1–35.
+http://dx.doi.org/10.1635/053.158.0101
+Bahls, L.L. (2010) Northwest Diatoms, Volume 4: Stauroneis in the Northern Rockies. Montana Diatom Collection,
+Helena.
+Bedford, B.L. & Godwin, K.S. (2003) Fens of the United States: distribution, characteristics, and scientific connection
+versus legal isolation. Wetlands 23: 608–629.
+http://dx.doi.org/10.1672/0277-5212(2003)023[0608:FOTUSD]2.0.CO;2
+Boyer, C.S. (1927). Synopsis of North American diatomaceae, supplement, part 2, Naviculatae, Surirellatae. Proceedings
+of the Academy of Natural Sciences of Philadelphia 79: 229–583.
+Camburn, K.E. & Charles, D.F. (2000) Diatoms of Low-Alkalinity Lakes in the Northeastern United States. Special
+Publication 18, The Academy of Natural Sciences of Philadelphia, 152 pp.
+Chadde, S.W., Shelly, J.S., Bursik, R.J., Moseley, R.K., Evenden, A.G., Mantas, M., Rabe, F. & Heidel, B. (1998)
+Peatlands on National Forests of the Northern Rocky Mountains: Ecology and Conservation. General Technical
+Report RMRS-GTR-11, Rocky Mountain Research Station, Forest Service, U. S. Department of Agriculture, Ogden,
+Utah, 75 pp.
+Cholnoky, B.J. & Schindler, H. (1953) Die Diatomeengesellschaften der Ramsauer Torfmoore. Sitzungeberichte der
+Osterreichischen Akademie der Wissenschaften, Mathematisch-Naturwissenschaften Klasse 162: 597–624.
+Cleve, P.T. (1891) The Diatoms of Finland. Actas Societas Pro Fauna et Flora Fennica 8(2): 1–68.
+Cleve-Euler, A. (1955) Die Diatomeen von Schweden und Finnland. Teil IV. Biraphideae 2. Kongliga Svenska
+Vetenskaps-Akademiens Handligar, Fjärde Serien, Band 5, Nr. 4. Almqvist & Wiksells Boktryckeri AB, Stockholm,
+232 pp.
+Connell, J.H. (1978) Diversity in tropical rainforests and coral reefs. Science 199: 1302–1310.
+http://dx.doi.org/10.1126/science.199.4335.1302
+Czarnecki, D.B. (1994) The freshwater diatom culture collection at Loras College, Dubuque, Iowa. In: J.P. Kociolek
+(ed.), Proceedings of the 11th International Diatom Symposium. Memoirs of the California Academy of Sciences 17:
+155–174.
+Dise, N.B. (2009) Peatland response to global change. Science 326: 810–811.
+http://dx.doi.org/10.1126/science.1174268
+Ehrenberg, C.G. (1837) Über ein aus fossilen Infusorien bestehendes, 1832 zu Brod verbacknes Bergmehl von der
+Grenzen Lapplands in Schweden. Bericht über die zur Bekanntmachung geeigneten Verhandlungen der KöniglichPreussischen Akademie der Wissenschaften zu Berlin, 1837: 43–45.
+
+DIATOMS FROM FLOATING-MAT FENS IN THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 45
+
+Ehrenberg, C.G. (1838) Die Infusionsthierchen als vollkommene Organismen. Ein Blick in das tiefere organische Leben
+de Natur. Verlag von Leopold Voss, Leipzig. pp. 1–xvii, 1–548, pls. 1–64.
+Ehrenberg, C.G. (1843) Mittheilungen über 2 neue asiatische Lager fossiler Infusorien-Erden aus dem russischen TransKaukasien (Grusien) und Sibirien. Bericht über die zur Bekanntmachung geeigneten Verhandlungen der KöniglichPreussischen Akademie der Wissenschaften zu Berlin 1843: 43–49.
+Ehrenberg, C.G. (1845) Neue Untersuchungen über das kleinste Leben als geologisches Moment. Bericht über die zur
+Bekanntmachung geeigneten Verhandlungen der Königlich-Preussischen Akademie der Wissenschaften zu Berlin
+1845: 53–87.
+Fagre, D.B. (2007) Adapting to the reality of climate change at Glacier National Park, Montana, USA. In: Proceedings of
+The First International Conference on the Impact of Climate Change on High-Mountain Systems. Instituto de
+Hidrologia Meteorologia y Estudios Ambientales IDEAM, Bogota, Colombia, pp. 221–235.
+Fallu, M.-A., Allaire, N. & Pienitz, R. (2000) Freshwater Diatoms from Northern Québec and Labrador (Canada). Band
+45 In: Lange-Bertalot, H. & Kociolek, P. (Eds), Bibliotheca Diatomologica. J. Cramer, Berlin, 200 pp.
+Gregory, W. (1854) Notice of the new forms and varieties of known forms occurring in the diatomaceous earth of Mull;
+with remarks on the classification of the Diatomaceae. Quarterly Journal of Microscopical Science, London 2:90–
+100, pl. IV.
+Grime, J.P. (1973) Competitive exclusion in herbaceous vegetation. Nature 242: 344–347.
+http://dx.doi.org/10.1038/242344a0
+Grunow, A. (1862) Die österreichischen Diatomaceen nebst Anschluss einiger neuen Arten von andern Lokalitäten und
+einer kritischen Uebersicht der bisher bekannten Gattungen und Arten. Erste Folge. Epithemieae, Meridioneae,
+Diatomeae, Entopyleae, Surirelleae, Amphipleureae. Zweite Folge. Familie Nitzschieae. Verhandlungen der
+Kaiserlich-Königlichen Zoologisch-Botanischen Gesellschaft in Wien 12:315–472, 545–588, 7 pls.
+Harper, M.A. (1999) Diatoms as markers of atmospheric transport. In: Stoermer, E.F. & Smol, J.P. (Eds), The Diatoms:
+Applications for the Environmental and Earth Sciences. Cambridge University Press, Cambridge, pp. 429–435.
+Hein, M.K. (1990) Flora of Adak Island, Alaska: Bacillariophyceae (Diatoms). Band 21 In: Lange-Bertalot, H. (Ed.),
+Bibliotheca Diatomologica. J. Cramer, Berlin, 133 pp.
+Hustedt, F. (1942) Diatomeen aus der Umgebung von Abisko in Schwedisch-Lappland. Archiv für Hydrobiologie 39(1):
+87–174.
+Jørgensen, E.G. (1948) Diatom communities in some Danish lakes and ponds. Det Kongelige Danske Videnskabernes
+Selskab, Biologiske Shrifter 5(2): 140 pp.
+Kingston, J.C. (1982) Association and distribution of common diatoms in surface samples from northern Minnesota
+peatlands. Nova Hedwigia Beiheft 73: 333–346.
+Kingston, J.C. (1984) Palaeolimnology of a lake and adjacent fen in southeastern Laborador: evidence from diatom
+assemblages. In: Mann, D.G. (Ed.), Proceedings of the Seventh International Diatom Symposium. Otto Koeltz,
+Königstein, pp. 443–453.
+Kingston, J.C. (2000) New combinations in the freshwater Fragilariaceae and Achnanthidiaceae. Diatom Research 15:
+409–411.
+http://dx.doi.org/10.1080/0269249X.2000.9705504
+Kobayasi, H. & Nagumo, T. (1988) Examination of the type materials of Navicula subtilissima Cleve
+(Bacillariophyceae). The Botanical Magazine, Tokyo 101: 239–253.
+http://dx.doi.org/10.1007/BF02488602
+Kociolek, J.P. (2005) A checklist and preliminary bibliography of the recent, freshwater diatoms of inland environments
+of the continental United States. Proceedings of the California Academy of Sciences, Fourth Series 56: 395–525.
+Kociolek, J.P. & Spaulding, S.A. (2000) Freshwater diatom biogeography. Nova Hedwigia 71:223–241.
+Kociolek, J.P. & Stoermer, E.F. (2009) Oligotrophy: the forgotten end of an ecological spectrum. Acta Botanica Croatica
+68: 465–472.
+Kozhov, M.M. (1963) Lake Baikal and its Life. Dr. W. Junk Publishers, The Hague, 344 pp.
+Krammer, K. (1992) Die Gattung Pinnularia in Bayern. Band 52 in: Hoppea, Denkschriften der Regensburgischen
+Botanischen Gesellschaft. Verlag der Gesellschaft, Regensburg, 308 pp.
+Krammer, K. (1997a) Die cymbelloiden Diatomeen: Eine Monographie der weltweit bekannten Taxa. Teil 1.
+Allgemeines und Encyonema Part. Band 36 In: Lange-Bertalot,H. & Kociolek, P. (Eds), Bibliotheca Diatomologica.
+J. Cramer, Berlin, 382 pp.
+Krammer, K. (1997b) Die cymbelloiden Diatomeen: Eine Monographie der weltweit bekannten Taxa. Teil 2. Encyonema
+part., Encyonopsis and Cymbellopsis. Band 37 In: Lange-Bertalot, H. & Kociolek, P. (Eds), Bibliotheca
+Diatomologica. J. Cramer, Berlin, 469 pp.
+Krammer, K. (2000) The Genus Pinnularia. Volume 1 In: Lange-Bertalot, H. (Ed.), Diatoms of Europe: Diatoms of the
+European Inland Waters and Comparable Habitats. A.R.G. Gantner Verlag K.G., Ruggell, 703 pp.
+Krammer, K. & Lange-Bertalot, H. (1986) Bacillariophyceae, 1. Teil: Naviculaceae. Band 2 In: Ettl, H., Gerloff, J.,
+Heynig, H. & Mollenhauer, D. (Eds), Süßwasserflora von Mitteleuropa. Gustav Fischer Verlag, Stuttgart, 876 pp.
+
+46 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BAHLS ET AL.
+
+Krammer, K. & Lange-Bertalot, H. (1991) Bacillariophyceae, 3. Teil: Centrales, Fragilariaceae, Eunotiaceae. Band 2 In:
+Ettl, H., Gerloff, J., Heynig, H. & Mollenhauer, D. (Eds), Süßwasserflora von Mitteleuropa. Gustav Fischer Verlag,
+Stuttgart, 576 pp.
+Kulikovskiy, M.S., Lange-Bertalot, H., Witkowski, A., Dorofeyuk, N.I. & Genkal, S.I. (2010) Diatom assemblages from
+Sphagnum bogs of the world. I. Nur bog in northern Mongolia. Volume 55 In: Lange-Bertalot, H. & Kociolek, P.
+(Eds), Bibliotheca Diatomologica. J. Cramer, Stuttgart, 326 pp.
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+Lange-Bertalot, H. (1993) 85 neue taxa und über 100 weitere neu definierte Taxa ergänzend zur Süsswasserflora von
+Mitteleuropa, Vol. 2/1-4. Bibliotheca Diatomologica 27: 164 pp., 134 pls.
+Lange-Bertalot, H. (1996) Rote Liste der limnischen Kieselalgen (Bacillariophyceae) Deutschlands. Schriftenreihe für
+Vegetationskunde 28: 633–677.
+Lange-Bertalot, H. (1999a) Kobayasiella nom. nov. ein neuer Gattungsname für Kobayasia Lange-Bertalot 1996. In:
+Lange-Bertalot, H. (ed.), Iconographia Diatomologica. Annotated Diatom Micrographs. Vol. 6. PhytogeographyDiversity-Taxonomy. Koeltz Scientific Books, Königstein, Germany, pp. 272–275.
+Lange-Bertalot, H. (1999b) A first “red list” of endangered taxa in the diatom flora of Germany and of central Europe—
+interpretation and comparison. In: Mayama, S., Idei, M. & Koizumi, I. (Eds), Proceedings of the Fourteenth
+International Diatom Symposium. Koeltz Scientific Books, Koenigstein, pp. 345–351.
+Lange-Bertalot, H. (2001) Navicula sensu stricto, 10 Genera Separated from Navicula sensu lato, Frustulia Volume 2 In:
+Lange-Bertalot, H. (Ed.), Diatoms of Europe: Diatoms of the European Inland Waters and Comparable Habitats.
+A.R.G. Gantner Verlag K.G., Ruggell, 526 pp.
+Lange-Bertalot, H. & Genkal, S.I. (1999) Diatoms from Siberia I: Islands in the Arctic Ocean (Yugorsky–Shar Strait).
+Volume 6 In: Lange-Bertalot, H. (Ed.), Iconographia Diatomologica, Annotated Diatom Micrographs. A.R.G.
+Gantner Verlag K.G., Vaduz, 271 pp.
+Lange-Bertalot, H. & Metzeltin, D. (1996) Indicators of Oligotrophy: 800 Taxa Representative of Three Ecologically
+Distinct Lake Types: Carbonate Buffered, Oligotrophic, Weakly Buffered Soft Water. Volume 2 In: Lange-Bertalot,
+H. (Ed.), Iconographia Diatomologica, Annotated Diatom Micrographs. Koeltz Scientific Books, Königstein, 390
+pp.
+Larsen, J. (1982) Ecology of the Northern Lowland Bogs and Conifer Forests. Academic Press, New York, 307 pp.
+Larsen, J. (2002) Wetlands decline. Vital Signs 2001. Worldwatch Institue, 4 pp.
+Mann, D.G. & Droop, S.J.M. (1996) 3. Biodiversity, biogeography and conservation of diatoms. In.: Kristiansen, J. (Ed.),
+Biogeography of Freshwater Algae. Hydrobiologia 336: 19–32.
+Mann, D.G. & Stickle, A.J. (1995) The systematics of Stauroneis (Bacillariophyta). II. The life history of S.
+phoenicenteron and related species. Diatom Research 10: 277–297.
+http://dx.doi.org/10.1080/0269249X.1995.9705350
+Medvedeva, L.A. (2002) Diversity of diatoms in Sikhote–Alin Biosphere Reserve, Far East Russia. In: John, J. (Ed.),
+Proceedings of the Fifteenth International Diatom Symposium. A.R.G. Gantner K.G., Ruggell, pp.193–200.
+Metzeltin, D. & Lange-Bertalot, H. (1998) Tropical diatoms of South America I: About 700 predominantly rarely known
+or new taxa representative of the neotropical flora. In: Lange-Bertalot, H. (ed.), Iconographia Diatomologica.
+Annotated Diatom Micrographs. Vol. 5. Diversity-Taxonomy-Geobotany. Koeltz Scientific Books. Königstein,
+Germany, 695 pp.
+Metzeltin, D., Lange-Bertalot, H. & Nergui, S. (2009) Diatoms in Mongolia. Volume 20 In: Lange-Bertalot, H. Ed.),
+Iconographia Diatomologica, Annotated Diatom Micrographs. A.R.G. Gantner Verlag K.G., Ruggell, 686 pp.
+Morales, E.A., Bahls, L.L. & Cody, W.R. (2005) Morphological studies of Distrionella incognita (Reichardt) Williams
+(Bacillariophyceae) from North America with comments on the taxonomy of Distrionella Williams. Diatom
+Research 20: 115–135.
+http://dx.doi.org/10.1080/0269249X.2005.9705622
+Nagumo, T. & Kobayasi, H. (1990) Observations on Navicula okadae Skvortzov comb. nov. (Bacillariophyceae).
+Diatom Research 5: 367–372.
+http://dx.doi.org/10.1080/0269249X.1990.9705126
+Patrick, R. & Reimer, C.W. (1966) The Diatoms of the United States Exclusive of Alaska and Hawaii. Vol. 1:
+Fragilariaceae, Eunotiaceae, Achnanthaceae,Naviculaceae. Monograph 13, The Academy of Natural Sciences of
+Philadelphia, 688 pp.
+Pielou, E.C. (1991) After the Ice Age: The Return of Life to Glaciated North America. The University of Chicago Press,
+366 pp.
+Rabenhorst, L. (1853) Die Süsswasser-Diatomaceen (Bacillarien) für Freunde der Mikroskopie. Eduard Kummer,
+Leipzig. 72 pp., 9 pls.
+Reichardt, E. (1995) Die Diatomeen (Bacillariophyceae) in Ehrenberg’s Material von Cayenne, Guyana Gallica. Volume
+1 In: Lange-Bertalot, H. (Ed.), Iconographia Diatomologica, Annotated Diatom Micrographs. Koeltz Scientific
+Books, Königstein, 99 pp.
+
+DIATOMS FROM FLOATING-MAT FENS IN THE ROCKY MOUNTAINS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 47
+
+Reimer, C.W. (1961) Some aspects of the diatom flora of Cabin Creek Raised Bog, Randolph County, Indiana.
+Proceedings of the Indiana Academy of Science 71: 305–319.
+Rood, B., Samuelson, G.M., Weber, J.K. & Wywrot, K.A. (2005) Twentieth-century decline in streamflows from the
+hydrographic apex of North America. Journal of Hydrology 306: 215–233.
+http://dx.doi.org/10.1016/j.jhydrol.2004.09.010
+Round, F.E., Crawford, R.M. & Mann, D.G. (1990) The Diatoms: Biology and Morphology of the Genera.Cambridge
+University Press, Cambridge, 747 pp.
+Rumrich, U., Lange-Bertalot, H. & Rumrich, M. (2000) Diatoms of the Andes from Venezuela to Patagonia/Tierra del
+Fuego. Volume 9 In: Lange-Bertalot, H. (Ed.), Iconographia Diatomologica, Annotated Diatom Micrographs.
+A.R.G. Gantner Verlag K.G., Ruggell, 673 pp.
+Rydin, H. & Jelgum, J. (2006) The Biology of Peatlands. Oxford University Press, New York, 343 pp.
+Schmidt, A. (1874–1959) Atlas der Diatomaceen-Kunde, von Adolf Schmidt, continued by Martin Schmidt,Friedrich
+Fricke, Heinrich Heiden, Otto Müller, Friedrich Hustedt. Reprint 1984, Koeltz Scientific Books, Königstein, 480
+plates.
+Simonsen, R. (1987) Atlas and catalogue of the diatom types of Friedrich Hustedt. J. Cramer, Stuttgart, 3 volumes.
+Siver, P.A., Hamilton, P.B., Stachura-Suchoples, K. & Kociolek, J.P. (2005) Diatoms of North America: The Freshwater
+Flora of Cape Cod. Volume 14 In: Lange-Bertalot, H. (Ed.), Iconographia Diatomologica, Annotated Diatom
+Micrographs. A.R.G. Gantner Verlag K.G., Ruggell, 463 pp.
+Skvortzov, B.W. (1937) Bottom diatoms from Olhon Gate of Baikal Lake, Siberia. Philippine Journal of Science 62:
+293–377.
+Smith, W. (1856) Synopsis of British Diatomaceae. John Van Voorst, London 1856. 2: 107 pp., pls. 32–60, 61–62, A–E.
+Stoermer, E.F. (1963) The diatoms in a northwest Iowa fen. Proceedings of the Iowa Academy of Sciences 70: 71–74.
+Stoermer, E.F., Kreis, R.G., Jr. & Andresen, N.A. (1999) Checklist of Diatoms from the Laurentian Great Lakes. II.
+Journal of Great Lakes Research 25: 515–566.
+http://dx.doi.org/10.1016/S0380-1330(99)70759-8
+Takhtajan, A. (1986) Floristic Regions of the World. University of California Press, Berkeley, 522 pp.
+Theriot, E.C. & Stoermer, E.F. (1984) Principal components analysis of Stephanodiscus: Observations on two new
+species from the Stephanodiscus niagarae complex. Bacillaria 7: 37–58.
+Theriot, E.C., Fritz, S.C., Whitlock, C. & Conley, D.J. (2006) Late Quaternary rapid morphological evolution of an
+endemic diatom in Yellowstone Lake, Wyoming. Paleobiology 32: 38–54.
+USDA. (1997) Establishment Record for Indian Meadows Research Natural Area Within Helena National Forest, Lewis
+& Clark County, Montana. U.S. Department of Agriculture, Forest Service, Northern Region, Missoula, Montana,
+26 pp.
+USEPA. (2000) Level III ecoregions of the continental United States (map). U.S. Environmental Protection Agency,
+National Health and Environmental Effects Research Laboratory, Corvallis, Oregon.
+Van de Vijver, B., Beyens, L. & Lange-Bertalot, H. (2004) The Genus Stauroneis in the Arctic and (Sub-) Antarctic
+Regions. Band 51 In: Lange-Bertalot, H. & Kociolek, P. (Eds), Bibliotheca Diatomologica. J. Cramer, Berlin, 317
+pp.
+Van Kerckvoorde, A., Trappeniers, K., Nijs, I. & Beyens, L. (2000) The epiphytic diatom assemblages from terrestrial
+mosses in Zackenberg (Northeast Greenland). Systematics and Geography of Plants 70: 301–314.
+Vanlandingham, S.L. (1978) Catalogue of the fossil and recent genera and species of diatoms and their synonyms. Part
+VII. Rhoicosphenia through Zygoceros, pp. 3606–4241. J. Cramer, Vaduz.
+Wallace, J. (1960) New and Variable Diatoms. Notulae Naturae (Academy of Natural Sciences of Philadelphia) 331: 8
+pp.
+Williams, D.M. (1990) Distrionella D.M. Williams, nov. gen., a new araphid diatom (Bacillariophyta) genus closely
+related to Diatoma Bory. Archiv für Protistenkunde 138(2): 171–177.
+http://dx.doi.org/10.1016/S0003-9365(11)80159-4
+Williams, D.M. (1994) Diatom biogeography: some preliminary considerations. In: Marino, D. & Montressor, M. (Eds),
+Proceedings of the Thirteenth International Diatom Symposium. Biopress, Bristol, pp. 311–319.
+Williams, D.M. & Round, F.E. (1987) Revision of the genus Fragilaria. Diatom Research 2: 267–288.
+http://dx.doi.org/10.1080/0269249X.1987.9705004
+
+48 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BAHLS ET AL.
+
+

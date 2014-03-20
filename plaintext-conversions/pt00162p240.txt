@@ -1,0 +1,70 @@
+Phytotaxa 162 (4): 240 – 240
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.162.4.10
+
+Notes on Early Land Plants Today. 51. Validation of Schistochilopsis hyperarctica
+(Scapaniaceae, Marchantiophyta)
+NADEZDA A. KONSTANTINOVA1, LARS SÖDERSTRÖM2,*, ANDERS HAGBORG3 & MATT VON KONRAT3
+1
+
+N.A. Avrorin Polar-Alpine Botanical Garden – Institute of Kola SC RAS, 184236 Kirovsk-6, Russia; nadya50@list.ru
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@ntnu.no
+3
+Science and education, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+*
+Author for correspondence
+2
+
+Lophozia hyperarctica (Schuster 1961: 967) was described from Ellesmere Island, Canadian Arctic. However, the
+author stated that the species occurred in very small patches and made a collection of them in a small area, but
+giving every small collection a separate collection number, thus making several gatherings out of them. When
+describing the species he used 5 differently numbered gatherings stating “these five collections extremely skimpy,
+coming from the same locality and to be considered the collective representing the type” thus violating ICN Art.
+41.2 (McNeill et al. 2012). This mistake was overlooked when transferring the taxon to Massula hyperarctica
+(R.M.Schust.) Schljakov (1972: 318), Massularia hyperarctica (R.M.Schust.) Schljakov (1985: 232),
+Schistochilopsis hyperarctica (R.M.Schust.) Konstant. in Konstantinova & Vasiljev (1994: 125) and Lophozia
+grandiretis var. hyperarctica (R.M.Schust.) Damsholt (2008: 98). The species is validated here.
+
+Schistochilopsis hyperarctica Konstant. et L.Söderstr., sp. nov.
+Based on:—Lophozia hyperarctica R.M.Schust., Canad. J. Bot. 39: 967, 1961 (Schuster 1961) nom. inval. (Art. 40.2; based on
+more than one gathering). Type:—CANADA. Ellesmere: Alert Weather Station, R.M.Schuster 35142 (F!, holotype).
+Note:—The reference to the description in Schuster (1961: 967), together with the reference to the single gathering
+selected here, validates the taxon.
+
+Acknowledgements
+The Early Land Plants Today project (ELPT) has been generously supported in part by the Global Biological
+Information Facility (GBIF) Seed Money Award No.2007-41, activities facilitated in part by funding from the
+Biodiversity Synthesis Center of the Encyclopedia of Life (BioSynC), partial funding from the National Science
+Foundation (Award No's 0749762, 1115002), the Warwick Foundation, and the Negaunee Foundation.
+
+References
+Damsholt, K. (2008) Liverworts collected during the Norwegian east Greenland expeditions 1929–1933. Lindbergia 33: 92–113.
+Konstantinova, N.A. & Vasiljev, A.N. (1994) On the hepatic flora of Sayan Mountains (south Siberia) [K flore pečenočnikov
+Saân (ûžnaâ Sibir’)]. Arctoa 3: 123–132.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K.,
+Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012) International Code of
+Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth International Botanical Congress
+Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+Schljakov, R.N. (1972) Massula (K. Müll.) Schljak. – novyj rod kompleksa Lophozia Dum. s. l. [Massula - genus novum
+complexus Lophozia Dum. s. l.]. Novosti Sistematiki Nizših Rastenij 9: 310–318.
+Schljakov, R.N. (1985) Novoe nazvanie i novye kombinacii dlâ roda Massula Schljak. [Nomen novum et combinationes novae
+pro genere Massula Schljak.]. Novosti Sistematiki Nizših Rastenij 22: 231–232.
+Schuster, R.M. (1961) Notes on nearctic Hepaticae. XVIII. New Lophoziaceae from the arctic archipelago of Canada.
+Canadian Journal of Botany 39: 965–992.
+http://dx.doi.org/10.1139/b61-081
+
+240 Accepted by Christine Cargill: 19 Jan. 2014; published: 17 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+

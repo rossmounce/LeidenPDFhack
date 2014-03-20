@@ -1,0 +1,80 @@
+Phytotaxa 155 (1): 71–72 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.155.1.7
+
+Astragalus ramakianus, a new name for the Persian Astragalus turgidus Podlech
+(Leguminosae)
+VENKATACHALAM SAMPATH KUMAR1 & SARAVANAM KARTHIKEYAN2
+1
+
+Herbarium, Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AE, England.
+Email: vskumar10@rediffmail.com; V.Kumar@kew.org
+2
+E-7, Greenfield, Shivtirth Nagar, Paud Road, Pune, Maharastra, India.
+Email: skarthikeyanbsi@gmail.com
+
+Astragalus Linnaeus (1753: 755) is the largest genus of flowering plants, comprising about 2400 species in
+the old world and 500 in the new world (Podlech & Zarre 2013). The Old world species are placed under 136
+sections by Podlech & Zarre (l. c.) in their revisionary study of this genus. These sections were broadly
+grouped under 3 categories: annuals (21 sections with 86 species), perennials with simple basifixed hairs (75
+sections with 1393 species) and perennials with bifurcate hairs (40 sections with 919 species).
+Podlech (2004: 592) described a new species, Astragalus turgidus, so far known only from Western Iran.
+He placed it as second species in A. sect. Plagiophaca (Maassoumi & Podlech 1988: 83), one of the sections
+of perennials with simple basifixed hairs, of which the single previous species was A. plagiophacos
+(Maassoumi & Podlech 1988: 83), endemic to Northeast Iran. However, the name A. turgidus had already
+been used for a Himalayan species by Rao & Balodi (1989: 476), not yet indexed in IPNI and ILDIS. Since A.
+turgidus Podlech is a later homonym of A. turgidus Rao & Balodi and is illegitimate, a new name, Astragalus
+ramakianus is proposed here.
+
+Astragalus ramakianus Karthik. & V.S. Kumar, nom. nov.
+Replaced name: Astragalus turgidus Podlech in Ann. Naturhist. Mus. Wien, B 105: 592. 2004, nom. illeg., non
+Astragalus turgidus Rao & Balodi (1989: 475).
+Type:—IRAN. Esfahan: Qashqai, Kuh-e Surmandeh (Kuh-e Alijug) N Semirom, 3900 m, 7 June 1974, K. H. Rechinger
+47560 (holotype MSB!; isotype W!).
+Paratypes:—IRAN. Boyer Ahmadi: Kuhe Dena, Gardaneh Sichani, 1 August 1949, Behboudi 1063E (MSB!); Chahar
+Mahal Bakhtiari: Ardal, Zard-Kuh, 2700–3200 m, 14–15 June 1973, M. Iranshahr & M. Moussavi 15595E (W!);
+Lorestan: Gahar, 2750 m, 1 June 1941, W. Koelz 17983 (W!).
+Etymology:—The epithet honours the Persian Botanist A. A. Ramak Maassoumi of Tehran for his valuable contribution
+to the studies on Astragalus in Iran.
+
+Acknowledgement
+One of the authors (VSK) is grateful to the curators of M, MSB and W for kindly permitting him to consult
+their respective herbaria.
+
+References
+Linnaeus, C. (1753) Species plantarum, exhibentes plantas rite cognitas, ad genera relatas, cum differentiis specificis,
+nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas. Holmiae, Impensis
+Laurentii Salvii. 1200 pp.
+http://dx.doi.org/10.5962/bhl.title.11179
+
+Accepted by Werner Greuter: 12 Nov. 2013; published: 19 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+71
+
+Maassoumi, A.A.R. & Podlech, D. (1988) Eleven new species and a new section from the genus Astragalus
+(Leguminosae) in Iran. The Iranian Journal of Botany 4: 71–90.
+Podlech, D. (2004) New species of Astragalus L. (Leguminosae), mainly from Iran. Annalen des Naturhistorischen
+Museums in Wien 105B: 565–596.
+Podlech, D. & Zarre, S. (with collaboration of Ekici, M., Maassoumi, A.A.R. & Sytin, A.) (2013) A taxonomic revision
+of the genus Astragalus L. (Leguminosae) in the Old World, vols. 1–3. Naturhistorisches Museum, Wien, 2439 pp.
+Rao, R.R. & Balodi, B. (1989) Two new species of Astragalus L. from Western Himalaya. Proceedings of the Indian
+National Science Academy, Part B, Biological Sciences 59 (4): 475–478.
+
+72 •
+
+Phytotaxa 155 (1) © 2013 Magnolia Press
+
+KUMAR & KARTHIKEYAN
+
+

@@ -1,0 +1,292 @@
+Phytotaxa 156 (2): 74–78 (2014)
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.156.2.2
+
+Utricularia julianae (Lentibulariaceae), a new species from the savannas of the
+Oyapock River, French Guiana
+PIERO G. DELPRETE1*
+1
+
+Herbier de Guyane, Institut de Recherche pour le Développement (IRD), UMR AMAP, Boite Postale 165, 97323 Cayenne Cedex,
+French Guiana, France; e-mail: piero.delprete@ird.fr
+*Author for correspondence
+
+Abstract
+Utricularia julianae, a new species from the savannas near the Oyapock River, French Guiana, is here described and
+illustrated. The new species is most similar to U. tenuissima, from which it can be easily distinguished by the leaves and
+stolons apparently lacking (vs. leaves few and on the stolons, the stolons few or lacking, in U. tenuissima), traps
+ellipsoid, 0.3 mm long, with 4–5 capilliform appendages (vs. ovoid, 0.3–0.8 mm long, with 1 dorsal and 2 ventral slender
+appendages), corolla upper lip limb deeply bilobed (vs. broadly ovate to round), spur saccate, perpendicular to the lower
+lip (vs. spur narrowly cylindrical, parallel to the lower lip), among other characters. In addition, the capsules of U.
+julianae and U. tenuissima are unique within the genus, by being very narrowly ovoid, dehiscing by a single longitudinal
+slit, and with a placenta projecting outside the dehisced capsule. On the basis of their numerous morphological
+similarities and their peculiar capsule shape and dehiscence, the new species is tentatively placed within sect. Martinia,
+which P. Taylor described to accommodate U. tenuissima.
+Key words: Savane Jardin Caché, Section Martinia, critically endangered species, taxonomy
+
+Introduction
+The genus Utricularia Linnaeus (1753: 18) comprises ca. 220 species worldwide (Müller et al. 2006). According to
+the most recent checklist produced for the Guiana Shield (Taylor 2007), 34 species of Utricularia are present in the
+Guianas (Guyana, Suriname and French Guiana). The classic treatment for identifying species of this genus is the
+worldwide monograph published by Taylor (1989), who dedicated most of his life towards this endeavor.
+Additional regional references (i.e., Guayana Highlands, Venezuelan Guayana) for identification of Utricularia
+species were also provided by the same author (Taylor 1967, 1999).
+Recent molecular phylogenies (Müller et al. 2005; Müller & Borsh, 2005) confirmed that the three genera
+traditionally recognized in the family Lentibulariaceae, namely Pinguicula Linnaeus (1753: 17), Genlisea SaintHilaire (1833: 428) and Utricularia, are monophyletic. Also, Taylor (1989) recognized two subgenera in
+Utricularia: subgenus Utricularia, with two calyx lobes, and subgenus Polypompholyx (Lehmann 1844: 109)
+Taylor (1986: 1), with four calyx lobes; however this subdivision is not supported by molecular phylogenies
+(Müller & Borsh, 2005).
+The genus most closely related to Utricularia is Genlisea, which is characterized by its “Y-shaped, twisted,
+subterrestrial eel traps used to attract and trap protozoa” (Barthlott et al. 1998; Müller et al. 2005), whereas
+Utricularia “exhibits the most complex trapping device, among the most complicated leaf modifications known in
+the plant kingdom. The bladder traps of Utricularia are either submerged or subterrestrial and work by means of
+low pressure” (Müller et al. 2005). Additionally, the flowers of Utricularia are easily distinguished from those of
+Genlisea by the 2- or 4-lobed calyx (vs. 5-lobed in Genlisea) (Müller et al. 2006, Taylor 1999).
+During a recent expedition to the savannas near the Oyapock River, French Guiana, a small, white-flowered
+species of Utricularia was discovered. Although I performed considerable field work in the coastal savannas of
+French Guiana over the last four years, this species was never seen before. Additionally, the Savane Jardin Caché,
+
+74 Accepted by Lorenzo Peruzzi: 24 Nov. 2013; published: 10 Jan. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+where this plant was collected, is poorly known, mostly because it is difficult to reach. The first collecting
+expedition to this savanna was made by canoe, on 17 July 2010, going ca. 5 km downstream from Saint-George de
+l’Oyapock on the Oyapock River, and then walking 4 km through inundated lowland forest. A second expedition
+was made by helicopter, on 7 June 2013. It was during the second expedition that the here described new species of
+Utricularia was discovered. The name Savane “Jardin Caché” (meaning “hidden garden” due to the diversity and
+abundance of flowers present, and the high density and diversity of bees visiting the flowers) was given by the
+participating members of the first expedition (Ruth Bone, Gina Lolli, Helene Richard, and myself) because up to
+that moment this locality was still unnamed; so, this is also the first publication wherein this savanna is officially
+named. Due to its peculiar nature (black and white sand of granitic origin, located near the Oyapock River) and its
+unique floristic composition, efforts will be undertaken by the organization Conservatoire du Littoral to acquire
+this site and to place it under the status of protected area.
+
+Material and Methods
+This study was based on field observations and examinations of herbarium specimens collected at the Savane
+Jardin Caché, French Guiana (France). Herbarium specimens were deposited at the CAY, K and US herbaria. A few
+specimens preserved in 70% ethanol are also deposited at CAY, to facilitate the study of vegetative and
+reproductive parts of this minute species. Dried and pickled specimens were examined using a dissecting
+microscope. Conservation status was assessed applying the IUCN Red list Categories and Criteria version 3.1
+(IUCN 2001).
+
+Description
+Utricularia julianae Delprete, sp. nov. (Fig. 1)
+Type:—FRENCH GUIANA. Commune de Regina: Savane Jardin Caché (a few km air distance from the Oyapock River),
+savanna surrounded by primary forest, open field dominated by Poaceae, Cyperaceae and with frequent patches of
+Eriocaulaceae, soil with coarse, salt-and-pepper sand (black and white grains, of granitic origin), 04°02’52”N,
+51°43’47”W, 10 m, 7 June 2013, fl. and fr., P.G. Delprete 12160 (holotype, CAY!; isotypes K!, US!).
+
+Delicate herb, 3.5–5.5 cm tall, single-stemmed, annual, terrestrial. Stem filiform. Rhizoids few (commonly 3–5),
+filiform, ca. 3.5–5.5 mm long, ca. 0.1 mm thick, without papillose branchlets. Stolons absent. Leaves apparently
+absent (absent at the time of collection). Traps few, present on the rhizoids, ellipsoid, 0.3 × 0.2 mm, stalked,
+laterally attached, the mouth lateral, with 4–5 capilliform appendages evenly distributed along the edge of the
+mouth trap. Internal trap glands not studied. Inflorescence erect, solitary, simple; peduncle filiform, terete,
+glabrous, 0.2 mm thick. Scales few, along the stem, narrowly ovate, 0.3–0.5 mm long, similar to the bracts. Bracts
+basifixed, narrowly ovate, 0.3–0.5 mm long. Bracteoles narrowly ovate, 0.3 mm long. Raceme with 1–2(–3)
+flowers, with internodes 6–9 mm long; pedicels erect, filiform, terete, 0.3–0.5 mm long. Calyx lobes subequal,
+membranous, glabrous, with a single central vein, upper lobe ovate, 0.8–0.9 × 0.5–0.6 mm, acute or tridentate at
+apex, lower lobe narrowly ovate, 0.8–0.9 × 0.4 mm, retuse at apex. Corolla pure white (white to pale purplishwhite when dry), with a yellow blotch at the base of the lower lip; upper lip 2–2.2 mm long, deeply bilobed, the
+lobes oblong, 1–1.2 mm long, the basal sac with a distinct, glabrous, raised marginal rim; lower lip limb 2.9–3.2
+mm long, broadly ovate, with a small, basal swelling, obtuse to truncate at apex, the margin shallowly undulate to
+obviously crenulate; palate conspicuously ciliate with moniliform hairs; spur saccate (slightly wider near the apex),
+subacute at apex, straight, shorter than and perpendicular to the lower lip. Filaments slightly curved, 0.3 mm long,
+the anther thecae ca. 2.5 mm long, ± confluent. Ovary ovoid; style short, relatively narrow; stigma lips unequal,
+ovate, acute at apex, narrower than the ovary. Capsule very narrowly oblong-ovoid, 1.5–1.7 mm long, 0.4–0.5 mm
+wide, the wall uniformly membranous, dehiscing by a single, longitudinal, ventral slit, the placenta shortly
+stipitate, narrowly cylindrical, barely protruding outside the dehisced capsule. Seeds ca. 0.10 mm long.
+Etymology:—The specific epithet honors my wife, Juliana Costa da Silva, who has accompanied me for many
+years during field and herbarium work in South America. The day of the helicopter expedition, when this plant was
+
+UTRICULARIA JULIANAE (LENTIBULARIACEAE), A NEW SPECIES
+
+Phytotaxa 156 (2) © 2014 Magnolia Press
+
+• 75
+
+collected, she (at that time wife-to-be) remained at home, anxiously waiting for my return, because she believes
+that helicopter flights are dangerous. For these reasons, this rare, minute and precious species is dedicated to her.
+
+FIGURE 1. A–F. Utricularia julianae. A. Habit. B. Flower, lateral view. C. Flower, posterior view. D. Calyx, posterior view. E.
+Dehisced capsule, with barely protruding placenta. F. Trap, lateral view. G–K. Utricularia tenuissima. G. Flower, lateral view. H.
+Flower, posterior view. I. Calyx, posterior view. J. Dehisced capsule, with protruding placenta. K. Trap, lateral view. A–F: drawn from
+Delprete 12160; G–K: redrawn from Taylor, 1989, fig. 67. Illustration by Piero G. Delprete.
+
+76 •
+
+Phytotaxa 156 (2) © 2014 Magnolia Press
+
+DELPRETE
+
+Distribution, Habitat and Ecology:—The only collection known of this species is from Savane Jardin Caché
+(a few km by air from the Oyapock River), an open field savanna dominated by Poaceae, Cyperaceae, with
+frequent patches of Eriocaulaceae, and surrounded by primary forest. The observed small population, consisting of
+no more than 50 individuals, was growing in the semi-shade of the surrounding forest. The soil of the savanna is
+composed of coarse, salt-and-pepper sand (black and white grains) of granitic origin. The savanna is subjected to
+the two main seasons present in French Guiana: the dry season (from August to November) and the rainy season
+(from December to July). At the time of the collection, it was towards the end of the rainy season, when the soil of
+the savanna was soaked in water, but not inundated. Considering the small size of the individuals and their
+environmental condition, this species is doubtless ephemeral, and with a life span of just a few weeks. The single
+flowering collection was made in June.
+Suggested conservation status:—This species is up to now only known from a single population of no more
+than 50 individuals, indicating that it is very rare. After four years of intense collecting in the coastal savannas of
+French Guiana, this is the first time that it has been seen; however, there is a small probability that it might have
+been overlooked, due to the small size of the individuals and its ephemeral life span. Therefore, taking into account
+the small area of occupancy and the small population observed this species should be treated as “Critically
+Endangered” (CR) following IUCN D criterium (IUCN 2001).
+Taxonomic relationships:—According to the dichotomous keys and descriptions provided by Taylor (1967:
+207–209, 214; 1989: 67–73, 261), the most similar species to Utricularia julianae is U. tenuissima Tutin (1934:
+334). However, it can be distinguished from the latter (as described and illustrated by Taylor 1989: 261, fig. 67, and
+by Fernández-Pérez 1964: 52, fig. 16) by the leaves and stolons apparently lacking (vs. stolons few or absent,
+leaves few, on the stolons in U. tenuissima), traps ellipsoid, 0.3 mm long, laterally attached, with 4–5 capilliform
+appendages (vs. ovoid, 0.3–0.8 mm long, basally attached, with 1 dorsal and 2 ventral, slender appendages), calyx
+lobes 1-veined (vs. 5-veined), calyx lower lobe retuse at apex (vs. bidentate at apex), corolla upper lip limb deeply
+bilobed, with lobes oblong, 1–1.2 mm long (vs. broadly ovate to round), corolla lower lip limb broadly ovate, with
+shallowly undulate to obviously crenulate margin (vs. round, with entire or minutely crenulate margin), spur
+narrowly cylindrical, parallel to the lower lip (vs. saccate, perpendicular to the lower lip), and the stigmatic
+branches unequal, ovate, acute at apex (vs. subequal, round, obtuse at apex). A comparative summary of the
+characters that differentiate these two taxa is presented in Table 1.
+TABLE 1. Comparative table of morphological characters distinguishing Utricularia tenuissima (sensu Taylor 1989) from U.
+julianae.
+Utricularia tenuissima
+
+Utricularia julianae
+
+Stolons
+
+Few or absent
+
+Absent
+
+Leaves
+
+Few on the stolons
+
+Absent
+
+Traps number and position
+
+Numerous, on leaves, stolon branches and
+rhizoids
+
+Few, on rhizoids
+
+Trap morphology
+
+Ovoid, 0.3–0.8 mm long, basally attached,
+with 1 dorsal and 2 ventral slender
+appendages
+
+Ellipsoid, 0.3 mm long, laterally attached, with 4–5
+capilliform appendages
+
+Calyx lobes
+
+5-veined
+Upper lobe broadly ovate
+Lower lobe bidentate at apex
+
+1-veined
+Upper lobe ovate
+Lower lobe retuse at apex
+
+Corolla color
+
+Violet, mauve or white
+
+Pure white when fresh (white to pale purplish-white
+when dry)
+
+Corolla upper lip limb
+
+Broadly ovate to round (apex shortly bilobed)
+
+Deeply bilobed, the lobes oblong, 1–1.2 mm long
+
+Corolla lower lip limb
+
+Round, margin entire or minutely crenulate
+
+Broadly ovate, margin shallowly undulate to
+obviously crenulate
+
+Spur
+
+Narrowly cylindrical, parallel to the lower lip
+
+Saccate, perpendicular to the lower lip
+
+Stigmatic branches
+
+Subequal, round, obtuse at apex
+
+Unequal, ovate, acute at apex
+
+UTRICULARIA JULIANAE (LENTIBULARIACEAE), A NEW SPECIES
+
+Phytotaxa 156 (2) © 2014 Magnolia Press
+
+• 77
+
+It is worth noting that as concerns U. tenuissima there is a certain discrepancy between the description and
+illustration provided by Taylor and the type specimens. In fact, Taylor (1989: 261, fig. 67) described and illustrated
+U. tenuissima as having the spur parallel to the lower corolla limb lip, a feature noted by Tutin when he collected
+the type material, whereas the type specimens (Tutin 644, BM!, K!, L!, NY!) have the spur perpendicular to the
+lower limb lip.
+The capsules of Utricularia tenuissima and U. julianae are quite similar by being very narrowly ovoid,
+dehiscing by a single longitudinal slit, and by having a shortly stipitate placenta that is projected outside the
+dehisced capsule. On the basis of these numerous morphological similarities, and their capsule shape and
+dehiscence unique within the genus, the new species is provisionally placed in sect. Martinia Taylor (1986: 7),
+which was described to accommodate U. tenuissima. Further phylogenetic analyses will eventually test this
+placement and the monophyly of this section.
+
+Acknowledgments
+I would like to thank Olivier Tostain and Guillaume Leotard, for accompanying me during the helicopter
+expedition of 7 June 2013, on the savannas and inselbergs near the Oyapock River, French Guiana. Funds for the
+expedition were provided by the organization Conservatoire du Littoral.
+
+References
+Barthlott, W., Porembski, S., Fisher, E. & Gemmel, B. (1998) First protozoa-trapping plant found. Nature 392: 447.
+http://dx.doi.org/10.1038/33037
+Fernárdez-Pérez, A. (1964) Plantas insectivoras, I: Lentibulariaceae de Colombia y Peru. Caldasia 9(41): 5–84.
+IUCN (2001) IUCN Red List Categories: Version 3.1. IUCN Species Survival Commission, IUCN, Gland, Switzerland and
+Cambridge, U.K., ii + 30 pp.
+Lehmann, J.G.C. (1844) Polypompholyx. Botanische Zeitung (Berlin) 2: 109.
+Linnaeus, C. (1753) Species Plantarum 1. Impensis Laurentii Salvii, Stokholm, 560 pp.
+Müller, K.F. & Borsch, T. (2005) Phylogenetics of Utricularia (Lentibulariaceae) and molecular evolution of the trnK intron in a
+lineage with high substituion rates. Plant Systematics and Evolution 250: 39–67.
+http://dx.doi.org/10.1007/s00606-004-0224-1
+Müller, K.F., Borsch, T., Legendre, L., Porembski, S. & Barthlott, W. (2006) Recent progress in understanding the evolution of
+carnivorous Lentibulariaceae (Lamiales). Plant Biology 8: 748–757.
+http://dx.doi.org/10.1055/s-2006-924706
+Saint-Hilaire, A. (1833) Voyage dans le District des Diamans, volume 2. Librarie-Gide, Paris, 456 pp.
+Taylor, P. (1967) Lentibulariaceae. In: Maguire, B. and Collaborators, Botany of the Guayana Highlands — Part VII. Memoirs of the
+New York Botanical Garden 17: 201–228.
+Taylor, P. (1986) New taxa in Utricularia (Lentibulariaceae). Kew Bulletin 41: 1–18.
+http://dx.doi.org/10.2307/4103020
+Taylor, P. (1989) The genus Utricularia - a taxonomic monograph. Kew Bulletin Addition Series XIV. London: Royal Botanic Garden,
+Kew, 724 pp.
+Taylor, P. (1999) Lentibulariaceae. In: Steyermark, J.A., Berry, P.E., Yatskievych & Holst, B.K., Flora of the Venezuelan Guayana,
+Vol. 5. Missouri Botanical Garden Press, St. Louis, pp. 782–803.
+Taylor, P. (2007) Lentibulariaceae. In: Funk, V., Hollowell, T., Berry, P., Kelloff, C. & Alexander, S.N. (eds.) Checklist of the plants of
+the Guiana Shield (Venezuela: Amazonas, Bolivar, Delta Amacuro; Guyana, Surinam, French Guiana). Contributions from the
+United States National Herbarium 55: 376–379.
+Tutin, T.G. (1934) Utricularia tenuissima. New species from British Guiana, Cambridge University Expedition, 1933. Journal of
+Botany, British and Foreign 72(864): 334–335, f. 7.
+
+78 •
+
+Phytotaxa 156 (2) © 2014 Magnolia Press
+
+DELPRETE
+
+

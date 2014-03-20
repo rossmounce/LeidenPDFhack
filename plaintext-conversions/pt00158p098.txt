@@ -1,0 +1,392 @@
+Phytotaxa 158 (1): 093–098
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.158.1.7
+
+Sistotremastrum chilensis (Trechisporales, Basidiomycota), a new species from
+Chilean Patagonia
+M. TERESA TELLERIA1, MARGARITA DUEÑAS1 & MARÍA P. MARTÍN1
+1
+
+Real Jardín Botánico, RJB-CSIC. Dpto. de Micología. Plaza de Murillo, 2. 28014 Madrid, Spain. E-mail: telleria@rjb.csic.es
+
+Abstract
+Sistotrematrum chilensis sp. nov. is described and illustrated on the basis of morphological and molecular data.
+Specimens of this corticioid fungus were collected in Huinay Reserve, in the Valdivian temperate rainforest of the
+Chilean Northern Patagonian region. Affinities with other species of the genus are discussed.
+
+Resumen
+Sobre la base de datos morfológicos y moleculares se describe e ilustra la especie nueva Sistotremastrum chilensis. Los
+especímenes de este hongo corticioide se recolectaron en la Reserva de Huinay, en el bosque húmedo valdiviano de la
+región chilena del norte de Patagonia. Se discuten las afinidades de esta especie con las del resto del género.
+Key words: Chile, Comau fjord, ITS nrDNA, taxonomy, wood-inhabiting fungi
+
+Introduction
+According to Gorjón & Hallenberg (2013) few studies about corticioid fungi have been focussed in the Chilean
+Patagonia and 94 species has been reported in their check-list. During an investigation in Huinay Reserve in the
+Chilean fjords region, we collected several specimens which correspond to Sistotremastrum Eriksson (1958: 62),
+but do not fit any described species of this genus.
+Sistotremastrum is a small and cosmopolitan genus of corticioid fungi described to accommodate two species:
+Sistotremastrum suecicum Litsch. ex Eriksson (1958: 62), as type species, and Corticium niveocremeum Höhnel &
+Litschauer (1908: 1117). Four species have been placed in this genus. Sistotremastrum suecicum, originally
+described from Sweden, is widely distributed in Europe, including the Macaronesian region, as well as Canada and
+USA (Eriksson et al. 1984, Telleria et al. 2008, 2009, Ginns & Lefebvre 1993); it has also been reported from
+China (Dai et al. 2004) and Southern Argentina (Greslebin 2001, Greslebin & Rajchenberg 2003). Additionally,
+Boidin & Gilles (1994a) studied three Sistotremastrum specimens (LY 11617, 14084, 14246) from Reunion Island
+which were identified as Sistotremastum cf. suecicum, differing by the hyphae, basidia and spores sizes.
+Sistotremastrum niveocremeum (Höhnel & Litschauer) Eriksson (1958: 62), originally described from Austria,
+is common in Europe including Macaronesian islands (Kotiranta & Saarenoksa 1990, Beltrán-Tejera 2004, Telleria
+et al. 2009), the formerly Soviet Union, Turkey, Caucasus region and Iran (Hallenberg 1978, Ghobad-Nejhad et al.
+2009, Ghobad-Nejhad 2011, Ghobad-Nejhad & Hallenberg 2012); it has also been reported from China (Dai et al.
+2004), India (Hjortstam & Ryvarden 2007) and Japan (Maekawa 1993), as well as North America (Ginns &
+Lefebvre 1993) and South America where it is known from Brazil (Hjortstam & Bononi 1987), Colombia
+(Hjortstam & Ryvarden 1997) and Southern Argentina (Greslebin & Rajchenberg 2003). The other two species
+present a more restricted distribution. Sistotremastrum lateclavigerum Boidin & Gilles (1994b: 217), described
+from France, is only known from its type locality, and Sistotremastrum guttuliferum Melo, M. Dueñas, Telleria &
+M.P. Martín in Telleria et al. (2013), described from Madeira Island, is also found in the Azores Archipelago and
+Canary Islands in the Macaronesian region.
+
+Accepted by Masoomeh Ghobad-Nejhad: 25 Dec. 2013; published: 30 Jan. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+93
+
+The aim of this study was to identify, characterize and analyse the specimens of Sistrotremastrum from Huinay
+Reserve referred to above on morphological and molecular grounds. As a result a new species is proposed and
+described.
+
+Materials and Methods
+Taxon sampling and morphological studies:—Three specimens of Sistotremastrum from Huinay, Los Lagos
+Region, Chile, were studied. Vouchers are deposited in MA-Fungi herbarium. Measurements and drawings were
+made from microscopic sections mounted in 3% aqueous KOH and examined at magnification up to 1250 × using
+an Olympus BX51 microscope. The length and width of 30 spores and 10 basidia were measured from each
+sample. Line drawing was made with a Leyca DM2500 microscope with aid of a drawing tube by M. Dueñas.
+Molecular analysis:—A portion of specimens 19594Tell./MA-Fungi 86366, and 19610 Tell./MA-Fungi
+86368 were crushed on two FTA® Indicating Micro Cards (Cat Nº WB120211, Whatman, Maidstone, England). A
+Harris punch was used to cut out a 2-mm plug and transferred into a thin-wall microcentrifuge tube. The extraction
+of the genomic DNA from the FTA was done as recommended by the manufacturer. Briefly, three washes with 200
+µl of FTA purification reagent and two more washes with 1 × TE buffer (10 mmol/L Tris, 0.1 mmol/L EDTA, pH
+8.0); later the FTA paper was air dried at room T for a minimum of one h, and the DNA was eluted from the plug
+with 50 µl pure sterile double distilled water by incubation at 95 ºC for 15 min. The PCR was performed with one
+µl of the eluted DNA and one µl of each primer, ITS1F (White et al. 1990) and ITS4 (Gardes & Bruns 1993), using
+illustra™ PureTaq™ Ready-To-Go™ PCR Beads (GE Healthcare, Buckinghamshire, UK) as described in Winka et
+al. (1998) following thermal cycling conditions in Martín & Winka (2000). Before sequencing, 20 μl of the
+amplifications products were cleaned with 8 μl of 1:10 ExoSAP-IT® (USB Corporation, OH, USA).
+Sequences were compared with homologous Sistotremastrum sequences discussed in Telleria et al. (2013).
+Maximum parsimony analyses were performed using the program PAUP* 4.0b10 for Macintosh (Swofford 2003).
+Exhaustive searches were conducted, without rooting the tree and gaps treated as missing data. To assess
+homoplasy levels, consistency index (CI) and retention index (RI) were calculated from each exhaustive search.
+Kimura-2-parameter (K2P) pairwise distances were obtained using PAUP* 4.0b10.
+The new consensus sequences have been lodged in the EMLB-EBI database with the accession numbers
+HG315520 (19594Tell./MA-Fungi 86366) and HG315521 (19610Tell./ MA-Fungi 86368).
+
+Results
+The two ITS nrDNA sequences obtained in this study were aligned with six Sistotremastrum sequences included in
+Telleria et al. (2013). A matrix of 651 unambiguously aligned nucleotide positions was produced (502 constant,
+113 parsimony-uninformative, and 36 parsimony-informative). The number of trees evaluated by exhaustive search
+was 10395 and only two were retained (166 steps long, CI = 0.8542, RI = 0.8906). Topological differences between
+the two trees are minor, and only one is shown in Fig. 1; the two ITS sequences of the specimens from Huinay
+appeared together in a highly supported clade (BS = 100 %), as a sister group of the cluster formed by the three
+sequences of Sistotremastrum guttuliferum (Azores and Madeira), and one Sistotremastrum sp. (Sweden).
+On the other hand, the K2P matrix distance (Tab. 1) among the eight Sistotremastrum sequences gave a low
+value (0.00165) between the two sequences from Huinay. The large genetic distance between the sequences
+obtained from 19594Tell./MA-Fungi 86366 and 19610 Tell./MA-Fungi 86368 specimens with those of the S.
+guttuliferum (0.05599−0.05809) and the sequence under Sistotremastrum sp. (0.05109−0.05298), led us to describe
+a new species.
+
+Taxonomy Treatment
+Sistotremastrum chilensis Telleria, M. Dueñas & M.P. Martín, sp. nov. (Fig. 2)
+Mycobank MB804754
+
+94 •
+
+Phytotaxa 158 (1) © 2014 Magnolia Press
+
+TELLERIA ET AL.
+
+Type:—CHILE, Los Lagos (X Region), Palena province, Comuna Hualaihué, Comau fjord, Huinay Reserve, path to Cerro del
+Tambor, 100 m, 42º22’44.5”S 72º24’25.8”W, on unidentified wood, 26 April 2012, M. Dueñas, M.P. Martín & M.T.
+Telleria, 19610Tell. (holotype, MA-Fungi 86368!)
+Diagnosis:—This new species is closely related to S. guttuliferum but differs by the shape of subicular and subhymenial hyphae
+and its unique ITS sequence.
+
+Sistotremastrum suecicum EU118666/
+EU118667
+Sistotremastrum niveocremeum AF347094
+Sistotremastrum sp. AY805625
+54
+
+Sistotremastrum guttuliferum JX310443
+100
+
+Sistotremastrum guttuliferum JX3105445
+Sistotremastrum guttuliferum JX310444
+
+100
+
+19594Tell., HG315520
+
+Sistotremastrum
+chilensis sp. nov.
+
+19610Tell., HG315521
+10 changes
+
+FIGURE 1. One of the two trees for Sistotremastrum ITS nrDNA sequences obtained from an exhaustive search with PAUP* 4.0b10.
+Parsimony bootstrap support (≥ 50%) indicated above branches.
+TABLE 1. Matrix of pairwise intra- and inter-specific Kimura-2-parameter (K2P) distance matrix among Sistotremastrum ITS nrDNA
+sequences.
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1 S. suecicum EU186667
+
+-
+
+2 S. niveocremeum AF347094
+
+0.19553
+
+-
+
+3 Sistotremastrum sp. AY805625
+
+0.33145
+
+0.05767
+
+-
+
+4 S. guttuliferum JX310443
+
+0.29381
+
+0.07762
+
+0.05405
+
+-
+
+5 S. guttuliferum JX310445
+
+0.29039
+
+0.07797
+
+0.05615
+
+0.00331
+
+-
+
+6 S. guttuliferum JX310444
+
+0.29545
+
+0.08153
+
+0.05601
+
+0.00167
+
+0.00337
+
+-
+
+7 S. chilensis 19594Tell., HG315520
+
+0.29803
+
+0.05459
+
+0.05298
+
+0.05599
+
+0.05795
+
+0.05784
+
+-
+
+8 S. chilensis 19610Tell., HG315521
+
+0.30261
+
+0.05469
+
+0.05109
+
+0.05612
+
+0.05809
+
+0.05786
+
+0.00165
+
+8
+
+-
+
+Basidioma resupinate, adnate, very thin; hymenophore whitish, under the lens reticulate to porose; margin
+indeterminate. Hyphal system monomitic, hyphae with clamps, distinct; subicular hyphae up to 6 µm wide,
+irregular and sometimes arranged parallely next to the substrate; subhymenial hyphae thinner, 3−4 µm wide,
+straighter and with vertical direction; both with small oil drops in the cytoplasm, and loosely interwoven. Cystidia
+absent. Basidia subclavate to subtubular, thin-walled, with a basal clamp, (16−)21−27 × 6.5−8 µm, and six to eight
+short, 3 µm long sterigmata. Spores narrowly ellipsoid, thin walled, 5−6.5 × 2.5−3 µm, inamyloid, indextrinoid and
+acyanophilous.
+Etymology:—Relating to Chile
+Known distribution:—Valdivian temperate rainforest in Chilean Northern Patagonian region.
+
+SISTOTREMASTRUM CHILENSIS, A NEW SPECIES FROM PATAGONIA
+
+Phytotaxa 158 (1) © 2014 Magnolia Press
+
+• 95
+
+FIGURE 2. Sistotremastrum chilensis MA-Fungi 86368. a. Section through basidiome; bar = 25 µm. b. Basal hyphae. c. Subhymenial
+hyphae. d. Detail of hymenium with basidia and probasidia. e. Spores. bar = 10 µm (19610Tell., MA-Fungi 86368, holotypus)
+
+96 •
+
+Phytotaxa 158 (1) © 2014 Magnolia Press
+
+TELLERIA ET AL.
+
+Additional specimens examined:—CHILE. Los Lagos (X Region), Palena province, Comuna Hualaihué,
+Comau fjord, Huinay Reserve, path to Cerro del Tambor, 100 m, 42º22’44.5”S 72º24’25.8”W, on unidentified
+wood, 26 April 2012, M. Dueñas, M.P. Martín & M.T. Telleria, 19594Tell. (MA-Fungi 86366!). Los Lagos (X
+Region), Palena province, Comuna Hualaihué, Comau fjord, Huinay Reserve, 147 m, 42º22’9.0”S 72º24’42.7”W,
+on Lophosoria quadripinnata, 30 April 2012, M. Dueñas, M.P. Martín & M.T. Telleria, 19709Tell. (MA-Fungi
+86367!).
+
+Discussion
+From a morphological point of view, Sistotremastum chilensis is related to S. guttuliferum. Both share subicular
+hyphae with small oil drops in the cytoplasm and narrowly ellipsoid spores, 5−6.5 × 2.5−3 µm, but differ by the
+shape of basal and subhymenial hyphae, composed by rather short and wide cells in S. guttuliferum (Telleria et al.
+2013) and long and thin ones in S. chilensis. Both also differ in their distribution: Macaronesian region, in the
+North Atlantic Ocean, and Chilean Northern Patagonia region respectively. The spores of S. suecicum are also
+narrowly ellipsoid but smaller, 4.5−6 × 1.5−2 µm, and S. niveocremeum has subcylindrical to allantoid spores, 6−9
+× 2.5−3(−4) µm (Eriksson et al. 1984). Sistotremastrum lateclavigerum is the only species known in the genus with
+cystidia (Boidin & Gilles 1994b).
+Key to species
+1.
+2.
+3.
+4.
+-
+
+Cystidia present (leptocystidia)................................................................................................................... S. lateclavigerum
+Cystidia absent ...................................................................................................................................................................... 2
+Subicular hyphae with oil drops in the cytoplasm. Spores narrowly ellipsoid, 5−6.5 × 2.5−3 µm ....................................... 3
+Subicular hyphae without oil drops in the cytoplasm ............................................................................................................ 4
+Hyphae composed by rather short and wide cells. Subicular hyphae (10−)14−18 × (6−)7−9 µm and subhymenial hyphae
+8−12 × 4−5 µm ..................................................................................................................................................S. guttuliferum
+Hyphae composed by long and thin cells. Subicular hyphae (14−)20−23 × 4−6 µm and subhymenial hyphae 15−23(−38)
+× 3−4 µm ............................................................................................................................................................... S. chilensis
+Spores subcylindrical to allantoid 6−9 × 2.5−3(−4) µm ............................................................................... S. niveocremeum
+Spores narrowly ellipsoid, 4.5−6 × 1.5−2 µm .......................................................................................................S. suecicum
+
+Acknowledgments
+Special thanks are do to Reihard Fitzek (San Ignacio del Huinay Foundation, Chile) for his invaluable help during
+fieldwork, to Eva Rodríguez (Real Jardín Botánico, CSIC, Spain) for technical assistance, and Marian Glenn
+(Seton Hall University, USA) for her kind English revision. Financial support was provided by ENDESA and San
+Ignacio de Huinay Foundations, as well as by Consejo Superior de Investigaciones Científicas, CSIC, projects nº
+2011HUIN10 and 2013CL0012. This work was also partially supported by DGICyT, project CGL2012-35559.
+
+References
+Beltrán Tejera, E. (2004) Fungi. In: Arechavaleta, M., Rodríguez, S., Zurita, N., García, A. (eds.) Lista de especies silvestres de
+Canarias. Hongos, Plantas y animales terrestres. Gobierno de Canarias, La Laguna. pp. 25−70.
+Boidin, J. & Gilles, G. (1994a) Basidiomycètes Aphyllophorales de l’Ile de la Réunion. XVIII Les Sistotremateae. Cryptogamie
+Mycologie 15: 133−139.
+Boidin, J. & Gilles, G. (1994b) Contribution à la connaissance des corticiés à basides urniformes ou suburniformes
+(Basidiomycotina). Bulletin de la Société Mycologique de France 110: 185−229.
+Dai, Y.-Ch., Wei, Y.-L. & Zhang, X.-Q. (2004) An annotated checklist of non-poroid Aphyllophorales in China. Annales
+Botanici Fennici 41: 233−247.
+Eriksson, J. (1958) Studies in the Heterobasidiomycetes and Homobasidiomycetes⎯Aphyllophorales of Muddus National Park
+in North Sweden. Symbolae Botanicae Upsaliensis 16(1): 1−172.
+Eriksson, J., Hjortstam, K. & Ryvarden, L. (1984) The Corticiaceae of North Europe. Vol. 7. Fungiflora, Oslo, 208 pp.
+Gardes, M. & Bruns, T.D. (1993) ITS primers with enhanced specificity for Basidiomycetes - applications to the identification
+of mycorrhizae and rusts. Molecular Ecology 1: 113−118.
+
+SISTOTREMASTRUM CHILENSIS, A NEW SPECIES FROM PATAGONIA
+
+Phytotaxa 158 (1) © 2014 Magnolia Press
+
+• 97
+
+http://doi:10.1111/j.13625-294X.1993.tb00005.x
+Ghobad-Nejhad, M., Hallenberg, N., Parmasto, E., Kotiranta, H. (2009) A first annotated checklist of corticioid and polypore
+basidiomycetes of the Caucasus region. Mycologia Balcanica 6: 123−168.
+Ghobad-Nejhad, M. (2011) Updated checklist of corticioid and poroid basidiomycetes of the Caucasus region. Mycotaxon 117:
+508.
+Ghobad-Nejhad, M. & Hallenberg N. (2012) Checklist of Iranian non-gilled/non-gasteroid hymenomycetes
+(Agaricomycotina). Mycotaxon 119: 494.
+Ginns, J. & Lefebvre, M.N.L. (1993) Lignicolous corticioid fungi (Basidiomycota) of North America. Systematics,
+distribution, and ecology. Mycological Memoirs 19: 1−247.
+Gorjón, S.P. & Hallenberg, N. (2013). Some new species and a first checklist of corticioid fungi (Basidiomycota) from Chile.
+Mycological Progress 12: 185−192.
+http://doi:10.1007/s11557-012-0824-z
+Greslebin, A.G. (2001) Sistotremateae (Corticiaceae, Aphyllophorales) of the Patagonian Andes Forest of Argentina.
+Mycological Research 105: 1392−1396.
+Greslebin, A.G. & Rajchenberg M. (2003) Diversity of Corticiaceae sens. lat. in Patagonia, Southern Argentina. New Zealand
+Journal of Botany 41: 437−446.
+Hallenberg, N. (1978) Wood-Fungi (Corticiaceae, Coniophoraceae, Lachnocladiaceae, Thelephoraceae) in N. Iran I. Iran
+Journal Plant Pathology 14: 38−87.
+Hjortstam, K. & Bononi, V.L.R. (1987) A contribution to the knowledge of Corticiaceae s.l. (Aphyllophorales) in Brazil.
+Mycotaxon 28: 1−15.
+Hjortstam, K. & Ryvarden L. (1997) Corticioid species (Basidiomycotina, Aphyllophorales) from Colombia collected by Leif
+Ryvarden. Mycotaxon 64: 229−241.
+Hjortstam, K. & Ryvarden L. (2007) Checklist of corticioid fungi (Basidiomycotina) from tropics, subtropics and southern
+hemisphere. Synopsis Fungorum 22: 27−146.
+Höhnel, F. & Litschauer, V. (1908) Beiträge zur Kenntnis der Corticieen: III. Sitzungsberichte der Kaiserlichen Akademie der
+Wissenschaften Math.-naturw. Klasse Abt. I 117: 1081−1124.
+Kotiranta, H. & Saarenoksa, R. (1990) Reports of Finnish corticolous Aphyllophorales (Basidiomycetes). Karstenia 30: 43−69.
+Maekawa, N. (1993) Taxonomic study of Japanese Corticiaceae (Aphyllophorales). I. Reports of the Tottori Mycological
+Institute 31: 1−149.
+Martín, M.P. & Winka, K. (2000) Alternative methods of extracting and amplifying DNA from lichens. Lichenologist 32: 189−
+196.
+http:// doi:10.1006/lich.1999.0254
+Swofford, DL. (2003) PAUP* Phylogenetic analysis using parsimony (*and other methods). Version 4. Sinauer Associates,
+Sunderland, Massachusetts.
+Telleria, M.T., Melo, I., Dueñas, M., Salcedo, I., Cardoso, J., Rodríguez-Armas, J.L. & Beltrán-Tejera E. (2008) Corticioid
+fungi (Basidiomycota) from the Madeira Island. Mycotaxon 106: 419−422.
+Telleria, M.T., Melo, I., Dueñas, M., Rodríguez-Armas J.L., Beltrán-Tejera, E., Cardoso, J. & Salcedo, I. (2009) Diversity and
+richness of corticioid fungi (Basidiomycota) on Azores Islands: a preliminary survey. Nova Hedwigia 88: 285−308.
+Telleria, M.T., Melo, I., Dueñas, M., Salcedo, I., Beltrán-Tejera, E., Rodríguez-Armas, J.L. & Martín, M.P. (2013)
+Sistotremastrum guttuliferum: a new species from the Macaronesian islands. Mycological Progress 12: 687–692.
+http://doi:10.1007/s11557-012-0876-0
+White, T.J., Bruns, T. & Taylor, J. (1990) Amplification and direct sequencing of fungal ribosomal RNA genes for
+phylogenetics. In: Innes, M.A., Gelfand, D.H., Sninsky, J.J. & White, T.J. (eds.) PCR protocols. A guide to methods and
+applications. Academic Press, Inc, San Diego, California, pp. 315−322.
+Winka, K., Ahlberg, C. & Eriksson, O.E. (1998) Are there lichenized Ostropales? Lichenologist 30: 455−462.
+http:// doi:10.1006/lich.1998.0142
+
+98 •
+
+Phytotaxa 158 (1) © 2014 Magnolia Press
+
+TELLERIA ET AL.
+
+

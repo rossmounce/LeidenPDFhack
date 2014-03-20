@@ -1,0 +1,495 @@
+Phytotaxa 145 (1): 27–37 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.145.1.3
+
+Begonia tandangii (Begoniaceae, section Baryandra), a new species from Luzon
+Island, the Philippines
+KOH NAKAMURA 1, ROSARIO RIVERA RUBITE2, 3 , YOSHIKO KONO1, JOHN REY CALLADO3 &
+CHING-I PENG1
+1
+
+Biodiversity Research Center, Academia Sinica, Taipei 11542, Taiwan; kohnakamur@gmail.com, bopeng@sinica.edu.tw
+University of the Philippines Manila, Department of Biology, College of Arts and Sciences, Padre Faura, Manila
+3
+Philippine National Herbarium, National Museum, Padre Burgos, Manila, Philippines
+2
+
+Abstract
+We describe Begonia tandangii, a new species of Begonia sect. Baryandra from the Sierra Madre Mountain Range of
+Luzon Island, the Philippines. Begonia tandangii has a close resemblance to B. fenicis in gross morphology, differing in
+having leaf margin sparsely fringed with minute hairs (vs. glabrous or with minute hairs only on teeth) and capsules with
+broadly-ovate outline and an acuminate apex (vs. capsules with broadly-obovate outline and a rounded to truncate apex).
+Phylogenetic analyses of Philippines species of sect. Baryandra based on ITS sequences revealed that B. tandangii was
+clearly separated from B. fenicis. Begonia tandangii is currently known only from the type locality in a coastal forest of
+Baler, Aurora Province, which is in the neighborhood of Aurora Memorial National Park.
+Key words: Begonia, Begoniaceae, ITS phylogeny, Philippines, sect. Baryandra, sect. Diploclinium, Sierra Madre
+Mountain Range
+
+Introduction
+The genus Begonia Linnaeus (1753: 1056), (Begoniaceae, e.g., Doorenbos et al. 1998) comprises more than
+1,500 species (Kiew 2005, Tebbitt 2005). The Philippines, where more than 100 species are recorded
+(Golding & Wasshausen 2002), is one of the centers of Begonia species diversity in the world (Rubite 2012).
+Philippine begonias are assignable to three sections, namely, sect. Baryandra A. de Candolle (1859: 122),
+sect. Petermannia (Klotzsch 1855: 74) A. de Candolle (1859: 128), and sect. Platycentrum (Klotzsch 1855:
+123) A. de Candolle (1859: 134) (Rubite 2012, Rubite et al. 2013). Begonia sect. Baryandra includes ca. 50
+species, having its center of diversity in the Philippines but also with a few species in Borneo and New Guinea
+(Rubite et al. 2013). The section, comprising species previously included in sect. Diploclinium (Lindley ex. R.
+Wight 1852: 9) A. de Candolle (1859: 129), has recently been revised (Hughes 2008, Rubite & Madulid 2009,
+Hughes et al. 2010, 2011, Rubite 2012, Rubite et al. 2013). However, further field survey in the Philippines
+may discover new species because Begonia species generally have narrow distribution ranges and the
+Philippines has not been botanically fully explored (Rubite & Madulid 2009).
+The Sierra Madre is a chain of mountains in the eastern coast of north and central Luzon Island (14°–19°
+N; Fig. 1), where the largest contiguous forest in the Philippines is found. In the south-central part of the
+mountain range, we discovered an unknown Begonia which resembles B. fenicis Merrill (1908: 421) of sect.
+Baryandra in gross morphology, green (neither purple-brown nor purplish-red) and non-peltate leaves, and
+five-tepalled pistillate flowers. Begonia fenicis has been reported from islets north of Luzon Island but not
+from Luzon Island (Merrill 1908, Hatusima 1975, Chen 1993). Basing on detailed morphological and
+molecular phylogenetic analyses, we confirmed that the unknown Begonia is a new species of sect.
+Baryandra, which is named Begonia tandangii C.-I Peng & R.Rubite (below).
+
+Accepted by Manuel Belgrano: 6 Oct. 2013; published: 11 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+27
+
+FIGURE 1. Map of Luzon Island indicating Baler of Aurora Province, the type locality of Begonia tandangii.
+
+Materials and Methods
+Morphological study
+Four plants of Begonia tandangii (Ching-I Peng 23400, HAST) were studied. For comparison, specimens
+of B. fenicis in PNH and HAST were examined (Appendix 1); these specimens covered the entire range of B.
+fenicis and included an isolectotype (E. Fénix, Bur. Sci. 3619, PNH) and isosyntypes (E.A. Mearns, Bur. Sci.
+3207, PNH; E. Fénix, Bur. Sci. 3893, PNH) (Merrill 1912 [1911]).
+Molecular analyses
+Total genomic DNA was extracted from four plants of B. tandangii (Ching-I Peng 23400, HAST) using
+fresh leaves following the method of Murray & Thompson (1980). ITS region (including ITS1 and ITS2 spacer
+regions and the 5.8S rRNA gene) was amplified using PCR. PCR was performed in 25 µl total volume with the
+following reagents: about 10 ng of genomic DNA, 1 unit of Taq DNA polymerase master mix (Ampliqon,
+Rødovre, Denmark), 0.4 μM of each primer, and 2% DMSO. The primers ITS1 and ITS4 (White et al. 1990)
+were used, with the PCR cycle condition 95°C for 5 min, 1 cycle of 97°C for 2 min, 50°C for 1 min, 72°C for 1
+min, 25 cycles of 95°C for 1 min, 50°C for 2 min, 72°C for 3 min, and 72°C for 10 min. The PCR fragments
+were used as templates for cycle sequencing reactions with the same primers used in the PCR, and direct
+sequencing was performed on an ABI Prism 3730 DNA analyzer (Applied Biosystems, Foster City, CA, USA).
+The four samples had identical ITS sequence, and thus one accession was used for B. tandangii in the following
+analyses. The sequence was deposited in the DDBJ (DNA Data Bank of Japan) databases (since 1983).
+
+28 •
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+NAKAMURA ET AL.
+
+To test the phylogenetic distinction of B. tandangii, we incorporated 21 out of 55 species of sect.
+Baryandra (including B. fenicis) in phylogenetic analyses: 19 from the Philippines and 2 from Borneo
+(Appendix 2). ITS data for these species were reported in a preceding molecular study of sect. Baryandra
+(Rubite et al. 2013). For outgroups, three species of sect. Reichenheimea (Klotzsch 1855: 54) A. de Candolle
+(1864: 385) were used (Appendix 2), following the result of Rubite et al. (2013). DNA sequences were
+aligned using ClustalX ver. 1.8 (Thompson et al. 1997) and then manually adjusted. Phylogenetic analyses
+were based on a Bayesian approach using MrBayes ver. 3.1.2 (Ronquist & Huelsenbeck 2003) and a
+maximum parsimony (MP) criterion using PAUP* ver. 4.0b10 (Swofford 2002).
+In the Bayesian phylogenetic analysis, the substitution model for the ITS data was selected using
+KAKUSAN4 (Tanabe 2011) based on Bayesian information criterion (BIC). Two separate runs of Metropolis
+coupled Markov chain Monte Carlo (MCMCMC) analyses were performed, each with a random starting tree
+and four chains (one cold and three heated). The MCMCMC length was three million generations, and the
+chain was sampled every one hundredth generation from the cold chain. The mixing and convergence of the
+MCMC chains of the two runs was assessed by inspection of the trace plots of parameters using Tracer ver.
+1.5.0 (Drummond & Rambaut 2007); the first 3000 sample trees (10% of the total 30,000 sample trees) were
+discarded as burn-in. After the burn-in, the effective sample sizes (ESS) of all parameters were > 200,
+indicating that the analyses sampled the posterior distributions of each parameter satisfactorily, and the values
+of Average Standard Deviation of Split Frequency (ASDSF) were below 0.005. The 50% majority rule
+consensus tree and Bayesian posterior probabilities (PP) of all the post-burn-in trees was generated using
+TreeView ver. 1.6.6 (Page 1996).
+In the MP phylogenetic analysis, indels were treated as missing data. The characters were treated as
+unordered, and the character transformations were equally weighted. The branch collapse option was set to
+collapse at a minimum length of zero. A heuristic parsimony search was performed with 200 replicates of
+random additions of sequences with ACCTRAN character optimization, tree bisection–reconnection (TBR)
+branch swapping, and MULTREES and STEEPEST DESCENT options on. Statistical support for each clade
+was assessed by bootstrap analysis (Felsenstein 1985). Ten thousand replicates of heuristic searches, with the
+TBR branch swapping switched on and MULTREES options off, were performed to calculate bootstrap
+percentages (BP).
+Chromosome Cytology
+Somatic chromosome morphology was studied for two plants of B. tandangii (Ching-I Peng 23400,
+HAST) and three plants of B. fenicis (the Philippines, Lutao Island, Niutoushan, Koh Nakamura 20101493;
+Taiwan, Lanyu Island, Zhonghenggonglu, Koh Nakamura 20101366; Japan, Iriomote Island, Hinai River,
+Koh Nakamura 20100209, HAST). The procedures of pretreatment, fixation and staining for chromosome
+observations followed Peng et al. (2012).
+
+Results
+Morphological study
+Detailed morphological comparison between Begonia tandangii and B. fenicis found salient characters to
+distinguish them. In Begonia tandangii, leaf margin was sparsely fringed with minute hairs less than 1 mm
+long; capsules were broadly ovate in outline, with an acuminate apex (Fig. 2 & 3). On the other hand, in B.
+fenicis, leaf margin was glabrous or had minute hairs only on teeth; capsules were broadly obovate in outline,
+with a rounded to truncate apex (Fig. 4). In other features, these two species were not clearly distinguished
+because character states/values in B. tandangii were within variation ranges of those in B. fenicis.
+
+BEGONIA TANDANGII, A NEW SPECIES FROM LUZON ISLAND
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+• 29
+
+FIGURE 2. Begonia tandangii. A. Habitat. B. Habit. C. Rhizome. D. Stipule. E. Leaf, adaxial view. F. Leaf margin sparsely fringed
+with minute hairs. G. Bracts. H. Staminate flower. I. Pistillate flower, ventral view. J. Pistillate flower, lateral view. K. Transverse
+section of developing capsule. L. Capsule with persistent tepals. Scale bars are 5 cm for B, 5 mm for C–D and F–L, 10 mm for E. [All
+photos from Ching-I Peng 23400 (HAST)]
+
+30 •
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+NAKAMURA ET AL.
+
+FIGURE 3. Begonia tandangii. A. Habit. B. Stipule. C. Leaf margin sparsely fringed with minute hairs. D. Bracts. E. Staminate
+flower. F. Stamens. G. Pistillate flower, ventral view. H. Pistillate flower, lateral view. I. Styles and stigmas. J. Transverse section of
+developing capsule. K. Capsule with persistent tepals. All drawn from Ching-I Peng 23400 (HAST) by Chien-Yu Ke.
+
+BEGONIA TANDANGII, A NEW SPECIES FROM LUZON ISLAND
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+• 31
+
+FIGURE 4. Begonia fenicis. A. Habit. B. Glabrous leaf margin. C. Capsule. Scale bars are 5 cm for A, 5 mm for B and C. [A from
+Koh Nakamura 11969 (HAST); B from Koh Nakamura 20101477 (HAST); C from Koh Nakamura 11754 (HAST)]
+
+Phylogenetic relationships based on ITS
+The aligned length of the ITS data was 842 bp. 275 nucleotide substitutions were found in 192 variable
+sites and 130 sites were parsimony informative among them. In the Bayesian analysis, the BIC selected the
+GTR+G substitution model. The 50% majority rule consensus tree with mean branch length of all the postburn-in trees is depicted (Fig 5). The MP analysis yielded 7 equally parsimonious trees of 761 steps with a
+consistency index (CI) = 0.656, a retention index (RI) = 0.712, and a rescaled consistency index (RC) = 0.467.
+The topology of the MP strict consensus tree (not shown) was the same as that of the Bayesian tree, except the
+three nodes which collapsed in the MP tree (BP < 50). BPs are plotted on the Bayesian tree. Begonia
+tandangii resided in a well-supported clade (PP = 0.97 / BP = 97.9) with B. chloroneura P.Wilkie & Sands
+(1999: 132), B. fenicis, B. hernandioides Merrill (1912 [1911]: 392) and B. tayabensis Merrill (1918: 38). In
+this clade, B. tandangii and B. fenicis were clearly separated because B. fenicis formed a terminal clade with
+B. hernandioides (PP = 0.97 / BP = 71.9), which clade was connected with B. chloroneura (PP = 0.99 / BP =
+78.3).
+
+Chromosome Cytology
+Somatic chromosomes at metaphase of Begonia tandangii were determined to be 2n = 28 in the two plants
+(Fig. 6A), and those of B. fenicis were also determined to be 2n = 28 in the three plants (Fig. 6B). The 28
+chromosomes gradually varied in length from ca. 0.9 to 1.3 μm in B. tandangii, and from ca. 1.1 to 1.7 μm in
+B. fenicis. The centromere positions could not be determined due to the small size of the chromosomes. This
+result differs from a previous report of the chromosome number of B. fenicis (2n = 26; Oginuma & Peng
+2002). Our study revealed that B. tandangii and B. fenicis had the same chromosome number and were
+karyologically indistinguishable.
+
+32 •
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+NAKAMURA ET AL.
+
+B. forbesii
+B. foxworthyii
+B. tigrina
+B. oxysperma
+B. calcicola
+B. klemmei
+B. elmeri
+
+1
+99.9
+1
+81.1
+
+0.6
+< 50
+
+0.97
+70.6
+
+0.82
+< 50
+
+1
+100
+
+1
+99.9
+
+0.51
+< 50
+
+1
+69.0
+
+0.03
+
+1
+99.4
+1
+75.6
+
+B. coronensis
+B. rufipila
+B. manillensis
+B. tayabensis
+0.97
+B. tandangii
+1
+97.9
+B. chloroneura
+95.7
+B. fenicis
+0.99
+78.3 0.97
+B. hernandioides
+71.9
+1
+B. suborbiculata
+100
+B. anisoptera
+1
+B. cleopatrae
+100
+B. gueritziana
+B. rubrifolia
+B. acuminatissima
+B. wadei
+0.98
+B. mindorensis
+98.6 1
+B. rhombicarpa
+80.6 1
+B. subnummularifolia
+85.3
+1
+100
+
+1
+99.5
+
+FIGURE 5. Bayesian majority-rule consensus tree with mean branch length based on ITS for Begonia sect. Baryandra. The numerals
+on branches are Bayesian posterior probabilities (PP: upper) and bootstrap percentages (BP: lower) in the MP analysis. The topology
+of the MP strict consensus tree (not shown) was the same as that of the Bayesian tree, except the three nodes which collapsed in the
+MP tree (BP < 50).
+
+FIGURE 6. Somatic chromosomes at metaphase of Begonia tandangii (A, 2n = 28: Ching-I Peng 23400) and B. fenicis (B, 2n = 28:
+Koh Nakamura 20100209).
+
+Discussion
+The results of the morphological and molecular analyses support the taxonomic treatment of Begonia
+tandangii as a new species of sect. Baryandra. The phylogenetic analyses indicated that this new species is
+allied to the species found in Luzon Island (B. chloroneura in Isabela, B. hernandioides in Ilocos Norte, and
+
+BEGONIA TANDANGII, A NEW SPECIES FROM LUZON ISLAND
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+• 33
+
+B. tayabensis in Laguna; Rubite 2010) and the northern islands (B. fenicis in Batan and Babuyan island groups
+of the Philippines, Lanyu and Lutao islands of Taiwan, and Yonaguni and Iriomote islands of Japan; Merrill
+1908, Hatusima 1975, Chen 1993). Begonia tandangii and these four species share a noticeable
+morphological characteristic of five-tepalled pistillate flowers, while other species of sect. Baryandra have
+four-tepalled pistillate flowers (Hughes et al. 2010, Rubite et al. 2013).
+
+Taxonomic Treatment
+Begonia tandangii C.-I Peng & R.Rubite, sp. nov. (Fig. 2 & 3)
+Begonia tandangii resembles B. fenicis in gross morphology, differing from the latter in having leaf margin sparsely
+fringed with minute hairs (vs. glabrous or with minute hairs only on teeth) and capsules with broadly-ovate outline,
+acuminate apex, and rounded base (vs. capsules with broadly-obovate outline, rounded to truncate apex, and
+rounded base).
+Type:––PHILIPPINES. Luzon Island, Aurora Province, Baler, Barangay Zabali, elev. ca. 10 m, E121° 33' 1", N15° 45'
+16", 27 October 2011, Ching-I Peng 23400 (holotype HAST).
+
+Monoecious perennial herbs, rhizomatous. Stems pink when young, green when mature, prostrate, to 1 cm in
+diameter, internodes 5–13 mm. Stipules pink to green, caducous, ovate to triangular, 1.2–2.5 × 0.8–1.2 cm,
+adaxially glabrous, abaxially sparsely puberulous with minute hairs, with a prominent keel, apex cuspidate.
+Leaves basal, alternate; petiole pink, 8.5–20 cm × 5 mm, erect, terete, succulent, glabrous to remotely
+puberulous; blade green, obliquely ovate to orbicular, 8.4–12.5 × 6.8–10.5 cm, adaxially glabrous, abaxially
+glabrous or sparsely puberulous with fine hairs, venation palmate, 8–10-veined, base oblique, cordate, basal
+lobes rounded, sinus narrow, apex mucronate to acuminate, margin with sparse minute hairs less than 1 mm
+long and irregularly denticulate, teeth small, apiculate. Inflorescences axillary, arising directly from rhizome,
+dichasial cymes; peduncle green, basally pink, 18–24 cm long, glabrous; bracts caducous, orbicular to oblate,
+4–6 × 6–10 mm, glabrous, margin entire and often reflexed, apex obtuse to apiculate. Staminate flowers:
+pedicel ca. 1.5 cm, glabrous or sparsely puberulous with fine hairs; tepals 4, pinkish white, outer 2 obovate to
+orbicular, 10–13 × 8–12 mm, inner 2 oblanceolate to narrowly obovate, 7–10 × 3–5 mm; stamens ca. 30;
+filaments ca. 1.5 mm long, united at base; anthers broadly obovate, ca. 1.0 mm long, apex obtuse. Pistillate
+flowers: pedicel 1.5–2 cm, glabrous or sparsely puberulous with fine hairs; tepals 5, pinkish white, sometimes
+persistent when fruiting, oblanceolate to broadly obovate, outer pair orbicular 10–11 × 8 mm, inner three 10–
+11 × 5–8 mm; ovary green, glabrous, 3-loculed; placentae axile, bilamellate; styles 3, fused at base, ca. 3 mm
+long; stigmas 2-cleft, spiraled. Capsules nodding, brown, glabrous, 4–5 × 10–11 mm (excluding wings),
+broadly ovate in outline, apex acuminate, base rounded; unequally 3-winged; abaxial wing lunate, 3–5 × 10–
+11 mm; lateral wings lunate, 1–2 × 10–11 mm. Somatic chromosome number, 2n = 28 (Fig. 6).
+Distribution, habitat and ecology:—Begonia tandangii is currently known only from the type locality.
+The species grows on limestone rocks in semi-shaded hill of broadleaf forest at seashore and only a patch of a
+few square meters was observed. The species was flowering and fruiting when collected in late October. In
+cultivation in the greenhouse of Academia Sinica in Taipei, Taiwan, it flowered and fruited from July to
+December.
+Etymology:—The species epithet is named after Mr. Danilo N. Tandang, Philippine National Herbarium,
+who guided us to the type locality.
+Note:—Begonia tandangii resembles B. fenicis in gross morphology but they are distinguished basing on
+hairs on leaf margin and capsule shape, as described above. The ITS phylogeny clearly separated the two
+species. The two species are allopatric.
+IUCN Red list category:—Vulnerable (VU D2). Begonia tandangii is known only from the type locality
+in Baler, Aurora Province. Although it is in the neighborhood of Aurora Memorial National Park, the type
+locality is not under any protection. Habitat disturbance brought about by timber harvesting and rapid
+development of Aurora Province may have a negative impact on the survival of the species.
+
+34 •
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+NAKAMURA ET AL.
+
+Acknowledgements
+We thank Mark Hughes for providing us ITS sequences used in his paper in press, Chien-I Huang for field
+assistance and Chiun-Jr Huang for assistance in field collection and molecular experiments, Chien-Yu Ke for
+the fine drawing, the curators and staff of the herbaria HAST and PNH for allowing us to use their specimens
+and plant databases, and our lab members for assistance in cultivation of plant materials in the experimental
+greenhouse. This study was supported in part by a postdoctoral fellowship from Academia Sinica, Taiwan to
+K.N. and research grants from National Science Council (NSC 198-2811-B-001-090-) and Academia Sinica
+to C.I P.
+
+References
+Chen, C.-H. (1993) Begoniaceae. In: Editorial Committee of the Flora of Taiwan, Second Edition (ed.) Flora of Taiwan,
+2nd edn, Vol. 3. Editorial Committee of the Flora of Taiwan, Second Edition, Taipei, pp. 845–854.
+DDBJ (since 1983) DNA Data of Bank of Japan, National Institute of Genetics, Japan, Mishima. Available from: http://
+www.ddbj.nig.ac.jp/ (accessed: 21 June 2013).
+de Candolle, A. (1859) Mémoire sur la famille des Bégoniacées. Annales des Sciences Naturelles. Botanique. Ser. 4 11:
+93–149.
+de Candolle, A. (1864) Begoniaceae. Prodromus systematis naturalis regni vegetabilis 15(1): 266–408. Victoris Masson
+et filii, Parisiis.
+Doorenbos, J.M., Sosef, M.S. & de Wilde, J.J.F.E. (1998) The sections of Begonia including descriptions, keys and
+species lists. Studies in Begoniaceae VI. Wageningen Agricultural University Papers 98(2): 1–266. Wageningen:
+Wageningen Agricultural University.
+Drummond, A.J. & Rambaut, A. (2007) BEAST: Bayesian evolutionary analysis by sampling trees. BMC Evolutionary
+Biology 7: 214.
+http://dx.doi.org/10.1186/1471-2148-7-214
+Felsenstein, J. (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39: 783–791.
+http://dx.doi.org/10.2307/2408678
+Golding, J. & Wasshausen, D.C. (2002) Begoniaceae, ed. 2. Contributions from the United States National Herbarium
+43: 1–289.
+Hatusima, S. (1975) Flora of the Ryukyus (added and corrected). Okinawa Association of Biology Education, Naha,
+1002 pp.
+Hughes, M. (2008) An Annotated Checklist of Southeast Asian Begonia. Royal Botanic Garden Edinburgh, Edinburgh,
+64 pp.
+Hughes, M., Coyle, C. & Rubite, R.R. (2010) A revision of Begonia section Diploclinium (Begoniaceae) on the
+Philippine island of Palawan, including five new species. Edinburgh Journal of Botany 67: 123–140.
+Hughes, M., Rubite, R.R., Kono, Y. & Peng, C.-I. (2011) Begonia blancii (sect. Diploclinium, Begoniaceae), a new
+species endemic to the Philippine island of Palawan. Botanical Studies 52: 203–209.
+Kiew, R. (2005) Begonias of Peninsular Malaysia. Kota Kinabalu: National History Publications, Borneo, 308 pp.
+Klotzsch, J.F. (1855) Begoniaceen-Gattungen und Arten. Abhandlungen der Königlichen Akademie der Wissenschaften,
+Berlin, 135 pp. + 12 plates.
+Linnaeus, C. (1753) Begoniaceae. Species plantarum 2: 1056. Laurentius Salvius, Stockholm.
+Merrill, E.D. (1908) On a collection of plants from the Batanes and Babuyanes Islands. Philippine Journal of Science,
+section C, Botany 3: 385–442.
+Merrill, E.D. (1912 [1911]) The Philippine species of Begonia. Philippine Journal of Science, section C, Botany 6: 369–
+406.
+Merrill, E.D. (1918) New or noteworthy Philippine plants, XIII. Philippine Journal of Science, section C, Botany 13: 1–
+66.
+Murray, M. & Thompson, W.F. (1980) Rapid isolation of high molecular weight plant DNA. Nucleic Acids Research 8:
+4321–4326.
+http://dx.doi.org/10.1093/nar/8.19.4321
+Oginuma, K. & Peng, C.-I. (2002) Karyomorphology of Taiwanese Begonia (Begoniaceae): taxonomic implications.
+Journal of Plant Research 115: 225–235.
+http://dx.doi.org/10.1007/s102650200028
+Page, R.D.M (1996) TreeView: An application to display phylogenetic trees on personal computers. Computer
+
+BEGONIA TANDANGII, A NEW SPECIES FROM LUZON ISLAND
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+• 35
+
+Applications in the Bioscience 12: 357–358.
+http://dx.doi.org/10.1093/bioinformatics/12.4.357
+Peng, C.-I, Ku, S.-M., Kono, Y. & Liu, Y. (2012) Begonia chongzuoensis (sect. Coelocentrum, Begoniaceae), a new
+calciphile from Guangxi, China. Botanical Studies 53: 283–290.
+Ronquist, F. & Huelsenbeck, J.P. (2003) MrBayes 3: Bayesian phylogenetic inference under mixed models.
+Bioinformatics 19: 1572–1574.
+http://dx.doi.org/10.1093/bioinformatics/btg180
+Rubite, R.R. (2010) Systematic studies on Philippine Begonia L. section Diploclinium (Lindl.) A.DC. (Begoniaceae). De
+La Salle University, Manila, 321 pp.
+Rubite, R.R. (2012) Delimitation of Begonia L. sections Diploclinium and Baryandra (Begoniaceae) in the Philippines.
+Asia Life Sciences 21: 363–373.
+Rubite, R.R. & Madulid, D.A. (2009) The discovery of Philippine Begonias. Blumea 54: 267–268.
+http://dx.doi.org/10.3767/000651909x476256
+Rubite, R.R., Hughes, M., Alejandro, G.J.D. & Peng, C.-I. (2013) Recircumscription of Begonia sect. Baryandra
+(Begoniaceae): evidence from molecular data. Botanical Studies 54: 38.
+http://dx.doi.org/10.1186/1999-3110-54-38
+Swofford, D.L. (2002) PAUP: phylogenetic analysis using parsimony, version 4.0b10. Sinauer Associates, Sunderland.
+Tanabe, A.S. (2011) Kakusan4 and Aminosan: two programs for comparing nonpartitioned, proportional and separate
+models for combined molecular phylogenetic analyses of multilocus sequence data. Molecular Ecology Resources
+11: 914–921.
+http://dx.doi.org/10.1111/j.1755-0998.2011.03021.x
+Thompson, J.D., Gibson, T.J., Plewniak, F., Jeanmougin, F. & Higgins, D.G. (1997) The ClustalX windows interface:
+flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research 24:
+4876–4882.
+http://dx.doi.org/10.1093/nar/25.24.4876
+Tebbitt, M.C. (2005) Begonia: cultivation, identification, and natural history. Timber Press, Portland, 272 pp.
+White, T.J., Bruns, T., Lee, A. & Tayler, J. (1990) Amplification and direct sequencing of fungal ribosomal RNA genes
+for phylogenetics. In: Innis, M., Gelfand., D., Sninsky, J. & White, T. (eds.) PCR protocols: a guide to methods and
+application. Academia Press, San Diego, pp. 315–322.
+Wight, R. (1852) Icones plantarum Indiae Orientalis. Franck & Co., Madras, 35 pp. + 299 plates.
+Wilkie, P., Sands, M.J.S. & Mendum, M. (1999) Begonia chloroneura (Begoniaceae): a new species from the Philippine
+island of Luzon. The New Plantsman 6(3): 132–138.
+
+36 •
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+NAKAMURA ET AL.
+
+Appendix 1. Begonia fenicis specimens examined for morphological comparison with B. tandangii.
+PHILIPPINES. Babuyan Island: 17 June 1907, E. Fénix, Bur. Sci. 3893 (PNH). Batan Island: Santo Domingo
+de Basco, 27 May 1907, E.A. Mearns, Bur. Sci. 3207 (PNH); Santo Domingo de Basco, 30 May 1907, E.
+Fénix, Bur. Sci. 3619 (PNH); Mt. Iraya, 17 December 2011, Koh Nakamura 11969 (HAST); Mahatao, 18
+December 2011, Koh Nakamura 11773 (HAST); Diura, 18 December 2011, Koh Nakamura 11720, 11725,
+11754 (HAST). Sabtang Island: Sinakan, 19 December 2011, Koh Nakamura 11968 (HAST). TAIWAN.
+Lanyu Island: Tienchi, 1 April 1985, T. Y. Aleck Yang 1489 (HAST); Hongtou Village to Lungtouyen, 7 April
+1987, Ching-I Peng 10779 (HAST); subridge of Mt. Tasenshan, 7 April 1987, Ching-I Peng 10794 (HAST);
+2.0 km west of Lang Tao village, 13 March 1992, T. G. Lammers 8529 (HAST); Bridge Chungaichiao, 23
+April 1997, T. Y. Aleck Yang 8032 (HAST); Langtao Village, 21 May 1998, T. Y. Aleck Yang 10414 (HAST);
+entrance of hiking trail to Tienchih, 4 June 2001, Ya-Yi Huang 473 (HAST); Hsiaotienchih, 5 June 2001, Ya-Yi
+Huang 488 (HAST); Yujenhsi, 5 June 2001, Ya-Yi Huang 508 (HAST); Hongtouhsi, 14 October 2001, WaiChao Leong 2522 (HAST); Yunghsing Farm, 9 August 2002, Wai-Chao Leong 3306 (HAST); entrance of
+Chungheng Road, 9 August 2002, Wai-Chao Leong 3308 (HAST); near Chunchianyen, 9 August 2002, WaiChao Leong 3311 (HAST); Langtao-Yunuyen, 9 August 2002, Wai-Chao Leong 3312 (HAST); en route from
+Yehyuhsi, 11 August 2002, Wai-Chao Leong 3326 (HAST); Yujenhsi, 12 August 2002, Wai-Chao Leong 3331
+(HAST); Yujenhsi, 12 August 2002, Wai-Chao Leong 3336 (HAST); Longmen, 12 October 2010, Koh
+Nakamura 20101300, 20101301, 20101303–20101306 (HAST); Shuangshiyan, 12 October 2010, Koh
+Nakamura 20101279, 20101281, 20101282 (HAST); Wukongdong, 13 October 2010, Koh Nakamura
+20101470, 20101471, 20101475–20101477 (HAST); Zhongaiqiao, 13 October 2010, Koh Nakamura
+20101506, 20101507 (HAST); Zhonghenggonglu, 13 October 2010, Koh Nakamura 20101365, 20101366
+(HAST). Lutao Island: Tapaisha, 9 October 2001, Ya-Yi Huang 803 (HAST); Kuanyintung to Haisenping, 9
+October 2001, Ya-Yi Huang 796 (HAST); 7.5 km road marker, 7 August 2002, Wai-Chao Leong 3293
+(HAST); Tapaisha, 7 August 2002, Wai-Chao Leong 3282 (HAST); Dabaisha, 14 October 2010, Koh
+Nakamura 20101504 (HAST); Niutoushan, 15 October 2010, Koh Nakamura 20101491, 20101497 (HAST);
+Fudidongtian, 15 October 2010, Koh Nakamura 20101487 (HAST). JAPAN. Iriomote Island: Shirahama, 22
+March 2010, Koh Nakamura 20100159, 20100160 (HAST); Hinai River, 23 March 2010, Koh Nakamura
+20100196, 20100207–20100209 (HAST). Yonaguni Island: Mt. Kubura, 24 March 2010, Ching-I Peng 18366
+(HAST).
+
+Appendix 2. Begonia species included in the molecular phylogenetic analyses. GenBank accession
+numbers of the ITS sequences are shown.
+Sect. Baryandra—B. acuminatissima Merr., JX656721 (as B. camiguinensis Elmer); B. anisoptera Merrill,
+X656720; B. calcicola Merrill, JX656708; B. chloroneura P.Wilkie & Sands, AF485134; B. cleopatrae
+C.Coyle, AF485133; B. coronensis Merrill, JX656715; B. elmeri Merrill, JX656714; B. fenicis Merrill,
+JX678218; B. gueritziana Gibbs, JX678217; B. hernandioides Merrill, JX656707; B. klemmei Merrill,
+JX656709; B. manillensis A. de Candolle, JX656713; B. mindorensis Merrill, JX656717; B. oxysperma A. de
+Candolle, JX656710; B. rhombicarpa A. de Candolle, JX656719; B. rubrifolia Merrill, JX656711; B. rufipila
+Merrill, JX656712; B. subnummularifolia Merrill, JX656722; B. suborbiculata Merrill, JX656716; B.
+tandangii C.-I Peng & R.Rubite, AB828324; B. tayabensis Merrill, JX656718; B. wadei Merrill &
+E.Quisumbing, JX656706.
+Sect. Reichenheimea (out groups)—B. forbesii King, JX656704; B. foxworthyii Burkill & Ridley, JX656702;
+B. tigrina Kiew, JX656703.
+
+BEGONIA TANDANGII, A NEW SPECIES FROM LUZON ISLAND
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+• 37
+
+

@@ -1,0 +1,110 @@
+Phytotaxa 151 (1): 63–64 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.151.1.7
+
+Hellenia Retz., the correct name for Cheilocostus C.D.Specht (Costaceae)
+RAFAËL GOVAERTS
+H.L.A.A., Royal Botanic Gardens, Kew. Richmond TW9 3AE, U.K.
+E-mail: R.Govaerts@kew.org
+
+Abstract
+In recent years numerous authors have suggested various generic placements for the Crape Ginger but still no valid
+available name has been published. I therefore give a short overview and make the necessary combinations.
+
+Introduction
+Crape Ginger is a widespread species from tropical Asia and widely cultivated and naturalised elsewhere in
+the tropics where the rhizome is used for medicinal and cosmetic purposes. Until recently the species was
+known as Costus speciosus (Koenig 1783: 75) Smith (1791: 249). When Specht & Stevenson (2006) proposed
+to put the species in a separate genus the species became variously known as Cheilocostus speciosus
+(J.Koenig) C.D.Specht (2006: 159), “Pyxa speciosa (J.Koenig) R.M.Almeida (2009: 113),” nom. inval., and
+“Hellenia speciosa (J.Koenig) S.R.Dutta (2010: 152),” nom. inval. In total six genera and seven species
+names have been proposed for separating the Crape Ginger from the genus Costus, none of which are
+available and correct.
+When Specht & Stevenson (2006) proposed a new phylogeny-based classification of the family Costaceae
+Nakai, they published the new genus Cheilocostus C.D.Specht. As the type species they choose C. speciosus
+based on Banksea speciosa J.Koenig (1783: 75). This last name is the only and thus obligate type species for
+the genus Banksea J.Koenig (1783: 75), but as this generic name is a later parahomonym of Banksia
+J.R.Forster & G.Forster (1775: 7), to which it is sufficiently alike to be confused and should be treated as a
+homonym (Vienna ICBN Art. 53, 2006), it first appears that Cheilocostus is a replacement name for Banksea.
+However, already in 1791, Retzius had published a replacement name for Banksea, namely Hellenia Retzius
+(1791: 18). Consequently, Cheilocostus is an illegitimate superfluous name for Hellenia, which should be
+taken up for this genus. Almeida (2009) took up the generic name Pyxa Noronha for Cheilocostus. This
+generic name has however never been validly published and is listed without description by Noronha. Dutta
+(2010) stated that the name was later validated by Miquel, but he merely mentions it in synonymy under
+Costus. Dutta (2010) was however correct in recognising that Hellenia is the earliest available name.
+Unfortunately he considered the name Banksea speciosa as illegitimate, and therefore failed to cite it (see
+ICBN Art. 33, Ex. 20) as the correct basionym for his intended combination for the Crape Ginger under
+Hellenia. Art. 55.1 (ICBN, 2006) clearly states that species names placed under illegitimate generic names are
+not illegitimate themselves and therefore the name Banksea speciosa is the earliest legitimate name requiring
+transfer to Hellenia.
+Although it would be possible to conserve the name Cheilocostus, I feel it has been published too recently,
+and both Pyxa and Hellenia have been used for the genus in the meantime. I therefore propose the following
+new combinations. One other combination, H. globosa (Blume) S.R.Dutta (2010: 152), was already validly
+published by Dutta.
+
+Accepted by Benjamin vanEe: 7 Oct. 2013; published: 6 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+63
+
+Taxonomy
+Hellenia Retzius (1791: 18).
+Replaced synonyms: Banksea J.Koenig (1783: 75), nom. illeg., Tsiana J.F.Gmel. (1791: 9), nom. superfl., Planera
+Giseke (1792: 202), nom. superfl., Cheilocostus C.D.Specht (2006: 159), nom. superfl.
+Type: Banksea speciosa J.Koenig
+
+Hellenia borneensis (A.D.Poulsen) Govaerts, comb. nov.
+Basionym:—Cheilocostus borneensis A.D.Poulsen (2010: 136).
+
+Hellenia lacera (Gagnep.) Govaerts, comb. nov.
+Basionym:—Costus lacerus Gagnepain (1903: 261).
+Hellenia sopuensis (Maas & H.Maas) Govaerts, comb. nov.
+Basionym:—Costus sopuensis Maas & H.Maas, (1983: 325).
+
+Hellenia speciosa (J.Koenig) Govaerts, comb. nov.
+Basionym:—Banksea speciosa J.Koenig (1783: 75).
+
+References
+Almeida, M.R. (2009) Flora of Maharashtra 5A: 96–97. Orient Press, Mumbai.
+Dutta, S. (2010) Identity of Costus L. and comments on the identity of Costus speciosus (J.Koenig) Smith in India.
+Pleione 4: 148–154.
+Forster, J.R. & Forster, G. (1775) Characteres Generum Plantarum:quas in itinere ad insulas maris Australis,
+collegerunt, descripserunt, delinearunt, annis 1772–1775. 1–75, London.
+http://dx.doi.org/10.5962/bhl.title.4448
+Gagnepain, L.F. (1903) Zingibéracées de l’herbier du muséum (9e note). Bulletin de la Société Botanique de France: 50:
+257–266.
+Giseke, P.D. (1792) Praelectiones in Ordines Naturales Plantarum. 1–662. B.G. Hoffmann, Hamburg.
+Gmelin, J.F. (1791) Systema Naturae 2: 1–884. Georg Emanuel Beer, Leipzig.
+http://dx.doi.org/10.5962/bhl.title.545
+Koenig, J. (1783) In Retzius, A.J. (ed.), Observationes Botanicae 3: 75. Siegfried Lebrecht Crusium, Leipzig.
+http://dx.doi.org/10.5962/bhl.title.11760
+Maas, P.J.M. & Maas, H. (1983) Notes on Asiatic Costoideae (Zingiberaceae) II. A new Costus from Celebes. Notes
+from the Royal Botanic Garden, Edinburgh 41: 325–326.
+Poulsen, A.D. (2010) A new species of Costaceae from Borneo. Gardens' Bulletin. Singapore 62: 135–142.
+Retzius, A.J. (1791) Observationes Botanicae 6: 18. Siegfried Lebrecht Crusium, Leipzig.
+http://dx.doi.org/10.5962/bhl.title.11760
+Smith, J.E. (1791) XXVI. An account of several plants presented in the Linnean society, at different times, by Mr. John
+Fairbairn and Mr. Thomas Hoy, fellows of the Linnean society. Transactions of the Linnean Society of London 1:
+249–254.
+http://dx.doi.org/10.1111/j.1096-3642.1791.tb00406.x
+Specht, C.D. & Stevenson, D.W. (2006) A new phylogeny based generic classification of Costaceae (Zingiberales).
+Taxon 55: 153–163.
+http://dx.doi.org/10.2307/25065537
+
+64 •
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+GOVAERTS
+
+

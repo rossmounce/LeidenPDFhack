@@ -1,0 +1,746 @@
+Phytotaxa 109 (1): 17–26 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.109.1.2
+
+Molecular identification of the exotic lineage of Kappaphycus alvarezii
+(Rhodophyta, Solieriaceae) cultivated in the tropical region of Brazil
+PATRÍCIA G. ARAÚJO1, GEORGE E. C. MIRANDA2, MARIA B. BARROS-BARRETO3 & MUTUE T. FUJII4*
+1
+
+Post-Graduate Program in Oceanography, Departamento de Oceanografia, Universidade Federal de Pernambuco. Av. Prof. Moraes
+Rego, 1235, 50670-901 Cidade Universitária, Recife, PE, Brazil.
+2
+Departamento de Sistemática e Ecologia, Universidade Federal da Paraíba, Campus I, 58059-900 João Pessoa, PB, Brazil.
+3
+Departamento de Botânica, Universidade Federal do Rio de Janeiro, Av. Prof. Rodolpho Rocco 211, CCS, bloco A, subsolo, sala 99,
+21941-902 Rio de Janeiro, RJ, Brazil.
+4
+Núcleo de Pesquisa em Ficologia, Instituto de Botânica, Av. Miguel Estéfano, 3687, 04301–902 São Paulo, SP, Brazil.
+*
+Corresponding author: mutue.fujii@pq.cnpq.br. Phone: + 55 11 50676123. Fax: + 55 11 50733678
+
+Abstract
+Kappa carrageenan is an important phycocolloid extracted from the red seaweed Kappaphycus alvarezii. This species
+has been introduced into several regions, most recently in Brazil. The remote invasive potential of this seaweed in both
+south and southeast waters of Brazil (subtropical regions) has been established, but introduction in the northeastern
+tropical area is contested due to the absence of biological information. An unknown exotic lineage of K. alvarezii has
+been illegally introduced and cultivated in an area characterized by the presence of coral reefs in Paraíba, the
+northeastern Brazilian coast, since the beginning of the last decade. This work focuses on the molecular identification of
+these samples in comparison with sequences of other strains of K. alvarezii and congeners available in Genbank.
+Maximum likelihood (ML) and Bayesian inference (BI) analyses showed strong similarities between K. alvarezii
+cultivated in the tropical waters in Brazil and those lineages cultivated in Hawaii, Venezuela, Malaysia and Tanzania that
+have never shown invasive behavior. However, more detailed investigations and use of environmental monitoring are
+recommended before commercial cultivation of this species can be authorized in tropical region of Brazil.
+Key words: bioinvasive potential, carrageenophyte, cox2-3 spacer, cultivation
+
+Introduction
+Seaweed farming has an important role in the development of sustainable mariculture and represents an
+alternative livelihood for fishers (Ask & Azanza 2002, Oliveira & Paula 2003, Bindu & Levine 2011, Bixer &
+Porse 2011). The worldwide production of economically important macroalgae has increased significantly in
+recent decades, from 3.8 million tons in 1990 to 19 million tons in 2010; however, in 2008, the total value of
+farmed algae was ca. of US$ 4.4 billion, and its value increased to US$ 5.7 billion in 2010 (FAO 2012).
+Among these seaweeds, the genera Kappaphycus M.S.Doty in Abbott (1988: 171) and Eucheuma J. Agardh
+(1847: 16) (Rhodophyta, Solieriaceae), which are also known as eucheumatoid algae, have been cultivated
+worldwide as the primary source of carrageenan (Doty 1985, Areces 1995, Ask et al. 2003, Hayashi et al.
+2010). Kappaphycus alvarezii (M.S. Doty 1985: 37) M.S. Doty ex P.C. Silva in Silva et al. (1996: 333) is the
+most cultivated seaweed in the world (Ask & Azanza 2002, Aguilan et al. 2003, Hayashi et al. 2007a, 2010,
+Bindu & Levine 2011, Bixler & Porse 2011). The cultivation of K. alvarezii began in the 1970s in the
+Philippines, and currently it has been introduced to more than 20 countries for mariculture purposes (Doty &
+Alvarez 1975, Doty 1985, Areces 1995, Ask & Azanza 2002, Ask et al. 2003).
+
+Accepted by Saúl Blanco Lanza: 17 May 2013; published online in PDF: 10 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+17
+
+In Brazil, Kappaphycus alvarezii was introduced in 1995 when it was brought to São Paulo, southeast
+region, from the Usa Marine Biological Institute, Kochi University, Japan. All programs involved in the
+evaluation of the economic feasibility and the environmental risks of introducing K. alvarezii for the
+mariculture were authorized by the Governmental Agency Instituto Brasileiro do Meio Ambiente e dos
+Recursos Naturais Renováveis (IBAMA) (Paula et al. 1999). Experimental studies have focused on the
+introduction of the species and the resulting environmental risks in southeast and south Brazil (Paula et al.
+1999, 2002, Bulboa & Paula 2005, Bulboa et al. 2008, Castelar et al. 2009, Góes & Reis 2011, 2012, Hayashi
+et al. 2011). Thus, following 18 years of research, the results showed favorable characteristics for commercial
+cultivation such as productivity and remote potential invasion (Paula et al. 1999, 2002, Bulboa & Paula 2005,
+Bulboa et al. 2008, Hayashi et al. 2007a, b, 2010, 2011, Castelar et al. 2009, Góes & Reis 2011, 2012). Based
+on these results, the cultivation of K. alvarezii in limited area of southeast Brazil was authorized by IBAMA
+through the Normative Instruction 185/2008. Currently, commercial scale production of K. alvarezii occurs
+only along the coast of Rio de Janeiro, a subtropical region of Brazil (Castelar et al. 2009, Góes & Reis 2011,
+2012).
+In the northeastern Brazilian coast, some seaweed species harvested from the native population are
+exploited commercially by fishing communities (Oliveira & Miranda 1998, Bezerra & Marinho-Soriano
+2010). The seaweed species of greatest interest are Gracilaria birdiae E.M. Plastino & E.C. Oliveira (2002:
+390) and Hydropuntia caudata (J. Agardh 1852: 598) C.F.D. Gurgel & S. Fredericq (2004: 155), and
+consequently, the natural populations of these species are reduced to a few individuals who have lost the
+ability to recover (Miranda et al. 2012).
+In the state of Paraíba, the cultivation initiatives of Gracilaria birdiae and Hydropuntia caudata have
+been developed since 1983 (Oliveira & Miranda 1998). However, native seaweed production has not been
+economically attractive due to low growth rates of the algae and the difficulty to find seedlings. In the early
+2000s, K. alvarezii was irregularly introduced for mariculture purposes in this area only once, and since then
+the seaweeds are been cultivated illegally at small scale by local fishermen (Lucena et al. 2007). The
+introduction started up with approximately 100 kg of the seaweeds without quarantine procedure and
+environmental monitoring (pers. comm. Marivaldo Bastos, local fisherman). The exact origin of this material
+is unknown.
+It is known that the introduction of exotic species can cause serious environmental damage, including the
+loss of native biodiversity (Schaffelke et al. 2006, Anderson 2007, Pickering et al. 2007). Kappaphycus
+species such as K. alvarezii and K. striatum (F. Schmitz 1895: 151, 152) M.S. Doty ex P.C. Silva in Silva et al.
+(1996: 334) and Eucheuma spp. have been reported in bioinvasion events in Hawaii (Smith et al. 2002,
+Conklin & Smith 2005), India (Bagla 2008, Chandrasekaran et al. 2008, Kamalakannan et al. 2010) and
+Venezuela (Barrios 2005, Barrios et al. 2007). In addition, recently Halling et al. (2013) observed K. alvarezii,
+which was introduced from Asia for mariculture purposes, growing on coral reefs in Zanzibar.
+The taxonomy of eucheumatoid species is difficult due to strong morphological plasticity, causing the
+misapplication of commercial and scientific names (Doty 1985, 1988). Zuccarello et al. (2006), Conklin et al.
+(2009) and Tan et al. (2012) have highlighted the need for more detailed studies to confirm the identity of
+target seaweeds and to access genotype information before seaweed strains can be used for mariculture
+purposes. Molecular approaches have been widely used to certify the identification of strains with high
+commercial value and low bioinvasion potential. Molecular markers such as the mitochondrial-encoded cox1
+gene, a portion of the nuclear 28S rRNA gene (LSU), the small subunit rRNA gene (SSU), the Universal
+Plastid Amplicon (UPA) and the large subunit of the chloroplast-encoded gene (rbcL) are more suitable for
+identification and phylogenetic analysis (Lluisma & Ragen 1995, Fredericq et al. 1999, Conklin et al. 2009,
+Tan et al. 2012), whereas for inter- and intra-specific analysis, the mitochondrial segments of the cox2-3
+spacer, the plastidial rbcL-rbcS spacer, and the nuclear-encoded ribosomal internal transcribed spacer (ITS)
+are more efficient due to the higher rate of change (Zuccarello et al. 2006, Conklin et al. 2009, Zhao & He
+2011, Tan et al. 2012, 2013, Halling et al. 2013).
+
+18 •
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+ARAÚJO ET AL.
+
+The northeastern region of Brazil is a priority area for conservation worldwide due to the presence of
+coral reefs. However, the demand for production of Kappaphycus alvarezii in Paraíba has superseded the need
+for environmental monitoring actions and conservation. Therefore, it is necessary to determine the biological
+and ecological aspects of this species to evaluate the environmental risks of its introduction into the tropical
+region. The present study aimed to identify the lineage of K. alvarezii introduced into the northeastern coast of
+Brazil using molecular markers, and comparing its sequences with others cultivated worldwide.
+
+Materials and methods
+Kappaphycus alvarezii samples were collected in October 2010 in Pitimbu beach, Paraíba, the tropical region
+of Brazil (07° 30’ 10.5” S, 34°47’ 53.5” W) (Fig. 1), as floating seaweeds, which were produced by
+cultivation in the same region. Nine drift individuals were collected along the beach near the raft cultivation:
+three individuals of each pigment variant: red, green, and brown. The voucher specimens were deposited in
+the Herbarium of the Instituto de Botânica, São Paulo, Brazil (SP 400964).
+
+FIGURE 1. Map showing Paraíba State, northeastern Brazilian coast and Kappaphycus alvarezii collection site (arrow).
+
+Molecular analyses: DNA was extracted from approximately 40 mg of dried samples processed in the
+Precellys homogenizer using the DNeasy @ Plant Mini Kit (Qiagen, Valencia, EUA). Polymerase chain
+reaction (PCR) was performed using the mitochondrial cox2-3 spacer. The primer sequence was the same as
+that used by Zuccarello et al. (1999), and the products were analyzed by electrophoresis in 0.7% agarose to
+confirm the product size. The PCR products were purified with MicroSpinTM S-300 HR columns (GE
+Healthcare Life Sciences, Piscataway, USA). Sequencing was performed with the BigDye Terminator Cycle
+Sequencing Reaction Kit (Applied Biosystems, NJ, USA) on an ABI PRISM 3100 Genetic Analyzer (Applied
+Biosystems). The primers used for sequencing were the same as the used for PCR amplification.
+Phylogenetic analyses: all sequences were aligned using BioEdit 7.1.3.0 (Hall 1999) and deposited in the
+NCBI Genbank, and Kappaphycus and Eucheuma sequences from other sites were selected for comparison
+with the sequences from this study (Table 1).
+
+MOLECULAR IDENTIFICATION OF KAPPAPHYCUS ALVAREZII
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+• 19
+
+TABLE 1. Samples used in molecular analysis.
+◦
+
+Genbank accession n
+
+Species name
+
+Locality
+
+Reference
+
+KC122263
+
+Kappaphycus alvarezii (IBT 708)
+
+Paraíba, Brazil
+
+This study
+
+KC122262
+
+K. alvarezii (IBT 713)
+
+Paraíba, Brazil
+
+This study
+
+KC122264
+
+K. alvarezii (IBT 729)
+
+Paraíba, Brazil
+
+This study
+
+JQ713902
+
+K. alvarezii
+
+Tanzania
+
+Halling et al.(2013)
+
+FJ554862
+
+K. alvarezii
+
+Hawaii
+
+Conklin et al.(2009)
+
+AY687436
+
+K. alvarezii
+
+Zanzibar
+
+Zuccarello et al.(2006)
+
+AY687432
+
+K. alvarezii
+
+Hawaii
+
+Zuccarello et al. (2006)
+
+AY687433
+
+K. alvarezii
+
+Hawaii
+
+Zuccarello et al. (2006)
+
+AY687427
+
+K. alvarezii
+
+Venezuela
+
+Zuccarello et al. (2006)
+
+AY687430
+
+K. alvarezii
+
+Madagascar
+
+Zuccarello et al. (2006)
+
+JN234759
+
+K alvarezii
+
+Malaysia
+
+Unpublished
+
+JN234760
+
+K alvarezii
+
+Malaysia
+
+Unpublished
+
+JN234761
+
+K alvarezii
+
+Malaysia
+
+Unpublished
+
+FJ554860
+
+K. striatum
+
+Hawaii
+
+Conklin et al. (2009)
+
+AY687431
+
+K. striatum
+
+Indonesia
+
+Zuccarello et al. (2006)
+
+AY687435
+
+K. striatum
+
+Indonesia
+
+Zuccarello et al. (2006)
+
+AY687434
+
+K. striatum
+
+Philippines
+
+Zuccarello et al. (2006)
+
+JN234763
+
+K. striatum
+
+Malaysia
+
+Unpublished
+
+JN234764
+
+K. striatum
+
+Malaysia
+
+Unpublished
+
+AY687426
+
+K. cottonii
+
+Philippines
+
+Zuccarello et al. (2006)
+
+FJ554861
+
+Kappaphycus sp.
+
+Hawaii
+
+Conklin et al. (2009)
+
+JQ713903
+
+Eucheuma denticulatum (N.L. Burman 1768:
+28) F.S. Collins & Hervey (1917: 106, 108)
+
+Tanzania
+
+Halling et al. (2013)
+
+FJ554859
+
+E. denticulatum
+
+Hawaii
+
+Conklin et al. (2009)
+
+FJ561733
+
+E. denticulatum
+
+Hawaii
+
+Conklin et al. (2009)
+
+JN234756
+
+E. denticulatum
+
+Malaysia
+
+Unpublished
+
+AY687437
+
+E. denticulatum
+
+Indonesia
+
+Zuccarello et al. (2006)
+
+AY687425
+
+Eucheuma sp.
+
+Hawaii
+
+Zuccarello et al. (2006)
+
+AY687424
+
+Eucheuma sp.
+
+Tanzania
+
+Zuccarello et al. (2006)
+
+AY687423
+
+E. platycladum (F. Schmitz 1895: 139, 152153)
+
+Tanzania
+
+Zuccarello et al. (2006)
+
+AY687422
+
+E. platycladum
+
+Kenya
+
+Zuccarello et al. (2006)
+
+AY687428
+
+E. denticulatum
+
+Madagascar
+
+Zuccarello et al. (2006)
+
+AY687421
+
+E. isiforme (C. Agardh 1822: 271) J. Agardh
+(1847: 16)
+
+Florida
+
+Zuccarello et al. (2006)
+
+AY687420
+
+E. isiforme
+
+Florida
+
+Zuccarello et al. (2006)
+
+AY687417
+
+Betaphycus philippinensis
+
+Philippines
+
+Zuccarello et al. (2006)
+
+Phylogenetic relationships were inferred with the Maximum likelihood (ML) method using MEGA 5.05
+(Tamura et al. 2011). Gaps or missing data were treated as complete deletions, and bootstrap was performed
+with 1,000 replicates. MrBayes v.3.0 beta 4 (Huelsenbeck & Ronquist 2001) was used to calculate the
+Bayesian inference (BI). The evolution model was selected based on an ML ratio test with MEGA 5.05 using
+the Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC). The evolution model used
+
+20 •
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+ARAÚJO ET AL.
+
+was the general-time-reversible model of nucleotide substitution with invariant sites and gamma distributed
+rates for variable sites (GTR+I+G) (Tamura et al. 2011). BI analysis was performed using the Markov chain
+Monte Carlo method, sampling one tree every 10 generations for 1,000,000 generations, starting with a
+random tree. Betaphycus philippinensis M.S. Doty (1995: 237) was used as an outgroup sample.
+
+Results
+The final sequences including the cox2–3 spacer contained 398–399 nucleotides. The phylogenetic tree
+topologies of the Maximum likelihood (ML) and the Bayesian inference (BI) methods were not identical;
+however, in both analyses Kappaphycus and Eucheuma samples formed distinct clusters (Fig. 2).
+The Kappaphycus samples were included in distinct clades with K. cottonii (A. Weber-van Bosse 1913:
+115) M.S. Doty ex P.C. Silva in Silva et al. (1996: 333) from the Philippines the most distinct. Other samples
+formed three main clades: K. alvarezii (A1 and A2), Kappaphycus spp. from Hawaii (B) and K. striatum (C),
+with high support (ML = 99%) (Fig. 2).
+
+FIGURE 2. Maximum likelihood analyses of the cox2-3 spacer sequences based on GTR+I+G model for Kappaphycus alvarezii
+samples from northeastern Brazilian coast and sequences from Genbank accessions. The scale bar indicates substitutions per site.
+
+MOLECULAR IDENTIFICATION OF KAPPAPHYCUS ALVAREZII
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+• 21
+
+The sequences of Kappaphycus alvarezii from northeastern Brazil grouped with those samples cultivated
+in Hawaii, Venezuela, Tanzania and Malaysia, forming subclade A1 with moderate support (ML = 81%, BI =
+0.91). The sequence from Zanzibar and Madagascar grouped as subclade A2 with moderate support (ML =
+70%, BI = 0.98).
+The Kappaphycus spp. from Hawaii formed distinct clade (B) with high support (ML = 99%, BI = 1.00),
+confirming the phylogenetic relationship reported by Zuccarello et al. (2006) and Conklin et al. (2009).
+Kappaphycus striatum was divided in two clades (C1 and C2) with high support (ML = 99%). The clade C1
+included species from Indonesia, and clade C2 those from Malaysia and the Philippines.
+Additionally, the species of Eucheuma were distributed into five clades, forming distinct groups according
+to the species.
+
+Discussion
+Our results showed that the northeastern Brazilian specimens of Kappaphycus alvarezii is part of the
+worldwide cultivated subclade A strain, as predicted by Zuccarello et al. (2006) and Conklin et al. (2009).
+These strains have been considered having low invasion potential, since they are biologically limited because
+they were not found to produce viable spores, while it could reproduce by vegetative fragmentation
+(Zuccarello et al. 2006, Conklin et al. 2009). In southeast region of Brazil, Paula et al. (1999) observed
+tetraspore production from K. alvarezii in laboratory experiments only once. Although tetraspores of K.
+alvarezii germinated, they had low survival rates, suggesting that the strain studied is almost sterile (Bulboa &
+Paula 2005, Bulboa et al. 2008). According to Paula et al. (1999) the high mortality of tetraspore progeny of
+K. alvarezii cultivated in southeastern Brazil could be a consequence of their hybrid origin or clonal
+propagation, which may cause a reduced reproductive potential and abortive spore formation.
+Previous studies demonstrated that K. alvarezii has remote invasion potential in southern and southeastern
+Brazil (Paula et al. 1999, 2002, Bulboa & Paula 2005, Bulboa et al. 2008, Castelar et al. 2009, Hayashi et al.
+2011). Reproductive structures in cultivated K. alvarezii are rare (Doty 1985, Areces 1995, Castelar et al.
+2009; Hayashi et al. 2011), and even the spores produced in the laboratory are not all viable (Bulboa et al.
+2008). Moreover, in the field, the drift algae fragments are most likely affected by herbivory or are killed by
+environmental factors such as temperature and water transparency (Bulboa & Paula 2005, Castelar et al. 2009,
+Hayashi et al. 2011). However, these results are not applicable for northeastern Brazilian coast, which has
+different environmental conditions, such as water temperature, transparency and nutrients (Castelar et al.
+2009), as well as a reef formation. Therefore, further studies are desirable to evaluate the potential risk of
+invasion according to local environmental conditions and to highlight the need for monitoring programs in
+these regions.
+Furthermore, our samples had a close relationship with those cultivated lineages from Hawaii, Venezuela,
+Malaysia, and Tanzania (A1), suggesting the similarity of these strains. This information can support the
+identification of the origin for K. alvarezii strains introduced and cultivated in northeastern Brazil. Moreover,
+the accurate identification of this strain will help us to support the future management and monitoring
+program, including ecological studies as well as improving the seaweed farming.
+The phylogenetic analysis indicated that the subclades A1 and A2 corresponded to the cultivated species
+of Kappaphycus (Zuccarello et al. 2006, Conklin et al. 2009, Zhao & He 2011, Halling et al. 2013, Tan et al.
+2012, 2013) where our samples were assembled. The clade B was formed by a different Kappaphycus species.
+Some authors dispute the identification inconsistency of this material; however, this clade represents a single
+wild seaweed haplotype from Hawaii and expresses invasive characteristics only in Hawaii (Conklin & Smith
+2005, Zuccarello et al. 2006, Conklin et al. 2009). Kappaphycus cottonii was shown to be a highly divergent
+sister taxon to the all other Kappaphycus samples, and more studies are needed to investigate the taxonomy of
+this species (Zuccarello et al. 2006, Tan et al. 2013).
+
+22 •
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+ARAÚJO ET AL.
+
+The mitochondrial cox2-3 spacer was effective for the identification and comparison of our strain of K.
+alvarezii with other available strains of this species as predicted in previous studies, which highlighted the
+usefulness of this marker for the phylogenetic analysis of Kappaphycus and Eucheuma (Zuccarello et al.
+1999, 2006, Conklin et al. 2009, Halling et al. 2013, Tan et al. 2012, 2013). This effectiveness is due to the
+relatively short length of the sequences, contributing for simpler amplification and sequencing which provides
+better resolution and more variation within the cox2-3 spacer region (Zuccarello et al. 1999, 2006, Conklin et
+al. 2009, Tan et al. 2012). However, Tan et al. (2012) considered cox2-3 spacer to be more appropriate to
+DNA barcode in these two genera. Zhao & He (2011) demonstrated the efficacy of the ITS marker to
+determine inter- and intra-specific analyses, arguing that such a marker has more accurate molecular protocol
+for the classification of eucheumatoid algae as compared to others, despite few Kappaphycus and Eucheuma
+have been sequenced with ITS marker up to date.
+This study represents the first investigation towards the knowledge on Kappaphycus alvarezii cultivated
+in the northeastern Brazilian coast. The results obtained in the present study confirmed the identification and
+similarity of the northeastern Brazilian strain with those cultivated worldwide, which have never shown
+invasive behavior. However, more detailed investigations and use of environmental monitoring are
+recommended before commercial cultivation of this species can be authorized in tropical region of Brazil
+
+Acknowledgements
+This study was partially supported by the Ministério da Pesca e Aquicultura (MPA) and the Conselho
+Nacional de Desenvolvimento Científico e Tecnológico (CNPq). The first author thanks the Coordenação de
+Aperfeiçoamento de Nível Superior (CAPES) for a Doctoral Fellowship and housing allowances at the
+Instituto de Botânica, São Paulo, during the development of the part of a Doctoral thesis. M.T. Fujii thanks
+CNPq for a Research Productivity Fellowship (Proc. 301438/2009-9). Beneficiary of the financial support
+from CAPES – Brazil. We are grateful to the anonymous reviewers and associate editor of Phytotaxa, SBL,
+whose suggestions improved significantly this manuscript.
+
+References
+Abbott, I.A. (1988) Taxonomy of economic seaweeds with special reference to Pacific and Caribbean species. California
+Sea Grant College Program, La Jolla, California, 237 pp.
+Agardh, C.A. (1822) Species algarum rite cognitae, cum synonymis, differentiis specificis et descriptionibus succinctis.
+Volumen primum pars posterior. Ex officina Berlingiana, Lund, 229 pp.
+Agardh, J.G. (1847) Nyaalgerfrån Mexico. Öfversigtaf Kongl. [Svenska] Vetenskaps-Akademiens Förhandlingar 4: 5–17.
+Agardh, J.G. (1852) Species genera et ordines algarum, seu descriptiones succinctae specierum, generum et ordinum,
+quibus algarum regnum constituitur. Volumis secundi: Algas florideas complectens. Part 2, fasc. 2. C.W.K. Gleerup,
+Lund, 142 pp.
+Aguilan, J.T., Broom, J.E., Hemmingson, J.A., Dayrit, F.M., Montaño, M.N.E., Dancel, M.C.A., Niñonuevo, M.R. &
+Furneaux, R.H. (2003) Structural analysis of carrageenan from farmed varieties of Philippine seaweed. Botanica
+Marina 46: 179–192.
+http://dx.doi.org/10.1515/BOT.2003.018
+Anderson, L.W.J. (2007) Control of invasive seaweeds. Botanica Marina 50: 418–437.
+Areces, A.J. (1995) Cultivo comercial de carragenofitas del gênero Kappaphycus alvarezii Doty. In: Alveal, K., Ferrario,
+M.E., Oliveira, E.C. & Sar, E. (eds.) Manual de Métodos Ficológicos. Universidad de Concepción, Concepcion, pp.
+529–549.
+Ask, E.I. & Azanza, R.V. (2002) Advances in cultivation technology of commercial eucheumatoid species: a review with
+suggestions for future research. Aquaculture 206: 257–277.
+http://dx.doi.org/10.1016/S0044-8486(01)00724-4
+Ask, E.I., Batibasaga, A., Zertuche-Gonzalez, J.A. & San, D. (2003) Three decades of Kappaphycus alvarezii
+
+MOLECULAR IDENTIFICATION OF KAPPAPHYCUS ALVAREZII
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+• 23
+
+(Rhodophyta) introduction to non-endemic locations. In: Chapman, A.R., Anderson, O.R.J., Vreeland, V.J. &
+Davison, I.R. (eds.) Proceedings of the 17th International Seaweed Symposium.Cape Town 2001. Oxford University
+Press, Oxford, pp. 49–57.
+Bagla, P. (2008) Seaweed Invader Elicits Angst in India. Science 320: 1271.
+Barrios, J.E. (2005) Dispersión del alga exótica Kappaphycus alvarezii (Gigartinales: Rhodophyta) en la región
+nororiental de Venezuela. Boletín del Instituto Oceanográfico del Venezuela 44: 29–34.
+Barrios, J., Bolaños, J. & Lopez, R. (2007) Blanqueamiento de arrecifes coralinos por la invasión de Kappaphycus
+alvarezii (Rhodophyta) en Isla Cubagua, Estado Nueva Esparta, Venezuela. Boletín del Instituto Oceanográfico del
+Venezuela 46: 147–152.
+Bezerra, A.F. & Marinho-Soriano, E. (2010) Cultivation of the red seaweed Gracilaria birdiae (Gracilariales,
+Rhodophyta) in tropical waters of northeast Brazil. Biomassa & Bioenergia 34: 1813–1817.
+http://dx.doi.org/10.1016/j.biombioe.2010.07.016
+Bindu, M.S. & Levine, I.A. (2011) The commercial red seaweed Kappaphycus alvarezii – an overview on farming and
+environment. Journal of Applied Phycology 23: 789–796.
+http://dx.doi.org/10.1007/s10811-010-9570-2
+Bixler, H.J. & Porse, H. (2011) A decade of change in the seaweed hydrocolloids industry. Journal of Applied Phycology
+23: 321–335.
+http://dx.doi.org/10.1007/s10811-010-9529-3
+Bulboa, C.R. & Paula, E.J. (2005) Introduction of non-native species of Kappaphycus alvarezii (Rhodophyta,
+Gigartinales) in subtropical waters: comparative analyses of growth rates of Kappaphycus alvarezii and
+Kappaphycus striatum in vitro and in the sea in southeastern Brazil. Phycological Research 53: 183–188.
+http://dx.doi.org/10.1111/j.1440-183.2005.00385.x
+Bulboa, C.R., Paula, E.J. & Chow, F. (2008) Germination and survival of tetraspores of Kappaphycus alvarezii
+(Solieriaceae, Rhodophyta) introduced in subtropical waters of Brazil. Phycological Research 56: 39–45.
+Burman, N.L. (1768) Flora indica: cui accedit series zoophytorum indicorum, nec non prodromus florae capensis. Apud
+Cornelium Haek & Johannem Schreuderum, Leiden & Amsterdam, 242 pp.
+Castelar, B., Reis, R.P., Moura, A.L. & Kirk, R. (2009) Invasive potential of Kappaphycus alvarezii off the south coast of
+Rio de Janeiro State, Brazil: a contribution to environmentally secure cultivation in the tropics. Botanica Marina 52:
+283–289.
+Chandrasekaran, S., Nagendran, N.A., Pandiaraja, D., Krishnankutty, N. & Kamalakannan, B. (2008) Bioinvasion of
+Kappaphycus alvarezii on corals in the Gulf of Mannar, India. Current Science 94: 1167–1172.
+Collins, F.S. & Hervey, A.B. (1917) The algae of Bermuda. Proceedings of the American Academy of Arts and Sciences
+53: 1–195.
+Conklin, E.J. & Smith, J.E. (2005) Abundance and spread of the invasive red algae, Kappaphycus spp., in Kane’ohe Bay,
+Hawaii and an experimental assessment of management options. Biological Invasions 7: 1029–1039.
+http://dx.doi.org/10.1007/s10530-004-3125-x
+Conklin, K.Y., Kurihara, A. & Sherwood, A.R. (2009) A molecular method for identification of the morphologically
+plastic invasive algal genera Eucheuma and Kappaphycus (Rhodophyta, Gigartinales) in Hawaii. Journal of Applied
+Phycology 21: 691–699.
+http://dx.doi.org/10.1007/s10811-009-9404-2
+Doty, M.S. (1985) Eucheuma alvarezii sp. nov. (Gigartinales, Rhodophyta) from Malaysia. In: Abbott, I.A. & Norris,
+J.N. (eds.) Taxonomy of economic seaweeds: with reference to some Pacific and Caribbean species. California Sea
+Grant College Program, La Jolla, California, pp. 37–45.
+Doty, M.S. (1988) Prodromus ad Systematica Eucheumatoideorum: A tribe of commercial seaweeds related to
+Eucheuma (Solieriaceae, Gigartinales). In: Abbott, I.A. (ed.) Taxonomy of economic seaweeds with special reference
+to Pacific and Caribbean species. California Sea Grant College Program, La Jolla, California, pp. 159–207.
+Doty, M.S. (1995) Betaphycus philippinensis gen. et sp. nov. and related species (Solieriaceae, Gigartinales). In: Abbott,
+I.A. (ed.) Taxonomy of Economic Seaweeds. California Sea Grant College Program, La Jolla, California, pp. 237–
+245.
+Doty, M.S. & Alvarez, V.B. (1975) Status, problems, advances and economics of Eucheuma farms. Marine Technology
+Society Jounal 9: 30–35.
+FAO (2012) The State of world fisheries and aquaculture. FAO Fisheries and Aquaculture Departament. Rome, 230 pp.
+Fredericq, S., Freshwater, D.W. & Hommersand, M.H. (1999) Observations on the phylogenetic systematics and
+biogeography of the Solieriaceae (Gigartinales, Rhodophyta) inferred from rbcL sequences and morphological
+evidence. Hydrobiologia 398/399: 25–38.
+Góes, H.G. & Reis, R.P. (2011) An initial comparison of tubular netting versus tie-tie methods of cultivation for
+Kappaphycus alvarezii (Rhodophyta, Solieriaceae) on the south coast of Rio de Janeiro State, Brazil. Journal of
+Applied Phycology 23: 607–613.
+Góes, H.G. & Reis, R.P. (2012) Temporal variation of the growth, carrageenan yield and quality of Kappaphycus
+
+24 •
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+ARAÚJO ET AL.
+
+alvarezii (Rhodophyta, Gigartinales) cultived at Sepetiba Bay, Southeastern Brazilian coast. Journal of Applied
+Phycology 24: 173–180.
+Gurgel, C.F.D. & Fredericq, S. (2004) Systematics of the Gracilariaceae (Gracilariales, Rhodophyta): a critical
+assessment based on rbcL sequence analysis. Journal of Phycology 40: 138–159.
+Hall, T.A. (1999) BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/
+98/NT. Nucleic Acids Sympsium Series 41: 95–98.
+Halling, C., Wikström, S.A., Lilliesköld-Sjöö, G., Mörk, E., Lundsør, E. & Zuccarello, G.C. (2013) Introduction of Asian
+strains and low genetic variation in farmed seaweeds: indications for new management pratices. Journal of Applied
+Phycology 25: 89–95.
+Hayashi, L., Hurtado, A.Q., Msuya, F.E., Bleicher-Lhonneur, G. & Critchley, A.T. (2010) A review of Kappaphycus
+farming: prospects and constraints. In: Israel, A., Einav, R. & Seckbach, J. (eds.) Seaweeds and their role in globally
+changing environments. Springer, Berlin, pp. 255–283.
+Hayashi, L., Oliveira, E.C., Bleicher-Lhonneur, G., Boulenguer, P., Pereiria, R.T.L., von Seckendorff, R., Shimoda, V.T.,
+Leflamand, A., Vallée, P. & Critchley, A.T. (2007a) The effects of selected cultivation conditions on the carrageenan
+characteristics of Kappaphycus alvarezii (Rhodophyta, Solieriaceae) in Ubatuba Bay, São Paulo, Brazil. Journal of
+Applied Phycology 19: 505–511.
+Hayashi, L., Paula, E.J. & Chow, F. (2007b) Growth rate and carrageenan analyses in four strains of Kappaphycus
+alvarezii (Rhodophyta, Gigartinales) farmed in the subtropical waters of São Paulo State, Brazil. Journal of Applied
+Phycology 19: 393–399.
+http://dx.doi.org/10.1007/s10811-006-9135-6
+Hayashi, L., Santos, A.A., Faria, G.S.M., Nunes, B.G., Souza, M.S., Fonseca, A.L.D., Barreto, P.L.M., Oliveira, E.C. &
+Bouzon, Z.L. (2011) Kappaphycus alvarezii (Rhodophyta, Areschougiaceae) cultivated in subtropical waters in
+Southern Brazil. Journal of Applied Phycology 23: 337–343.
+Huelsenbeck, J.P. & Ronquist, F. (2001) MRBAYES: Bayesian inference of phylogenetic trees. Bioinformatics 17: 754–
+755.
+Kamalakannan, B., Jeevamani, J.J.J., Nagendran, N.A., Pandiaraja, D., Kutty, N.K. & Chandrasekaran, S. (2010)
+Turbinaria sp. as victims to Kappaphycus alvarezii in reefs of Gulf of Mannar, India. Coral Reefs 29: 1077.
+http://dx.doi.org/10.1007/s00338-010-0684-4
+Lluisma, A.O. & Ragen, M.A. (1995) Relationships among Eucheuma denticulatum, Eucheuma isiforme and
+Kappaphycus alvarezii (Gigartinales, Rhodophyta) based on nuclear ssu-rRNA gene sequences. Journal of Applied
+Phycology 7: 471–477.
+http://dx.doi.org/10.1007/BF00003931
+Lucena, L.A.F., Kanagawa, A.I., Martins, G.J.M., Targino, C.H., Miranda, G.E.C. & Horta, P.A. (2007) Levantamento da
+flora do infralitoral no município de Pitimbu, litoral sul do Estado da Paraíba, Brasil. Revista Brasileira de
+Biocências 5: 585–587.
+Miranda, G.E.C., Yokoya, N.S. & Fujii, M.T. (2012) Effects of temperature, salinity and irradiance on carposporeling
+development of Hidropuntia caudata (Gracilariales, Rhodophyta). Brazilian Journal of Pharmacognosy 22: 818–
+824.
+Oliveira, E.C. & Miranda, G.E. (1998) Aspectos sociais e econômicos da explotação de algas marinhas no Brasil. In:
+Paula, E.J., M. Cordeiro-Marino, D.P. Santos, E.M. Plastino, M.T. Fujii & N.S. Yokoya (eds.) Anais do Congresso
+Latino Americano, II Reunião Ibero-Americana e VII Reunião Brasileira de Ficologia. Sociedade. Ficológica da
+América Latina e Caribe, São Paulo, pp. 149–156.
+Oliveira, E.C. & Paula, E.J. (2003) Exotic seaweeds: friends or foes? In: Chapman, A.R., Anderson, O.R.J., Vreeland,
+V.J. & Davison, I.R. (eds.) Proceedings of the 17th International Seaweed Symposium.Cape Town 2001.Oxford
+University Press, Oxford, pp. 87–93.
+Paula, E.J., Pereira, R.T.L. & Ohno M. (1999) Strain selection in Kappaphycus alvarezii var. alvarezii (Soliericeae,
+Rhodophyta) using tetrasporesprogeny. Journal of Applied Phycology 11: 111–121.
+Paula, E.J., Pereira, R.T.L. & Ohno, M. (2002) Growth rate of carragenophyte Kappaphycus alvarezii (Rhodophyta,
+Gigartinales) introduced in subtropical waters of São Paulo State, Brazil. Phycological Research 50: 1–9.
+Pickering, T.D., Skelton, P. & Sulu, R.J. (2007) International introductions of commercially harvested alien seaweeds.
+Botanica Marina 50: 338–350.
+Plastino, E.M. & Oliveira, E.C. (2002) Gracilaria birdiae (Gracilariales, Rhodophyta), a new species from the tropical
+South American Atlantic with a terete frond and deep spermatangial conceptacles. Phycologia 41: 389–396.
+http://dx.doi.org/10.2216/i0031-8884-41-4-389.1
+Schaffelke, B., Smith, J.E. & Hewitt, C.L. (2006) Introduced macroalgae – a growing concern. Journal of Applied
+Phycology 18: 529–541.
+Schmitz, F. (1895) Marine Florideen von Deutsch-Ostafrica. Botanische Jahrbücher für Systematik, Pflanzengeschichte
+und Pflanzengeographie 21: 137–177.
+Silva, P.C., Basson, P.W. & Moe, R.L. (1996) Catalogue of the benthic marine algae of the Indian Ocean. University of
+
+MOLECULAR IDENTIFICATION OF KAPPAPHYCUS ALVAREZII
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+• 25
+
+California Publications in Botany 79: 1–1259
+Smith, J.E., Hunter, C.L. & Smith, C.M. (2002) Distribution and reproductive characteristics of nonindigenous and
+invasive marine algae in the Hawaiian Islands. Pacific Science 56: 299–315.
+Tamura, K., Peterson, D., Peterson, Peterson, N., Stecher, G., Nei, M. & Kumar, S. (2011) MEGA5: Molecular
+evolutionary genetics analysis using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony
+methods. Molecular Biology and Evolution 4: 1–9.
+http://dx.doi.org/10.1093/molbev/msr121
+Tan, J., Lim, P.E. & Phang, S.M. (2013) Phylogenetic relationship of Kappaphycus Doty and Eucheuma J. Agardh
+(Solieriaceae, Rhodophyta) in Malaysia. Journal of Applied Phycology 25: 13–29.
+http://dx.doi.org/10.1007/s10811-012-9833-1
+Tan, J., Lim, P.E., Phang, S-M., Hong, D.D., Sunarpi, H. & Hurtado, A.Q. (2012) Assessment of four molecular markers
+as potential dna barcodes for red algae Kappaphycus Doty and Eucheuma J. Agardh (Solieriaceae, Rhodophyta)
+PLoS ONE 7: 1–15.
+http://dx.doi.org/10.1371/journal.pone.0052905
+Weber-van Bosse, A. (1913) Marine algae. Rhodophyceae, of the "Sealark" Expedition, collected by Mr. J. Stanley
+Gardiner, M.A. Transactions of the Linnean Society of London, Second Series, Botany 8: 105–142.
+http://dx.doi.org/10.1111/j.1095-8339.1913.tb00282.x
+Zhao, S. & He, P. (2011) Molecular identification based on ITS sequences for Kappaphycus and Eucheuma cultivated in
+China. Chinese Journal of Oceanology and Limnology 29: 1287–1296.
+http://dx.doi.org/10.1007/s00343-011-1032-4
+Zuccarello, G.C., Burger, G., West, J.A. & King, R.J. (1999) A mitochondrial marker for red algal intraspecific
+relationships. Molecular Ecology 8: 1443–1447.
+http://dx.doi.org/10.1046/j.1365-294x.1999.00710.x
+Zuccarello, G.C., Critchley, A.T., Smith, J.E., Sieber, V., Lhonneur, G.B. & West, J.A. (2006) Systematics and genetic
+variation in commercial Kappaphycus and Eucheuma (Solieriaceae, Rhodophyta). Journal of Applied Phycology 18:
+643–651.
+
+26 •
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+ARAÚJO ET AL.
+
+

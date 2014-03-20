@@ -1,0 +1,474 @@
+Phytotaxa 144 (2): 27–44 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.144.2.1
+
+Sabinaria, a new genus of palms (Cryosophileae, Coryphoideae, Arecaceae) from
+the Colombia-Panama border
+GLORIA GALEANO & RODRIGO BERNAL
+Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Apartado 7495, Bogotá, Colombia. gagaleanog@unal.edu.co,
+rgbernalg@gmail.com
+
+Abstract
+The new palm genus Sabinaria (Cryosophileae, Coryphoideae, Arecaceae) and the new species Sabinaria magnifica
+from the Colombia-Panama border are described and illustrated. Sabinaria differs from other genera in the tribe in the
+leaf blades with a single deep, medial, abaxial split, and short abaxial splits in each segment, mostly unisexual flowers
+with biseriate perianth, calyx connate with the corolla at a single place on its margin, large, tightly appressed, persistent
+rachis bracts that hide the pistillate flowers, and fruits tightly packed and hidden among leaf bases, often covered by
+litter.
+
+Resumen
+Se describen e ilustran el nuevo género de palmas Sabinaria (Cryosophileae, Coryphoideae, Arecaceae) y la nueva
+especie Sabinaria magnifica, de la frontera entre Colombia y Panamá. Sabinaria difiere de otros géneros en la tribu por
+la lámina foliar con una sola división abaxial central y cortas divisiones abaxiales en cada uno de los segmentos, flores
+principalmente unisexuales con perianto biseriado, cáliz connato con la corola en un solo punto en su margen, grandes
+brácteas del raquis fuertemente adpresas y persistentes, que ocultan las flores pistiladas, y frutos apiñados, ocultos entre
+las bases de las hojas y a menudo cubiertos por hojarasca.
+
+Introduction
+The Serranía del Darién, the mountain range that forms the border between Colombia and Panama, is one of
+the most poorly botanised areas in both countries, due to difficult access. Paradoxically, this area is of the
+utmost relevance, having been the bottleneck for the migration of the land biota between North America and
+South America after the final closure of the isthmus, now believed to have taken place in the Miocene, 15
+Mya (Montes et al. 2012), rather than in the Pliocene, as formerly assumed (Taylor 1991). Recent exploration
+in the northern foothills of the Serranía (Hoyos-Gómez et al. 2013) has started to reveal a fascinating flora.
+Among palms, several interesting findings have been made, including a remarkable fan palm in the tribe
+Cryosophileae, which represents a hitherto undescribed genus.
+
+Materials and methods
+We first studied an incomplete herbarium specimen of the new species kept at JAUM and then collected
+specimens ourselves at the type locality, including flowers at anthesis and ripe fruits. We compared this
+material with available descriptions of all coryphoid genera (Dransfield et al. 2008) and with herbarium
+specimens and living plants of most genera in the tribe Cryosophileae.
+Accepted by William J. Baker:19 October 2013; published: 8 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+27
+
+Results
+Sabinaria R. Bernal & Galeano gen. nov.
+Diagnosis. Solitary, unarmed, monoecious palm with induplicately palmate leaves, the petiole basally split, the blade
+silvery whitish below, medially divided almost to the base by an abaxial split, the two halves lacking any further
+deep abaxial splits, but with a short abaxial split present at the apex of each leaf segment. Inflorescence interfoliar,
+branched to 1–2 orders, each branch subtended by a large, conspicuous bract, with mostly unisexual flowers,
+staminate ones exposed beyond the bracts, with 20–23 stamens connate by their broadened filament bases, the
+pistillate flowers restricted to the lower portion of the proximal rachillae and hidden by large persistent rachis bracts,
+with a single carpel and staminodes with no anthers, a few pistillate flowers sometimes bearing 1–2 anthers. Fruit
+uniseminate, with eccentric, inconspicuous, stigmatic remain. Endosperm homogeneous, embryo basal. Seedling
+with undivided eophyll. Differs from other Cryosophileae in the lack of deep abaxial splits besides the medial one,
+the unisexual flowers, the large, persistent rachis bracts that hide the pistillate flowers, and the tightly packed fruits
+hidden among the leaf bases. Most closely resembles Itaya, from which it differs in the unisexual flowers with the
+sepals connate with the petals at one single place, the large rachis bracts that hide the basal portion of the rachillae,
+and the tightly packed fruits.
+
+Description. Medium-sized, solitary, unarmed, pleonanthic, monoecious arborescent palm. Stem erect, with
+inconspicuous leaf scars. Leaves numerous, induplicate, palmate; sheath medially split below the petiole, the
+margins without fibres; petiole slender, long, biconvex, with sharp margins; adaxial hastula well developed,
+truncate, abaxial hastula a low rim; blade medially divided almost to base by an abaxial split into two
+symmetrical or slightly asymmetrical halves, these divided to ca. 1/10 their length into single fold segments
+that are slightly bifid at apex; segments with inconspicuous cross-veins, the undersurface silvery-whitish.
+Inflorescence interfoliar, branched to one order, basal rachillae sometimes with a few second-order rachillae;
+prophyll bicarinate; peduncular bracts at least 5, large and inflated; rachis bracts similar to the peduncular
+bracts, persistent and tightly appressed to the proximal portion of the rachilla and hiding the pistillate flowers;
+rachillae straight, cylindrical. Flowers borne on a short pedicel and subtended by a small and narrow
+triangular bract, mostly unisexual, pistillate ones on the proximal portion of proximal rachillae, the remaining
+staminate, a few pistillate flowers sometimes bearing 1–2 anthers. Staminate flowers with three connate
+sepals, these fused with the corolla at a single place on the margin; petals three, connate into a tubular corolla,
+sometimes two of the petals completely free to base; stamens 20–23, exserted at anthesis, the filaments
+connate by their fleshy bases into several irregular groups of 1–6, these in turn connate further below with
+each other and basally adnate with the corolla, filiform at the apex; anthers oblong, dorsifixed, versatile, bifid
+at base and apex. Pistillate flowers similar to the staminate ones; staminodes similar to the stamens but
+lacking the anthers and the thin portion of the filament; gynoecium unicarpellate, eccentrically ovoid,
+narrowed to a slender curved style and an oblique papillose stigma. Fruit obovoid to turbinate or subglobose,
+uniseminate, with eccentric inconspicuous stigmatic remain; epicarp minutely tuberculate with sparse
+perforations, smooth with the naked eye; mesocarp thick, endocarp not differentiated. Seed ovoid to
+subglobose, with homogeneous endosperm; embryo basal. Seedling with lanceolate eophylls, whitish below.
+Type species: Sabinaria magnifica Galeano & R. Bernal
+Etymology:—Named after our daughter Sabina Bernal Galeano, with the suffix –ria arbitrarily chosen, in
+accordance with Art. 20 of the International Code of Nomenclature (McNeill et al. 2012).
+
+Sabinaria magnifica Galeano & R. Bernal sp. nov.
+Diagnosis. Stem solitary, 1–6 m tall, 9–12 cm diam.; leaves 20–35, induplicately palmate, with a long, basally cleft
+petiole; blade circular, sometimes inequilateral at base, 1.4–1.6 m diam., divided almost to the base into two large
+halves, these not divided again, each with 36–42 single-fold segments. Inflorescence interfoliar; peduncle at least 30
+cm long; rachis 42–62 cm, with 32–40 rachillae up to 20 cm long, the basal portion of proximal rachillae bearing
+only pistillate flowers and deeply hidden by large rachis bracts, the distal portion and distal rachillae with staminate
+flowers. Staminate flowers 4–5 mm long, with 20–23 stamens. Pistillate flowers 7–11 mm long, with 14–19
+staminodes that bear no anthers. Fruits closely packed, 3.6–4.4 cm long., 3–3.6 cm diam., with inconspicuous,
+
+28 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+eccentrically apical stigmatic residue; seeds oblong-ovoid, 2.4–2.7 cm long, 2.2–2.3 cm wide, with ellipsoid hilum
+and subbasal ascending raphe branches; endosperm homogeneous; embryo basal (Figs. 1–14).
+
+FIGURE 1. Habit of Sabinaria magnifica near Capurganá, Colombia.
+
+SABINARIA, A NEW GENUS OF PALMS
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 29
+
+FIGURE 2. Stem of Sabinaria magnifica.
+
+30 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+FIGURE 3. Leaf base of Sabinaria magnifica.
+
+SABINARIA, A NEW GENUS OF PALMS
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 31
+
+FIGURE 4. A leaf of Sabinaria magnifica held by Angie Henao.
+
+32 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+FIGURE 5. Leaf undersurface of Sabinaria magnifica.
+
+SABINARIA, A NEW GENUS OF PALMS
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 33
+
+FIGURE 6. Adaxial hastula of Sabinaria magnifica.
+
+Solitary, unarmed palm. Stem 1–6 m tall, 9–12 cm diam., light brown, smooth, with inconspicuous leaf scars.
+Leaves 20–35, induplicately palmate; sheath + petiole ca. 319 cm long, sheath basally cleft for ca. 43 cm,
+brown-woolly internally; petiole biconvex, rhomboid in transverse section, the margins sharp toward base,
+green, covered below with a deciduous scaly and light brown tomentum, 2 cm wide at the middle; adaxial
+hastula tubular, truncate, ca. 1 cm long; abaxial hastula forming a low rim; blade flat, rigid, sometimes
+inequilateral at base, 1.4–1.6 m diam., divided almost to the base into two large halves, these divided to ca. 1/10
+their length into single fold segments, each with 36–42 single-fold segments, these free at the apex for 5–9
+cm; basal segments 34–50 cm long, 1.4–1.7 cm wide, bifid at the apex for ca. 5 mm; distal segments 104 cm
+long, 4.2 cm wide, the free portion with a shoulder on each side just above the adaxial split, bifid at the apex
+for ca. 5 mm, the two tips rounded and slightly unequal, glossy above, with numerous cross-veins of two
+sizes, silvery-whitish below. Inflorescences and infructescences interfoliar, basally erect, the distal half
+arching laterally, with branches of first order or sometimes the basal branches with a few rachillae; peduncle
+at least 30 cm long, 1.5 cm wide at apex, subcylindrical; prophyll deeply buried among the leaves, at least 31
+cm long, 3.5 cm wide, slightly two-keeled, acute and abaxially split at the fibrous apex, yellowish when fresh,
+covered, especially toward base, with a light brown woolly tomentum; peduncular bracts at least five, ca. 26–
+27 cm long, 6 cm wide, chartaceous, persistent, acute at apex, covered with light brown, woolly, more or less
+persistent tomentum; rachis 46–62 cm long, subcylindrical; rachillae 32–40, each raquilla subtended by a
+large, persistent, chartaceous, cream-coloured bract with indumentum similar to that of the peduncular bracts,
+progressively smaller toward the apex, fraying into fibres in fruit; basal bracts 20–22 cm long, ca. 7 cm wide,
+middle bracts 13–16 cm long, 5–6 cm wide, apical bracts 4–6 cm long, 0.5–1.5 cm wide; rachillae of the
+proximal one half with both staminate and pistillate flowers, those of the distal half bearing only staminate
+
+34 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+FIGURE 7. Apex of middle leaf segments of Sabinaria magnifica.
+
+flowers; basal rachillae 18–20 cm long, the proximal 1/3 thick, 5–7 mm wide, adaxially flattened and without
+flowers, abaxially with pistillate flowers separated from each other 1–2 mm, mostly with no anthers and only
+a few of them with 1–2 anthers, the distal 2/3 of proximal rachillae almost cylindrical, ca. 3 mm diam., with
+staminate flowers spirally arranged all around the rachilla, separated from each other 1–3 mm; middle
+rachillae 12–14 cm long, the proximal 2 cm similar to the corresponding area of the basal rachillae, otherwise
+as described for the staminate portion; apical rachillae 3–4 cm long, bearing only staminate flowers and
+appearing like the staminate portion of basal rachillae. Flowers whitish when fresh, borne on a short pedicel
+and subtended by a small, narrow triangular bract. Staminate flowers 4–5 mm long, 3–3.5 mm wide, oblong;
+sepals three, 1.3–2 mm long, connate into a 0.8–1 mm long cupule with three ovate long-acuminate lobes ca.
+1 mm wide, fused with the corolla at a single place on the margin; corolla tubular, oblong, 2.5–3.2 mm long,
+the petals connate for ca. ¾ their length, with three rounded to triangular lobes ca. 1 mm wide, sometimes two
+of the petals completely free to base; stamens 20–23, exserted ca. 1 mm beyond the corolla; filaments connate
+by their fleshy bases into several irregular groups of 1–6, these in turn connate farther below with each other
+and basally adnate with the corolla, filiform at the apex, the free portion ca. 1 mm long, tapering to a
+filamentous apex ca. 0.5 mm long; anthers ca. 1 mm long, 0.2 mm wide, oblong, basally bifid, shortly bifid to
+rounded apically; pistillode absent. Pistillate flowers 7–11 mm long, ca. 2.5 mm wide, mostly similar to the
+staminate ones; sepals three, 1.3–2 mm long, connate in a 0.8–1 mm cupule with three ovate long acuminate
+lobes, fused with the corolla at a single place on the margin; corolla tubular, oblong, 2.5–3.5 mm long, the
+petals connate for ca. ¾ their length, with three rounded to triangular lobes, sometimes two of the petals
+completely free to base; staminodes 14–19, only slightly exserted from the corolla, filaments basally connate
+into a fleshy tube adnate to the corolla base, the free portion fleshy and subulate, ca. 1.5 mm long, sometimes
+with an apical 0.5 mm filamentous apex; anthers oblong, ca. 1 mm long, similar to those of the staminate
+flowers; gynoecium unicarpellate, 4–5 mm long, ovoid at the base, tapering to a slender, flattened, curved
+style and a papillose stigma ca. 2 mm long; ovule hemianatropous, laterally attached, bearing a large oblique
+
+SABINARIA, A NEW GENUS OF PALMS
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 35
+
+aril. Fruits closely packed along the basal portion of the proximal, thickened rachilla stumps, these up to 7 cm
+long, 7–8 mm thick, individual fruits obovoid to turbinate or subglobose, green when immature, yellowish
+green when nearly mature, finally turning black, 3.6–4.4 cm long., 3–3.6 cm diam., with inconspicuous,
+eccentrically apical stigmatic residue; epicarp minutely tuberculate with sparse perforations, smooth with the
+naked eye; seeds oblong-ovoid, 2.4–2.7 cm long, 2.2–2.3 cm wide, with ellipsoid hilum and subbasal
+ascending raphe branches; endosperm homogeneous; embryo basal. Seedling with lanceolate eophyll, whitish
+below, ca. 30 cm long, 4–5 cm wide.
+
+FIGURE 8. Inflorescence of Sabinaria magnifica.
+
+36 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+FIGURE 9. Detail of staminate flowers of Sabinaria
+magnifica. Photo by Saúl Hoyos.
+
+FIGURE 10. Proximal rachilla of Sabinaria magnifica showing staminate flowers (above) and pistillate flowers (below).
+
+Type:—COLOMBIA. Chocó: Municipio de Acandí, Quebrada El Brillante, 8 km southwest of
+Capurganá, 130 m elev., 8°34’59.4” N, 77°23’09.9” W, 29 August 2013, G. Galeano, R. Bernal, S. Hoyos &
+N. Echavarría 9062 (holotype: COL; isotypes: CHOCO, FMB, JAUM, K).
+Etymology:—The Latin epithet magnifica refers to the strikingly beautiful aspect of the palm.
+Habitat:—Known only from a small area at the base of the Serranía del Darién (Fig. 15), in the
+Department of Chocó, northwestern Colombia, between 100 and 250 m elevation. The area lay less than one
+kilometre away from the Colombia-Panama border, and the species most probably occurs also in that country.
+The area is covered by premontane moist forest-warm transition (BMh-PM) in Holdridge’s life zone system
+(IGAC 1977), with an average annual rainfall of ca. 3000 mm.
+
+SABINARIA, A NEW GENUS OF PALMS
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 37
+
+FIGURE 11. Details of flowers and fruits of Sabinaria magnifica. A, portion of a basal rachilla at the transition between pistillate and
+staminate flowers (bar = 7 mm); B, staminate flower (bar = 2 mm); C, staminate flower seen from above (bar = 2 mm); D, detail of
+filaments and anther of staminate flower (bar = 1 mm); E, detail of sepals fusing with petals (bar = 2 mm); F, detail of two free petals
+in a staminate flower (bar = 2 mm); G, pistillate flower with two anthers (bar = 2 mm); H, pistillate flower (bar = 2 mm); I, detail of
+staminodial tube (bar = 1 mm); J, gynoecium (bar = 1 mm); K, fruit (bar = 20 mm); L, M, seed (bar = 10 mm); N, seed in vertical
+section (bar = 10 mm). Drawn by Marcela Morales Sánchez.
+
+38 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+FIGURE 12. Infructescences of Sabinaria magnifica hidden among leaf bases. Photo by Saúl Hoyos.
+
+FIGURE 13. Fruits of Sabinaria magnifica.
+
+SABINARIA, A NEW GENUS OF PALMS
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 39
+
+FIGURE 14. Seedlings and a juvenile of Sabinaria magnifica. Photo by Saúl Hoyos.
+
+40 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+FIGURE 15. Google Earth image showing the type locality of Sabinaria magnifica (placemark).
+
+Common name: girasol (Spanish, =sunflower)
+Uses: The leaves are used casually as umbrellas.
+Additional specimens:—COLOMBIA. Chocó: Municipio Acandí, corregimiento de Capurganá, vereda
+El Brillante, one hour walk from Río Muerto to Capurganá, 100 m elev., 8°34’59.4” N, 77°23’09.9” W, 26
+March 2013, S. Hoyos, N. López, P. Trujillo & N. Echavarría 2197 (JAUM)
+Conservation status:—There is too little information available on the distribution of Sabinaria
+magnifica, and a assessment of its conservation status according to IUCN parameters is therefore not possible
+at the present time. The area where the palm grows has extensive forests for many kilometres on both sides of
+the Colombia-Panama border, and the palm was locally abundant, with hundreds of adults and plants in all
+size categories. No major imminent threats appear to be operating in the area, although selective logging does
+take place, and the zone is dangerously close to the Urabá region, one of the most severely deforested areas of
+Colombia. Because of this, the protection of this area should be given a high priority, considering its pivotal
+biogeographic relevance. The establishment of public and private protected areas in this zone should be
+strongly encouraged.
+Key to the genera of Cryosophileae
+1.
+1.
+2.
+2.
+3.
+
+3.
+
+4.
+4.
+5.
+5.
+
+Perianth uniseriate........................................................ (Coccothrinax, Hemithrinax, Leucothrinax, Thrinax, Zombia)
+Perianth biseriate........................................................................................................................................................... 2
+Carpel 1; leaf sheath basally cleft abaxially ................................................................................................................. 3
+Carpels 2–4; leaf sheath cleft or not cleft ..................................................................................................................... 5
+Flowers unisexual; pistillate flowers restricted to the lower portion of the proximal rachillae, tightly hidden by the
+large rachis bracts; calyx connate with the corolla at one place on its margin; two of the petals sometimes completely
+free; fruits closely packed and hidden among the leaf bases; leaves with a deep, medial abaxial split and no further
+deep splits........................................................................................................................................................ Sabinaria
+Flowers hermaphroditic throughout the inflorescence or at least along the proximal portion of most rachillae, and
+then the distal flowers staminate; flowers not hidden by rachis bracts; calyx and corolla free from each other; petals
+always connate; fruits neither closely packed nor hidden among the leaf bases; leaves with many deep splits in addition to a medial split ..................................................................................................................................................... 4
+Flowers with a long, stalk-like base; proximal flowers on each rachilla hermaphroditic, distal flowers staminate; stamens 6; leaf divided to below middle into numerous single-fold segments .................................................... Schippia
+Flowers lacking a stalk-like base, all hermaphroditic; stamens 18–24; leaf divided almost to base into 10–16 similar
+groups of 4–5 segments ..........................................................................................................................................Itaya
+Stems with distinctive root spines, these often branched; stamens 6, the filaments connate in a ring; leaf sheath
+basally cleft abaxially.................................................................................................................................. Cryosophila
+Stems without root spines; stamens 5–9; leaf sheath not basally cleft abaxially ......................................................... 6
+
+SABINARIA, A NEW GENUS OF PALMS
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 41
+
+6.
+6.
+
+Sepals united to approximately half their length; stamens 6, with distinct long filaments, long exserted; seed with a
+lobed intrusion of the seed coat; upper sheath fibres modified into stout, reflexed spines ...........................Trithrinax
+Sepals free nearly to base, imbricate; stamens 5–9, with fleshy wide filaments, only slightly exserted; seeds lacking
+a conspicuous intrusion of the seed coat; sheath fibres not modified into spines ....................................Chelyocarpus
+
+Discussion
+There is no doubt that the new species belongs to the tribe Cryosophileae, on account of its leaves with a
+central abaxial split, and flowers with a single carpel. The latter character, as well as the numerous stamens,
+are reminiscent of the Amazonian Itaya H.E.Moore (1972: 85), from which it differs in the unisexual flowers,
+the pistillate ones restricted to the base of the proximal rachillae, and tightly hidden by the large persistent
+rachis bracts, whereas in Itaya the rachis bracts are deciduous, and all flowers, which are hermaphroditic, are
+exposed. This is reflected in the infructescence, which in Itaya has fruits throughout most of the rachillae (see
+Galeano & Bernal 2010: fig. p. 113), whereas in Sabinaria fruits are restricted to the base of the lowermost
+rachillae, and are thus hidden among the litter-trapping leaf bases (Fig. 12). In fact, seedlings are common on
+the crown of most individuals.
+The other genus in the Cryosophileae with biseriate perianth and unicarpellate gynoecium is the
+Mesoamerican Schippia Burret (1933: 867), from Guatemala and Belize, which has hermaphroditic proximal
+flowers and staminate distal ones, and six stamens. The only species in this genus, Schippia concolor Burret
+(1933: 868), has small rachis bracts that do not hide the rachillae, flowers with a long stalk-like base, and
+leaves deeply split into numerous, narrow, single-fold segments. As in Itaya, infructescences of Schippia have
+fruits in most of their rachillae (see Dransfield et al. 2008, fig. p. 221), and the fruits are clearly exposed.
+Leaf structure of Sabinaria is also unique among the Cryosophileae, as they have only one deep medial
+abaxial split (Figs. 4–5), and lack any of the deep secondary splits that are common to the tribe. Although
+some splits are often found in older leaves, these are irregularly located in either of the leaf halves, and are
+obviously caused by falling branches or other external factors rather than by leaf ontogeny. Instead of deep
+splits, each segment has a short, abaxial split ca. 5 mm long (Fig. 7).
+Two unusual characters are found in the perianth of Sabinaria. First, the calyx is fused to the corolla at
+one place on its margin (Fig. 11, E), so that calyx and corolla appear like a single tissue arranged in two
+cycles. This character has not been recorded in the related Chelyocarpus, Cryosophila or Itaya (Castaño et al.
+2011), nor in any other genus in the family (Dransfield et al. 2008). The ontogeny of this adnation deserves a
+detailed study, particularly because, unlike Itaya, sepals and petals in Sabinaria are similarly thick. The
+second unusual character of Sabinaria is the occasional lack of fusion between two of the petals, which results
+in an open tube (Fig. 11, F). The combination of these two unusual characters results in a perianth that is
+topologically uniseriate, although architecturally biseriate. This unusual perianth is particularly remarkable, as
+the Cryosophileae include some genera with distinctively deviating perianth, like Chelyocarpus, which has
+sepals and petals similar to each other, or Zombia, Coccothrinax, Hemithrinax, Leucothrinax, and Thrinax,
+which have perianth in a single, six-toothed whorl (Dransfield et al. 2008). The perianth of Sabinaria might
+represent an intermediate condition between the uniseriate and the biseriate perianth types found within the
+tribe.
+The pistillate flowers of Sabinaria, deeply hidden among the tight rachis bracts, restrict access to large
+visitors like bees or large beetles. In the only inflorescence that we found in anthesis, there were trigonine bees
+visiting the exposed staminate flowers, whereas only small mystropine beetles were found among the
+pistillate flowers upon removing the bract.
+The finding of Sabinaria in the contact zone between Mesoamerica and South America is particularly
+interesting, as this area is completely isolated from the ranges of both Itaya and Schippia, the two other
+Cryosophileae with unicarpellate gynoecium and biseriate perianth. Itaya, resolved as sister to all other
+members of the tribe (Baker et al. 2009) or sister to all other members except for Chelyocarpus (Roncal et al.
+
+42 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+2008), is found on the other side of the Andes, 1300 km away in northwestern Amazonia. Shippia, on the
+other hand, is weakly supported either as sister to Cryosophila (Roncal et al. 2008), or to a clade comprising
+Zombia, Coccothrinax, Hemithrinax, Leucothrinax and Thrinax (Baker et al. 2009). The nearest population of
+Schippia is located ca. 1500 km northwest of Sabinaria. As it has been hypothesised that the unicarpellate
+condition evolved independently in Itaya and Schippia (Rudall et al. 2011), the discovery of a third
+unicarpellate member in the group, located in an area intermediate between them, may help clarify
+relationships in the tribe, particularly the uncertain position of Schippia.
+
+Conclusions
+The finding of this new genus adds one more element to the intriguingly disjunct distribution of most genera
+of the Cryosophileae and to their particular flower structure. Molecular, anatomical, and developmental
+studies of Sabinaria, as well as comparative studies of reproductive biology among members of the tribe may
+throw light on the evolution and dispersal of New World members of the Coryphoideae.
+
+Acknowledgements
+We are deeply grateful to Saúl Hoyos and Norman Echavarría, who first brought this species to our attention
+and accompanied us into the field, and to Álvaro Cogollo (JAUM), who sent us the original specimen on loan.
+Further field assistance was provided by Orlando Martínez, Angie Henao, Germán Henao, and Cristina
+Lopera. Marcela Morales Sánchez prepared the line drawing and Saúl Hoyos took some of the photographs.
+Fred W. Stauffer, William Baker, and two anonymous reviewers made valuable comments on the text.
+
+References
+Baker, W.J., Savolainen, V., Asmussen-Lange, C.B., Chase, M.W., Dransfield, J., Forest, F., Harley, M.M., Uhl, N.W. &
+Wilkinson, M. (2009) Complete generic-level phylogenetic analyses of palms (Arecaceae) with comparisons of
+supertree and supermatrix approaches. Systematic Biology 58: 240–256.
+http://dx.doi.org/10.1093/sysbio/syp021
+Burret, M. (1933) Schippia, eine neue Palmengattung aus Brit. Honduras. Notizblatt des Botanischen Gartens und
+Museums zu Berlin-Dahlem 11: 867–869.
+http://dx.doi.org/10.2307/3994638
+Castaño, F., Crèvecoeur, M., Pintaud, J.C. & Stauffer, F.W. (2011) Floral structure in the neotropical palms Chelyocarpus
+Dammer, Cryosophila Blume and Itaya H. E. Moore (Arecaceae). Candollea 66: 65–79.
+Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M. & Lewis, C.E. (2008) Genera Palmarum. The
+Evolution and Classification of Palms. Kew Publishing, Royal Botanic Gardens, Kew in association with the
+International Palm Society and the L.H. Bailey Hortorium, Cornell University, 732 pp.
+Galeano, G. & Bernal, R. (2010) Palmas de Colombia. Guía de Campo. Editorial Universidad Nacional de Colombia,
+Bogotá, 688 pp.
+Hoyos-Gómez, S.E., Idárraga, A., Betancur, J. & Upegui, A. (2013) Costa y Bosque-Plantas del Chocó Darién-Caribe.
+Corporación Fragmento, Medellín, 187 pp.
+IGAC (1977) Zonas de vida o formaciones vegetales de Colombia. Instituto Geográfico Agustín Codazzi, Bogotá, 238
+pp.
+Mcneill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K. Prado, J., Prud'homme Van Reine, W.F. Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi, and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154. Koeltz Scientific
+Books, Koenigstein, Germany.
+Montes, C., Cardona, A., McFadden, R., Morón, S.E., Silva, C.A., Restrepo-Moreno, S., Ramírez, D.A., Hoyos, N.,
+Farris, D., Bayona, G.A., Jaramillo, C.A., Valencia, V., Bryan, J. & Flores, J.A. (2012) Evidence for middle Eocene
+
+SABINARIA, A NEW GENUS OF PALMS
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 43
+
+and younger land emergence in Central Panama: implications for Isthmus closure. Geological Society of America
+Bulletin 124(5-6): 780.
+http://dx.doi.org/10.1130/B30528.1
+Moore, H.E. (1972) Chelyocarpus and its allies Crysophila and Itaya (Palmae). Principes 16: 67–88.
+Roncal, J., Zona, S. & Lewis, C.E. (2008) Molecular phylogenetic studies of Caribbean palms (Arecaceae) and their
+relationships to biogeography and conservation. Botanical Review 74: 78–102.
+http://dx.doi.org/10.1007/s12229-008-9005-9
+Rudall, P., Ryder, R.A. & Baker, W.J. (2011) Comparative gynoecium structure and multiple origins of apocarpy in
+Coryphoid palms (Arecaceae). International Journal of Plant Science 172: 674–690.
+http://dx.doi.org/10.1086/659459
+Taylor, D.W. (1991) Paleobiogeographic relationships of Andean angiosperms of Cretaceous to Pliocene age.
+Palaeogeography, Palaeoclimatology, Palaeoecology 88: 69–84.
+http://dx.doi.org/10.1016/0031-0182(91)90015-J
+
+44 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+GALEANO & BERNAL
+
+

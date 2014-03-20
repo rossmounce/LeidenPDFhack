@@ -1,0 +1,819 @@
+Phytotaxa 152 (1): 33–47 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.152.1.3
+
+Notes on Early Land Plants Today. 44. Comments on sexuality in Solenostoma
+(Solenostomataceae, Marchantiophyta) and on some newly described taxa
+JIŘÍ VÁŇA1, LARS SÖDERSTRÖM2, ANDERS HAGBORG3 & MATT VON KONRAT3
+1
+
+Department of Botany, Charles University, Benátská 2, CZ-12801 Praha 2, Czech Republic; email: vana@natur.cuni.cz
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+3
+Science and Education, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Abstract
+The sexuality of Solenostoma species is discussed and it is concluded that Solenostoma sanguinolentum is heteroicous.
+This and other morphological differences from Solenostoma marcescens are discussed and they are considered to belong
+to the same species. Heteroicity probably also occurs in Solenostoma micranthum and possibly in other Solenostoma
+species. Solenostoma rossicum and Solenostoma pyriflorum subsp. purpureum are new synonyms to Solenostoma
+sphaerocarpum. Solenostoma ochotense is a new synonym to Solenostoma hokkaidense. Solenostoma costaricanum is a
+new synonym to Solenostoma amoenum. Plectocolea subbalfourii is a new synonym to Solenostoma balfourii.
+Solenostoma rubrum var. underwoodii is a new synonym to Solenostoma rubrum. Plectocolea yunnanensis is a new
+synonym to Solenostoma sikkimense. Solenostoma inundatum var. grandirete is a new synonym to Solenostoma
+orbiculatum. Solenostoma kurilense and Solenostoma ovalifolia are new combinations and Solenostoma philippinense a
+new species.
+
+Bakalin & Vilnet (2012) described two new species and made one new combination in Solenostoma and two
+new combinations in Plectocolea. Bakalin (2013) described four more taxa in Solenostoma and two in
+Plectocolea based on specimens in NY. Recent molecular studies (e.g. Feldberg et al. 2009) have shown that
+the two genera, as traditionally defined, can not be separated which is also shown by the phylogenetic tree in
+Vilnet & Bakalin (2012). Some of their Plectocolea species are therefore transferred to Solenostoma.
+In their papers describing new taxa within Solenostoma and Plectocolea, Bakalin & Vilnet (2012) and
+Bakalin (2013) made two oversights. Firstly, they compared several of their new taxa with species that are not
+closely related. Secondly, they overlooked to mention taxa that, based on previously published descriptions,
+morphologically would be the closest relatives. The differences from their apparently closest relatives are
+most often so small that they fall within the variation of the species. The present paper addresses these issues.
+The format of this note follows that which is outlined in Söderström et al. (2012) except that the
+Melbourne code of nomenclature (ICN; McNeill et al. 2012) is followed instead of the Vienna code (ICBN;
+McNeill et al. 2006). All corresponding specimens in NY have been seen by the first author.
+The distinction between Solenostoma sanguinolentum and Solenostoma marcescens, and some notes on
+sexuality in Solenostoma
+Bakalin (2013: 139) re-established Jungermannia marcescens Mitten (1861: 91) as a good species,
+Solenostoma marcescens (Mitt.) Bakalin (2013: 139), which Váňa (1973: 68) placed in synonymy of
+Solenostoma sanguinolentum (Griffith 1849: 302) Stephani (1901: 489). The experience with relatively
+copious material by the senior author allows the following comments on the proposed differences between
+Solenostoma sanguinolentum and Solenostoma marcescens.
+Accepted by Christine Cargill: 29 Oct. 2013; published: 11 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+33
+
+Sexuality of plants:—According to the literature information, Jungermannia marcescens is described as
+“dioica” (Stephani 1901: 503) or “dioicous?” (Amakawa 1967: 264). However, Amakawa states “the upper
+leaves are often ventricose as if they contained antheridia”, but also “male inflorescence unknown”.
+Solenostoma sanguinolentum is reported as “dioica” (Stephani 1901: 489) or “dioicous” (Amakawa 1967:
+256). Bakalin (2013: 141) also wrote “Dioicous (? only female organs seen)”. No other information about the
+sexuality of Solenostoma sanguinolentum or Solenostoma marcescens is known. Váňa (1973: 68) did not give
+any information about the sexuality of Solenostoma sanguinolentum, only the note that “the type material of
+Jungermannia marcescens Mitt. is identical in all characteristics with the material of Jungermannia
+sanguinolenta Griff…”. Váňa & Long (2009: 507) also did not give any information about the sexuality of
+Solenostoma sanguinolentum, only saying “Androecia (previously unknown in this species) intercalary, bracts
+5–7 pairs, relatively remote, slightly saccate at base.” It is of course possible to assume that it can suggest that
+Solenostoma sanguinolentum (syn. Solenostoma marcescens) should be dioicous, but that was never explicitly
+said. Based on the above facts, the senior author was very careful and avoided publishing explicit information
+about the sexuality of Solenostoma sanguinolentum or Solenostoma marcescens.
+In the years before 1972 (cf. Váňa 1973: 68) and also after 1972 the senior author examined almost all
+available material of Solenostoma sanguinolentum present in the herbaria BM, E, FH, G, JE, M, NICH, NY,
+TNS, and W, as well as the material of many recent collections (except some collections made by Chinese
+bryologists). Lectotypes and many iso(lecto)types of both Solenostoma sanguinolentum (BM – lectotype , FH,
+G-672, NY - isolectotypes) and Solenostoma marcescens (BM – lectotype, FH, G-14835, NY, Wisolectotypes) were also studied. The material coll. J. Poelt (det. Grolle, M, JE), as well as the collections of
+Japanese botanists (coll. Z. Iwatsuki, K. Yoda, det. Amakawa, NICH, TNS), the collections of G. and S. Miehe
+(det. Váňa, MB) and especially the collections of D. Long (det. Váňa, E) contains mostly very good, optimally
+developed material. Concerning the sexuality, the existence of pure gynoecial shoots with perianths
+(sometimes with 3–5 ± saccate leaves just below the perianth or sometimes saccate leaves separated by 2–3
+not saccate leaves from the perianth), pure androecial shoots (with terminal androecia and also intercalary
+androecia, terminating by 3–5 pairs of sterile leaves up to the top of the shoot and no trace of archegonia) and
+one (- three?) paroicous shoot was confirmed.
+Gynoecial shoots without saccate leaves below gynoecium were very common, they are present in nearly
+all specimens examined, as well as in the type specimens of Solenostoma sanguinolentum and Solenostoma
+marcescens. Gynoecial shoots with saccate leaves below gynoecium were not common, but they were found
+in the type material of Solenostoma marcescens, and in some other specimens (never in the type specimens of
+Solenostoma sanguinolentum). In contrast, pure androecial shoots were very rare. They were never found in
+the type specimens of Solenostoma sanguinolentum. Neither could Bakalin find the androecia in the
+isolectotype specimen in NY 967468. Two pure androecial shoots were found in the lectotype specimen of
+Solenostoma marcescens in BM (Bakalin did not mention pure androecial shoots in the specimen NY
+961508), and sometimes found in the specimen coll. Yoda (det. Amakawa as Jungermannia sanguinolenta,
+TNS 11879), and coll. Long 21570 (det. Váňa as Jungermannia sanguinolenta, E). The issue is complicated
+by the fact that the leaves are relatively large and only slightly saccate (if at all) at their bases, not
+characteristically saccate as in many other species of Solenostoma. In the saccate leaves immediately below
+gynoecia antheridia were never found, only some sterile filaments and primordials of lateral branches were
+often present. Examination of the saccate leaves somewhat distant from gynoecium resulted in the finding
+(twice) of some traces which may be interpreted as the rest of antheridial stalk or something like a filament.
+Well developed antheridia with antheridial stalks were found only once in the course of re-examination of the
+isotype material of Solenostoma marcescens in BM. One leaf with two relatively well developed antheridia
+(open) was present. The antheridial stalks were 1-cell wide at the base, and, in part, 2-cells wide above.
+Bakalin (at least according the information presented in the article) examined only the isotype specimens
+of Solenostoma marcescens and of Solenostoma sanguinolenta in NY and there is no information about the
+study of any additional specimens. He (Bakalin 2013: 139) found that “the type material of J. marcescens is
+paroicous, not dioicous as in S. sanguinolentum. Antheridia below the perianth are often lacking in this
+
+34 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+VÁŇA ET AL.
+
+species, however, and are present in approximately every third shoot. This situation is rather common in the
+paroicous species of Solenostoma where antheridia are easily washed away when herbarium material is wetted.
+The paroicous state also suggested by the constant fertilization of the archegonia in the absence of antheridial
+shoots.” This statement of Bakalin is correct, but he is not the first one showing the described problem.
+It should be mentioned that Bakalin, who was the first to discover paroicous inflorescence in the isotype
+specimen of Solenostoma marcescens, like all previous authors considered Solenostoma sanguinolentum as
+dioicous (on the basis of examination of the isotype in NY) and on this basis as a separate taxon from
+Solenostoma marcescens. Unfortunately, it is not possible (at least in the present time by present methods) to
+confirm the statement by molecular methods because both types were collected in 19th century.
+Taking the above observations of Váňa and of Bakalin into consideration (both considered correct), we
+have only one species (where the name Solenostoma sanguinolentum has priority), highly proterandrous with
+heteroicous (not exactly paroicous nor exactly dioicous) inflorescence. The proposed new combination
+Solenostoma marcescens (Mitt.) Bakalin is superfluous and falls in the synonymy of Solenostoma
+sanguinolentum. Jungermannia marcescens Mitt. cannot be treated as a “good” species (as already stated by
+Váňa 1973: 68). Heteroicity is not unknown in the genus Solenostoma and similar genera, but it is not
+common. It has been reported a few times in Solenostoma paroicum (Schiffner 1910: 320) Schuster (1953:
+402) (Váňa 1975: 83, Paton 1999: 285), Solenostoma subellipticum (Heeg 1893: 69) Schuster (1969: 1021)
+(Damsholt 2002: 232), Jungermannia pumila Withering (1796: 866) (cf., e.g., Damsholt 2002: 203, Váňa et
+Engel 2013: 76), Jungermannia polaris Lindberg (1867: 560) (Damsholt 2002: 206), and possibly also in
+Solenostoma obovatum (Nees 1833:332) Massalongo (1903: 17) (Paton 1999: 285). Also the presence of
+sterile leaves between perianth and androecium was mentioned e.g. for Jungermannia pumila, Solenostoma
+paroicum and Solenostoma subellipticum (Damsholt 2002: 227, 230).
+It is also worth mentioning that Bakalin described Nardia geoscyphus (De Notaris 1859: 486) Lindberg
+(1874) var. dioica Bakalin et al. (2010: 87) on the basis of different sexuality only. (N. geoscyphus var.
+geoscyphus is paroicous). In the footnote on the same page Bakalin correctly presented the published
+information of Váňa (1976: 379) which in the type plants of Nardia geoscyphoides Amakawa (1957: 167)
+(described as dioicous) found two subinvolucral bracts on the female inflorescence with antheridial stalks and
+fragments of an antheridium wall; this species was reduced into synonymy of Nardia geoscyphus. Maybe
+Nardia geoscyphus var. dioica represents the same problem as was found in the cases of Nardia
+geoscyphoides and Solenostoma sanguinolentum / marcescens, simply high proterandry.
+A probably identical case concerns Lophoziopsis excisa (Dickson 1793: 11) Konstantinova & Vilnet
+(2010: 66) and Lophoziopsis propagulifera (Gottsche 1890: 451) Konstantinova & Vilnet (2010: 67),
+discussed in detail in Váňa et Engel (2013: 75–76) where Lophoziopsis excisa is reported as paroicous and
+Lophoziopsis propagulifera as dioicous (Stephani 1902: 139), paroicous (Schuster 1969a: 521) or dioicous,
+rarely paroicous or autoicous (Bakalin 2005: 100). This problem was intensively studied by molecular
+methods by Vilnet et al. (2007, 2008); and the authors could not resolve Lophoziopsis propagulifera as a
+distinct species. In that study Lophoziopsis propagulifera (based on a specimen from the Kamchatka region)
+forms a separate clade with Lophoziopsis excisa (based on collections from the Murmansk area and
+Spitzbergen). They stated (Vilnet et al. 2008: 412) that “in view of the quite similar level of sequence
+divergences within Lophozia excisa, and between Lophozia propagulifera and Lophozia excisa, it is not
+possible to resolve the taxonomic status of Lophozia propagulifera. If we recognize the latter taxon at the
+species level, then the Spitzbergen specimens of Lophozia excisa should be treated as separate species, too.”
+The cladograms in the molecular studies of Vilnet et al. (2007, 2008) reveal that Lophoziopsis propagulifera
+should be separated at the specific level only if we accept additional “microspecies” within the Lophoziopsis
+excisa complex and disregard influence of ecological factors on the sexuality of the plants. Maybe similar
+problems are more common in autoicous species where this phenomenon is more complicated as the autoicity
+sometimes is difficult to detect because of disintegration of basal parts of the shoots. The many times
+discussed and not yet fully clarified problem of Lophocolea bidentata / coadunata may be mentioned in this
+context (cf. also discussion in Váňa et Engel 2013: 41–43).
+COMMENTS ON SEXUALITY IN SOLENOSTOMA
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 35
+
+Perianth:—Bakalin (2013: 139) stated “The perianth in J. marcescens is bistratose in the lower 2/3 of its
+length, and in S. sanguinolentum only in the lower third” and “The perianth of S. sanguinolentum is much
+larger than in J. marcescens (up to 6 mm long, vs. to 1.5 mm long)”. In all of about 40 specimens examined by
+the senior author the perianths were bistratose from 1/4 to 3/4. Young perianths were bistratose only in the
+lower half whereas mature perianths were bistratose mostly to 2/3–3/4. This character is naturally correlated
+with the length of the perianth and also with the length of the emergence of perianth from the female bracts. It
+should be mentioned that the perianths are fully mature in the type of Solenostoma sanguinolentum, which is
+the source of Bakalin’s observation (and thus bistratose to 2/3–3/4 and 0.7–0.8 emergent), whereas the ones in
+the type of Solenostoma marcescens are not fully mature (and thus bistratose to 1/3–1/2 and about 0.5
+emergent). The maturity of the perianth is the reason no antheridia were found in the type plants of
+Solenostoma sanguinolentum by any author including Bakalin. Thus, bistratosity and the size of the perianth
+does not separate Solenostoma sanguinolentum from Solenostoma marcescens.
+Colouration:—Bakalin (2013: 139) wrote “The typical coloration of J. marcescens plants is yellowish
+brownish to brown, as was noted by Mitten (1861), Amakawa (1966) and observed in the study of the first
+author. In contrast, the typical coloration of S. sanguinolenthum [sic!; in the article Bakalin used both forms:
+“sanguinolentum” and “sanguinolenthum”] is light to deep pink. As noted by Váňa (1972[=1973]) greencoloured plants of S. sanguinolenthum may occur, but the green coloration can be treated as merely the
+absence of secondary pigmentation. The presence of brown pigmentation versus pink in the well-exposed
+phases is quite another matter. Correlated with this feature is the rhizoid coloration; it is colorless to pinkish in
+S. sanguinolenthum versus brown to golden brown and red-brownish in J. marcescens.”
+This information (except “brown”) is the same as presented in Amakawa (1966: 256, 264). It is more
+precise in Stephani (1901: 489 “superne sanguinea” and 508 “pallide flavo-virens”). Examining a wide
+spectrum of specimens, it will be found that the colour may be green, yellow-green, yellowish brown, pinkish
+to in some parts tinged with purplish. Also the type plants of Solenostoma marcescens have partly purplish
+perianths. The purplish colour is the reaction to the occurrence in sunny places (a similar situation is very well
+known e.g. in Mylia taylorii (Hooker 1813: pl. 57) Gray (1821: 693)). The colour of old specimens is mostly
+pale or yellowish, which probably is caused by the decolouration of green plants after many years. Recent
+collections (at least the ones examined) are mostly green and tinged with purple.
+Rhizoid colouration should, according to Bakalin, be correlated with the colour of plants. The source of
+this information is probably Stephani (1901: 489, 508), who described rhizoids of Solenostoma
+sanguinolentum as “pallidis” and of Solenostoma marcescens as “purpureis”. This statement cannot be fully
+confirmed; golden brown to red brownish rhizoids are also present in some plants of the type of Solenostoma
+sanguinolenta as well as in many other specimens, and this character is never correlated with the colour of
+leaves or perianths. Many times rhizoids of the same specimen may be light brown to intensive purple. Thus,
+“brown” rhizoids and “yellowish brownish to brown” pigmentation can not be used to separate Solenostoma
+marcescens and Solenostoma sanguinolentum .
+Pachydermous leaf cell structure:—Bakalin (2013: 139) stated that “J. marcescens has rather
+pachydermous leaf cells, versus leptodermous in S. sanguinolenthum; this character correlates with the
+former’s more rigid plant habit than the latter”. This character was also given by Amakawa (1967: 264 “walls
+slightly thickened”). This character of cells, based on ecology (light), is not constant even in the type plants of
+Solenostoma marcescens as some plants have cells with thin walls. Bakalin’s drawing (fig. 8: 5) also does not
+agree with this. Again, a wide spectrum of this character (slightly pachydermous to leptodermous cells) can be
+found in the examined material. Thus, we conclude that leaf cell structure (leptodermous or pachydermous) is
+based on the ecological conditions and cannot be used to separate the taxa mentioned.
+Bakalin (l.c.: 139) also stated that Solenostoma marcescens resembles species of the Solenostoma
+pyriflorum Stephani (1917a: 83) group, whereas Solenostoma sanguinolentum is similar to those of the
+Solenostoma fusiforme (Stephani 1897: 99) Schuster (1969: 944) group. It is difficult for us to find similarity
+with Solenostoma pyriflorum or with Solenostoma fusiforme. Unpublished molecular data also confirms that
+Solenostoma sanguinolentum is very distantly related to Solenostoma pyriflorum and Solenostoma fusiforme.
+
+36 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+VÁŇA ET AL.
+
+Conclusions:—Based on the characters discussed above, Bakalin (2013) concluded that Solenostoma
+marcescens “is a ‘good’ taxon which is rather distant from S. sanguinolenthum” and makes the necessary
+combination under Solenostoma. Our observations show no difference between Solenostoma sanguinolentum
+(if we accept the heteroicous inflorescence for the taxon) and Solenostoma marcescens on the morphological
+basis as the facts discussed above confirm the opinion presented in Váňa (1973: 68) and Váňa et Long (2009:
+507) treating the taxa as conspecific. Until population studies based on molecular methods are at hand, there is
+no reason to keep the two taxa apart.
+
+Plectocolea micrantha
+Bakalin (2013: 137) states that Solenostoma micranthum (Mitten 1873: 405) Váňa et al. (2010: 137) probably
+is paroicous, not dioicous as thought until now. He found androecia just below the perianth which Mitten
+(1873: 405), who described this species, did not find (according to Bakalin probably because they are
+disappearing very quickly after fertilization), but Stephani (1901: 503), who only received one shoot, found
+intercalary androecia. In the description of the type Bakalin wrote “androecia just below perianth” which does
+not correspond with “intercalary androecia” described by Stephani (and confirmed by the senior author on the
+G specimen from herb. Stephani). Bakalin did not present figures of paroicous plants (fig. 7:2 showed only
+three antheridia, and archegonia are not in this figure as stated in the legend). If the statement of Bakalin is
+correct, Solenostoma micranthum is probably not paroicous, but heteroicous (cf. e.g. Jungermannia pumila
+and probably some other taxa incl. Solenostoma pseudopyriflorum Bakalin & Vilnet (2010: 159)).
+Solenostoma pseudopyriflorum / Solenostoma pyriflorum
+The above discussion brings up the question of the taxonomy of the Solenostoma pseudopyriflorum /
+pyriflorum complex including Solenostoma rishiriense Amakawa (1956: 48), which Bakalin & Vilnet (2010:
+159) accepted as a separate species. Solenostoma pseudopyriflorum was separated by Bakalin & Vilnet (l.c.:
+160) from Solenostoma pyriflorum on the basis of the paroicous inflorescence. In the same study they (l.c.:
+160) stated “one of its striking features is an easy disintegration of antheridia and only loosely or almost not
+inflated base of male bracts”. Some of the specimens were formerly recorded as Solenostoma rishiriense
+(Gambaryan 1992, Bakalin 2009a: 230) and Solenostoma pyriflorum (Váňa & Ignatov 2005, Bakalin
+2009b:108). It should be mentioned that the identification of two specimens by the senior author (attributed to
+Solenostoma pseudopyriflorum by Bakalin & Vilnet 2010: 160) was based only on the fact that one specimen
+has only terminal androecia and the second one is fully sterile (at least the parts of specimens available for
+examination).
+The separation of Solenostoma pseudopyriflorum is partly supported by molecular data (trnL-F cpDNA).
+In Bakalin & Vilnet (2010: 153) in both maximum parsimony and maximum likelihood phylogenetic trees
+Solenostoma pseudopyriflorum (5 specimens from Eastern Siberia) form a separate clade sister to a clade
+based on two specimens of Solenostoma pyriflorum from South Korea (from the same or nearly the same
+locality). Solenostoma pseudopyriflorum demonstrates “a stable and almost invariable sequence pattern over
+extensive territory of about 300 km, from Baikal to Kuril Islands” (l. c.: 155) and the “data support the
+segregation of Solenostoma pseudopyriflorum as a separate species distinct from S. pyriflorum.” It should be
+only mentioned that Solenostoma pseudopyriflorum replaces Solenostoma pyriflorum north of 40º N latitude.
+In the study Bakalin & Vilnet (2012: 570) used the combined trnL-F + trnG intron nucleotide sequence where
+Solenostoma pseudopyriflorum forms a separate basal clade in the major clade formed by Solenostoma
+pyriflorum, Solenostoma major (Hattori 1950: 8) Bakalin & Vilnet (2012: 574) (= Solenostoma pyriflorum
+var. major (S.Hatt.) Bakalin (2009a: 230)) and “Solenostoma sp.”.
+
+COMMENTS ON SEXUALITY IN SOLENOSTOMA
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 37
+
+Solenostoma rossicum
+Bakalin et Vilnet (2012: 571) also described a new species Solenostoma rossicum stated to be similar to
+Solenostoma sphaerocarpum, but differing in common presence of reddish pigmentation and heteroicous
+inflorescence. In the phylogenetic tree (using a Bayesian approach) five specimens of Solenostoma rossicum
+form a separate clade to Solenostoma sphaerocarpum, formed by two clades based on nine specimens
+analysed from Russia and Svalbard. Based on the molecular data obtained, the authors concluded that in spite
+of the low molecular divergence (“without significant support”) between Solenostoma rossicum and the
+related species (e.g. Solenostoma sphaerocarpum and Solenostoma confertissimum (Nees 1833: 277)
+Schljakov (1980: 239), probably also with Solenostoma caucasicum (Váňa 1970: 96) Konstantinova et al.
+(1992: 123) compared to the other taxa discussed by them), they preferred to treat Solenostoma rossicum as a
+separate species due to its “heteroicous inflorescence, a noticeable whitish to pale brownish colored stem
+especially in the lower part, and a peculiar absence of sepia or sepia-brown pigmentation”.
+The two morphological features used to distinguish the new species are colouration and heteroicous
+inflorescences. Reddish pigmentation is present only in the form of “purplish red colored leaf margin and the
+shoot tips” (l.c. p. 571) or “only in the perianth tips” (l.c. p. 573). In spite of contradictory information on
+different pages of the same study it is clear that the purple colour is present only in the most exposed parts of
+the plants. Reddish colour was not reported until now in Solenostoma sphaerocarpum except for the
+information in the description of Jungermannia pusilla (Jensen 1912: 92) Buch (1936: 71) in Amakawa
+(1960: 59 “tinged with purple”). Japanese specimens of Jungermannia pusilla were erroneously identified and
+belong to Solenostoma sphaerocarpum (Váňa 1974c: 396). The “pale brownish colored stem especially in the
+lower part, and the peculiar absence of sepia or sepia-brown pigmentation” in Solenostoma rossicum falls
+within the variability of the very polymorphous Solenostoma sphaerocarpum. Bakalin & Vilnet also stated
+that although the main diagnostic feature of the new species is a heteroicous inflorescence they are describing
+both a “paroicous phase” and a “dioicous phase”. The occurrence of “paroicous phase” and “heteroicous
+phase”, as the they wrote (l.c.: 573) is not surprising. This situation is not unknown in the genus Solenostoma
+and similar genera, but it is not common (cf. above).
+Solenostoma sphaerocarpum is distributed in Siberia across the whole Siberian Arctic, Solenostoma
+rossicum in Khabarovsk territory, Sakhalin I. and Kuril Islands. It should be added that one voucher specimen
+for the molecular analysis used in the mentioned paper was from Yakutia Rep. (outside of the mentioned
+area). Moreover, from the neighboring Japan only Solenostoma sphaerocarpum was reported.
+Our opinion on Solenostoma rossicum is influenced by the above discussion about proterandry and
+heteroicity of Solenostoma sanguinolentum, Jungermannia pumila and other species. It is a question if the
+highly proterandric, common and widely distributed species (not only in North America, Eurasia, but also in
+South America, Africa etc.) may, under the specific circumstances occur as a heteroicous taxon. It is possible
+that in the very limited range (Khabarovsky territory, Sakhalin I. and Kuril Is.) some genetical segregation
+occurs. But this question may be only answered by population and molecular studies of Solenostoma
+sphaerocarpum using voucher specimens from different areas. The present results of the molecular study (not
+fully significant according to the authors) and the above mentioned information about morphology and
+phytogeography support the opinion that Solenostoma rossicum represents a “heteroicous phase” of
+Solenostoma sphaerocarpum only.
+The above opinion was confirmed by the re-study of a paratype specimen (coll. K. Holmen 14.643, C!,
+PRC!) of Solenostoma pyriflorum subsp. purpureum (Schuster & Damsholt 1974: 178) by the senior author.
+The mentioned taxon was transferred to Solenostoma sphaerocarpum as Jungermannia sphaerocarpa subsp.
+purpurea (R.M.Schust. & Damsh.) (Damsholt 2011: 102). The difference from Solenostoma sphaerocarpum
+subsp. sphaerocarpum is the “heteroicous rarely paroicous” inflorescence, “shoot usually with purplish
+secondary pigmentation” and “small-leaved shoots frequently present” (the last character concerns var.
+innovata). Comparing the isotype specimen (var. purpureum) with the description of Solenostoma rossicum
+no difference was found. It should be mentioned that Solenostoma pyriflorum subsp. purpureum var.
+
+38 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+VÁŇA ET AL.
+
+innovatum Schuster & Damsholt (1974: 179) may belong to Solenostoma confertissimum because of larger
+median leaf cells and the presence of small-leaved shoots typical for this species.
+Solenostoma sphaerocarpum (Hook.) Steph., Bull. Herb. Boissier ser. 2, 1:499 (Spec. Hep. 2:61), 1901
+(Stephani 1901). Basionym: Jungermannia sphaerocarpa Hook., Brit. Jungerm.: tab. 74, 1815 (Hooker
+1815). Lectotype (Váňa 1974c): IRELAND. Dublin, 1814, Taylor (FH!).
+= Solenostoma rossicum Bakalin & Vilnet, Bryologist 115: 571, 2012 (Bakalin & Vilnet 2012) “rossica”, syn. nov. Type:
+RUSSIA. Khabarovsk: Okhotsk District, 59°27'31" N, 143°27'49" E, 153 m alt., clayish soil in roadside, with
+Nardia japonica Steph., 26 July 2008, V. Bakalin Kh–40–4–08 (holotype VBGI, isotype KPABG).
+= Solenostoma pyriflorum subsp. purpureum R.M.Schust. & Damsh., Hep. West Greenland: 178, 1974 = Jungermannia
+pyriflora subsp. purpurea (R.M.Schust. & Damsh.) Damsh., Lindbergia 33: 102, 2011, syn. nov. Type:
+GREENLAND. Kangersuneq, R. M. Schuster & K. Damsholt 70-3145a (isotype C!); Svartenhuk Pen., Umiarfik
+Fjord, Amitsoq, 15 July 1956 K. Holmen 14.643 (paratype C!, small isoparatype PRC!)
+
+Solenostoma major
+Bakalin & Vilnet (2012: 574) elevated Solenostoma pyriflorum var. major to specific rank. The molecular data
+for this and their value was already discussed under Solenostoma rossicum above. Morphologically, this taxon
+is separated from Solenostoma pyriflorum by the following characteristics: a) “deep purple rhizoid coloration
+versus colorless to brownish and light rose in S. pyriflorum”. However, the rhizoids in the Japanese plants
+including the type are “colorless or purple” (cf. Amakawa 1960: 62). b) “wide, flattened, undulate and distant
+leaves versus concave, not undulate and contiguous leaves”. Again, Japanese plants including the type have
+“somewhat concave” and not undulate leaves (cf. Amakawa 1960: 62). c) A tendency to occupy wet habitats.
+This character is based on only two specimens from South Korea collected on “banks of stream, where it is
+commonly growing submerged” (but Solenostoma pyriflorum also occurs on wet rocks). Thus, we regard the
+taxon as a modification that with the present knowledge at most deserves recognition at varietal rank.
+Solenostoma ochotense
+Bakalin & Vilnet (2012: 575) described Solenostoma ochotense from plants collected in Kamchatka and the
+Kuril Islands. Samples in their molecular phylogeny come out as a monophyletic group sister to Solenostoma
+fusiforme and they compare it with this species, Solenostoma koreanum Stephani (1917a: 81) and
+Solenostoma hyalinum (Hooker 1814: tab. 63) Mitten (1870: 319). However, no samples of Solenostoma
+hokkaidense were included in their phylogeny and they do not mention that taxon at all although it is
+described from the region. Type plants of Solenostoma hokkaidense are poorly developed, where as Bakalin’s
+plants are mostly optimally developed. Based on this fact, the leaf cells in Russian plants (especially the basal
+ones) are larger than in the type plants, but falls within the range of variation. This is probably an endemic
+taxon known only from Kamchatka Peninsula and Kuril Is. in Russia and Rishiri I. (Japan), the area of extant
+or extinct volcanic activity.
+Solenostoma hokkaidense (Váňa) Váňa, Hentschel et J. Heinrichs, Cryptogamie Bryologie 31: 137, 2010
+(Váňa et al. 2010). Basionym: Jungermannia hokkaidensis Váňa, J. Hattori Bot. Lab. 35: 314, 1972
+(Váňa 1972).
+= Jungermannia subelliptica var. nana Amakawa, J. Hattori Bot. Lab. 22: 21, 1960 (Amakawa 1960). Type: JAPAN.
+Hokkaido: Rishiri Is., 24 July 1954, D. Shimizu (holotype NICH-53484!).
+= Solenostoma ochotense Bakalin et Vilnet, Bryologist 115: 575, 2012 (Bakalin & Vilnet 2012) “ochotensis”, syn. nov.
+Type: RUSSIA. Kuril Is.: Paramushir Island, 50°13'50" N, 155°34'20" E, 43 m alt., V. Bakalin 02 Aug. 2008, K–115–
+4–04 (holotype VBGI, isotype KPABG).
+
+COMMENTS ON SEXUALITY IN SOLENOSTOMA
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 39
+
+Plectocolea kurilensis
+Bakalin & Vilnet (2012: 569) wrote “The relationship observed here between P. kurilensis and clade of P.
+rigidula and three poorly known Plectocolea species from South Korea is not well supported...” “Therefore,
+P. kurilensis appears to be a more heterogeneous species, with a complicated infraspecific structure that could
+be clarified by analyzing additional samples”. Bakalin (l. c.: 579) considered this species “most superficially
+similar to both P. infusca s. str. and P. rosulans” and compared it with the two mentioned species. However,
+the phylogenetic tree based on combined trnL-F + trnG does not show the close relationship of Plectocolea
+kurilensis to Solenostoma infuscum (Mitten 1891: 196) Hentschel et al. (2007: 152) and Solenostoma rosulans
+(Stephani 1897: 101) Váňa & Long (2009: 507). Moreover, in the cladogram two specimens of Plectocolea
+kurilensis from Japan are included, which are not mentioned in the description of Plectocolea kurilensis.
+Because the authors gave no information about the localities of voucher specimens, nothing more is known
+about these samples. They are placed in the basal position and they may represent “morphologically
+ambiguous samples” (l.c.: 569). In our opinion, the plants of this species are much more similar
+(morphologically) to Plectocolea ovalifolia than to any of the above mentioned species, at least according to
+drawings (l.c.: fig. 5 and 6). This taxon seems to be problematical and heterogeneous, and future studies on
+molecular and morphological basis will probably help to clarify its value. In the meantime a transfer to
+Solenostoma is necessary.
+Solenostoma kurilense (Bakalin) Váňa, comb. nov. Basionym: Plectocolea flagellata var. kurilensis Bakalin,
+Arctoa 18: 90, 2009 [2010] (Bakalin et al. 2010). Type: RUSSIA. Kuril Is.: Iturup Island, valley of
+Khvoynaya River near Gornyy Settl. (44°55'55,6"N 147°34'30,2"E), 64 m alt., 7 August 2007, V.A.
+Bakalin, K-10-1-07 (VLA)
+≡ Solenostoma flagellatum var. kurilense (Bakalin) Váňa, Phytotaxa 65: 44, 2012 (Váňa et al. 2012) ≡ Plectocolea
+kurilensis (Bakalin) Bakalin et Vilnet, Bryologist 115:577, 2012 (Bakalin & Vilnet 2012).
+
+Plectocolea ovalifolia
+The morphological differences between Plectocolea ovalifolia and Solenostoma infuscum (var. infuscum) are
+small (only uniformly oval leaves are significant). The size of plants and purple rhizoids are not important
+differences as the same size and purple rhizoids are known also in Solenostoma infuscum. However, according
+to molecular data (Bakalin & Vilnet 2012: 569) it probably represents a good taxon of specific rank
+(belonging to different clades) and they elevate Plectocolea infusca var. ovalifolia to the species rank,
+Plectocolea ovalifolia. A transfer to Solenostoma is necessary.
+Solenostoma ovalifolium (Amakawa) Váňa, comb. nov. Basionym: Plectocolea infusca var. ovalifolia
+Amakawa, J. Jap. Bot. 34: 115, 1959 (Amakawa 1959). Type: JAPAN. Hokkaido: Esan nr. Hakodate,
+Kuwahara 5758 (holotype NICH!).
+≡ Solenostoma infuscum var. ovalifolium (Amakawa) Potemkin & Sofronova, Pečënočniki i antocerotovye Rossii 1: 287,
+2009 (Potemkin 2009). ≡ Plectocolea ovalifolia (Amakawa) Bakalin et Vilnet, Bryologist 115: 579, 2012 (Bakalin &
+Vilnet 2012).
+
+Solenostoma costaricanum
+Some years ago, at a visit to the NY herbarium, the senior author studied the specimen and identified it as
+Jungermannia amoena (now Solenostoma amoenum). The sentence in Bakalin (2013: 129) “The specimen
+was identified as Jungermannia (Solenostoma) amoena Lindenb. & Gottsche…” concerns this determination.
+Bakalin disagrees with this determination and described and figured a new species, Solenostoma
+costaricanum, on the basis of this specimen. He compared it with Solenostoma crassulum (Nees & Montagne
+1836: 54) Stephani (1901: 497) and Solenostoma amoenum. The comparison with Solenostoma crassulum
+
+40 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+VÁŇA ET AL.
+
+does not deserve any comments since that the observations are correct but the two taxa are not closely related.
+There are more differences between them that is not mentioned by Bakalin. Concerning the differences from
+Solenostoma amoenum Bakalin’s descriptions are quoted below, followed by our comments: a) “androecia in
+3–4 pairs (vs. 6–12)”. The difference is based on the description by Váňa (1974a: 189). But the number of
+male bracts is not fully constant, in the time of the writing of the description the senior author saw only
+optimally developed specimens with 6–12 pairs and specimens studied later showed that the variability of this
+character is wider. b) “sometimes a shortly beaked perianth mouth (vs. rounded, not beaked)”, but in the
+description the author wrote “commonly very weakly beaked or not beaked mouth”. Also the character is very
+variable and of no taxonomic significance. c) “flaccid shoots (vs. rigid)”. Again only ecological adaptation of
+no taxonomic value. d) “absence of a perigynium (vs. common presence)” compare again the description by
+Váňa (1974a: 183): “Perigynium vorhanden oder fehlt” [perigynium present or missing].
+As an addition it should be mentioned that the drawing is not instructive and not fully corresponding with
+the description, e.g. “leaves… transversely elliptic to reniform”, “leaf cells … along margin … thin-walled,
+with thin- to slightly thickened external wall…”. All characters of this specimen fall within the variability of
+Solenostoma amoenum.
+Solenostoma amoenum (Lindenb. et Gottsche) R.M.Schust. ex Váňa, Hentschel et Heinrichs, Cryptog. Bryol.
+31:136, 2010 (Váňa et al. 2010). Basionym: Jungermannia amoena Lindenb. et Gottsche, Syn. Hepat. 5:
+674, 1847 (Gottsche et al. 1847). Type: MEXICO. Oaxaca: Talea, 5000’, 1842 Liebmann, Pl. mex.10434
+(Pl. mexic. Liebmann 250a) (lectotype: C!, isotypes S!, W-Lindenb. Hep. 1732!)
+= Solenostoma costaricanum Bakalin, Polish J. Bot. 58: 128 (Bakalin 2013), syn. nov. Type: COSTA RICA. Alajuela:
+Calera de San Ramon, 29 January 1934, A. M. Brenes 19033 (holotype NY 636521!).
+
+Plectocolea subbalfourii
+In the examination of the duplicate specimen of the type of Bakalin’s new species Plectocolea subbalfourii,
+received as a gift from T. Pócs by the senior author, only sterile plants were found, intermixed with plants of
+Marchantia and Riccardia. Recently the richer isotype specimen (Bakalin examined the smaller duplicate
+deposited in NY; moreover the first author have also a smaller duplicate) from the herbarium of Prof. T. Pócs
+(coll. Vojtkó/A,B,C; EGR) was received for re-examination. Between rhizoids of Marchantia one shoot with a
+perianth of “Plectocolea”-type was found. Based on this, the former identification by the senior author as
+Jungermannia borgenii Pearson (1892: 11) [=Solenostoma borgenii (Pearson) Stephani (1901: 493)] must be
+corrected. Bakalin (2013: 129) compared the specimen with Solenostoma balfourii, which was described on
+the basis of very sparse and poorly developed plants also from NY herbarium. He does not mention if he
+examined the type of Solenostoma balfourii, but he apparently compared the plants with the original
+description. According to Bakalin the differences from Solenostoma balfourii are as follows: a) “a higher
+perigynium ca. 0.6–0.7 of perianth length (vs. 0.3–0.5 of perianth length in Solenostoma balfourii)”. One
+shoot with perianth found in EGR specimen has perigynium only ca. 0.4 of the perianth length (not 0.6–0.7 of
+the perianth length). b) “obliquely to erect spreading rhizoids, mostly not fasciculate (vs. forming more or less
+clear fascicles)”. The rhizoids in the original (EGR) and duplicate (PRC) specimens sometimes (in the
+perianth bearing plant) form a decurrent fascicle, in the sterile shoots the fascicle is “less clear”. c) “not
+rhizogenous leaves (vs. rhizogenous)”. In the original description by Váňa (1974b: 280) rhizoids are
+mentioned as “von basalen Blatt- und Perigyniumzellen entspringend“ [originating from basal leaf and
+perigynium cells], which does not fully correspond to the term “rhizogenous leaves”. In the specimens
+examined the rhizoids originate also from basal leaf cells and perigynium cells as in original specimen. d)
+“larger midleaf cells, up to 70 × 57 μm (vs. 28–35 μm)”. In the original description (based on poorly
+developed plants) the marginal cells are 25–30 μm, median ones 28–35 μm and the basal ones 45–60 × 30–35
+μm. EGR and PRC specimens have the median cells a little bit larger (median cells 30–50 μm, basal ones up
+to 65 μm). In fact, the cells of well developed plants of Solenostoma balfourii are a little bit larger than in the
+
+COMMENTS ON SEXUALITY IN SOLENOSTOMA
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 41
+
+type specimen. The larger cell size for the species was confirmed by the study of one additional specimen of
+this species known from Réunion (coll. Gimalac 75.R.963; herb. Onraedt). In addition, Bakalin (2013: fig. 2:
+8, 9) does not show smooth cell surface although the description state “cuticle smooth”.
+Solenostoma balfourii (Váňa) Váňa, Hentschel et Heinrichs, Cryptog. Bryol. 31: 136, 2010 (Váňa et al.
+2010). Basionym: Jungermannia balfourii Váňa, Folia Geobot. Phytotax. 9(3): 279, 1974 (Váňa 1974b).
+Type:—MAURITIUS, Balfour, det. Mitten as J. dusenii (holotype: NY-Mitten!)
+= Plectocolea subbalfourii Bakalin, Polish Bot. J. 58: 129, 2013 (Bakalin 2013), syn. nov. Type: REUNION. E edge of
+Cirque de Mafate, on rocky N slope of Plateau de La Sale, along path, 26 August 1994, A. Vojtkó 9429 (holotype NY
+1717834!, isotypes in EGR!, PRC!).
+
+Solenostoma rubrum var. underwoodii
+Bakalin (2013: 131) described the new variety from the NY copy of Hepaticae Americanae [not Exsiccatae
+Hepaticae Americanae] no. 169. The following comments are based on the description of Solenostoma
+rubrum in Váňa (1974c: 398–399) and on the examination of one of the three mentioned specimens
+distributed in the exsiccata Hepaticae Americanae no. 169 from the herbarium FI. Bakalin distinguished his
+new variety from the nominal variety in the following way: a) “purplish pale violet coloration (vs. commonly
+red coloration in var. rubrum)”. Váňa (1974c: 398) states “In schwach bis stark purpurroten, seltener in
+grünen bis gelbgrünen … Rasen…” [in somewhat to intensive purplish, rarely in green to yellow-green
+patches…]. Some specimens of Solenostoma rubrum are not completely red and the FI specimen of Hepaticae
+Americanae no. 169 has mostly pinkish to pale red colour, some shoots are red. (cf. also e.g. Frye & Clark
+1943: 330 “green to reddish green”. b) “very small to virtually absent trigones inward of the leaf margin (vs.
+well developed)”. In the FI specimen the trigones are small, but not absent. c) “mostly subequally thickened
+leaf rim cells (vs. strongly unequally thickened, commonly with large trigones)”. Nearly all specimens of
+Solenostoma rubrum examined have sub-equally thickened marginal leaf cells. d) “a long exserted perianth
+(up to 4/5 or even more vs. shortly to 1/2–3/5 of its length exserted)”. This character is depending on the
+maturity of perianth. We do not see any morphological differences from Solenostoma rubrum justifying a
+separation as a new taxon.
+Solenostoma rubrum (Gottsche ex Underw.) R.M.Schust., Hepat. Anthocerotae N. Amer. 2: 975, 1969
+(Schuster 1969). Basionym: Jungermannia rubra Gottsche ex Underw., Bot. Gaz. 13: 113, 1888
+(Underwood 1888). Type: USA. California: Mendocino Co., “metamorphic sandstone quite near the Coalt
+Mendocine City” Bolander (lectotype: FH!, isotypes G!, M).
+= Solenostoma rubrum var. underwoodii Bakalin, Polish Bot. J. 58: 131, 2013 (Bakalin 2013), syn. nov. Type: USA.
+Washington: King Co., Seattle, 12 Apr. 1891, C. V. Piper 21 (holotype NY 564814, isotype FI!).
+
+Plectocolea yunnanensis
+According to Bakalin (2013: 132) this new species from the Solenostoma truncatum (Nees 1830: 29) Váňa &
+Long (2009 : 509) complex is closely related to Plectocolea boninensis (Horikawa 1934: 142) Hattori (1944:
+37), Plectocolea granulata (Stephani 1897: 100) Bakalin (2013: 132) and Plectocolea shinii (Amakawa 1970:
+156) Bakalin (2013: 132), all of which were synonymized by Váňa and Inoue (1983: 132, 134) with the very
+common and variable Solenostoma truncatum. Bakalin (l.c.: 133) with his narrow species concept of
+Solenostoma accepted the three above mentioned species as separate taxa and regarded the decision of Váňa
+& Inoue (1983: 132, 134) as “premature” and “additional studies including molecular analyses are needed to
+resolve this question.” We agree with this reasoning, yet we maintain there is no new evidence at hand to
+warrant recognition of these taxa However, Bakalin’s new species is fully identical with Solenostoma
+sikkimense, a species not at all mentioned in the text.
+
+42 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+VÁŇA ET AL.
+
+Solenostoma sikkimense (Schiffn. ex Steph.) Váňa et D.G.Long, Nova Hedwigia 89: 508, 2009 (Váňa &
+Long 2009). Basionym: Jungermannia sikkimensis Schiffn. ex Steph., Sp. Hepat. (Stephani) 5: 92, 1917
+(Stephani 1917b). Type: INDIA. Sikkim, Kurseong, Ambutia, 610 m, 22 Nov 1899 Decoly & Schaul
+(Herb. Levier 644) (holotype: G-548!, isotypes FI!, O!)
+= Plectocolea yunnanensis Bakalin, Polish Bot. J. 58: 132, 2013 (Bakalin 2013), syn. nov.. Type: CHINA. Yunnan:
+Cangyuan Co., Banhong-Xiang, Nangunhe Nature Reserve, 17 Nov 2009, W. Ma 09-0698 (holotype NY 1717750!).
+
+Solenostoma gracillimum subsp. camiguinense
+Bakalin (2013: 134) described a new subspecies of the mainly northern boreal and temperate Solenostoma
+gracillimum (Smith & Sowerby 1811: tab. 2238) Schuster (1969: 972) and stated that the plants differ from
+typical Solenostoma gracillimum f. crenulatum (Mitten 1865: 51) Schuster (1969: 980) in “concave to slightly
+convex trigones in the midleaf (vs. virtually absent), commonly not beaked mouth (vs. uniformly beaked) and
+the perianth bistratose in lower third (vs. unistratose to base)”. Slightly thick-walled cells, loosely striolate cell
+surface (cuticle) and absence of perigynium may also be added.
+Contrary to Bakalin’s view that these differences as well as the collecting site’s extreme geographical
+isolation from the other localities of Solenostoma gracillima qualify for a subspecific rank, there is strong
+evidence that the plants should be separated on the species level. The new taxon is clearly different from all
+species of Solenostoma with leaves bordered by one row of thick-walled cells [i.e. Solenostoma fusiforme,
+Solenostoma gracillimum, Solenostoma handelii (Schiffner 1909: 135) Müller (1947: 38), Solenostoma
+limbatifolium (Amakawa 1968: 112) Váňa & Long 2009: 504), Solenostoma rubrum, Solenostoma
+suborbiculatum (Amakawa 1968: 112) Váňa & Long (2009: 508)], moreover, it is not closely related to
+Solenostoma gracillimum nor to Solenostoma fusiforme. It is probably most closely related to the Himalayan
+Solenostoma suborbiculatum, which differs from the new species by a suite of characters including: thinwalled, larger leaf cells (only marginal leaf cells thick-walled, only slightly larger than inner cells); leaves
+with a nearly smooth cell surface; leaves not widely orbicular–reniform;,perianth plicate only in terminal
+portion and with a distinct beak; and the presence of an erect perigynium, etc. A new name for the taxon is
+provided below.
+Solenostoma philippinense Váňa, sp. nov.
+Description:—The description in Bakalin (2013: 134 sub Solenostoma gracillimum subsp. camiguinense) validates the
+taxon.
+Holotype:—PHILIPPINES. Is. of Camiguin, from around the fumaroles at the base of the New Volcano thrown up in
+1871, Challenger Expedition s.n. s.d. (NY 1717840!).
+≡ Solenostoma gracillimum subsp. camiguinense Bakalin, Polish Bot. J. 58: 134, 2013 (Bakalin 2013).
+Note:—The senior author has chosen a new name for the species following ICN recommendation 23A.3(j) since the
+species likely occurs beyond Camiguin Island.
+
+Solenostoma inundatum var. grandirete
+Bakalin (2013: 137) described a new variety and compared it with Solenostoma inundatum (Hooker f. &
+Taylor 1844: 559) Stephani (1901: 490) and Solenostoma rufiflorum (Colenso 1886: 237) Engel (2007: 312).
+Moreover, he wrote “The differentiating features may be regarded as induced by habitat conditions.”
+However, the specimen is—according to the description and figures (Bakalin 2013: 135–137, fig. 6) fully
+identical with Solenostoma orbiculatum, a species not mentioned or discussed by Bakalin in the text. All three
+mentioned differences from Solenostoma inundatum var. inundatum, esp. larger midleaf cells, convex trigones
+in the midleaf and strongly thickend external wall of the leaf margin, are typical for Solenostoma orbiculatum.
+Also mostly brownish plants, suborbicular to reniform, decurrent leaves, fusiform to obpyriform perianths etc.
+are typical for Solenostoma orbiculatum, not Solenostoma inundatum.
+
+COMMENTS ON SEXUALITY IN SOLENOSTOMA
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 43
+
+Solenostoma orbiculatum (Colenso) R.M.Schust., Beih. Nova Hedwigia 119: 380, 2002 (Schuster 2002).
+Basionym: Gymnomitrion orbiculatum Colenso, Trans. & Proc. New Zealand Inst. 18: 236, 1886
+(Colenso 1886). Type: NEW ZEALAND. Waipawa Co.: Mangatawhainui river, near Norsewood, 10.1884
+Colenso (lectotype: WELT!, isotypes BM!, JE!, Herb. Hodgson 13674!, 13691!)
+= Solenostoma inundatum var. grandirete Bakalin, Polish Bot. J. 58: 135, 2013 (Bakalin 2013) syn. nov. Type: NEW
+ZEALAND: Great Barrier Island, s.d. Hutton 3 (holotype NY-1717891!).
+
+Acknowledgements
+The Early Land Plants Today project (ELPT) has been generously supported in part by the Global Biological
+Information Facility (GBIF) Seed Money Award No.2007-41, activities facilitated in part by funding from the
+Biodiversity Synthesis Center of the Encyclopedia of Life (BioSynC), partial funding from the National
+Science Foundation (Award No's 0749762, 1115002), the Warwick Foundation, and the Negaunee
+Foundation.
+
+References
+Amakawa, T. (1956) Notes on Japanese Hepaticae (2). Journal of Japanese Botany 31: 47–50.
+Amakawa, T. (1957) Notes on Japanese Hepaticae (3). Journal of Japanese Botany 32: 34–41.
+Amakawa, T. (1959) Notes on Japanese Hepaticae (9). Journal of Japanese Botany 34: 111–116.
+Amakawa, T. (1960) Family Jungermanniaceae of Japan II. Journal of the Hattori Botanical Laboratory 22: 1–90.
+Amakawa, T. (1966) New or little known Asiatic species of the family Jungermanniaceae. II. Journal of the Hattori
+Botanical Laboratory 29: 253–266.
+Amakawa, T. (1967) New or little known Asiatic species of the family Jungermanniaceae. III. Journal of the Hattori
+Botanical Laboratory 30: 181–198.
+Amakawa, T. (1968) New or little known Asiatic species of the family Jungermanniaceae. IV. Journal of the Hattori
+Botanical Laboratory 31: 101–112.
+Amakawa, T. (1970) New or little known Asiatic species of the family Jungermanniaceae. VI. Jungermannia comata
+Nees and its allies. Journal of the Hattori Botanical Laboratory 33: 153–160.
+Bakalin, V.A. (2005) Monografičeskaâ obrabotka roda Lophozia (Dumort.) Dumort. s. str. 240 pp., Nauka, Moscow.
+Bakalin, V.A. (2009a “2008”) New liverwort records from Sakhalin Province. 3 [Novye nahodki pečënočnikov v
+Sahalinskoj oblasti. 3]. Arctoa 17: 226–230.
+Bakalin, V. A. (2009b “2008”) On taxonomy of some hepatics from Primorsky Territory (Russian Far East), with the list
+of taxa of the territory [O taksonomii nekotoryh pečenonikov Primorskogo kraâ (Rossijskij Dal'nij Vostok) so
+spiskom taksonov, izvestnyh v krae]. Arctoa 17: 101–108.
+Bakalin, V.A. (2013) New taxa of Solenostoma and Plectocolea and other taxonomic novelties based on study of
+collections in the New York Botanical Garden herbarium. Polish Botanical Journal 58: 127–142.
+http://dx.doi.org/10.2478/pbj-2013-0014
+Bakalin, V.A., Cherdantseva, V.Y., Ignatov, M.S., Ignatova, E.A. & Nyushko, T.I. (2010 “2009”) Bryophyte flora of the
+South Kuril Islands (East Asia). Arctoa 18: 69–114.
+Bakalin, V.A. & Vilnet, A.A. (2010 “2009”) Two new species of Jungermanniaceae from Asiatic Russia [Dva novyh vida
+Jungermanniaceae iz aziatskoj časti Rossii]. Arctoa 18: 151–162.
+Bakalin, V.A. & Vilnet, A.A. (2012) New combinations and new species of Solenostoma and Plectocolea
+(Solenostomataceae) from the Russian Far East. Bryologist 115: 566–584.
+http://dx.doi.org/10.1639/0007-2745-115.4.566
+Buch, H. (1936) Suomen Maksasammalet. Otava, Helsinki, 117 pp.
+Colenso, W. (1886) A description of some newly-discovered cryptogamic plants. Transactions and Proceedings of the
+New Zealand Institute 18: 219–255.
+Damsholt, K. (2002) Illustrated flora of Nordic liverworts and Hornworts. Nordic Bryological Society, Lund, 837 pp.
+Damsholt, K. (2011) Liverworts collected during the Norwegian east Greenland expeditions 1929–1933. Lindbergia 33:
+92–113.
+De Notaris, G. (1859) Appunti per un nuovo censimento delle epatiche italiane. Memorie della reale accademia delle
+scienze di Torino, ser. 2 18: 457–498.
+
+44 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+VÁŇA ET AL.
+
+Dickson, J. (1793) Fasciculus tertius Plantarum Cryptogamicarum Britanniae. G. Nichol, London, 24 pp.
+Engel, J.J. (2007) Studies of New Zealand Hepaticae. 20–38. A miscellanea of new taxa and combinations. Novon 17:
+310–314.
+http://dx.doi.org/10.3417/1055-3177(2007)17[310:SONZHA]2.0.CO;2
+Feldberg, K., Hentschel, J., Bombosch, A., Long, D.G., Váňa, J. & Heinrichs, J. (2009) Transfer of Gottschelia grollei, G.
+patoniae and Scaphophyllum speciosum to Solenostoma based on chloroplast DNA rbcL sequences. Plant
+Systematics and Evolution 280: 243–250.
+http://dx.doi.org/10.1007/s00606-009-0187-3
+Frye, T.C. & Clark, L. (1943) Hepaticae of North America. Part II. University of Washington Press, Seattle, pp. 163–
+334.
+Gambaryan, S.K. (1992) [Hornworts and liverworts of South Primorie]. Akademia Nauk, Vladivostok, 175 pp.
+Gottsche, C.M. (1890) Die Lebermoose Süd-Georgiens. In: Neumayer, G.B. (Ed), Die Internationale Polarforschung
+1882–83. Die Deutsche Expeditionen und ihre Ergebnisse. II Beschreibende Naturwissenschaften. A. Asher & Co.:
+Berlin, pp. 449–454.
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, S.G. (1847) Synopsis Hepaticarum, fasc. 5. Meissner,
+Hamburg, pp. 625–834.
+Gray, S.F. (1821) Natural arrangement of British Plants, according to their relation to each other. London, 824 pp.
+Griffith, W. (1849) Notulae ad Plantae Asiaticas. Part II. On the higher cryptogamous plants. Bishop’s college Press,
+Calcutta, pp. 257–628.
+Hattori, S. (1944) Contributio ad Floram Hepaticarum Austro-Kiushiuensem. Bulletin of the Tokyo Science Museum 11:
+1–203.
+Hattori, S. (1950 “1948”) Contributio ad Floram Hepaticarum Yakusimensem. III. Journal of the Hattori Botanical
+Laboratory 3: 1–35.
+Heeg, M. (1893) Die Lebermoose Niederösterreichs. Verhandlungen der Kaiserlich-Königlichen ZoologischBotanischen Gesellschaft in Wien 43: 63–148.
+Hentschel, J., Paton, J.A., Schneider, H. & Heinrichs, J. (2007) Acceptance of Liochlaena Nees and Solenostoma Mitt.,
+the systematic position of Eremonotus Pearson and notes on Jungermannia L. s. l. (Jungermanniidae) based on
+chloroplast DNA sequence data. Plant Systematics and Evolution 268: 147–157.
+http://dx.doi.org/10.1007/s00606-007-0549-7
+Hooker, W.J. (1813) British Jungermanniae: being a history and description, with figures, of each species of the genus,
+and microscopical analysis of the parts, vol. 9–15. Longmans, London, pp. 33–60.
+Hooker, W.J. (1814) British Jungermanniae: being a history and description, with figures, of each species of the genus,
+and microscopical analysis of the parts, vol. 16–17. Longmans, London, pp. 61–68.
+Hooker, W.J. (1815) British Jungermanniae: being a history and description, with figures, of each species of the genus,
+and microscopical analysis of the parts, vol. 18–19. Longmans, London, pp. 69–76.
+Hooker, J.D. & Taylor, T. (1844): Hepaticae Novae Zelandiae et Tasmaniae; being characters and brief descriptions of
+the Hepaticae discovered in the Islands of New Zealand and Van Diemen’s Land, during the Voyage of H. M.
+Discovery ships Erebus and Terror, together with those collected by R. C. Gunn and W. Colenso Esqrs. London
+Journal of Botany 3: 556–582.
+Horikawa, Y. (1934) Monographia Hepaticarum Australi-Japonicarum. Journal of Science of the Hiroshima University:
+Series B, Division 2 (Botany) 2: 101–325.
+Jensen, C.E.O. (1912) Aplozia pusilla, nov. sp. Revue Bryologique 39: 92–94.
+Konstantinova, N.A., Potemkin, A.D. & Šlâkov, R.N. (1992) Checklist of the Hepaticae and Anthocerotae of the former
+USSR. Arctoa 1: 87–127.
+Konstantinova, N.A. & Vilnet, A.A. (2010 “2009”) New taxa and new combinations in Jungermanniales (Hepaticae).
+Arctoa 18: 65–67.
+Lindberg, S.O. (1867) Förteckning öfver mossor, insamlade under de svenska expeditionerna till Spitsbergen 1858 och
+1861. Öfversigt af Kongl. Vetenskaps-Akademiens Förhandlingar 23: 535–561.
+Lindberg, S.O. (1874) Manipulus muscorum secundus. Notiser ur Sällskapets pro Fauna et Flora Fennica
+Förhandlingar 13: 351–417.
+Massalongo, C.B. (1903) Le epatiche dell’erbario crittogamico italiano: revisione critica. G. Bresciani, Ferrara, 20 pp.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+
+COMMENTS ON SEXUALITY IN SOLENOSTOMA
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 45
+
+146: 1–260.
+Mitten, W. (1861) Hepaticae Indiae Orientalis: An enumeration of the Hepaticae of the East Indies. Journal of the
+Proceedings of the Linnean Society. Botany 5: 89–128.
+Mitten, W. (1865): The “Bryologia” of the survey of the 49th parallel of latitude. Journal of the Linnean Society of
+London 8: 12–55.
+Mitten, W. (1870) Hepaticae. In: Godman, F. (Ed), Natural History of the Azores, or Western Islands. Van Voorst:
+London, pp. 316–328.
+Mitten, W. (1873 “1871”) Jungermanniae and Marchantiae. In: Seemann, B. (Ed), Flora vitiensis. Reeve: London, pp.
+325–453.
+Mitten, W. (1891) An enumeration of all species of Musci and Hepaticae recorded from Japan. Transactions of the
+Linnean Society of London. Botany 3: 153–206.
+Müller, K. (1947) Morphologische Untersuchungen zur Aufklärung einiger europäischer Lebermoose. Beiträge zur
+Kryptogamenflora der Schweiz 10(2): 1–55.
+Nees von Esenbeck, C.G. (1830) Enumeratio plantarum cryptogamicarum Javae et insularum adiacentium, quas a
+Blumio et Reinwardtio collectas describi edique curavit Christ. Godofr. Nees ab Esenbeck professor vratislaviensis.
+Fasciculus prior, hepaticas complectens, ab editore illustratas. Grass, Barth & Co., Breslau, 86 pp.
+Nees von Esenbeck, C.G. (1833) Naturgeschichte der Europäischen Lebermoose mit besonderer Beziehung auf Schlesien
+und die Oertlichkeiten des Riesengebirgs, vol. 1. August Rücker, Berlin, 348 pp.
+Nees von Esenbeck, C.G. & Montagne, J.F.C. (1836) Jungermanniearum Herbarii Montagneani species. Annales des
+Sciences Naturelles; Botanique, sér. 2 5: 52–72.
+Paton, J.A. (1999) The liverwort flora of the British Isles. 626 pp., Harley Books, Colchester.
+Pearson, W.H. (1892) Lejeuneae Madagascariensis. Forhandlinger i Videnskabs-Selskabet i Kristiania 1892(8): 3–9.
+Potemkin A.D. & Sofronova E.V. (2009) Pečënočniki i antocerotovye Rossii 1. Russian Academy of Sciences, Komarov
+Botanical Institute, Saint Petersburg & Jakutsk, 367 pp.
+Schiffner, V. (1909) Hepaticae (In: Handel-Mazzetti H.M. (Ed.), Ergebnisse einer botanische Reise in das Pontische
+Randgebirge im Sandschak Trapezunt). Annalen des K. K. Naturhistorischen Hofmuseums 23: 133–141.
+Schiffner, V. (1910) Kritische Bemerkungen über die europäischen Lebermoose mit Bezug auf die Exemplare des
+Exsiccatenwerkes: Hepaticae europaeae exsiccatae VIII (363–376). Lotos. Zeitschrift für Naturwissenschaften 58:
+314–333.
+Schuster, R.M. (1953) Boreal Hepaticae. A manual of the liverworts of Minnesota and adjacent regions. American
+Midland Naturalist 49(2): 257–684.
+http://dx.doi.org/10.2307/2422089
+Schuster, R.M. (1969) The Hepaticae and Anthocerotae of North America east of the Hundredth Meridian. Vol. 2.
+Columbia University Press, New York & London, 1060 pp.
+Schuster, R.M. (2002) Austral Hepaticae. Part II. Beihefte zur Nova Hedwigia 119: 1–606.
+Schuster, R.M. & Damsholt, K. (1974) The Hepaticae of West Greenland from ca. 66°N to 72°N. Meddelelser om
+Grønland 199(1): 1–373, 80 map.
+Schljakov, R.N. (1980) Novye interesnye nahodki pečenočnikov iz severnyh rajonov SSSR [De hepaticis in regionibus
+borealibus URSS inventis novis et curiosis notula]. Novosti Sistematiki Nizših Rastenij 17: 235–241.
+Smith, J.E. & Sowerby, J. (1811) English Botany, vol. 32. J. Davis, London, pp. 2233–2304.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+Stephani, F. (1897) Hepaticae Japonicarum. Bulletin de l’Herbier Boissier 5: 76–108.
+Stephani, F. (1901) Species Hepaticarum 2. Bulletin de l’Herbier Boissier, série 2 1: 477–521.
+Stephani, F. (1902) Species Hepaticarum 2. Bulletin de l’Herbier Boissier, série 2 2: 35–48.
+Stephani, F. (1917a) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 1–128.
+Stephani, F. (1917b) Species Hepaticarum 5. George & Cie, Genève & Bale, pp. 1009–1044.
+Underwood, L.M. (1888) Some undescribed hepaticae from California. Botanical Gazette 13(5): 112–114.
+http://dx.doi.org/10.1086/326267
+Váňa (1970) Jungermannia caucasica sp. n. (Hepaticae). Preslia 42: 96.
+Váňa, J. (1972) Miscellaneous notes on the Asiatic Jungermannioideae. Journal of the Hattori Botanical Laboratory 35:
+312–318.
+Váňa, J. (1973 “1972”) Miscellaneous notes on the Asiatic Jungermannioideae II. Journal of the Hattori Botanical
+Laboratory 36: 57–74.
+Váňa, J. (1974a) Studien über die Jungermannioideae (Hepaticae). 4. Jungermannia subg. Plectocolea und subg.
+Solenostoma: Allgemeines, süd- und mittelamerikanische Arten. Folia Geobotanica et Phytotaxonomica 9: 179–
+208.
+Váňa, J. (1974b) Studien über die Jungermannioideae (Hepaticae). 5. Jungermannia subg. Plectocolea und subg.
+Solenostoma: Afrikanische Arten. Folia Geobotanica et Phytotaxonomica 9: 277–312.
+
+46 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+VÁŇA ET AL.
+
+Váňa, J. (1974c) Studien über die Jungermannioideae (Hepaticae). 6. Jungermannia subg. Solenostoma: Europäische
+und nordamerikanische Arten. Folia Geobotanica Phytotaxonomica 9: 369–423.
+Váňa, J. (1975) Studien über die Jungermannioideae (Hepaticae). 7. Jungermannia subg. Plectocolea: Europäische und
+nordamerikanische Arten. Folia Geobotanica Phytotaxonomica 10: 67–99.
+Váňa, J. (1976) Studien über die Jungermannioideae (Hepaticae). 10. Nardia. Folia Geobotanica et Phytotaxonomica 11:
+367–425.
+Váňa, J. & Engel, J.J. (2013) The liverworts and hornworts of the Tristan da Cunha group of islands in the south Atlantic
+Ocean. Memoirs of the New York Botanical Garden 105: 1–138.
+Váňa, J., Hentschel, J. & Heinrichs, J. (2010) New combinations in Jungermanniales: transfer of 32 taxa to Solenostoma
+Mitt. Cryptogamie, Bryologie 31: 135–139.
+Váňa, J. & Engel, J. J. (2013) The liverworts and Hornworts of the Tristan da Cunha group of Islands in the South
+Atlantic Ocean. Memoirs of The New York Bot. Garden 105: i–x, 1–138, figs. 1–11.
+Váňa, J., Hentschel, J. & Heinrichs, J. (2010) New combinations in Jungermanniales: transfer of 32 taxa to Solenostoma
+Mitt. Cryptogamie, Bryologie 31(2): 135–139.
+Váňa, J. & Ignatov, M.S. (1995): Bryophytes of Altai Mountains. V. Preliminary list of the Altaian hepatics. Arctoa 5: 1–
+13.
+Váňa, J. & Inoue, H. (1983) Studies in Taiwan Hepaticae. V. Jungermanniaceae. Bulletin of the National Science
+Museum, Tokyo. Series B, Botany 9: 125–142.
+Váňa, J. & Long, D.G. (2009) Jungermanniaceae of the Sino-Himalayan region. Nova Hedwigia 89: 485–517.
+http://dx.doi.org/10.1127/0029-5035/2009/0089-0485
+Váňa, J., Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. 2. Two new
+combinations in Solenostoma. Phytotaxa 65: 44.
+Vilnet, A.A., Konstantinova, N.A. & Troitsky, V.A. (2008) Phylogeny and systematics of the genus Lophozia s. str.
+(Dumort.) Dumort. (Hepaticae) and related taxa from nuclear ITS1–2 and chloroplast trnL-F sequences. Molecular
+Phylogenetics and Evolution 47: 403–418.
+http://dx.doi.org/10.1016/j.ympev.2007.12.013
+Vilnet, A.A., Milyutina, I.A., Konstantinova, N.A., Ignatov, M.S. & Troitsky, V.A. (2007) Phylogeny of the Genus
+Lophozia (Dumort.) Dumort. s. str. inferred from nuclear and chloroplast sequences ITS1-2 and TRNL-F. Russian
+Journal of Genetics 43: 1556–1564.
+http://dx.doi.org/10.1134/S1022795407110142
+Withering, W. (1796) An arrangement of British Plants, ed. 3. London, pp. 513–920.
+
+COMMENTS ON SEXUALITY IN SOLENOSTOMA
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 47
+
+

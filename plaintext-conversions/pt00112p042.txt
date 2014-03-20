@@ -1,0 +1,473 @@
+Phytotaxa 112 (2): 33–42 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.112.2.1
+
+A new species of Hechtia (Bromeliaceae) from southwestern Tamaulipas, Mexico
+IVÓN RAMÍREZ MORILLO1,3, CARLOS F. JIMÉNEZ NAH1 & JACINTO TREVIÑO CARREÓN2
+1
+
+Centro de Investigación Científica de Yucatán, A. C., Unidad de Recursos Naturales-Herbario CICY, Calle 43 # 130. Colonia
+Chuburná de Hidalgo, Mérida, Yucatán 97200, México.
+2
+Universidad Autónoma de Tamaulipas, Facultad de Ingeniería y Ciencias, Centro Universitario Adolfo López Mateos, Cd. Victoria,
+Tamaulipas 87149, México.
+3
+ramirez@cicy.mx
+
+Abstract
+A new species of Hechtia from the Mexican State of Tamaulipas is herein proposed as new: Hechtia hernandezsandovalii, which is known only from the municipality of Villa de Miquihuana in the southwestern portion of the state.
+The new species is easily recognized by the following combination of characters: its white cotton-like indument (turning
+brownish with age) on the branches, rachis, and peduncle of both staminate and pistillate inflorescences. The new taxon
+is compared with H. glomerata, a species morphologically similar.
+
+Resumen
+Una nueva especie de Hechtia Klotszch del estado mexicano de Tamaulipas se propone como nueva: Hechtia hernandezsandovalii, la cual se conoce solo del Municipio de Villa de Miquihuana en la porción suroeste del estado. La nueva
+especie se reconoce fácilmente por la siguiente combinación de caracteres: inflorescencia, ramas, pedúnculo y raquis
+cubiertas por un indumento blanco parecido al algodón, que se torna café con el tiempo. El nuevo taxón se compara con
+H. glomerata, especie morfológicamente similar.
+Key words: Dioecy, endemism, Hechtia glomerata, IUCN, lateral inflorescence
+
+Introduction
+Hechtia Klotzsch (1835: 401) members range from Southern Texas (Big Bend National Park) to northern
+Nicaragua in Central America (Departments of Nueva Segovia and Jinotega), occurring on an area defined as
+Megamexico III by Rzedowski (1991). Most of the species of the genus are in Mexico (94% of them) and are
+endemic to it; Oaxaca houses ca. 20 species (Espejo et al., 2007), but species numbers decrease toward
+northern Mexico, with only 2-3 species reported for the northern states of Baja California: H. montana
+Brandegee (1889: 9) and H. gayorum Lenz (1995: 59), and only three species reported from Tamaulipas: H.
+epigyna Harms (1935: 531–532) described from Jaumave but recently reported from Hidalgo as well (Espejo
+et al., 2010b), H. mexicana Smith (1935: 149) described from Sierra del Abra in San Luis Potosí, and H.
+glomerata Zuccarini (1840:240). This last binomial has been applied to several populations from Tamaulipas
+in Mexico to Honduras in Central America but the status of this species was recently clarified by Jiménez
+(2011) and Espejo et al. (2010a) currently remaining restricted to the Mexican states of Guanajuato, Hidalgo,
+Querétaro, and San Luis Potosí. Espejo et al. (2004) referred Hechtia populations from several municipalities
+in Tamaulipas to H. glomerata. Among these, some actually represent a new entity from the Municipio de
+Miquihuana, herein described as a new species and henceforth compared with H. glomerata.
+
+Accepted by Eric Gouda: 30 May 2013; published online in PDF: 19 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+33
+
+Materials and methods
+Herbarium specimens were prepared from plants collected in Tamaulipas from 2009 through 2012.
+Morphological variation of rosette features at population level was evaluated in the field. The complete
+material was cross examined to verify its status as a new species against all species recorded from Tamaulipas
+and neighboring states with the information on the protologues, including type material or images of them.
+Species assessed include Hechtia epigyna Harms, H. glomerata Zucc., and H. mexicana.
+We compared different structures ranging from growth habit, through rosette features, inflorescence
+origin and architecture, flower shapes, color, etc. across species with close geographical distributions. We
+consider this approach very useful for people trying to identify populations from the same general area. In
+performing this exercise, we aim at the use of characters preserved in herbarium specimens as well as those
+only observed in living plants. To accomplish this, besides relevant description, we provide images and
+drawings.
+The sequence of the description of the fertile structures of new entity is as follows: first the staminate
+inflorescence, then the pistillate inflorescence followed by fruit characteristics.
+
+Taxonomy
+Hechtia hernandez-sandovalii I. Ramírez, C. F. Jiménez & Treviño, sp. nov. (Fig. 1 (A,C,E,F), 2, 3).
+Species similar to Hechtia glomerata Zucc. in its acaule rosettes with narrowly triangular blades, glabrous above,
+densely white lepidote below, lateral inflorescence, and staminate and pistillate flowers with white petals. However,
+H. hernandez-sandovalii presents branches of the inflorescence densely covered with a initially white indumentum
+that turns brownish with age and flowers totally immersed in it (vs. thin indumentums and flowers not immersed in
+it), rosettes taller than wide, leaves erect, falcate, laminae green, never developing red color (vs. rosette ellipsoid,
+wider than tall, leaves horizontally extended, apices deflexed, leaves green, shiny above, usually develop red color
+in H. glomerata); foliar sheaths shorter (2.5–3 cm vs. 3–6 cm in H. glomerata); floral parts (floral bracts, petals,
+sepals, ovary, anthers, and staminodes) and fruits larger, but seeds smaller in H. hernandez-sandovalii.
+TYPE:—MEXICO. Tamaulipas: Municipio de Miquihuana, 17 km al W de Miquihuana camino a Estanque de Los
+Walle, 23°62’N, 98°57’–99°06'W, 28 mayo 1986, Hernández & Martínez 1797 (holotype MEXU! (2), isotypes
+(QMEX!, TEX-LL, UAT!).
+
+♀
+
+Terrestrial, caespitose, rosetofilous herbs, when blooming 1–1.80 m tall. Rosettes up to 35 cm diameter, taller
+than wide, leaves erect, falcate, new rosettes originating at the base of old ones and forming large colonies.
+Leaves 25–35 per rosette, succulent, straight and pointing upwards, foliar sheaths transversally oblong, 2.5–3
+cm long, (2.6–) 3.7–4.8 cm wide, when dry white-yellowish adaxially and brownish abaxially, sometimes
+with a distally darker brown area, glabrous on both surfaces, basally entire, finely dentate close to the lamina;
+foliar blades narrowly triangular, acuminate, pungent, 21–39 cm long, 1.3–2.9 cm wide at base, 0.5–1.1 cm
+wide on the mid area, green, glabrous to sparsely white lepidote adaxially, white lepidote abaxially, margins
+spinose, spines 4–7 mm long, , uncinate, generally retrorse, (0.8–) 1.6–4.4 (–5.1) cm apart, laxly arranged
+toward the apex, reddish. Inflorescence lateral, erect.
+Staminate inflorescence a 2-divided panicle, 1.15–1.53 m long; peduncle 58–61 cm long, 0.9–1.3 cm
+diameter, base flattened, light brown, sparsely white lepidote but sometimes glabrous, much longer than
+leaves; peduncle bracts triangular to triangular-ovate, acuminate, 2.3–6.2 cm long, 1–2.7 cm wide, brownish,
+sparsely lepidote, finely and laxly denticulate at base, entire towards the apex, strongly nerved, longer than
+internodes at the base, shorter towards the apex; main axis 57–92 cm long, 0.4–0.8 cm diameter, cylindrical,
+sometimes slightly sinuose, light brown, sparsely lepidote, soon glabrous; its internodes 1.4–4.8 cm long,
+shorter towards the base; primary bracts triangular, acute, acuminate, 1–4 cm long, 0.6–1.2 cm wide,
+brownish, sparsely lepidote, entire, strongly nerved; primary branches ca. 30 per inflorescence, 2–8.3 cm
+long, 0.8–1.3 cm diameter, sessile, ascending or appressed to main axis, ca. 8–50 (–70) flowers per branch;
+
+34 •
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+RAMÍREZ ET AL.
+
+FIGURE 1. Hechtia hernandez-sandovalii (A, C, E, F). A. Plant in habit. C. Young staminate inflorescence showing white
+indumentum. E. Staminate branch. F. Pistillate branch. Hechtia glomerata (B, D). B . Plant in habit, see rosette shape and leaf color. D.
+Staminate (above) and pistillate (below) flowers. Photographs A, B, C, D by Ivón Ramirez; E and F by Jacinto Treviño Carreón.
+
+A NEW SPECIES OF HECHTIA (BROMELIACEAE)
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+• 35
+
+FIGURE 2. Hechtia hernandez-sandovalii. Pistillate plant. A. Floral bract. B. Sepals. C. Petals. D. Ovary with sessile stigma E.
+Longitudinal section of the ovary showing details of ovules. F. Staminode. (Based on C. Jiménez et al. 27 (CICY)). Illustration by
+Carlos Jiménez.
+
+secondary branches 1.3–2.5 cm long, ca. 10–20 flowers on each branch; floral bract long-ovate, shortacuminate, 6.3–8.2 mm long, 4–4.4 mm wide, brownish, erose, densely white lepidote, 7-nerved, exceeding
+sepals and petals; flowers densely clustered and covered by a dense white indumentums which is cotton like
+and becomes brownish with age, 6.5–7.5 mm long, 3–3.2 mm diameter, sessile; sepals connate by ½ of their
+
+36 •
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+RAMÍREZ ET AL.
+
+length, oblong, acute, 4.4–5.3 mm long, 2.3–2.5 mm wide, brownish, erose, densely white-lepidote, 5-nerved,
+slightly carinate, shorter than petals; petals free, obovate, rounded, 5.5–6 mm long, 2.8–3 mm wide, entire,
+white, densely white-lepidote, 7-nerved; stamens erect, adnate to the petals and pistillode base, barely
+protruding at anthesis, 3.2–4 mm long; filaments narrowly triangular, 2.9–3.5 mm long, 0.7 mm wide, white;
+anthers ca. 2.2 mm long, ca. 0.8 mm wide; pistillode conical, 1.4 mm long including vestigial stigmatic lobes,
+ca. 1.2 mm diameter, greenish to almost white; vestigial stigmatic lobes narrow, erect, 0.7 mm long.
+
+FIGURE 3. Hechtia hernandez-sandovalii. Staminate plant. A. Floral bract. B. Sepals. C. Petals. D. Pistillode. E. Stamen. (Based on
+C. Jiménez et al. 27a (CICY)). Illustration by Carlos Jiménez.
+
+A NEW SPECIES OF HECHTIA (BROMELIACEAE)
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+• 37
+
+Pistillate inflorescence a 1–2 divided panicle, 0.73–1.30 m long; peduncle 37–75 cm long, 0.5–0.9 cm
+diameter, base flattened, reddish or brownish, sparsely white lepidote, soon glabrous, much longer than
+leaves; peduncle bracts triangular, acuminate, 1.7–6.3 cm long, 0.7–2.6 cm wide, brownish, sparsely lepidote,
+finely and loosely denticulate at base, entire towards the apex, strongly nerved, longer than basal internodes,
+equal or shorter on apical ones, its internodes 1.5–2.6 cm long, increasing in length from base to apex; main
+axis 27–80 cm long, 0.3–0.4 cm diameter, terete, sometimes sinuous, reddish or brownish, sparsely lepidote,
+sometimes glabrous, its internodes 1.5–5.8 cm long; primary bracts triangular, acuminate, 0.9–3 cm long, 0.7–
+1 cm wide, brownish, sparsely lepidote, entire, strongly nerved; primary branches 11–13 per inflorescence,
+0.9–4.7 cm long, (0.5–) 0.9–1.7 cm diameter; its rachis 0.15–0.2 cm diameter, basal portion of the branch
+(sterile portion), ca. 1–3 (–12) mm, flattened at base, ascending or appressed to the main axis, ca. 6–30
+flowers on primary branches; secondary branches 1–1.5 cm long, with ca. 4–10 flowers each ; floral bracts
+transversely oblong to wide elliptic, short acuminate, 8.7–9.4 mm long, 5.8–6 mm wide, brownish, margin
+erose, densely white lepidote, 7-nerved, exceeding sepals and petals; flowers densely clustered and covered
+by a dense white indumentums which is cotton like and becomes brownish with age, 7–7.5 mm long, 4–4.6
+mm diameter, sessile; sepals connate by ½ of their length, ovate, acute, 6.2–6.5 mm long, 4–4.2 mm wide,
+brownish, margin erose, densely white lepidote, 5-nerved, carinate, sometimes as long as the petals; petals
+free, ovate, acute, 6.5–6.9 mm long, 3.8–4.4 mm wide, white, entire, densely white lepidote, 7-nerved;
+staminodes narrowly triangular, 2.6–3.8 mm long, 0.5–0.7 mm wide at base; vestigial anthers triangular;
+filaments adnate to the base of petals and ovary, white; ovary superior, ovoid, 6 mm long, 3 mm diameter,
+white or greenish; stigmatic lobes erect, ca. 1.5–1.8 mm long; placentation central, ovules ovoid, covered by a
+membranous, transparent wing, 0.8 mm long, 0.6 mm de diameter including the wing. Fruits ellipsoid to wide
+ellipsoid, 7.2–8 mm long, 4–5.2 mm wide, brown, sepals, petals, staminodes, and stigmatic lobes persistent
+remaining on the fruit; seeds fusiform, 3.3–3.9 mm long, 1–1.4 mm wide, brown with two apical wings; apical
+wing 0.3–0.5 mm long, basal wing 0.4–0.9 mm long.
+Distribution and habitat:—Hechtia hernandez-sandovalii has been so far only collected in a very
+restricted area in the extreme southwestern portion of Tamaulipas, Municipio Miquihuana, at the localities of
+La Peña, Estanque de Los Walle, Estanque Eguia, Servando Canales, La Perdida, San José del Llano, and
+Miquihuana (figure 4). The new species is an important component of what has been denominated
+“rosetofilous acaulescent thickets of Hechtia” (Treviño-Carreón & Valiente-Banuet, 2005), on extensive
+limestone hills or rocky exposed areas. Also but less often, the new species can be found inhabiting the lower
+stratum of pine forest and rosetofilous caulescent thickets of Dasylirion miquihuanense Bogler (1998: 76) and
+D. qudrangulatum S. Watson (1879: 250). In the plains and plateaus of these same sites, Hechtia hernandezsandovalii is often found associated with Agave lechuguilla Torrey (1858: 213) forming a plant association
+called “Agave-Hechtia acaulescent rosetofilous shrubland”. Rosetofilous shrublands are interspaced with
+rosetofilous forests of Yucca filifera Chabaud (1876: 432) and Y. carnerosana (Trelease 1902: 118) McKelvey
+(1938: 24), as well as microphilous shrublands of Larrea tridentata (Candolle 1824:706) Coville (1893: 75).
+The distribution area is located between 1800 to 2200 m above sea level, with rains during summer (July to
+September) ranging from 500 to 700 mm, with temperatures ranging from -4°C and 41°C. The new species
+blooms from May to June, producing fruits in the following three months, which remain on the plant for a
+year when they open and free the seeds.
+Other species usually found growing with Hechtia hernandez-sandovalii are Agave striata Zucc.
+(Karwinsky & Zuccarini, 1833: 678), Celtis pallida Torrey (1859: 250), Cylindropuntia leptocaulis (Candolle
+1828b: 118) F.M. Knuth (Backeberg & Knuth 1935:122), Euphorbia antisiphylitica Zuccarini (1832: 292),
+Jatropha dioica Sessé in Cervantes (1794: 4), Koeberlinia spinosa Zuccarini (1832: 359), Lippia graveolens
+Kunth (1817 “1818“: 266), Opuntia imbricata (Haworth 1819: 70) Candolle (1828a: 278), Opuntia
+stenopetala Engelmann (1856: 289), Pinus cembroides Zuccarini (1832: 392), Pinus nelsonii Shaw (1904:
+122), Prosopis glandulosa Torrey (1827: 192), among others.
+Additional specimens examined (paratypes):—MEXICO. Tamaulipas: Mun. Palmillas, 8.5 al noroeste
+de Palmillas [23°22’06’’N, 99°30’53’’O], 1550 m snm, 7 Julio 1985, P. Hiriart, V. Juárez y R. Molczadzki 937
+
+38 •
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+RAMÍREZ ET AL.
+
+fruits (MEXU!, UAT!); 926 (MEXU!); Mun. Miquihuana, 1 km delante de la Perdida, [23°33’18’’N,
+99°51’58’’O], 1850 m snm, 4 Junio 1986, H. Sánchez-Mejorada 3648 (MEXU! (2)); 17 km al O de
+Miquihuana camino a Estanque de Los Walle, 23°62' N, 99°06' W, 28 Mayo 1986, L. Hernández & M.
+Martínez 1799 (MEXU! (2), TEX-LL!, UAT!); 1.5 km después de la desviación hacia Estanque Los Walle,
+23°32’41’’N, 99°53’53’’O, 1461 m snm, 12 Julio 2012, C. Jiménez, J. Treviño, A. de León, O. López y T.
+Hernández 27 (CICY!, IEB!, US!), C. Jiménez, J. Treviño, A. de León, O. López y T. Hernández 27a
+(CICY!, HGOM!, IEB!, US!, XAL!); 5.5 km al O de Miquihuana, por la carretera a San José del Llano, 2
+km antes del entronque de la Perdida, 23°32’34.3’’N, 99°50’31.5’’W, 1592 m, 12 Junio 2009, I. Ramírez, J.
+Treviño & S. Terán Treviño 1610 (CICY!); 1610a fruits (CICY!).
+
+♀
+
+♀
+
+♂
+
+♀
+
+♂
+
+♂
+
+FIGURE 4. Geographical distribution of Hechtia hernandez-sandovalii (black triangles) and Hechtia glomerata (black circles).
+
+Etymology:—We dedicate this species to Luis G. Hernández Sandoval who collected the type material of
+this new species.
+Discussion:—The new species along with additional ca. 10 taxa, are part of a group defined as the
+Hechtia glomerata Zucc. complex by Jiménez (2011) who characterized it by the presence of lateral,
+paniculate inflorescences, 1–3 divided, peduncle flattened at its base, a white indumentum covering all the
+inflorescences and its parts in both staminate and pistillate plants. Flowers on species on this complex are
+generally grouped in glomerules or sometimes laxly disposed along the branches, sessile to subsessile,
+pistillate and staminate flowers with white petals, those staminate with white filaments, green to yellowgreenish anthers, those pistillate with white stigma, and fruits with fusiform seeds. Phylogenetic analysis are
+on their way but preliminary results with morphological characters and sequences of the plastid region rpl32
+for 38 taxa of Hechtia suggest the monophyly of the complex (I. Ramírez et al., unpublished).
+The new species resembles Hechtia glomerata Zucc., a species also characterized by the presence of
+lateral inflorescences, but with rosettes producing stolons, leaves horizontally extended with deflexed apices,
+producing open rosettes that are wider than tall, foliar laminae with adaxial surface shiny and usually coloring
+red. Its pistillate branches are condensed, glomerule like, but staminate branches are elongated, and both of
+A NEW SPECIES OF HECHTIA (BROMELIACEAE)
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+• 39
+
+them covered by a thin layer of white indumentums and flowers present white petals. On the other hand,
+rosettes of Hechtia hernandez-sandovalii do not produce stolons, their leaves are erect, falcate, producing
+rosettes that are taller than wide, with foliar laminae green without developing red color. Its pistillate as well
+as staminate branches are cylindrical and these covered by a dense white indumentums which is cotton like
+and becomes brownish with age.
+A more detailed study of floral features shows that foliar sheaths on the new taxon are shorter (2.5–3 cm
+vs. 3–6 cm in H. glomerata), its floral parts larger (floral bracts, petals, sepals, ovary, anthers, and
+staminodes), as well as larger fruits but contrastingly smaller seeds in H. hernandez-sandovalii. Growth habit
+also differs between these species: H. hernandez-sandovalii form circular colonies of tens of rosettes. New
+ones are produced on the periphery with central, old ones gradually dying (and becoming black when
+eventually burned), making the colony acquire the aspect of a "fairy ring". On the other hand, rosettes of H.
+glomerata form small colonies of few rosettes, usually developing stolons, but never forming a circular
+colony on a shape of a fairy ring, with and all rosettes remaining alive.
+The indumentum density in the new taxon varies from populations at high elevations (ca. 1800 m, e.j.
+locality La Peña) to slighter thinner at elevations below 1800 m. We have under cultivation representatives of
+several populations of Hechtia glomerata spanning the altitudinal range of the species and the indumentum
+density in the inflorescences is not affected by changes of elevation brought about by this common garden
+experiment, thus supporting the notion that this character is not affected by elevation differences within the
+species.
+IUCN Conservation assessment:—IUCN Conservation assessment:—VU. Hechtia hernandezsandovalii meets criteria D2 of the IUCN (2001). The species is known from an area of less than 2 km2 within
+which it occurs only at a handful of small sites. Albeit local populations of the species can be rich in
+individuals and are often inaccessible, they are widely dispersed and isolated on the slopes and tops of small
+hills.
+MER Conservation assessment:—MER Conservation assessment:—A (“Amenazada”, “threatened”).
+Hechtia hernandez-sandovalii is known from an area of smaller that 0.2% of the Mexican territory. After
+assessing all the criteria of this method, and based upon the relevant factors established in the preceding
+paragraphs, H. hernandez-sandovalii scores 12 points, which places it in the mentioned category
+(SEMARNAT, 2002).
+TABLE 1. Main differences between Hechtia glomerata Zucc. and H. hernandez-sandovalii.
+Feature
+
+H. glomerata
+
+H. hernandez-sandovalii
+
+Rosette features
+
+Leaves horizontally extended with apices
+deflexed, green, may develop red color;
+rosette ellipsoid, wider than tall
+
+Leaves erect, apices erect; falcate, green,
+never develop red color; rosettes taller than
+wide
+
+Foliar sheaths
+
+3–6 cm long
+
+2.5–3 cm long
+
+Floral bract (staminate flower)
+
+4–5 mm long, as long as the petals
+
+6.3–8.2 mm long, longer than the petals
+
+Petals (staminate flowers)
+
+3.5–4 mm long, ovate to wide-elliptical
+
+4.4–5.3 mm long, oblong
+
+Floral bract (pistillate flower)
+
+Triangular-ovate to triangular, 4.5–6 mm
+long, equal to the petals
+
+Transversely oblong, 8.7–9.4 mm long,
+longer than the petals
+
+Sepals (pistillate flower)
+
+4.2–6 mm long
+
+6.2–6.5 mm long
+
+Ovary
+
+Ellipsoid to oblong, ca. 5 mm long
+
+Ovoid, 6 mm long
+
+Anthers
+
+Ca. 1 mm long
+
+Ca. 2.2 mm long
+
+Staminodes
+
+Ca. 2 mm long, no vestigial anthers
+
+2.6–3.8 mm long, with vestigial anthers
+
+Fruit
+
+Ovoid
+
+Ellipsoid
+
+Seeds
+
+5.2–7.2 mm long
+
+3.3–3.9 mm long
+
+40 •
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+RAMÍREZ ET AL.
+
+Acknowledgments
+We are indebted to the Elizabeth Bascom Fellowship and to the KLARF Program for the scholarship granted
+to the first author that allowed the study of material from several herbaria while at Herbarium MO and
+Herbarium K respectively. To the Deutscher Akademischer Austauschdienst (DAAD), Botanischer Garten
+und Botanisches Museum Berlin-Dahlem, Freie Universität Berlin and Centro de Investigación Científica de
+Yucatán, A. C. for financial support to visit and study the Bromeliaceae collection at Herbarium B during
+2011. Our thanks to the curators of the following herbaria: B, BM, CICY, F, GH, IEB, HEID, HGOM, K, LG,
+LL, M, MEXU, MICH, MO, NY, OAX, RSA, TEX, UAMIZ, UAT, UC, US, VT, WU, XAL, and Z for
+allowing us to study the herbarium material deposited at their herbaria. We would like to thank Tania
+Hernández López, Oscar López Hernández, Adán De León Contreras, and Sergio Antonio Terán, for their
+help in the field, Paola Marfil for editing the line drawings figures and Germán Carnevali for editing the
+English of this paper. Finally, we thank two anonymous reviewers for their comments and suggestions which
+improved the clarity and quality of this paper. Field work was supported by Consejo Nacional de Ciencia y
+Tecnología’s Project 183281, as well as Proyect UAT10-NAT0101 of Dirección de Estudios de Posgrado e
+Investigación de la Universidad Autónoma de Tamaulipas, awarded to the first and third author respectively.
+
+References
+Backeberg, C. & Knuth, F.M. (1935) Kaktus-ABC: en haandbog for fagfolk og amatører. København: Gyldendalske
+Boghandel - Nordisk Forlag. Copenhagen. 432 pp.
+Brandegee, T.S. (1889) New species of plants from Mexico. Erythea 7: 1–12.
+Bogler, D.J. (1998) Three New Species of Dasylirion (Nolinaceae) from Mexico and a clarification of the D.
+longissimum Complex. Brittonia 50: 71–86.
+http://dx.doi.org/10.2307/2807720
+Candolle, A.P. de. (1824) Enumeratio Contracta Ordinum, Generum, Specierumque Plantarum. Prodromus Systematis
+Naturalis Regni Vegetabilis 1: 1–745.
+http://dx.doi.org/10.5962/bhl.title.286
+Candolle, A.P. de. (1828a) Enumeratio Contracta Ordinum, Generum, Specierumque Plantarum. Prodromus Systematis
+Naturalis Regni Vegetabilis 3: 1–491.
+http://dx.doi.org/10.5962/bhl.title.286
+Candolle, A.P. de. (1828b) Revue de la Famille des Cactées. Mémoires du Muséum d'Histoire Naturelle 17: 1–472.
+Cervantes, V. (1794) Gazeta de literatura de México 3(Suppl.): 1–35
+Chabaud, J.B. (1876) Floraison d’ un Yucca filifera. Revue Horticole 48: 1–538
+Coville, F.V. (1893) Botany of the Death Valley Expedition. Contributions from the United States National Herbarium 4:
+1–363.
+Engelmann, G. (1856) Synopsis of the Cactaceae of the territory of the United States. Proceedings of the American
+Academy of Arts and Sciences 3: 259–311.
+http://dx.doi.org/10.2307/20021194
+Espejo-Serna, A., López-Ferrari, A.R., Ramírez-Morillo, I., Holst, B.K., Luther, H. & Till, W. (2004) Checklist of
+Mexican Bromeliaceae with notes on species distribution and levels of endemism. Selbyana 25: 33–86.
+Espejo-Serna, A., López-Ferrari, A.R., Martínez-Correa, N. & Pulido-Esparza, V.A. (2007) Bromeliad flora of Oaxaca,
+Mexico: richness and distribution. Acta Botanica Mexicana 81: 71–147.
+Espejo-Serna, A., López-Ferrari, A.R. & Ramírez-Morillo, I.. (2010a), Bromeliaceae, in: Flora del Bajío y de Regiones
+Adyacentes 165: 1–145.
+Espejo-Serna, A., López-Ferrari, A.R. & Zamudio, S. (2010b) Reencuentro con Hechtia epigyna Harms (Bromeliaceae).
+Acta Botanica Mexicana 90: 11–18.
+Harms, H. (1935) Bromeliaceae novae V. Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem 12: 525–
+539.
+http://dx.doi.org/10.2307/3994848
+Haworth, A.H. (1819) Supplementum plantarum succulentarum. vol. 1, 160 pp.
+http://dx.doi.org/10.5962/bhl.title.9314
+IUCN. (2001) IUCN Red List Categories and Criteria,Version 3.1. Prepared by the IUCN Species Survival Commission.
+IUCN, Gland, Switzerland and Cambridge, UK. http://www.iucn.org/
+
+A NEW SPECIES OF HECHTIA (BROMELIACEAE)
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+• 41
+
+http://dx.doi.org/10.1017/s0030605303250663
+Jiménez, C. (2011) Sistemática del complejo Hechtia glomerata Zucc. (Bromeliaceae). Tesis para obtener el grado de
+Licenciado en Biología. Instituto Tecnológico de Conkal, Yucatán. 157 pp.
+Karwinsky von Karwin, W.F. v. & Zuccarini, J.G. (1833) Fourcroya longaeva. In: Zuccarini, J.G. Über einige Pflanzen
+aus de Gatttungen Agave und Fourcroya. Nova Acta Physico-medica Academiae Caesareae Leopoldino-Carolinae
+Naturae Curiosorum Exhibentia Ephemerides sive Observationes Historias et Experimenta 16: 659–679, T 49–51.
+Klotzsch, J.F. (1835) Eine neue Gattung der Bromeliaceen. Allgemeine Gartenzeitung 3: 401–403.
+Kunth, K.C.S. (1817 “1818”) Verbenaceae. Nova Genera et Species Plantarum (quarto ed.) 2: 244–285, t. 130–137.
+Lenz, L.W. (1995) A New Species of Hechtia (Bromeliaceae, Pitcairnioideae) from The Cape Region, Baja California
+Sur, Mexico. Aliso 14: 59 – 61.
+McKelvey, S.D. (1938) Yucca of the Southwestern United States. Arnold Arboretum of Harvard University Vol. 1.
+Jamaica Plain, MA. 150 pp.
+Rzedowski, J. (1991) El endemismo en la flora fanerogámica mexicana: una apreciación analítica preliminar. Acta
+Botanica. Mexicana 15: 47–64.
+SEMARNAT (Secretaría del Medio Ambiente y Recursos Naturales, 2002). Norma Oficial Mexicana NOM-059-ECOL2001. Protección ambiental- Especies nativas de México de flora y fauna silvestres. Categorías de riesgo y
+especificaciones para su inclusión, exclusión o cambio. Lista de especies en riesgo. Anexo normativo I, método de
+evaluación del riesgo de extinción de las especies silvestres en México MER. Diario oficial de la federación,
+segunda sección, 6 de marzo de 2002, pp. 1–85.
+Shaw, G.R. (1904) The pines of Cuba. Gardeners' Chronicle & Agricultural Gazette ser. 3, 36:1–468.
+Smith, L.B. (1935) Studies en Bromeliaceae VI. Proceedings of the American Academy of Arts and Sciences 70:147–
+220.
+http://dx.doi.org/10.2307/20023130
+Trelease, W. (1902) The Yucceae. Report of the Missouri Botanical Garden 13: 27–133.
+http://dx.doi.org/10.2307/2400121
+Treviño–Carreón, J. & Valiente–Banuet, A (2005) La vegetación de Tamaulipas y sus principales asociaciones vegetales.
+In: Barrientos Lozano, L., Correa Sandoval, A., Horta Vega, J.V. y García Jiménez, J. (Eds.). Biodiversidad
+Tamaulipeca Vol. 1. Instituto Tecnológico de Cd. Victoria, DGEST–SEP, Cd. Victoria, Tam., México, pp. 22–46.
+Torrey, J. (1827) Some account of a collection of plants made during a journey to and from the Rocky Mountains in the
+summer of 1820, by Edwin P. James, M.D. Assistant Surgeon U.S. Army. Annals of the Lyceum of Natural History
+of New York. pp. 161–254.
+Torrey, J. (1859) Botany of the Boundary. In William H. Emory. Report on the United States and Mexican Boundary (1):
+29–259, pl. I–LXI.
+Watson, S. (1879) Revision of the North America Liliaceae. Proceedings of the American Academy of Arts and Sciences
+14: 213–303.
+http://dx.doi.org/10.2307/25138538
+Zuccarini, J.G. (1832) Plantarum novarum vel minus cognitarum. Abhandlungen der Mathematisch-Physikalischen
+Classe der Königlich Bayerischen Akademie der Wissenschaften 1: 289–396.
+Zuccarini, J.G. (1840) Plantarum cognitarum vel minus cognitarum. Abhandlungen der Mathematisch-Physikalischen
+Classe der Königlich Bayerischen Akademie der Wissenschaften 3: 221–251.
+
+42 •
+
+Phytotaxa 112 (2) © 2013 Magnolia Press
+
+RAMÍREZ ET AL.
+
+

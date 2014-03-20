@@ -1,0 +1,1037 @@
+Phytotaxa 112 (1): 18–32 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.112.1.4
+
+Notes on Early Land Plants Today. 43. New combinations in Lophocoleaceae
+(Marchantiophyta)
+LARS SÖDERSTRÖM1, JI Í VÁ A2, BARBARA CRANDALL-STOTLER3, RAYMOND E. STOTLER3,
+ANDERS HAGBORG4 & MATT VON KONRAT4
+
+Ň
+
+Ř
+
+1
+
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+Department of Botany, Charles University, Benátská 2, CZ-12801 Praha 2, Czech Republic; vana@natur.cuni.cz
+3
+Department of Plant Biology, Southern Illinois University, Carbondale, Illinois 62901-6509, USA; crandall@plant.siu.edu,
+stotler@plant.siu.edu
+4
+Department of Botany, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Söderström et al. (2013) outlined the current status of the family Lophocoleaceae. Following their concept
+several new combinations are needed, most of which are made here. While many of the taxa treated below
+need to be lectotypified, we are generally not doing that here.
+We only transfer taxa that have been shown to belong to the new genus in recent studies (molecular and/or
+morphological) or taxa that have been studied by the authors (see Söderström et al. 2013 for further
+references). There still exist taxa that need to be transferred from Chiloscyphus, but we are not transferring
+them here, since it is unclear to us in which genus they belong.
+The format of this note follows Söderström et al. (2012) except that we use the Melbourne International
+Code of Nomenclature for algae, fungi, and plants (ICN; McNeill et al. 2012) instead of the Vienna
+International Code of Botanical Nomenclature (ICBN; McNeill et al. 2006).
+
+New combinations in Cryptolophocolea
+Cryptolophocolea L.Söderstr., Crand.-Stotl., Stotler et Vá a, Phytotaxa 97: 39, 2013 (Söderström et al.
+2013).
+
+ň
+
+Type: Cryptolophocolea ciliolata (Nees) L.Söderstr., Crand.-Stotl., Stotler et Vá a, Phytotaxa 97: 39, 2013 (Söderström
+et al. 2013)
+Note:—It is not fully clear which taxa to include in this genus and which to refer to Lophocolea or other genera. In this
+paper, we include only those taxa that molecular studies have confirmed to belong to Cryptolophocolea and taxa that
+recently have been classified into Chiloscyphus subgen. Connati (as well as other taxa that are morphologically
+close to it; cf. Söderström et al. 2013). The first group of taxa that follows are transferred based upon molecular
+evidence provided in Hentschel et al. (2007), Glenny et al. (2009), Engel et al. (2010), Engel & He (2010),
+Vanderpoorten & Long (2006) and Vanderpoorten et al. (2012) in addition to morphology.
+ň
+
+Cryptolophocolea chiloscyphoidea (Lindenb. ex Lehm.) L.Söderstr. et Crand.-Stotl., comb. nov.
+Basionym:––Plagiochila chiloscyphoidea Lindenb. ex Lehm., Nov. Stirp. Pug. 8: 4, 1844. (Lehmann 1844).
+Type:––CHILE. Magellanstr., Port Famine, Jacquinot 59a (lectotype [Grolle 1963: 65] PC).
+Chiloscyphus chiloscyphoideus (Lindenb. ex Lehm.) Vanderp., Schäf.-Verw. et D.G.Long, Taxon 59: 185, 2010
+(Vanderpoorten et al. 2010). Leptoscyphus chiloscyphoideus (Lindenb. ex Lehm.) Gottsche, Bot. Zeitung (Berlin)
+16, Beil.: 33, 1858 (Gottsche 1858).
+≡
+
+≡
+
+Cryptolophocolea ciliolata (Nees) L.Söderstr., Crand.-Stotl., Stotler et Vá a, Phytotaxa 97: 39, 2013
+(Söderström et al. 2013).
+
+ň
+
+18 Accepted by Jon Shaw: 24 May 2013; published online in PDF: 17 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Basionym:—Jungermannia ciliolata Nees, Enumer. Pl. Javae: 68, 1830 (Nees 1830).
+Type:—INDONESIA. Java: in ligno putrido, rara, Blume, ex hb. Lehmann, misit Nees 1832, (syntype S-B25177).
+Lophocolea ciliolata (Nees) Gottsche, Bot. Zeitung (Berlin) 16, Beil.: 38, 1858 (Gottsche 1858). Chiloscyphus
+ciliolatus (Nees) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 413, 1984 [1985] (Engel & Schuster 1985).
+= Lophocolea gaudichaudii Mont., Ann. Sci. Nat., sér. 2, 19: 250, 1843 (Montagne 1843), syn. fide Piippo (1985: 154).
+Chiloscyphus gaudichaudii (Mont.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 415, 1984 [1985] (Engel &
+Schuster 1985).
+= Lophocolea beecheyana Taylor, London J. Bot. 5: 365, 1846 (Taylor 1846), syn. fide Piippo (1985: 154).
+Chiloscyphus beecheyanus (Taylor) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 411, 1984 [1985] (Engel &
+Schuster 1985).
+≡
+
+≡
+
+≡
+≡
+
+Cryptolophocolea compacta (Mitt.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea compacta Mitt., Trans. Linn. Soc. London, Bot. 3: 198, 1891 (Mitten 1891).
+Type:—JAPAN, "Challenger Exp.", 1875 (NY).
+= Lophocolea japonica Steph., Bull. Herb. Boissier sér. 2, 6: 941 (Sp. Hepat. 3: 121), 1906 (Stephani 1906c), syn. fide
+Inoue (1959: 222). Chiloscyphus japonicus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 417, 1984
+[1985] (Engel & Schuster 1985), nom. illeg. (ICN Art. 53.1; non Chiloscyphus japonicus Steph., Bull. Herb.
+Boissier sér. 2, 7: 697 (Sp. Hepat. 3: 207), 1907 (Stephani 1907c). Chiloscyphus yezoensis T.Katag. et Furuki,
+Bryol. Res. 10: 204, 2012 (Katagiri & Furuki 2012). Note:—This name was recently proposed by Katagiri & Furuki
+as a nom. nov. for the later homonym Chiloscyphus japonicus (Steph.) J.J.Engel et R.M.Schust. Chiloscyphus
+japonicus Steph. was reduced to Chiloscyphus polyanthos by Hattori (1952: 44).
+= Lophocolea integristipula Steph., Bull. Herb. Boissier sér. 2, 6: 941 (Sp. Hepat. 3: 121), 1906 (Stephani 1906c), syn.
+fide Hattori (1952:44). Chiloscyphus integristipulus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 417,
+1984 [1985] (Engel & Schuster 1985).
+≡
+
+≡
+
+≡
+
+Cryptolophocolea connata (Sw.) L.Söderstr. et Vá a, comb. nov.
+
+ň
+
+Basionym:—Jungermannia connata Sw., Prodr. (Swartz): 143, 1788 (Swartz 1788).
+Type:—JAMAICA, Swartz (Lectotype [here designated] S-B25227!, isolectotypes G, NY-575464, S [5 specimens]
+UPS-B39480).
+Lophocolea connata (Sw.) Nees ex Mont., Ann. Sci. Nat., Bot. (sér. 2) 12: 51, 1839 (Montagne 1839). Chiloscyphus
+connatus (Sw.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 413, 1984 [1985] (Engel & Schuster 1985).
+≡
+
+≡
+
+Cryptolophocolea costata (Nees) L.Söderstr. comb. nov.
+Basionym:—Jungermannia costata Nees, Enumer. Pl. Javae: 69, 1830 (Nees 1830).
+Type:—INDONESIA. Habitat inter muscos locis montosis Javae, Blume, ex hb. Lehmann, (syntype S-B25269).
+Lophocolea costata (Nees) Gottsche, Bot. Zeitung (Berlin) 16, Beil.: 38, 1858 (Gottsche 1858). Chiloscyphus
+costatus (Nees) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 413, 1984 [1985] (Engel & Schuster 1985).
+=Lophocolea giulianettii Steph., Bull. Herb. Boissier sér. 2, 6: 953 (Sp. Hepat. 3: 133), 1906. (Stephani 1906c), syn. fide
+Piippo (1985: 156). Chiloscyphus giulianettii (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 415, 1984
+[1985] (Engel & Schuster 1985).
+≡
+
+≡
+
+≡
+
+Cryptolophocolea guadalupensis (Steph.) L.Söderstr. et Vá a, comb. nov.
+
+ň
+
+Basionym:—Lophocolea guadalupensis Steph., Bull. Herb. Boissier sér. 2, 7: 65 (Sp. Hepat. 3: 153), 1907 (Stephani
+1907a).
+Type:—GUADELOUPE. s.loc., Perrottet, Herb Stephani no. 1369 (lectotype [Fulford 1976: 448] G-00051406).
+Chiloscyphus guadalupensis (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 416, 1984 [1985] (Engel &
+Schuster 1985), “guadeloupensis”.
+≡
+
+Cryptolophocolea helmsiana (Steph.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea helmsiana Steph., Bull. Herb. Boissier sér. 2, 6: 794 (Sp. Hepat. 3: 94), 1906 (Stephani 1906a).
+Type:—NEW ZEALAND, s.loc., Helms, Herb. Stephani no. 17631 (G-00112467).
+Chiloscyphus helmsianus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 416, 1984 [1985] (Engel & Schuster
+1985).
+≡
+
+Cryptolophocolea leucophylla (Hook.f. et Taylor) L.Söderstr., comb. nov.
+Basionym:—Jungermannia leucophylla Hook.f. et Taylor, London J. Bot. 3: 384, 1844 (Hooker & Taylor 1844).
+
+NEW COMBINATIONS IN LOPHOCOLEACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 19
+
+Type:—NEW ZEALAND. Auckland Islands: Auckland Creek, 1840, Hooker (syntypes BM, E, FH-259486).
+Chiloscyphus leucophyllus (Hook.f. et Taylor) Taylor ex Gottsche, Lindenb. et Nees, Syn. Hepat. 2: 181, 1845
+(Gottsche et al. 1845).
+= Chiloscyphus verrucosus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 415, 1984 [1985] (Engel & Schuster
+1985), syn. fide Engel (1991a: 312).
+= Chiloscyphus fulvus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 425, 1984 [1985] (Engel & Schuster 1985),
+syn. fide Engel (1991a: 312).
+≡
+
+Cryptolophocolea martiana (Nees) L.Söderstr., Crand.-Stotl. & Stotler, comb. nov., subsp. martiana
+Basionym:—Lophocolea martiana Nees, Syn. Hepat. 2: 152, 1845 (Gottsche et al. 1845).
+Type:—BRAZIL. Martius (syntype W-Lindenb. Hep. 4092!).
+Chiloscyphus martianus (Nees) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 419, 1984 [1985] (Engel & Schuster
+1985).
+= Chiloscyphus jugalifolius Taylor, London. J. Bot. 5: 283, 1846. (Taylor 1846), syn. fide Fulford (1976: 441).
+= Lophocolea congoana Steph., Bull. Herb. Boissier sér. 2, 7: 306 (Sp. Hepat. 3: 170), 1907. (Stephani 1907c), syn. fide
+Gradstein et al. (1983: 135 ). Chiloscyphus congoanus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 419,
+1984 [1985] (Engel & Schuster 1985).
+= Lophocolea newtonii Steph., Bull. Herb. Boissier sér. 2, 7: 306 (Sp. Hepat. 3: 170), 1907 (Stephani 1907b), syn. nov.
+Type:—Africa occ. Insula Principe, Newton 11, Herb. Stephani no 17741 (lectotype [Jones 1953: 190] G-00045369).
+Lophocolea martiana subsp. newtonii (Steph.) R.M.Schust., Hepat. Anthocerotae N. Amer. 4: 237, 1980 (Schuster
+1980).
+≡
+
+≡
+
+≡
+
+Cryptolophocolea martiana subsp. bidentula (Nees) L.Söderstr., Crand.-Stotl. & Stotler, comb. nov.
+Basionym:—Chiloscyphus bidentulus Nees, Syn. Hepat. 2: 181, 1845 (Gottsche et al. 1845).
+Type:—BRAZIL. Hb. Hampe.
+Lophocolea bidentula (Nees) Fulford, Mem. New York Bot. Gard. 11: 439, 1976 (Fulford 1976). Lophocolea
+martiana subsp. bidentula (Nees) Gradst., Mem. New York Bot. Gard. 87: 73, 2003 (Gradstein & Costa 2003).
+≡
+
+≡
+
+Cryptolophocolea massalongoana (Schiffn.) L.Söderstr., comb nov.
+Basionym:—Lophocolea massalongoana Schiffn., Akad. Wiss. Wien, Math.-Naturwiss. Kl., Denkschr. 70: 198, 1900
+(Schiffner 1900).
+Type:—Needs to be lectotypified from the many syntypes in FH.
+Chiloscyphus costatoides J.J.Engel et R.M.Schust., Nova Hedwigia 39: 413, 1984 [1985] (Engel & Schuster 1985),
+non Chiloscyphus massalongoanus Steph., Hedwigia 32: 325, 1893 (Stephani 1893).
+≡
+
+Cryptolophocolea pallidovirens (Hook.f. et Taylor) L.Söderstr., comb. nov.
+Basionym:—Jungermannia pallidovirens Hook.f. et Taylor, London J. Bot. 3: 473, 1844 (Hooker & Taylor 1844).
+Type:—CHILE. Tierra del Fuego: Cape Horn, Hooker 12 (lectotype [Vanderpoorten et al. 2010: 185] BM, isolectotypes
+G, NY).
+Chiloscyphus pallido-virens (Hook.f. et Taylor) Taylor ex Gottsche, Lindenb. et Nees, Syn. Hepat. 2: 178, 1845
+(Gottsche et al. 1845), "pallide-virens".
+≡
+
+Cryptolophocolea perissodonta (Spruce) L.Söderstr., comb. nov.
+Basionym:—Lophocolea martiana var. perissodonta Spruce, Trans. & Proc. Bot. Soc. Edinburgh 15: 432, 1885 (Spruce
+1885).
+Type:—BRAZIL "fl. Negro et Uaupés; etiam circa Pará", Spruce (MANCH).
+Chiloscyphus perissodontus (Spruce) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 421, 1984 [1985] (Engel &
+Schuster 1985).
+Note:—This transfer follows the study of Hentschel et al. (2007) but as indicated in that work (cf. their fig. 1) it may
+perhaps be better treated as an infraspecific taxon of Cryptolophocolea martiana.
+≡
+
+Cryptolophocolea spinifera (Hook.f. et Taylor) L.Söderstr., comb. nov.
+Basionym:—Jungermannia spinifera Hook.f. et Taylor, London J. Bot. 3: 381, 1844 (Hooker & Taylor 1844).
+Type:—NEW ZEALAND. Auckland Island: November 1840, Hooker (lectotype [Engel 2010: 128] FH, isolectotypes
+BM).
+Chiloscyphus spinifer (Spruce) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 423, 1984 [1985] (Engel & Schuster 1985).
+≡
+
+20 •
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+The following taxa have been placed into Chiloscyphus subgen. Connati or are related to a species placed there, but have
+not yet been included in any molecular study. Morphology supports their transfer to Cryptolophocolea.
+
+Cryptolophocolea aculeata (Mitt.) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus aculeatus Mitt. in Hooker, Bot. Antarct. Voy. II (Fl. Nov.-Zel. 2): 140, 1854 (Mitten 1854).
+Type:—NEW ZEALAND. "(herb. Mitten)" (NY, WELT).
+
+Cryptolophocolea connatifolia (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus connatifolius J.J.Engel, Phytologia 83: 42, 1997 [1998] (Engel 1998).
+Type:—AUSTRALIA. Tasmania: Gordon River, Gorge Creek, near Pine Landing, sea level, Engel 14648 (holotype FC0000109F, isotype HO).
+
+Cryptolophocolea edentata (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus edentatus J.J.Engel, Phytologia 83: 43, 1997 [1998] (Engel 1998).
+Type:—AUSTRALIA. Tasmania: Cradle Mtn.-Lake St. Clair Natl. Park, Ballroom Forest, SW side of Lake Dove, 9501050 m, Engel 13993 (holotype F-C0000108F, isotype HO).
+
+Cryptolophocolea fleischeri (Steph.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea fleischeri Steph., Bull. Herb. Boissier sér. 2, 6: 952 (Sp. Hepat. 3: 132), 1906 (Stephani 1906c).
+Type:—SRI LANKA. Hunasgirias Peak, 9 February 1898, M. Fleischer ex herb. Levier 2029 (lectotype [here
+designated] G-112452 [=G-17703]).
+Note:—N. Kitagawa annotated all four syntypes in G in 1969. Three of them are annotated as synonyms of Lophocolea
+ciliolata (Nees) Steph. but the specimen cited above was annotated as "type". It is a packet containing only two
+stems.
+Chiloscyphus ceylonensis J.J.Engel, Fieldiana, Bot. n.s. 48: 133, 2010 (Engel 2010), non Chiloscyphus fleischeri
+Steph., Sp. Hepat. (Stephani) 6: 306, 1922 (Stephani 1922).
+≡
+
+Cryptolophocolea levieri (Schiffn.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea levierii Schiffn., Akad. Wiss. Wien, Math.-Naturwiss. Kl., Denkschr. 70: 198, 1900 (Schiffner
+1900).
+Type:—INDONESIA. Java, Prov. Preanger: in silvis primaevis secus viam ad locum dictum "Tjiburrum" prope Tjibodas.
+28.IV.1894 (c. per. et male), alt. 1575 m, Schiffner 1207 (lectotype [Piippo 1985: 160] FH-258724).
+Chiloscyphus paroicus J.J.Engel et R.M.Schust., Nova Hedwigia 39: 420, 1984 [1985] (Engel & Schuster 1985), non
+Chiloscyphus levieri Steph., Bull. Herb. Boissier sér. 2, 8: 132 (Sp. Hepat. 3: 248), 1908 (Stephani 1908).
+≡
+
+Cryptolophocolea lilliena (Steph.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea lilliena Steph., Sp. Hepat. (Stephani) 6: 282, 1922 (Stephani 1922).
+Type:—KENYA. Near Mt. Kenia, 1910, A. G. Allan, Herb. Stephani no. 587 (G-00045366).
+Chiloscyphus lillienus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 418, 1984 [1985] (Engel & Schuster
+1985).
+≡
+
+Cryptolophocolea mitteniana (Colenso) L.Söderstr., comb. nov., var. mitteniana
+Basionym: Isotachis mitteniana Colenso, Trans. & Proc. New Zealand Inst. 21: 69, 1888 [1889] (Colenso 1889).
+Type:—NEW ZEALAND. North Is.: Waipawa Co., Ourisia slip, Redclyffe River, near Norsewood, 1885, Colenso a.
+1300 (lectotype [Engel 1991a: 312] WELT, isolectotype BM).
+Chiloscyphus mittenianus (Colenso) J.J.Engel, Bryologist 94: 312, 1991. (Engel 1991a).
+= Chiloscyphus vulcanicus Colenso, Trans. & Proc. New Zealand Inst. 21: 59, 1888 [1889] (Colenso 1889), syn. fide
+Engel (1991a: 312).
+= Chiloscyphus hispidus Steph., Sp. Hepat. (Stephani) 6: 308, 1922 (Stephani 1922), syn. fide Engel (2010: 175).
+≡
+
+Cryptolophocolea mitteniana var. obtusa (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus mittenianus var. obtusus J.J.Engel, Phytologia 83: 44, 1997 [1998] (Engel 1998).
+Type:—NEW ZEALAND. South Is: Otago Prov.: Mt. Maungatua, W of Mosgiel, 760 m, Engel 17768 (holotype F,
+isotype CHR).
+
+NEW COMBINATIONS IN LOPHOCOLEACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 21
+
+Cryptolophocolea mitteniana var. symmetrica (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus mittenianus var. symmetricus J.J.Engel, Phytologia 83: 44, 1997 [1998] (Engel 1998).
+Type:—NEW ZEALAND. South Is., Westland Prov.: Westland Natl. Park, track to Alex Knob, off track to Louisa Peak,
+1170 m, Engel 18973 (holotype F-C0000115F, isotype CHR).
+
+Cryptolophocolea pallida (Mitt.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea pallida Mitt. in Hooker, Bot. Antarct. Voy. II (Fl. Nov.-Zel. 2): 135, 1854 (Mitten 1854).
+Type:—NEW ZEALAND. "Northern Island, Auckland, Sinclair" (NY).
+Chiloscyphus pallidus (Mitt.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 420, 1984 [1985] (Engel & Schuster 1985).
+= Jungermannia multipenna Hook.f. et Taylor, London J. Bot. 4: 81, 1845, nom. illeg. (ICN Art. 53.1; hom. illeg. non
+Hook.f. et Taylor 1844: 381) (Hooker & Taylor 1845), syn. fide Mitten (1854: 135). Chiloscyphus multipennus
+J.J.Engel et R.M.Schust., Nova Hedwigia 39: 419, 1984 [1985] (Engel & Schuster 1985).
+Note:—When Hooker & Taylor (1844) first described Jungermannia multipenna, they inadvertently repeated the
+diagnosis for Jungermannia intortifolia Hooker & Taylor (1844: 374), which is the basionym of Isotachis
+intortifolia (Hook.f. et Taylor) Gottsche (1864: 121; see Hooker & Taylor 1845: 81 where this error was first
+discussed). This makes Jungermannia multipenna 1844 (based on Campbell I. material) a superfluous name (nom.
+illeg. ICN Art. 52.1) since it was based on the same type as Jungermannia intortifolia. Aware of their error, the
+following year Hooker and Taylor published Jungermannia multipenna Hooker & Taylor (1845: 81), based upon
+Auckland Is. material, but this is also illegitimate as a later homonym (ICN Art. 53.1) since Jungermannia
+multipenna 1844 had already been effectively published. When Gottsche et al. (1845) transferred Jungermannia
+multipenna to Lophocolea they cited the 1844 publication, technically making this name a synonym to Isotachis
+intortifolia. In Gottsche et al. (1847) they tried to correct it with a new combination citing the 1845 basionym, but as
+the earlier Lophocolea multipenna 1845 was effectively published, this later name also became an illegitimate
+homonym. In 1854 Mitten named Lophocolea pallida to include the nom. illeg. "[Jungermannia] Lophocolea
+multipenna Hook. fil et Tayl. Flor Antarct. p.155" as a synonym, noting that the Auckland Island specimen in
+Hooker's herbarium is a mix of vegetative shoots of Leioscyphus decipiens and a fertile shoot of Lophocolea pallida,
+and that the 1845 description of Jungermannia multipenna was compiled from both taxa. When Engel & Schuster
+(1985) transferred Jungermannia multipenna 1845 to Chiloscyphus, it could have been considered a valid nom. nov.
+for all illegitimate names based on Jungermannia multipenna 1845 following ICN Art. 58.1 except for the fact that
+another epithet is available that has priority at that rank, namely Lophocolea pallida Mitt. When Engel (1991b)
+selected a lectotype for Jungermannia multipenna 1845 of Hooker plants from Auckland Is., he also reduced L.
+pallida to it, and in fact, all of the illustrations for Chiloscyphus multipennus used in his publication were from the
+type of Lophocolea pallida. Based on ICN Art. 58.1, this earlier epithet is the correct name for this taxon and is the
+basionym for the new combination above.
+= Chiloscyphus involucratus Colenso, Trans. & Proc. New Zealand Inst. 22: 455, 1890 (Colenso 1890) "involucrata",
+syn. fide Engel (2010: 137).
+= Lophocolea erectifolia Steph., J. Linn. Soc., Bot. 29: 269, 1893 [1892] (Stephani 1892), syn. fide Hodgson (1953: 345).
+?= Chiloscyphus erectifolius Steph., Bull. Herb. Boissier sér. 2, 8: 147 (Spec. Hep. 3: 263), 1908 (Stephani 1908),
+nom. inval. (ICN Art. 38.1(a); no description and ICN Art. 41.5; no basionym cited). Note:—The name
+“Chiloscyphus erectifolius St.” was never validly published by Stephani but appears only in a list of taxa that he
+associated with the genus Lophocolea.
+≡
+
+≡
+
+Cryptolophocolea proteus (Herzog) L.Söderstr., comb. nov.
+Basionym:—Lophocolea proteus Herzog, Feddes Repert. Spec. Nov. Regni Veget. 57: 164, 1955 (Herzog 1955).
+Type:—COLOMBIA. Killip 15330 (holotype JE-4001801).
+Chiloscyphus proteus (Herzog) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 421, 1984 [1985] (Engel & Schuster
+1985).
+≡
+
+Cryptolophocolea pycnophylla (Spruce) L.Söderstr., comb. nov.
+Basionym:—Lophocolea pycnophylla Spruce, Trans. & Proc. Bot. Soc. Edinburgh 15: 434, 1885 (Spruce 1885).
+Type:—PERU. Mt. Guayrapurina, Spruce (syntype NY-1020409)
+Chiloscyphus pycnophyllus (Spruce) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 421, 1984 [1985] (Engel & Schuster
+1985).
+≡
+
+22 •
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Cryptolophocolea regularis (Steph.) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus regularis Steph., Hedwigia 32: 325, 1893 (Stephani 1893).
+Type:—RÉUNION. St. Pala, Rivière de Roches, Paul Lepervanche comm. clar. Bescherelle, Herb. Stephani no. 633 (G00045025).
+= Lophocolea onraedtii Grolle, J. Hattori Bot. Lab. 55: 505, 1984 (Grolle 1984), syn. fide Engel (2010: 133).
+
+Cryptolophocolea stephanii (Schiffn.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea stephanii Schiffn., Akad. Wiss. Wien, Math.-Naturwiss. Kl., Denkschr. 70: 197, 1900 (Schiffner
+1900).
+Type:—INDONESIA. Java: oberhalb Tjibodas, 1500-1800m; Pangerango oberhalb Tjiburrum, 1780m, Schiffner (FH;
+many syntypes, lectotypification needed).
+Chiloscyphus ciliolatoides J.J.Engel et R.M.Schust., Nova Hedwigia 39: 412, 1984 [1985] (Engel & Schuster 1985),
+non Chiloscyphus stephanii N.Kitag., J. Hattori Bot. Lab. 37: 266, 1973 (Kitagawa 1973).
+≡
+
+Cryptolophocolea subopposita (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus suboppositus J.J.Engel, Phytologia 83: 45, 1997 [1998] (Engel 1998).
+Type:—AUSTRALIA. Tasmania: Cradle Mt.-Lake St. Clair Natl. Park, Pine Valley, Cephissus Falls, NNW of L. St.
+Clair, 850 m, Engel 14247 - c. sporo. (holotype F-C0000546F, isotype HO).
+
+Cryptolophocolea thermarum (Schiffn.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea thermarum Schiffn., Akad. Wiss. Wien, Math.-Naturwiss. Kl., Denkschr. 70: 197, 1900
+(Schiffner 1900).
+Type:—INDONESIA. Java: oberhalb Tjiburrum am Pangerango, 2140 m, 2 May 1894, Schiffner, n. Q1197 (FH258729).
+Chiloscyphus thermarum (Schiffn.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 424, 1984 [1985] (Engel & Schuster
+1985).
+≡
+
+Cryptolophocolea trialata (Gottsche) L.Söderstr., comb. nov.
+Basionym:—Lophocolea trialata Gottsche, Linnaea 28: 552, 1856 [1857] (Gottsche 1857).
+Type:—AUSTRALIA. Alpes australes, F. von Müller (L).
+Chiloscyphus trialatus (Gottsche) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 410, 1984 [1985] (Engel & Schuster
+1985).
+= Lophocolea tasmanica Mitt. in Hooker, Bot. Antarct. Voy. II (Fl. Tasman. 2): 226, 1859 (Mitten 1859), syn. fide Engel
+(2010: 147). Chiloscyphus archeri J.J.Engel et R.M.Schust., Nova Hedwigia 39: 410, 1984 [1985] (Engel &
+Schuster 1985) non Chiloscyphus tasmanicus Steph., Bull. Herb. Boissier sér. 2, 8: 133 (Sp. Hepat. 3: 249), 1908
+(Stephani 1908).
+= Lophocolea bicuspidata Pearson, Bull. Misc. Inform. Kew 2: 71, 1924 (Pearson 1924), hom. illeg. (ICN Art. 53.1) non
+Lophocolea bicuspidata Steph., Sp. Hepat. (Stephani) 6: 263, 1922 (Stephani 1922), syn. fide Engel (2010: 147).
+Chiloscyphus pearsonii J.J.Engel et R.M.Schust., Nova Hedwigia 39: 410, 1984 [1985] (Engel & Schuster 1985),
+non Chiloscyphus bicuspidatus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 411, 1984 [1985] (Engel &
+Schuster 1985).
+≡
+
+≡
+
+≡
+
+Cryptolophocolea tricorata (Hässel) Crand.-Stotl. et Stotler, comb. nov.
+Basionym:—Chiloscyphus tricoratus Hässel, Nova Hedwigia 70: 456, 2000 (Hässel 2000a).
+Type:—ARGENTINA. Tierra del Fuego: 1 km S. of Paso Garibaldi. G. Hässel de Menéndez & I. Gamundi 1480
+(holotype BA).
+Note:—This species is morphologically close to Cryptolophocolea pallidovirens but should be kept apart from that
+pending further study.
+
+Cryptolophocolea tuberculata (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus tuberculatus J.J.Engel, Phytologia 83: 45, 1997 [1998] (Engel 1998).
+Type:—NEW ZEALAND. South Is., Southland Prov.: Fiordland Natl. Park, Tutoko River, W of Milford Sound, 50 m,
+Engel 18844 (holotype F-C0000107F, isotype CHR-558811).
+
+NEW COMBINATIONS IN LOPHOCOLEACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 23
+
+Cryptolophocolea whittieriana (Inoue et H.A.Mill.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea whittieriana Inoue et H.A.Mill., Bull. Natl. Sci. Mus., n.s. 8: 143, 1965 (Inoue & Miller 1965).
+Type:—MICRONESIA. Caroline Islands: Kusaie, Mt. Matante, 1800 ft, H.A. Miller & H.O. Whittier 534 (syntypes
+BISH, G, MU, NY, TNS, US).
+Chiloscyphus whittierianus (Inoue et H.A.Mill.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 425, 1984 [1985] (Engel
+& Schuster 1985).
+≡
+
+Transfer of taxa to Pachyglossa
+As outlined in Söderström et al. (2013), Lophocolea subgen. Notholophocolea should be included in
+Pachyglossa if not treated as a separate genus close to it.
+Pachyglossa Herzog et Grolle, Rev. Bryol. Lichénol. 27: 150, 1958 [1959] (Herzog & Grolle 1959).
+Type:—Pachyglossa tenacifolia (Hook.f. et Taylor) Herzog et Grolle.
+= Lophocolea subgen. Notholophocolea R.M.Schust., Hepat. Anthocerotae N. Amer. 4: 183, 1980 (Schuster 1980), syn.
+nov.
+Type:—Lophocolea boveana C.Massal.
+Chiloscyphus subg. Notholophocoleus (R.M.Schust.) J.J.Engel & R.M.Schust., Nova Hedwigia 39: 410, 1984 [1985]
+(Engel & Schuster 1985), “Notholophocolea”.
+= Chiloscyphus sect. Notholophocoleus J.J.Engel, J. Hattori Bot. Lab. 72: 108 (Engel 1992), “Notholophocolea”, nom.
+inval. (ICN Art. 38.1a; no description).
+= Chiloscyphus sect. Notholophocoleus J.J.Engel, Fieldiana, Bot., n.s. 48: 12, 2010 (Engel 2010), syn. nov.
+Type:—Chiloscyphus boveanus (C.Massal.) J.J.Engel et R.M.Schust.
+Note:—When Engel (1992) described his sect. Gottscheoides, which he placed under subg. Notholophocoleus, he
+regarded sect. Notholophocoleus to be established as an autonym at the same time. However, the naming of sections
+within a subgenus does not explicitly create an autonym (ICN Art. 22.1).
+= Chiloscyphus sect. Gottscheoides J.J.Engel, J. Hattori Bot. Lab. 72: 107 (Engel 1992), syn. nov.
+Type:—Chiloscyphus gottscheoides (Besch. et C. Massal.) J.J.Engel et R.M.Schust.
+≡
+
+Pachyglossa austrigena (Hook.f. et Taylor) L.Söderstr., comb. nov., subsp. austrigena
+Basionym:—Jungermannia austrigena Hook.f. et Taylor, London J. Bot. 3: 466, 1844 (Hooker & Taylor 1844).
+Type:—CHILE. Prov. Magellanes: I. Hermite, Hooker s. n. (lectotype [Hässel 1995: 404] BM!, isolectotypes NY!, SB24899!, W).
+Lophocolea austrigena (Hook.f. et Taylor) Gottsche, Lindenb. et Nees, Syn. Hepat. 5: 702, 1847 (Gottsche et al. 1847).
+Chiloscyphus austrigenus (Hook.f. et Taylor) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 411, 1984 [1985] (Engel &
+Schuster 1985).
+≡
+≡
+
+Pachyglossa austrigena subsp. okaritana (Steph.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea okaritana Steph., Bull. Herb. Boissier sér. 2, 6: 785 (Sp. Hepat. 3: 85), 1906 (Stephani 1906a).
+Type:—NEW ZEALAND. Okarito. Kirk 592, Herb. Stephani no. 16057 (lectotype [here designated] G-00064405).
+Chiloscyphus okaritanus (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 420, 1984 [1985] (Engel & Schuster
+1985). Chiloscyphus austrigenus subsp. okaritanus (Steph.) J.J.Engel, J. Hattori Bot. Lab. 72: 113, 1992 (Engel
+1992).
+= Chiloscyphus cordifolius (Steph.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 413, 1984 [1985] (Engel & Schuster
+1985) nom. illeg. (ICN Art. 53.1) non Chiloscyphus cordifolius Rodway, Pap. & Proc. Roy. Soc. Tasmania 1915:
+106, 1916 (Rodway 1916), syn. fide Engel (2010: 16).
+≡
+
+≡
+
+Pachyglossa boveana (C.Massal.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea boveana C.Massal., Nuovo Giorn. Bot. Ital. 17: 225, 1885 (Massalongo 1885).
+Type:—ARGENTINA. Tierra del Fuego: Staten Island, Mt. Conegliana, 600m, Spegazzini (syntypes G, LPS, VER).
+Chiloscyphus boveanus (C.Massal.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 411, 1984 [1985] (Engel & Schuster
+1985).
+≡
+
+24 •
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Pachyglossa gottscheoides (Besch. et C.Massal.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea gottscheoides Besch. et C.Massal., Bull. Mens. Soc. Linn. Paris 1: 631, 1886 (Bescherelle &
+Massalongo 1886).
+Type:—CHILE. Magellanes: I. Hermite, Hariot 143 (syntypes FH!, G, VER).
+Chiloscyphus gottscheoides (Besch. et C.Massal.) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 415, 1984 [1985]
+(Engel & Schuster 1985).
+≡
+
+Pachyglossa otiphylla (Hook.f. et Taylor) Vá a, comb. nov.
+
+ň
+
+Basionym:—Jungermannia otiphylla Hook.f. et Taylor, London J. Bot. 3: 466, 1844 (Hooker & Taylor 1844).
+Type:—CHILE. Magellanes: Tierra del Fuego, I. Hermite, Hooker (syntypes NY, S, W).
+Chiloscyphus otiphyllus (Hook.f. et Taylor) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 420, 1984 [1985] (Engel &
+Schuster 1985).
+≡
+
+New combinations in Lophocolea
+The genus Lophocolea was traditionally considered distinct from Chiloscyphus, based on morphological
+characters, until Engel & Schuster (1985) united them. Although their concept has been accepted by some
+bryologists for about a quarter of a century, for reasons outlined in Söderström et al. (2013) a return to a
+narrower concept of Chiloscyphus is now justified. Although most of the combinations into Chiloscyphus
+made by Engel & Schuster (1985) were from Lophocolea, the narrower circumscription of Chiloscyphus
+requires that some new transfers from Chiloscyphus to Lophocolea be made, as detailed below.
+Lophocolea (Dumort.) Dumort., Recueil Observ. Jungerm.: 17, 1835 (Dumortier 1835).
+Basionym:—Jungermannia sect. Lophocolea Dumort., Syll. Jungerm. Europ.: 59, 1831 (Dumortier 1831).
+= Chiloscyphus sect. Semiteres J.J.Engel, Novon 9: 22, 1999 (Engel 1999), syn. nov.
+Type:—Chiloscyphus semiteres (Lehm.) Lehm. et Lindenb.
+= Chiloscyphus sect. Novarum-Zeelandiarum J.J.Engel, Novon 9: 22, 1999 (Engel 1999) “Novae-zeelandii”, syn. nov.
+Type:—Chiloscyphus novae-zeelandiae (Lehm. et Lindenb.) J.J.Engel et R.M.Schust.
+= Chiloscyphus sect. Hemispini J.J.Engel, Novon 9: 23, 1999 (Engel 1999), syn. nov.
+Type:—Chiloscyphus parvispineus J.J.Engel
+= Chiloscyphus sect. Aperticaulis J.J.Engel, Fieldiana, Bot. n.s. 48: 119, 2010 (Engel 2010), syn. nov.
+Type:—Chiloscyphus aperticaulis J.J.Engel.
+= Chiloscyphus sect. Spinoscyphus J.J.Engel, Fieldiana, Bot. n.s. 48: 199, 2010 (Engel 2010), syn. nov.
+Type:—Chiloscyphus trichocoleoides Glenny, J.J.Engel et Xiao L.He
+
+Lophocolea anisoloba (J.J.Engel et Glenny) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus anisolobus J.J.Engel et Glenny, Bryologist 111: 118, 2008 (Engel & Glenny 2008).
+Type:—NEW ZEALAND. Canterbury Ecological Prov.: Waimakariri River, gorge of Taipoiti River, 1050 m, 6
+November 2005, Glenny 9736 (holotype F, isotype CHR-583361).
+
+Lophocolea aperticaulis (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus aperticaulis J.J.Engel, J. Hattori Bot. Lab. 95: 229, 2004 (Engel 2004).
+Type:—NEW ZEALAND. North Is.: Gisborne Prov., Urewera Natl. Park, Waikareiti Track between track entrance and Lake
+Ruapani, N of eastern extremity of Lake Waikaremoana, 650-920 m, Engel 20519 – c. per. (holotype F, isotype AK).
+
+Lophocolea aphelophylla (Hässel) Vá a, comb. nov.
+
+ň
+
+Basionym:—Chiloscyphus aphelophyllus Hässel, J. Hattori Bot. Lab. 98: 123, 2005 (Hässel 2005)
+Type:—CHILE. Sierra Pelada, camino de Unión a Hueicolla, bosque de Mirtáceas, 7 mai 1965, Hässel de Menéndez
+2194 (holotype BA-13328).
+
+Lophocolea apophylla (Hässel) Vá a, comb. nov.
+
+ň
+
+Basionym:—Chiloscyphus apophyllus Hässel, J. Hattori Bot. Lab. 98: 126, 2005 (Hässel 2005).
+Type:—CHILE. Osorno: Puyehue, on moist trunk in shady rainforest round Rio Chanleufú, 360 m, 25 January 1947,
+Sparre (holotype UPS).
+
+NEW COMBINATIONS IN LOPHOCOLEACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 25
+
+Lophocolea canaliculata (Hook.f. et Taylor ex Gottsche, Lindenb. et Nees) Steph. var. concava (J.J.Engel)
+L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus canaliculatus var. concavus J.J.Engel, Fieldiana, Bot. n.s. 48: 107, 2010 (Engel 2010).
+Type:—NEW ZEALAND. Stewart I.; Fern Gully Track at terminus of Kaipipi Road, Mill Creek, ca. 2 km W of Oban,
+20-30 m, Engel 24081 (holotype F, isotype CHR).
+
+Lophocolea erosa (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus erosus J.J.Engel, Phytologia 83: 43, 1997 [1998] (Engel 1998).
+Type:—NEW ZEALAND. North I.: South Auckland Prov., Plateau E of Waiotapu Valley, ca. 1800 ft., Allison 3569
+(holotype CHR-547427).
+
+Lophocolea fertilis (J.J.Engel) L.Söderstr., comb. nov.
+♂
+
+Basionym:—Chiloscyphus fertilis J.J.Engel, Phytologia 83: 43, 1997 [1998] (Engel 1998).
+Type:—AUSTRALIA. New South Wales: Lane Cove, Forsyth 60 as L. bridelii – c. sporo +
+
+(holotype NSW).
+
+Lophocolea gollanii (Steph.) Vá a, comb. nov.
+
+ň
+
+Basionym:—Chiloscyphus gollanii Steph., Bull. Herb. Boissier sér. 2, 7: 837 (Sp. Hepat. 3: 209), 1907 (Stephani 1907d).
+Type:—INDIA. Himachal Pradesh: Mussoorie, 14 September 1900, Gollan 3828 (G)
+
+Lophocolea hattorii (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus hattorii J.J.Engel, J. Hattori Bot. Lab. 74: 29, 1993 (Engel 1993).
+Type:—NEW ZEALAND. South I.: Fiordland Natl. Park, Doubtful Sound, Elizabeth Is., 50-150 ft., Schuster 52852
+(holotype F, isotype CHR-558812).
+
+Lophocolea mediinfrons (J.J.Engel et Braggins) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus mediinfrons J.J.Engel et Braggins, Fieldiana, Bot. n.s. 48: 107, 2010 (Engel 2010).
+Type:—NEW ZEALAND. Stewart Is.: Paterson Inlet, Ulva Island, Flagstaff Point, NE end of island, sea level to ca. 60
+m, Engel, von Konrat and Braggins 24598A (holotype F, isotype AK).
+
+Lophocolea koponenii (Piippo) Vá a, comb. nov.
+
+ň
+
+Basionym:—Chiloscyphus koponenii Piippo, Ann. Bot. Fenn. 35: 55, 1998 (Piippo 1998).
+Type:—PAPUA NEW GUINEA. West Sepik Province: Frieda River prospecting area of Frieda Copper Co. Mt. Hartley
+8 km N of Frieda Base Camp, 5 August 1981, Koponen 35338 (holotype H).
+
+Lophocolea novae-zeelandiae (Lehm. et Lindenb.) Nees var. meridionalis (Steph.) L.Söderstr., comb. nov.
+Basionym: Lophocolea meridionalis Steph., Bull. Herb. Boissier sér. 2, 6: 888 (Sp. Hepat. 3: 113), 1906 (Stephani
+1906b).
+Type::—NEW ZEALAND. South I.: Waimate (Canterbury), May 1901, Beckett, Herb. Stephani no. 17650 (G-60987).
+Note:—This also creates the autonym Lophocolea novae-zeelandiae var. novae-zeelandiae.
+
+Lophocolea parvispinea (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus parvispineus J.J.Engel, Phytologia 83: 44, 1997 [1998] (Engel 1998).
+Type:—NEW ZEALAND. South Is., Otago Prov.: S side of Mt. Cargill, just below summit, N of Dunedin, ca. 2200 m,
+Engel 17563 (holotype F, isotype CHR-571127).
+
+Lophocolea piacenzai (Gola) Vá a, comb. nov.
+
+ň
+
+Basionym:—Lophozia piacenzai Gola, Atti Reale Accad. Sci. Torino 49: 759, 1914 (Gola 1914).
+Type:—Lophozia piacenzai n. sp. No. 2 Kashmir, Valle Sind, prima catena a partire da Srinagar: Mummer-Gund, 20002100 m, 20.5.1913, Prof. Borelli, det. G. Gola (lectotype [here designated] FT ex TOM!).
+= Lophocolea himalayensis A.Srivast. et S.C.Srivast., Indian Geocalycaceae: 182, pl. 56, 2002 (Srivastava & Srivastava
+2002), syn. nov.
+Type:—INDIA. Western Himalayas, on way to Valley of Flowers, ca. 4000 m, Srivastava et al. 4166/80 (holotype
+LWU).
+
+26 •
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Lophocolea semiteres (Lehm.) Mitt. var. retusa (J.J.Engel) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus semiteres var. retusus J.J.Engel, Phytologia 83: 44, 1997 [1998] (Engel 1998).
+Type:—AUSTRALIA. New South Wales: Murrumbidgee River, Rules Point, 37 km NW of Adaminaby, Streimann 7482
+(holotype CBG).
+Note:—This also creates the autonym Lophocolea semiteres var. semiteres.
+
+Lophocolea subporosa Mitt. var. inflexifolia (Steph.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea inflexifolia Steph., Sp. Hepat. (Stephani) 6: 278, 1922 (Stephani 1922).
+Type:—NEW ZEALAND. Pain's Limestone Hill, Wairaropa, 28 November 1910, Gray 209, Herb Stephani no. 17637
+(lectotype [here designated] G-00060805). Note:—Engel (2010: 49) indicates the current lectotype as type but did
+not state "designated here" or an equivalent (cf. ICN Art. 7.10).
+Note:—This also creates the autonym Lophocolea subporosa Mitt. var. subporosa.
+
+Lophocolea trichocoleoides (Glenny, J.J.Engel et Xiao L.He) L.Söderstr., comb. nov.
+Basionym:—Chiloscyphus trichocoleoides Glenny, J.J.Engel et Xiao L.He, J. Bryol. 31: 100, 2009 (Glenny et al. 2009).
+Type:—NEW ZEALAND. Western Nelson Ecological Province, Marino Mountains, valley between Mt Owen and Mt
+Bell, 41° 32.7'S, 172° 33.1'E, NZMS 260 M28 726622, 1440 m, 19 December 2006, Glenny 9888 (holotype CHR505239, isotypes F, H).
+
+Lophocolea wacei (S.W.Arnell ex J.J.Engel et Vá a) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+ň
+
+Basionym:—Chiloscyphus wacei S.W.Arnell ex J.J.Engel et Vá a, Mem. New York Bot. Gard. 105: 48, 2013 (Vá a &
+Engel 2013).
+Type:—TRISTAN DA CUNHA. Gough I.: Crest of ridge to N. of Main Glen, alt. 600 ft., 1 January 1956, Wace 559b
+(holotype BM!, isotype UPS!).
+ň
+
+ň
+
+Lophocolea werthii (J.J.Engel et R.M.Schust.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Chiloscyphus werthii J.J.Engel et R.M.Schust., Nova Hedwigia 39: 425, 1984 [1985] (Engel & Schuster
+1985).
+Type:—KERGUELEN ISLAND. 12 Sept.1902, E. Werth (syntype FH-286153); am Station-See, 28 June1902, E. Werth
+(syntype FH-286154).
+Lophocolea variabilis Schiffn., Drygalski, Deutsche Südpolar-Exped. 1901-1903, 8 (Bot.): 73, 1906 [Oct.] (Schiffner
+1906), nom. illeg. (ICN Art 53.1), non Lophocolea variabilis Steph., Bull. Herb. Boissier sér. 2, 6: 874 (Sp. Hepat. 3:
+99), 1906 [Sept.] (Stephani 1906b).
+≡
+
+Transfer of Chiloscyphus breutelii to Leptoscyphus
+Hentschel et al. (2006) showed that Chiloscyphus breutelii is nested within Leptoscyphus. A position outside
+Chiloscyphus is also confirmed by Glenny et al. (2009), but they did not include any Leptoscyphus in their
+study. The oldest name for the taxon is Lophocolea trapezoïdes, but it is not available in Chiloscyphus.
+Leptoscyphus Mitt., Hooker's J. Bot. Kew Gard. Misc. 3: 358, 1851 (Mitten 1851).
+Type:—Leptoscyphus liebmannianus (Lindenb. et Gottsche) Mitt. [=Leptoscyphus porphyrius (Nees) Grolle)].
+= Chiloscyphus subgen. Eurychiloscyphus Hässel, Lindbergia 26: 38, 2001 [2000] (Hässel 2000b), syn. nov.
+Type:—Chiloscyphus horizontalis Hook.
+
+Leptoscyphus trapezoïdes (Mont.) L.Söderstr., comb. nov.
+Basionym:—Lophocolea trapezoïdes Mont., Ann. Sci. Nat. Bot. (sér. 2) 19: 251, 1843 (Montagne 1843).
+Type:—ANTILLES. Perrottet (PC-fusion274592).
+= Lophocolea breutelii Gottsche, Syn. Hepat. 2: 154, 1845 (Gottsche et al. 1845), syn. fide Fulford (1976: 435).
+Chiloscyphus breutelii (Gottsche) J.J.Engel et R.M.Schust., Nova Hedwigia 39: 412, 1984 [1985] (Engel & Schuster
+1985).
+
+≡
+
+NEW COMBINATIONS IN LOPHOCOLEACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 27
+
+Transfer of Chiloscyphus gremmenii to Stolonivector
+Chiloscyphus gremmenii was described using a very broad concept of the genus Chiloscyphus (sensu Engel &
+Schuster 1985). Molecular analyses of a relatively large number of taxa (e.g., Hentschel et al. 2006, 2007)
+show that within the broadly defined genus were included a number of separate clades, some of which
+corresponded to described genera (see Söderström et al. 2013). Unfortunately, no specimens of the small,
+morphologically specialized genus Stolonivector Engel (1991c: 80) have been included in any molecular
+study to date. However, we conclude that, with acceptance of a narrower circumscription of Chiloscyphus and
+the additional, better developed material of Chiloscyphus gremmenii now available, Chiloscyphus gremmenii
+should be transferred to Stolonivector as it agrees with this genus in all characteristics presented by Engel
+(1991c) except that stolons are not common and gynoecia are on leading shoots. This species is similar to
+Stolonivector fiordlandiae (Hodgson 1953: 340) Engel (1991c: 82) and Stolonivector obtusilobus Engel
+(2009: 337). The differences can be summarized as follows: stolons relatively rare, leaves heteromorphic, of
+very variable form, sometimes deeply bi-(tri-)lobed, basal part of the leaves bistratose, gemmae present,
+gynoecia on leading shoots, and perianth mouth entire. Moreover, Stolonivector gremmenii has larger cells
+(25-30 × 20-27 m) than Stolonivector fiordlandiae. Thick-walled cells without trigones and acute leaf lobes
+separate Stolonivector gremmenii from Stolonivector obtusilobus.
+
+μ
+
+Stolonivector gremmenii (Vá a) Vá a, comb. nov.
+
+ň
+
+ň
+
+Basionym:—Chiloscyphus gremmenii Vá a, Cryptog. Bryol. 26: 81, 2005 (Vá a & Gremmen 2005).
+Type:—HEARD I. In crater west of Corinth Head, 53°00'33.1"S, 73°24'30.0"E, alt. 60 m, 9 February 2001, Gremmen
+1524 (holotype ADT!, isotype PRC!).
+ň
+
+ň
+
+New synonym in Chiloscyphus Corda
+In Söderström et al. (2013) Chiloscyphus is circumscribed to include only taxa that can be assigned to
+Chiloscyphus subg. Chiloscyphus as defined morphologically by Schuster & Engel (1985: 409). Relevant
+characters of the genus include the following: leaves unlobed; underleaves bifid, never connate with the
+leaves; perianth inflated to slightly prismatic, not sharply keeled; shoot calyptra well-developed, equal in
+length to the perianth or extending beyond it at maturity; androecia on leading stems, with the male bracts
+scarcely differentiated from the leaves. As currently defined, we think only four species belong to the genus.
+Chiloscyphus kashyapii A.Srivast. et S.Srivast., Indian Geocalycaceae: 34, 2002 (Srivastava & Srivastava
+2002).
+Type:—INDIA. West Bengal: Darjeeling, on way to Teesta Valley, alt. ca. 2000 m, 3 January 1970, Udar & Srivastava
+1757/70 (holotype LWU).
+
+Chiloscyphus koeppensis (Gottsche) Steph., Bull. Herb. Boissier sér. 2, 8: 139 (Sp. Hepat. 3: 255), 1908
+Stephani 1908).
+Basionym:—Jungermannia koeppensis Gottsche in Neumayer, Int. Polarforsch., Deutsch. Exped. 2: 452, 1890
+(Gottsche 1890).
+Type:—SOUTH GEORGIA. Köppenberg, 10 February 1883, Will 11a (lectotype [Grolle 1972: 86] M, isolectotype
+HBG).
+
+Chiloscyphus pallescens (Ehrh. ex Hoffm.) Dumort., Syll. Jungerm. Europ.: 67, 1831 (Dumortier 1831).
+Basionym:—Jungermannia pallescens Ehrh. ex Hoffm., Deutschl. Fl., Theil 2 (Hoffm.): 87, 1795 [1796] (Hoffman
+1796).
+Type:—GERMANY. Harz, Ehrhart (lectotype [Grolle 1970: 646] MW [Hb. Hoffm. 8461] isolectotype [Ehrh. Plant.
+Crypt. Exs. no. 302. Hannover. 1793] LINN).
+Note:—A var. fragilis (Roth) Müll.Frib. is occasionally recognized, sometimes even at the species level.
+
+28 •
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+=Chiloscyphus himalayensis Steph., Bull. Herb. Boissier sér. 2, 7: 837 (Spec. Hep. 3: 209), 1907 (Stephani 1907), syn.
+nov. Type:—INDIA. N. W. Himalaya, Dehra-Dun, prope Mussoorie, 6-7000', 2 January 1892, J. F. Duthie, Herb.
+Stephani no. 562 (lectotype [here designated] G-00069475, isolectotype JE-4005449!). Note:—The isolectotype of
+Chiloscyphus himalayensis in JE was annotated by R. Grolle as a synonym of Chiloscyphus pallescens but he never
+published it. The isolectotype consists of only two shoots originating from the richer specimen in G.
+
+Chiloscyphus polyanthos (L.) Corda, Naturalientausch 12: 651, 1829 (Corda 1829).
+Basionym:—Jungermannia polyanthos L., Sp. Pl. ed. 1: 1131, 1753. (Linnaeus 1753).
+Type:—GREAT BRITAIN. (lectotype [Grolle 1970: 646] OXF [specimen illustrated by Dillenius. 1741] isolectotype HSOL [Isoviita, Acta Bot. Fenn. 89: 17. 1970].
+Note:—A var. rivularis (Schrad.) Lindb. et Arnell is occasionally recognized, sometimes even at the species level.
+
+Acknowledgement
+We thank M. Price (G) and L. Hedenäs (S) for help with type specimens. The Early Land Plants Today project
+(ELPT) has been generously supported in part by the Global Biological Information Facility (GBIF) Seed
+Money Award No.2007-41, activities facilitated in part by funding from the Biodiversity Synthesis Center of
+the Encyclopedia of Life (BioSynC), partial funding from the National Science Foundation (Award No's
+0749762, 1115002, EF–0531750), the Warwick Foundation, and the Negaunee Foundation.
+
+References
+Bescherelle. E. & Massalongo, C. (1886) Hepaticae novae americanae-australes. Bulletin mensuel de la société
+linnéenne de Paris 1: 626–640.
+Colenso, W. (1889) A description of some newly-discovered cryptogamic plants; being a further contribution toward
+making known the botany of New Zealand. Transactions and proceedings of the New Zealand Institute 21 “1888”:
+43–80.
+Colenso, W. (1890) A description of some newly-discovered and rare indigenous plants. Transactions and proceedings of
+the New Zealand Institute 22 “1889”: 452–458.
+Corda, A.J.C. (1829) Genera Hepaticarum. Die Gattungen der Lebermoose. In: Opiz, P.M. (Ed), Beiträge zur
+Naturgeschichte als Fortsetzung des Naturalientausches No. 12. Praha, pp. 643-655.
+Dumortier, B.C. (1831) Sylloge Jungermannidearum Europae indigenarum, earum genera et species systematice
+complectens. J.Casterman, Tournay, 100 pp.
+http://dx.doi.org/10.5962/bhl.title.22343
+Dumortier, B.C. (1835) Recueil d'Observations sur les Jungermanniacées. I. Révision des genres. J.-A.Blanquart,
+Tournay, 27 pp.
+Engel, J.J. (1991a) Studies on Geocalycaceae (Hepaticae).5. Comments on the Leucophyllae complex of Chiloscyphus.
+Bryologist 94: 311–314.
+http://dx.doi.org/10.2307/3243840
+Engel, J.J. (1991b) Studies on Geocalycaceae (Hepaticae). 3. On the typification of Jungermannia multipenna Hook. f.
+and Tayl. Bryologist 94: 22–24.
+Engel, J.J. (1991c) Studies on Geocalycaceae (Hepaticae). II. Stolonivector, a new genus from New Zealand. Journal of
+the Hattori Botanical Laboratory 69: 79–86.
+Engel, J.J. (1992) Studies on Geocalycaceae (Hepaticae). VIII. A revision of Chiloscyphus subg. Notholophocolea
+(Schust.) Engel & Schust. Journal of the Hattori Botanical Laboratory 72: 105–115.
+Engel, J.J. (1993) Studies in Geocalycaceae. IX. Chiloscyphus hattorii Engel, a new species from New Zealand, together
+with nomenclature refinements in Australasian Heteroscyphus and Leptoscyphus. Journal of the Hattori Botanical
+Laboratory 74: 29–33.
+Engel, J.J. (1998 “1997”) Studies on Geocalycaceae (Hepaticae). X. New taxa and new combinations in Chiloscyphus
+Corda for Australasia. Phytologia 83: 42–46.
+Engel, J.J. (1999) Studies on Geocalycaceae (Hepaticae). XI. Supraspecific new taxa and new combinations in
+Chiloscyphus Corda for Australia. Novon 9: 22–24.
+Engel, J.J. (2004) Studies on Geocalycaceae. XV. Chiloscyphus aperticaulis Engel, an interesting new species of
+hepaticae from New Zealand. Journal of the Hattori Botanical Laboratory 95: 229–234.
+NEW COMBINATIONS IN LOPHOCOLEACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 29
+
+Engel, J.J. (2009) Studies on Lophocoleaceae (Hepaticae). XVIII. Stolonivector Engel in New Zealand, including two
+new species, together with comments on generic endemism of Austral Hepaticae. Nova Hedwigia 88: 335–346.
+http://dx.doi.org/10.1127/0029-5035/2009/0088-0335
+Engel, J.J. (2010) Austral Hepaticae 45. A monograph of the genus Chiloscyphus Corda (Lophocoleaceae) for
+Australasia. Fieldiana, Botany, n.s. 48: 1–209.
+http://dx.doi.org/10.3158/0015-0746-48.1.1
+Engel, J.J. & Glenny, D. (2008) Studies on Lophocoleaceae XVI. Chiloscyphus anisolobus, an interesting new species
+from New Zealand. Bryologist 111: 118–123.
+http://dx.doi.org/10.1639/0007-2745(2008)111[118:solxca]2.0.co;2
+Engel, J.J. & He, X.-L. (2010) Studies on Lophocoleaceae. XIX. The systematic identity of Cyanolophocolea
+R.M.Schust., an intriguing liverwort from New Zealand and Australia, based on morphological and molecular
+evidence. Bryologist 113: 149–163.
+http://dx.doi.org/10.1639/0007-2745-113.1.149
+Engel, J.J. & Schuster, R.M. (1985 “1984”) An overview and evaluation of the genera of Geocalycaceae subfamily
+Lophocoleoideae (Hepaticae). Nova Hedwigia 39: 385–463.
+Engel, J.J., He, X.-L. & Glenny, D. (2010) Studies on Lophocoleaceae XXII. The systematic position of
+Amphilophocolea R.M.Schust. together with comments on the status of Tetracymbaliella Grolle and Lamellocolea
+R.M.Schust. Phytotaxa 9: 41–52.
+Fulford, M. (1976) Manual of the leafy Hepaticae of Latin America IV. Memoirs of the New York Botanical Garden 11:
+395–535.
+Glenny, D., Engel, J.J. & He-Nygrén, X. (2009) The systematic identity of Chiloscyphus trichocoleoides, a new
+liverwort species from New Zealand, uncovered by morphological and molecular evidence. Journal of Bryology 31:
+93–105.
+http://dx.doi.org/10.1179/174328209x427524
+Gola, G. (1914) Epatiche del Kashmir raccolte dalla Spedizione Piacenza. Atti della Reale Accademia della Scienze di
+Torino. Classe di Scienze, Fisiche, Matematiche e Naturali 49: 757–761.
+http://dx.doi.org/10.1007/bf02960932
+Gottsche, C.M. (1857 “1856”) Plantae Muellerianae: Hepaticae Australiae a Dre. Ferd. Müller lectae. Linnaea 28: 547–
+561.
+Gottsche, C.M. (1858) Übersicht und kritische Würdigung der seit dem Erscheinen der Synopsis Hepaticarum bekannt
+gewordenen Leistungen in der Hepaticologie. Botanische Zeitung (Berlin)16, Beilage: 1–48.
+Gottsche, C.M. (1864) Hepaticae (in J Triana & JE Planchon, Prodromus Florae Novo-Granatensis). Annales des
+Sciences Naturelles, Botanique, sér. 5. 1: 95–198.
+Gottsche, C.M. (1890) Die Lebermoose Süd-Georgiens. In: Neumayer, G.B. (Ed), Die Internationale Polarforschung
+1882-83. Die Deutsche Expeditionen und ihre Ergebnisse. II Beschreibende Naturwissenschaften. A. Asher & Co.:
+Berlin, pp. 449–454.
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, C.G. (1845) Synopsis Hepaticarum, fasc. 2. Meissner,
+Hamburg, pp. 145–304.
+http://dx.doi.org/10.5962/bhl.title.15221
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, C.G. (1847) Synopsis Hepaticarum, fasc. 5. Meissner,
+Hamburg, pp. 625–834.
+http://dx.doi.org/10.5962/bhl.title.15221
+Gradstein, S.R. & Costa, D.P. (2003) The Hepaticae and Anthocerotae of Brazil. Memoirs of the New York Botanical
+Garden 87: 1–316.
+Gradstein, S.R., Pócs, T. & Vá a, J. (1983) Disjunct hepaticae in tropical America and Africa. Acta Botanica Academiae
+Scientiarum Hungarica 29: 127–171.
+Grolle, R. (1963 “1962”) Monographie der Lebermoosgattung Leptoscyphus Mitt. Nova Acta Leopoldina. Abhandlungen
+der Kaiserlich Leopoldinisch-Carolinisch Deutschen Akademie der Naturforscher 25: 1–143.
+Grolle, R. (1970) Nomen conservandum propositum (312). Chiloscyphus Corda. Taxon 19: 646–647.
+Grolle, R. (1972) The hepatics of South Sandwich Islands and South Georgia. Bulletin, British Antarctic Survey 28: 83–
+95.
+Grolle, R. (1984) Miscellanea Hepaticologica 221-230. Journal of the Hattori Botanical Laboratory 55: 501–511.
+Hässel de Menéndez, G.G. (1995) Little known Chiloscyphus species from southern South America (Hepatophyta). Nova
+Hedwigia 61: 39–415.
+Hässel de Menéndez, G.G. (2000a) Parachiloscyphus Hässel, a new subgenus of Chiloscyphus Corda (Hepatophyta)
+from southern South America, including a new species. Nova Hedwigia 70: 451–460.
+Hässel de Menéndez, G.G. (2000b “2001”) Eurychiloscyphus Hässel, a new subgenus of Chiloscyphus Corda
+(Hepatophyta) from southern South America. Lindbergia 26: 37–42.
+Hässel de Menéndez, G.G. (2005) On Chiloscyphus aphelophyllus Hässel sp. nov. and C. apophyllus Hässel sp. nov.
+ň
+
+30 •
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+(Marchantiophyta, Geocalycaceae) from Chile. Journal of the Hattori Botanical Laboratory 98: 123–129.
+Hattori, S. (1952) Hepaticae of Shikoku and Kyushu, southern Japan (1). Journal of the Hattori Botanical Laboratory 7:
+38–61.
+Hentschel, J., Feldberg, K., Zündorf, H.-J., Hellwig, F.H., Schneider, H. & Heinrichs, J. (2007) The systematic position
+of Pachyglossa and Clasmatocolea (Jungermanniopsida: Lophocoleaceae) inferred from nrDNA ITS sequences and
+morphology. Taxon 56: 1136–1142.
+http://dx.doi.org/10.2307/25065908
+Hentschel, J., Wilson, R., Burghardt, M., Zündorf, H.-J., Schneider, H. & Heinrichs, J. (2006) Reinstatement of
+Lophocoleaceae (Jungermanniopsida) based on chloroplast gene rbcL data: exploring the importance of female
+involucres for the systematics of Jungermanniales. Plant Systematics and Evolution 258: 211–226.
+http://dx.doi.org/10.1007/s00606-006-0408-y
+Herzog, T. (1955) Hepaticae aus Columbia und Peru. Feddes Repertorium specierum novarum regni vegetabilis 57: 156–
+203.
+http://dx.doi.org/10.1002/fedr.4880570105
+Herzog T. & Grolle, R. (1959 “1958”) Was ist Pachyglossa? Revue Bryologique et Lichénologique 27: 147–165.
+Hodgson, E.A. (1953) New Zealand Hepaticae (Liverworts) - VII. A review of the N. Z. species of the genus Lophocolea
+with notes on Chiloscyphus. Transactions of the Royal Society of New Zealand 80: 329–358.
+Hoffman, G.F. (1796) Deutschlands Flora oder Botanisches Taschenbuch für das Jahr 1795. Cryptogamie. Johan Jakob
+Palm, Erlangen, 200 pp.
+Hooker, J.D. & Taylor, T. (1844) Hepaticae Antarcticae; being characters and brief descriptions of the Hepaticae
+discovered in the southern circumpolar regions during the voyage of H.M. Discovery ships Erebus and Terror. I.
+Species of Lord Auckland's and Campbell's Islands. London Journal of Botany 3: 366–400.
+Hooker, J.D. & Taylor, T. (1845) Hepaticae Antarcticae, supplementum; or specific characters, with brief descriptions. of
+some additional species of the Hepaticae of the Antarctic regions, New Zealand, and Tasmania, together with a few
+from the Atlantic Islands and New Holland. London Journal of Botany 4: 79–97.
+Inoue, H. (1959) A review of Japanese species of Lophocolea Dum. Journal of the Hattori Botanical Laboratory 21:
+214–230.
+Inoue, H. & Miller, H.A (1965) Hepaticae from Kusaie, Caroline Islands. Bulletin of the National Science Museum, n.s.
+8: 139–160.
+Jones, E.W. (1953) African Hepatics V. Lophocolea, with notes on Chiloscyphus and Leptoscyphus. Transactions of the
+British Bryological Society 2: 172–202.
+http://dx.doi.org/10.1179/006813853804878038
+Katagiri, T. & Furuki, T. (2012) Checklist of Japanese liverworts and hornworts, 2012. Bryological Research 10: 193–
+210.
+Kitagawa, N. (1973) Miscellaneous notes on little-known species of Hepaticae, 26-50. Journal of the Hattori Botanical
+Laboratory 37: 263–273.
+Massalongo, C. (1885) Epatiche raccolte alla Tierra del Fuoco dal Dott. C. Spegazzini nell'anno 1882. Nuovo Giornale
+Botanico Italiano 17: 201–277.
+Massalongo, C. (1906) Epatiche della Repubblica Argentina raccolte dal Prof. C. Spegazzini. Atti dell'Accademia delle
+scienze mediche e naturali in Ferrara 80: 1–14.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+146: 1–260.
+Mitten, W. (1851) Catalogue of cryptogamic plants collected by Professor W. Jameson in the vicinity of Quito. Hooker's
+journal of botany and the Kew garden miscellany 3: 351–361.
+Mitten, W. (1854) Hepaticae. In: Hooker, J.D. (Ed), The Botany of the Antarctic Voyage of H. M. discovery ships Erebus
+and Terror in the years 1839-43. II. Flora Novae Zealandiae 2. Reeve: London, pp. 125–160.
+http://dx.doi.org/10.1111/j.1095-8339.1891.tb00626.x
+Mitten, W. (1859) Hepaticae. In: Hooker, J.D. (Ed), The Botany of the Antarctic Voyage of H. M. discovery ships Erebus
+and Terror in the years 1839-43. III. Flora Tasmaniae 2. Reeve: London, pp. 221-241
+Mitten, W. (1891) An Enumeration of all species of Musci and Hepaticae recorded from Japan. Transactions of the
+Linnean Society of London, Botany 3: 153–206.
+Montagne, J.F.C. (1839) Cryptogamae Brasilienses seu Plantae cellulares quas in itinere per Brasiliam à celeb. Auguste
+de Sainte-Hilaire collectas recensuit observationibusque nonnullis illustravit. Annales des Sciences Naturelles,
+
+NEW COMBINATIONS IN LOPHOCOLEACEAE
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 31
+
+Botanique, sér. 2. 12: 42-55.
+Montagne, J.F.C. (1843) Quatrième centurie de plantes cellulaires exotiques nouvelles, décades I-VI. Annales des
+Sciences Naturelles, Botanique, sér. 2. 19: 238–266.
+Nees von Esenbeck, C.G. (1830) Enumeratio plantarum cryptogamicarum Javae et insularum adiacentium, quas a
+Blumio et Reinwardtio collectas describi edique curavit Christ. Godfr. Nees ab Esenbeck professor vratislaviensis.
+Fasciculus prior, hepaticas complectens, ab editore illustratis. Grass, Barth & Co.: Breslau, 86 pp.
+Pearson, W.H. (1924) Notes on Tasmanian hepatics. Bulletin of Miscellaneous Information, Royal Gardens, Kew 2: 66–75.
+http://dx.doi.org/10.2307/4118555
+Piippo, S. (1985) Bryophyte flora of the Huon Peninsula, Papua New Guinea. XII. Geocalycaceae (Hepaticae). Acta
+Botanica Fennica 131: 129–167.
+Piippo, S. (1998) Bryophytes from Frieda River, East and West Sepik Provinces, Papua New Guinea. IV. Chiloscyphus
+koponenii sp. nov. (Geocalycaceae). Annales Botanici Fennici 35: 55–57.
+Rodway, L. (1916) Additions to the Tasmanian Flora. Papers and Proceedings of the Royal Society of Tasmania 1915:
+104–107.
+Schiffner, V. (1900) Exposito plantarum in itinere Suo Indico annis 1893/94 suspecto collectarum, II. Akademie der
+Wissenschaften in Wien. Mathematisch-Naturwissenschaftliche Klasse. Denkschriften 70: 155–218.
+Schiffner, V. (1906) Die Lebermoose. In: Drygalski, E.D. (Ed), Deutsche Südpolar-Expedition 1901-1903, Band. 8
+(Botanik). Georg Reimer: Berlin, pp. 59–80.
+Schuster, R.M. (1980) The Hepaticae and Anthocerotae of North America. vol. IV. Columbia University Press: New
+York, 1334 pp.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+Söderström, L., Crandall-Stotler, B. Stotler, R., Vá a, J., Hagborg, A. & von Konrat, M. (2013) Notes on Early Land
+Plants Today. 36. Generic treatment of Lophocoleaceae. Phytotaxa 97: 36–43.
+http://dx.doi.org/10.11646/phytotaxa.97.2.3
+Spruce, R. (1885) Hepaticae Amazonica et Andinae. Transactions and Proceedings of the Botanical Society. Edinburgh
+15: 309–588.
+Srivastava, A. & Srivastava, S.C. (2002) Indian Geocalycaceae (Hepaticae). A taxonomic study. Bishen Singh Madendra
+Pal Singh: Dehra Dun, 246 pp.
+Stephani, F. (1892) A revision of Colenso's Hepaticae with descriptions of new species collected by him. Journal of the
+Linnean Society. Botany 29: 263–280.
+http://dx.doi.org/10.1111/j.1095-8339.1892.tb02036.x
+Stephani, F. (1893) Hepaticarum species novae. Pars IV. Hedwigia 32: 315–327.
+Stephani, F. (1906a) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 6(9): 781–796.
+Stephani, F. (1906b) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 6(10): 874–889.
+Stephani, F. (1906c) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 6(11): 935–966.
+Stephani, F. (1907a) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 7(1): 59–72.
+Stephani, F. (1907b) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 7(4): 297–312.
+Stephani, F. (1907c) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 7(8): 683–698.
+Stephani, F. (1907d) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 7(10): 837–852.
+Stephani, F. (1908) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8( 2): 125–148.
+Stephani, F. (1922) Species Hepaticarum 6. George & Cie: Genève & Bale, pp. 241–368.
+Swartz, O. (1788) Nova Genera et Species Plantarum, seu Prodromus descriptionum vegetabilium maximum partem
+incognitorum quae sub itinere in Indiam occidentalem annis 1783-1787. Uppsala, 152 pp.
+http://dx.doi.org/10.5962/bhl.title.4400
+Taylor, T. (1846) New Hepaticae. London Journal of Botany 5: 258–284.
+Vá a, J. & Engel, J.J. (2013) The liverworts and hornworts of the Tristan da Cunha group. Memoirs of the New York
+Botanical Garden 105: 1–138.
+Vá a, J. & Gremmen, N. (2005) Hepatics of Heard Island. Cryptogamie, Bryologie 26: 79–90.
+Vanderpoorten, A., Désamoré, A. Laenen, B & Gradstein, S.R. 2012. Striking autapomorphic evolution in Physotheca
+J.J.Engel & Gradst. (Marchantiophyta: Lophocoleaceae) blurred its actual relationships with Leptoscyphus Mitt.
+Journal of Bryology 34: 251–256.
+http://dx.doi.org/10.1179/1743282012y.0000000018
+Vanderpoorten, A. & Long, D.G. (2006). Budding speciation and neotropical origin of the Azorean endemic liverwort,
+Leptoscyphus azoricus. Molecular Phylogenetics and Evolution 40: 73–83.
+http://dx.doi.org/10.1016/j.ympev.2006.02.013
+Vanderpoorten, A., Schäfer-Verwimp, A., Heinrichs, J., Devos, N. & Long, D.G. (2010) The taxonomy of the leafy
+liverwort genus Leptoscyphus (Lophocoleaceae) revisited. Taxon 59: 176–186.
+ň
+
+ň
+ň
+
+32 •
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+

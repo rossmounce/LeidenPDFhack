@@ -1,0 +1,375 @@
+Phytotaxa 124 (1): 37–42 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.124.1.4
+
+Heuchera lakelae (Saxifragaceae), a new species from the Sierra La Marta and
+Sierra Coahuilón, Coahuila and Nuevo León, Mexico
+RYAN FOLK
+Herbarium, Department of Evolution, Ecology, and Organismal Biology, The Ohio State University, 1315 Kinnear Road, Columbus,
+OH 43212, folk.41@osu.edu
+
+Abstract
+Described herein is a new species from high-elevation limestone outcrops in the northern Sierra Madre Oriental, closely
+allied to Heuchera sanguinea, from which it is distinguished on the basis of 6 morphological characters (external flower
+surface color and indumentum, petal color, petal shape, stamen exsertion, and overall flower shape) as well restriction to
+high elevations and a geographical range restricted to the Sierra la Marta and Sierra Coahuilón.
+
+Introduction
+Heuchera is the largest by far of a series of North American endemic genera of the Saxifragaceae, with about
+43 species. It is also the most widely distributed, occurring from Kodiak Island, Alaska, south to the Sierra
+Madre de Oaxaca of southern Mexico, and from the Atlantic forests to the Pacific coastal bluffs within meters
+of the sea. It has its greatest diversity in the western Cordillera, where it is well-known for its difficult
+morphological patterns and frequent hybridization both ancient and recent (Wells & Shipes 2009, Rosendahl,
+Butters & Lakela 1936, Soltis et al. 1991, Folk & Freudenstein unpublished). My own morphological
+investigations have indicated that there is significant diversity within the genus in the mountains of Mexico
+that has yet to be described, particularly in the north, owing to a high natural diversity and to the paltry work
+that has been devoted to them in this area.
+During recent inspections of Mexican herbarium material a highly distinct plant of restricted occurrence
+has come to my attention, which is here described as a new species and placed within the subgeneric
+taxonomy of Rosendahl, Butters & Lakela (1936).
+
+Materials and Methods
+Herbarium loans were obtained from ASU, BRIT, CAS, F, MEXU, MICH, MO, NY, RSA, TEX, US, VT, and
+XAL, comprising 765 sheets of Heuchera from Mexico. I have reviewed types belonging to all species of
+Heuchera that have been described from Mexico and the adjacent US, either in person, or where necessary
+through high resolution digital images. The names that have been examined are: H. acutifolia, H. amoena, H.
+halstedii, H. hemsleyana, H. leptomeria, H. longipetala, H. mexicana, H. minutiflora, H. orizabensis, H.
+pulchra, H. reglensis, H. rubescens, H. sanguinea, H. townsendii, and H. versicolor. A phylogenetic species
+concept (Nixon & Wheeler 1990), in which a species is the most restrictive collection of populations with a
+unique combination of character states, was applied in the context of the most recent treatment of Mexican
+Heuchera species (Rosendahl, Butters & Lakela 1936) to revise and delimit taxa.
+
+Accepted by Maximilian Weigend: 17 July 2013; published: 15 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+37
+
+Taxonomy
+Heuchera lakelae Folk, sp. nov. (Fig. 1)
+A Heuchera sanguinea Engelm. flore albo-rubescenti cylindracei vel leviter bucciniformi, hypanthio et sepalo dense
+glanduloso-hirsuto, petalis albis valde exsertis rhomboideo-spatulatis vel ovato-spatulatis, staminibus leviter
+inclusis, crescenti supra 3200 m altitudinis differt.
+Type:—MEXICO. Coahuila: Sierra La Marta E of Cerro Moro [Cerro el Morro], ca. 3400 m alt., 22 July, 1985. S.
+Ginzbarg 134. (Holotype NY!, isotypes MO!, TEX!, MEXU!)
+
+FIGURE 1. Drawing of H. lakelae, prepared from the type material at NY and TEX by the author. A. Habit and inflorescence; scale
+represents 4.5 cm. B. Dissected flower; scale represents 6 mm. C. Side view of flower; scale represents 6 mm.
+
+38 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+FOLK
+
+Description:—Perennial herb, subcaulescent from a multicipital thick caudex. Petioles glandular-villous and
+glandular-pulverulent, (1.5–) 3–10 cm long. Leaf blades (1–) 2–5 cm wide and (1.25–) 1.5–4 cm long,
+orbicular to ovate, deeply cordate with a narrow or wide sinus, shallowly divided into 5–7 lobes with narrow
+sinuses; teeth large and coarse, triangular to crenate and mucronate; adaxial surface sparsely to densely
+glandular-villous as well as glandular-puberulent, abaxial surface similarly vestitured but the longer hairs
+restricted mainly to the veins. Margin moderately ciliate. Inflorescences indeterminate scapiform thyrses
+(11.5–) 18.5–45 cm long, the flowers rather crowded and becoming interrupted proximally, the bracts highly
+reduced, rarely having a large leaf-like bract, the lowest pair of bracts subopposite, primary axis glandularhirsute proximally to glandular-puberulent distally; cymules 2–7 flowered, 1.5–5.5 cm long, monochasial or
+often dichasial at the first branching. Flowers 5–7 mm long, external surface white aging to pale pink,
+puberulent proximally and becoming strongly hirsute-glandular distally; hypanthia campanulate, moderately
+zygomorphic, 2.5–3.5 mm long on the adaxial side, (2.5–) 3–6 mm wide; sepals rounded, (1–) 1.5–3 mm
+long; petals 2–3 mm long, white, ovate-spatulate to rhombic-spatulate with a prominent claw, exceeding the
+sepal tips, adnate to free hypanthium just below the sepal sinuses; stamens 1.5–2 mm, slightly or strongly
+included, filaments adnate to free hypanthium about halfway between the base and the level of the sepal
+sinuses, anthers ovate; closed true styles about 1 mm, stigmas capitate. Capsule 8–10 mm long, 4–5 mm wide,
+ovoid, exceeding slightly the accrescent calyx. Seeds about 0.7–0.8 mm long, fusiform but somewhat lunular,
+beset with short spines.
+Phenology:—Flowering June–September (–October), fruiting August–October.
+Distribution:—The rocky slopes of El Coahuilón and Cerro El Morro in the Sierra Coahuilón and Sierra
+la Marta, along the border between Coahuila and Nuevo León just south of Monterrey, northern Sierra Madre
+Oriental, Mexico.
+Habitat:—Moist north-facing rock outcrops or talus slopes, mostly on limestone, 3250–3700 m,
+subalpine or alpine zone. Alpine specimens much dwarfed. Some plants, including the type collection, are
+reported from the pioneer vegetation of recently burned pine forests.
+Associates:—Pseudotsuga menziesii, Pinus rudis, P. culminicola, P. hartwegii, Abies vejari, Holodiscus
+sp., Salix sp., Quercus sp., Garrya sp., and Symphoricarpos sp.
+Conservation:—Known from only an extremely narrow range of about 6 km in width; a possible candidate
+for conservation listing, but field work is needed to establish the size and stability of these populations.
+Etymology:—For Olga Lakela, whose dissertation work led to an exemplary and well-regarded 1936
+monograph on Heuchera, the most recent such work to include Mexican species.
+Other specimens examined:—MEXICO: Coahuila: El Coahuilón, Sierra de la Marta, mpio. Arteaga,
+25°14'12 N, 100°18'40” W, 3600 m, 9 October 1986, J.A. Villareal 3467 (MEXU, BRIT); El Coahuilón,
+Sierra de la Marta, mpio. Arteaga, 25°14'12 N, 100°18'40” W, 3600 m, 6 August 1987, J.A. Villareal 3818
+(TEX); El Coahuilón, Sierra de la Marta, mpio. Arteaga, 25°14'12 N, 100°18'40” W, 3600 m, 17 October
+1989, J.A. Villareal 5471 (TEX); El Coahuilón, Sierra de la Marta, 25°14'12 N, 100°18'40” W, 3600 m, 17
+October 1989, J.A. Villareal 5473 (XAL); Rocky knoll, Sierra la Marta, 3450 m, 6 September 1981, G.B.
+Hinton 18331 (TEX); Cliff in pine forest, S. del Coahuilón, mpio. Arteaga, 3250 m, June 2, 1985, G.B. Hinton
+18855 (TEX); Estepa alpina, Cerro del Morro en ladera sur, Sierra la Marta, ca. 3700 m, 17 June, 1985,
+McDonald 1470 (TEX); Ladera sur, zona subalpina, Sierra Coahuilón, ca. 3400–3500 m, 18 June 1985,
+McDonald 1521 (TEX). Nuevo Leon: Sierra la Marta, mpio. Galeana ?, 3400 m, 4 August 1980, G.B. Hinton
+17912 (TEX, MEXU);
+
+Discussion
+Heuchera lakelae is represented by a number of collections from high elevations in a very narrow area in
+northeastern Mexico, the Sierra la Marta and Sierra Coahuilón just south of Monterrey. Judging from the large
+number of geographically representative specimens I have seen for the genus in Mexico, H. lakelae appears to
+HEUCHERA LAKELAE SP. NOV.
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 39
+
+be locally abundant, but quite absent outside the documented range. Specimens of this taxon to date have
+mostly been identified in herbaria as H. sanguinea Engelmann (1848: 107), though a recent floristic list
+(Villareal-Quintanilla 2001) for Coahuila lists the type collection as H. mexicana Schaffn. ex Rydberg (Rydberg
+1905: 108), a plant to which it does not appear to be as closely related, and a few have been annotated even
+more remotely as H. rubescens Torrey (1852: 388). One specimen collected by G.B. Hinton at TEX was
+anonymously annotated “n. sp.?”, indicating that other botanists have been struck by its appearance as well.
+Heuchera lakelae is assigned to the previously monotypic subsection Sanguineae (section
+Rhodoheuchera; currently containing only H. sanguinea). Though H. lakelae is strikingly different in gross
+appearance from H. sanguinea, they share a number of technical characters: relatively large flowers with
+broadly campanulate, slightly zygomorphic hypanthia, relatively wide petals, included stamens, adnation of
+the filaments to the hypanthium well below the sepal sinuses, and very short true closed styles. They are also
+similar in their summer flowering (other Mexican Heuchera species bloom in early spring). Heuchera lakelae
+differs from H. sanguinea by having the external flower surface white but tinged with pale pink as the flowers
+age (as opposed to a vivid, darkening cerise) and strongly glandular-hirsute distally (rather than uniformly
+glandular-puberulent or sparsely glandular-hirtellous), petals white, ovate-spatulate to rhombic, large and
+showy, and considerably surpassing the sepal tips (as opposed to cerise or pinkish, miniscule lanceolatespatulate petals not exceeding the sepal tips). The overall flower shape of H. lakelae is squatly cylindrical or
+very slightly flaring (rather than strongly flaring-conical). Variegation of the upper leaf surface, apparently
+caused by a secondary thickening of epidermal cell walls, is polymorphic and common across the range of H.
+sanguinea, but wholly absent in H. lakelae. The habitat is also quite different: Heuchera sanguinea in Mexico
+occurs at 1500–2300 (rarely to 3600) m, whereas H. lakelae is known from 3250–3700 m and is completely
+absent from lower elevations. H. lakelae is obviously close to H. sanguinea but it approaches the
+geographically proximate species H. mexicana in having exserted petals and a pale calyx color; H. lakelae
+differs from H. mexicana in having short included true styles, included stamens which are attached well below
+the level of the sepal sinuses on the abaxial side, rather wide petals, and a broadly campanulate flower, as well
+as a later flowering period (Table 1).
+The rank of species is chosen because of the striking morphological distinctness between H. lakelae and H.
+sanguinea, its apparent closest relative, in 6 morphological characters (external flower surface color and
+indumentum, petal color, petal shape, stamen exsertion, overall flower shape) as well as an altitudinal
+difference and parapatric distribution. On the other hand, I have discovered a few specimens of H. sanguinea
+with flowers that are unusually pale in appearance, and therefore resemble the color of H. lakelae. These
+unusual specimens occur near the tiny range of H. lakelae, a region in which H. sanguinea is rare and fardisjunct (about 600 km) from its more extensive range in the northern Sierra Madre Occidental (Figure 2).
+Overall these specimens are strikingly variable, but they have in common with H. sanguinea larger flowers,
+small petals terminating below the sepal tips, and inserted anthers; their flowers, while opening pale,
+eventually darken to the cerise color of typical H. sanguinea. Pale H. sanguinea has been seen only from the
+periphery of the range of H. lakelae: the lower slopes of El Coahuilón, the Sierra de la Nieve, Sierra de la Viga,
+and Sierra de los Lirios, at higher elevations than typical H. sanguinea in the west (2700–3600 m versus 1500–
+2300 m). The pale phase does not occur in the Sierra Madre Occidental. The typical forms of H. lakelae and H.
+sanguinea are at a glance strikingly different and easily distinguished by morphology, and these unusual
+specimens seem to fall within the range of variation of H. sanguinea in characters examined other than color.
+Material of Heuchera lakelae (from Hinton 17912 TEX) has been included in studies on the
+phylogenetics of Heuchera using molecular data (results in progress). It has not been possible to resolve the
+relationships of H. lakelae to other species on the basis of molecular data owing to the difficulty in obtaining
+more variable single-copy nuclear loci from herbarium material. The loci recovered, ITS, ETS, and rpl32trnL, are not sufficient to resolve the relationships of H. lakelae. However, two of these loci provide molecular
+diagnostic characters: H. lakelae was differentiated from two collections of H. sanguinea (from the Dragoon
+and Chiricahua mountains) and all other species of section Rhodoheuchera on the basis of a single base
+mutation (ITS), and a 3 base pair insertion (rpl32-trnL), apomorphic character states in both cases.
+
+40 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+FOLK
+
+TABLE 1. Comparison among Heuchera taxa known to occur in northeastern Mexico.
+Taxon
+
+H. lakelae
+
+H. mexicana
+
+Flower length (anthesis) 6–12 mm
+
+5–7 mm
+
+3–4.5 mm
+
+Flower shape
+
+Flaring-conical
+
+Squatly cylindrical or slightly
+flaring
+
+Long-tubular
+
+External flower color
+
+Cerise, darkening with age*
+
+White, turning pink with age* White, turning pale pink with
+age*
+
+External flower
+indumentum
+
+Puberulent or rarely hirtellous
+distally
+
+Becoming strongly hirsute
+distally
+
+Becoming long–villous
+distally
+
+Hypanthium
+zygomorphy
+
+Weak
+
+Moderate
+
+Very strong
+
+Petal color
+
+Cerise to pink
+
+White
+
+White
+
+Petal shape
+
+Lanceolate-spatulate
+
+Ovate-spatulate to rhombicspatulate
+
+Narrowly lanceolatespatulate
+
+Petal exsertion
+
+Included
+
+Exserted
+
+Exserted
+
+Stamen exsertion
+
+Included
+
+Included to slightly included
+
+Strongly exserted
+
+Filament adnation
+(abaxial side)
+
+Well below the sepal sinuses
+
+Well below the sepal sinuses
+
+Near the level of the sepal
+sinuses
+
+True style
+
+Very short, inserted
+
+Very short, inserted
+
+Long, exserted
+
+Variegation
+
+Often present
+
+Always absent
+
+Always absent
+
+Phenology (blooming)
+
+Summer
+
+Summer
+
+Early spring
+
+Elevation
+
+1500–2300 (–3600) m
+
+3250–3700 m
+
+1000–3700 m
+
+Range
+
+Northern Sierra Madre Occidental, Sierra la Marta and Sierra
+disjunct and rare in the northern
+Coahuilón
+Sierra Madre Oriental
+
+*
+
+Heuchera sanguinea
+
+Broadly distributed in
+Northern Mexico, Sierra
+Madre Occidental and
+Oriental.
+
+The tendency of the external flower surface becoming darker pink with age (“rubescence”) seems to be a synapomorphy of
+section Rhodoheuchera, but species differ widely in the overall amount of pink. The hypanthium tends to be paler than the rest of
+the external flower surface.
+
+The phylogenetic position of Heuchera lakelae seems to be as sister to or perhaps derived from H.
+sanguinea on the basis of morphological similarity. It may have originated allopatrically when previously
+continuous mesic habitats across northern Mexico were cut off by the aridification of what is now the
+Chihuahua Desert. Current populations of H. sanguinea in the Sierra Madre Oriental may represent more
+recent incursions eastwards, either through long-distance dispersal or more likely through migration corridors
+created during a recent glacial maximum. However, some of the features of H. lakelae, such as flower size,
+hair length on the external flower surface, and degree of zygomorphy, are intermediate between H. sanguinea
+and H. mexicana. Since Heuchera is well-known for its propensity to form hybrids (Soltis et al. 1991 and
+citations therein), it is possible that H. lakelae arose from hybridization between H. sanguinea and H.
+mexicana, both of which are peripherally distributed very near its range. More data, especially using
+molecular characters and cytology, are needed to resolve the position of H. lakelae and explore the possibility
+of its origination by hybridization.
+
+HEUCHERA LAKELAE SP. NOV.
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+• 41
+
+FIGURE 2. Occurrence map of Heuchera lakelae (white triangles) and H. sanguinea (gray diamonds). Inset shows the Sierra la Marta
+and adjacent regions.
+
+Acknowledgements
+I thank the directors of ASU, BRIT, CAS, F, MEXU, MICH, MO, NY, RSA, TEX, US, VT, WIS and XAL for
+assistance in obtaining loans, Mesfin Tadesse for assistance in specimen curation, Brandon Sinn for assistance
+with GIS programs, and John Freudenstein for discussion and criticism of the manuscript.
+
+References
+Engelmann, G. (1848) in: Wislizenus, F.A. Memoir of a tour to northern Mexico connected with Col. Doniphan's
+expedition in 1846 and 1847. Tippin and Streeper, Washington D.C., pp. 107.
+Nixon, K.C. & Wheeler, Q.D. (1990) An amplification of the phylogenetic species concept. Cladistics 6: 211–223.
+http://dx.doi.org/10.1111/j.1096-0031.1990.tb00541.x
+Rosendahl, C.O, Butters, F.K. & Lakela, O. (1936) A monograph on the genus Heuchera. Minnesota Studies in Plant
+Science 2: 1–180.
+Rydberg, P.A. (1905) Heuchera. In: Small, J.K. and Rydberg, P.A. North American Flora. New York Botanical Garden,
+New York, vol. 23, pp. 97–117.
+Soltis, D.E., Soltis, P.S., Collier T.G. & Edgerton, M.L. (1991) Chloroplast variation in the Heuchera group
+(Saxifragaceae): Evidence for chloroplast transfer and paraphyly. American Journal of Botany 78(8): 1091–1112.
+http://dx.doi.org/10.2307/2444898
+Torrey, J. (1852) in: Stansbury, H. An expedition to the valley of the Great Salt Lake of Utah. Sampson Low, Son, and
+Co., Lippincott, Grambo, and Co., London and Philadelphia. p. 388.
+Villarreal-Quintanilla, J.A. (2001) XXIII. Flora de Coahuila. Listados Florísticos de México. Universidad Nacional
+Autónoma de México, Mexico City. 138 pp.
+Wells, E.F & Elvander, P.E. (2009) Saxifragaceae. In: Flora of North America Editorial Committee (eds.) Flora of North
+America North of Mexico. Oxford University Press, New York and Oxford, vol. 8, pp. 43–146.
+
+42 •
+
+Phytotaxa 124 (1) © 2013 Magnolia Press
+
+FOLK
+
+

@@ -1,0 +1,810 @@
+Phytotaxa 116 (1): 1–18 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.116.1.1
+
+Systematics of Mappia (Icacinaceae), an endemic genus of tropical America
+DIEGO F. ANGULO1, RODRIGO DUNO DE STEFANO2 & GREGORY W. STULL3
+1
+
+Departamento de Biología Evolutiva, Instituto de Ecologia, A. C., Apartado Postal 63, 91000 Xalapa, Veracruz, Mexico
+Herbarium CICY, Centro de Investigación Cientifica de Yucatan, A. C. (CICY), Calle 43 No. 130, Col. Chuburna de Hidalgo, 97200
+Merida, Yucatan, Mexico; email: roduno@cicy.mx.
+3
+Department of Biology and Florida Museum of Natural History, University of Florida, Gainesville, Florida 32611 USA
+2
+
+Abstract
+Mappia includes four species of trees and shrubs distributed in Central America, Mexico and the Greater Antilles.
+Mappia has historically been associated with the genera Casimirella (=Humirianthera), Icacina, Leretia and
+Nothapodytes, collectively comprising the Mappia complex, and over the years authors have merged or maintained these
+genera based on various lines of morphological and anatomical evidence. Here we present a phylogenetic study of the
+Mappia complex, based on morphological and molecular data, to assess monophyly of Mappia as well as relationships
+among other icacinaceous genera. Our results indicate that Mappia is sister to the Asiatic genus Nothapodytes, consistent
+with previous studies, and that Leretia, Icacina and Casimirella form a clade more closely related to other genera of
+Icacinaceae (e.g., Alsodeiopsis, Iodes, Phytocrene) than to Mappia+Nothapodytes. These results support recognition of
+Mappia as a distinct entity, and here we provide an updated taxonomic treatment for the genus, recognizing four species
+including three from Mexico and Central America (M. longipes, M. mexicana, and M. multiflora) and one from the
+Greater Antilles (M. racemosa).
+Key words: Caribbean flora, Central American flora, lamiids, Mexican flora, Neotropical flora, nhdF
+
+Introduction
+Mappia Jacquin (1797: 22) was forgotten until Miers (1852) assigned many new species mainly from Asia to
+this genus. Mappia has historically been associated with the Neotropical genus Leretia Vellozo (1829: 99),
+and both have been treated in different ways. Bentham (1862), Engler (1893), House (1922), Baehni (1936)
+and Sleumer (1940, 1942) merged these genera. In contrast, Miers (1852), Engler (1893) and Howard (1942)
+maintained both. Baehni (1936) segregated the Asiatic species of Mappia into a new genus, Neoleretia Baehni
+(1936: 35) (= Nothapodytes Blume 1850: 248). Howard (1942) provided morphological evidence that these
+genera are all distinct. More recently, Dahl (1952) provided palynological evidence supporting Leretia and
+Mappia as distinct entities. House (1922) and Baehni (1936) mentioned that the name Mappia is illegitimate,
+but the last author proposed to conserve the name, which was agreed in 1940.
+Phylogenetic analyses based on morphological data (Kårehed 2001) indicated that Mappia and Leretia are
+not closely related and that the Asiatic genus Nothapoytes is sister to Mappia, although these analyses did
+place Mappia+Nothapodytes within a larger clade including Lavigeria Pierre (1892: 267), Leretia, Icacina
+Jussieu (1823:174), Casimirella Hassler (1913: 249) and Pleurisanthes Baillon (1874: 201). However, several
+of these genera (i.e., Casimirella, Lavigeria, Leretia and Pleurisanthes) have yet to be included in molecular
+phylogenetic analyses, and consequently relationships among members of the Mappia complex (Mappia,
+Nothapodytes, Leretia, Casimirella and Icacina) and other icacinaceous genera, especially Lavigeria,
+Pleurisanthes, Iodes Blume (1825: 29) and Phytocrene Wallich (1831: 11), remain poorly known.
+
+Accepted by Mark Chase: 6 May 2013; published online in PDF: 9 July 2013
+
+1
+
+Here we present results of a phylogenetic analysis based on morphological and molecular (plastid ndhF)
+data to address the following questions: (1) is Mappia monophyletic and with what other genera is it placed
+within Icacinaceae, especially with respect to other genera of the Mappia complex (Casimirella, Icacina,
+Leretia and Nothapodytes); and (2) which morphological characters are synapomorphic for Mappia? We also
+provide an updated taxonomic treatment of Mappia, recognizing four species from Central America, Mexico
+and the Greater Antilles. Based on this circumscription of Mappia, the genus can be recognized by the
+following features: trees or shrubs, leaves without stipules, domatia in the abaxial surface of the leaves,
+malphigiaceous hairs in vegetative and floral structures, inflorescence axillary, bracts and bracteoles absent,
+flowers pentamerous, petals bearded on their inner surface and ovary surrounded by a disc.
+
+Materials and Methods
+Cartographic maps were produced on a DIVA-GIS base map (Hijmans et al. 2004) using ArcView 3.2 (ESRI
+1999) by plotting locality data extracted from available herbarium specimens and relevant literature (Angulo
+2006, Duno & Angulo 2010). This map was later edited with Adobe Photoshop 6.0.1 (Adobe Systems Inc,
+San Jose, California).
+Morphological matrix
+Flowers from herbarium material were soaked in concentrated ammonium hydroxide for about one minute for
+rehydration and then rinsed in water until soft and ready for study under a dissecting microscope. Flowers thus
+pretreated were temporarily preserved in a 70:25:5 ethanol:water:glycerine solution for further study and later
+returned to herbarium sheets. Characters states were obtained from hydrated flowers or direct observation
+from herbarium material with a Nikon SMZ800 microscope. In the taxonomic treatment, numerical data
+include the minimal and maximum values; mean and standard deviation are branches.
+We used anatomical and pollen information from Karehed (2001); however, most characters turned out to
+be uninformative in the context of the ingroup-outgroup relationships and therefore were not included in this
+study. Terminology follows the Systematic Association Committee for descriptive biological terminology
+(1962) for leaf shape and apex.
+A morphological data matrix of 44 characters (Table 1) was produced after careful examination of more
+than 100 herbarium specimens of Mappia and outgroup taxa from the following herbaria: AAU, BM, CICY, F,
+G, GOET, HUH, K, MEXU, MO, NY, P, TX, US, XAL and VEN (acronyms according to Thiers 2010).
+Specimens examined included types of all terminal taxa.
+Phylogenetic analysis based on morphological data
+In the phylogenetic analysis based only on morphology, two taxa were designated as outgroups based on
+previous phylogenetic information (Kårehed 2001): Ottoschulzia pallida Lundell (1912: 272–273) and
+Oecopetalum mexicanum Greenman & Thompson (1914[1915]: 408). Regarding the ingroup, four taxa of
+Mappia were included based on previous data (Angulo 2006, Duno & Angulo 2010): M. longipes Lundell
+(1942: 26), M. multiflora Lundell (1970: 139), M. mexicana Robinson & Greenmam (1895: 50) and M.
+racemosa Jacquin (1797: 22); we also included other members of the Mappia group—Icacina senegalensis
+Jussieu (1823: 174), Casimirella Hassler (1913: 249), Leretia cordata Vellozo (1829: 99), Nothapodytes
+foetida (Wight, 1843–1845: 955) Sleumer (1940: 247)—as well as Lavigeria macrocarpa (Oliver 1866: 357)
+Pierre (1892: 267) and Pleurisanthes howardii Duno, Riina & Berry (2002: 13), which formed a clade with
+members of the Mappia group in previous analyses (Kårehed 2001).
+Parsimony analyses of the morphological data set were conducted using PAUP* version 4.0 (Swofford
+2003). The analyses included a heuristic search with characters equally weighted and unordered, 1000
+replicates with random taxon sequence addition, tree bisection-reconnection branch swapping (TBR), with
+multiple shortest trees kept during branch swapping, but with no more than 10 trees saved per replicate. We
+
+2 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+also conducted 10000 bootstrap replicates to assess clade support, with random sequence addition, TBR, and
+10 trees maximum saved per bootstrap replicate.
+TABLE 1. Morphological and palynological characters included in this study.
+[0] Plant habit: 0=tree, 1=shrub, 2= liana
+[1] Nodal anatomy: 0=trilacular, 1=unilacular,
+[2] Vessel element: 0= scalariform perforations; 1= porous, simple,
+[3] Rhombic crystals in rays of wood; 0= absent, 1=present
+[4] Petiole with abscission line; 0= absent, 1=present
+[5] Blade shape: 0=obovate to narrowly obovate, 1= ovate to elliptic, 2=oblong to narrowly oblong
+[6] Apex of blade: 0=rounded, 1= acute, 2= narrowly acute
+[7] Pubescence of the blade: 0= glabrous, 1= strigose
+[8] Malpighiaceous hairs: 0= absent, 1= present
+[9] Malpighiaceous hair: 0= arms ± the same length, 1= one short arm and one long arm
+[10] Domatia: 0= absent, 1=present
+[11] Blade coloration (dry): 0=brown, 1= green, 2= black
+[12] Number of secondary nerves: 0=6 – 7, 1=8 - 9, 1=10 - 12,
+[13] Tertiary reticulation: 0=inconspicuous, 1=conspicuous
+[14] Type inflorescence: 0= panicle, 1= cyme
+[15] Cyme with short secondary axis: 0=present, 1= absent (long secondary axis)
+[16] Reduction inflorescence: 0=present, 1= absent
+[17] Bracteoles: 0= absent, 1=present (reduced)
+[18] Number of flowers per inflorescence: 0=1-4, 1= 6-50, 2= 60-100
+[19] Sepals: 0= imbricate, 1=valvate,
+[20] Size of calyx: 0= 1/4 length of ovary, 1= 1/2 length of ovary,
+[21] Calyx persistent: 0=yes, 1= no
+[22] General shape of calyx lobes: 0= partite, 1= entire, 2= lobes weakly dentate
+[23] Connation of petals; 0=agglutinate at base, 1= free
+[24] Cylindrical hairs on inner surface of petals; 0= absent, 1=present
+[25] Indumentum in the out surface of the petals: 0= absent, 1=present
+[26] Groves on inner surface of petal: 0= absent, 1= present
+[27] Filament morphology: 0= swollen, 1= filiform
+[28] Size of anther: 0= filament ± equal to anther, 1= filament twice the size of anther, 2= filament three times longer
+than anther
+[29] Anther dehiscence: 0= extrorse, 1= introrse
+[30] Sagittate anther: 0= absent, 1=present
+[31] Ovary indumentum: 0= absent, 1=present
+[32] Ovary indumentums persistence: 0= present at maturity, 1= early caducous
+[33] Base of the style: 0= not swollen, 1= swollen
+[34] Length of style: 0= longer than ovary, 1= same length of ovary, 2= shorter than ovary
+[35] Stigma: 0= slightly differentiated, 1= capitate,
+[36] Disc: 0= absent, 1=present
+[37] Pollen aperture: 0= colporate, 1= porate,
+[38] Numbers apertures (pollen): 0= 3, 1=4
+[39] Exine enculturation: 0= psilate, 1= foveolate, 2= echinate,
+[40] Shape of fruit: 0= oblongoid, 1= subglobose,
+[41] Apex of fruit: 0= rounded, 1= acuminate
+[42] Fruit, laterally compressed: 0= absent, 1=present
+[43] exocarp: 0=verrucose, 1=smooth
+
+Phylogenetic analysis based on molecular data
+We sampled ndhF sequences for 25 representatives of Icacinaceae (Appendix 1), including newly generated
+sequences for Calatola cf. venezuelana Pittier (1938: 360) Lavigeria macrocarpum, Leretia cordata, Mappia
+multiflora, M. mexicana, Oecopetalum mexicanum Greenman & Thompson (1914[1915]: 408), Ottoschulzia
+
+SYSTEMATICS OF MAPPIA (ICACINACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 3
+
+pallida Lundell (1975: 105) and Ottoschulzia rhodoxylon Urban (1912: 274). The ingroup sampling includes
+four representatives of Mappia, allowing us to assess monophyly. However, we were only able to sample three
+of the four Mappia species recognized here for molecular data because the fourth species, M. longipes, is
+based on a single specimen that was not available for DNA sampling. Our sampling also includes
+representatives of all genera of the Mappia complex discussed in the introduction (Mappia, Leretia,
+Nothapodytes, Casimirella [only morphological data] and Icacina), allowing us to determine relationships
+among these and other icacinaceous genera. Because the phylogenetic position and circumscription of
+Icacinaceae remain unresolved (Kårehed 2001), we included a broader sampling of lamiid taxa. Ilex crenata
+Thunberg in Murray (1784: 168), a representative of the campanulid family Aquifoliaceae, was used as the
+ultimate outgroup.
+DNA was extracted from silica-gel dried (Chase & Hills 1991) or herbarium material using a modified
+CTAB protocol (Doyle & Doyle 1987). We used the primers 972F and 2110R described by Olmstead &
+Sweere (1994) to amplify the 3’ half of ndhF. The PCR reactions included 25 µl total (2.5 µl 10X buffer, 5.0
+µ l Q solution (Qiagen), 1.0 µl MgCl2 (25mM), 1.0 µ l dNTPs (25mM), 1 µl each for the F and R primers
+(10mM), 0.2 µl Taq polymerase, 1.0 ul DNA template, and 11.3 ul of ddH20), with the following conditions:
+denaturation at 94°C for 4 min, followed by 30 cycles of denaturation at 94°C for 45 s, annealing at 49°C for
+90 s, and extension at 72°C for 3 min, with a final extension step at 72°C for 7 min. The same primers were
+used for amplification and sequencing. The newly generated sequences were assembled and edited using
+Sequencher 4.2.2. (Gene Codes, Ann Arbor, Michigan, USA) and then aligned with additional ndhF
+sequences from GenBank using Muscle (Edgar 2004), followed by manual adjustment in Se-Al (Rambaut
+1996). The 5’ portions of the GenBank ndhF sequences were trimmed off to match the sequences generated
+for this study.
+Phylogenetic analyses were conducted using maximum likelihood (ML) in RAxML (Stamatakis 2006)
+and parsimony in PAUP* version 4.0 (Swofford 2003). The parsimony analyses included a heuristic search
+with characters equally weighted and unordered, 1000 replicates with random taxon sequence addition, tree
+bisection-reconnection branch swapping (TBR), with multiple shortest trees kept during branch swapping, but
+with 10 trees saved per replicate. To assess clade support within a parsimony context, we conducted 10000
+bootstrap replicates with random sequence addition, TBR, with 10 trees maximum saved per bootstrap
+replicate. For the ML analyses in RAxML, the model GTRGAMMA was implemented in the ML searches
+and bootstrap replicates. Thorough bootstrap and ML searches were conducted together, with bootstrap 1000
+replicates. Gaps were treated as missing data in all analyses.
+Combined molecular-morphological phylogenetic analyses
+We also conducted combined molecular-morphological phylogenetic analyses, using parsimony in PAUP*
+version 4.0 (Swofford 2003). For these analyses, we combined the available morphological data (for 12
+species of Icacinaceae) with the ndhF sequences. For three taxa (Casimirella, Mappia longipes and
+Pleurisanthes), we had only morphological data; the molecular characters for these taxa were therefore treated
+as missing data. Additionally, for 23 other taxa (including other species of Icacinaceae and asterid outgroups)
+we had available molecular data but no morphological data; thus the morphological characters for these taxa
+were treated as missing data in the matrix. Multiple studies have shown that missing data are not necessarily
+problematic in the context of combined molecular-morphological phylogenetic analyses (e.g., Wiens 2003,
+2009); therefore, we think this analytical approach should yield reasonable results, and at the least an
+interesting comparison with the separate morphological and molecular analyses.
+For the combined analyses, as with the separate molecular and morphological parsimony analyses, we
+conducted a heuristic search (including 1000 replicates with random taxon sequence addition, TBR branch
+swapping, and multiple shortest trees kept during branch swapping, but with 10 trees saved per replicate) to
+find the most-parsimonious tree(s) as well as 10,000 bootstrap replicates to assess clade support.
+
+4 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+Results
+In the morphological phylogenetic analysis, all 44 characters (Table 1) were informative, and analysis
+produced a single most-parsimonious tree (Figure 1) with the following statistics: length (L) = 90, consistency
+index (CI) = 0.61, and retention index (RI) = 0.72. Seven synapomorphies (characters 9, 23, 29, 34, 38, 39,
+and 40) support the sister relationship of Nothapodytes and Mappia, and monophyly of Mappia is supported
+by seven synapomorphies (characters 10, 11, 17, 22, 41, 42, 43). Within Mappia, M. racemosa was recovered
+as sister to the rest of the genus, followed by M. mexicana sister to M. longipes + M. multiflora, although
+several of these nodes received relatively weak support in the bootstrap analyses (Figure 1). Bootstrap
+analysis of the morphological data recovered Mappia (bootstrap percentage, BP, 96) as sister (BP 95) to
+Nothapodytes, but relationships within Mappia were unresolved. Icacina received moderate support (BP 80)
+as sister to Mappia+Nothapodytes, but placements of the other ingroup taxa included (Leretia, Casimirella,
+Lavigeria) were unresolved.
+
+FIGURE 1. The single shortest tree (90 steps) recovered from the parsimony analysis of the morphological data. Bootstrap
+percentages are displayed for nodes that received at least 50.
+
+SYSTEMATICS OF MAPPIA (ICACINACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 5
+
+In the molecular analyses, consistent relationships within Icacinaceae, or the Icacina group sensu Kårehed
+(2001), were recovered regardless of the optimality criterion. In both ML (Fig. 2) and parsimony analyses,
+Mappia was well supported (BP 98 for both) as sister (BP 100 for both) to Nothapodytes; this pair was sister
+to all other members of the Icacina group. Leretia cordata formed a strongly supported clade with Icacina and
+Lavigeria (ML BP or MBP 96, parsimony or PBP 92), with Alsodeiopsis Oliver in Bentham & Hooker (1867:
+996) being moderately supported as sister to this group (MBP 76, PBP 75). This clade (including Icacina,
+Lavigeria, Leretia, and Alsodeiopsis) received moderate support (MBP 75, PBP 75) as sister to the remaining
+members of Icacinaceae, i.e., Iodes, Phytocrene, Stachyanthus Engler (1897: 227) and Pyrenacantha Wight in
+Hooker (1830: 107). Within Mappia, M. mexicana received relatively weak support as sister to M. racemosa +
+M. multiflora (MBP 72, PBP 61) in the bootstrap analyses; this same topology was recovered in the two
+shortest trees inferred from the parsimony analysis.
+
+FIGURE 2. The best tree (lnL -8160.768319) from the ML analysis in RAxML (GTR+G) including support from the bootstrap. Only
+support of 50 percent and above is presented on the tree. The taxa previously included in the Mappia group are highlighted in blue.
+
+In the combined molecular-morphological analyses, relationships recovered were generally similar to
+those inferred in the molecular analyses (Figure 3). Four most-parsimonious trees were recovered (1492
+steps), differing only in the relationships within Mappia. In the four shortest trees recovered, Casimirella,
+Leretia, Pleurisanthes, Lavigeria, Icacina and Alsodeiopsis form a clade sister to Pyrenacantha,
+Stachyanthus, Phytocrene and Iodes, with Mappia+Nothapodytes sister to these two groups. In the bootstrap
+analysis of the combined data, relationships within Icacinaceae were largely unresolved, although Mappia
+received strong support as monophyletic (BP 98) and sister to Nothapodytes (BP 99), and within Mappia, M.
+longipes and M. multiflora were weakly supported as sister (BP 56).
+
+6 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+FIGURE 3. One of four most parsimonious trees (1492 steps) recovered from the combined molecular-morphological phylogenetic
+analysis. Bootstrap values are listed for nodes that received at least 50 percent support in the bootstrap analysis. Taxa previously
+included in the Mappia complex are highlighted in blue.
+
+Discussion
+Phylogenetic analyses based on morphological and molecular data indicate that Mappia is sister to the Asiatic
+genus Nothapodytes (Figs. 1, 2, 3), providing an example of a disjunction between the Neotropics and
+Southeast Asia. Given the abundant fossil record of Icacinaceae in Europe (Reid & Chandler 1933, Collinson
+et al. 2012) and North America (Manchester 1994, Pigg et al. 2008, Rankin et al. 2008, Stull et al. 2011,
+2012), this disjunction may reflect a broader historical distribution across Laurasia, perhaps during warmer
+periods during the Paleogene. Within Mappia, there is morphological support (Figure 1) for a continental
+clade (M. longipes, M. mexicana and M. multiflora) sister to the Antillean species M. racemosa; however,
+these relationships were not well resolved in the molecular analyses or in the combined molecularmorphological analyses. Seven morphological synapomorphies support monophyly of Mappia, but only one
+is considered relevant as a diagnostic for the genus: pollen with echinate ornamentation. However, this is also
+present in some other genera not included in morphological analysis (Dahl 1952), e.g., Discophora Miers
+(1852: 118), Desmostachys Miers (1852: 398) and Phytocrene. The floral disk is useful regionally for
+recognizing Mappia, but this character is also found in the African genus Icacina and the Asiatic genus
+Nothapodytes.
+
+SYSTEMATICS OF MAPPIA (ICACINACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 7
+
+Although Leretia cordata has historically been associated with Mappia, with some authors even
+considering these a single genus, the molecular analyses clearly indicate that they are not exclusively related.
+Leretia appears to form a clade with Casimirella, Pleurisanthes, Lavigeria and Icacina, which is more closely
+related to other icacinaceous genera (e.g., Alsodeiopsis, Iodes, and Phytocrene) than to the
+Mappia+Nothapodytes clade. Collectively, the molecular and morphological data provide strong support for
+the recognition of Mappia as distinct. The molecular data do not, however, provide sufficient support/
+resolution within Mappia to discuss infrageneric relationships. A more extensive sampling of molecular data
+for the species of Mappia will be necessary to better understand the genus.
+
+Taxonomic Treatment
+Mappia Jacquin (1797: 22), nom. cons.
+Type: Mappia racemosa Jacquin (1797: 22).
+
+Shrubs or trees up to 25 m tall. Young branches cylindric, rarely slightly angular, in general all parts
+puberulent to sericeous-tomentose when young, becoming glabrous with time, hairs simple with two branches
+more or less the same length (i. e., malpighiaceous hairs). Leaves simple, alternate, exstipulate,
+membranaceous to subcoriaceous, sometimes clustered at the apex of a young branch, green when dry, rarely
+turning black; petiole up to 3 cm long, slightly sulcate, flattened, with a nitid abscission line in the base,
+puberulent to tomentose, especially in the grove; blades narrowly oblanceolate, narrowly obovate, elliptic to
+narrowly elliptic, puberulent on both sides, turning glabrous with time, with domatia in axils of secondary
+nerves, rarely absent, glabrous or puberulent abaxially, glabrous adaxially; apex acute or narrowly acuminate,
+sometimes emarginated; margin entire; base attenuate, rarely cuneate; venation penninerved,
+brochidodromous, main vein conspicuous abaxially, slightly sunken and conspicuous adaxially, 5–13 pairs of
+secondary nerves, alternate, conspicuous or not, tertiary venation perpendicular to the secondary nerves,
+conspicuous or not. Inflorescence up to 13 cm long, axillary, cymose, sometimes extensively branching,
+overall puberulent, sericeous-tomentose to strigose, peduncle up to 9.5 cm long, bracteate at the base of the
+peduncle, bracts up to 1.5 mm long, concave, triangular, sericeous-tomentose; without bracteoles. Flowers
+pentamerous, rarely tetra- or heptamerous, actinomorphic, hermaphroditic, articulate at the base. Calyx
+campanulate, slightly fleshy, puberulent or almost glabrous in the abaxial surface, lobes mucronate to deltoid.
+Corolla white-yellow, petals free, sericeous or glabrous outside, bearded inside, rarely glabrous; main vein
+inconspicuous, rarely conspicuous, apex acute, prolonged in a short tip, inflexed; margin slightly swollen
+apically, slightly papillate. Stamens alternate to petals, free; filament cylindrical, erect; anthers basifixed,
+dehiscent by longitudinal slits; connective narrowly triangular, prolonged with a short tip. Disk free,
+encircling base of the ovary, margin with 5 mucronate lobes, hirsute to glabrous outside, glabrous inside.
+Pistils subglobose, hirsute to glabrous, ovary unilocular, ovules two (only one developed), anatropous,
+pendent from the apex of the locule; style short; stigma capitate. Fruits subglobose or ellipsoidal drupes,
+glabrous, apex acute or apiculate; exocarp thin, red when mature; mesocarp slightly fleshy when mature;
+endocarp hard, smooth.
+Distribution:—Greater Antilles, Mexico and parts of Central America (Guatemala, Belize, Nicaragua,
+Costa Rica and possibly Panama).
+
+Key to the species of Mappia
+1.
+-
+
+8 •
+
+Blades narrowly obovate, rarely elliptic, 5.0–10.5 cm long; apex obtuse to acute, sometimes prolonged in a short tip;
+6–7 pairs of secondary nerves; petals glabrous; ovary glabrous............................................................... M. mexicana
+Blades narrowly elliptic, elliptic, narrowly oblong, obovate to oblanceolate, (5.0)10.0–29.5 cm long; apex narrowly
+acuminate to acute or rounded; 7–13 pairs of secondary nerves; flowers bearded inside; ovary pubescent ............... 2
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+2.
+3.
+-
+
+Inflorescence up to 12.5 cm long, peduncle up to 9.5 cm long; petals lightly bearded inside ................... M. longipes
+Inflorescence 2.0–8.5 cm long, peduncle up to 4 cm long; petals heavily bearded inside .......................................... 3
+Blades 7.0–29.5 cm long; venation conspicuous abaxially, turning dark green when dry........................M. multiflora
+Blades 4.5–18.0 cm long; venation inconspicuous abaxially, turning brown when dry ........................... M. racemosa
+
+1. Mappia longipes Lundell (1942: 26). Fig. 4.
+Type:—MÉXICO. Chiapas: Nuevo Amatenango, 1300 m, July 17, 1941, Matuda 4798 (holotype MICH!,
+isotypes A!, NY!, F, TEX/LL).
+Shrubs. Leaves membranaceous, turning black when dry; petioles 15–25 mm long, slightly sulcate, flattened,
+slightly tomentose or puberulent; blades narrowly oblanceolate, 9.7–20.0 5 3.0–5.0 cm; puberulent abaxially,
+turning glabrous, minute domatia in the axils of secondary nerves; apex acute; margin entire; base attenuate;
+9–12 pairs of secondary nerves, conspicuous. Inflorescence axillary, 11.0–12.5 cm long, cyme, branching
+extensively, sericeous-tomentose; peduncle up to 9 cm long, bracts on the base of the peduncle, rarely along it,
+up to 1.5 mm long, ovate, sericeous-tomentose outside; apex acute; margin entire; pedicel up to 2 mm long,
+sericeous-tomentose. Calyx campanulate, puberulent outside, glabrous inside, lobes mucronate; apex acute;
+margin entire. Corolla white, petals narrowly oblong, 5.0–5.5 5 1.0–1.2 mm, glabrous outside, slightly
+bearded inside; apex slightly acute, inflexed; margin entire. Stamens 4.0–4.5 mm long, filament 3.0 mm long;
+anthers 1.0 mm long; connective linearly triangular, prolonged in a small tip. Disc with 5 mucronate lobes,
+glabrous on both surfaces. Pistil subglobose, 3 mm high, hirsute; style 0.5 mm long, glabrous; stigma capitate,
+slightly papillose. Fruit unknown.
+Material examined:— only known from the type specimen.
+
+▲
+
+FIGURE 4. Distribution map of the genus Mappia. Mappia longipes ( ), M. mexicana ( ), M. multifolora (
+( ).
+
+), and M. racemosa
+
+▼
+
+■
+
+●
+
+Diagnostic features:—Mappia longipes is similar to M. multiflora but with a long peduncle up to 9 cm
+long (vs. 3 cm). The phylogenetic analysis based on morphology shows M. longipes to be sister to M.
+mexicana plus M. multiflora. The species is only known from the type specimen, and morphological variation
+SYSTEMATICS OF MAPPIA (ICACINACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 9
+
+of inflorescences therefore cannot be evaluated. Additional collections of Mappia in Chiapas will be
+necessary to determine if M. longipes is a distinct species or instead conspecific with M. multiflora.
+Distribution and ecology:—Only known from the type locality in Mexico (Chiapas); it grows in forests
+at 1300 m.
+Conservation Status:—DD; there is inadequate information to make a direct, or indirect, assessment of
+its risk of extinction based on its distribution and/or population status.
+Common Names:⎯unknown. No uses reported.
+
+FIGURE 5. Mappia mexicana. A. Flowering branch and detail of a domatium in the abaxial surface of the leaves. B. Flower. C. Inside
+of petal. D. Floral dissection (petals removed) showing androecium and gynoecium. E. Gynoecium with ovary, minute style and disk.
+
+10 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+2. Mappia mexicana Robinson & Greenman (1895: 150). Figs. 4 & 5.
+Type:—MÉXICO. San Luis Potosí: lowlands about Micos, 8 December 1891, Pringle 5494 probably in error [5094]
+(holotype GH!, isotype: A!).
+Homotypic synonyms: Leretia mexicana (B.L.Rob. & Greenm.) Sleumer (1940: 245).
+
+Shubs to trees up to 10 m tall. Leaves menbranaceous, green when dry; petioles 3–13 mm long, slightly
+sulcate, slightly flattened, puberulent, especially in the groove; blades obovate, rarely elliptic, 4.5–9.7 (11.5) 5
+1.9–4.3 cm; glabrous on both surfaces, domatia in axils of secondary nerves; apex obtuse or acute, sometimes
+a short point; margin entire; base attenuate; 6–7 pairs of secondary nerves, conspicuous or slightly
+conspicuous. Inflorescence axillary, 1.2–5.3 cm long, cymes, sometimes extensively branching, all
+puberulent; peduncle up to 3 cm long, one pair of bracts at the base of the peduncle, rarely along it, 1 mm
+long, narrowly ovate to ovate, sericeous-tomentose; apex acute; margin entire; pedicel up to 2.5 mm long,
+puberulent. Calyx campanulate, minutely puberulent or glabrous outside, lobes mucronate or slightly deltoid;
+apex acute; margin entire. Corolla white, petals oblanceolate, 2–3 mm 5 1 mm, glabrous on both sides; apex
+slightly acute, inflexed; margin slightly swelled to the apex, more or less papillose. Stamens 2–3 mm long,
+filament 1–2 mm long; anther 1 mm long; connective slightly triangular, prolonged into a point. Disk with 5
+mucronate lobes, glabrous on both surfaces. Pistil subglobose, 1.5 mm high, glabrous; style 0.5 mm long,
+glabrous; stigma capitate. Fruits unknown.
+Examined material:—MEXICO. San Luís Potosí: lowlands, Micos, [22°10'59" N, 99°15'00" W], 08
+Dec 1891 (fl.), Pringle 5094 (A, GH, TEX/LL). Tamaulipas: entre Torrecillas y Pénjamo, [23°8'59"N,
+98°22'0"W], 500–600 m, 30 May 1974, González-Medrano 7265 (MEXU-2); vicinity of Tampico,
+[22°17'59"N, 97°50'59"W], 01–31 Jan 1910 (fl.), Palmer 69 (GH, K); Tampico Hills, [22°17'59"N,
+97°50'59"W], 16 Jun 1897 (fl.), Pringle 6645 (ENCA, F, K-2, GH, MEXU-2, K, NY, P-2).
+Diagnostic features:—Mappia mexicana is the most remarkable species of genus with small obovate
+leaves and petals lacking the typical beard inside. In the phylogenetic analysis based on morphology, this
+species is placed in the continental clade with M. longipes and M. multiflora.
+Distribution and ecology:—Mappia mexicana is endemic to the Gulf slope of Mexico, in a small area
+between the borders of the states of San Luis Potosi and Tamaulipas. It grows in deciduous forest in
+calcareous soil from 100–600 m.
+Conservation Status:—EN. Mappia mexicana meets the criterion B1ab of the IUCN. The area occupied
+by M. mexicana is less than 5.000 km2, and it is only known from three localities including some historical
+collections in the city of Tampico. The habitat of the species is highly fragmented under natural conditions
+and is also severely threatened by anthropogenic activities. None of the known populations resides in an area
+under any level of protection.
+Common Names:—unknown. No uses reported.
+
+3. Mappia multiflora Lundell (1970: 139). Fig. 4 & 6.
+Type:—BELIZE. Toledo District: on high ridge, on hill slopes, Sulphur Hill, Edwards Road beyond Columbia, Jan. 15,
+1948, Gentle 6365 (holotype LL!, isotype K!, NY!).
+
+Trees up to 15–20(–25) m tall. Leaves membranaceous, turning dark green when dry; petioles 10–35 mm
+long, slightly sulcate, flattened, tomentose or puberulent, especially when young, becoming glabrous with
+time; blades narrowly oblong, narrowly obovate, 7.0–29.5 5 2.4–7.4 cm; slightly puberulent abaxially,
+glabrous with time, minute domatia in axils of secondary nerves; apex narrowly acuminate; margin entire;
+base attenuate, 7–13 pairs of secondary nerves, alternate, conspicuous. Inflorescence axillary, 2.0–8.5 cm
+long, cymose, sometimes branching extensively, overall tomentose; peduncle up to 3 cm long, one pair of
+bracts in the base of the peduncle, rarely along it, 1.5 mm long, ovate, sericeous-tomentose outside; apex
+obtuse; margin ciliate; pedicel up to 2.0 mm long, sericeous-tomentose. Calyx campanulate, puberulent
+
+SYSTEMATICS OF MAPPIA (ICACINACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 11
+
+outside, glabrous inside surface, lobes conspicuous, mucronate, up to 2 mm long; apex acute; margin entire.
+Corolla white, petals narrowly oblong, narrowly obovate or narrowly ovate, 3.0–4.5 5 1.0–1.2 mm, sericeoustomentose outside, rarely almost glabrous, bearded inside, sometimes only in the abaxial area; apex acute,
+inflexed; margin entire. Stamens 2–3 mm long; filament 2 mm long; anther 1 mm long; connective slightly
+triangular, prolonged in a short tip. Disc with 5 mucronate lobes, hirsute to glabrous on abaxial surface,
+glabrous on the adaxial surface. Pistil subglobose, 2.3–2.5 mm long, densely hirsute; style 0.5 mm long,
+glabrous; stigma bilobate or capitate. Fruit globose or ellipsoidal, apex acuminate, base rounded, 14–26 5 10–
+20 mm, 10–13 mm thick; endocarp slightly rugose.
+Material examined:—GUATEMALA. Alta Verapaz: along road between Chajmayic and Sebol, [15°45'
+48’N, 89°56'–57"W], 18 Apr 1942, Steyermark 45736 (F). Izabal: Cadenas, on bank of Río Gracias, 22 Feb
+1975, Contreras 19026 (LL/TEX); Cadenas: bordering Rió Gracias, about 4 km. north [15°52’60"N,
+89°13’0"W], 22 Feb 1975, Contreras 19027 (LL/TEX). Petén: 18 Mar 1967, Contreras 6781 (LL/TEX).
+MEXICO. Veracruz: 13 km N de Catemaco, en el ejido de la Perla de San Martín, Catemaco, [18°25'00"N,
+95°07'00"W], 14 Jun 1972 (fr), Beaman 6174 (F, MEXU, MO, LL/TEX, XAL, TEX); Estación Biológica
+Tropical los Tuxtlas, [18°26’60"N, 95°13’0"W], Calzada 97 (F, MEXU); Estación Biológica Tropical los
+Tuxtlas, [18°26’60"N, 95°13’0"W], 3 Apr 1974 (fr.), Calzada 1211 (ENCA, MEXU, ME, MO, XAL); Río
+Máquinas, camino a la Colonia Ruíz Cortinez, [20°36'0"N, 99°18'0"W], 18 May 1985 (fr.), Cedillo 3225
+(MEXU); a 34 km de Tantoyuca, hacia Tuxpan, 11 Dic 1970 (vg.), Chiang 304 (MEXU); km 0–2 del camino
+plan de Arroyo-Alvaro Obregón, [17°46’60”N, 94°37’ 60”W], 130–150 m, 15 Apr 1974 (fr.), Dorante 2866
+(F, MEXU-2, XAL); Estación Biológica Tropical los Tuxtlas, [18°26’60"N, 95°13’0"W], 17 Apr 1982 (fr),
+Ibarra 72 (F); Estación Biológica Tropical los Tuxtlas, [18°26’60"N, 95°13’0"W], 200 m, 18 Apr 1983 (fr),
+Ibarra 534 (ENCA, MEXU, MEXU-2, TUXTLAS, MO, NY); Estación Biológica Tropical los Tuxtlas,
+[18°26’60"N, 95°13’0"W], 200 m, 12 Feb 1984 (fl.), Ibarra & Sinaca 1246 (ENCA, MEXU-TUXTLAS,
+XAL); Estación Biológica Tropical los Tuxtlas; camino Laguna Escondida 1.5 km NO, [18°26’60"N,
+95°13’0"W], 160 m, 17 Feb 1984 (fl.), Ibarra et al. 1288 (ENCA, MEXU-2, MEXU-TUXTLAS-2); Lote 71,
+Estación Biológica Tropical los Tuxtlas, [18°26’60"N, 95°13’0"W], 9 Mar 1987 (fr) Ibarra 3049 (F); Lote 69,
+Estación Biológica Tropical Los Tuxtlas, [18°26’60"N, 95°13’0"W], 300 m, 18 Jan 1990 (fl.), Ibarra &
+Sinaca Colín 3472 (XAL, MEXU, P); campamento Hnos. Cedillo a 6 km al N por el poblado N 5, [18°25’–
+30'N, 95°07’–09’W] 150 m, 14 Mar 1975 (fr.), Ortiz & Martiniano 25 (F, MEXU-2, XAL); 3 km al NE del
+campamento Cedillo camino a la laguna, 18 Mar 1974 (fr), Ponce 220 (F, XAL, MEXU); Estación Biológica
+Tropical los Tuxtlas, [18°26’60"N, 95°13’0"W], 250 m, 4 Feb 1986 (fl.), Sinaca 423 (MEXU-2, MEXUTUXTLAS-2, MO, XAL); Estación Biológica Tropical los Tuxtlas, [18°26’60"N, 95°13’0"W] 4 Feb 1986
+(fl.), Sinaca 1986 (ENCA); brecha Hnos. Cedillo-La Escuadra, [17°46’60”N, 94°37’60”W] 27 Feb 1974 (fr.),
+Vázquez 45 (F, NY); Rió Soloxuchil, a orillas del campamento Hnos. Cedillo, [17°46’60”N, 94°37’60”W], 29
+Mar 1974, (fr.), Vázquez 129 (F, MEXU, XAL); 5 km SE de la Escuadra, 150 m, 15 Jan 1975 (fl.), Vázquez
+1722 (MEXU); 2 km N del poblado 2, Ejido F. J. Mina, [17°25’60”N, 95°01’60”W], 07 Apr 1982 (fr.),
+Vázquez et al. 2385 (ENCA, F, CAS, MO, MEXU, TEX/LL, XAL, TEX); 2 km N del poblado 2, ejido F. J.
+Mina, [17°25’60”N, 95°01’60”W], 10 Apr 1982, Vázquez V-2405 (CAS, MEXU, MO, TEX); 2 km N del
+poblado 2, Ejido F. J. Mina, [17°25’60”N, 95°01’60”W], 13 Apr 1982, Vázquez T. M. V-2446 (CAS, MEXU,
+MO, TEX); 600 m al NO de la Ebitrolotu por el camino a Laguna Escondida, 5 Apr 1973 (fr.), Villegas 80
+(BM, ENCA, F, K, MEXU, XAL); 13.7 km al E de la Laguna, sobre terracería a Uxpanapa, [17°58’60”N,
+94°31’0”W], 5 Mar 1981, Wendt et al. 2996 (CAS, NY, XAL, MO, TEX/LL, MEXU); 13.7 km al E de la
+Laguna, sobre terracería a Uxpanapa, 130 m snm, [17°58’60”N, 94°31’0”W], 5 Mar 1981, (fr.), Wendt et al.
+2996A (ENCA-2, MICH, NY, MEXU, TEX/LL, XAL); vivero hule al N de campamento la Laguna,
+[17°46’60”N, 94°37’60”W] Wendt et al. 3645 (ENCA). NICARAGUA. Nueva Segovia; el Jícaro, quebrada
+de Tranquera [13°44’N, 86°04’W], 26 Dec 1981, Moreno 13718 (MO). COSTA RICA: Puntarenas, Cantón de
+Aguirre, P. N. Manuel Antonio, [09°23’N, 84°09’W], 18 Mar 1990, Harmon 75 (MO). PANAMA. Bocas Del
+Toro: región of Almirante, [9°18’0”N, 82°24’0”W] 1 Jan–Mar 1928 (fl), Proctor Cooper 563 (F, NY).
+
+12 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+Diagnostic features:—Mappia multiflora is similar to M. longipes but with a shorter peduncle up to 3 cm
+long (vs. 9 cm). Its leaves are also longer than those of M. racemosa. The morphological analysis also shows
+M. mutiflora as sister to M. longipes plus M. mexicana. It was considered informally as synonymous with M.
+racemosa, but Angulo et al. (in press) proposed to keep both as distinct species based on morphology and
+niche modeling.
+
+FIGURE 6. Mappia multiflora. A. Flowering branch and detail of domatia in the abaxial surface of leaves. B. Flower. C. Inside of
+petal. D. Floral dissection (petals removed) showing androecium and gynoecium. E. Gynoecium showing ovary, minute style and disk.
+
+SYSTEMATICS OF MAPPIA (ICACINACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 13
+
+Distribution and ecology:—Mexico (Veracruz), Belize, Guatemala, Nicaragua, Costa Rica and Panama;
+in evergreen to deciduous forest on calcareous but also serpentine soil, 100–500 m.
+Conservation Status:—LC. Collections of Mappia multiflora are scattered over a large area (from
+México to Panama), including some areas that are protected. It is therefore listed as least concern (LC)
+according to IUCN Red List criteria (IUCN 2001).
+Common Names:—unknown. No uses reported.
+
+4.1. Mappia racemosa Jacquin (1797: 1: 22). Fig. 4.
+Type:—none indicated; lectotype Jacquin, Hort. Schoenb. t 47, designated by Howard (1976).
+Homotypic synonyms:—Leretia racemosa (Jacquin) House (1922: 61).
+Heterotypic synonyms:—Icacina dubia Macfadyen (1837: 122). Type: JAMAICA. Port-Royal and St. David’s
+Mountains (holotype K!).
+Mappia affinis Miers (1852: 395). Type: JAMAICA. Manchester: Ins. Jamaicae, in herb. Hook. (Purdie) (holotype K!).
+Mappia racemosa var. typica Howard (1942: 64) nom. illeg.
+Mappia racemosa Jacquin var. brachycarpa Grisebach (1866: 119). Mappia racemosa subsp. brachycarpa (Grisebach)
+Borhidi (1983: 185). Syntypes: [CUBA]: Wright 1389 (GH, K-2, MA, MO-2, NY-2, P-3), 1578 (GH!, GOET!,
+HAC!, K!, MA!, MO-2!). Type: [Wright 1587] (lectotype designated Duno et al. 2007, GOET!; isotypes, GH!,
+HAC!, K!, MA!, MO-2!).
+Mappia angustifolia Grisebach (1866: 119). Type: “[Cuba] Wright [2638], in Cuba Orientali, prope” (lectotype,
+designated Duno et al. 2007, GOET; isotype: G!, GH!, HAC!, K!, MA!, MO!).
+
+Shrubs or trees up to 10–20(–25) m high. Leaves membranaceous, sometimes clustered at the apex of
+branches, pale green when dry; petiole 5–28 mm long, slightly sulcate, flattened, slightly tomentose or
+puberulent, especially in the grooves; blades narrowly obovate, narrowly oblong, narrowly elliptic or elliptic,
+4.5–18.0 5(1.5) 2.0–6.2 cm; puberulent abaxially, turning glabrous with time, minute domatia in the axil of
+secondary nerves, sometimes absent; apex acute to narrowly acuminate, rarely rounded; margin entire; base
+attenuate; 7–13 pairs of secondary nerves, alternate, conspicuous or not. Inflorescence axillary, 3.0–7.5 cm
+long, cymose, sometimes extensively branching, overall sericeous-tomentose; peduncles up to 3 cm long,
+sericeous-tomentose, one pair of bracts in the base peduncle, rarely along it; 1.5 mm long, ovate, sericeoustomentose; apex obtuse; margin ciliate; pedicel up to 2.0 mm long, sericeous-tomentose. Calyx campanulate,
+puberulent to pilose abaxially, lobes conspicuous, mucronate or deltoid, up to 3 mm long; apex acute; margin
+entire. Corolla white, petals narrowly oblong, narrowly obovate or narrowly ovate, 3.5–4.5 51.0 mm,
+sericeous-tomentose abaxially, rarely glabrous, bearded inside, sometimes only basally; apex acute, inflexed;
+margin entire. Stamens 2.5–4.5 mm long, filament 2.0–3.5 mm long; anthers 1.0 mm long; connective
+triangular, prolonged into a tip. Disc with five mucronate lobes, hirsute or glabrous outside, glabrous inside.
+Pistil subglobose, 1.8–2.0 mm high; hirsute, rarely glabrous; style 0.5 mm long, glabrous; stigma bilobulate or
+capitate. Fruit globose or ellipsoidal, rugose, 1.0–2.3 5 0.8–1.1 cm, 0.6–1.3 cm in diameter.
+Material examined⎯CUBA. Cienfuegos: San Juan, [21º55'13"N 80°16' 6"W], 15–17 Mar 1916 (fr.),
+Britton et al. 15459 (F, NY); Guabairo, Soledad, [22°10'0"N, 80°17'60"W], 15 Dec 1928, Jack 6902 (A-2, F,
+K, NY). La Habana: Guanajay mr. [22°55'32"N, 82°41'22"W], 11 Dec 1904 (fr.), Baker y Van Herman 4265
+(F, HAC, NY); Guanajay, [22°55'32"N, 82°41'22"W], 11 Dec 1904 (fr.), Baker & Van Herman 4273 (F, NY,
+P); Bayate, Monte Oscuro, [20°17'59"N, 76°35'0"W], 17 Jul 1915, Ekman 6238 (F, NY); Papayo (of the
+Sevilla tract) in the Mandingo Hill, 7 Aug 1918 [19°52'59"N, 77°3'59"W], Ekman 9461 (NY); Sierra de
+Anafe, near Caimito, [22°52'00"N, 82°20'00"W], 17 Nov 1921 (fr), Ekman 13492 (F, MICH, NY); cresta de la
+Sierra de Anafe, 10 Oct 1956, Hno. Alain 6013 (GH, HAC); Sierra de Anafe, [22°57'0"N, 76°45'0"W], 14
+Dec 1911, Hno. León 2829 (HAC); Sierra de Anafe, [22°57'0"N, 76°45'0"W], 27 Dec 1911, Hno. León 2849
+(GH, NY); Sierra de Anafe, [22°57'0"N, 82°38'58"W), 09 Abr 1917, (fr.), Hno. León 7133 (GH, HAC, NY);
+Sierra de Anafe, [22°57'0"N, 82°38'58"W], 2 Nov 1917, (fl.), Hno. León 7575 (GH, HAC, NY); Loma de
+Somorrostro, Jamaica, 13 Jul 1923, Hno. León R. 11455 (A, NY); Sierra Mendoza, [22°45'0"N 82°13'59"W],
+
+14 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+25 Dec 1911, Shafer 11130 (A, GH, K, NY); Guanajay, San Grabiel, [22°55'32"N, 82°41'22"W], 11 Nov
+1904, (fr.), Van Hermann 250 (F, K, MO, NY); Setes de Managua, 04 Sep 1904, Van Herman 1294 (F, HAC);
+Sierra de Anafe Rocky Hillside, [22°57'0"N, 82°38'58"W], 23 Dec 1911, Wilson 11496 (F, MO, NY-2); Sierra
+de Anafe, [22°57'0"N, 82°38'58"W], 27 Dec 1911, Wilson & Hno. León 11547 (NY); Valley of Río
+Bacuranao, [23°06'16"N, 82°13'19"W], 02 Jan 1912 (fl), Wilson & Hno. León 11608 (NY); Sierra de Anafe,
+[22°57'0"N, 82°38'58"W], 14 Dec 1911, Wilson & Hno. León 11300 (NY). Pinar del Río: Sierra Maestra,
+manacal (prope Sevilla), [22°30'59"N, 83°13'0"W], 17 Jul 1918, Ekman, E. L. 9408 (NY); Sierra Maestra, El
+Gigante, [20°0'59"N, 76°45'0"W], 04 Jan 1923, Ekman, E. L. 16074 (F, K, NY); Sierra Maestra, [20°0'59"N,
+77°3'0"W], 01 Jul 1922, (fr.), Hno. León 10981 (HAC, NY). Villa Clara: Buenos Aires, Trinidad Hills, 05 Mar
+1929, Jack, J. G. 6979 (A, NY); Buenos Aires, Trinidad Hills, 11 Abr 1929, Jack, J. G. 7233 (A); Buenos
+Aires, Trinidad Hills, 24 Jul 1930, Jack, J. G. 8068 (A, F, MO, NY); Without exact locality, Farallones de La
+Perla, 14 Feb 1911, Shafer, J. A. 8770 (A, NY-2); without exact locality, Wright 1389 (GH, K-2, MA, MO-2,
+NY-2); without exact locality, Wright 1578* (GH, K, MA, MO-2). HAITI. Massif de la Hotte: 28 Jan 1928,
+Ekman 9535 (K, NY); Massif de la Hotte (part. este), sobre Morne Rochelois; 2.8 km oeste de Miragoane y
+22.4 km sur en la carretera a Paillat y Las minas de Reynolds Haitian Rochelois, 25 Jan 1984, Zanoni et al.
+28664 (NY). JAMAICA. Manchester: Herron Hill, 10 Jan 1960, Howard 15021 (A); upper slopes and summit
+of Herons (Shooters or Martine), 17 Mar 1958, Proctor 17475 (A, MO, NY); without exact locality: Grien
+Valley, [17°52’60”N, 77°31’0”W], 01 Jul 1850, Alexander s.n. (NY); Santa Cruz Mountains, 11 Sep 1907,
+Britton 1304 (NY); without exact locality, 27 Jan 1898 (fl), Egger 3789 (MEXU, MO, TEX/LL); Great Valley,
+[17°52’60”N, 77°31’0”W], 21 Aug 1896 (fr), Harris 6511 (F, K, NY); Schwallenburgh, St. Ann., 26 Jan
+1898, Harris 7043 (A-2, K, GH, NY); Peckam, Woods Upper Claredendon, 27 Sep 1912, Harris 11193 (K,
+NY); without exact locality, Wright 1578 (GH, K, MA, MO-2). PUERTO RICO. Without exact locality, 16
+Feb 1932, Britton & Britton 9911 (NY).
+Nomenclatural notes:—The infraspecific taxa have been treated as varieties or subspecies (Baehni 1936,
+Howard 1942, Liogier 1953, Borhidi 1983). Howard (1942) mentioned some characters for each subspecific
+taxon, but they do not consistently exhibit them. The most important difference, fruit with a fleshy mesocarp
+or not, also occurs in Central America in specimens from the same localities (Los Tuxtlas Biological station),
+and therefore the difference is probably due to variation in maturity of the fruit. The Flora of Cuba did not
+recognize both varieties (Duno & Angulo 2010), and some nomenclatural clarification was carried out by
+Duno et al. (2007).
+Diagnostic features:—See comments under M. multiflora.
+Distribution and ecology:—Mappia racemosa grows in the Greater Antilles in evergreen and deciduous
+forest in calcareous soil at 0–1100 m. It flowers and fruits continuously.
+Conservation Status:—LC. Mappia mexicana is found in the Greater Antilles scattered over a large area,
+including some areas that are protected. It is therefore listed as least concern (LC) according to IUCN Red List
+criteria (IUCN 2001).
+Common Names:—Palo de caña (Bisse 1988). No uses reported.
+
+Acknowledgments
+The second author thanks Santiago Castroviejo and Mauricio Velayos (MA), who helped obtain loan material
+for this study; the curators of the following herbaria: BM, CICY, F, G, GOET, HUH, K, MEXU, MO, NY, P,
+TX, US, XAL, and VEN, and the Kew Latin American Research Fellowships program for providing funding
+to visit K and BM to study the type material. At CICY, to Lilia Lorena Can, Amilcar Castillo and Silvia
+Hernández. The third author (GWS) acknowledges support from NSF grant 0743457, and thanks Peter
+Jørgensen (MO), Alfredo Fuentes, and Pablo Soliz (LPB) for assistance with field work in Bolivia. Helpful
+comments were provided by Jesper Kårehed.
+
+SYSTEMATICS OF MAPPIA (ICACINACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 15
+
+References
+Angulo, D.F. (2006) Análisis filogenético y sistemática del género Mappia (Icacinaceae) en el Neotrópico a partir de
+caracteres morfo-anatómicos (bachelor thesis). Instituto Tecnológico de Conkal, Yucatán, 75 pp.
+Baehni, C. (1936) Revision des genres Neoleretia, Mappia et Humirianthera. Candollea 7: 167–184, plate IV.
+Baillon, H.E. (1874) Deuxième étude sur les Mappiées. Adansonia 11: 187–203.
+Bentham, G. (1862) Olacineae. In Bentham, G. & Hooker, J. D. (eds.), Genera plantarum, vol. I, part 1. Reeve, London, pp.
+342–355.
+Bisse, J. (1988) Árboles de Cuba. Editorial Científico Técnica, La Habana. 384 pp.
+Blume, C.L. (1825) Bijdragen tot de flora van Nederlandsch Indië. Lands Drukkerij, Batavia, 288 pp.
+Blume, C.L. (1850) Museum Botanicum Lugduno-Batavum sive stirpium exoticarum novarum vel minus cognitarum ex vivis
+aut siccis brevis expositio et descriptio 1, pp. 209–224.
+Borhidi, A.L. (1983) New names and new species in the flora of Cuba and Antilles III. Acta Botanica Hungarica 29: 181–215.
+Collinson, M., Manchester, S. & Wilde, V. (2012) Fruits and seeds of the Middle Eocene Messel biota, Germany. In:
+Abhandlungen der Senckenberg Gesellschaft für Naturforschung, pp. 27-31.
+Dahl, O. (1952) The comparative morphology of the Icacinaceae, VI. The pollen. Journal of the Arnold Arboretum 33: 252–
+252.
+de Candolle, A. P. (1836) Prodromus systematis naturalis regni vegetabilis 5. Mason & Sons, Paris, 706 pp.
+Doyle, J.J. & Doyle, J.L. (1987) A rapid DNA isolation procedure for small quantities of fresh leaf tissue. Phytochemical
+Bulletin 19: 11–15.
+Duno de Stefano, R., Angulo, D.F. & Stauffer, F. (2007) Emmotum harleyi, a new species from Bahia, Brazil and
+lectotypification of other Icacinaceae. Novon 17: 306–309.
+Duno de Stefano, R. & Angulo Pérez D.F. (2010) Icacinaceae. In: Greuter, W. & Rankin Rodríguez, R. (eds.). Flora de la
+República de Cuba, serie A, plantas vasculares, fascículo 16 (4). Gantner Ruggell, Liechtenstein, pp 3–13.
+Duno de Stefano, R., R. Riina & P.E. Berry (2002). Pleurisanthes howardii (Icacinaceae), a new species from the Venezuelan
+Guayana. Harvard Papers in Botany 7: 13–15.
+Engler, G. (1897) Icacinaceae. In: Von Martius, C.F.P. [ed.] Flora brasiliensis XII (2). Fleischer, Münich and Leipzig, pp. 41–
+61.
+Engler, G.A. (1893) Icacinaceae. In: Engler, A. & Prantl, K. [eds.] Die Natürlichen Pflanzenfamilien III (5). Engelmann,
+Leipzig, pp. 233–257, 459–460.
+Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Research
+32: 1792–97.
+http://dx.doi.org/10.1093/nar/gkh340
+ESRI (1999) ArcView GIS. Environmental Systems Research Institute, New York. Available: http://www.Esri.com
+Goloboff, P.A., Farris, J.S. & Nixon, K.C. (2003) TNT: tree analysis using new technology. v. 1.0. Program and documentation
+available at http://www.zmuc.dk/public/phylogeny.
+Greenman, J. M. & C. H. Thompson. (1914[1915]) Diagnoses of flowering plants, chiefly from the southwestern United States
+and Mexico. Annals of the Missouri Botanical Garden 1: 405–418.
+http://dx.doi.org/10.2307/2990140
+Grisebach, A.H.R. (1866) Catalogus plantarum cubensis. Engelmann, Leipzig, 301 pp.
+Hassler, É. (1913). Ex herbario Hassleriano: Novitates paraguarienses. XVII. Repertorium Specierum Novarum Regni
+Vegetabilis 12(322/324): 249–255.
+Hijmans, R.J., Guarino, L., Bussink, C., Mathur, P., Cruz, M., Barrentes, I. & Rojas E. (2004) DIVA-GIS, version. 5.0. A
+geographic information system for the analysis of species distribution data. Available at http://www.diva-gis.org (free
+access)
+Hooker, W. J. (1830) Illustrations of Indian botany, principally of the southern part of the peninsula. Botanical Miscellany 2:
+107.
+Howard, R.A. (1942) Studies of the Icacinaceae, II. Humirianthera, Leretia,
+Mappia and Nothapodytes, valid genera of the Icacinaceae. Journal of the Arnold Arboretum 23: 55–78.
+Howard, R.A. (1976) Icacinaceae. In: R. Woodson Jr., R. W. Schery & collaborators [eds] Flora of Panama. Annals of Missouri
+Botanical Garden 63: 399–418.
+House, H. D. Nomenclatorial notes on certain American plants--II. The American Midland Naturalist 8: 61–64.
+Liogier, A.H. (1953) Flora de Cuba 3.
+neas: Malpighiaceae a Myrtaceae. Contribuciones ocasionales del Museo de
+Historia Natural del Colegio de La Salle. Editorial de la Universidad de Puerto Rico, 502 pp.
+International Union for Conservation of Nature and Natural Resources (IUCN) (2001) IUCN Red List Categories and Criteria,
+Version 3.1. IUCN, Gland, Switzerland and Cambridge, United Kingdom, http://www.iucn.org.
+Jacquin, N.J. (1787) Icones plantarum rariorum 1. Wappler, Vienna, 20 pp, 200 plates.
+Jussieu, A. H.L. (1823) Description d’un genre nouveae nommé Icacina. Mémoires de la Société d'Histoire Naturelle de Paris
+1: 174–178.
+Kårehed, J. (2001) Multiple origins of the tropical forest tree family Icacinaceae. American Journal of Botany 88: 2259–2274.
+http://dx.doi.org/10.2307/3558388
+
+ódelitociD
+
+16 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+Lundell, C.L. (1942) Studies of American spermatophytes-II. Contributions from the University of Michigan Herbarium 7: 1–
+54.
+Lundell, C.L. (1970) Studies of American plants II. Wrightia 4: 139–140.
+Macfadyen , J. (1837) The flora of Jamaica. 1. Longman, Orme, Brown, Green & Longmans, London, 351 pp.
+Manchester, S.R. (1994) Fruits and seeds of the middle Eocene Nut Beds flora, Clarno Formation, Oregon. Palaeontographica
+Americana 58: 1–205.
+Miers, J. (1852) Observations on the affinities of the Icacinaceae. Annals and Magazine of Natural History, second series 9:
+109–119, 359–367, 387–399.
+Murray, J.A. (1748) Systema vegetabilium. Dieterich, Göttingen, 1004 pp.
+Olivier, D. (1868) Flora of tropical Africa 1: 1-479. Reeve, London.
+Olmstead, R.G. & Sweere, J.A. (1994) Combining data in phylogenetic systematics: an empirical approach using three
+molecular data sets in the Solanaceae. Systematic Biology 43: 467–481.
+http://dx.doi.org/10.1093/sysbio/43.4.467
+Pierre, J.B.L. (1892). Flore forestière de la Cochinchine. Doin, Paris, 300 pp.
+Pigg, K. B., Manchester, S. R. & DeVore, M. (2008) Fruits of Icacinaceae (tribe Iodeae) from the Late Paleocene of western
+North America. American Journal of Botany 95: 824–832.
+http://dx.doi.org/10.3732/ajb.2007340
+Rambaut, A. (1996) Se-Alv2.0a11: sequence alignment editor. Available from: http://evolve.zoo.ox.ac.uk/.
+Rankin B.D., Stockey R.A. & Beard, G. (2008) Fruits of Icacinaceae from the Eocene Appian Way locality of Vancouver
+Island, British Columbia. International Journal of Plant Sciences 169: 305–314.
+http://dx.doi.org/10.1086/523876
+Reid, E.M. & Chandler, M.E.J. (1933) The London Clay flora. British Museum (Natural History), London, 561 pp.
+Robinson, B.L. & Greenman, J.M. (1895) New and noteworthy plants chiefly from Oaxaca collected by Messrs. C. G. Pringle,
+L. C. Smith and E. W. Nelson. American Journal of Science, and Arts, ser. 3 50: 150–168.
+Sleumer, H. (1940) Beitrage zur Kenntnis der Icacinaceen und Peripterygiaceen. Notizblatt des Botanischen Gartens und
+Museums zu Berlin-Dahlem 15: 228–257.
+http://dx.doi.org/10.2307/3995114
+Sleumer, H. (1942) Icacinaceae. In: Engler, A. [ed.] Die natürlichen Pflanzenfamilien, 2nd ed., 20b. Engelmann, Leipzig, pp.
+322–396.
+Stamatakis, A. (2006) RAxML-VI-HPC: maximum likelihood-based phylogenetic analysis with thousands of taxa and mixed
+models. Bioinformatics 22: 2688–2690.
+http://dx.doi.org/10.1093/bioinformatics/btl446
+Stull, G.W, Moore, B.R. & Manchester, S.R. (2011) Fruits of Icacinaceae from the Eocene of southeastern North America and
+their biogeographic implications. International Journal of Plant Sciences 172: 935–947.
+http://dx.doi.org/10.1086/660877
+Stull, G.W., Herrera F., Manchester, S.R., Jaramillo, C. & Tiffney, B.H. (2012) Fruits of an “Old World” tribe (Phytocreneae;
+Icacinaceae) from the Paleogene of North and South America. Systematic Botany 37: 784–794.
+Swofford, D.L. (2003) PAUP*. Phylogenetic analysis using parsimony (*and other methods). Version 4. Sinauer, Sunderland.
+Systematic Association Committee for Descriptive Biological Terminology. (1962) Report of the Systematics Association
+Committee for Descriptive Biological Termi- nology, II and IIa. Terminology of simple symmetrical plane shapes (Charts
+1, la). Taxon 11: 145–155, 245–247.
+Thiers, B. (2010 and onwards) Index herbariorum: A global directory of public herbaria and associated staff. New York
+Botanical Garden's Virtual Herbarium, New York. Available from: http://sweetgum.nybg.org/ih/ (accessed: 20 January
+2012).
+Urban, I. (1912) Symbolae Antillanae seu fundamenta florae indice occidentalis 7. Gebru der Borntraeger, Berlin. 161–304 pp.
+Vellozo, J.M.C. (1829) Florae flumiensis. Machado, Rio de Janeiro, 352 pp.
+Wallich, N. (1831) Plantae Asiaticae rariores 3. Treuttel, Würtz & Ritcher, London, 117 pp.
+Wight, R. (1843–1845) Icacincaeae. In: Icones plantarum Indiae Orientalis vol. 3. Hunt, American Mission Press, Calutta &
+London, pp. 737–1046.
+Wiens, J.J. (2003) Missing data, incomplete taxa, and phylogenetic accuracy. Systematic Biology 52: 528–538.
+http://dx.doi.org/10.1080/10635150390218330
+Wiens, J.J. (2009) Paleontology, genomics, and combined-data phylogenetics: can molecular data improve phylogeny
+estimation for fossil taxa? Systematic Biology 58: 87–99.
+http://dx.doi.org/10.1093/sysbio/syp012
+
+SYSTEMATICS OF MAPPIA (ICACINACEAE)
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+• 17
+
+Appendix 1. GenBank accession numbers for the ndhF accessions included in this study.
+Sequences newly generated for this study are noted with an asterix. Accessions of Icacinaceae s.s. are
+organized according to the group scheme of Kårehed (2001). Additional taxa (including Garryales and
+outgroups) are organized alphabetically by genus.
+ICACINACEAE S.S. Apodytes group: Apodytes dimidiata (AJ429109), Rhaphiostylis beninensis
+(AJ312958); Cassinopsis group: Cassinopsis ilicifolia (AJ429110), Cassinopsis sp. (AJ312962); Icacina
+group: Alsodeiopsis senegalensis (AJ312953), Icacina mannii (AJ400888), Icacina senegalensis (AJ429111),
+Iodes liberica (AJ312947), *Lavigeria macrocarpum (KF146235), *Leretia cordata (KF146232),*Mappia
+mexicana (KF146234), *Mappia multiflora (KF146229), Mappia racemosa (AJ312959), Nothapodytes
+foetida (AJ312960), Phytocrene oblonga (AJ312968), Pyrenacantha grandifolia (AJ312956), Pyrenacantha
+malvifolia (AJ312952), Stachyanthus zenkeri (AJ312967); Emmotum group: *Calatola cf. venezuelana
+(KF146233), Emmotum nitens (AJ312965), *Oecopetalum mexicanum (KF146230), *Ottoschulzia pallida
+(KF146228), Ottoschulzia pallida (AJ312966), *Ottoschulzia rhodoxylon (KF146231).
+ADDITIONAL TAXA. Aucuba japonica (AY725869), Borago officinalis (L36393), Eucommia
+ulmoides (AJ429113), Garrya elliptica (AF147714), Gelsemium sempervirens (AF130170), Ilex crenata
+(AF130206), Jasminum mesnyi (AF130162), Lamium purpureum (U78694), Solanum tuberosum (L76287),
+Vahlia capensis (AJ429112).
+
+18 •
+
+Phytotaxa 116 (1) © 2013 Magnolia Press
+
+ANGULO ET AL.
+
+

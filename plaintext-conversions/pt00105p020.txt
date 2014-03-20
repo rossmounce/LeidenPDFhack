@@ -1,0 +1,832 @@
+Phytotaxa 105 (1): 11–20 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.105.1.2
+
+Deniquelata barringtoniae gen. et sp. nov., associated with leaf spots of
+Barringtonia asiatica
+HIRAN A. ARIYAWANSA 1 , 2 , 3 , SAJEEWA S.N. MAHARACHCHIKUMBURA 2 , 3 , SAMANTHA
+C.KARUNARATHNE 2,3 EKACHAI CHUKEATIROTE 2,3 , ALI H. BAHKALI 4 , JI-CHUAN KANG 1 ,
+JAYARAMA D. BHAT2,3 & KEVIN D.. HYDE2,3
+1
+
+The Engineering and Research Center for Southwest Bio-Pharmaceutical Resources of National Education Ministry of China,
+Guizhou University, Guiyang 550025, Guizhou Province, China
+2
+Institute of Excellence in Fungal Research, Mae Fah Luang University, Chiang Rai 57100, Thailand
+3
+School of Science, Mae Fah Luang University, Chiang Rai. 57100, Thailand
+4
+Botany and Microbiology Department, College of Science, King Saud University, Riyadh, Saudi Arabia
+1,2,3
+Authors for correspondence:jichuank@yahoo.co.uk; kdhyde3@gmail.com
+
+Abstract
+Deniquelata barringtoniae gen. et sp. nov. (Montagnulaceae) forms numerous ascomata on distinct zonate leaf spots of
+Barringtonia asiatica (Lecythidaceae). We isolated this taxon and sequenced the 18S and 28S nrDNA. The result of
+phylogenetic analysis based on 18S and 28S nrDNA sequence data indicate that the genus belongs in the family
+Montagnulaceae, Dothideomycetes, Ascomycota. The ascomata are immersed, dark brown to black, with bitunicate asci
+and brown, muriform ascospores. Deniquelata is distinguished from the other genera in Montagnulaceae based on its
+short, broad, furcate and pedicellate asci, verruculose ascospores with short narrow pseudoparaphyses with parasitic
+naturee and this is also supported by molecular data. A new genus and species is therefore introduced to accommodate
+this taxon. We used isolates of this species to show via pathogenicity testing that the taxon is able to cause leaf spots
+when leaves are pin pricked.
+Key words: Dothideomycetes, foliar pathogen, Montagnulaceae, new genus, new species
+
+Introduction
+Among the classes of Ascomycota, Dothideomycetes is the largest and most diverse (Kirk et al. 2008, Zhang
+et al. 2012) and is characterized by bitunicate, usually fissitunicate asci (Schoch et al., 2009). The majority of
+members in this class are endophytes, epiphytes or saprobes with a small number occurring as lichens and
+hyperparasites (Kirk et al. 2008, Zhang et al. 2012). Many, especially asexual or mitosporic Dothideomycetes,
+are agents of plant diseases, causing serious problems to crop plants (Manamgoda et al. 2011, Wikee et al.
+2011).
+Besides marine and freshwater fungi (Suetrong et al. 2010), there have been a few taxonomic studies of
+Dothideomycetes of Thailand. Boonmee et al. (2011) illustrated new collections of Tubeufiaceae, including a
+new genus Chlamydotubeufia based on dictyochlamydosporous anamorphs and three new species; one each in
+Acanthostigma, Tubeufia and Thaxteriella based on phylogenetic analysis of rDNA sequence data (Boonmee
+et al. 2011). Based on combined dataset of 18S and 28S nrDNA sequences, Chomnunti et al. (2011)
+introduced Phragmocapnias asiaticus, P. longicollus, P. penzigii, P. siamensis, Leptoxyphium cacuminum and
+Capnodium coartatum in the family Capnodiaceae and epitypified the genus Phragmocapnias with a new
+collection of P. betle. Liu et al. (2011) reported two new genera, Fussiroma and Neoastrosphaeriella, in
+Aigialaceae, based on their distinguishing morphology and molecular phylogeny.
+Accepted by Wen-Ying Zhuang: 17 May 2013; published online in PDF: 30 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+11
+
+Barringtonia asiatica is commonly distributed in tropics. All plant parts of this species are poisonous and
+seeds are commercially used as a fish poison. The leaf decoction of B. asiatica is used to treat stomach-aches
+and rheumatism, whereas seeds are known to be wormicidal (http://www.naturia.per.sg/buloh/plants/
+sea_poison.htm; Accession date: 21 June 2012).
+We have been sampling Dothideomycete species from various hosts and substrates in northern Thailand
+(Boonmee et al. 2011, 2012, Chomnunti et al. 2011, 2012, Lui et al. 2011), since 2010. In this paper, we
+introduce a new genus Deniquelata found associated with necrotic lesions on leaves of Barringtonia asiatica,
+based on morphological and molecular studies. The new genus is compared with other genera in the family
+Montagnulaceae.
+
+Material and Methods
+Sample collection and specimen examination
+Samples included fresh, living leaves of Barringtonia asiatica (Lecythidaceae), gathered from the garden of
+the senior author (K.D. Hyde) at 31M. 17, Baan Khuakhae, near Bandu, Muang District, Chiang Rai Province,
+Thailand, in 2011 and 2012. Material was brought to the laboratory in Zip lock plastic bags and examined
+under a Motic SMZ 168 dissecting microscope for fungal fruiting bodies. Hand sections of the fruiting
+structures were mounted in water for microscopic studies and photomicrography. The fungus was examined in
+a Nikon ECLIPSE 80i compound microscope and photographed by a Canon 450D digital camera fitted to the
+microscope. Measurements were made with the Tarosoft (R) Image Frame Work program and images used for
+figures were processed with Adobe Photoshop CS3 Extended version 10.0 software (Adobe Systems Inc., The
+United States). Following a modified method of Chomnunti et al. (2011), isolations were made from single
+ascospores. Contents of the sectioned fruiting body were transferred to a drop of sterile water on a flamesterilized slide. Drops of the spore suspension were pipetted and spread on a Petri-dish containing 2% water
+agar (WA) and incubated at 25°C overnight. Germinated ascospores were transferred singly to MEA media
+(Alves et al. 2006, Liu et al. 2011).
+The type material is deposited in the herbarium of Mae Fah Luang University (MFLU), Chiang Rai,
+Thailand and cultures are deposited at the Mae Fah Luang University Culture Collection (MFLUCC),
+BIOTEC Culture Collection (BCC) and the International Fungal Research & Development Centre, Kunming,
+China (IFRD), the latter under Material Transfer Agreement No. 4/2010 (MTA).
+Pathogenicity test
+An agar plug (1 cm diam) with mycelium was cut from the periphery of 20 day-old culture grown on Malt
+extract agar (MEA) medium (27°C). In vitro pathogenicity testing was carried out on 12 healthy leaves of
+Barringtonia asiatica obtained from the original collection site at Bandu, Chiang Rai; the upper and lower
+surfaces of leaves were sterilized with 70% ethanol. The leaves were separated into three groups, each with
+four leaves. The first group of leaves was wounded by pin-pricking and inoculated by tiny agar plugs (1 cm
+diam) with fungal mycelium. Agar plugs with fungal mycelium were placed on the surface of second group
+containing unwounded leaves. The third group of leaves was not pin-pricked and was inoculated with MEA
+agar plugs without fungal mycelium (control). The inoculated test leaves were maintained in sterile, moist
+plastic boxes for 14 days. Observations on the development of disease symptoms were made on a daily basis.
+The fungus was reisolated from the inoculated leaves producing symptoms.
+DNA extraction, PCR amplification and sequencing
+Fungal isolates were grown on MEA for 28 days at 25°C in the dark. Genomic DNA was extracted from the
+growing mycelium using the Biospin Fungus Genomic DNA Extraction Kit (BioFlux®) following the
+manufacturer’s protocol (Hangzhou, P.R. China).
+
+12 •
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+ARIYAWANSA ET AL.
+
+Polymerase chain reaction (PCR) was carried out using known primer pairs NS1 and NS4 were used to
+amplify a region spanning the small subunit rDNA (White et al. 1990). LROR and LR5 primer pairs were
+used to amplify a segment of the large subunit rDNA (Vilgalys & Hester 1990) and internal transcribed
+spacers (JX254654) was amplified by primer pairs ITS5 and ITS4 (White et al. 1990). The amplification
+procedure was performed in a 50 l reaction volume containing 5–10 ng DNA, 0.8 units Taq polymerase, 1
+PCR buffer, 0.2 mM dNTP, 0.3 M of each primer with 1.5 mM MgCl2 (Cai et al. 2009). Amplification
+conditions were setup for initial denaturation of 5 min at 95°C, followed by 35 cycles of 45 s at 94°C, 45 s at
+48°C and 90 s at 72°C, and a final extension period of 10 min at 72°C (Phillips et al. 2008). The PCR products
+were observed on 1% agarose electrophoresis gels stained with ethidium bromide. Purification and
+sequencing of PCR products were carried at Shanghai Sangon Biological Engineering Technology & Services
+Co., Ltd (China).
+
+μ
+μ
+
+п
+
+Phylogenetic analysis
+Blast searches were made to reveal the closest matches in GenBank. Sequences were aligned using Bioedit
+(Hall 1999) and ClustalX 1.83 (Thompson et al. 1997) and further analyzed manually. PAUP4.0b10 was used
+to conduct the parsimony analysis to obtain the phylogenetic trees. Trees were inferred using the heuristic
+search option with 1000 random sequence additions. Maxtrees were setup to 500 and branches of zero length
+were collapsed and all multiple parsimonious trees were saved. Descriptive tree statistics for parsimony Tree
+Length [TL], Consistency Index [CI], Retention Index [RI], Relative Consistency Index [RC] and Homoplasy
+Index [HI] were calculated for trees generated under different optimality criteria. Kishino-Hasegawa tests
+(KHT) (Kishino & Hasegawa 1989) were performed in order to determine whether trees were significantly
+different. Trees were figured in Treeview (Page 1996).
+
+Results
+Phylogeny of combined 18S and 28S nrDNA
+The combined 18S and 28S nrDNA data set comprised 27 taxa including the new strains of Deniquelata
+barringtoniae, with Dothidea sambuci as the outgroup taxon and consisted of 1961 characters; of which 1673
+characters were constant, 118 variable characters were parsimony-informative and 170 characters were
+parsimony-uninformative. Two MP trees were generated and the first of the most parsimonious tree was
+selected (FIG. 1), KHT showed length = 508 steps, CI = 0.671, RI = 0.759, RC = 0.510 and HI = 0.329.
+The 27 taxa analyzed in the cladogram formed four familial clades, i.e. Didymellaceae, Pleosporaceae,
+Massarinaceae and Montagnulaceae. The two isolates of the new genus Deniquelata clustered in the family
+Montagnulaceae but were separated from other genera of the family in a clade with a relatively high bootstrap
+value (77%).
+Taxonomy
+The genus Deniquelata, typified by D. barringtoniae, is introduced in the family Montagnulaceae. The new
+taxon is well differentiated from other genera in the family based on molecular phylogeny and morphology.
+The morphological characters also differentiated Deniquelata barringtoniae from other genera in the family,
+as discussed below.
+
+Deniquelata Ariyawansa & K.D. Hyde, gen. nov.
+MycoBank MB 800703
+Etymology: The generic epithet is from the combination of two Latin words denique and lata, meaning short
+and broad, in reference to the asci having a short, broad pedicel.
+DENIQUELATA BARRINGTONIAE GEN. ET SP. NOV.
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+• 13
+
+Deniquelata barringtonia
+
+MFLUCC110422
+
+Deniquelata barringtonia
+
+MFLUCC120257
+
+Bimuria novae-zelandiae
+Phaeosphaeria brevispora
+
+94
+
+Kalmusia scabrispora
+Didymocrea sadasivanii
+Karstenula rhodostoma
+
+CBS 690.94
+
+Paraphaeosphaeria michotii
+Coniothyrium fuckelii
+
+82
+
+97
+
+Byssothecium circinans
+
+Saccothecium sepincola
+
+100
+
+Phoma exigua
+67
+
+CBS 317.83
+
+CBS 278.32
+
+CBS 431.74
+
+Phoma herbarum
+Ascochyta pisi
+
+CBS 126.54
+
+94
+
+96
+
+80
+69
+100
+63
+
+CBS 588.69
+
+Alternaria alternata
+
+Hysterographium mori
+
+CBS 916.96
+
+Pyrenophora phaeocomes
+Cochliobolus sativus
+
+Cochliobolus heterostrophus
+Pleospora herbarum
+
+Phoma betae
+
+CBS 345.50
+
+CBS 276.37
+
+Mycosphaerella zeae-maydis
+
+10
+
+CBS 266.62
+
+Monascostroma innumerosum
+
+100
+
+CBS 473.64
+
+CBS 675.92
+
+Leptosphaerulina australis
+
+57
+
+CBS 652.86
+
+CBS 797.95
+
+Massarina eburnea
+Massarina cisti
+
+72
+
+CBS 122788
+
+DAOM 226212
+
+CBS 134.39
+
+DAOM 222769
+
+Pleosporaceae
+
+85
+
+MAFF 239517
+
+CBS 438.65
+
+Paraconiothyrium minitans
+65
+
+MAFF 239276
+
+Didymellaceae
+
+96
+
+CBS 107.79
+
+Massarinaceae
+
+88
+
+Montagnulaceae
+
+100
+77
+
+CBS 276.37
+
+CBS 109410
+
+CBS 123336
+
+FIGURE 1. Gene tree constructed using MP method based on phylogenetic analysis of the nucleotide sequences of combined 18S and
+28S nrDNA. Bootstrap support values >70% are shown below or above the branch. Dothidea sambuci is the outgroup taxon. The
+original isolate numbers are noted after the species names.
+
+Habit parasitic on living leaves. Ascomata immersed, solitary, scattered, globose to subglobose, dark
+brown to black, smooth-walled, with a distinct ostiole, apex somewhat papillate to depressed. Peridium
+several-layered, outer wall composed of small, dark brown to black, heavily pigmented, thick-walled,
+comprising cells of textura angularis and fusing with the host, inner wall consist with broad yellowish brown
+cells, inwardly lined by hamathecial tissues. Hamathecium of dense with pseudoparaphyses.
+Pseudoparaphyses broad, hyaline, embedded in a gelatinous matrix. Asci 8-spored, bitunicate, fissitunicate,
+clavate to broadly-clavate, with a short, broad, furcate pedicel, rounded at apex and with an ocular chamber.
+Ascospores biseriate, partially overlapping, oblong to narrowly oblong, reddish brown to dark yellowish
+brown, muriform, with three transverse septa and 1-2 vertical septa in the central cells when mature,
+constricted at the septa, verruculose, without a sheath. Generic type:
+
+14 •
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+ARIYAWANSA ET AL.
+
+Deniquelata barringtoniae Ariyawansa & K.D. Hyde, sp. nov. FIGS. 1A–F, 3G–S
+MycoBank MB 800704
+Etymology: The specific epithet barringtoniae is based on the host genus from which the fungus was isolated.
+Habit pathogenic, causing large brown spots on living leaves of Barringtonia asiatica (FIG. 2A−E). Ascomata
+150−180 µ m high, 164−190 µ m wide ( x = 175 × 167 µ m, n = 10), immersed, scattered, globose to
+subglobose, black to dark brown, smooth walled, with a papillate to depressed elongate ostiole (FIG. 3A,B)
+Peridium 9−17 µm diam ( x = 12, n = 10), composed of 3−5 layers of brown to black, darkly pigmented,
+small, thick-walled, 2−5 µm wide cells of textura angularis, with outer wall fused with the host cells, inner
+wall consists of 2 layers of polygonal to rectangular, light brown-hyaline cells 1–4 m diam. (FIG. 3C).
+
+μ
+
+Hamathecium composed of dense, 1−3 µm diam ( x = 2, n = 20), broad, hyaline, septate pseudoparaphyses,
+surrounding the numerous asci and embedded in a gelatinous matrix (FIG. 3D). Asci (60−)68−80 × 1015 µm
+( x = 72 × 13 µm, n = 20), 8-spored, bitunicate, fissitunicate, clavate to broadly-clavate, with a 9–17 m,
+short, broad, furcate, long pedicel, rounded at apex, ocular chamber up to 1−2 m wide, 1−3 m high (FIG.
+
+μ
+
+μ
+
+μ
+
+3E−G). Ascospores 14−16 × 5−7 µ m diam ( x = 15 × 6 µ m, n = 40), biseriate or distichously arranged,
+partially overlapping, oblong to narrowly oblong, straight or somewhat curved, reddish-brown, with three
+transverse septa and 1−2 vertical septa in the central cells, constricted at the primary and secondary septa at
+maturity, verruculose, straight or slightly inequilateral, without a gelatinous sheath (FIG. 3H−J).
+
+FIGURE 2. Habit of Deniquelata barringtonia. A–E. Leaves with characteristic leaf spots (Holotype). F. Immersed ascomata on leaf
+tissue.
+
+Cultural characteristics: Ascospores germinated on WA within 18 h and germ tubes were produced
+from each cell (FIG. 3K). Colonies grew slowly on MEA, attaining 3 mm diam. After 14 days at 27°C, effuse,
+velvety, entire to slightly undulated at the edge and remaining white to pinkish white (FIG. 3L−S). After 6
+months of incubation, the colonies on malt extract agar and water agar media co ntained only superficial,
+branched, septate, smooth, mycelia with no asexual-stage.
+Material examined: THAILAND, Chiang Rai Prov., Muang District, Bandu, Baan Khuakhae, 31M.17
+on leaf of Barringtonia asiatica (Lecythidaceae) 18 September 2011, K.D Hyde, RP0025 (MFLU 12-0303;
+holotype)—extype living culture (MFLUCC 110422); Chiang Rai Prov., Muang District, Bandu, Baan
+Khuakhae, 31M.17, on leaves of Barringtonia asiatica (Lecythidaceae), 15 May 2012, H.A Ariyawansa,
+RP0025 (MFLU 12-0304, paratype)—extype living culture (MFLUCC 120257).
+DENIQUELATA BARRINGTONIAE GEN. ET SP. NOV.
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+• 15
+
+FIGURE 3. Deniquelata barringtoniae (holotype). A–B. Section of ascoma (TS). C. Section of peridium comprising a few layers of
+cells. D. Hyaline, pseudoparaphyses E–G. Eight-spored asci with short, broad pedicel at the base. H–I. Reddish-brown, muriform,
+ascospores. J. Ascospores stained in Indian Ink K. Germ tubes developing from ascospore cells L–M. Surface and lower view of
+colonies on MEA. Scale bars: C–D = 100 µm, E = 10 µm, F = 10 µm, G = 30 µm, H–I = 10 µm, J–L = 30 µm, M-P = 10 µm, Q= 20 µm.
+
+FIGURE 4. Symptoms appearing on pin pricked leaves of D. barringtonia inoculated with agar plugs.
+
+Distribution: On living leaves of Barringtonia asiatica Thailand.
+Pathogenicity test (FIG. 4): Leaves wounded by pinpricking inoculation technique, initially developed
+small, circular, ash-coloured spots which subsequently transformed into brown spots. After 10 days of
+incubation, the spots expanded to 2 mm diam. The spots further enlarged and became sunken causing soft
+decay of the leaf tissues, surrounded by white mycelium. The pathogen, re-isolated from the leaf spots was
+
+16 •
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+ARIYAWANSA ET AL.
+
+found to be identical with the original strain and thus confirmed its pathogenicity. No symptoms were
+observed on leaves inoculated by agar plugs with fungal mycelium but without wounding and also in the case
+of controls. The experiment was carried out using four replicates and repeated three times. In all cases, the
+results were similar.
+
+Discussion
+Barr (2001) introduced a new family, Montagnulaceae in the order Pleosporales (the largest of the
+Dothideomycetes, comprising almost 25% of the species) for genera and species with ascomata immersed
+under a clypeus and having pseudoparenchymatous peridium with small cells, cylindrical or oblong,
+fissitunicate, pedicellate asci and brown, muriform ascospores. Three genera, viz. phragmosporous Kalmusia,
+dictyosporous Montagnula and didymosporous Didymosphaerella were recognized (Barr 2001). Combined
+analysis of LSU, SSU, RBP2 and TEF1 genes, however, has shown Montagnulaceae to comprise the genera
+Bimuria, Didymocrea, Kalmusia, Karstenula, Montagnula, Didymosphaerella and Paraphaeosphaeria. Some
+species of Phaeosphaeria, Paraconiothyrium and Letendraea also cluster in Montagnulaceae and this family
+now accommodates species which are saprobic in terrestrial or aquatic environments (Schoch et al. 2009,
+Zhang et al. 2009, 2012, Lumbsch & Huhndorf 2010).
+The phylogenetic analysis of the nucleotide sequences of combined 18S and 28S nrDNA provides good
+evidence that Deniquelata belongs in Montagnulaceae, where it forms a distinct clade representing the new
+genus separated parallel from other genera of the family with a high bootstrap value (77%) (FIG. 1).
+Deniquelata differs considerably from the type of Montagnula (M. infernalis) both in the phylogenetic tree
+and also morphologically. Deniquelata is a pathogenic genus with fruiting bodies scattered in the necrotic host
+tissues. Ascomata are immersed, with a relatively thin peridium (2−5 µm) comprising 2−3 layers of small,
+thick-walled cells of textura angularis, fusing at the outside with the host tissues. Pseudoparaphyses are
+relatively wide (1−3 µ m) and dense, asci have broad, short, bifurcate pedicels, and ascospores are
+conspicuously reddish brown at maturity. In Montagnula infernalis ascomata are clustered in circular groups
+on leaves, with a much thicker (40–55 m), brown to dark-brown peridium comprising two distinct layers,
+asci have long stretching pedicels and ascospores are brown (Zhang et al. 2012). Bimuria, a monotypic genus
+represented by B. novae-zelandiae (Hawksworth et al. 1979, Zhang et al. 2009), occurs in terrestrial
+environment as a saprobe and differs from Deniquelata in having asci with short and small knob-like pedicel
+and ascospores without vertical septum and verrucose wall (Zhang et al. 2012). Deniquelata differs from
+Kalmusia (typified by K. ebuli), by long, narrowed, asci with a furcate pedicel and ascospores having a
+verruculose wall and 3 distosepta (Zhang et al. 2012). A synopsis of characters of genera of Montagnulaceae
+is provided in Table 1. Pathogenicity test results showed that Deniquelata caused lesion on pin-pricked leaves
+of Barringtonia asiatica, indicating that Deniquelata is probably an opportunistic pathogen.
+
+μ
+
+Acknowledgements
+We are grateful to the Mushroom Research Foundation and Thailand Research Fund (TRF: BRG5280002) for
+supporting this research. MFLU grant number 56101020032 is thanked for supporting studies on
+Dothideomycetes. The International Collaboration Plan of Guizhou Province and the innovation team
+construction for Science and Technology of Guizhou Province (contracts Nos. G[2012]7006 and [2012]4007)
+from the Science and Technology Department of Guizhou Province, China. Guizhou University is also
+thanked for support. Hiran Ariyawansa is grateful to S. Boonmee D. Udayanga, D.S. Manamgoda, Jerome
+Moses, A.D Ariyawansa, D.M.K Ariyawansa and Jian Kui Liu for their valuable suggestions.
+
+DENIQUELATA BARRINGTONIAE GEN. ET SP. NOV.
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+• 17
+
+TABLE 1. Synopsis of morphological features of genera of Montagnulaceae.
+Species
+
+Ascomata (µm)
+
+Deniquelata
+barringtonia
+
+150–180 × 164–189
+
+Kalmusia (K. ebuli)
+
+Peridium
+(µm)
+
+290–360 × 300–520
+
+Paraphyses
+(µm)
+
+Asci size and shape
+(µm)
+
+Ascospores size, shape,
+color and septa(µm)
+
+7–9
+
+1–3
+
+67–78 × 10–15,
+clavate to broadlyclavate, short, broad
+furcate pedicel
+
+13–16 × 5–7, oblong to
+narrowly oblong, reddish
+brown to dark yellowish
+brown, with three
+transverse septa and 1-2
+vertical septa, verruculose
+
+15–40
+
+1–1.5
+
+75–125 × 10–15,
+clavate, long,
+narrowed, furcate
+pedicel
+
+15–18 × 5.5–6.5, narrowly
+ovoid to clavate, pale
+brown, 3-distoseptate,
+verrucose
+
+immersed, globose to
+subglobose, scattered,
+smooth without an ostiole,
+black to dark brown
+
+Solitary, scattered, or in
+small groups, immersed
+to erumpent, globose or
+subglobose, black
+Bimuria
+(B. novae-zelandiae)
+
+200–310, solitary,
+scattered, semi-immersed
+or superficial, globose,
+dark brown to black
+
+5–8
+
+2.5–4
+
+80–95 × 20–32.5,
+broadly clavate,
+short and small
+knob-like pedicel
+
+55–68 × 25–28, broadly
+ellipsoid, muriform ,dark
+brown, (5-)7 transverse
+septa, verrucose
+
+Montagnula
+(M. infernalis)
+
+220–280 × 250–310,
+immersed to erumpent,
+gregarious or clustered,
+globose to subglobose,
+black
+
+40–55
+
+2–4.5
+
+153–170 × 17.5–21.5,
+cylindro-clavate to
+clavate, long,
+narrowed pedicel
+
+24–29 × 9–11, width
+oblong to narrowly
+oblong, reddish brown to
+dark yellowish brown, five
+transverse septa and one
+vertical septum in each
+middle cells, verrucose
+
+From Zhang et al. 2012
+TABLE 2. Taxa used in the phylogenetic analysis and their corresponding GenBank numbers
+Species
+
+Culture/voucher
+
+LSU
+
+SSU
+
+Bimuria novae-zelandi
+
+CBS 107.79
+
+AY016356
+
+AY016338
+
+Byssothecium circinans
+
+CBS 675.92
+
+AY016357
+
+AY016339
+
+Cochliobolus heterostrophus
+
+CBS 134.39
+
+AY544645
+
+AY544727
+
+Deniquelata barringtoniae
+
+MFLUCC 110422
+
+JX254655
+
+JX254656
+
+Didymocrea sadasivani
+
+CBS 438.65
+
+DQ384103
+
+DQ384066
+
+Kalmusia scabrispora
+
+MAFF 239517
+
+AB524593
+
+AB524452
+
+Karstenula rhodostoma
+
+CBS 690.94
+
+GU301821
+
+GU296154
+
+Leptosphaerulina australis
+
+CBS 317.83
+
+FJ795500
+
+GU296160
+
+Massarina eburnea
+
+CBS 473.64
+
+GU301840
+
+GU296170
+
+Paraconiothyrium fuckelii
+
+CBS 797.95
+
+GU237960
+
+GU238204
+
+Paraconiothyrium minitans
+Letendraea padouk
+Montagnula opulenta
+Neottiosporina paspali
+Dothidea sambuci
+
+CBS 122788
+CBS 485.70
+CBS 168.34
+CBS 331.37
+DAOM 231303
+
+EU754173
+AY849951
+DQ678086
+EU754172
+NG027611
+
+EU754074
+GU296162
+AF164370
+EU754073
+NG012432
+
+Paraphaeosphaeria michotii
+
+CBS 652.86
+
+GQ387581
+
+GQ387520
+
+Phaeosphaeria brevispora
+
+MAFF 239276
+
+AB524600
+
+AB524459
+
+Phoma betae
+
+CBS 109410
+
+EU754178
+
+EU754079
+
+Phoma exigua
+
+CBS 431.74
+
+EU754183
+
+EU754084
+
+Pleospora herbarum
+
+CBS 191.86
+
+DQ247804
+
+DQ247812
+
+Pyrenophora phaeocome
+
+DAOM 222769
+
+DQ499596
+
+DQ499595
+
+From Zhang et al. 2012
+
+18 •
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+ARIYAWANSA ET AL.
+
+References
+Alves, A., Correia, A. & Phillips, A.J.L. (2006) Multi-gene genealogies and morphological data support Diplodia
+cupressi sp. nov., previously recognized as D. pinea f. sp. cupressi, as a distinct species. Fungal Diversity 23:1–15.
+Barr, M.E. (2001) Montagnulaceae, a new family in Pleosporales, and lectotypification of Didymosphaerella. Mycotaxon
+77: 193–200.
+Boonmee, S., Zhang, Y., Chomnunti, P., Chukeatirote, E., Tsui, C.K.M., Bahkali, A.H. & Hyde, K.D. (2011) Revision of
+lignicolous Tubeufiaceae based on morphological reexamination and phylogenetic analysis. Fungal Diversity 51:
+63–102.
+Cai, L., Wu, W.P. & Hyde, K.D. (2009) Phylogenetic relationships of Chalara and allied species inferred from ribosomal
+DNA sequences. Mycological progress 8(2): 133–143.
+http://dx.doi.org/10.1007/s11557-009-0585-5
+Chomnunti, P., Schoch, C.L., Aguirre-Hudson, B., Ko-Ko, T.W., Hongsanan, S., Jones, E.B.G., Kodsueb, R.,
+Phookamsak, R., Chukeatirote, E., Bahkali, A.H. & Hyde, K.D. (2011) Capnodiaceae. Fungal Diversity 51: 103–
+134.
+http://dx.doi.org/10.1007/s13225-011-0145-6
+De Gruyter, J., Woudenberg, J.H.C., Aveskamp, M.M., Verkley, G.J.M., Groenewald J.Z. & Crous, P.W. (2012)
+Redisposition of Phoma-like anamorphs in Pleosporales. Studies in Mycology 75: 1–36.
+Felsenstein, J. (1985) Confidence limits on phylogenies: An approach using the bootstrap. Evolution 39: 783–791.
+http://dx.doi.org/10.2307/2408678
+Hall, T.A. (1999) BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/
+98/NT. Nucleic Acids Symposium Series 41: 95–98.
+Hawksworth, D.L., Chea, C.Y. & Sheridan, J.E. (1979) Bimuria novaezelandiae gen. et sp. nov., a remarkable
+ascomycete isolated from a New Zealand barley field. New Zealand Journal of Botany 17: 267–273.
+http://dx.doi.org/10.1080/0028825X.1979.10426900
+Kirk, P.M., Cannon, P.F., Minter, D.W. & Staplers, J.A. (2008) Dictionary of the Fungi 10th edn. CABI Bioscience, UK.
+Kishino, H. & Hasegawa, M. (1989) Evaluation of the maximum likelihood estimate of the evolutionary tree topologies
+from DNA sequence data, and the branching order in Hominoidea. Journal of Molecular Evolution 29: 170–179.
+http://dx.doi.org/10.1007/BF02100115
+Lingppa, B.T. & Lingppa, Y. (1965) Effects of nutrients on self -inhibition of germination of conidia of Glomerella
+cingulata. Journal of General Microbiology 41: 67–75.
+http://dx.doi.org/10.1099/00221287-41-1-67
+Liu, J.K., Phookamsak, R., Jones, E.B.G., Zhang, Y., Ko-Ko T.W., Hu, H.L., Boonmee, S., Doilom, M., Chukeatirote, E.,
+Bahkali, A.H., Wang, Y. & Hyde, K.D. (2011) Astrosphaeriella is polyphyletic, with species in Fissuroma gen. nov.,
+and Neoastrosphaeriella gen. nov. Fungal Diversity 51: 135–154.
+http://dx.doi.org/10.1007/s13225-011-0142-9
+Lumbsch, H.T. & Huhndorf, S.M. (2010) Myconet Volume 14. Part One. Outline of Ascomycota – 2009. Part Two.
+Notes on Ascomycete Systematics. Nos. 4751–5113. Fieldiana: Life and Earth Sciences 1: 1–64.
+http://dx.doi.org/10.3158/1557.1
+Maharachchikumbura, S.S.N., Guo, L.D., Chukeatirote, E., Bahkali, A.H. & Hyde, K.D. (2011) Pestalotiopsis—
+morphology, phylogeny, biochemistry and diversity. Fungal Diversity 50: 167–187.
+http://dx.doi.org/10.1007/s13225-011-0125-x
+Phillips, A.J.L., Alves, A., Pennycook, S.R., Johnston, P.R., Ramaley, A., Akulov, A. & Crous, P.W. (2008) Resolving
+the phylogenetic and taxonomic status of dark-spored teleomorph genera in the Botryosphaeriaceae. Persoonia 21:
+29–55.
+http://dx.doi.org/10.3767/003158508x340742
+Schoch, C.L., Crous, P.W., Groenewald, J.Z., Boehm, E.W., Burgess, T.I., de Gruyter, J., de Hoog, G.S., Dixon, L.J.,
+Grube, M., Gueidan, C., Harada, Y., Hatakeyama, S., Hirayama, K., Hosoya, T., Huhndorf, S.M., Hyde, K.D., Jones,
+E.B., Kohlmeyer, J., Kruys, A., Li, Y.M., Lücking, R., Lumbsch, H.T., Marvanová, L., Mbatchou, J.S., McVay,
+A.H., Miller, A.N., Mugambi, G.K., Muggia, L., Nelsen, M.P., Nelson, P., Owensby, C.A., Phillips, A.J.,
+Phongpaichit, S., Pointing, S.B., Pujade-Renaud, V., Raja, H.A., Plata, E.R., Robbertse, B., Ruibal, C., Sakayaroj, J.,
+Sano, T., Selbmann, L., Shearer, C.A., Shirouzu, T., Slippers, B., Suetrong, S., Tanaka, K., Volkmann-Kohlmeyer,
+B., Wingfield, M.J., Wood, A.R., Woudenberg, J.H., Yonezawa, H., Zhang, Y. & Spatafora, J.W. (2009) A classwide phylogenetic assessment of Dothideomycetes. Studies in Mycology 64: 1–15.
+http://dx.doi.org/10.3114/sim.2009.64.01
+Suetrong, S., Boonyuen, N., Ka-Lai Pang, Ueapattanakit, J., Klaysuban, A., Sri-indrasutdhi, V., Sivichai, S. & Jones,
+E.B.G. (2011) A taxonomic revision and phylogenetic reconstruction of the Jahnulales (Dothideomycetes), and the
+new family Manglicolaceae. Fungal Diversity 51: 163–188.
+
+DENIQUELATA BARRINGTONIAE GEN. ET SP. NOV.
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+• 19
+
+http://dx.doi.org/10.1007/s13225-011-0138-5
+Suetrong, S., Sakayaroj, J., Phongpaichit, S. & Jones, E.B.G. (2010) Morphological and molecular characteristics of a
+poorly known marine ascomycete, Manglicola guatemalensis. Mycologia 102: 83–92.
+http://dx.doi.org/10.3852/07-147
+Swofford, D.L. (2002) PAUP* 4.0: Phylogenetic Analysis Using Parsimony (*and other methods). Sinauer Associates,
+Sunderland.
+Thompson, J.D., Gibson, T.J., Plewniak, F., Jeanmougin, F. & Higgins, D.G. (1997) The CLUSTAL_X windows
+interface: flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research
+25(24): 4876.
+http://dx.doi.org/10.1093/nar/25.24.4876
+Vilgalys, R. & Hester, M. (1990) Rapid genetic identification and mapping of enzymatically amplified ribosomal DNA
+from several Cryptococcus species. The Journal of Bacteriology 172: 4238–4246.
+White, T., Bruns, T., Lee, S. & Taylor, J. (1990) Amplification and direct sequencing of fungal ribosomal RNA genes for
+phylogenetics. In: Innis, M.A., Gelfand, D.H., Sninsky, J.J. & White, T.J. (eds.) PCR Protocols: A Guide to Methods
+and Applications. New York: Academic Press. pp 315–322..
+Wikee, S., Udayanga, D., Crous, P.W., Chukeatirote, E., McKenzie, E.H.C., Bahkali, A.H., Dong Q. D. & Hyde, K.D.
+(2011) Phyllosticta—an overview of current status of species recognition. Fungal Diversity 51: 43–61.
+http://dx.doi.org/10.1007/s13225-011-0146-5
+Zhang. Y., Crous, P.W., Schoch, C.L. & Hyde, K.D. (2012) Pleosporales. Fungal Diversity 52: 1–225.
+http://dx.doi.org/10.1007/s13225-011-0117-x
+Zhang, Y., Fournier, J., Crous, P.W., Pointing, S.B. & Hyde, K.D. (2009a). Phylogenetic and morphological assessment
+of two new species of Amniculicola and their allies (Pleosporales). Persoonia 23: 48–54.
+http://dx.doi.org/10.3767/003158509x472187
+Zhang, Y., Schoch, C.L., Fournier, J., Crous, P.W., de Gruyter, J., Woudenberg, J.H.C., Hirayama, K., Tanaka, K.,
+Pointing, S.B., Spatafora, J.W. & Hyde, K.D. (2009) Multi-locus phylogeny of Pleosporales: a taxonomic,
+ecological and evolutionary re-evaluation. Studies in Mycology 64: 85–102.
+http://dx.doi.org/10.3114/sim.2009.64.04
+
+20 •
+
+Phytotaxa 105 (1) © 2013 Magnolia Press
+
+ARIYAWANSA ET AL.
+
+

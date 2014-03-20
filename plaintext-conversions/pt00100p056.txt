@@ -1,0 +1,1440 @@
+Phytotaxa 100 (1): 41–56 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.100.1.5
+
+Osmundea sanctarum sp. nov. (Ceramiales, Rhodophyta) from the southwestern
+Atlantic Ocean
+RENATO ROCHA-JORGE1,6, VALÉRIA CASSANO2, MARIA BEATRIZ BARROS-BARRETO3, JHOANA
+DÍAZ-LARREA4, ABEL SENTÍES4, MARIA CANDELARIA GIL-RODRÍGUEZ5 & MUTUE TOYOTA
+FUJII6,7
+1
+
+Post-Graduate Program “Biodiversidade Vegetal e Meio Ambiente”, Instituto de Botânica, Av. Miguel Estéfano, 3687, 04301-902
+São Paulo, SP, Brazil.
+2
+Departamento de Botânica, Universidade de São Paulo, Rua do Matão 277, 05508-900 São Paulo, SP, Brazil.
+3
+Departamento de Botânica, Universidade Federal do Rio de Janeiro, Av. Prof. Rodolpho Rocco 211, CCS, bloco A, subsolo, sala 99,
+21941-902 Rio de Janeiro, RJ, Brazil.
+4
+Departamento de Hidrobiología, Universidad Autónoma Metropolitana-Iztapalapa, A.P. 55-535, 09340 Mexico, D.F.
+5
+Departamento de Biología Vegetal (Botánica), Universidad de La Laguna, 38071. La Laguna, Tenerife, Islas Canarias, Spain.
+6
+Núcleo de Pesquisa em Ficologia, Instituto de Botânica, Av. Miguel Estéfano, 3687, 04301-902 São Paulo, SP, Brazil.
+7
+Author for correspondence. E-mail: mutue.fujii@pq.cnpq.br
+
+Abstract
+An ongoing phycological survey in the Laje de Santos Marine State Park (LSMSP) of São Paulo in southeastern Brazil
+revealed a previously undescribed species of Osmundea (Rhodophyta, Rhodomelaceae), which was found in the subtidal
+zone at a depth of 7 to 20 m. Morphological studies conducted on Osmundea specimens collected in the LSMSP revealed
+characteristics typical of the genus Osmundea, including two pericentral cells per each axial segment and tetrasporangia
+cut off randomly from cortical cells. The phylogenetic position of this species was inferred by analysis of chloroplastencoded rbcL gene sequences from 37 taxa, including one Rhodomelaceae and one Ceramiaceae as outgroups. The
+Brazilian species of Osmundea formed a well-supported clade with the ‘Spectabilis’ group from the coast of Pacific
+North America, composed of O. spectabilis, O. blinksii, O. splendens and O. sinicola. The present species, however,
+diverged greatly from the ‘Spectabilis’ group representatives (5.4–7.1%), which confirms that it constitutes a different
+taxonomic entity, herein proposed as the new species Osmundea sanctarum M.T. Fujii & Rocha-Jorge. This is the first
+report of a member of Osmundea related to the ‘Spectabilis’ group in the South Atlantic Ocean.
+Key words: Laje de Santos, Laurencia complex, phylogeny
+
+Introduction
+The genus Osmundea Stackhouse (1809: 56, 79–80), which had been treated as a nomen rejiciendum and as
+an earlier facultative synonym of Laurencia J.V. Lamouroux (1813: 130) (Papenfuss 1947), was resurrected to
+accommodate members of Laurencia sensu lato that demonstrated morphological characteristics not shared
+by other members of the Laurencia complex, such as the production of filament-type rather than trichoblasttype spermatangial branches and the production of tetrasporangia from random cortical cells rather than
+particular pericentral cells. Furthermore, Osmundea is distinguished from Laurencia sensu stricto because it
+possesses two rather than four pericentral cells in each vegetative axial segment (Nam et al. 1994).
+Currently, the Laurencia complex includes six genera: Laurencia, Osmundea, Chondrophycus (Tokida &
+Y. Saito in Saito 1967: 72) Garbary & J.T. Harper (1998: 194), Palisada K.W. Nam (2007: 53), Yuzurua (K.W.
+Nam 1999: 467) Martin-Lescanne (2010: 59) (Martin-Lescanne et al. 2010) and the most recently established
+
+Accepted by Saúl Blanco Lanza: 18 Apr. 2013; published online in PDF: 23 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+41
+
+genus Laurenciella Cassano, Gil-Rodríguez, Sentíes, Díaz-Larrea, M.C. Oliveira & M.T. Fujii (2012a: 354).
+Several morphological, vegetative and reproductive characteristics used in discriminating members of the
+complex have been shown to have diagnostic value only at the generic level (Saito 1967, Nam et al. 1994,
+Garbary & Harper 1998, Nam 1999, 2006). Most species have extensive morphological variation, which
+makes taxonomic delimitation difficult. In this context, the use of molecular markers has proven to be useful
+in delimiting taxa and inferring their phylogenetic relationships. In particular, rbcL sequence analyses have
+clearly corroborated the taxonomic distinction of genera within the Laurencia complex. The genus Osmundea
+is strongly supported as a monophyletic clade. Recent studies, including the present one, have been able to
+deduce phylogenetic relationships, describe new taxa and solve several taxonomic problems previously
+existing for the complex (Nam et al. 2000, McIvor et al. 2002, Abe et al. 2006, Fujii et al. 2006, Díaz-Larrea
+et al. 2007, Cassano et al. 2009, 2012a, b, Gil-Rodríguez et al. 2009, Martin-Lescanne et al. 2010, RochaJorge et al. 2010).
+Osmundea has been considered the only genus of the Laurencia complex that has a geographically
+disjunct distribution, as it occurs in the North American Pacific (Saito 1969, Nam et al. 1994, Nam & Choi
+1999), Asia (Atmadja & Prud’homme van Reine 2012), Atlantic Europe (Maggs & Hommersand 1993, Nam
+et al. 1994, 2000, Nam & Choi 2000), Mediterranean Sea (Furnari & Serio 1993a, b, Maggs & Hommersand
+1993, Cormaci et al. 1994, Nam et al. 1994, 2000, Serio et al. 1999, 2008, Furnari et al. 2001, McIvor et al.
+2002, Taskin et al. 2008), Indian Ocean (Sahoo et al. 2001, Wynne et al. 2005), Australia and surrounding
+islands (Lewis 1984, Millar et al. 1999, Bostock & Holland 2010), eastern Atlantic Islands (Gil-Rodríguez et
+al. 2003) and Atlantic South America (Yoneshigue-Valentin et al. 2003, García-Ortiz 2006), whereas all
+registers of Osmundea are in Brazil: Osmundea lata (M.A.Howe & W.R.Taylor 1931: 21) Y.YoneshigueValentin, M.T.Fujii, & C.F.Gurgel (2003: 301–304), O. hybrida (A.P. de Candolle in Lamarck & De Candolle
+1805: 30) K.W.Nam in Nam, Maggs & Garbary (1994: 393) and O. pinnatifida (Hudson 1778: 473)
+Stackhouse (1809: 79).
+The Laje de Santos Marine State Park (LSMSP) in Santos, southeastern Brazil, is the only marine park in
+the state of São Paulo and was established in 1993 as a protected area of high biological diversity (Neves
+1997, Amado Filho et al. 2006, Rocha-Jorge et al. 2012). The park is situated in a transition zone between
+tropical and sub-tropical regions and occupies an area of c. 5,000 ha formed by a consolidated substrate, Laje
+de Santos, a large-rock formation (33 m high, 550 m long and 185 m wide), a pair of cliffs called Calhaus and
+four reefs (Brilhante, Bandolim, Sul and Novo) (Fig. 1). The hard substrate available for macroalgal
+development extends to a depth of 40 m and is an important habitat that supports a high density and diversity
+of marine life (Neves 1997, Rocha-Jorge et al. 2012). The LSMSP is under the influence of the South Atlantic
+Central Water (SACW), which is a cold water mass. In the summer season, a local upwelling current results in
+the intrusion of the SACW into shallow waters rich in nutrients, thus generating a strong thermocline
+(Machado et al. 2003, Miranda et al. 2003). It is therefore possible to find in the park some genera that
+predominantly occur in colder waters (Amado Filho et al. 2006, Rocha-Jorge et al. 2012).
+Since the 1990s, the phycological flora of the park have been inventoried, and 184 taxa have been
+recorded (eight new occurrences for Brazil, two for the South Atlantic and one for western Atlantic), which
+represents 52% of the taxa described for the state of São Paulo and 25% of the taxa described for the whole
+Brazilian coast, thereby confirming the richness of macroalgae in the area (Amado Filho et al. 2006, RochaJorge et al. 2012).
+In this paper, a new species of Osmundea from the southwestern Atlantic Ocean is described based on
+morphological characteristics and chloroplast-encoded rbcL gene sequences.
+
+Materials and methods
+Specimens were collected at Laje de Santos Marine State Park, c. 32 km from the city of Santos, which has the
+largest port in Latin America. Samples were collected using SCUBA from the Sul reef (24° 19’ 36.6” S, 46° 11’
+
+42 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ROCHA-JORGE ET AL.
+
+07.8” W) at a depth of 7 to 15 m and in the Laje de Santos (24° 19’ 2.5” S, 46° 10’ 54.8” W) at a depth of 7 to
+20 m. The geographical positions were recorded by GPS using WGS84 datum.
+
+FIGURE 1. Southern coast of São Paulo State, showing the Laje de Santos Marine State Park, including bathymetric lines (20 m
+depth), Laje de Santos, Calhaus and four reefs (Brilhante, Bandolim, Sul and Novo). The arrows show the collection sites.
+
+Morphological study: Voucher specimens and material for morphological studies were fixed in 4%
+formalin/seawater or pressed as herbarium sheets. Transverse and longitudinal hand-sections were obtained
+with a razor blade and stained with 0.5% aqueous aniline blue solution acidified with 1 N HCl. The
+microscopic measurements were obtained using a calibrated ocular micrometer. Photomicrographs were
+obtained using a Zeiss Axiocan ERC–5S digital camera (Göttingen, Germany) coupled to an Axioskop 2
+Zeiss microscope (Göttingen, Germany) and Stemi SV6 Zeiss stereomicroscope (Göttingen, Germany). The
+vouchers were deposited in MICH, SP, SPF, TFC and UAMIZ. The herbarium abbreviations follow Holmgren
+& Holmgren (2012).
+Molecular analysis: The samples used for molecular analysis were dried in silica gel. The total DNA was
+extracted, after the material was ground in Precellys tissue homogenizers (Bertin Technologies, France), by
+using a DNeasy Plant Mini Kit (Qiagen, Valencia—California, USA) according to the manufacturer’s
+instructions. In total, 37 sequences were analyzed, including two newly generated rbcL sequences and the rest
+obtained from GenBank, with one species of Ceramiaceae and one Rhodomelaceae as outgroups (Table 1). In
+total, 1,467 bp (base pairs) of the rbcL gene was amplified in three parts, i.e., FrbcLstart-R753, F577-R1150
+and F753-RrbcS (Freshwater & Rueness 1994) by using a polymerase chain reaction (PCR) master mix
+(Bioneer Premix, Daedeok-Gu, Daejeon-Korea). All PCR products were run on a 1% agarose gel to check
+product size. The PCR products were purified with MicroSpinTMS-300 HR Columns (GE Healthcare Life
+Sciences, Piscataway, NJ, USA) in accordance with the manufacturer’s instructions. Sequencing was
+conducted using a BigDye Terminator Cycle Sequencing Reaction Kit (Applied Biosystems, New JerseyUSA) on an ABI PRISM3100 Genetic Analyzer (Applied Biosystems, Branchburg, NJ, USA). The primers
+used for sequencing were the same as the primers used for the amplification.
+
+OSMUNDEA SANCTARUM SP. NOV. (CERAMIALES, RHODOPHYTA)
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 43
+
+TABLE 1. List of species used for phylogenetic analyses, with their collection data and GenBank accession numbers.
+Species
+
+Collection data
+
+GenBank
+no.
+
+Reference
+
+Bostrychia radicans (Montagne 1840: 198)
+Montagne (1842a: 661)
+
+St. Louis Bay, Massachusetts, USA; 11 February 1998
+
+AF259497
+
+Lin et al. (2001)
+
+Laguna de Yulcapeten, Campeche Bay, Mexico; 12
+February 1998
+
+AF259491
+
+Lin et al. (2001)
+
+Chondrophycus cf. undulatus
+
+New Caledonia, Loyalty, Marè; 22 March 2005
+
+FJ785307
+
+Martin-Lescanne
+et al. (2010)
+
+Chondrophycus sp.1
+
+New Caledonia, Loyalty, Lifou; 26 March 2005
+
+FJ785309
+
+Martin-Lescanne
+et al. (2010)
+
+Chondrophycus sp.2
+
+New Caledonia, Loyalty, Marè; 21 March 2005
+
+FJ785310
+
+Martin-Lescanne
+et al. (2010)
+
+Chondrophycus sp.3
+
+New Caledonia, Loyalty, Beautemps/ Beauprè; 6
+April 2005
+
+FJ785311
+
+Martin-Lescanne
+et al. (2010)
+
+Fanad Head, Donegal, Ireland; 6 December 1998
+
+AF281881
+
+Nam et al. (2000)
+
+Cayo Coco, Ciego de Ávila, Cuba; 25 September 2005
+
+GU330238
+
+Cassano et al.
+(2012b)
+
+Praia do Velho, Angra dos Reis, Rio de Janeiro,
+Brazil, 20 July 2006
+
+GU330232
+
+Cassano et al.
+(2012b)
+
+Palm Beach, Kwa-Zulu Natal, South Africa; 7
+February 2001
+
+AF465816
+
+Fujii et al. (2006)
+
+Ponta da Cabeça, Arraial do Cabo, Rio de Janeiro,
+Brazil; 7 July 2008
+
+JF810352
+
+Cassano et al.
+(2012a)
+
+L. marilzae (Gil-Rodríguez, Sentíes, DíazLarrea, Cassano & M.T. Fujii 2009: 265)
+Gil-Rodríguez, Sentíes, Díaz-Larrea,
+Cassano & M.T. Fujii in Cassano, Oliveira,
+Gil-Rodríguez, Sentíes, Díaz-Larrea & Fujii
+(2012: 354)
+
+Pta. del Hidalgo, Tenerife, Canary Islands, Spain; 12
+July 2006
+
+EF686002
+
+Gil-Rodríguez et
+al. (2009)
+
+L. marilzae
+
+Laje de Santos Marine State Park, Parcel do Sul, São
+Paulo, Brazil; 25 March 2007
+
+GU938189
+
+Rocha-Jorge et al.
+(2010)
+
+L. marilzae
+
+Isla Mujeres, Quintana Roo, Mexico; 16 November
+2008
+
+HQ115065
+
+Sentíes et al.
+(2011)
+
+Punta Santo Thomas, Baja California, Mexico; 2 July
+1996
+
+AY172574
+
+McIvor et al.
+(2002)
+
+O. spectabilis var. diegoensis (E.Y. Dawson
+1944: 236) K.W. Nam in Nam, Maggs &
+Garbary (1994: 393)
+
+Point Loma, California, USA; 7 July 1999
+
+AY172572
+
+McIvor et al.
+(2002)
+
+O. blinksii
+
+Año Nuevo, California, USA; 17 July 1996
+
+AY172575
+
+McIvor et al.
+(2002)
+
+Bahia Colnett, Baja California, Mexico; 2 July 1996
+
+AY172576
+
+McIvor et al.
+(2002)
+
+O. sinicola
+
+Crescent Beach, California, USA; 20 May 2002
+
+AY588407
+
+Fujii et al. (2006)
+
+O. truncata (Kützing 1865: 19) K.W. Nam
+& Maggs in Nam, Maggs & Garbary (1994:
+393)
+
+Long Hyne, Cork, Ireland; 11 November 1999
+
+AF281879
+
+Nam et al. (2000)
+
+Out groups
+
+Ceramium brevizonatum H.E. Petersen
+(1918: 14)
+Chondrophycus
+
+Laurencia
+L. obtusa (Hudson 1778: 586) J.V.
+Lamouroux (1813: 130)
+L. intricata J.V.Lamouroux (1813: 131)
+L. dendroidea J. Agardh (1852: 753)
+L. natalensis Kylin (1938: 24)
+L. oliveirana Y. Yoneshigue-Valentin
+(1985: 329)
+Laurenciella
+
+Osmundea
+O. spectabilis var. spectabilis
+
+O. splendens
+
+...... continued on the next page
+
+44 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ROCHA-JORGE ET AL.
+
+TABLE 1 (continued)
+Species
+
+Collection data
+
+GenBank
+no.
+
+Reference
+
+O. oederi (Gunnerus 1772: 100) G.Furnari
+in Serio, Petrocelli, Cormaci, Cecere & G.
+Furnari (2008: 124)
+
+St. John’s Point, Donegal, Ireland; 12 October 1999
+
+AF281880
+
+Nam et al. (2000)
+
+O. osmunda (S.G. Gmelin 1768: 155) K.W.
+Nam & Maggs in Nam, Maggs & Garbary
+(1994: 393)
+
+St. John’s Point, Donegal, Ireland; 12 October 1999
+
+AF281877
+
+Nam et al. (2000)
+
+St. Lunaire, Brittany, France; 20 March 1999
+
+FJ785317
+
+Martin-Lescanne
+et al. (2010)
+
+O. hybrida
+O. pinnatifida
+
+Penmarch, Brittany, France
+
+AF259495
+
+Lin et al. (2001)
+
+O. pinnatifida
+
+St. John’s Point, Donegal, Ireland; 12 October 1999
+
+AF281875
+
+Nam et al. (2000)
+
+O. pinnatifida
+
+St. John’s Point, Donegal, Ireland; 12 October 1999
+
+AF281876
+
+Nam et al. (2000)
+
+O. pinnatifida
+
+Roscoff, France; 22 July 1999
+
+AY172571
+
+McIvor et al.
+(2002)
+
+O. sanctarum sp. nov.
+
+Laje de Santos Marine State Park, Laje de Santos, São
+Paulo, Brazil;
+19 April 2012
+
+KC012600
+
+This study
+
+O. sanctarum sp. nov.
+
+Laje de Santos Marine State Park, Parcel do Sul, São
+Paulo, Brazil;
+19 August 2008
+
+KC012601
+
+This study
+
+Isla Mujeres, Cancún, Quintana Roo, Mexico; 2
+March 2007
+
+EF658641
+
+Cassano et al.
+(2009)
+
+Phillippines
+
+AF489862
+
+A.O. Luisma
+(unpublished)
+
+P. corallopsis (Montagne 1842b: 9) Sentíes,
+Fujii & Díaz in Sentíes & Díaz-Larrea
+(2008: 69)
+
+Punta Brava, Puerto Morales, Quintana Roo, Mexico;
+18 April 2004
+
+EF061646
+
+Díaz-Larrea et al.
+(2007)
+
+P. flagellifera (J. Agardh 1852: 747) K.W.
+Nam (2007: 54)
+
+Playa Paraíso, Tenerife, Canary Islands, Spain; 16
+July 2006
+
+EF685998
+
+Gil-Rodríguez et
+al. (2010)
+
+Praia Brava, Ubatuba, São Paulo, Brazil; 25 May 2001
+
+AF465804
+
+Fujii et al. (2006)
+
+Rincón de Guanabo, La Habana, Cuba; 29 July 2005
+
+EF061650
+
+Díaz-Larrea et al.
+(2007)
+
+Puerto Morelos, Quintana Roo, Mexico; 16 April
+2004
+
+EF061648
+
+Díaz-Larrea et al.
+(2007)
+
+Long Key, Ocean Side, Florida, USA; 1998
+
+EF061652
+
+Díaz-Larrea et al.
+(2007)
+
+Palisada
+P. perforata (Bory de Saint-Vincent 1803:
+305) K.W. Nam (2007: 54)
+P. patentiramea (Montagne 1836: 322)
+Cassano, Sentíes, Gil-Rodríguez & M.T.
+Fujii (2009: 95)
+
+P. flagellifera
+Yuzurua
+Y. poiteaui var. gemmifera (Harvey 1853:
+73) M.J. Wynne (2011: 98)
+Y. poiteaui var. gemmifera
+Y. poiteaui (J.V. Lamoroux 1805: 63–64)
+Martin-Lescanne in Martin-Lescanne et al.
+(2010: 59) var. poiteaui
+
+Sequence alignments and phylogenetic analysis: Sequences were obtained for both DNA strands,
+assembled and corrected using Sequence Navigator (Applied Biosystems, Branchburg, NJ, USA). The
+sequences were aligned according to the CLUSTAL algorithm (Thompson et al. 1994). Maximum parsimony
+(MP) analyses were performed using PAUP* version 4.0b10 (Swofford 2002) and a heuristic search with
+1,000 random additions, unordered and unweighted characters, with tree bisection-reconnection branch
+swapping in effect. The model used in the Bayesian analysis (GTR + I + G) was selected based on maximum
+likelihood (ML) ratio tests implemented in Modeltest version 3.7 (Posada & Crandall 1998 ) with a
+significance level of 0.01 by the Akaike Information Criterion. ML analysis was conducted with TOPALi v2
+(Milne et al. 2009) using the parameter values estimated during the run. ML and MP analyses were subjected
+to bootstrap resampling (1,000 replicates and 1,000 replicates with 10 random additions, respectively) to
+OSMUNDEA SANCTARUM SP. NOV. (CERAMIALES, RHODOPHYTA)
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 45
+
+estimate robustness (Felsenstein 1985). MrBayes version 3.1 (Huelsenbeck & Ronquist 2001) was used to
+complete Bayesian inference. The analyses were run with four heated Monte–Carlo Markov Chains for
+2,000,000 generations. Output trees and data were sampled every 100 generations. Appropriate burn-in for
+each run was determined by plotting the overall likelihood against generations prior to estimation of the
+posterior probability distribution. In all analyses, likelihood values were stable after the first 150,000
+generations.
+
+Results
+Osmundea sanctarum M.T. Fujii & Rocha-Jorge, sp. nov. (Figs. 2–12, Table 2)
+Thalli are red–purple with axes terete, up to 2.5 cm high, cartilaginous in texture and attached to the substratum by a discoid
+holdfast. Secondary attachments are present. Stoloniferous branches are absent. Thalli are subterete to compressed, 0.92–
+1.40 mm wide in the middle portions and cylindrical at the bases with a diameter of 0.96–1.30 mm, and the ultimate
+branches have a diameter of 0.36–0.43 mm. Branching is sparse, alternate to irregular, and not pinnate. Anastomoses are
+occasionally present (Figs. 2, 3). First-order branches have a diameter of 0.36–0.63 mm at their bases, 0.55–0.80 mm wide
+at the middle portions and 0.30–0.40 mm at the apices. Fresh specimens have a strong chemical odor. Transverse sections
+of the thallus display two cortical layers (Figs. 4–7). The outer layer is composed of translucent (hyaline) cells smaller
+(diameter of 6–10 µm) than the cells in the inner layer, which has rounded pigmented cells with a diameter of 12–18 µm.
+(Figs. 6–8). Cortical cells do not form a palisade-like layer, and the secondary pit connections are absent in the outermost
+cortical cells. Medullary cells are rounded and have a diameter of 15–25 µm. Each vegetative axial segment cuts off two
+pericentral cells; the first pericentral cell is produced on the side of the trichoblast basal cell (Fig. 5). ‘Corps en cerise’ and
+lenticular thickenings are absent in living material. Longitudinal sections present cortical cell walls near apices that do not
+project beyond the surface and apical cells located in depressions from which translucent trichoblasts arise.
+Tetrasporophytes are composed of simple cylindrical branchlets with a length of 0.3–1.0 mm long and a diameter of 0.1–
+0.5 mm (Figs. 9, 10). Tetrasporangia are cut off randomly from the innermost cortical cells and have a diameter of 50–80
+µm (Figs. 11, 12). Gametophytes were not found.
+Type:—BRAZIL. São Paulo: Laje de Santos Marine State Park, 24° 19’ 2.5” S, 46° 10’ 54.8” W, 18 m depth, coll. R. RochaJorge, M.B. Barros-Barreto, I.B. Silva & M.T. Fujii, 19 April 2012 (holotype SP! 427820. Isotypes MICH!, SPF!, TFC!,
+UAMIZ!).
+Paratypes:—Laje de Santos Marine State Park, Sul reef (24° 19’ 36.6” S and 46° 11’ 7.8” W) SP! 400134 (as Osmundea sp.);
+Laje de Santos Marine State Park, Laje de Santos (24° 19’ 2.5” S and 46° 10’ 54.8” W) SP! 400137, 400547, 427821 (all
+as Osmundea sp.).
+
+Distribution and habitat:—Laje de Santos Marine State Park, in Sul reef and Laje de Santos (large rock
+formation), growing in the subtidal zone (depth of 7–20 m) on rocky substrates associated with other
+macroalgae species.
+Etymology:—The specific epithet sanctarum, Latin for “of the saints,” is derived from the type locality,
+i.e., Laje de Santos Marine State Park, São Paulo, Brazil.
+Phylogenetic analyses:—Parsimony analysis of our dataset produced two equally parsimonious trees,
+which were 153 steps long and had a consistency index of 0.6. The dataset for rbcL sequences consisted of
+700 constant characteristics and 417 parsimony-informative sites.
+The topology of the Bayesian tree (Fig. 13) indicated that the Brazilian Osmundea samples formed a
+distinctive and highly supported monophyletic clade with a sister clade that included samples of O. blinksii
+(Hollenberg & I.A. Abbott 1965: 1186) K.W. Nam in Nam, Maggs & Garbary (1994: 393), O. sinicola
+(Setchell & N.L. Gardner 1924: 764) K.W. Nam in Nam, Maggs & Garbary (1994: 393), O. splendens
+(Hollenberg in Smith & Hollenberg 1943: 219) K.W. Nam in Nam, Maggs & Garbary (1994: 393) and O.
+spectabilis (Postels & Ruprecht 1840: 16) K.W. Nam in Nam, Maggs & Garbary (1994: 393). The specimens
+of Osmundea from Laje de Santos and Parcel do Sul (São Paulo) are molecularly and morphologically
+identical, which confirms that these samples constitute the same taxonomic entity. The mentioned samples
+diverged at a high level of genetic variation from the Osmundea spectabilis group (5.4–7.1%), which supports
+their recognition as a new taxon within the genus Osmundea.
+
+46 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ROCHA-JORGE ET AL.
+
+FIGURES 2–8. Osmundea sanctarum: vegetative morphology. Fig. 2. Representative plant. Holotype (SP! 427820) (5 mm). Fig. 3.
+Detail of a branch with secondary small holdfast (arrow) (2 mm). Fig. 4. Transverse section of the upper portion of a branch (100 µm).
+Fig. 5. Transverse section showing two axial cells (a), each of which has two pericentral cells (p) and a basal trichoblast cell (bt) (50
+µm). Fig. 6. Transverse section of main axes (100 µm). Fig. 7. Detail of transverse section of a branch showing external cortical layer
+with translucent cells (25 µm). Fig. 8. Translucent cortical cells in surface view (arrows) (25 µm).
+
+OSMUNDEA SANCTARUM SP. NOV. (CERAMIALES, RHODOPHYTA)
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 47
+
+FIGURES 9–12. Reproductive morphology of tetrasporangial Osmundea sanctarum plants (SP! 427821). Fig. 9. Tetrasporangial
+plant showing fertile branchlets (arrows) (3 mm). Fig. 10. Detail of tetrasporangial branchlets (arrows) (1 mm). Fig. 11. Longitudinal
+section through an apical portion of tetrasporangial branchlet showing tetrasporangia (arrows) originating from cortical cells (100
+µm). Fig. 12. Detail of a stalk cell (stk) with two pre-sporangial cover cells (pr), tetrasporangium (te) and one post-sporangial cover
+cell (po) (250 µm).
+
+Remarks:—Morphological comparisons of O. sanctarum with other species of Osmundea are shown in
+Table 2. The interspecific divergence values obtained in this study were similar to those previously reported
+for the Laurencia complex (Nam et al. 2000, McIvor et al. 2002, Díaz-Larrea et al. 2007, Cassano et al. 2009,
+2012a, b, Martin-Lescanne et al. 2010, Rocha-Jorge et al. 2010).
+
+Discussion
+To date, 17 species and one variety of Osmundea have been recognized globally (Guiry & Guiry 2013), but
+only three species, i.e., O. lata, O. hybrida and O. pinnatifida have been reported from the Brazilian coast, as
+
+48 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ROCHA-JORGE ET AL.
+
+mentioned above. Osmundea hybrida and O. pinnatifida were recorded in Brazil in the 19th century and, since
+then, no other specimens of these taxa have been collected again, and there is no mention of herbaria voucher
+where these specimens can be checked; therefore, these early reports must be treated as uncertain records
+(Taylor 1960, Oliveira Filho 1977, Fujii & Sentíes 2005, Fujii et al. 2011). The new species described in the
+present study diverges, genetically, by 6.5% from O. pinnatifida and 6.4% from O. hybrida.
+
+FIGURE 13. Bayesian phylogram inferred from analyses of rbcL sequences for 35 Laurencia complex taxa and two outgroup species.
+Numbers above branches correspond to support values for Bayesian inference posterior probability/maximum likelihood bootstrap/
+and maximum parsimony bootstrap, respectively. Bold lines indicate a fully supported node in all three analyses. Taxa marked in bold
+indicate newly determined sequences.
+
+OSMUNDEA SANCTARUM SP. NOV. (CERAMIALES, RHODOPHYTA)
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 49
+
+Morphologically, Osmundea sanctarum has no radial branching and thus differs from O. hybrida, and it
+has non-pinnate fronds, lacks stoloniferous branches and lacks annular and lenticular thickenings. In contrast,
+O. pinnatifida has pinnate fronds attached to the substratum by stoloniferous branches and may contain
+annular and lenticular thickenings. It is possible that the O. pinnatifida specimens reported previously in
+Brazil were, in fact, specimens of O. sanctarum because in morphological analyses, such as those performed
+in the 19th century according to knowledge available at the time, these taxa could have been confused. None of
+the authors (Saint-Hilaire 1833, Martius 1833 or Montagne 1846) provided a detailed description or any
+illustrations for O. pinnatifida from Brazil (Table 2).
+Osmundea lata was originally described as Laurencia lata by Howe & Taylor (1931) from material
+collected during the Hassler Expedition near the Cabo Frio, north of Rio de Janeiro state. Later, in a scientific
+kelp expedition on the Brazilian coast, fertile specimens of O. lata (as Laurencia lata) were found growing as
+epiphytes on rhizoids of Laminaria abyssalis A.B. Joly & E.C. Oliveira Filho (1967: 7) dredged from a 60 m
+depth on the continental shelf. The morphological features of the specimens allowed the transfer of the species
+from Laurencia to Osmundea (Yoneshigue-Valentin et al. 2003). Osmundea lata differs from O. sanctarum in
+its possession of secondary pit connections between outermost cortical cells, absence of translucent cortical
+cells and dense, alternate/distichous branching (Table 2).
+Compared with other Osmundea species mentioned for the Atlantic Ocean (Nam et al. 2000, Nam & Choi
+2000, Gil-Rodríguez et al. 2003, Taskin et al. 2008), only O. crispa (Hollenberg in Smith & Hollenberg 1943:
+219) K.W. Nam in Nam, Maggs & Garbary (1994: 393), O. pelagiensis G. Furnari in Cormaci, Furnari &
+Serio (1994: 366), O. maggsiana Serio, Cormaci & G. Furnari (1999: 277) and O. splendens have cortical
+cells without secondary pit connections in the outermost layer, and lenticular thickening is absent. McIvor et
+al. (2002) mentioned that pit connections were rare for O. splendens, but Saito (1969), Abbott & Hollenberg
+(1976) and Nam et al. (2000) described that pit connections were absent for this taxon. Osmundea maggsiana
+and O. crispa have entirely cylindrical thalli and radial branching that forms dense compact masses and are
+thus different from O. sanctarum, which has compressed thalli (cylindrical only at the base) and sparse
+branching. Osmundea maggsiana has cortical cells arranged in palisade-like manner, which is not observed in
+O. sanctarum. Osmundea pelagiensis has stoloniferous portions, whereas O. sanctarum lacks this
+characteristic. Finally, O. splendens, similar to the other three taxa mentioned above, has no translucent
+cortical cells (Table 2).
+Within the genus Osmundea, there are two types of spermatangial structures: cup-shaped and pocketshaped (Nam et al. 1994). The Pacific North American species of Osmundea in the ‘Spectabilis’ group, i.e.,
+O. spectabilis, O. blinksii, O. sinicola, O. splendens, O. multibulba (E.Y. Dawson, Neushul & Wildman 1960:
+28) K.W. Nam in Nam, Maggs & Garbary (1994: 393) and O. crispa, possess only the pocket-shaped
+spermatangial pits, whereas the species from the Atlantic and Mediterranean coasts display either cup-shaped
+or pocket-shaped spermatangial pits (Nam et al. 2000, Yoneshigue-Valentin et al. 2003). Previous
+phylogenetic studies based on the rbcL gene demonstrated a clear divergence between these two groups
+(McIvor et al. 2002, Abe et al. 2006, Fujii et al. 2006, Martin-Lescanne et al. 2010). Tetrasporangial
+reproductive structures of O. sanctarum have rarely been observed, and female and male specimens have
+never been found since the first collection of this species in 2001. Consequently, we are unable to describe the
+spermatangial pit type.
+The present report represents the first time that an Osmundea related to the ‘Spectabilis’ group has been
+reported for the South Atlantic Ocean. This finding supports that genus Osmundea has a geographically
+disjunct distribution, as mentioned above.
+The high levels of genetic variation and morphological differences between the Osmundea samples from
+Brazil and the rest of the Osmundea species suggest that this species should be assigned to a new taxon within
+the genus Osmundea, herein designated as Osmundea sanctarum M.T. Fujii & Rocha-Jorge.
+
+50 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ROCHA-JORGE ET AL.
+
+TABLE 2: Comparative morphological data on Osmundea spp.
+Species
+
+Thallus
+
+Type of
+attachment
+
+Branching
+
+Secondary
+pit
+connection
+
+Lenticular
+thickening
+
+Cortical
+cells
+(arrangement)
+
+Translucent
+outermost
+cortical
+cells
+
+Spermatangial
+receptacles
+
+References
+
+O. spectabilis
+
+Compressed
+
+Discoid
+holdfast
+
+Alternate
+
+Present
+
+Absent
+
+Nonpalisade
+
+Absent
+
+Pocket
+
+Nam et al. (1994)
+
+O. blinksii
+
+Compressed
+
+Stoloniferous
+holdfast
+
+Alternatedistichous
+
+Absent/
+Rare*
+
+Absent
+
+Nonpalisade
+
+Absent
+
+Pocket
+
+Saito (1969), Abbott &
+Hollenberg (1976), Nam et
+al. (1994, as L. blinksii), Nam
+et al. 2000; *McIvor et al.
+2002
+
+O. splendens
+
+Compressed
+
+Discoid
+holdfast
+
+Alternate
+
+Absent/
+Rare*
+
+Absent
+
+Nonpalisade
+
+Absent
+
+Pocket
+
+Saito (1969), Abbott &
+Hollenberg (1976, as L.
+splendens), Nam et al. 2000;
+*McIvor et al. 2002
+
+O. sinicola
+
+Compressed
+
+?
+
+Alternate
+
+Present
+
+Present
+
+Nonpalisade
+
+Absent
+
+Pocket
+
+Dawson (1963, as L.
+sinicola), Nam et al. (1994)
+
+O. truncata
+
+Compressed/
+terete
+
+Discoid
+holdfast
+
+Alternate
+
+Present
+
+Present
+
+Nonpalisade
+
+Absent
+
+Cup
+
+Furnari & Serio (1993a),
+Maggs & Hommersand
+(1993, as L. truncata), Nam
+et al. (1994)
+
+O. oederi
+
+Subterete
+to compressed
+
+Discoid
+holdfast
+
+Alternate
+
+Present
+
+Absent
+
+Nonpalisade
+
+Absent
+
+Cup
+
+Nam et al. (2000, as O.
+ramosissima), Serio et al.
+(2008)
+
+O. osmunda
+
+Compressed
+
+Discoid
+holdfast
+
+Alternatedistichous
+
+Absent
+
+Present
+
+Nonpalisade
+
+Absent
+
+Pocket
+
+Maggs & Hommersand
+(1993, as L. osmunda), Nam
+& Choi (2000)
+
+O. hybrida
+
+Terete
+
+Discoid
+holdfast
+
+Radial/
+alternate
+
+Absent
+
+Absent
+
+Nonpalisade
+
+Present
+
+Cup
+
+Maggs & Hommersand
+(1993), Nam & Saito (1994,
+as L. hybrida)
+
+O. pinnatifida
+
+Compressed
+
+Stoloniferous
+holdfast
+
+Alternatedistichous
+
+Absent
+
+Present
+
+Nonpalisade
+
+Present
+
+Pocket
+
+Nam et al. (1994), MachínSánchez et al. (2012)
+
+O. crispa
+
+Terete
+
+?
+
+Radial
+
+Absent
+
+Absent
+
+Nonpalisade
+
+?
+
+Pocket
+
+Abbott & Hollenberg (1976),
+Nam et al. (1994), Nam &
+Choi (1999)
+
+O. lata
+
+Compressed
+
+Discoid
+holdfast
+
+Alternatedistichous
+
+Present
+
+Absent
+
+Nonpalisade
+
+Absent
+
+Cup
+
+Yoneshigue-Valentin et al.
+(2003)
+
+O. maggsiana
+
+Terete
+
+Discoid
+holdfast
+
+Radial/
+alternate
+
+Absent
+
+Absent
+
+Palisade
+
+Absent
+
+Cup
+
+Serio et al. (1999)
+
+O. multibulba
+
+Compressed
+
+?
+
+Alternatedistichous
+
+Absent
+
+Absent
+
+Nonpalisade
+
+Absent
+
+Pocket
+
+Dawson (1963), Saito (1969),
+Nam et al. (1994, as L.
+multibulba)
+
+O. pelagiensis
+
+Compressed
+
+Stoloniferous
+holdfast
+
+Alternate
+
+Absent
+
+Absent
+
+Palisade
+
+Absent
+
+Cup
+
+Cormaci et al. (1994, as L.
+pelagiensis)
+
+O. pelagosae (Schiffner
+1931: 149) K.W. Nam in
+K.W. Nam, Maggs &
+Garbary (1994: 393)
+
+Compressed
+
+Discoid
+holdfast
+
+Alternatedistichous
+
+Present
+
+Present
+
+Nonpalisade
+
+Absent
+
+Pocket
+
+Furnari & Serio (1993b, as L.
+pelagosae)
+
+O. verlaquei G.Furnari in
+Cormaci, Furnari &
+Serio (1994: 368)
+
+Compressed
+
+Stoloniferous
+holdfast
+
+Alternatedistichous
+
+Present
+
+Absent
+
+Nonpalisade
+
+Absent
+
+Cup
+
+Cormaci et al. (1994, as L.
+verlaquei)
+
+O. pedicularioides
+(Børgesen 1933: 136)
+G.Furnari, Serio &
+Cormaci (2004: 455)
+
+Compressed
+
+Discoid
+holdfast
+
+Alternatedistichous
+
+Absent
+
+Absent
+
+Nonpalisade
+
+Absent
+
+?
+
+Furnari et al. (2004)
+
+O. sanctarum sp. nov.
+
+Compressed
+
+Discoid
+holdfast
+
+Alternate
+
+Absent
+
+Absent
+
+Nonpalisade
+
+Present Unknown
+
+OSMUNDEA SANCTARUM SP. NOV. (CERAMIALES, RHODOPHYTA)
+
+Present study
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 51
+
+Acknowledgements
+We are very grateful to Dr. Michael Wynne and all reviewers for theirs helpful comments, and Mr. Saul
+Blanco for his valuable contributions to the manuscript. We also thank the Instituto Florestal and Instituto
+Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA) for permission to collect in Laje
+de Santos Marine State Park, the Fundação de Amparo à Pesquisa do Estado de São Paulo - FAPESP (Procs. 2007/
+51270-7, 2010/52244-2) and Ministerio de Economía y Competitividad of the Spanish Government – MEC (CGL 201014881) for financial support. RRJ thanks FAPESP for PhD student fellowship (Proc. 2010/20559-4) and MTF thanks
+Conselho Nacional de Desenvolvimento Científico e Tecnológico for research productivity fellowship (Proc. 301438/
+2009-9). Beneficiary of financial support from CAPES-Brazil.
+
+References
+Abe, T., Kurihara, A., Kawaguchi, S., Terada, R. & Masuda, M. (2006) Preliminary report on the molecular phylogeny of
+the Laurencia complex (Rhodomelaceae). Coastal Marine Science 30: 209–213.
+Abbott, I.A. & Hollenberg, G.J. (1976) Marine algae of California. Stanford University Press, Stanford, 827 pp.
+Agardh, J.G. (1852) Species genera et ordines algarum, seu descriptiones succinctae specierum, generum et ordinum,
+quibus algarum regnum constituitur. Volumen secundum: algas florideas complectens. Part 3, fasc. 1. C.W.K.
+Gleerup, Lund, 85 pp.
+Amado Filho, G.M.; Horta, P.A.; Brasileiro, P.S.; Barros-Barreto, M.B.B. & Fujii, M.T. (2006) Subtidal benthic marine
+algae of the Marine State Park of Laje de Santos (São Paulo, Brazil). Brazilian Journal of Oceanography 54: 225–
+234.
+http://dx.doi.org/ 10.1590/S1679-87592006000300006.
+Atmadja, W.S. & Prud’homme van Reine, W.F. (2012) Checklist of the seaweed species biodiversity of Indonesia with
+their distribution and classification: Rhodophyceae. Coral Reef Rehabilitation and Management Programme,
+Indonesian Institute of Sciences (LIPI), Jakarta, 72 pp.
+Børgesen, F. (1933) Some Indian Rhodophyceae especially from the shores of the Presidency of Bombay-III. Bulletin of
+Miscellaneous Information, Royal Botanic Gardens, Kew 1933: 113–142.
+Bory de Saint-Vincent, J.B.G.M. (1803) Essais sur les Isles Fortunées et l’antique Atlantide, ou precis de l’histoire
+générale de l’Archipel des Canaries. Baudouin, Paris, 522 pp.
+Bostock, P.D. & Holland, A.E. (2010) Census of the Queensland Flora. Queensland Herbarium Biodiversity and
+Ecosystem Sciences, Department of Environment and Resource Management, Brisbane, 320 pp.
+Cassano, V., Díaz-Larrea, J., Sentíes, A., Oliveira, M.C., Gil-Rodríguez, M.C. & Fujii, M.T. (2009) Evidence for the
+conspecificity of Palisada papillosa with P. perforata (Ceramiales, Rhodophyta) from the western and eastern
+Atlantic Ocean on the basis of morphological and molecular analyses. Phycologia 48: 86–100.
+http://dx.doi.org/10.2216/0031-8884-48.2.86.
+Cassano,V., Metti, Y., Millar, A.J.K., Gil-Rodríguez, M.C., Sentíes, A., Díaz-Larrea, J., Oliveira, M.C. & Fujii, M.T.
+(2012a) Redefining the taxonomic status of Laurencia dendroidea (Ceramiales, Rhodophyta) from Brazil and the
+Canary Islands. European Journal of Phycology 47: 67–81.
+http://dx.doi.org/10.1080/09670262.2011.647334.
+Cassano, V., Oliveira, M.C., Gil-Rodríguez M.C., Sentíes, A., Díaz-Larrea, J. & Fujii, M.T. (2012b) Molecular support
+for the establishment of the new genus Laurenciella within the Laurencia complex (Ceramiales, Rhodophyta).
+Botanica Marina 55: 349–357.
+http://dx.doi.org/bot-2012-0133.
+Cormaci, M., Furnari, G. & Serio, D. (1994) Two new species of Laurencia (Ceramiales, Rhodophyta) from the
+Mediterranean Sea: Laurencia pelagiensis sp. nov. and Laurencia verlaquei sp. nov. Japanese Journal of Phycology
+42: 365–375.
+Dawson, E.Y. (1944) Some new Laurenciae from southern California. Madrofio 7: 233–240.
+Dawson, E.Y. (1963) Marine red algae of Pacific Mexico. Part 8. Ceramiales: Dasyaceae, Rhodomelaceae. Nova
+Hedwigia 6: 401–481.
+Dawson, E.Y., Neushul, M. & Wildman, R.D. (1960) New records of sublittoral marine plants from Pacific Baja
+California. Pacific Naturalist 1(19/20): 3–30.
+Díaz-Larrea, J., Sentíes, A., Fujii, M.T., Pedroche, F.F. & Oliveira, M.C. (2007) Molecular evidence for Chondrophycus
+poiteaui var. gemmiferus comb. et stat. nov. (Ceramiales, Rhodophyta) from the Mexican Caribbean Sea:
+implications for the taxonomy of the Laurencia complex. Botanica Marina 50: 250–256.
+
+52 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ROCHA-JORGE ET AL.
+
+http://dx.doi.org/10.1515/BOT.2007.026.
+Felsenstein, J. (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39: 783–791.
+Freshwater, D.W. & Rueness, J. (1994) Phylogenetic relationships of some European Gelidium (Gelidiales, Rhodophyta)
+species, based on rbcL nucleotide sequence analysis. Phycologia 33: 187–194.
+Fujii, M.T., Cassano, V., Stein, E.M. & Carvalho, L.R. (2011) Overview of the taxonomy and of the major secondary
+metabolites and their biological activities related to human health of the Laurencia complex (Ceramiales,
+Rhodophyta) from Brazil. Brazilian Journal of Pharmacognosy 21: 268–282.
+http://dx.doi.org/10.1590/S0102-695X2011005000064
+Fujii, M.T., Guimarães, S.M.P.B., Gurgel, CFD & Fredericq, S. (2006) Characterization and phylogenetic affinities of the
+alga Chondrophycus flagelliferus (Rhodomelaceae, Ceramiales) from Brazil on the basis of morphological and
+molecular evidence. Phycologia 45: 432–441.
+http://dx.doi.org/10.2216/04-33.1
+Fujii, M.T. & Sentíes, A. (2005) Taxonomia do complexo Laurencia (Ceramiales, Rhodophyta) do Brasil, com ênfase
+nas espécies dos estados de São Paulo e do Espírito Santo. In: Sentíes A. & Dreckman, K. (eds.) Monografias
+Ficológicas. Universidad Autonoma Metropolitana, Mexico 2: 69–135.
+Furnari, G. & Serio, D. (1993a) The distinction between Laurencia truncata (Ceramiales, Rhodophyta) in the
+Mediterranean Sea from Laurencia pinnatifida. Phycologia 32: 367–372.
+Furnari, G. & Serio, D. (1993b) The reproductive structures of the Mediterranean alga Laurencia pelagosae (Ceramiales,
+Rhodophyta). European Journal of Phycology 28: 141–143.
+Furnari, G., Comarci, M. & Serio, D. (2001) The Laurencia complex (Rhodophyta, Rhodomelaceae) in the
+Mediterranean Sea: an overview. Cryptogamie Algologie 22: 331–373.
+Furnari, G., Serio, D. & Cormaci, M. (2004) Revision of Laurencia pedicularioides (Ceramiales, Rhodophyta). Taxon 53:
+453–460.
+Garbary, D.J. & Harper, J.T. (1998) A phylogenetic analysis of the Laurencia complex (Rhodomelaceae) of the red algae.
+Cryptogamie Algologie 19: 185–200.
+García-Ortíz, M. (2006) Osmundea bolivarii (Rodríguez) M. García-Ortíz comb. nov. (Rhodomelaceae, Rhodophyta).
+Acta Botanica Venezuelica 29: 17–25.
+Gil-Rodríguez, M.C., Cassano, V., Aylagas, E., Sentíes, A., Díaz-Larrea, J., Oliveira, M.C. & Fujii, M.T. (2010) Palisada
+flagellifera (Ceramiales, Rhodophyta) from the Canary Islands, Spain: a new record for the eastern Atlantic Ocean
+based on morphological and molecular evidence. Botanica Marina 53: 31–40.
+http://dx.doi.org/10.1515/bot.2010.010.
+Gil-Rodríguez, M.C., Haroun, R., Ojeda Rodríguez, A., Berecibar Zugasti, E., Domínguez Santana, P. & Herrera Morán,
+B. (2003) Div. Protoctistas. In: Moro, L., Martín, J.L., Garrido, M.J. & Izquierdo, I. (eds.) Lista de especies marinas
+de Canarias (algas, hongos, plantas y animales). Consejería de Política Territorial y Medio Ambiente del Gobierno
+de Canarias, Santa Cruz de Tenerife, pp. 5–30.
+Gil-Rodríguez, M.C., Sentíes, A., Díaz-Larrea, J., Cassano, V. & Fujii, M.T. (2009) Laurencia marilzae sp. nov.
+(Ceramiales, Rhodophyta) from the Canary Islands, Spain, based on morphological and molecular evidence. Journal
+of Phycology 45: 264–271.
+http://dx.doi.org/10.1111/j.1529-8817.2008.00624.x.
+Gmelin, S.G. (1768) Historia Fucorum. Academia Scientarum, Saint Petersburg, 155 pp.
+Guiry, M.D. & Guiry, G.M. (2013) AlgaeBase: world-wide electronic publication. National University of Ireland,
+Galway. Available from: http://www.algaebase.org (accessed: 01 March 2013).
+Gunnerus, J.E. (1772) Flora norvegica, observationibus praesertim oeconomicis panosque norvegici locupletata. Pars
+posterior, cum iconibus. Vinding & F.C. Pelt, Trondheim, Copenhagen, 100 pp.
+Harvey, W.H. (1853) Nereis boreali-americana; or, contributions towards a history of the marine algae of the atlantic and
+pacific coasts of North America. Part II. Rhodospermeae. Smithsonian Contributions to Knowledge 5(5): 1–258.
+Hollenberg, G.J. & Abbott, I.A. (1965) New species and new combinations of marine algae from the region of Monterey,
+California. Canadian Journal of Botany 43: 1177–1188.
+Holmgren, P.K. & Holmgren, N.H. (2012) Index Herbariorum: A global directory of public herbaria and associated
+staff. New York Botanical Garden’s Virtual Herbarium, New York. Available from: http://sweetgum.nybg.org/ih
+(accessed: 20 June 2012).
+Howe, M.A. & Taylor, W.R. (1931) Notes on new or little-known marine algae from Brazil. Brittonia 1: 7–33.
+Hudson, W. (1778) Flora anglica; exhibens plantas per regnum britanniæ sponte crescents, distributas secundum
+systema sexuale: cum differentiis specierum, synonymis auctorum, nominibus incolarum, solo locorum, tempore
+florendi, officinalibus pharmacopæorum. Editio altera, emendata et aucta. Vol. 2. J. Nourse, London, 688 pp.
+Huelsenbeck, J.P. & Ronquist, F.R. (2001) MRBAYES: Bayesian inference of phylogeny and its impact on evolutionary
+biology. Bioinformatics 17: 754–755.
+http://dx.doi.org/10.1126/science.1065889.
+Joly, A.B. & Oliveira Filho, E.C. de (1967) Two Brazilian Laminarias. Instituto de Pesquisas Marinhas do Rio de
+
+OSMUNDEA SANCTARUM SP. NOV. (CERAMIALES, RHODOPHYTA)
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 53
+
+Janeiro 4: 1–13.
+Kützing, F.T. (1865) Tabulae phycologicae; oder, Abbildungen der Tange. Vol. 15. Gedruckt auf kosten des Verfassers (in
+commission bei W. Köhne), Nordhausen, 36 pp.
+Kylin, H. (1938) Verzeichnis einiger Rhodophyceen von Südafrika. Acta Universitatis Lundensis 34(8): 1–26.
+Lamarck, J.B., de & De Candolle, A.P. (1805) Flore française, ou descriptions succinctes de toutes les plants qui
+croissent naturellement en France, disposées selon une nouvelle méthode d'analyse, et précédées par un exposé des
+principes élémentaires de la botanique. Troisième Édition. Tome second. Chez H. Agasse, Paris, 600 pp.
+Lamouroux, J.V.F. (1805) Dissertations sur plusieurs espèces de Fucus, peu connues ou nouvelles; avec leur description
+en latin et en français. Imprimerie de Raymond Nouvel & Chez Treuttel et Würtz, Agen, Paris, 83 pp.
+Lamouroux, J.V.F. (1813) Essai sur les genres de la famille des thalassiophytes non articulées. Annales du Muséum
+d’Histoire Naturelle, Paris 20: 130–131.
+Lewis, J.A. (1984) Checklist and bibliography of benthic marine macroalgae recorded from northern Australia I.
+Rhodophyta. Defense Science and Technology Organisation, Materials Research Laboratories, Melbourne, 98 pp.
+Machado, M.B., Harari, J. & Oliveira, M.R. (2003) Projeto Vida na Laje: Levantamento preliminar biológico e
+oceanográfico da área do Parque Estadual Marinho da Laje de Santos. In: CBPAS (ed.) III Congresso Brasileiro de
+Pesquisas Ambientais e Saúde, Santos (SP), Vol. 1. CBPAS, Santos, unpaginated.
+Machín-Sánchez, M., Díaz-Larrea, J., Fujii, M.T., Sentíes, A., Cassano, V. & Gil-Rodríguez, M.C. (2012) Morphological
+and molecular evidences within Osmundea (Ceramiales, Rhodophyta) from Canary Islands, Eastern Atlantic Ocean.
+African Journal of Marine Science 34: 27–42.
+http://dx.doi.org/10.2989/1814232X.2012.673269.
+Maggs, C.A. & Hommersand, M.H. (1993) Seaweeds of the British Isles. Vol.1 Rhodophyta. Part 3A. Ceramiales. British
+Museum (Natural History), London, 420 pp.
+Martin-Lescanne, J., Rousseau, F., De Reviers, B., Payri, C., Couloux, A., Cruaud, C. & Le Gall, L. (2010) Phylogenetic
+analyses of the Laurencia complex (Rhodomelaceae, Ceramiales) support recognition of five genera:
+Chondrophycus, Laurencia, Osmundea, Palisada and Yuzurua stat. nov. European Journal of Phycology 45: 51–61.
+http://dx.doi.org/10.1080/09670260903314292.
+Martius, C.F.P. von (1833) Flora Brasiliensis, seu, Enumeratio plantarum in Brasilia.. Vol. I. Pars prior. Algae, lichenes,
+hepaticae exposuerunt Martius. Eschweiler, Nees ab Esenbeck. Sumptibus J.G. Cottae, Stuttgart, 90 pp.
+McIvor, L., Maggs, C.A., Guiry, M.D. & Hommersand, M.H. (2002) Phylogenetic analysis of the geographically
+disjunct genus Osmundea Stackhouse (Rhodomelaceae, Rhodophyta). Constancea 83: 1–11.
+Millar, A.J.K., De Clerck, O., Coppejans E. & Liao, L.M. (1999) Annotated and illustrated survey of the marine
+macroalgae from Motupore Island and vicinity (Port Moresby area, Papua New Guinea). III. Rhodophyta.
+Australian Systematic Botany 12: 549–591.
+Milne, I., Lindner, D., Bayer, M., Husmeier, D., McGuire, G., Marshall, D.F. & Wright, F. (2009) TOPALi v2: a rich
+graphical interface for evolutionary analyses of multiple alignments on HPC clusters and multi-core desktops.
+Bioinformatics 25: 126–127.
+http://dx.doi.org/10.1093/bioinformatics/btn575
+Miranda, L.B., Castro, B.M., Rezende, L.F. & Mello, R.L. (2003) Variação Sazonal de propriedades hidrográficas ao
+largo do Parque Estadual Marinho Laje de Santos (SP). In: CBPAS (ed.) III Congresso Brasileiro de Pesquisas
+Ambientais e Saúde, Santos (SP), Vol. 1. CBPAS, Santos, unpaginated.
+Montagne, C. (1840) Seconde centurie de plantes cellulaires exotiques nouvelles. Décades I et II. Annales des Sciences
+Naturelles, Botanique, Seconde Série 13: 193–207.
+Montagne, C. (1836) Notice sur les plantes cryptogames récemment découvertes en France, contenant aussi l’indication
+précise des localités de quelques espèces les plus rares de la flore française. Annales des Sciences Naturelles,
+Botanique, série 2 5: 280–291, 337–348.
+Montagne, C. (1842a) Bostrychia. Dictionnaire Universel d’Histoire Naturelle (Orbigny) 2: 660–661.
+Montagne, C. (1842b) Botanique. Plantes cellulaires. In: Sagra, R. de la (ed.) Histoire physique, politique et naturelles de
+l’île de Cuba. Vol. 11. Arthus Bertrand, Paris, pp. 49–51.
+Montagne, C. (1846) Algues, Lichens, Hépatiques et Mousses. In: Gaudichaud, C. (ed.) Voyage autour du monde exécuté
+pendant les années 1836 et 1837 sur la corvette la Bonite commandée par M. Vaillant capitaine de vaisseau, publié
+par ordre du roi sous les auspices du département de la Marine. Botanique. Tome Premier. Cryptogames cellulaires
+et vascularies (Lydopodinées). Arthus Bertrand, Paris, 346 pp.
+Nam, K.W. (1999) Morphology of Chodrophycus undulata and C. parvipapillata and its implications for the taxonomy
+of the Laurencia (Ceramiales, Rhodophyta) complex. European Journal of Phycology 34: 455–468.
+Nam, K.W. (2006) Phylogenetic re-evaluation of the Laurencia complex (Rhodophyta) with a description of L.
+succulenta sp. nov. from Korea. Japanese Applied Phycology 18: 679–697.
+http://dx.doi.org/10.1007/s10811-006-9073-3.
+Nam, K.W. (2007) Validation of the generic name Palisada (Rhodomelaceae, Rhodophyta). Algae (The Korean Journal
+of Phycology) 22(2): 53–55.
+
+54 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ROCHA-JORGE ET AL.
+
+Nam, K.W. & Choi, H.G. (1999) Developmental morphology of Osmundea crispa (Ceramiales, Rhodophyta) from
+California. Journal of Fisheries Science and Technology 2: 25–31.
+Nam, K.W. & Choi, H.G. (2000) A detailed morphological study of the type species of Osmundea (Rhodomelaceae,
+Rhodophyta). Botanica Marina 43: 291–297.
+Nam, K.W. & Saito, Y. (1994) A re-examination of Laurencia hybrida (Ceramiales, Rhodophyta) from the British Isles:
+vegetative and reproductive morphology. Phycologia 33: 34–41.
+Nam, K.W., Maggs, C.A. & Garbary, D.J. (1994) Resurrection of the genus Osmundea with an emendation of the generic
+delineation of Laurencia (Ceramiales, Rhodophyta). Phycologia 33: 384–395.
+Nam, K.W., Maggs, C.A., McIvor, L. & Stanhope, M.J. (2000) Taxonomy and phylogeny of Osmundea
+(Rhodomelaceae, Rhodophyta) in Atlantic Europe. Phycologia 36: 759–772.
+Neves, T. (1997) Dossiê de gerenciamento do Parque Estadual Marinho da Laje de Santos, São Paulo v. 1-2. Instituto
+Florestal–Secretaria do MeioAmbiente, São Paulo, 425 pp.
+Oliveira Filho, E.C. (1977) Algas marinhas bentônicas do Brasil. Universidade de São Paulo, Instituto de Biociências,
+São Paulo, 407 pp.
+Papenfuss, G.F. (1947) Generic names of algae proposed for conservation. I. Madroño 9: 8–17.
+Petersen, H.E. (1918) Algae (excl. calcareous algae). In: Schmidt, J. (ed.) Report on the Danish Oceanographical
+Expeditions 1908-1910 to the Mediterranean and adjacent seas. Vol. II. A.F. Høst Publishers, Copenhagen, 86 pp.
+Posada, D. & Crandall, K.A. (1998) Modeltest: testing the model of DNA substitution. Bioinformatics 14: 817–818.
+Postels, A. & Ruprecht, F. (1840) Illustrationes algarum in itinere circum orbem jussu imperatoris Nicolai I. Atque
+auspiciis navarchi Friderici Lütke annis 1826, 1827, 1828 et 1829 celoce Seniavin exsecuto in Oceano pacifico,
+inprimis septemtrionale ad littora rossica asiatico-americana collectarum. Saint Petersburg, Typis Eduardi Pratz, 28
+pp.
+Rocha-Jorge, R., Cassano, V., Oliveira, M.C. & Fujii, M.T. (2010) The occurrence of Laurencia marilzae (Ceramiales,
+Rhodophyta) in Brazil based on morphological and molecular data. Botanica Marina 53: 143–162.
+http://dx.doi.org/10.1515/bot.2010.018.
+Rocha-Jorge, R., Harari, J. & Fujii, M.T. (2012) Macroalgal composition and its association with local hydrodynamics in
+the Laje de Santos Marine State Park, Southwestern Atlantic, São Paulo, Brazil. Brazilian Journal of Oceanography
+60 (3): 405–419.
+http://dx.doi.org/10.1590/S1679-87592012000300012.
+Sahoo, D., Sahu, N. & Sahoo, D. (2001) Seaweeds of Indian coast. A.P.H. Publishing, New Delhi, 283 pp.
+Saint-Hilaire, A. de (1833) Voyage dans le district des diamans et sur le littoral du Brésil, suivi de note sur quelques
+plantes caractéristiques et d’un précis de l’historie des révolutions de l’empire brésilien, depuis le commencement
+du règne de Jean vi jusqu’à l’abdication de D. Pedro. Seconde Partie. Gide, Paris, 457 pp.
+Saito, Y. (1967) Studies on Japanese species of Laurencia, with special reference to their comparative morphology.
+Memoirs of the Faculty of Fisheries Hokkaido University 15: 1–81.
+Saito, Y. (1969) On morphological distinctions of some species of Pacific North American Laurencia. Phycologia 8: 85–
+90.
+Schiffner, V. (1931) Neue und bemerkenswerte Meeresalgen. Hedwigia 71: 139–205.
+Sentíes, A., Díaz-Larrea, J. (2008) Proposals for Palisada poiteaui var. gemmifera comb. nov. and Palisada corallopsis
+comb. nov. (Rhodomelaceae, Rhodophyta). Botanica Marina 51: 69–70.
+Sentíes, A., Díaz-Larrea, J., Cassano, V., Gil-Rodríguez, M.C. & Fujii, M.T. (2011) Laurencia marilzae (Ceramiales,
+Rhodophyta) from the Mexican Caribbean: a new record for the tropical western Atlantic. Bulletin of Marine
+Science 87: 681–686.
+http://dx.doi.org/10.5343/bms.2010.1094.
+Serio, D., Cormaci, M. & Furnari, G. (1999) Osmundea maggsiana sp. nov. (Ceramiales, Rhodophyta) from the
+Mediterranean Sea. Phycologia 38(4): 277–282.
+Serio, D., Petrocelli, A., Cormaci, M., Cecere, E. & Furnari, G. (2008) First record of Osmundea oederi (Gunnerus) G.
+Furnari comb. nov. (Rhodomelaceae, Rhodophyta) from the Mediterranean Sea. Cryptogamie Algologie 29: 119–
+127.
+Setchell, W.A. & Gardner, N.L. (1924) New marine algae from the Gulf of California. Proceedings of the California
+Academy of Sciences, Series 4 12: 695–949.
+Smith, G.M. & Hollenberg, G.J. (1943) On some Rhodophyceae from the Monterey Peninsula, California. American
+Journal of Botany 30: 211–222.
+Stackhouse, J. (1809) Tentamen marino-cryptogamicum, ordinem novum; in genera et species distributum in Classe
+XXIVta Linnaei sistens. Mémoires de la Société Imperiale des Naturalistes de Moscou 2: 50–97.
+Swofford, D.L. (2002) PAUP. Phylogenetic analysis using parsimony (and other methods).Version 4. Sinauer Associates,
+Massachusetts, 130 pp.
+Taskin, E., Öztürk, M., Kurt, O. & Öztürk, M. (2008) The check-list of the marine Flora of Turkey. Koeltz Scientific
+Books, Koenigstein, 87 pp.
+
+OSMUNDEA SANCTARUM SP. NOV. (CERAMIALES, RHODOPHYTA)
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 55
+
+Taylor, W.R. (1960) Marine algae of the eastern tropical and subtropical coasts of the Americas. The University of
+Michigan Press, Ann Arbor, 870 pp.
+Thompson, J.D., Higgins, D.G. & Gibson, T.J. (1994) CLUSTAL W: improving the sensitivity of progressive multiple
+sequence alignment through sequence weighting, positions-specific gap penalties and weight matrix choice. Nucleic
+Acids Research 22: 4673–4680.
+Wynne, M.J. (2011) A checklist of benthic marine algae of the tropical and subtropical western Atlantic: third revision.
+Nova Hedwigia Beihefte 140: 7–166.
+Wynne, M.J., Serio, D., Cormaci, M. & Furnari, G. (2005) The species of Chondrophycus and Laurencia
+(Rhodomelaceae, Ceramiales) occurring in Dhofar, the Sultanate of Oman. Phycologia 44: 497–509.
+http://dx.doi.org/10.2216/0031-8884(2005)44[497:TSOCAL]2.0.CO;2
+Yoneshigue-Valentin, Y. (1985) Taxonomie et ecologie des algues marines dans la région de Cabo Frio (Rio de Janeiro,
+Bresil). Ph. D. Dissertatio, Université d’Aix-Marseille II, Faculté des Sciences de Luminy, Luminy, 329 pp.
+Yoneshigue-Valentin, Y., Fujii, M.T. & Gurgel, C.F.D. (2003) Osmundea lata (M. Howe & W.R. Taylor) comb. nov.
+(Ceramiales, Rhodophyta) from the Brazilian south-eastern continental shelf. Phycologia 42: 301–307.
+http://dx.doi.org/10.2216/i0031-8884-42-3-301.1.
+
+56 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ROCHA-JORGE ET AL.
+
+

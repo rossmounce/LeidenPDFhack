@@ -1,0 +1,581 @@
+Phytotaxa 151 (1): 25–34 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.151.1.2
+
+The Nepenthes micramphora (Nepenthaceae) group, with two new species from
+Mindanao, Philippines
+MARTIN CHEEK1,* & MATTHEW JEBB2
+1
+
+Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AE, United Kingdom: m.cheek@kew.org
+National Botanic Garden, Glasnevin, Dublin 9, Republic of Ireland
+* author for correspondence
+2
+
+Abstract
+The N. micramphora group is erected to accommodate the species N. micramphora, N. abgracilis sp. nov. and N. cid sp.
+nov. from submontane habitats in Mindanao, Philippines. An overview of the genus in the Philippines is presented in the
+context of recent discoveries. The greater taxonomic importance of pitcher characters over those of the flowers in the
+genus is reviewed and hypotheses are provided to account for this phenomenon.
+Key words: conservation, Critically Endangered, IUCN, Surigao Province, taxonomy, ultramafic
+
+Introduction
+This paper is part of the research towards a World Monograph of Nepenthes Linnaeus (1753: 955), building
+on a Skeletal Revision of Nepenthes (Jebb & Cheek 1997) and the Flora Malesiana account (Cheek & Jebb
+2001).
+Nepenthes is the only genus of Nepenthaceae Dumort. and includes taxa mainly distributed in Malesia
+(ca. 125 species), while ca. 12 species occur in Madagascar, Seychelles, Sri Lanka, NE India, Indochina,
+Solomon Islands, New Caledonia and Australia. Cheek & Jebb (2001) recorded 87 species of Nepenthes, but
+since 2001, 54 new specific names have been published in the genus (see IPNI 2013 continuously updated)
+and others have been resurrected from synonymy. The number of species currently accepted is 140 and is set
+to rise further.
+Cheek & Jebb (2001) recorded 12 species in the Philippines. New field surveys and herbaria examinations
+allowed discovery of 16 new species that have been published in the last twelve years (see IPNI 2013
+continuously updated, e.g. Heinrich et al. 2009, Cheek 2011, Cheek & Jebb 2013a, 2013b, 2013c, 2013d).
+Some taxa [e.g. Nepenthes alzapan Jebb & Cheek (2013b: 59)] are considered possibly extinct since the
+destruction of forest habitat in the Philippines over the last 100 years has been so extensive. Although the
+Philippines is thought to have remained two-thirds forested as recently as 1925 according to Sohmer & Davis
+(2007), 75 years after that date Myers et al. (2000) estimated that remaining primary vegetation in the
+Philippines amounted to only 3%. Lowland primary forest has now all but gone from the Philippines (Sohmer
+& Davis 2007). They define lowland forest as occurring below 500 m a.s.l. Sohmer & Davis (2007) estimate
+species extinction levels due to habitat destruction as 9−28% in one representative, mainly forest genus,
+Psychotria Linnaeus (1759: 929) (Rubiaceae). Since habitat destruction continues in the Philippines, it is a
+race against time to discover, publish, assess and draw attention to the conservation needs of species before
+they become extinct, if they have not already been lost.
+
+Accepted by Duilio Iamonico: 6 Nov. 2013; published: 6 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+25
+
+About 50% of the Nepenthes species in the Philippines occur or occurred in scrub or stunted forest
+habitats on ultramafic substrates (both lowland and submontane), while the remaining 50% occur mainly in
+submontane forest (500–2000 m a.s.l) on non-ultramafic, mainly volcanic substrates. Species diversity is
+highest on Mindanao island, the southernmost and second largest island, followed by Palawan island.
+All Philippine Nepenthes species are endemic, except for N. mirabilis (Loureiro 1790: 606) Druce (1916:
+637) which is known from Tawi Tawi island (near Borneo), and from the northern coast of Mindanao and its
+associated islands. Concerning Nepenthes, and from the phytogeographical point of view, Palawan has closer
+affinities with Borneo rather than with the rest of the Philippines (Cheek & Jebb 1999).
+Most of the endemic species can be assigned to one of three main groups:
+1)
+
+2)
+
+3)
+
+The Nepenthes villosa group (sensu Cheek & Jebb 1999), including taxa with petiolate leaves, welldeveloped lid columns, peristomes with blade-like teeth, and lids which lack a basal appendage. These
+taxa are restricted to higher altitude ultramafic habitats and are most diverse in Palawan, but extend to
+NE Borneo (Cheek & Jebb 1999).
+The N. ventricosa group (sensu Cheek & Jebb 2013b). Its species lack a petiole, have broadly
+subcylindrical pitchers with a broad peristome which is conspicuously toothed on its inner edge, lids
+which lack appendages, and transversely elliptic nectar glands except along the midline band. They
+occur in both ultramafic and non-ultramafic, mainly submontane forest habitats and are most diverse in
+the Philippines (but absent from Palawan), extending to New Guinea and to Borneo (Cheek & Jebb
+2013b).
+The Nepenthes alata group (sensu Cheek & Jebb 2013d). Its species have winged petioles, lids with
+basal ridges, usually producing appendages, and upper pitchers usually broadest at the base, and occurs
+in the same range of habitats as the N. ventricosa group. It is most diverse in Mindanao, and is endemic
+to and extends throughout the Philippines except Palawan, (Cheek & Jebb 2013d).
+
+Nepenthes philippinensis Macfarlane (1908: 43) (endemic to Palawan), part of the N. hirsuta Hooker f.
+(1873: 99) group (restricted to Borneo; sensu Cheek & Jebb 1999: 890–891) and N. abalata Jebb & Cheek
+(2013: 153) (that occurs in the small low-lying, drier islands between Palawan and Panay Islands) are separate
+from the morphological point of view and they cannot be included in the groups above presented. Finally, N.
+micramphora V.Heinrich, S.McPherson, Gronemeyer & Amoroso (2009: 1315) (from the extreme SE of
+Mindanao) which has been of uncertain placement is discussed in the present paper.
+Many of the Philippine Nepenthes species are only known from a single, sometimes sterile, specimen.
+However, there are few doubts that they are distinct taxa since the most important species-diagnostic
+characters in the genus are the morphology, anatomy and the size of the pitchers (especially the uppers and the
+intermediates), while the flowers and the fruit features have less taxonomic value. In many other plant groups,
+evolution of character diversity in floral characters appears to be correlated with assisting pollination, often by
+a single or few insect species. In Nepenthes, cross-pollination appears from initial studies to be performed by
+a broad range of generalist Diptera and Hymenoptera (Lian 1995, Adam 1998). Perhaps for this reason there
+is comparatively little species-level differentiation florally in the family. In contrast, evidence has been
+steadily accumulating in recent years that the pitchers of different Nepenthes species are specialised at
+gathering nutrients from one of a variety of animal sources. They are not always pitfall trappers of any prey
+item that happens to fall in, as had previously been assumed. N. mirabilis studied by Jebb (1991) in New
+Guinea predominantly trapped ants, but also a spectrum of other insects, while N. albomarginata T.Lobb ex
+Lindley (1849: 580) traps almost exclusively a species of termite (Clarke, 1997). N. hemsleyana Macfarlane
+(1908: 61), the pitchers of which, providing day roosts for a species of bat, benefit from the resulting faecal
+deposits produced (Grafe et al. 2011). No doubt in future, the morphological and micromorphological
+character states seen in the pitchers of other Nepenthes species or species groups, will also be shown to be
+important to targeting hitherto unsuspected specialised animal nutrient sources.
+
+26 •
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+CHEEK & JEBB
+
+In the last few cases, the morphological modifications of the pitcher each appear to target only one or two
+species of animal. However, it is possible that future studies will show that some or most species of Nepenthes
+trap a wider range of insect species available in their environment. Since the range of e.g. arthropod species
+can be expected to vary from one mountain (or other geographic location) to another, it is possible that
+speciation in Nepenthes might be driven by modifications of the pitcher caused by selection for efficiency in
+trapping, or otherwise targeting, the spectra of animal species present at each. This might explain the common
+pattern seen in several Nepenthes groups to have different species, as recognised by pitcher morphology and
+micromorphology, on different mountains or islands.
+An alternative hypothesis to explain this speciation pattern is genetic drift (Stace 1991). In this hypothesis,
+the progeny of the few founding individuals at a new location might accumulate morphological changes over
+time, that are not related to selection pressures. This scenario assumes that animal targeting is not strongly
+selected for in Nepenthes. This might be the case if the threshold for the need for nutrients derived from
+animals in Nepenthes is very low, or if there is no threshold at all, for example if Nepenthes can survive
+without capturing animal nutrients through their pitchers.
+The shape and dimensions of the upper and intermediate pitchers and their structures are taxonomically
+highly useful characters, including those of the body, mouth and lid of the pitcher, and of the fringed wings
+when present. The nectar glands on the lower surface (size, shape, orientation, position, number per area unit,
+presence/absence of the nectar gland perimeter wall) of the lid are especially important as species characters.
+Trichome complements on the pitchers, leaves and stems are often important for species delimitation
+especially in the Nepenthes alata group. Here the trichome classification of Cheek & Jebb (2001: 7–8) is
+maintained.
+
+Materials and Methods
+Herbarium specimens (codes for herbaria are according to Thiers 2011 continuously updated) and living plants
+were examined. In several cases the mouth and the lid surface are not well visible in herbarium specimens, so
+it was necessary to soak the mouth area and lid, or sometimes the entire pitchers, in warm soapy water.
+The following characters were measured: stem, and leaf and pitcher (using a graduated rule), hair sizes,
+and peristome and lower lid details (using a binocular microscope with an eyepiece graticule graduated in
+units of 0.025 mm at X40 magnification).
+
+Results and discussion
+The two species here described, N. abgracilis and N. cid, do not fit in any of the species-groups known from
+the Philippines (see introduction). Although they appear similar to the N. alata group, they lack the basal ridge
+and appendage of the lower surface of the lid. On the other hand, there is a clear morphological affinity with
+N. micramphora (described from Mindanao). Therefore, we here propose a new and informal species group
+named the “N. micramphora group”, the diagnostic characters of which are:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+submontane habitat;
+stems terete;
+peristome slender, cylindrical, 0.8–2 mm wide;
+peristome ridges low, about 0.1 mm high, inconspicuous;
+inner edge of peristome without visible teeth (in natural position);
+lower surface of lid lacking a basal ridge and appendage;
+lid nectar glands >100, monomorphic, large (ca.0.5 mm diam.) with a narrow border,± evenly spread
+over the lid
+
+THE NEPENTHES MICRAMPHORA (NEPENTHACEAE) GROUP
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+• 27
+
+McPherson & Gronemeyer (2008: 36, 38) and McPherson (2009: 638 & fig. 343) published detailed
+photographs of a range of variants of N. alata. One of these images was indicated as “A spectacular variant of
+N. alata growing on Mt Legaspi in the north of Mindanao. Note the lack of an appendage on the underside of
+the lid”. The lack of a lid appendage, and the lack of the leaf petiole (viewed in image), indicates that the plant
+represented by these photographs cannot be included in the N. alata group (sensu Cheek & Jebb 2013d).
+Moreover, the taxon cannot be identified as any of the known Nepenthes species. Concerning the pitcher
+features, the lids appear elliptic with base rounded, not cordate, and the lid nectar glands are large, dense and
+uniform over the entire lower surface including the midline; the short column has holes, not teeth, on the inner
+edge of the uniform cylindrical peristome; the slightly swollen, ellipsoid pitcher base narrows very slightly to
+a waist above, then dilates towards the peristome.
+We found a specimen at K matching the photographs by McPherson & Gronemeyer (2008) and
+McPherson (2009). The label includes Merrill’s annotation “seems only to answer to a large form of N.
+gracilis. With sheet no. 34501 of N. merrilliana alt. 670m, Surigao, Mindanao, April 1919, Ramos &
+Pascasio”. Merrill's observation that this specimen is a form of N. gracilis was logical. It evidently refers to
+the apetiolate, subamplexicaul leaf-blade and subglabrous state of the material which, together with the
+subcylindrical pitcher, with its narrowly cylindrical peristome and ovate-elliptic, unappendaged lid, are
+characters seen in N. gracilis Korthals (1840: 22). Until recently this combination of characters was unknown
+in the Philippines. However, recently a species has been described from Mindanao with these N. gracilis
+characters, this being N. micramphora. Our material, described below as N. abgracilis, can be distinguished
+from N. micramphora and N. gracilis as shown in table 1 below.
+TABLE 1. Diagnostic features separating Nepenthes micramphora, N. abgracilis, N. gracilis and N. cid.
+Nepenthes micramphora
+
+Nepenthes abgracilis
+
+Nepenthes gracilis
+
+Nepenthes cid
+
+Geographic distribution Philippines, SE Mindanao Philippines, NE
+Borneo, Sulawesi, Sumatra Philippines, N-Central
+(Mt Hamiguitan, Davaos Mindanao (Mt Legaspi, & Malay Peninsula
+Mindanao (Bukidnon
+Oriental Province)
+Surigao Province)
+Province)
+Habitat
+
+Undisturbed submontane
+ultramafic scrub
+
+Undisturbed
+submontane forest,
+probably ultramafic
+
+Disturbed lowland forest
+
+Undisturbed lower
+submontane forest
+
+Stem in cross-section
+
+Terete
+
+Terete
+
+Triangular
+
+Terete
+
+Stem diameter
+
+3.5 mm
+
+6.0–7.0 mm
+
+(1.5–)2.8(–5.0) mm
+
+3–4 mm
+
+3–4 mm
+
+6–13 mm
+
+Nil
+
+Widest in proximal half
+
+Widest in middle
+
+Width of decurrent leaf Nil
+wings at node
+Leaf blade shape
+
+Widest in distal half
+
+Widest in distal half
+
+Leaf blade size
+
+4.0–8.0 x 0.7–1.0 cm
+
+23.2–29.0 x 2.6–3.1 cm (6.5–)12–19 x (1.0–)1.5–
+2.8(–3.7) cm
+
+Upper pitcher shape
+and dimensions
+
+Upper pitchers broadest at Upper pitchers slightly
+either centre or at apex 4.0 broadest at base about
+(–6.7) cm long.
+16 cm long.
+
+Upper pitchers slightly
+Upper pitchers broadest
+broadest at base (4.5–)7.0– at base & apex (4.5–
+15.5cm long.
+)6.0–11.0 cm long
+
+Peristome width
+
+0.8 mm
+
+2.5 mm
+
+0.5 mm
+
+1–1.5(–2) mm
+
+Peristome inner edge
+(natural state)
+
+Teeth not visible
+
+Teeth not visible
+
+Teeth visible
+
+Teeth not visible
+
+Number of lid nectar
+glands
+
+>100
+
+>100
+
+(6–)20–30
+
+>100
+
+Lid nectar gland type
+
+Not recorded
+
+Thinly bordered
+
+Thickly bordered, dome
+shaped
+
+Thinly bordered
+
+Spur
+
+Branched
+
+Entire
+
+Entire
+
+Entire
+
+28 •
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+(9.0–)11.5–13.0(–14.0)
+× (1.2–)2.2–3.0 cm
+
+CHEEK & JEBB
+
+Nepenthes abgracilis Jebb & Cheek, sp. nov.
+Type:—PHILIPPINES. Mindanao, Surigao Province (not further localised), 670 m a.s.l., April 1919, Ramos & Pascasio
+in BS 34501B, (holotype UC!, photo K!) (Fig. 1).
+
+FIGURE 1. Nepenthes abgracilis A habit, stem with upper pitcher; B upper pitcher (from McPherson 2009); C tendril apex (pitcher not
+developed), indumentum; D outer surface of pitcher, with sessile glands; E nectar glands, lower surface of lid, midline (elongated); F
+nectar glands of lateral areas; G nectar glands, lid margin; H peristome, inner edge dissected (non-natural state); I peristome view from
+above; J peristome transverse section (inner surface on right); K lid, lower surface, midline ridge (probably artefact of drying). Scalebars: single = 1 mm; graduated single = 2 mm; double = 1 cm; graduated double = 5 cm (drawn by A. Brown from the type specimen).
+
+THE NEPENTHES MICRAMPHORA (NEPENTHACEAE) GROUP
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+• 29
+
+Diagnosis:—Nepenthes gracilis similis sed caulibus teretis (non triangularibus), peristomio 2–2.5 mm
+diametro ad marginem interiorem edentato (non ca. 0.5 mm diametro margine dentato) glandulis nectariferis
+in facie operculi inferiore >100 numero (non <30) distincta.
+Description:—Terrestrial climber to several metres tall. Rosette and short stems unknown. Climbing
+stems terete, lacking wings, 6–7 mm diam., internodes 15–18 mm long, indumentum absent, apart from
+moderately dense minute sessile depressed-globose red glands 0.05 mm diam; stem apex unknown. Leaves
+spirally inserted, coriaceous, apetiolate, narrowly oblanceolate-oblong, 23.2–29 × 2.6–3.1 cm, apex attenuate,
+base gradually attenuate to ca. 1.3 cm wide at base, clasping the stem for 3/4 to 4/5 its circumference, at an
+acute angle from the vertical, forming wings 0.3–0.4 cm wide and extending 0.9–1.2 cm below the leaf axil;
+longitudinal nerves 3–4 pairs on each side of the midrib in the outer ¾ of the blade, arising from the leaf base
+and along the midrib, visible only on adaxial surface; pennate nerves not visible, upper surface dark green,
+lower surface drying brown, moderately densely scattered with sessile glands as the stem, hairs absent. Lower
+and intermediate pitcher unknown. Upper pitchers (tendrils coiled) subcylindric ca. 16.4 cm × 5.5 cm,
+broadest at the slightly ellipsoid base, gradually and slightly constricting to 4.1 cm wide at the centre, before
+dilating to 5 cm wide below the peristome, outer surface yellow-green, with sessile glands as the stem, 3–4 per
+mm², hairs absent except a few inconspicuous simple hairs 0.05–0.10 mm long near peristome; fringed wings
+reduced to ridges running the length of the pitcher. Mouth ovate, ca. 6 × 4 cm, oblique; peristome cylindric,
+ca. 2.5 mm wide, red, faintly lobed, to 4 mm wide, 2 ridges per mm, ridges 0.1 mm high, inner and outer edges
+tightly in-rolled, teeth not visible; column short, not strongly developed, with holes visible at the inner edge;
+lid ovate-elliptic, ca. 5.2 × 4 cm, apex rounded to truncate, base rounded at base; lower surface suffused or
+blotched red, lacking an appendage, but with a basal ridge (probably an artefact of drying), ca. 10 mm long, 1
+mm, flat-topped; nectar glands more than 100, 95% or more monomorphic and relatively uniform in size,
+orbicular or slightly elliptic, 0.6–0.75(–0.9) × 0.4–0.5 mm, including a narrow rim ca. 0.05 mm wide; the
+basal ridge upper surface with circa 20 narrowly elliptic-oblong glands 0.75 × 0.25 mm; glands at the junction
+of blade with peristome, deeply sunken, lacking a rim, ca. 0.25 mm diam.; sessile glands as on stem evident
+only at the edge of the lid, few and inconspicuous; spur entire. Inflorescence and fruit unknown.
+Distribution & habitat:—Philippines, Mindanao, Surigao Province. Forested submontane ridges,
+probably ultramafic, 670 m a.s.l.
+Etymology:—The epithet abgracilis means ”from gracilis” referring to the type specimen that was early
+identified by Merrill (see above) as a form of the species of that name.
+Conservation status:—Nepenthes abgracilis is here assessed as Critically Endangered, under Criterion
+D of IUCN (2012). A single location is currently known (NE Mindanao). Although mining for metal ore
+occurs at the Mt Legaspi location, this is so far at lower altitudes than the species is known to occur
+(McPherson 2009). However, recent logging in Mindanao may have resulted in the extinction in the wild of
+one species recently (Cheek 2011). It is hoped that further observations will show that N. abgracilis is more
+common and widespread than present data suggest.
+Nepenthes cid Jebb & Cheek, sp. nov. Type:—PHILIPPINES. Mindanao, Bukidnon, Dalvangan, 26 Dec. 1952,
+Cid 8 (holotype L!; photo.K, isotype PNH) (Fig. 2).
+Diagnosis:—A N. micramphora caulibus foliis ascidiisque indumentosis (non glabris), ascidiis subcylindricis
+plerumque in medio constrictis (non infundibuliformibus) supremis alis conspicuis fimbriatis obsitis (non
+carentibus).
+Description:—Epiphytic shrublet high in trees, 0.1–0.5 m tall. Stems several from a woody rootstock ca.
+2 × 5 × 2 cm, roots numerous, stout, 2 mm diam. Rosette shoots and climbing stems not seen, short stems
+terete, 3–4 mm in diameter, internodes 1.5–2.5 cm long, axillary buds not seen, moderately densely and
+persistent hairy in distal internodes, hairs white, covering ca. 50% of the surface, hairs 0.2–1.0 mm long,
+mainly simple, some with 2–6 erect branches from the base, either all equal or with a bristle hair longer than
+the others, intermixed with dark red depressed globose sessile glands 0.05 mm in diameter. Leaf blades
+chartaceous, drying brown on both sides, oblong-elliptic, (9.0–)11.5–13.0(–14.0) × (1.2–)2.2–3.0 cm, apex
+
+30 •
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+CHEEK & JEBB
+
+acute, not peltate, base decurrent, longitudinal nerves 2(–3) pairs in the outer half of the blade, arising from
+the base of the midrib, conspicuous on the upper surface; pennate nerves moderately numerous and
+conspicuous on the upper surface, more or less patent; midrib on both surfaces moderately densely hairy (ca.
+20% cover) with white, simple, mostly appressed hairs 0.2–0.4(–0.5) mm long, on lower surface, 0.3–1.0 mm
+long, on upper surface, the leaf-blade otherwise with sparse simple hairs and moderately dense depressed
+globose red-black glands 0.05 mm diam. Petiole 2.5–4.0 × 0.4–0.5 cm, wings held flat or slightly u-shaped,
+clasping the stem for ½ its circumference, not, or very slightly decurrent, indumentum as leaf-blade. Tendril
+>50% covered in appressed hairs 0.25–1 mm long, hairs simple or basally branched, arms equal or with one
+long and bristle-like (Fig. 2E). Lower pitchers not seen. Intermediate and Upper pitchers (tendrils not fully
+coiled) subcylindrical in outline (4.5–)6.0–11.0 × 1.9–2.8 cm, often with the basal 1/2–3/5 ellipsoid,
+narrowing gradually and slightly about the middle to ca. 1.6 cm wide before widening slightly to the
+peristome, outer surface 10–30% covered in minute, 4–5-armed, stellate hairs 0.1 mm diam., mixed with
+sparse minute simple hairs and larger basally branched hairs 0.4 mm long, together with depressed globose
+glands 0.05 mm in diameter; fringed wings running from the peristome to within 1–2 cm of the base of the
+pitcher, 1.8–2.0 mm wide, fringed elements (0.5–)1.0(–1.5) mm long, 3–4 mm apart, held close to the pitcher
+surface; mouth ovate 1.1–2.1 × 1.8–2.8 cm, moderately oblique, straight to slightly concave. Peristome
+cylindrical 1–1.5(–2) mm wide, even in width from front to lid, 3 ridges per mm, ridges 0.10–0.15 mm high,
+inner edge in life inconspicuous, incurved, (Fig. 2J), when dissected and unrolled, with a line of holes, teeth
+absent (Fig.2 L&K), outer edge not lobed; column not developed. Lid orbicular 1.9–2.2(–2.8) × 1.8–2.0 cm,
+apex emarginate or rounded, base rounded or weakly cordate, lower surface lacking a basal ridge or
+appendage, drying brown; nectar glands more or less monomorphic and evenly and moderately distributed
+over the lower surface of the lid, 1.5–3 nectar glands per mm², glands large, orbicular or slightly
+longitudinally elliptic, borders low, rounded, (0.3–)0.4–0.6 mm long, lacunae drying black, glossy; glands
+slightly denser along the midline and more diffuse at the margin; red sessile peltate or depressed-globose
+glands 0.05 mm diam., scattered evenly; marginal areas with minute inconspicuous branched hairs. Spur
+simple, tapering from base to apex, acute, 4–5 mm long, moderately to densely hairy. 10–20% covered in
+simple hairs 0.2 mm long. Inflorescence and Infrutescence unknown.
+Etymology:—The specific epithet is dedicated to the collector of the type specimen, F. Cid (fl. 1952) of
+the Herbarium of the Department of Botany, University of the Philippines.
+Distribution & ecology:—Philippines, Mindanao, Bukidnon; lower submontane forest, on tall trees.
+Elevation 770 m.
+Conservation:—Nepenthes cid is currently known from one location in a country where most of the
+original forest habitat has been cleared for timber and agricultural land (Myers et al. 2000) and where forest
+degradation and clearance are ongoing. Intensive industrial pineapple plantations extending SE along the
+valley from Cagayan de Oro appear to be the main pressure on natural habitat at the type locality, as viewed
+on GoogleEarth (viewed 2 Oct. 2013). The population found include less than ten individuals (two), so N. cid
+is here assessed as Critically Endangered under Criterion D of IUCN (2012). It is hoped that additional
+locations for this species will be found and that one or more can be protected to ensure the survival of this
+species. However it is a concern that despite much searching by many enthusiasts in the last 10 years,
+including in the Bukidnon area (e.g. McPherson 2009), this species has not been collected in the last 60 years.
+This span corresponds with the peak period of forest destruction in the Philippines (Sohmer & Davis 2007). It
+is possible that N. cid is already globally extinct.
+Notes:—Excepting for Nepenthes cid, and N. truncata Macfarlane (1911: 209), all other species of
+Nepenthes known from Mindanao are mainly terrestrial, although a few can sometimes root on the base of
+trunks of stunted trees in mossy forest on mountain peaks. However, examples of high epiphytes such as N.
+cid, on tall trees in lower submontane forest (700 m a.s.l) are rarer. Potentially N. cid could be more common
+than the sparsity of the existing material indicates, but due to its inaccessibility on tall trees is rarely seen.
+Nepenthes cid remains incompletely known to science. Botanists in Mindanao are urged to search for this
+species to establish whether or not it survives, to reveal its full range and to obtain collections with
+inflorescences, thus far unknown.
+THE NEPENTHES MICRAMPHORA (NEPENTHACEAE) GROUP
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+• 31
+
+FIGURE 2. Nepenthes cid A habit, showing the whole plant, with woody rootstock; B lower surface of leaf-blade showing simple
+hairs and sessile globose glands; C stem, showing hairs; D tendril, showing hairs; E detail of D showing individual 'dagger hairs'; F
+outer surface of pitcher showing minute stellate hairs; G lower surface of pitcher lid; H nectar glands from midline of lid; I nectar
+glands from near periphery of lid; J peristome, viewed from above; L & K peristome, after dissection, rolled back to expose inner edge
+with holes (normally concealed); M peristome, transverse section, outer edge to right; N junction of lid and peristome, with spur. Scalebars: single = 1 mm; graduated single = 2 mm; double = 1 cm; graduated double = 5 cm (drawn by A Brown from the type specimen).
+
+32 •
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+CHEEK & JEBB
+
+Key to the species of the N. micramphora group
+1.
+2.
+-
+
+Epiphyte of tall trees; stems, leaves and pitcher hairy; leaves with distinct petiole 2.5–4 cm long...................... N.cid
+Terrestrial shrub or climber; stems, leaves and pitchers (except under peristome) glabrous; leaves without a distinct
+petiole (sessile).............................................................................................................................................................. 2
+Upper pitchers subcylindric, widest at base, about 16 cm long ................................................................. N. abgracilis
+Upper pitchers infundibuliform, narrowest at base, widest in upper half, 4(–6.7) cm long..................N.micramphora
+
+Acknowledgements
+Tim Utteridge (London) advised studying the UC specimens which resulted in the discovery of N. abgracilis.
+Janis Shillito typed the manuscript (London). Mark Coode (Edinburgh) translated the Latin and gave advice
+on historic collection data. Duilio Iamonico (Rome) gave advice on structuring the paper. Two unknown
+reviewers made valuable suggestions on an earlier draft of this manuscript. Eimear Nic Lughadha (London)
+made helpful comments on the introductory pages.
+
+References
+Adam, J.H. (1998) Reproductive biology of Bornean Nepenthes (Nepenthaceae). Journal of Tropical Forest Science
+10(4): 456–471.
+Blanco, M. (1837) Flora de Filipinas. En la Inprenta de Sto. Thomas por D. Candido Lopez, Manila, 887pp.
+Cheek, M. (2011) Nepenthes robcantleyi sp. nov. (Nepenthaceae) from Mindanao, Philippines. Nordic Journal of Botany
+29: 677–681
+http://dx.doi.org/10.1111/j.1756-1051.2011.01449.x
+Cheek, M. & Jebb, M. (1999) Nepenthes (Nepenthaceae) in Palawan, Philippines. Kew Bulletin 54: 887–895.
+http://dx.doi.org/10.2307/4111166
+Cheek, M. & Jebb, M. (2001) Nepenthaceae. In: Nooteboom, H.P. (ed.) Flora Malesiana 15. Nationaal Herbarium
+Nederland, Leiden, 157pp.
+Cheek, M. & Jebb, M. (2013a) Identification and Typification of Nepenthes blancoi Blume, with N. abalata sp. nov.
+from the Western Visayas, Philippines. Nordic Journal of Botany 31: 151–156.
+http://dx.doi.org/10.1111/j.1756-1051.2012.00012.x
+Cheek, M. & Jebb, M. (2013b) Nepenthes alzapan (Nepenthaceae), a new species from Luzon, Philippines. Phytotaxa
+100(1): 57–60
+http://dx.doi.org/10.11646/phytotaxa.100.1.6
+Cheek, M. & Jebb, M. (2013c) Nepenthes ramos (Nepenthaceae), a new species from Mindanao, Philippines.
+Willdenowia 43(1): 107–111.
+http://dx.doi.org/10.3372/wi.43.43112
+Cheek, M. & Jebb, M. (2013d) Typification and redelimitation of Nepenthes alata Blanco with notes on the N. alata
+group, and N. negros sp. nov. from the Philippines. Nordic Journal of Botany (in press).
+http://dx.doi.org/10.1111/j.1756-1051.2012.00099.x
+Clarke, C.M. (1997) Nepenthes of Borneo. Natural History Publications (Borneo), Kota Kinabalu, 207pp.
+Druce, G.C. (1916) Nepenthes mirabilis. Botanical Exchange Club of the British Isles Report 4: 637.
+Grafe, T.U., Schöner C.R., Kerth, G., Junaidi, A. & Schöner, M.G. (2011) A novel resource–service mutualism between
+bats and pitcher plants. Biology Letters 7(3): 436–439.
+http://dx.doi.org/10.1098/rsbl.2010.1141
+Heinrich, V., McPherson, S.P., Gronemeyer, T. & Amoroso, V.B. (2009) Nepenthes micramphora (Nepenthaceae), a new
+species of Nepenthes L. from southern Mindanao, Philippines. In McPherson S. (ed.) Pitcher Plants of the Old
+World 2. Redfern Natural History Publications, Dorset, pp. 1314–1319.
+Hooker, J.D. (1873) Nepenthaceae. In: de Candolle A. (ed.) Prodromus Systematis Naturalis Regni Vegetabilis 17.
+Editor, City, pp. 90–105.
+IPNI (2013 continuously updated) The International Plant Names Index. Available from: http://www.ipni.org/ (accessed:
+11 August 2013)
+IUCN (2012) IUCN Red List Categories and Criteria: Version 3.1. Prepared by the IUCN Species Survival Commission,
+Gland.
+
+THE NEPENTHES MICRAMPHORA (NEPENTHACEAE) GROUP
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+• 33
+
+Jebb, M. (1991) An account of Nepenthes in New Guinea. Science in New Guinea. 17 (1): 7–54.
+Jebb, M. & Cheek, M. (1997) A Skeletal Revision of Nepenthes. Blumea 42: 1–106.
+Korthals, P.W. (1840) Over het geslacht Nepenthes. In: Temminck C.J. (ed.) Verhandelingen over de Natuurlijke
+Geschiedenis der Nederlandsche overzeesche bezittingen; Kruidkunde. Editor, Leiden, pp. 22.
+Lian, L.C. (1995) Conservation studies with Nepenthes macfarlanei Hemsl. in Peninsular Malaysia. PhD thesis,
+University of Bath, 235 pp.
+Lindley, J. (1849) Familiar Botany-The Pitcher Plant. The Gardener’s Chronicle 37: 579−581.
+Linnaeus, C. (1753) Species Plantarum 2. Laurentii Salvii, Stockholmiae, 1200 pp.
+Linnaeus C. (1759) Systemae Naturae 2: Laurentii Salvii, Stockholmiae
+Loureiro J. (1790) Genus Phyllamphora pp. 606–607 in Flora Cochinchinensis. 2. Ulyssipone.
+Macfarlane, J.M. (1908) Nepenthaceae. In: Engler A. (ed.) Das Pflanzenreich Heft 36, 4, 3: 1–92.
+Macfarlane, J.M. (1911) New species of Nepenthes. Transactions and Proceedings of the Botanical Society of
+Pennsylvania 3: 207–210.
+McPherson, S. (2009) Pitcher Plants of the Old World 2. Redfern Natural History Publications, Dorset, 1399 pp.
+McPherson, S. & Gronemeyer, T. (2008) Die Nepenthesarten der Philippinen Eine Fotodokumentatich. Das Taublatt 60:
+34–79.
+Myers, N., Mittermeier, R.A., Mittermeier, C.G., Da Fonseca, G.A.B. & Kent, J. (2000) Biodiversity Hotspots for
+Conservation Priorities. Nature 403: 853–858.
+Sohmer, S.H. & Davis, A.P. (2007) The Genus Psychotria (Rubiaceae) in the Philippine Archipelago. Sida 27: 1−247pp.
+Stace, C.A. (1991) Plant Taxonomy & Biosystematics. Cambridge University Press, Cambridge, 264 pp.
+Thiers, B. (2011 continuously updated) Index Herbariorum: A global directory of public herbaria and associated staff.
+New York Botanical Garden's Virtual Herbarium. Available from: http://sweetgum.nybg.org/ih/ (accessed: 11
+August 2013).
+
+34 •
+
+Phytotaxa 151 (1) © 2013 Magnolia Press
+
+CHEEK & JEBB
+
+

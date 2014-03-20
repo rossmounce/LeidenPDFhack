@@ -1,0 +1,203 @@
+Phytotaxa 100 (1): 36–40 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.100.1.4
+
+Clusia nitida, a new species of Clusia (Clusiaceae) from the Brazilian Amazon
+VOLKER BITTRICH1, FERNANDA NUNES CABRAL2 & MICHAEL JOHN GILBERT HOPKINS3
+1
+
+R. Mario de Nucci, 500, 13083-290 Campinas, SP, Brasil. E-mail: folcar2007@gmail.com
+Departamento de Biologia Vegetal, Instituto de Biologia, Universidade Estadual de Campinas, Cidade Universitária Zeferino Vaz,
+Rua Monteiro Lobato, 255, 13083-862, Campinas, SP, Brasil. E-mail: nandancb@gmail.com
+3
+Coordenação de Biodiversidade, Instituto Nacional de Pesquisas da Amazônia, Av. André Araújo, 2.936, Petrópolis, Cx. Postal 2223,
+CEP 69060-001, Manaus, AM, Brasil. E-mail: mikehopkins44@hotmail.com
+2
+
+Abstract
+In this paper we describe and illustrate Clusia nitida, a new species from the Amazon with resin-producing flowers,
+similar to C. microstemon and C. myriandra.
+
+Introduction
+Clusia Linnaeus (1753: 510) (Clusiaceae s.s., tribe Clusieae) has about 300 exclusively neotropical species.
+Due to the poor knowledge of the Amazonian flora (Hopkins 2007, Schulman et al. 2007), the actual number
+may be much higher. Many species still not described also occur in the Andes (M. Gustafsson, pers. comm).
+For Brazil so far 67 species are listed (Bittrich 2013), but several undescribed species exist, for which only
+one of the sexes is known, impeding their formal description (pers. obs.).
+Clusias are trees, shrubs and hemi-epiphytes, usually dioecious, with the leaves more or less fleshy, and
+showy flowers, offering various types of rewards, including floral resin. The ovary locules have (1–)2 to many
+ovules. The fruits are septifragal fleshy capsules with usually two or more seeds per locule, the seeds are more
+or less completely covered by a non-vascularized aril. Due to the great variability of the male androecium, the
+species are generally much easier to recognize with male than with female flowers or with fruits. Therefore,
+the infrageneric classification of the genus, mostly confirmed as natural by modern data, was based especially
+on the morphology of the male androecium (Planchon & Triana 1860).
+In this paper we describe a new species of Clusia for the Amazon, apparently belonging to the section
+Phloianthera Planchon & Triana (1860: 319). Molecular data are still needed to confirm this placement, as
+there is some confusion in the literature concerning the delimitation of sections Phloianthera and
+Cordylandra Planchon & Triana (1860: 319). Sect. Cordylandra was even synonymized under sect.
+Phloianthera by Pipoly et al. (1998), but molecular data (Gustafsson et al. 2007) clearly indicates that these
+sections are not closely related. The new species here described belongs to a group of species with a flat disklike androecium in the staminate flowers, covered by a resin-pollen mixture, as occurs in Clusia renggerioides
+Planchon & Triana (1860: 350) and other species of sect. Cordylandra. None of these species supposedly
+belonging into sect. Phloianthera was hitherto included in a molecular phylogenetic study.
+
+Taxonomy
+Clusia nitida Bittrich & F. N. Cabral, sp. nov. (sect. Phloianthera) (Fig. 1 & Fig. 2)
+Diagnosis: Similar to Clusia microstemon, but dry leaves are darker coloured and generally have a shiny surface, the
+latex channels are denser on the adaxial surface, the midrib is conspicuous as far as to the apex, the petal colour is
+
+36 Accepted by Hans-Joachim Esser: 22 Apr. 2012; published online in PDF: 23 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+different and anthers are absent on the lateral part of the disk-like androecium. The new species is also similar to
+Clusia myriandra from which it differs by the leaf shape, the visibility of the latex channels on the leaves, the shorter
+peduncle and basal internodes in the inflorescence, the size of the fruits and the lesser number of seeds.
+Type:—BRAZIL. Roraima: Caracaraí, Parque Nacional do Viruá, White-sand vegetation, 1º24’50.7”N, 60º59’16.5”W,
+59 m, 15 October 2010, F.N. Cabral & V.S. Santos 298 (holotype INPA!).
+
+FIGURE 1. A. Disposition of leaves and inflorescences, F.N. Cabral 49 (Photo F.N. Cabral). B. Pistillate flower, F.N. Cabral 123
+(Photo F.N. Cabral). C. Staminate flower, F.N. Cabral 5 (Photo F.N. Cabral). D. Immature fruit, F.N. Cabral 197 (Photo F.N. Cabral).
+E. Mature fruit, N. Dávila 6129 (Photo N. Dávila).
+
+Trees, small trees or shrubs up to 6 m tall; sometimes with prop roots. Plants dioecious, latex white or cream;
+young branches cylindrical or more frequently subangular, surface not rugulose, but finely sulcate or with tiny
+longitudinal foldings, linear colleters present in the petiole axils, deciduous with the leaves. Petiole 4.0–16.0(–
+17.0) mm long, margin flat to revolute. Leaf blade coriaceous, discolorous, adaxial surface dark brown and
+shiny in sicco, oblong-elliptic, 40–85(–108) mm long and (18–)21–49(–53) mm wide, apex rounded, base
+attenuate, margin revolute; midrib prominent on the adaxial surface and conspicuous as far as the apex,
+secondary veins prominent on both surfaces, with (9–)12–26(–29) pairs, 1.5–4.0 mm distant from each other
+and at an angle of 35º–40º with the midrib, basal veins inconspicuous; latex canals concolorous on the adaxial
+surface or slightly darker than the blade, immersed, 0.3–0.7 mm distant from each other, flat to protruding on
+the abaxial surface, 0.8–1.0 mm distant from each other, forming an angle of about 25º with the midrib.
+Inflorescence cymose, compact, 3–9-flowered (staminate plants) or 3–7-flowered (pistillate plants), bracts
+and bracteoles united at the base, hemiorbicular, ca. 2 mm long, pedicels very short, ca. 2 mm long,
+quadrangular. Epicalyx bracts 2 (+2), united at base, sepals 4 (2+2), rarely 5 or 6 (2+3, 3+3), ± suborbicular,
+ca. 4–8 mm long and 4–8 mm wide. Petals 5–8, 6–13 x 6–12 mm, dark bordeaux or blood-red. Staminate
+flower with the androecium forming a thick, circular, flat disk, ca. 3–6 mm wide, composed of about 300
+densely compact stamens, the upper surface covered by a mixture of resin and pollen during anthesis,
+filaments 2.3–3.0 mm long, lateral region of the disk without anthers, anther dehiscence by apical or
+transverse slits. Pistillate flower with 3 or 4 series of staminodes around the base of the ovary, secreting resin
+at the apex; staminodes linear, 1.3–2.0 mm long, truncated at the apex, without sterile anthers; stigmas 4 or 5,
+
+CLUSIA NITIDA NEW SPECIES (CLUSIACEAE)
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 37
+
+apical, yellowish, obtusely triangular, flat, 2.5 mm long; ovary yellow, ovules 1 or 2(–3) per locule. Immature
+fruit oval to hemispherical, 15–22 x 13–19 mm, usually finely longitudinally striate with latex canals; sepals,
+staminodes and stigmas persistent, valve endocarp not conspicuously hardened. Seeds 1 or 2(–3) per locule,
+5.0–9.0 x 3.5–5.0 mm, green, aril orange.
+
+FIGURE 2. A. Disposition of leaves and inflorescences. B. Leaf venation and latex channels. C. Pistillate flower. D. Detail of pistil
+and staminodes. E. Longitudinal section of ovary. F. Staminate flower. G. Detail of androecium. H. Disposition of leaves and fruit. I.
+Immature fruit. J. Seed. A, F–G from F.N. Cabral 82; B–E & H–J from F.N. Cabral 23. Drawing by Klei Souza.
+
+38 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+BITTRICH ET AL.
+
+Comparison:—The most similar species is C. microstemon Planchon & Triana (1860: 331), which
+sometimes occurs sympatrically, and with which C. nitida has been confused. It has a wide distribution in the
+Amazon. The main difference between the species is the male androecium, which in C. microstemon has
+anthers at the lateral side of the androecial disk, whereas C. nitida has anthers only on its top. Other
+differences include the darker colour and the glossy appearance of the leaf surfaces in sicco in C. nitida; the
+androecium size, which is larger in C. microstemon; the flower colour, in C. microstemon the petals are
+reddish to pinkish-purple in the centre and white-pink on the edge and the calyx is white-pink, while in C.
+nitida the petals are dark bordeaux or blood-red and the calyx is green; C. microstemon has 4 or 5 ovules per
+locule, whereas C. nitida has only 1 or 2(–3) ovules per locule; the fruits of C. microstemon are slightly ovoid
+and in C. nitida they are generally cylindrical, and finally, C. microstemon has a lower density of latex
+channels on the leaves than in C. nitida and the midrib becomes invisible in the apical part of the leaves.
+Another similar species is C. myriandra (Bentham 1843: 368) Planchon & Triana (1860: 332) from the
+Guianas, which has a very similar androecium. However, C. myriandra has elongated and oblanceolate
+leaves, unlike C. nitida, which has shorter and more rounded broader leaves; the latex channels of the leaves,
+which are easily visible in C. nitida, are invisible in the strongly coriaceous leaves of C. myriandra; the
+peduncle and the basal internodes in the inflorescence are much longer in C. myriandra, positioning the
+inflorescence above the foliage and C. myriandra has more elongated and larger fruits than C. nitida with 10
+or more seeds per locule, while the fruit locules of C. nitida have only 1 or 2(–3).
+Etymology:—Latin nitidus = shiny, because the dried leaves generally have a conspicuously shiny
+surface, different from those of C. microstemon, the leaf surface of which is typically dull.
+Distribution and habitat:—In Brazil, Clusia nitida is known from the North Region, in the states of
+Amazonas and Roraima. Apparently, it has not yet been collected outside of Brazil. It mainly occurs in whitesand vegetation and at river margins in Amazonian lowlands.
+Additional specimens examined (paratypes):—BRAZIL. Amazonas: 2 km from Rio Cuieiras at km 2
+below mouth of Rio Branquinho, 02°45' S, 60°47' W, 14 September 1973, G.T. Prance et al. 17912 (GH!,
+INPA!, K!, MO!, NY!, S!, U!, US); Rio Cuieiras just below mouth of Rio Branquinho, 2°45' S, 60°27' W, 25
+September 1971, G.T. Prance et al. 14848 (MO, R!); Rio Cuieiras, 2 July 1975, A.B. Anderson 140 (INPA!,
+MG!, UEC!); s.loc., 27 April 1975, A.B. Anderson 177 (INPA!, NY!, UEC!); Rio Cuieiras, 9 October 1988, S.
+Mori & C. Gracie 19270 (INPA!); Manaus–Caracaraí km 130, 26 September 1974, G.T. Prance & F.
+Ehrendorfer 22749 (INPA!), 26 September 1974, G.T. Prance & F. Ehrendorfer 22750 (INPA!); Manaus–
+Caracaraí km 131, 1°59' S, 60°16' W, 1 December 1974, A. Gentry 12961 (GH!, INPA!, MG!, MO!, NY!); km
+140, 27 September 1973, C.C. Berg et al. P18180 (INPA!); km 125, 22 September 1977, W.A. Rodrigues &
+M.F. Silva 9765 (INPA!); km 115, 28 August 1977, W.A. Rodrigues 9717 (INPA!); Barcelos, margin of Rio
+Aracá next to mouth of Rio Jauari, 00°30' N, 63°30' W, 2 July 1985, I. Cordeiro 118 (INPA!, NY, UEC!); 3
+km S Central Massif of Serra Aracá, 00°49' N, 63°17' W, 18 July 1985, G.T. Prance et al. 29676 (INPA!, NY,
+UEC!); margin of Rio Aracá near Serrinha, 00°25' N, 63°23' W, 25 July 1985, G.T. Prance et al. 29767
+(INPA!, NY, UEC!); foothills of Central Massif of Serra Aracá, 00°49' N, 63°20' W, 12 July 1985, G.T. Prance
+et al. 29502 (INPA!, NY, UEC!); 5 km S Central Massif of Serra Aracá, 00°49' N, 63º17' W, 20 July 1985, G.T.
+Prance et al. 29699 (NY, UEC!). Roraima: 7 km south of Equator, BR 174, 00°05' S, 60°40' W, 14 June 1985,
+I. Cordeiro et al. 30 (INPA!, NY!); Manaus–Caracaraí km 522–524, 01°18' S, 60°35' W, 25 August 1987,
+C.A.C. Ferreira 9147 (INPA!, NY, UEC!); Parque Nacional do Viruá, 1º16' N, 60º58´ W, 25 November 2009,
+F.N. Cabral et al. 5 (INPA!, UEC!); Parque Nacional do Viruá, 1º29' N, 61º02´ W, 26 November 2009, F.N.
+Cabral et al. 23 (INPA!, UEC!); Parque Nacional do Viruá, 1º29' N, 61º02´ W, 26 November 2009, F.N.
+Cabral et al. 26 (INPA!, UEC!); Parque Nacional do Viruá, 1º28' N, 60º57´ W, 29 November 2009, F.N.
+Cabral et al. 49 (INPA!, UEC!); Parque Nacional do Viruá, 1º26' N, 61º01´ W, 2 December 2009, F.N. Cabral
+et al. 82 (INPA!, UEC!); Parque Nacional do Viruá, 1º23' N, 60º59´ W, 5 December 2009, F.N. Cabral et al.
+123 (INPA!, UEC!); Parque Nacional do Viruá, 1º16' N, 60º58´ W, 29 January 2010, F.N. Cabral et al. 197
+(INPA!, UEC!); Parque Nacional do Viruá, 1º14' N, 60º58´ W, 5 March 2010, N. Dávila et al. 6129 (INPA!).
+
+CLUSIA NITIDA NEW SPECIES (CLUSIACEAE)
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 39
+
+Probably also R.L. Fróes 25319, Rio Urubú, Peixe Boi, 02°05' S, 60°05' W, 20 September 1949 (IAN!)
+belongs to Clusia nitida, but the androecium of this specimen is hemispherically bulged similar as in Clusia
+hilariana Schlechtendal (1833: 181).
+
+Acknowledgements
+We would like to thank the financial support from INPA and CAPES (Projects PNADB and PROTAX). We
+also thank Alberto Vicentini for all the attention and support during our work and Klei Souza for the drawing.
+Special thanks to all the people who work at Parque Nacional do Viruá, specially Antônio Lisboa, Beatriz
+Lisboa, Sr. Iran and Valmiranda Souza Santos for being so helpful and kind during our field work.
+
+References
+Bentham, G. (1843) Contributions towards a Flora of South America.—Enumeration of plants collected by Mr.
+Schomburgk in British Guiana. London Journal of Botany 2: 359–378.
+Bittrich, V. (2013) Clusiaceae. In: Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro, Rio de
+Janeiro. Available from: http://floradobrasil.jbrj.gov.br/ (accessed: 11 April 2013).
+Gustafsson, M.H.G., Winter, K. & Bittrich, V. (2007) Diversity, phylogeny and classification of Clusia. In: Lüttge, U.
+(ed.) Clusia—A woody Neotropical genus of remarkable plasticity and diversity. Springer, New York, pp. 95–116.
+http://dx.doi.org/10.1007/978-3-540-37243-1_7.
+Hopkins, M.J.G. (2007) Modelling the known and unknown plant biodiversity of the Amazon Basin. Journal of
+Biogeography 34: 1400–1411.
+http://dx.doi.org/10.1111/j.1365-2699.2007.01737.x.
+Linnaeus, C. (1753) Species Plantarum. Laurentius Salvius, Stockholm, 1200 pp.
+Pipoly, J., Kearns, D. & Berry, P.E. (1998) Clusia. In: Berry, P.E., Holst, B. & Yatskevych, K. (eds.) Flora of the
+Venezuelan Guayana 4. Caesalpiniaceae–Ericaceae. Missouri Botanical Garden, St. Louis, pp. 260–294.
+Planchon, J.E. & Triana, J. (1860) Mémoire sur la famille de Guttifères. Annales des Sciences Naturelles, Botanique,
+Séries IV, 13: 303–376.
+Schlechtendal, D.F.L. von (1833) De plantis in expedition especulatoria Romanzoffiana et in herbariis Regiis observatis
+dicere pergitur. Guttiferae auctore D. de Schlechtendal. Linnaea 8: 180–192.
+Schulman, L., Toivonen, T. & Ruokolainen, K. (2007) Analysing botanical collecting effort in Amazonia and correcting
+for it in species range estimation. Journal of Biogeography 34: 1388–1399.
+http://dx.doi.org/10.1111/j.1365-2699.2007.01716.x.
+
+40 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+BITTRICH ET AL.
+
+

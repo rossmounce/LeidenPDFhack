@@ -1,0 +1,114 @@
+Phytotaxa 152 (1): 48–49 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.152.1.4
+
+Notes on Early Land Plants Today. 45. A correction
+JIŘÍ VÁŇA1, LARS SÖDERSTRÖM2, ANDERS HAGBORG3 & MATT VON KONRAT3
+1
+
+Department of Botany, Charles University, Benátská 2, CZ-12801 Praha 2, Czech Republic; email: vana@natur.cuni.cz
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+3
+Science and education, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Váňa et al. (2013) elevated Anastrophyllum subgen. Schizophyllum (Schuster 1969: 739) to generic rank as
+Schizophyllum (R.M.Schust.) Váňa & L.Söderstr. (2013: 16), overlooking the genus Schizophyllum Nuttall
+(1841: 452; Asteraceae) and, thereby creating an illegitimate later homonym. This is corrected here by
+publication of the new genus Schizophyllopsis and the transfer of all species of Schizophyllum (R.M.Schust.)
+Váňa et al. to that genus. Despite the generic name itself being illegitimate, names published under
+Schizophyllum (R.M.Schust.) Váňa & L.Söderstr. are legitimate under ICN Art. 55.1 (see below).
+The format of this note follows what is outlined in Söderström et al. (2012) except that the Melbourne
+code of nomenclature (ICN; McNeill et al. 2012) is followed instead of the Vienna code (ICBN; McNeill et al
+2006).
+
+Formal treatment
+Schizophyllopsis Váňa et L.Söderstr., gen. nov.
+Nom. nov. pro Anastrophyllum subgen. Schizophyllum R.M.Schust., Hepat. Anthocerotae N. Amer. 2: 739, 1969
+(Schuster 1969).
+Type:—Anastrophyllum sphenoloboides R.M.Schust.
+≡ Schizophyllum Váňa et L.Söderstr., Phytotaxa 81: 16, (Váňa et al. 2013), nom. illeg. (ICN Art. 53.1; non Nutt. 1841,
+Trans. Amer. Philos. Soc., n.s. 7: 452, Asteraceae).
+
+Schizophyllopsis aristata (Herzog ex N.Kitag.) Váňa et L.Söderstr., comb. nov.
+Basionym:—Anastrophyllum bidens var. aristatum Herzog ex N.Kitag., J. Hattori Bot. Lab. 33: 216, 1970 (Kitagawa
+1970).
+Type:—BORNEO. Sarawak: Dulit Ridge, 1300 m, on tree-trunk, P. W. Richards 1908 (holotype JE!).
+≡ Schizophyllum aristatum (Herzog ex N.Kitag.) Váňa et L.Söderstr., Phytotaxa 81: 16 (Váňa et al. 2013).
+
+Schizophyllopsis bidens (Reinw., Blume et Nees) Váňa et L.Söderstr., comb. nov.
+Basionym:—Jungermannia bidens Reinw., Blume et Nees, Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur.
+12: 208, 1825 [1824] (Reinwardt et al. 1824).
+Type:—INDONESIA. Java (holotype STR, isotype W-Lindenb. Hep. 1618!).
+≡ Schizophyllum bidens (Reinw., Blume et Nees) Váňa et L.Söderstr., Phytotaxa 81: 16 (Váňa et al. 2013).
+
+Schizophyllopsis lanciloba (Steph.) Váňa et L.Söderstr., comb. nov.
+Basionym:—Anastrophyllum lancilobum Steph., Sp. Hepat. (Stephani) 6: 107, 1917 (Stephani 1917).
+Type:—TAHITI. Temarii, hb Levier 3161b. (holotype G-10890!, isotypes FH!, FI!).
+≡ Schizophyllum lancilobum (Steph.) Váňa et L.Söderstr., Phytotaxa 81: 16 (Váňa et al. 2013).
+
+Schizophyllopsis papillosa (J.J.Engel et Braggins) Váňa et L.Söderstr., comb. nov.
+Basionym:—Anastrophyllum papillosum J.J.Engel et Braggins, J. Bryol. 20: 381, 1998 (Engel & Braggins 1998).
+
+48 Accepted by Christine Cargill: 28 Oct. 2013; published: 11 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Type:—NEW ZEALAND. North Is.: Wellington Prov., Tongariro Natl. Park, Soda Springs, Mangatepopo Stream, N. E.
+of Whakapapa Village, 1350 m, Braggins 97/106B (holotype F, isotypes AK, CHR-558817).
+≡ Schizophyllum papillosum (J.J.Engel et Braggins.) Váňa et L.Söderstr., Phytotaxa 81: 16 (Váňa et al. 2013).
+
+Schizophyllopsis sphenoloboides (R.M.Schust.) Váňa et L.Söderstr., comb. nov.
+Basionym:—Anastrophyllum sphenoloboides R.M.Schust., Hepat. Anthocerotae N. Amer. 2: 741, 1969 (Schuster 1969).
+Type:—NW. GREENLAND. Kangerlugssuak, Inglefield Bay, RMS 45984 (F-1079638, isotypes C!, TNS!).
+≡ Schizophyllum sphenoloboides (R.M.Schust.) Váňa et L.Söderstr., Phytotaxa 81: 17 (Váňa et al. 2013).
+
+Acknowledgements
+We thank David Glenny for bringing this issue to our attention. The Early Land Plants Today project (ELPT)
+has been generously supported in part by the Global Biological Information Facility (GBIF) Seed Money
+Award No.2007-41, activities facilitated in part by funding from the Biodiversity Synthesis Center of the
+Encyclopedia of Life (BioSynC), partial funding from the National Science Foundation (Award No's
+0749762, 1115002), the Warwick Foundation, and the Negaunee Foundation.
+
+References
+Engel, J.J. & Braggins, J.E. (1998) Austral Hepaticae. 27. The genus Anastrophyllum (Spruce) Steph. (Jungermanniales)
+in Australasia, with a synopsis of austral taxa. Journal of Bryology 20: 371–388.
+Kitagawa, N. (1970) Lophoziaceae of North Borneo. Journal of the Hattori Botanical Laboratory 33: 203–221.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+146: 1–260.
+Nuttall, T. (1841) Descriptions of new species and genera of plants in the natural order of the Compositae, collected in a
+tour across the continent to the Pacific, a residence in Oregon, and a visit to the Sandwich Islands and upper
+California, during the years 1834 and 1835. Transactions of the American Philosophical Society, n.s. 7: 283–453.
+Reinwardt, C.G.C., Blume, C.L. & Nees von Esenbeck, C.G. (1824) Hepaticae Iavanicae, editae coniunctis studiis et
+opera. Nova Acta Physico-medica Academiae Caesareae Leopoldino-Carolinae Naturae Curiosorum 12 “1825”:
+181–238.
+Schuster, R.M. (1969) The Hepaticae and Anthocerotae of North America. vol. II. Columbia University Press, New York,
+1062 pp.
+Stephani, F. (1917) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 1–128.
+Váňa, J., Söderström, L., Hagborg, A. & von Konrat, M.J. (2013) Notes on Early Land Plants Today. 30. Transfer of
+some taxa from Anastrophyllum (Anastrophyllaceae, Marchantiophyta). Phytotaxa 81: 15–18.
+http://dx.doi.org/10.11646/phytotaxa.81.1.6
+
+A CORRECTION
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 49
+
+

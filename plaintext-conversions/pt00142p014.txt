@@ -1,0 +1,787 @@
+Phytotaxa 142 (1): 1–14 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.142.1.1
+
+Annea gen. nov. (Detarieae, Caesalpinioideae, Leguminosae): a home for two
+species long misplaced in Hymenostegia sensu lato
+BARBARA A. MACKINDER1,2 & JAN J. WIERINGA3,4
+1
+
+Herbarium, Library, Art and Archives, Royal Botanic Gardens Kew, Richmond, Surrey, TW9 3AE, UK;
+corresponding author E-mail:B.mackinder@kew.org
+2
+Tropical Biodiversity Group, Royal Botanic Garden Edinburgh, EH3 5LR, UK
+3
+Biosystematics Group, Wageningen University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands;
+Jan.Wieringa@wur.nl
+4
+Naturalis Biodiversity Centre (section NHN), Herbarium Vadense, Wageningen University, Generaal Foulkesweg 37, 6703 BL
+Wageningen, The Netherlands
+
+Abstract
+A new genus Annea is described to accommodate two tropical African legume species previously misplaced in
+Hymenostegia (Leguminosae, Caesalpinioideae, Detarieae). Annea gen. nov. is widespread in tropical Africa but has an
+unusual disjunct generic distribution, occurring in both upper and lower Guinea but absent from Gabon. Annea afzelii
+accounts for the generic range in Upper Guinea extending as far east as Equatorial Guinea in the Lower-Guinea region
+whereas A. laxiflora occupies the southern part of Lower Guinea and shows a preference for drier habitats than the more
+wide ranging A. afzelii. Hymenostegia dinklagei, a synonym of A. afzelii is neotypified. Neither species of Annea
+qualifies for a category of threat and both are assessed here as Least Concern (LC) according to IUCN criteria.
+Scorodophloeus, another exclusively tropical African genus is sister to Annea. Two tables of characters are included, one
+comparing the morphologies of Annea, Scorodophloeus and Hymenostegia sensu stricto and another providing
+morphological characters that can be used to separate the two species of Annea. A distribution map of Annea, an
+illustration of A. afzelii and photographs of A. laxiflora are presented.
+Key words: Amherstieae, Conservation, Fabaceae, Taxonomy, Neotype, Tropical Africa
+
+Introduction
+Leguminosae is the most species rich flowering plant family in tropical Africa (Lebrun & Stork 1998) and is
+currently recognised as three subfamilies, Caesalpinioideae, Mimosoideae and Papilionoideae. Many species
+of subfamily Caesalpinioideae are ecological dominants of African forest and woodland (White 1983).
+Together, caesalpinioid legumes number c. 2900 species in 171 genera and are traditionally arranged in four
+tribes. The largest tribe, Detarieae, contains 82 accepted genera as enumerated by Mackinder (2005) but with
+the addition of Isomacrolobium by Breteler (2010) and the removal of Pellegriniodendron which was
+synonymised with the genus Gilbertiodendron by Estrella et al. (2012).
+At least two detarioid genera, Hymenostegia sensu lato and Cynometra sensu lato are not natural groups
+as currently defined (Bruneau et al. 2000, 2001, 2008; Mackinder et al. 2010). Hymenostegia sensu lato is an
+exclusively African genus, principally of trees of lowland forest, currently comprising 18 species. Of those
+18, only ten may be congeneric with the type (Mackinder et al. 2010; Wieringa and Mackinder 2012,
+Mackinder and Wieringa 2013; Wieringa et al. 2013). Species presently assigned to the genus in its broad
+circumscription are morphologically diverse in several respects but all have paripinnate leaves and bear
+persistent paired petaloid bracteoles which are usually large and showy.
+
+Accepted by Vidal Mansano: 12 Sept. 2013; published: 1 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+This paper is a further step towards improving the classification of the species diversity currently
+contained within Hymenostegia sensu lato (Mackinder et al. 2010). Based on morphological and molecular
+evidence, we describe the genus Annea Mackinder & Wieringa to accommodate two species H. afzelii (Oliver
+1871: 318) Harms in Engler & Prantl (1897: 193) and H. laxiflora (Bentham 1865: 318) Harms in Engler &
+Prantl (1897: 193) which we transfer here as A. afzelii (Oliv.) Mackinder & Wieringa and A. laxiflora (Benth.)
+Mackinder & Wieringa respectively.
+
+Justification for the recognition of Annea as a distinct taxon
+Evidence from Morphology
+In a study of vegetative morphological characters of Hymenostegia sensu lato and putative allies,
+Mackinder et al. (2010) predicted that of the 15 species treated by Léonard (1951), only seven belonged in the
+genus. Those seven species, the type species H. floribunda and six others, were congeneric (Hymenostegia
+sensu stricto) based on a shared unique combination of character states: (i) stipules conspicuous, the upper
+part narrowly oblong or linear; (ii) stipules free; (iii) stipule base auriculate; (iv) leaves with channelled
+rachises and (v) abaxial leaf surface appressed puberulous. Hymenostegia (Annea) afzelii and Hymenostegia
+(Annea) laxiflora were excluded from core Hymenostegia because they shared only two or three of the seven
+character states respectively with Hymenostegia sensu stricto.Based on their very similar morphologies were
+predicted to be sister species (Mackinder et al. 2010).
+When Léonard (1951) published the only taxonomic account of Hymenostegia sensu lato to treat the
+genus across its full geographic range, he distinguished Annea afzelii and A. laxiflora from the other 13
+species known then, as having “leaves 1–2-jugate, in the latter case the lower pair much smaller than the
+upper pair”. In Annea, 2-jugate leaves are considerably more common than 1-jugate leaves. The disparity in
+size of the upper and lower leaflet pairs, along with the often distinctly rhombate shape of the upper leaflet
+pair routinely allows collectors to recognise Annea species in the field even when sterile. Whilst we have not
+discovered any unique floral characters that distinguish Annea from other African detarioid genera, Annea can
+be separated using the unique combination of persistent petaloid bracteoles whose adaxial surfaces touch
+when enclosing the bud prior to anthesis, and an ovary stipe that is fused to the side wall of the hypanthium.
+Evidence from chloroplast sequence data
+During the last decade, phylogenetic studies of caesalpinioid legumes based on chloroplast nucleotide
+sequence data (Bruneau et al., 2000, 2001, 2008; Mackinder et al. 2010) sampled eight, eight, five and eleven
+species of Hymenostegia sensu lato respectively and in each case resolved Hymenostegia sensu stricto species
+as a monophyletic group but Hymenostegia sensu lato as polyphyletic. Annea afzelii (as Hymenostegia afzelii)
+was one of five Hymenostegia species included in all four studies and was consistently placed outside the
+Hymenostegia sensu stricto clade. However, no suitable material of Annea laxiflora was available for those
+studies because (until very recently) A. laxiflora had not been collected since 1974 (Dechamps, Murta & M.
+da Silva 1586 & 1587, Angola, Cuanza Sul, à 35km de Gabela vers Novo Redondo (BR, WAG)).
+Consequently, the cited studies were not able to test the morphological hypothesis of Mackinder et al. (2010)
+that A. laxiflora and A. afzelii are sister species.
+In October 2010, a collection of A. laxiflora was made in the Mayombe Hills of Congo Brazzaville
+(M’Boungou 398) from which nucleotide sequence data were generated. Phylogenetic analysis recovered
+Annea laxiflora as the sister species of A. afzelii (Mackinder et al. 2013) and the Annea species pair was
+resolved in turn as sister to a clade comprising all three species of the genus Scorodophloeus. All the
+relationships were robustly supported. The Scorodophloeus-Annea generic pair was placed in a
+phylogenetically distant position from Hymenostegia sensu stricto, in the Scorodophloeus clade (Mackinder
+et al. 2013) with Micklethwaitia Lewis & Schrire (2004: 166) and Gabonius Wieringa & Mackinder
+(Wieringa et al. 2013). A close phylogenetic relationship between Scorodophloeus (represented by S. zenkeri)
+and Annea (as Hymenostegia afzelii) was first indicated by Bruneau et al. (2000).
+
+2 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+MACKINDER & WIERINGA
+
+Choice of taxonomic rank
+As Scorodophloeus and Annea together form a monophyletic group (Mackinder et al. 2013), it would be
+plausible from an evolutionary standpoint to transfer Annea species to Scorodophloeus to produce a single
+genus of five species. However, Scorodophloeus is a homogenous genus and the three species, S. zenkeri, S.
+fischeri and S. torrei can readily be distinguished from Annea species by several morphological characters.
+Furthermore, placing these five species in a single genus would produce a taxon for which a workable
+morphological delimitation would be very difficult to devise. Apparently, no apomorphic morphological
+characters are associated with the lineage from which Scorodophloeus and Annea arose, which may explain
+why this sister relationship had not been recognized prior to molecular studies. A comparison of
+morphological characters that can be used to distinguish Annea both from Scorodophloeus and Hymenostegia
+sensu stricto is presented (Table 1).
+TABLE 1. Comparative morphologies of Hymenostegia sensu stricto, Annea and Scorodophloeus.
+Genus
+Character
+
+Annea gen. nov.
+
+Scorodophloeus
+
+Hymenostegia sensu stricto
+
+Stipules conspicuous or inconspicuous
+
+inconspicuous
+
+conspicuous in young
+foliage, then falling
+
+conspicuous in young foliage,
+persistent in some species
+
+Stipules free or fused at base
+
+fused
+
+free
+
+free
+
+Stipule base auriculate or not
+
+not auriculate
+
+not auriculate
+
+auriculate
+
+Number of leaflets
+
+2–4
+
+3–20
+
+8–50
+
+Petal colour
+
+pale to lemon yellow
+
+white (but not recorded in
+S. torrei)
+
+commonly white to yellow,
+rarely green
+
+opposite
+
+alternate
+
+opposite
+
+Bracteole shape
+
+broad
+
+narrow
+
+narrow to broad
+
+Bracteole enclosing the bud before anthesis
+
+enclosing
+
+not enclosing
+
+enclosing
+
+Presence of imbricate bud scales
+
+absent
+
+absent
+
+present
+
+Bracteole persistence
+
+persisting after
+anthesis
+
+fallen before anthesis
+
+persisting after anthesis
+
+Leaflets opposite or alternate
+a
+
+a.
+
+We consider bracteoles to be broad if their length does not exceed 1.5 x the width and narrow if their length is > 3x width
+
+Taxonomic Treatment
+Annea Mackinder & Wieringa gen. nov.
+Shrubs or trees to 25 m. Leaves paripinnate, 1–2-jugate, when 2-jugate the distal pair conspicuously larger
+than the proximal pair, leaf rachis winged or not. Bud scales absent. Leaflets sessile, ovate to rhombate,
+falcate, glabrous above, glabrous or almost so below, mid-vein sub-central. Crater-like glands usually
+present on the abaxial leaflet surface. Inflorescence a lax terminal or axillary raceme. Bracts caducous or
+persisting just until anthesis, bracteoles paired, showy, persistent, borne in the upper third or at the apex of
+the pedicel. Sepals 4, reflexed after anthesis, slightly longer than the hypanthium. Petals 5, adaxial and
+lateral petals conspicuous, similar in size, abaxials rudimentary. Stamens 10, filaments free, anthers
+dorsifixed, dehiscing by slits. Ovary stipitate, stipe fused to adaxial hypanthium wall, indumentum sparse
+on the faces, denser on the margins, stigma terminal, small, peltate. Pod compressed, glabrous, obliquely
+triangular, obovate to semi-circular, broadest at the middle or towards the apex the upper margin curving
+to almost straight, not winged, the lower margin deeply rounded, sometimes curving sharply upwards to
+the apex, valves revolute after dehiscence (explosive dehiscence). Seeds 1–2, ovoid or ellipsoid,
+compressed. Seedlings: germination epigeal, first and subsequent seedling leaves alternate.
+Type: Cynometra laxiflora. For type specimen details see below.
+
+ANNEA GEN. NOV. (DETARIEAE, CAESALPINIOIDEAE, LEGUMINOSAE)
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 3
+
+Distribution:—Tropical Africa. Guineo-Congolian distribution: 2 species. Liberia, Côte D’Ivoire, Ghana,
+Togo, Benin, Nigeria, Cameroon, Equatorial Guinea, Congo, Democratic Republic of Congo, Angola
+(including Cabinda) (Fig. 1). The combined geographic distribution of the two species is wide but their ranges
+do not overlap.
+
+FIGURE 1. Distribution of the genus Annea. Collecting localities of A. afzelii and A. laxiflora are denoted by green and red dots
+respectively.
+
+Etymology:—Named for Professor Anne Bruneau of University of Montreal, Canada. She has been the
+leading authority in Caesalpinioideae phylogenetics for over a decade. Her work and that of her students has
+led to the establishment of a phylogenetic framework for the subfamily creating a firm foundation on which
+studies of smaller taxonomic breadth such as this can rest. Bruneau made several collections of Annea afzelii
+during fieldwork in Cameroon in 1996, one of which was used in the preparation of the illustration of A.
+afzelii presented in this paper.
+Key to the species of Annea
+Leaf-rachis winged...............................................................................................................................................1. A. afzelii
+Leaf-rachis not winged.....................................................................................................................................2. A. laxiflora
+
+A table of other morphological characters that can be used to separate A. afzelii and A. laxiflora is presented
+(Table 2).
+
+4 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+MACKINDER & WIERINGA
+
+TABLE 2. Comparative morphologies of Annea afzelii and A. laxiflora.
+Species
+Character
+
+A. afzelii
+
+A. laxiflora
+
+Length of distal leaflets compared to proximal leaflets
+
+2 to 4 times longer
+
+3 to 10 times longer
+
+Inflorescence rachis indumentum
+
+moderately puberulous
+
+glabrous or sparsely puberulous
+
+Bract persistence
+
+caducous
+
+persistent until anthesis
+
+Pedicel length (mm)
+
+1.5–7
+
+7–18
+
+Pedicel indumentum
+
+hairy
+
+glabrous
+
+Bracteole position
+
+at apex of pedicel
+
+1.5–4 mm below the apex of the pedicel
+
+1. Annea afzelii (Oliv.) Mackinder & Wieringa comb. nov. (Fig. 2)
+Basionym:—Cynometra afzelii Oliver (1871: 318). Hymenostegia afzelii (Oliver) Harms in Engler & Prantl (1897: 193).
+Type:—Sierra Leone. Afzelius s.n. (not seen).
+Hymenostegia dinklagei Harms (1901: 78). Bot. Jahrb., 3: 78 (1901). Type:—Cameroon. Mundung des Campo, Dinklage
+1437 (B†). Neotype here designated, Cameroon, S. Province, 14 km on the road from Kribi to Ebolowa, 20 June
+1975, J.J.F.E. de Wilde 8298 (neotype WAG!, isoneotypes BR, EA, K!, MA, MO, P, PRE, SRGH, YA).
+
+Shrub or tree 3–25 (–35) m tall, dbh 10 cm (5 m tree)–40 cm (12 m tree, and also at 2 m above buttresses of a
+35 m tree); bark grey, orange-brown or brown, smooth, buttresses present (J.J.F.E de Wilde 8298 and Polhill
+5218). Twigs medium to dark brown, moderately puberulous when young, hairs hooked (only visible at x 100
+or greater magnification), becoming glabrous with age, lenticels pale. Stipules in pairs, inconspicuous, fused
+at base, persistent, triangular, 1–1.5 mm long, apex acute. Leaves paripinnate, 2-jugate, occasionally a few 1jugate leaves occur on the same plant (but see notes), small stalked gland occasionally present between the
+terminal pair, petiole 1–6 mm long, mostly pulvinous, rachis 6–22 mm long, narrowly winged from the base,
+becoming gradually broader distally but narrowing again just before the insertion of the distal leaflet pair,
+adaxially canaliculate, abaxially unevenly striate, moderately puberulous, hairs hooked (only visible at x 100
+or greater magnification), leaflets sessile, ovate to rhombate, falcate, upper pair 2.2–14 × 0.9–6.4 cm, much
+larger than lower pair, the upper pair 2 to 4 times longer than the lower pair, glabrous or almost so, margins
+often ciliate at the base, mid-vein sub-central, the proximal half of the leaflet slightly larger, crater-like glands
+(visible at × 10 or greater magnification) present on the abaxial leaflet surface, 1–4 in the proximal half, 4–7
+in the distal half, apex acute or acuminate, base asymmetric. Bud scales absent. Inflorescence a lax 4–31flowered terminal or axillary raceme, axis 1.5–8 cm long, including a peduncle of 0.4–0.8 cm long,
+moderately puberulous, hairs hooked (only visible at × 100 or greater magnification), bracts caducous, not
+seen, pedicels 1.5–7 mm long (at anthesis), moderately puberulous, hairs hooked (only visible at × 100 or
+greater magnification), reddish light green (fide van der Burgt 632), bracteoles opposite, persistent, borne at
+the apex of the pedicel, directly below the hypanthium, petaloid, obovate to broadly ovate, 7–10 × 4–6 mm,
+white or white tinged pink, glabrous, base cordate; hypanthium 2.5–4 mm long, glabrous outside and inside.
+Sepals 4, white, pinkish at base, reflexed after anthesis, slightly longer than the hypanthium, ciliate at apex,
+otherwise glabrous. Petals 5, narrowly spathulate, glabrous, yellow, pale yellow, greenish yellow or limewhite when first in flower, turning pink or red later, adaxial and lateral petals similar in size, 8–11 × 1.5–3
+mm, abaxial petals smaller, c. 3.5 × 1 mm. Stamens 10, filaments free, white, anthers dark yellow to brown.
+Ovary stipitate, reddish brown or brown, compressed, hairs c. 0.5 mm long, white, crinkled, occurring
+sparsely on faces but more densely so along margins, the marginal hairs persisting into young fruit, style and
+stigma white, stigma terminal, minute. Pod compressed, glabrous, 5.4–8.5 × 2.2–3.2 cm, triangular, broadest
+towards apex, lower margin rounded, upper suture not broadened into wings, beak 2–4 mm long, valves
+revolute after dehiscence. Seeds 1(–2), ellipsoid, c. 2 × 1.5 × 0.4 cm thick. Seedling: leaves alternate from the
+outset, stipules paired, rhomboid, c. 3.5 × 1.5 mm, leaflets sessile, 2-jugate, upper and lower pairs of first leaf
+similar in size, 12–16 × 6–7 mm. Seed and seedlings measurements from Breteler 13738.
+
+ANNEA GEN. NOV. (DETARIEAE, CAESALPINIOIDEAE, LEGUMINOSAE)
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 5
+
+FIGURE 2. Annea afzelii. A: Flowering branch; B: Bud enclosed in petaloid bracteoles, their adaxial surfaces touching; C: Flower; D:
+Flower to show position of persistent petaloid bracteoles; E: Flower with calyx removed to show conspicuous adaxial and lateral petals
+and rudimentary abaxial petals; F: Leaf to show winged rachis and disparity in size between upper and lower leaflet pairs; G: Pod to
+show shape, absence of indumentum and unwinged upper suture. A. – E. Polhill 5218; F. Bruneau 1082; G. Carvalho 4338.
+
+6 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+MACKINDER & WIERINGA
+
+Habitat and Ecology:—Terre firma and seasonally inundated primary and secondary forest, along river
+banks, on lower slopes, granitic outcrops, reported on granitic, ferralytic or sandy soils; 0–1200 m elev.
+Distribution:—Liberia, Côte D’Ivoire, Ghana, Togo, Benin, Nigeria, Cameroon and Equatorial Guinea
+(Fig. 1).
+Conservation assessment:—We assess A. afzelii here as Least Concern (LC) according to the criteria of
+IUCN (2001) based on its wide geographic range.
+Notes:—A species of diverse habit and habitat, in Cameroon, Annea afzelii is typically a small to medium
+sized tree 10–25 m, rarely attaining 35 m but can be a locally common understorey tree (Mackinder pers. obs.
+& McKey 1989-20), occasionally much smaller, c. 2m and shrubby, sometimes then with lianescent
+scrambling stems. Leeuwenberg 3342 (Cameroon) notes A. afzelii as forming a grove or monodominant stand.
+In Cote d’Ivoire, A. afzelii is often observed as shrub or shrubby tree 3–10 m of secondary forest. Several
+collectors record flowers as fragrant, van Andel 4244, J.J.F.E. de Wilde 8298 and F. Hallé 4328 in Cameroon
+as well as Jongkind 1782 in Ghana. Very rarely leaf formations other than 1–2 pairs have been seen. A leaf
+from a young tree had 3 leaflet pairs (Jongkind 9047) and in a mature collection, a leaf with 5 leaflets was
+noted, the fifth in a terminal position (Kenfack 1043).
+2. Annea laxiflora (Benth.) Mackinder & Wieringa comb. nov. (Fig. 3)
+Basionym:—Cynometra laxiflora Bentham (1865: 318). Hymenostegia laxiflora (Benth.) Harms in Engl. & Prantl
+(1897: 193). Type:—Angola. Golungo Alto, Welwitsch 561 (holotype LISU; isotypes COI, K!).
+Cynometra laxiflora Benth. var. nitidula Welwitsch ex Oliver (1871: 318). Type:— Angola. Zenza do Golungo,
+Welwitsch 562 (holotype LISU, isotype K!).
+Hymenostegia gilletii De Wildeman (1920: 239). Hymenostegia laxiflora Harms var. gilletii (De Wildeman) Baker f.
+(1928: 151). Type:—Democratic Republic of Congo. Gillet 4018 (holotype BR!).
+
+Much branched shrub or tree 5–25 m tall, dbh 10 cm (5 m shrub) –90 cm (25 m tree); bark grey, bole fluted
+(Donis 1860). Twigs medium to dark brown, sparsely to moderately puberulous when young, hairs hooked
+(only visible at × 100 or greater magnification), becoming glabrous with age, lenticels pale. Stipules in pairs,
+inconspicuous, fused at base, persistent, triangular, 1–2.5 mm long, apex acute. Leaves paripinnate, 1-2jugate, small stalked gland often present between the terminal pair, petiole 8–15 mm long (1-jugate leaves) or
+3–8 mm long (2-jugate leaves), mostly or only partly pulvinous, rachis 8–15 mm long, adaxially canaliculate,
+not winged, abaxially appearing terete, unevenly striate, glabrous or very sparsely puberulous, hairs hooked
+(only visible at × 100 or greater magnification), leaflets sessile, ovate to rhombate, falcate, upper pair 2.5–
+12.3 × 0.8–5.1 cm, much larger than lower pair, the upper pair 3 to 10 times longer than the lower pair, mostly
+glabrous, or almost so, hairs if present restricted to pulvini and adjacent leaflet margins, mid-vein sub-central,
+the proximal half of the leaflet slightly larger, crater-like glands (visible at × 10 or greater magnification)
+present on the abaxial leaflet surface, 1–2 in proximal half, 0–5 in distal half, apex acuminate, base
+asymmetric. Bud scales absent. Inflorescence a lax 6–18-flowered terminal or axillary raceme, axis 4.4–7.2
+cm long, including a 0.2–1.5 cm long peduncle, glabrous or sparsely puberulous, hairs hooked (only visible at
+× 100 or greater magnification), bracts small, persistent until after anthesis, ovate, c. 1 × 0.5 mm, pedicels 7–
+18 mm long, glabrous, portion below the bracteole 4–15 mm long, above the bracteole 1.5–4 mm long,
+bracteoles opposite, persistent, borne in the upper third of the pedicel but not directly below the hypanthium,
+petaloid, ovate to broadly obovate, 6–14 × 5–8 mm, white, glabrous, base cordate; hypanthium 2–3.5 mm
+long, glabrous outside and inside. Sepals 4, white, pinkish, pale red or pale purple, reflexed after anthesis,
+slightly longer than the hypanthium, ciliate at apex, otherwise glabrous. Petals 5, narrowly spathulate,
+glabrous, pale yellow or yellow when first in flower, turning pink or red later, adaxial and lateral petals,
+similar in size, 8–9 × 2–3 mm, abaxial petals smaller, c. 3 × 1 mm. Stamens 10, filaments free, white, anthers
+brown. Ovary stipitate, brown, compressed, hairs c. 0.5 mm long, white, crinkled, occurring sparsely on faces
+but more densely so along margins, the marginal hairs persisting into young fruit, style and stigma white,
+stigma terminal, minute. Pod compressed, glabrous, 5.5–11 × 2.8–5 cm, triangular, broadest towards apex,
+lower margin rounded, upper suture not broadened, beak 2–5 mm long, valves revolute after dehiscence.
+ANNEA GEN. NOV. (DETARIEAE, CAESALPINIOIDEAE, LEGUMINOSAE)
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 7
+
+Seeds 1–2, dark brown, ovoid, compressed, 15–20 × 14–17 × 4–5 mm (from Wagemans 2214). Seedling: first
+and subsequent leaves alternate, stipules not seen, leaflets sessile, 2-jugate, upper pair 58–66 × 26–35 mm,
+lower pair 26–32 × 15–22 mm (measurements from Donis 1860 & Wagemans 765).
+
+FIGURE 3. Annea laxiflora A: Flowering branch; B: Close up of flower; C: Fallen flower to show post-mature petal colour change.
+A–C. M'Boungou 398. Photographer Xander van der Burgt.
+
+Habitat and Ecology:—Primary forest near to waterfalls, along rivers, in valleys, on sides and tops of
+hills, on rocky ground; 0–300 m (possibly to 1100 m, see notes) elev.
+Distribution:—Congo, Democratic Republic of Congo, Cabinda and Angola (Fig. 1).
+Conservation assessment:—We assess A. laxiflora here as Least Concern (LC) according to the criteria
+of IUCN (2001) based on its relatively wide geographic range.
+Notes:—Donis 1860 (Democratic Republic of Congo) notes abundant regeneration from seedlings. Petal
+colour changes from white at anthesis to suffuse red when post-mature (van der Burgt pers. comm. and see
+Fig. 3). There are not many elevation records for this species, the highest, from Angola, is the rather large
+range 300–800 m (Welwitsch 561), while Welwitsch 562, also Angola, has been collected in an area of c. 1100
+m elevation.
+
+Acknowledgments
+We would like to thanks the curators of BM, BR, K, MA, MO & P for the loan of their Hymenostegia
+collections and Xander van der Burgt for permission to use his photographs of Annea laxiflora. We would also
+like to thank Margaret Tebbs for her illustration of Annea afzelii. We are grateful to two anonymous reviewers
+for their contributions.
+
+8 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+MACKINDER & WIERINGA
+
+References
+Baker, E.G. (1928) Mr John Gossweiler’s plants from Angola and Portuguese Congo. Journal of Botany, Supplement
+Polypetalae: 1–243.
+Bentham, G. (1865) Description of some new genera and species of Tropical Leguminosae. Transactions of the Linnaean
+Society 25: 297–320.
+http://dx.doi.org/10.1111/j.1096-3642.1865.tb00186.x
+Breteler, F.J. (2011) Revision of the African genus Isomacrolobium (Leguminosae, Caesalpinioideae). Plant Ecology and
+Evolution 144: 64–81.
+http://dx.doi.org/10.5091/plecevo.2011.426
+Bruneau, A., Breteler, F.J., Wieringa, J.J. & Gervais, G.Y.F. (2000) Phylogenetic relationships in tribes Macrolobieae and
+Detarieae as inferred from chloroplast trnL intron sequences. In: Herendeen P.S., Bruneau, A. (eds.) Advances in
+Legume Systematics, part 9. Royal Botanic Gardens, Kew, pp. 121–149 .
+Bruneau A., Forest F., Herendeen P.S., Klitgaard B.B. & Lewis G.P. (2001) Phylogenetic relationships in the
+Caesalpinioideae (Leguminosae) as inferred from chloroplast trnL intron sequences. Systematic Botany 26: 487–
+514.
+http://dx.doi.org/10.2307/2657134
+Bruneau, A., Mecure, M., Lewis, G.P. & Herendeen, P.S. (2008) Phylogenetic patterns and diversification in the
+caesalpinioid legumes. Botany 86: 697–718.
+http://dx.doi.org/10.1139/b08-058
+De Wildeman, E. (1920) Observations sur des Légumineuses de la Flore Africaine. Bulletin de Jardin Botanique l'État a
+Bruxelles 7: 219–270.
+http://dx.doi.org/10.2307/3666466
+Harms, H. (1901) Leguminosae africanae. II. Botanische Jahrbücher 30: 75–94.
+Engler, A. & Prantl, K. (1897) Die Natürlichen Pflanzenfamilien, Leguminosae 3(3). Leipzig,W. Engelmann, 296 pp.
+Estrella, M. de la, Devesa, J.A. & Wieringa, J.J. (2012) A morphological re-evaluation of the taxonomic status of the
+genus Pellegriniodendron (Harms) J.Léonard (Leguminosae–Caesalpinioideae–Detarieae) and its inclusion in
+Gilbertiodendron J.Léonard. South African Journal of Botany 78: 257–265.
+http://dx.doi.org/10.1016/j.sajb.2011.04.006
+IUCN. (2001) IUCN Red List Categories and Criteria: version 3.1. IUCN, Gland, Switzerland and Cambridge, UK.
+Lebrun, J.P. & Stork, A.L. (1998) Analyse structurelle de la flore des Angiospermes d'Afrique tropicale. Candollea
+53(2): 365–385.
+Léonard, J. (1951) Notulae systematicae 11, Les Cynometra et les genres voisins en Afrique tropicale. Bulletin du Jardin
+Botanique de l'État a Bruxelles 21(3/4): 373–450.
+http://dx.doi.org/10.2307/3666679
+Léonard, J. (1957) Genera des Cynometreae et des Amherstieae africaines, Leguminosae-Caesalpinioideae. Essai de
+blastogenie appliquée a la systematique. Memoires de l’Académie Royale Belgique (Classe des Sciences) 30(2): 1–314.
+Lewis, G.P. & Schrire, B.D. (2004) Micklethwaitia, a new name for Brenaniodendron J. Léonard (Leguminosae:
+Caesalpinioideae: Detarieae). Kew Bulletin 59: 166.
+Mackinder, B.A. (2005) Detarieae. In: Lewis, G.P., Schrire, B.D., Mackinder, B.A. & Lock, J.M. (eds.) Legumes of the
+World. Royal Botanic Gardens, Kew, pp. 69–109.
+Mackinder, B. & Wieringa, J.J. (2013) Hymenostegia viridiflora, a new tree species of Leguminosae from Cameroon.
+Blumea 58: 13–18.
+http://dx.doi.org/10.3767/000651913X668573
+Mackinder, B.A., Saslis-Lagoudakis, H.,Wieringa, J.J., Devey, D., Forest, F. & Bruneau, A. (2013) The tropical African
+Scorodophloeus clade includes two undescribed Hymenostegia segregate genera and Micklethwaitia, a rare,
+monospecific genus from Mozambique. South African Journal of Botany.
+http://dx.doi.org/10.1016/j.sajb.2013.07.002
+Mackinder, B.A., Wieringa, J.J., Lunenburg, I. & Banks, H. (2010) Clarifying the generic limits of Talbotiella and
+Hymenostegia (Detarieae: Caesalpinioideae: Leguminosae). In: X. van der Burgt, J. van der Maesen & J.-M. Onana
+(eds) Systematics and Conservation of African Plants. Royal Botanic Gardens, Kew, pp. 43–56.
+Oliver, D. (1871) Flora Tropical Africa 2, Leguminosae to Ficoideae. London L.Reeve, 560 pp.
+White, F. (1983) The vegetation of Africa. Natural resources research 20. UNESCO, Paris, 356 pp.
+Wieringa, J.J. & Mackinder, B.A. (2012) Novitates Gabonensis 79: Hymenostegia elegans and Hymenostegia robusta,
+two new threatened caesalpinioid legume species from Gabon. Nordic Journal of Botany 30(2): 144–152.
+http://dx.doi.org/10.1111/j.1756-1051.2011.01260.x
+Wieringa, J.J., Mackinder, B.A. & Proosdij, A.S.J. van (2013) Gabonius gen. nov. (Leguminosae, Caesalpinioideae,
+Detarieae), a distant cousin of Hymenostegia endemic to Gabon. Phytotaxa 142 (1): 15–24.
+http://dx.doi.org/10.11646/phytotaxa.142.1.2
+
+ANNEA GEN. NOV. (DETARIEAE, CAESALPINIOIDEAE, LEGUMINOSAE)
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 9
+
+Index to Numbered Collections seen for this study. For each species the exsiccatae presented below is
+ordered alphabetically by country, major political division and then by first collector. Within country,
+unlocalised collections are listed first.
+1. Annea afzelii (Oliv.) Mackinder & Wieringa
+BENIN. Atlantique: forêt de Djigbe, c. 6°53' N, 2°20' E, 8 November 1997 (st), Lejoly 97/ 26 (BR); Ouémé:
+Fouditi, 134m, c. 6°53' N, 2°38' E, 8 August 2001 (st), Adjakidjè 4693 (BENIN, WAG);
+CAMEROON. unknown: Sende (Gende?), 17 January 1909 (fl), Büsgen 475 (B); s.l., 1935 (fl), Foury 106
+(IFAN, P); Central Province: 23 km from Yaoundé, road to Douala, 720m, 3°50' N, 11°20' E, 7 July 1961 (st),
+Breteler 1563 (K, L, P, U, WAG, YA); Mount Fébé, 3 km NW of Yaoundé, 950m, 3°55' N, 11°29' E, 15 March
+1962 (fl), Breteler 2637 (A, BR, FI, G, K, LISC, M, MO, P, SL, UC, WAG, YA, Z); Cameroun: Makak, 3°33'
+N, 11°02' E, October 1938 (fl), Jacques-Félix 2263 (P, WAG); Koumou, c. 3°39' N, 11°31' E, 30 March 1954
+(fr), Letouzey s.n. (BR); Makak, c. 3°33' N, 11°02' E, 5 May 1944 (st), Letouzey SFC 1134 (P); along a
+footpath heading west from Nkoabock II, 685m, 3°42.73' N, 11°14.92' E, 25 February 2007 (st), Wieringa
+5796 (WAG, YA); Littoral: Left bank Dibombé R, near bridge in Loum-Solé road (km 11). 4.41 N 9.48 E,
+150m, 4°41' N, 9°48' E, 25 April 1972 (fl), Leeuwenberg 9725 (BR, LISC, MO, P, PRE, UPS, WAG, YA);
+Mangombe, c. 3°49' N, 10°07' E, 1912 (st), Lotz 155 (B); Douala/Edea FR, Airstrip B, Tissongo, c. 3°36' N,
+9°53' E, 2 August 1976 (st), McKey 156 (K, SCA, WAG, YA); Douala-Edea Forest, c. 3°33' N, 9°46' E, 1978
+(fl), D.W. Thomas 171 (K, WAG); Douala/Edea FR, Transect B, Tissongo study area, c. 3°36' N, 9°53' E, 18
+June 1976 (st), Waterman 156 (K); in the proposed Ebo forest reserve, 850 m on Dicam trail from Bekob
+camp, 900m, 4°21.09' N, 10°24.94' E, 10 March 2007 (st), Wieringa 5875 (K, WAG); 50 km NW of Eséka, W
+of Yaoundé, 100m, c. 3°50' N, 10°27' E, 25 November 1963 (fl), W.J.J.O. de Wilde 1346 (B, BR, EA, FHI,
+GENT, K, MO, NLI, P, PRE, WAG, YA, Z); South Province: Ntem River, riverbank of Ntem River, west of
+Ntemasi, 500m, 2°20' N, 10°35' E, 16 February 2001 (fl), van Andel 3201 (KRIBI, SCA, WAG, YA); Lobé,
+just downstreams Ile de Kingui, 20m, 2°51' N, 9°54' E, 31 October 2001 (fl), van Andel 4244 (KRIBI, SCA,
+WAG, YA); Lobé, 20m, 2°51' N, 9°54' E, 16 December 2001 (fr), van Andel 4268 (KRIBI, MO, P, WAG, YA);
+N bank of Lobé river, c. 2 km above the falls, riverine forest, c. 2°52' N, 9°54' E, 30 November 1968 (fl), Bos
+3416 (BR, K, PRE, WAG); 6 km from Kribi, Ebolowa road, 2°54' N, 9°57' E, 27 November 1969 (st), Bos
+5726 (WAG); 20 km from Kribi, 2 km N of Lolodorf road, SFIA logging road, 3°01' N, 10°03' E, 12
+December 1969 (fl), Bos 5820 (BR, C, HBG, K, L, LD, LISC, LMA, MO, MPU, P, PRE, S, UPS, WAG, YA);
+15 km SE of Kribi, between airstrip and Mt. Elephant, 2°50' N, 10°00' E, 26 March 1970 (fl), Bos 6637 (BR,
+K, LMA, M, MO, P, PRE, WAG); 4 km N. of km 20 Kribi - Lolodorf, 3°02' N, 10°03' E, 8 April 1970 (fl), Bos
+6748 (BR, LMA, MO, P, WAG); Kribi, road to Ebolowa, 5 km SE of junction with road to Campo, 30m, 2°55'
+N, 9°56' E, 30 October 1995 (st), Bruneau 1082 (K, MT); Ebom Village, 6 km NE from Ebon, off road to
+Lolodorf. Wijma logging road, chantier 1222, Forest Block D2, 400m, 3°07' N, 10°45' E, 1 November 1995
+(st), Bruneau 1126 (K, MT); In the Tropenbos research area. Block I2, 550m, 3°08' N, 10°44' E, 3 April 1996
+(st), Elad 460 (BR, KRIBI, WAG); TDC, c. 2°39' N, 9°54' E, 28 November 1991 (fl), F. Hallé 4283 (WAG);
+TDC, c. 2°39' N, 9°54' E, 9 December 1991 (fl), F. Hallé 4328 (WAG); Mvini, 35 km E of Campo, c. 2°22' N,
+10°06' E, 23 December 1983 (st), Kaji 25 (P); Campo FR, 20 km ENE of Ebodie, c. 2°38' N, 9°59' E, 1991
+(st), McKey C91/3/ 24 (K); Ngonvayang Range above Bobondi, 550m, 3°18' N, 10°39' E, 8 April 1984 (fl, fr),
+Polhill 5218 (BR, K, L, PRE, WAG); Ntem river, west of Nyabessan, 300m, 2°24' N, 10°22' E, 1 December
+1992 (st), D.W. Thomas 9618 (K, MO); Colline de Nkoltsia, 23 km NW de Bipindi, 3°11' N, 10°17' E, 25
+November 1974 (st), Villiers 996 (P); 14 km on the road from Kribi to Ebolowa, 10m, 2°51' N, 10°01' E, 20
+June 1975 (fl), J.J.F.E. de Wilde 8298 (BR, EA, K, MA, MO, P, PRE, SRGH, WAG, YA); Mimfia, 3°04' N,
+10°23' E, (fl), Zenker s.n. (B, BR, MO); Mimfia, Lokundjethal, 3°04' N, 10°23' E, 1913 (fl), Zenker 43 (B,
+BOL, U, WAG); Bipinde, c. 3°05' N, 10°25' E, 1896 (fl), Zenker 1136 (HBG, K, P, S, WAG); Bipinde, c. 3°05'
+N, 10°25' E, 1902 (fl), Zenker 2439 (B, BR, HBG, K, L, P, S, WAG); Bipinde, c. 3°05' N, 10°25' E, 1903 (fl),
+Zenker 2645 (B, BR, HBG, K, L, P, S, WAG); Bipinde, c. 3°05' N, 10°25' E, 1904 (fl), Zenker 2674 (G, WAG);
+
+10 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+MACKINDER & WIERINGA
+
+Bipinde, c. 3°05' N, 10°25' E, 1904 (fl), Zenker 2784 (B, B, BR, HBG, K, L, MO, P, PRE, S, WAG); Bipinde,
+c. 3°05' N, 10°25' E, 1907 (fl), Zenker 3370 (BR); Bipinde, c. 3°05' N, 10°25' E, 1912 (fl), Zenker 4533 (BR,
+K, L, P, PRE, S); South-West Province: British Cameroons, Kumba district, N.A [Bakundu] Forest Reserve, c.
+4°33' N, 9°26' E, 7 April 1960 (fl, fr), Adebusuyi FHI 44013 (FHI, K, WAG); Operation Raleigh, Bonanaza
+Plots, approx. 5 km W of Batoke along Batoke-Bakingili road, between plots no. 1 and 2, 190m, 4°03' N,
+9°04' E, 13 October 1995 (st), Bruneau 1040 (K, MT); 3-5 km E of Limbe, proposed Mabeta-Maliwe reserve,
+at tip of peninsula, Dikulo Bay, c. 3°57' N, 9°13' E, 15 October 1995 (st), Bruneau 1051 (K); Korup National
+Park, P transect, near Science Camp, 100m, 5°01' N, 8°48' E, 16 October 2003 (fl), Burgt 632 (BR, G, K, MO,
+P, SCA, WAG, YA); near rocky mountain stream flowing westwards to village Bechati, 350m, 5°40' N, 9°56'
+E, 25 September 2006 (st), Burgt 863 (K, YA); Korup Forest Dynamics plot, 5°04' N, 8°51' E, 9 February
+1998 (st), Kenfack 1043 (MO, WAG); 18 km W of Bota, a village W of Victoria, W Cameroun, between
+Batokke and Bakingeli, on base of Cameroun Mt, 100m, 4°03' N, 9°04' E, 11 October 1965 (fl), Leeuwenberg
+6909 (B, BR, C, EA, FHI, GC, HBG, K, LISC, LUAI, MO, P, PRE, SRGH, UC, WAG, YA); In village, located
+on Mbongo Road c. 30 km WSW of Kumba, 4°33' N, 9°10' E, 21 November 1989 (st), McKey 1989/ 20
+(WAG); Likomba, 15-35 km NE of Victoria, 50m, 4°05' N, 9°20' E, 22 October 1928 (st), Mildbraed 10537
+(K); Limbe, Bakingini, forest above 'mile 11 village', 160m, 4°04.1' N, 9°03.5' E, 20 January 1994 (st),
+Wieringa 1937 (SCA, WAG).
+EQUATORIAL GUINEA. Bioko Norte: Malabo-Punta Hermosa, estrada kms 14-15, 3°46' N, 8°53' E, 28
+April 1990 (fl, fr), Carvalho 4338 (BR, K, MA, WAG); Rio Muni: Bata to Zona de Bomodi, c. 1°52' N, 9°47'
+E, 25 February 1994 (fl), Carvalho 5473 (BR, MA, WAG).
+GHANA. unknown: s.l, 17 February 1912 (st), Chipp 111 (K); s.l., 20 February 1954 (fr), C.J. Taylor s.n.
+(BR); s.l., (st), Unknown s.n. (BR); s.l., February 1955 (fr), Unknown s.n. (BR); s.l., 20 May 1923 (st), Vigne
+FH 1042 (K); s.l., (fl), Vigne FH 4088 (BR, FHO, PRE); Ashanti Region: Atonso, c. 7°01' N, 1°19' W, 6
+October 1949 (st), Baldwin 13512 (K, US); Juaso, Bobiri Forest Reserve, c. 6°40' N, 1°19' W, 19 January
+1972 (fl), Enti Sp 535 (BR); Juaso, c. 6°35' N, 1°07' W, June 1926 (st), Irvine 325 (K); Armentia, 1219m, c.
+6°13' N, 1°10' W, March 1930 (st), Vigne FH 1888 (FHO, K); Brong-Ahafo Region: Tano river, c. 75 km W of
+Kumasi, c. 6°39' N, 2°25' W, 23 December 1963 (fl), Oldeman 814 (B, BR, FHI, G, GENT, IFAN, K, LD,
+MO, P, S, WAG, Z); Central Region: Dunkwa, c. 5°58' N, 1°47' W, 2 January 1920 (st), Dalziel 68 (K);
+Dunkwa, c. 5°58' N, 1°47' W, 20 May 1923 (st), Vigne FH 882 (K); Cape Coast, 30m, c. 5°07' N, 1°15' W,
+November 1924 (st), Vigne FH 946 (K); Dunkwa, 152m, c. 5°58' N, 1°47' W, July 1941 (fl), Vigne FH 4762
+(BM, BR); Eastern Region: Ayimensu, Krobo District, c. 5°47' N, 0°11' W, March 1939 (fr), Akpabla 842
+(GC, K, WAG); N. Scarp Reserve, c. 6°42' N, 0°45' W, 16 December 1934 (fl), Beveridge 86 (BM, BR); Mile
+33 Mamfe-Adawso road, 5°57' N, 0°07' W, 27 November 1970 (st), Bigger 2465 (K); at the foot of Aburi
+Hills, c. 5°48' N, 0°11' W, 22 October 1966 (fl), Botokro GC 37354 (GC); Aburi Rd, foot of scarp, c. 5°48' N,
+0°11' W, October 1973 (st), Enti R 1142 (K); near Akyease, c. 5°50' N, 1°00' W, October 1921 (st), Fishlock
+62 (K); Akropong, Akwapim, c. 5°58' N, 0°05' W, August 1927 (st), Irvine 771 (GC); Aburi Hills, c. 5°52' N,
+0°10' W, 17 November 1899 (st), W.H. Johnson 289 (GC, K); Aburi Hills, 457m, c. 5°52' N, 0°10' W, 24
+February 1900 (st), W.H. Johnson 615 (GC, K); Aburi Hills, c. 5°52' N, 0°10' W, 2 March 1900 (st), W.H.
+Johnson 621 (GC, K); Atewa Range Forest Reserve, along the Old Geological Survey road, 500m, 6°13.8' N,
+0°33.5' W, 19 October 1994 (fl), Jongkind 1782 (MO, NBG, PRE, WAG); Odumasi, 152m, c. 6°08' N, 0°01'
+E, July 1927 (st), Moor (Mrs) 77 (K); Aburi Scarp, c. 5°48' N, 0°11' W, November 1951 (fl), Morton GC 6131
+(GC, K, WAG); ravine at bottom of Aburi Scarp, c. 5°48' N, 0°11' W, 19 February 1952 (fl), Morton GC 6449
+(GC, K, WAG); Atewa Range Forest Reserve, along road from Kibi to Anyinase, travelling westward, 550 600m, 6°10' N, 0°36' W, 16 November 1995 (fl), H.H. Schmidt 1726 (MO, PRE, WAG); Sra, 91m, c. 6°06' N,
+0°02' W, June 1927 (st), Vigne FH 293 (K); Greater Accra Region: Dodowah, c. 5°53' N, 0°06' W, February
+1933 (st), Irvine 1972 (K); Western Region: Ankobra River, c. 4°56' N, 2°14' W, 18 December 1901 (st), W.H.
+Johnson 922 (GC, K).
+IVORY COAST. unknown: s.l., (fl), Aké Assi 28 (BR, HBG, K, P, WAG); Patopara, 1932 (fr), Aubréville SF
+1213 (B, P); s.l., 21 April 1995 (fr), Breteler 13352 (MO, S, WAG); A?[or S or even G?]hana, 21 October 1950
+ANNEA GEN. NOV. (DETARIEAE, CAESALPINIOIDEAE, LEGUMINOSAE)
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 11
+
+(fl), Nozeran s.n. (MPU); Abengourou: région du Moyen-Comoé (Indénié), entre Bebou et Mbasso, c. 6°20' N,
+3°26' W, 24 December 1909 (fl), Chevalier 22646 (BR, P, WAG); Abidjan: Abidjan, c. 5°20' N, 4°00' W, 1928
+(fl), Aubréville SF 17 (BR, P); Abidjan, c. 5°19' N, 4°02' W, 1 February 1929 (fl), Aubréville SF 81 (B, BR,
+HBG, P); Abidjan. Botanical Garden of Cocody University, c. 5°19' N, 4°00' W, 8 March 1997 (st), Breteler
+13738 (WAG); Abidjan. Banco forest Arboretum, c. 5°25' N, 4°03' W, 8 March 1997 (fl), Breteler 13744 (BR,
+WAG); Banco. ancien arboretum, 5°24.00' N, 4°04.50' W, 29 January 1990 (st), Chatelain 26 (CSRS); Banco,
+c. 5°23' N, 4°03' W, 25 April 1967 (st), Cremers 623 (BR); Banco Forest reserve, c. 5°23' N, 4°03' W, 15 June
+1967 (st), Cremers 623 (BR, P); forêt du Banco, c. 5°23' N, 4°03' W, 21 July 1967 (st), F. Hallé 1287 (BR);
+Rocher de Brafouédi, near Bécédi, on the road to Sikensi, 100m, c. 5°39' N, 4°34' W, 23 January 1970 (fl), de
+Koning 52 (BR, C, E, G, K, MA, MO, WAG); Banco Forest Reserve, western central part, 5°23' N, 4°04' W, 21
+November 1973 (fl), de Koning 2777 (BR, E, MO, WAG); Banco Forest Reserve. Route Reste, 5°22' N, 4°03'
+W, 7 December 1973 (fl), de Koning 2889 (BR, E, MO, WAG); Banco Forest Reserve, on the right handside of
+the entry, to Agban village, 5°22' N, 4°03' W, 5 November 1974 (st), de Koning 4650 (BR, E, K, MO, WAG);
+Banco Forest Reserve, near entry, 5°22' N, 4°03' W, 20 December 1974 (st), de Koning 5050 (BR, E, MO,
+WAG); Banco Forest Reserve, Chemin de l'Iroko, 5°23' N, 4°03' W, 27 February 1975 (st), de Koning 5422
+(WAG); Abidjan, Banco Forest Reserve, near main entrance, on left-hand side of the road, c. 5°22' N, 4°03' W,
+8 August 1975 (fl), de Koning 5899 (BR, C, E, G, K, MA, MO, WAG); Anguededou forest, near Agneby river,
+c. 5°23' N, 4°08' W, 23 November 1975 (fl), de Koning 6201 (BR, EA, K, MO, NY, WAG); Banco Forest
+Reseve, c. 5°23' N, 4°03' W, 2 June 1976 (st), de Koning 6947 (MO, WAG); Sikensi, 30m, c. 5°40' N, 4°34' W,
+12 July 2004 (st), Kouassi 27 (BR); near brafouédi, 75km NW of Abidjan, 100m, 5°37' N, 4°35' W, 24 April
+1959 (fr), Leeuwenberg 3342 (WAG); rocher de Brafouédi, 5°39' N, 4°34' W, 13 July 1955 (st), Miège s.n.
+(BR); P.N. Banco, 5°24' N, 4°04' W, 15 June 1989 (fl), Poilecot 2435 (G); Adouin (14km W Abidjan), rive E
+du Lac Dadie, 5°15' N, 4°08' W, 6 March 1965 (fl), J. Raynal 13632 (K, P); Banco, c. 5°23' N, 4°03' W, (fl),
+Service Forestier de la Côte d'Ivoire 357 (P, PRE); Banco, c. 5°23' N, 4°03' W, 1931 (fr), Service Forestier de
+la Côte d'Ivoire 377 (BR, P); road abidjan-Adiopodoumé, croissement avec le Banco (rivière près
+d'Adiopodoumé), 5°20.3' N, 4°07.5' W, 9 November 1956 (fl), J.J.F.E. de Wilde 795 (WAG); near Abidjan,
+Banco forest, on border Banco River, c. 5°22' N, 4°04' W, 13 November 1961 (fl), J.J.F.E. de Wilde 3240 (BR,
+K, PRE, S, WAG); Banco, c. 5°23' N, 4°03' W, February 1976 (fl), H.C.D. de Wit s.n. (WAG); Aboisso:
+environs de Soubiré (Sanvi), c. 6°01' N, 3°12' W, 27 March 1907 (st), Chevalier 17745 (P); Côte d'Ivoire.
+Bords de la rivière Bya à Byanouan, 6°01' N, 3°12' W, 27 March 1907 (fr), Chevalier 17770 (P, WAG); Divo:
+Forêt de l'IRCC de Divo, 5°47' N, 5°17' W, 17 October 1990 (st), Chatelain 330 (G); Forêt de l'IRCC de Divo,
+5°47' N, 5°17' W, 17 December 1990 (fl), Chatelain 611 (CSRS, G); Campement Brevet, 5°43' N, 5°06' W, 10
+November 1992 (st), Chatelain 1046 (G); Divo, c. 5°50' N, 5°22' W, August 1954 (st), Schnell 5901 (K);
+Guiglo: In nemorosis, vicinioribus oppidi Tienkula, ad occidentem reipublicae, 6°07' N, 7°30' W, 1 March
+1962 (fl), Bernardi 8318 (BR, G, WAG); Keibly. ilôt forestier, 5°59' N, 7°28' W, 21 February 1994 (st),
+Chatelain 1263 (G); P.N. Taï, station d'écologie. Taï, environ 0.5 Km à l'Est de la Station CRE, 5°51' N, 7°21'
+W, February 1999 (st), Menzies 96 (G); Taï, 5°52' N, 7°27' W, 28 December 1981 (fl), Stäuble 424 (G); Oumé:
+Lamto, 6°13.50' N, 5°01.00' W, 15 December 1987 (fl), Gautier 734 (LAMTO); Réserve de Lamto, 6°13.00'
+N, 5°01.33' W, 15 December 1987 (st), Portères 734 (CSRS); Lamto, 6°13.50' N, 5°01.00' W, January 1972
+(st), Spichiger 72/ 269 (LAMTO); San-Pédro: west of Grand Bereby, not far from main road Grand Bereby Tabou, 4°40' N, 7°04' W, 9 April 2000 (st), Jongkind 5017 (G, MO, WAG); Néro-Mer, 3 km E of Béréby, c.
+4°40' N, 6°48' W, 8 November 1963 (fl), Oldeman 546 (BR, FHI, IFAN, K, LD, MO, P, WAG, Z); Sassandra:
+km 22 Sassandra-San Pedro road, c. 4°54' N, 6°13' W, 15 November 1968 (fl), Breteler 6017 (B,BR, C, FHO,
+K, L, LMA, MO, P, PRE, US, W, WAG, WU); Km 70 Lakota - Sassandra Road, c. 5°21' N, 5°55' W, 27
+November 1968 (fl), Breteler 6091 (B, BR, FHI, FHO, L, LE, LISC, LMA, MO, P, PRE, US, WAG);
+Dakpadou-Sago, c. 5°16' N, 5°58' W, 28 March 1968 (fl), Geerling 2302 (BR, K, K, PRE, WAG); behind Fuyt
+plantation, c. 5°03' N, 6°14' W, 12 November 1973 (fl, fr), de Koning 2672 (BR, E, K, MO, WAG); 18 km NW
+of Sassandra, 100m, c. 5°00' N, 6°15' W, 27 February 1959 (fl), Leeuwenberg 2918 (BR, K, L, MPU, S, U,
+WAG); 56km N of Sassandra, E of Béyo, 90m, c. 5°18' N, 6°02' W, 1 March 1959 (fl), Leeuwenberg 2927 (BR,
+
+12 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+MACKINDER & WIERINGA
+
+WAG); km 20 on road to Monogaga from km 13 on road connecting km 11 Sassandra-Lakota and San PedroSoubré roads, 4°54' N, 6°22' W, 25 April 1980 (fl), Leeuwenberg 12114 (BR, FHO, FR, HUJ, IFAN, K, MO,
+MT, UCI, WAG); Niégré, c. 5°20' N, 6°10' W, September 1955 (fl), Nozeran s.n. (MPU); Soubré: 1 km E of
+km 55 Soubré - San Pedro road (39 km N of Gabiadji), 5°21' N, 6°31' W, 1 May 1980 (st), Leeuwenberg 12142
+(BR, MO, WAG); Tabou: Djiroutou, 5°22' N, 7°17' W, 8 April 1986 (fr), Poilecot 1135 (G); Tabou, c. 4°26' N,
+7°21' W, December 1932 (st), Service Forestier de la Côte d'Ivoire 1682 (P); Left bank of the Hana River, near
+the crossing of this river with the Taï-Tabou road, 5°22' N, 7°18' W, 12 March 1962 (fr), J.J.F.E. de Wilde 3606
+(BR, K, WAG); Tiassalé: near Brafouedi, 5°39' N, 4°34' W, 27 December 1957 (fl, fr), H.C.D. de Wit 7521
+(BR, WAG).
+LIBERIA. unknown: Peda-peda, 7 March 1950 (st), W.J. Harley s.n. (WAG); Grand Gedeh: ad occidentem
+miserrimi oppidi Taï nuncupati, ultra flumen Cavali, id est in territorio reipublicae Liberiae, c. 5°51' N, 7°27'
+W, 3 March 1962 (fl), Bernardi 8445 (G, WAG); east slope of the Putu Hills East Range west of Tiama Town,
+200 - 250m, c. 5°39' N, 8°09' W, 21 May 2005 (st), Jongkind 6269 (WAG); Putu Hills, East Range, East slope,
+490m, 5°39.30' N, 8°10.45' W, 15 January 2010 (st), Jongkind 9047 (WAG); Penoken - Kanweake road
+Eastern Province, 5°32' N, 8°06' W, 3 October 1962 (fl), Voorhoeve 1259 (BR, WAG); Eastern Province. Putu
+District. New road from Chiehn (Zwedru Village) to Cape Palmas. About 21 km N of Kanweake, a small
+village situated c. 70 km S of Chiehn, 5°36' N, 8°08' W, 27 March 1962 (fl), J.J.F.E. de Wilde 3675 (BR, K,
+PRE, S, WAG); Montserrado: within 6 miles of Monrovia, c. 6°16' N, 10°44' W, 1904 (st), Whyte s.n. (K);
+Nimba: between Nimba and Saniquelli, 7°26' N, 8°38' W, 16 December 1966 (fl), Bos 2460 (K, LIB, WAG);
+Ganta, c. 7°14' N, 8°59' W, 12 December 1936 (st), W.J. Harley 865 (K); National Forest, 18 miles N. of
+Tapeta, c. 6°45' N, 8°52' W, 25 January 1961 (st), Voorhoeve 151 (WAG);
+NIGERIA. unknown: S. Nigeria, 13 November 1909 (st), Farquhar 11 (K); probably collected in Western or
+South-Eastern State, 14 November 1968 (fl), van Meer 1014 (BR, K, MO, POZG, WAG); Cross River State:
+Obubra Distr, Okpon F.R, c. 6°40' N, 8°48' E, 6 August 1960 (st), Adebusuyi FHI 43965 (K); Ikom, Cross
+river, 150m, c. 5°58' N, 8°42' E, October 1934 (st), Catterall 55 (K); Ikom, Cross river, 150m, c. 5°58' N,
+8°42' E, 1935 (st), Catterall 70 (K); Calabar Distr, Dukwe, c. 4°57' N, 8°19' E, 9 March 1959 (st), Latilo FHI
+40349 (K); Oban, c. 5°19' N, 8°34' E, 1911 (st), Talbot s.n. (K); Oban District, c. 5°19' N, 8°34' E, (fl), Talbot
+s.n. (BR, K); Oban, c. 5°19' N, 8°34' E, 1911 (st), Talbot 210 (K); Oban, c. 5°19' N, 8°34' E, 1911 (st), Talbot
+1309 (BM, K); Oban, c. 5°19' N, 8°34' E, (st), Talbot 1720 (K); Edo State: Benin Province, Okumu F.R, c.
+6°20' N, 5°15' E, 8 December 1947 (st), Brenan 8404 (K, P); Benin Province, Okumu F.R, Reubens Camp, c.
+6°20' N, 5°15' E, 13 February 1948 (st), Brenan 9002 (K); Owan Distr, Ora-Ozalla F.R, on the road from
+Ozalla to Orua, c. 6°52' N, 5°50' E, 27 March 1973 (st), Eimunjeze FHI 69886 (K); Benin Province, Usonigbe
+F.R, c. 5°54' N, 6°05' E, 19 November 1949 (st), Keay FHI 25570 (K); Sapoba, c. 6°06' N, 5°53' E, (st), J.D.
+Kennedy 210 (K); Sapoba, c. 6°06' N, 5°53' E, 1928 (fl), J.D. Kennedy 413 (BR, HBG, K, P); Benin district,
+Sapoba, Jamieson River Swamps, c. 6°05' N, 5°52' E, 7 September 1954 (st), Onochie FHI 34407 (BR, FHI);
+Sapoba, c. 6°06' N, 5°53' E, 29 March 1935 (st), R. Ross 175 (BM, BR); Imo State: Mibidi rest House, Orlu, c.
+5°47' N, 7°02' E, 19 November 1946 (st), C.P. Thompson 9 (K); Lagos State: near Lagos, c. 6°27' N, 3°28' E,
+October 1883 (st), Moloney s.n. (K); Colony Province, Ikorodu District, c. 2mi from Ikorodu round-about on
+Lagos road, c. 6°37' N, 3°30' E, 9 May 1958 (fl, fr), Onochie FHI 38335 (BR, FHI, K, WAG); c. 2 miles from
+Ikorodu round-about on the Lagos road, c. 6°37' N, 3°30' E, July 1958 (st), Onochie FHI 38335 (K); Ondo
+State: Ondo Distr,Okelife, about 2 miles N of Ondo town, 365m, c. 7°07' N, 4°50' E, 10 November 1954 (st),
+Onochie FHI 34214 (K);
+TOGO. Maritime: après Noépé vers Palimé, c. 6°18' N, 1°01' E, June 1973 (fr), Brunel s.n. (TOGO); Forêt
+classée de Togodo Sud au niveau du village Kpétokopé, c. 6°49' N, 1°32' E, 22 August 1995 (st), Kokou 431
+(TOGO); Plateaux: Chute de Missahöhe, route Kpalimé - Kloto, c. 6°57' N, 0°35' E, August 1991 (st),
+Akpagana 2220 (TOGO); route montant vers le campement de Kloto, c. 6°57' N, 0°34' E, 1991 (st), Akpagana
+2352 (TOGO); [Misahöhe, but not on K-sheet], c. 6°57' N, 0°35' E, November 1913 (st), Mildbraed 7340 (K).
+
+ANNEA GEN. NOV. (DETARIEAE, CAESALPINIOIDEAE, LEGUMINOSAE)
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 13
+
+2. Annea laxiflora (Benth.) Mackinder & Wieringa
+ANGOLA, unknown: s.l., (st), Welwitsch 557 (K); Bengo: Luanda district, Dande, Cassalengues, 250m, c.
+8°28' S, 13°22' E, 18 November 1959 (fl), Araújo 89 (WAG); Cabinda: Mayombe, Barrozo Fazenda, 1921
+(st), Dawe 229 (K); Mayombe, 1921 (st), Dawe 232 (K); Chiluango, c. 5°01' S, 12°25' E, 1919 (st),
+Gossweiler 5965 (K); Cuanza Norte: Golungo Alto, Amongst the elevated mountains of Serra de Alto Queta,
+forming dense woods in Mata de Mangas, 304 - 793m, c. 9°15' S, 14°47' E, January 1856 (fl), Welwitsch 561
+(COI, K, LISU); Cuanza Sul: à 35km de gabela vers Novo Redondo, 200m, 11°06' S, 14°01' E, 21 March
+1974 (fr), Dechamps 1586 (BR, WAG); à 35km de gabela vers Novo Redondo, 200m, 11°06' S, 14°01' E, 21
+March 1974 (fr), Dechamps 1587 (BR, WAG); Luanda: km 38 on the railway line from Luanda to Catete,
+8°59' S, 13°29' E, 18 May 1946 (st), Gossweiler 13950 (K); Viana, Vale do Bengo, c. 8°54' S, 13°23' E, 6 May
+1966 (fl), Teixeira 10361 (LUA, PRE); Malanje: Zenza do Golungo, on elevated ground before and behind
+Quicanda, c. 9°30' S, 16°06' E, September 1857 (fr), Welwitsch 562 (LISU).
+CONGO (BRAZZAVILLE). Bouenza: Congo. Loudima, c. 4°07' S, 13°03' E, November 1888 (fl, fr), Thollon
+1367 (MO, P, WAG); Kouilou: Mayombe hills, along tributary of Niari River, 50m, 3°58.45' S, 12°13.35' E,
+11 October 2010 (fl), M'Boungou 398 (BR, G, IEC, K, MO, P, PRE, US, WAG); Niari: galerie Boucle du
+Niari, c. 3°35' S, 12°19' E, November 1958 (fl), Koechlin 5360 (IEC).
+CONGO (KINSHASA). unknown: s.l., 1907 (fl), J. Gillet s.n. (BR); Bas-Congo: Zongo, près des chutes
+galerie de l'Inkisi, c. 4°47' S, 14°54' E, (fl), Callens 2771 (BM, BR); Vallée de la Bundi, Inga, c. 5°31' S,
+13°34' E, 8 April 1960 (fr), Compère 2172 (BR, WAG); Matadi, c. 5°49' S, 13°28' E, 20 November 1932 (fl),
+Dacremont 328 (BR, K, PRE); Luki, c. 5°39' S, 13°04' E, 29 November 1947 (fl), Donis 1602 (B, BR, K,
+PRE); Luki, c. 5°38' S, 13°04' E, 19 June 1948 (fr), Donis 1860 (BR, WAG); Luki, vallée de la Kinkoko, c.
+5°38' S, 13°04' E, 21 October 1948 (fl), Donis 2070 (BR); Luki, vallée de la Kinkoko, c. 5°38' S, 13°04' E, 25
+October 1948 (fl), Donis 2080 (BR, K); Côtier, Nemlao près de Banana, c. 5°58' S, 12°26' E, 1907 (fl), J.
+Gillet 4018 (BR); vallée de la N'kula. en observation No 4726, c. 5°38' S, 13°07' E, 10 December 1947 (fl, fr),
+Toussaint 66 (BR, K, PRE); vallée de la N'kula. en observation No 4726, c. 5°38' S, 13°07' E, 11 February
+1948 (fr), Toussaint 218 (BR, K); env. de Banane, c. 6°00' S, 12°24' E, 25 July 1919 (fl), Vermoesen 2582
+(BR, K, S); Luki et env, c. 5°38' S, 13°04' E, 1952 (fr), Wagemans 326 (BR, K); Luki, rive gauche de la Luki,
+près des chutes "Tadi ya Kibaka", c. 5°43' S, 12°54' E, 7 January 1954 (fl), Wagemans 764 (BR); Luki, rive
+gauche de la Luki, près des chutes "Tadi ya Kibaka", c. 5°43' S, 12°54' E, 7 January 1954 (st), Wagemans 765
+(BR); Luki, c. 5°38' S, 13°04' E, 29 October 1955 (fl), Wagemans 1067 (BR); INEAC-Luki, parc de la Nkula.
+en observation n0 6332, nouvellement numéroté, au parc de la Nkula, c. 5°38' S, 13°07' E, 2 November 1955
+(fl), Wagemans 1068 (BR, K, WAG); INEAC-Luki, le long de la rivière Luki nouvelle road Mr Lafarge, c.
+5°38' S, 13°04' E, 20 January 1956 (st), Wagemans 1116 (BR, L, PRE); INEAC-Luki, le long de la rivière Luki
+nouvelle road Mr Lafarge (Bloc 8), c. 5°38' S, 13°04' E, 20 January 1956 (st), Wagemans 1117 (BR, K); Bloc
+10 to INEAC Luki, c. 5°38' S, 13°04' E, 7 March 1959 (st), Wagemans 1959 (K); INEAC-Luki, au bloc
+bananier no 10 tout près du sommet du mont Twevo, c. 5°38' S, 13°04' E, 7 March 1959 (fr), Wagemans 2214
+(BR); Kinshasa: Gombe sur Congo, c. 4°25' S, 15°11' E, 3 October 1946 (fl), Jans 281 (BR, K).
+
+14 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+MACKINDER & WIERINGA
+
+

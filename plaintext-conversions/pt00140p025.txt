@@ -1,0 +1,3443 @@
+Phytotaxa 140 (1): 1–25 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.140.1.1
+
+Annotated checklist and identification keys of the Acalyphoideae
+(Euphorbiaceae) of Equatorial Guinea (Annobón, Bioko and Río Muni)
+PATRICIA BARBERÁ*, MAURICIO VELAYOS & CARLOS AEDO
+Department of Biodiversity and Conservation, Real Jardín Botánico de Madrid, Plaza de Murillo 2, 28014, Madrid, Spain.
+*
+E-mail: pbarbera@rjb.csic.es
+
+Abstract
+This study provides a checklist of the Acalyphoideae (Euphorbiaceae) present in Equatorial Guinea, comprised of 18
+genera and 49 taxa. Identification keys have been added for genera and species of the subfamily. The best represented
+genus is Macaranga with ten species. Bibliographical references for Acalyphoideae (Euphorbiaceae) from Equatorial
+Guinea have been gathered and checked. Eight taxa are recorded for the first time from the country. One species is
+included based on literature records, because its distribution ranges suggest it may occur in Equatorial Guinea, and two
+introduced species could be naturalized.
+Key words: biodiversity, flora, floristics, tropical Africa
+
+Introduction
+The Euphorbiaceae sensu stricto are one of the largest and most diverse plant families with over 246 genera
+and 6300 species. Additionally they are one of the most diversified angiosperm families. The circumscription
+and the systematic position of this family have been controversial (Webster 1994, Wurdack et al. 2005, Xi et
+al. 2012). Today Euphorbiaceae s.str. are subdivided into four subfamilies: Cheilosioideae, Acalyphoideae,
+Crotonoideae and Euphorbioideae (Radcliffe-Smith 2001, APG 2009). Acalyphoideae are the largest
+subfamily of Euphorbiaceae and have a pantropical distribution. No species are native to Europe. Africa does
+not appear to be the epicenter for acalyphoids. Divided into 14 tribes, 110 genera and about 1500 species, the
+best represented genera are Acalypha L. (± 430 ssp.), Macaranga Thouars (± 240 ssp.) and Tragia L. (± 170
+ssp.) (Webster 1994, Radcliffe-Smith 2001, Stevens 2001 onwards, Takhtajan 2009), all of them with a large
+representation in Africa.
+Equatorial Guinea is located in Western Central Africa. The insular region includes two islands in the
+Gulf of Guinea: Bioko (2017 km2), c. 32 km from the coast of Cameroon and Annobón (17 km2), c. 400 km
+from Gabon. The continental mainland, Río Muni (26000 km 2), is located between 1ºN and 2ºN latitude. A
+compilation of data on location, phytogeography, climate and hydrogeography can be found in Guinea (1946),
+De Castro & De la Calle (1985), Pérez del Val (1993) or Heras et al. (2002). General information is also
+available online at http://www.floradeguinea.com.
+Important floristic works on the Acalyphoideae of Central and West tropical Africa include those of
+Thiselton-Dyer (1912, 1913), Hutchinson & Dalziel (1928) and Keay (1958) and, more recently, of
+Akoègninou et al. (2006). Other relevant studies of nomenclature, conservation and floristics of neighbouring
+countries were also considered (Aké Assi 1963, Guinea 1968, Radcliffe-Smith 1987, Lebrun & Stork 2006).
+A complete account of the Acalyphoideae (Euphorbiaceae) of Equatorial Guinea has never been published.
+Although the subfamily was included in the general vascular plant catalogue of Guinea (1946), this author
+added plants that he presumed to be present in Equatorial Guinea.
+Accepted by Hans-Joachim Esser: 6 Oct. 2013; published: 25 Oct. 2013
+
+1
+
+Over the last 25 years, the Real Jardín Botánico has carried out intensive fieldwork in Annobón, Bioko
+and Río Muni. Studies of these new collections and the available historical specimens have permitted the
+description of new taxa and the preparation of several checklists (Herrero et al. 2001, Velayos et al. 2001,
+2013, Fero et al. 2003, Parmentier & Geerinck 2003, Cabezas et al. 2004, 2005, 2009, Estrella et al. 2005,
+2006, Senterre 2005, Davies & Figueiredo 2007, Morales 2011).
+The aim of this work is to update the catalogue of Acalyphoideae for the whole of Equatorial Guinea
+including both bibliographic records and herbarium material. Identification keys have been added to facilitate
+species identification. This checklist is a first step towards a modern Flora of Equatorial Guinea.
+
+Material and Methods
+The checklist is based primarily on herbarium specimens and it has been completed adding identification
+keys, first for the genus and second for the species from each genus. We have studied more than 280
+specimens from BATA, BM, HBG, K and MA including both the historic collections made during British
+expeditions by Barter, Mann, Tessmann and Vogel, and modern collections obtained by Belgian and Spanish
+expeditions. For comparative purposes, some selected specimens from neighbouring countries were also
+studied.
+The keys were prepared on the basis of those available in the literature, and have been adapted and
+tailored for the geographical area covered in this work. The adaptation has been made based on the study of
+herbarium material from Equatorial Guinea.
+Bibliographic references for the subfamily Acalyphoideae of Equatorial Guinea were also checked. Most
+of these were gathered and compiled in the previous phases of our project (Aedo et al. 1999). One species was
+included based only on literature records as its distribution makes its presence in Equatorial Guinea likely. It is
+quoted with the number between brackets.
+The locality names used in this checklist have been brought up-to-date following Velayos et al. (2001:
+147–149); this source also contains a gazetteer including geographical coordinates.
+The checklist is ordered alphabetically by genera and species, with accepted names given in bold. Generic
+circumscription is in accordance with Govaerts et al. (2000), comparing also the actualized web version
+(Govaerts 2012). We used monographs or regional works such as those by Breteler (1997) or Léonard (1995),
+when they were available. The authors of scientific names are abbreviated according to Brummitt & Powell
+(1992). Those abbreviations that were not found in this book were confirmed with the updated version
+available online (http://www.ipni.org/ipni/query_author.html).
+Under each accepted name, a list of synonyms used in the relevant literature and the basionym are
+included. Specimens are ordered alphabetically by the different regions and provinces: Annobón, Bioko
+(provinces of Bioko Norte and Bioko Sur) and Río Muni (provinces of Centro Sur, Kie Ntem, Litoral and
+Wele Nzas). Previous bibliographical records for each taxon were grouped under the three regions. When the
+taxon is recorded under a synonym, this is indicated as follows: Thiselton-Dyer 1912: 871, sub Erythrococca
+oleracea. In the case of a misidentification, the author´s name is included following the cited species
+[Mildbraed 1922: 162, sub D. occidentale (Müll. Arg.) Pax & K. Hoffm.] A doubtful record is placed at the
+end of the checklist, followed by appendices, which include an index to scientific names and a list of
+collections.
+A description of geographical distribution follows each species, including worldwide circumscription
+(e.g. palaeotropical) and its distribution in Africa in accordance with Govaerts (2012) with additional
+information from monographs or floristic studies of Africa (Radcliffe-Smith 1987, Cable & Cheek 1998: 47,
+Cheek et al. 2000, 2004, 2011, Akoègninou et al. 2006, Sosef et al. 2006, Figueiredo & Smith 2008).
+Commentaries on some species are included when necessary.
+A summary table is included comparing the checklist of Acalyphoideae (Euphorbiaceae) with the
+accounts of Acalyphoideae of Cameroon and Gabon (Table 1). This summary table also includes data about
+the distribution of the species in the three main regions of Equatorial Guinea.
+
+2 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+TABLE 1. Comparison of the catalogue of Acalyphoideae (Euphorbiaceae) of Equatorial Guinea with the accounts for neighbouring
+countries. Acronyms and sources: Ann = Annobón (this study); Bio = Bioko (this study); Mun = Río Muni (this study); Gab = Gabon
+(Sosef et al. 2006 and Govaerts 2012); Cam = Cameroon (Govaerts 2012); Kupé (Cheek et al. 2004); Oku (Cheek et al. 2000); MtC =
+Mount Cameroon (Cable & Cheek 1998); Mefou (Cheek et al. 2011). Bold type: species expected to occur in Equatorial Guinea (but
+still not collected), as they are known from neighbouring countries.
+Equatorial Guinea
+Ann
+Bio
+Mun
+
+Gab
+
+Cam
+
+Kupe
+
+Oku
+
+MtC
+
+Mefou
+
+Acalypha annobonae
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Acalypha arvensis var. arvensis
+
+─
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+Acalypha brachiata
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Acalypha brachystachya
+
+─
+
++
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
+Acalypha ceraceopunctata
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Acalypha ciliata
+
+─
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+Acalypha crenata
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Acalypha fimbriata
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Acalypha hispida
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Acalypha manniana
+
+─
+
++
+
+─
+
+─
+
++
+
++
+
++
+
++
+
+─
+
+Acalypha neptunica
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Acalypha ornata
+
+─
+
++
+
+─
+
+─
+
++
+
++
+
++
+
+─
+
+─
+
+Acalypha paniculata
+
+─
+
++
+
+─
+
+─
+
++
+
++
+
+─
+
++
+
++
+
+Acalypha psilostachya var. psilostachya
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+Acalypha segetalis
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Alchornea cordifolia
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
++
+
+Alchornea floribunda
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
++
+
+Alchornea hirtella
+
+─
+
+─
+
++
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Alchornea laxiflora
+
+─
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
++
+
+─
+
+Alchornea mildbraedii
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Argomuellera lancifolia
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Argomuellera macrophylla
+
+─
+
+─
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+Aubletiana leptostachys
+
+─
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+Aubletiana macrostachys
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Caperonia latifolia
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
++
+
+─
+
+Caperonia serrata
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Chrozophora plicata
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Cleidion gabonicum
+
+─
+
++
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+Crotonogynopsis usambarica
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
++
+
+─
+
+Dalechampia chevalieri
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Dalechampia ipomoeifolia
+
+─
+
++
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+Dalechampia scandens
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Discoclaoxylon hexandrum
+
+─
+
++
+
+─
+
+─
+
++
+
++
+
+─
+
++
+
+─
+
+Discoclaoxylon pedicellare
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Discoclaoxylon pubescens
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Discoglypremna caloneura
+
++
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Erythrococca africana
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
++
+
+─
+
+Erythrococca anomala
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Erythrococca atrovirens
+
+─
+
+─
+
++
+
+─
+
++
+
++
+
+─
+
+─
+
++
+
+Erythrococca columnaris
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Erythrococca dewevrei
+
+─
+
+─
+
++
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Erythrococca hispida
+
+─
+
+─
+
+─
+
+─
+
++
+
++
+
++
+
++
+
+─
+
+Erythrococca mannii
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Erythrococca membranacea
+
+─
+
+─
+
+─
+
++
+
++
+
++
+
+─
+
++
+
++
+
+Erythrococca pallidifolia
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Species
+
+...... continued on the next page
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 3
+
+Species
+Erythrococca patula
+
+Equatorial Guinea
+Ann
+Bio
+Mun
+─
+─
+─
+
+Gab
+─
+
+Cam
++
+
+Kupe
+─
+
+Oku
+─
+
+MtC
+─
+
+Mefou
+─
+
+Erythrococca rivularis
+
+─
+
+─
+
++
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Erythrococca welwitschiana
+
+─
+
+─
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
++
+
+Macaranga angolensis
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
++
+
+Macaranga assas
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Macaranga barteri
+
+─
+
+─
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+Macaranga capensis
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Macaranga ebolowana
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Macaranga gabunica
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Macaranga heudelotii
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Macaranga hurifolia
+
+─
+
+─
+
++
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
+Macaranga klaineana
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Macaranga le-testui
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Macaranga magnistipulosa
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Macaranga monandra
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
++
+
+Macaranga occidentalis
+
+─
+
++
+
+─
+
+─
+
++
+
++
+
++
+
++
+
+─
+
+Macaranga paxii
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Macaranga pierreana
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Macaranga poggei
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Macaranga saccifera
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
++
+
+Macaranga schweinfurthii
+
+─
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
++
+
++
+
+Macaranga spinosa
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
++
+
+Macaranga staudtii
+
+─
+
+─
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+Macaranga tchibangensis
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Mallotus oppositifolius
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
++
+
+Mallotus subulatus
+
+─
+
++
+
+─
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Mareya brevipes
+
+─
+
+─
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+Mareya micrantha
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Mareyopsis longifolia
+
+─
+
+─
+
++
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Mareyopsis oligogyna
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Micrococca mercurialis
+
+─
+
+─
+
++
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
+Necepsia afzelii subsp. zenkeri
+
+─
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
++
+
+─
+
+Plukenetia conophora
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Pseudagrostistachys africana subsp. africana
+
+─
+
++
+
++
+
+─
+
+─
+
++
+
+─
+
++
+
++
+
+Pycnocoma chevalieri
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Pycnocoma cornuta
+
+─
+
+─
+
+─
+
++
+
+─
+
++
+
+─
+
+─
+
+─
+
+Pycnocoma macrophylla
+
+─
+
++
+
++
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Pycnocoma minor
+
+─
+
+─
+
++
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Pycnocoma thollonii
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Ricinus communis
+
+─
+
++
+
+─
+
++
+
+─
+
++
+
++
+
+─
+
+─
+
+Tragia benthamii
+
+─
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+─
+
+Tragia brevipes
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Tragia laminularis
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+─
+
+Tragia mildbraediana
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Tragia plukenetii
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Tragia preussii
+
+─
+
+─
+
++
+
++
+
++
+
++
+
+─
+
++
+
+─
+
+Tragia aff. tenuifolia
+
+─
+
++
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
++
+
+Tragia vogelii
+
+─
+
+─
+
+─
+
+─
+
++
+
+─
+
+─
+
+─
+
+─
+
+Tragia volubilis
+
+─
+
++
+
++
+
++
+
++
+
+─
+
+─
+
+─
+
++
+
+Total
+
+3
+
+27
+
+36
+
+54
+
+63
+
+28
+
+7
+
+30
+
+15
+
+4 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+Results
+The checklist and identification keys
+Acalyphoideae
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+-
+
+Leaves opposite.................................................................................................................................................Mallotus
+Leaves alternate ........................................................................................................................................................... 2.
+Climbers, frequently with twining stems..................................................................................................................... 3.
+Trees, shrubs or annual herbs....................................................................................................................................... 5.
+Inflorescence surrounded by 2 involucral bracts ...................................................................................... Dalechampia
+Inflorescence not involucrate....................................................................................................................................... 4.
+Indument simple, often stinging; stamens 3; ovary 3-celled ............................................................................... Tragia
+Glabrous, without stinging hairs; stamens ± 40; ovary 4-celled.................................................................... Plukenetia
+Petioles short (≤2 cm) .................................................................................................................................................. 6.
+Petioles long (>2 cm)................................................................................................................................................... 9.
+Leaves entire or subentire ............................................................................................................................ Pycnocoma
+Leaves serrate, glandular-crenate or dentate................................................................................................................ 7.
+Leaves with knotted vein glands near base....................................................................................................... Cleidion
+Leaves without knotted vein glands near base............................................................................................................. 8.
+Male pedicel articulate near the base; female calyx 2(–4)-lobed.............................................................. Erythrococca
+Male pedicel not articulate near the base; female calyx 5–6(–9)-lobed.................................................... Argomuellera
+Petals present ................................................................................................................................. Pseudagrostistachys
+Petals absent.............................................................................................................................................................. 10.
+Anthers cylindrical or vermiform; female flowers subtended by accrescent bracts; styles laciniate with filiform segments, often red................................................................................................................................................ Acalypha
+Anthers not cylindrical nor vermiform; female flowers not subtended by accrescent bracts; styles not laciniate… 11.
+Leaves palmately lobed, palmatifid or palmatipartite ............................................................................................... 12.
+Leaves not lobed or divided....................................................................................................................................... 13.
+Leaves gland-dotted beneath; filaments unbranched.................................................................................. Macaranga
+Leaves not gland-dotted beneath; filaments branched........................................................................................ Ricinus
+Leaves gland-dotted beneath; fruit a drupe.................................................................................................. Macaranga
+Leaves not gland-dotted beneath; fruit a capsule....................................................................................................... 14.
+Annual herbs ................................................................................................................................................ Micrococca
+Shrubs or trees ........................................................................................................................................................... 15.
+Inflorescences with male and female flowers; styles plumulose....................................................................... Mareya
+Inflorescences unisexual; styles not plumulose ......................................................................................................... 16.
+Male flowers without interstaminal glands; styles 5–25 mm long ................................................................ Alchornea
+Male flowers with interstaminal glands; styles less than 4 mm long ........................................................................ 17.
+Leaves with basal glands ........................................................................................................................................... 18.
+Leaves without basal glands ...................................................................................................................................... 19.
+Inflorescences axillary; fruit dehiscent ................................................................................................. Discoclaoxylon
+Inflorescences cauline; fruit indehiscent.......................................................................................................Mareyopsis
+Inflorescences axillary; stamens ± 40............................................................................................................ Plukenetia
+Inflorescences terminal; stamens 7–8 ...................................................................................................Discoglypremna
+
+1. Acalypha L.
+1.
+2.
+3.
+4.
+5.
+-
+
+Male and female flowers on the same inflorescence ...............................................................Acalypha brachystachya
+Male and female flowers usually on separate inflorescences ...................................................................................... 2.
+Female inflorescences usually terminal and paniculate.................................................................Acalypha paniculata
+Female inflorescences terminal or axillary, spicate or racemose................................................................................. 3.
+Leaves lanceolate to triangular-lanceolate; female inflorescences up to 4(–5) cm long ......... … Acalypha annobonae
+Leaves ± ovate; female inflorescences 5–30 cm long ................................................................................................. 4.
+Female inflorescences axillary; female bracts entire; flowers with massed red styles....................... Acalypha hispida
+Female inflorescences terminal; female bracts dentate or multifid; flowers without massed red styles..................... 5.
+Male bracts 1(–4) mm long; female bracts dentate, covered with gland-tipped hairs......................... Acalypha ornata
+Male bracts ± 0.5 mm long; female bracts multifid, eglandular..................................................... Acalypha manniana
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 5
+
+1.1. Acalypha annobonae Pax & K. Hoffm.
+Annobón: Quioveo, Mildbraed 6538 (HBG, original material); ridge W of Crater Lake, Wrigley & Melville 55
+(BM, K, MA).
+Previously reported from Annobón (Mildbraed 1922: 162, sub Acalypha sp., Pax & Hoffmann 1924: 50,
+Mildbraed 1937: 700, Exell 1944: 299, 1963: 113, 1973: 352, Guinea 1946: 312, Govaerts 2012). This species
+is endemic to Annobón Island.
+1.2. Acalypha brachystachya Hornem.
+Bioko Sur: Gran Caldera de Luba, río Riaco, Galán & Barberá 4596PG (MA), 4738PG (MA).
+Previously reported from Río Muni (Guinea 1946: 142). In Africa, this species has been reported from
+Angola, Cameroon, D.R. Congo, Ethiopia, Gabon, Kenya, Malawi, Mozambique, Ruanda, Tanzania and
+Uganda (Keay 1958: 409, Radcliffe-Smith 1987: 203, Cable & Cheek 1998: 47, Cheek et al. 2000: 131, 2004:
+283, Sosef et al. 2006: 158, Govaerts 2012).
+1.3. Acalypha hispida Burm.f.
+Bioko Norte: Malabo–Basacato, estrada km 27–28, Carvalho 4328 (MA). Litoral: Jandje, Eneme 540
+(BATA). Unknown locality: Lope del Val s.n. (MA-500429).
+Not previously recorded from Equatorial Guinea. The origin of this species is not known with certainty,
+but possibly it comes from the Bismarck Archipelago (Radcliffe-Smith 1987: 212) or Malaysia (Akoègninou
+et al. 2006: 547). It has been introduced throughout the tropics countries for ornamental purposes. In Africa, it
+has been reported from Benin and Tanzania (Radcliffe-Smith 1987: 212, Akoègninou et al. 2006: 547).
+1.4. Acalypha manniana Müll. Arg.
+Bioko Sur: Moka, plateau area, Boughey 65 (K); Musola–Moka, estrada km 13, Carvalho 2758 (K, MA);
+entre el cruce y Moka, Fernández Casas 11462 (K, MA); Moka, camino de Ureca, Fernández Casas 11746
+(K, MA); entre Moka y el lago Biaó, Fernández Casas 11912 (K, MA); Belebú–Balachá, Fernández Casas
+12170 (MA); entre Moka y el lago Biaó, Fernández Casas et al. 10387 (MA), 10398 (K, MA); cerca y al sur
+de Moka, en el camino de las Cascadas, Fernández Casas et al. 10434 (MA); trocha del Servicio Agronómico
+de Musola, Guinea 1104 (K); Musola, trocha, Guinea 1106 (MA); km 17 de la carretera de Musola, Guinea
+1611 (MA), 1613 (MA), 1614 (K); finca de D. Marcelino Puente, Guinea 1720 (MA), 1721 (MA); Moka,
+Wrigley 510 (K).
+Previously recorded from Bioko (Keay 1958: 409, Exell 1973: 352, Radcliffe-Smith 1987: 189, Cable &
+Cheek 1998: 47, Govaerts 2012). This tropical African species has been reported from Benin, Burundi,
+Cameroon, D.R. Congo, Ghana, Nigeria, Ruanda and Uganda (Keay 1958: 409, Radcliffe-Smith 1987: 189,
+Cable & Cheek 1998: 47, Cheek et al. 2000: 131, 2004: 283, Govaerts 2012).
+1.5. Acalypha ornata Hochst. ex A. Rich.
+Bioko Sur: entre Luba y Moka, Castroviejo 9199 (MA).
+Previously recorded from Bioko (Guinea 1946: 312, Exell 1973: 352) and Río Muni (Guinea 1946: 159,
+312). This tropical and South African species has been reported from Angola, Burundi, Botswana, Cameroon,
+the Central African Republic, Congo-Brazzaville, D.R. Congo, Eritrea, Ethiopia, Kenya, Malawi,
+Mozambique, Namibia, Nigeria, Ruanda, South Africa, Sudan, Swaziland, Tanzania, Uganda, Zambia and
+Zimbabwe (Keay 1958: 409, Radcliffe-Smith 1987: 192, Govaerts et al. 2000: 79, Cheek et al. 2000: 131,
+2004: 283, Figueiredo & Smith 2008: 70, Govaerts 2012).
+1.6. Acalypha paniculata Miq.
+Acalypha racemosa Wall. ex Baillon, nom. nud.
+
+Bioko: Barter s.n. (K). Bioko Norte: Malabo–Riaba, estrada km 62, Carvalho 3241 (MA). Bioko Sur: Luba,
+finca Teixeira, Carvalho 2525 (MA).
+
+6 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+Previously recorded from Bioko (Thiselton-Dyer 1912: 887, Mildbraed 1922: 185, Pax & Hoffmann
+1924: 16, Hutchinson & Dalziel 1928: 302, Guinea 1946: 312, Cufodontis 1956: 426, Keay 1958: 409, Exell
+1973: 352, sub A. racemosa, Govaerts 2012) and Río Muni (Guinea 1946: 151, 159, 312). This species is
+recorded from tropical Africa through the Arabian Peninsula to South India, Sri Lanka and Western Malesia.
+In Africa, it has been reported from Angola, Benin, Burundi, Cameroon, the Central African Republic, Chad,
+Congo-Brazzaville, D.R. Congo, Eritrea, Ghana, Ivory Coast, Kenya, Malawi, Mozambique, Nigeria, Ruanda,
+Sudan, Togo, Tanzania, Uganda and Zimbabwe (Keay 1958: 409, Radcliffe-Smith 1987: 187, Cable & Cheek
+1998: 47, Cheek et al. 2004: 283, 2011: 146, Akoègninou et al. 2006: 548, Figueiredo & Smith 2008: 70,
+Govaerts 2012).
+
+2. Alchornea Sw.
+1.
+2.
+-
+
+Leaves cordate; petioles 5–14 cm long; ovary 2-locular; styles 2; fruit stellate-pubescent ..........Alchornea cordifolia
+Leaves not cordate; petioles 0.5–3 cm long; ovary 3-locular; styles 3; fruit not stellate-pubescent ............................ 2
+Leaves oblanceolate to oblong-lanceolate, repand-denticulate, 14–31 × 6–12 cm, with 12–19 pairs of lateral nerves;
+male panicles axillary; female inflorescences 11–40 cm long..................................................... Alchornea floribunda
+Leaves elliptic to oblanceolate, crenate or entire, 7–13 × 2.5–6 cm, with 7–10 pairs of lateral nerves; male panicles
+terminal or axillary, occasionally cauline; female inflorescences up to 8 cm long ...........................Alchornea hirtella
+
+2.1. Alchornea cordifolia (Schumach. & Thonn.) Müll. Arg.
+Alchornea cordata Benth.
+Schousboea cordifolia Schumach. & Thonn.
+
+Bioko: Barter s.n. (K); Mann 81 (K); Vogel 73 (K). Bioko Norte: Musola–Malabo, Carvalho 2788 (MA);
+Malabo–Cupapa, estrada kms 22–23, na direcçao do Pico Basilé, Carvalho 3973 (MA); cerca de Rebola, km
+20–21, Fernández Casas 11298 (MA); Malabo–Luba, km 32, Fernández Casas 11317 (MA); Malabo–Luba,
+km 9, Patio Libano Serra, Gómez Marín et al. 67 (MA); Bahía de Venus, Guinea 215 (MA). Bioko Sur:
+Malabo–Luba, estrada km 40, Carvalho 2116 (BM, K, MA); Luba–Veiga y Avendaño, en el límite entre
+Batete y Luba, Fernández Casas 12017 (MA). Centro Sur: Acurenam, Mbeayop, Aedo, Pérez Viso & Velayos
+5407 (MA); Parc National de Monte Alén, Ngomo 134 (BATA); Parque Nacional de Monte Alén, Moka,
+senda que sube al repetidor de televisión, Pérez Viso 107 (MA); Parque Nacional de Monte Alén, Engong,
+Pérez Viso 343bis (MA); Parque Nacional de Monte Alén, Engong, camino hacia Lovayat, Pérez Viso 836
+(MA); Niefang, explotación forestal de Matroguisa, Pérez Viso 2290 (MA); Oyac Esom, Pérez Viso 3451
+(MA). Kie Ntem: camino que va desde Nsoc Nsomo a Bata, a unos 3 km de Nsoc Nsomo, Mocomo, Cabezas
+et al. 1277 (MA), 1285 (MA); Akam, Fero & Esono 68 (MA), 88 (MA); Akam, carretera hacia Nsok–Nsomo,
+Fero & Esono 114 (MA). Litoral: Utonde, camino que va de la orilla del río a la carretera de Bata, Barbera et
+al. 262 (MA); Bata–Pembe, estrada kms 18–19, Carvalho 5189 (BATA, MA); Bata, km 26 carretera Bata–
+Movo, Castelo, Cabeza & Juste s.n. (MA-319721); Ndote, Eneme Fr. 246 (BATA); Benito, Guinea 276-553
+(MA); Ecuco, Guinea 575-164 (MA); Ecuco, campo aviación, Guinea 583 (MA); Ndote Nord, env. du village
+Jandje, Lisowski M-51 (BATA); Bata, cerca del puerto, Pérez Viso 1457 (MA); Bata–Kogo, km 67, Pérez Viso
+1841 (MA); desembocadura del río Campo, Pérez Viso 2140 (MA), 2141 (MA); Corisco, Velayos et al. 9960
+(MA). Wele Nzas: explotación maderera de Añisok–Mongola, Pérez Viso 3749 (MA); Nkolentangan,
+Tessmann 167 (K). Unknown locality: Lope del Val s.n. (MA-714013).
+Previously recorded from Bioko (Thiselton-Dyer 1912: 915, sub A. cordata, Pax & Hoffmann 1914:
+231, Mildbraed 1922: 185, sub A. cordata, Keay 1958: 403, Exell 1973: 352, Fernández Casas 1994: 37,
+Govaerts 2012) and Río Muni (Thiselton-Dyer 1912: 916, sub A. cordata, Pax & Hoffmann 1914: 232,
+Guinea 1946: 64, 142, 145, 148, 156, Govaerts 2012). This species has been reported from Angola, Benin,
+Burundi, Cameroon, the Central African Republic, Congo-Brazzaville, D.R. Congo, Gambia, Gabon, Ghana,
+Guinea Bissau, Guinea, Ivory Coast, Kenya, Liberia, Mali, Nigeria, Ruanda, São Tomé and Príncipe, Senegal,
+Sierra Leone, Sudan, Tanzania, Togo and Uganda (Keay 1958: 403, Radcliffe-Smith 1987: 253, Cable &
+Cheek 1998: 47, Cheek et al. 2004: 283, 2011: 146, Akoègninou et al. 2006: 549, Sosef 2006: 159, Figueiredo
+& Smith 2008: 70, Figueiredo et al. 2011: 53, Govaerts 2012).
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 7
+
+2.2. Alchornea floribunda Müll. Arg.
+Bioko: Rilaja, Fernández Casas et al. 10066 (MA); Mann 306 (K, original material). Bioko Norte: Malabo–
+Pico Basilé, estrada km 3–4, Carvalho 2164 (MA); Malabo–Pico Basilé, estrada para o pico km 8–9,
+Carvalho 2858 (MA); cerca de Rebola, km 20–21, Fernández Casas 11281 (MA). Bioko Sur: entre el cruce y
+Moka, Fernández Casas 11461 (MA); cerca del lago Loreto, Fernández Casas 11870 (MA); entre Moka y el
+lago Biaó, Fernández Casas 11907 (MA); Gran Caldera de Luba, campamento Ureca, Galán & Barberá
+4666PG (MA); Moka, Wrigley 649 (BM, K). Centro Sur: Monte Alén, subida al mirador, Cabezas 120 (MA);
+Parque Nacional de Monte Alén, carretera que sube desde el hotel de Monte Alén hasta el repetidor de
+televisión, Pérez Viso 61 (MA); Parque Nacional de Monte Alén, Esamalang, Pérez Viso 1176 (MA); Niefang,
+explotación forestal de Matroguisa, Pérez Viso 2325 (MA); Niefang, Bindeng, Pérez Viso 2379 (MA), 2405
+(MA); Nfing Ntagan, poblado en la carretera forestal de Niefang a Bata, a continuación de Mosumu, Pérez
+Viso 2753bis (MA); Bisun, carretera de Niefang a Evinayong, Pérez Viso 3411 (MA); Monte Alén, subida al
+mirador, Velayos 9286 & Pérez Viso (MA). Kie Ntem: alrededores del poblado de Obot Nku-Eseng, a 7 km de
+Nsok Nsomo, Barberá et al. 156 (MA); Nfek-ayong (Micomiseng), Obama 777 (BATA). Wele Nzas: Eviam,
+carretera forestal de Bata a Niefang, Pérez Viso 2619 (MA); Nvua–Nnvam Oveng, Añisok, Pérez Viso 2999
+(MA); Ebo–Ngoo Nsomo, carretera forestal Añisok Mongola–Niefang, Pérez Viso 3170 (MA); Mbut, km 30
+de la carretera de Enkue, Pérez Viso 3681 (MA). Unknown locality: Lope del Val s.n. (MA-715172); Mount
+John, River Kongui, Mann 1801 (K).
+Previously recorded from Bioko (Thiselton-Dyer 1912: 916, Pax & Hoffmann 1914: 241, Mildbraed
+1922: 185, Hutchinson & Dalziel 1928: 303, Guinea 1946: 311, Keay 1958: 403, Exell 1973: 352, Cable &
+Cheek 1998: 47, Govaerts 2012) and Río Muni (Thiselton-Dyer 1912: 916, Pax & Hoffmann 1914: 241, Keay
+1958: 403, Govaerts 2012). Distributed in West, Central, North-East and South-East tropical Africa, this
+species has also been reported from Angola, Cameroon, the Central African Republic, Congo-Brazzaville,
+D.R. Congo, Gabon, Ghana, Ivory Coast, Liberia, Mali, Nigeria, Sierra Leone, Sudan and Uganda (Keay
+1958: 403, Radcliffe-Smith 1987: 255, Cable & Cheek 1998: 47, Cheek et al. 2004: 284, 2011: 146, Sosef et
+al. 2006: 159, Figueiredo & Smith 2008: 70, Govaerts 2012).
+2.3. Alchornea hirtella Benth.
+Alchornea hirtella f. comoensis (Beille) Pax & K. Hoffm.
+
+Centro Sur: Parque Nacional de Monte Alén, Esamalang, Pérez Viso 584 (MA); Parque Nacional de Monte
+Alén, Engong, camino hacia Lovayat, Pérez Viso 853 (MA); Parque Nacional de Monte Alén, Bong, senda
+que va hacia el lago Atok, Pérez Viso 1310 (MA); Parque Nacional de Monte Alén, Engong, senda que va a
+una gran roca que se ve desde el pueblo, Pérez Viso 2682 (MA). Litoral: Corisco, Velayos et al. 9968 (MA).
+Wele Nzas: Eviam, Pérez Viso 1745 (MA); Eviam, Aconibe–Acurenam, Pérez Viso 1761 (MA); pista
+forestal, entre Eviam y Aconibe, Pérez Viso 2091 (MA).
+Previously recorded from Río Muni (Pax & Hoffmann 1914: 241, sub A. hirtella f. comoensis, Guinea
+1946: 154, 311, Keay 1958: 403, Govaerts 2012, sub A. hirtella f. comoensis). This tropical and South African
+species has been reported from Angola, Burundi, Cameroon, Congo-Brazzaville, D.R. Congo, Gabon, Ghana,
+Guinea Bissau, Guinea, Ivory Coast, Kenya, Liberia, Malawi, Mozambique, Nigeria, Rwanda, Senegal, São
+Tomé and Príncipe, Sierra Leone, South Africa, Tanzania, Uganda and Zambia (Keay 1958: 403, RadcliffeSmith 1987: 256, Cable & Cheek 1998: 48, Cheek et al. 2004: 284, Sosef et al. 2006: 159, Figueiredo &
+Smith 2008: 70, Figueiredo et al. 2011: 53, Govaerts 2012).
+
+3. Argomuellera Pax
+1.
+-
+
+Stamens 15–25..........................................................................................................................Argomuellera lancifolia
+Stamens (25–)30–75(–80).................................................................................................... Argomuellera macrophylla
+
+3.1. Argomuellera lancifolia (Pax) Pax
+Neopycnocoma lancifolia Pax
+Wetriaria lancifolia (Pax) Pax
+
+8 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+Centro Sur: Abang, Niefang, Pérez Viso 4217 (MA). Wele Nzas: Nkolentangan, Tessmann 359 (K, original
+material).
+Previously recorded from Río Muni (Thiselton-Dyer 1913: 962, sub Neopycnocoma lancifolia, Pax &
+Hoffmann 1914: 52, sub Wetriaria lancifolia, Léonard 1996b: 26, Govaerts 2012). This species has also been
+reported from neighbouring Gabon (Sosef et al. 2006: 160, Govaerts 2012).
+3.2. Argomuellera macrophylla Pax
+Wetriaria macrophylla (Pax) Pax
+
+Centro Sur: Parque Nacional de Monte Alén, Santa Cruz, Pérez Viso 1197 (MA). Litoral: Bebai,
+Campogebiet, Tessmann 563 (K), 624 (K).
+Previously recorded from Río Muni (Thiselton-Dyer 1912: 926, Pax & Hoffmann 1914: 50, sub
+Wetriaria macrophylla, Govaerts 2012) and Equatorial Guinea (Hutchinson & Dalziel 1928: 304, Keay 1958:
+405, Léonard 1996b: 30). This species has also been reported from Angola, Burundi, Cameroon, CongoBrazzaville, D.R. Congo, Ethiopia, Gabon, Ghana, Guinea, Ivory Coast, Kenya, Liberia, Malawi,
+Mozambique, Nigeria, Ruanda, Sierra Leone, Sudan, Tanzania, Uganda, Zambia and Zimbabwe (Keay 1958:
+405, Radcliffe-Smith 1987: 227, Sosef et al. 2006: 160, Figueiredo & Smith 2008: 70, Léonard 1996b: 30,
+Govaerts 2012).
+
+4. Cleidion Blume
+4.1. Cleidion gabonicum Baill.
+Bioko Norte: Malabo–Baney, Montes Basaca, Carvalho 4366 (MA); Malabo–Baney, entre Baney e os
+Montes Basaca, Carvalho 4393 (MA).
+Not previously reported from Equatorial Guinea. This species is distributed in West–Central tropical
+Africa and has been reported from Cameroon, Gabon, Ghana, Ivory Coast and Nigeria (Keay 1958: 406,
+Léonard 1972: 299, Govaerts 2012).
+
+5. Dalechampia L.
+5.1. Dalechampia ipomoeifolia Benth.
+Bioko Norte: Malabo–Sampaca, estrada km 4–5, Carvalho 2567 (MA). Centro Sur: montagne près de
+Bikurga, Lisowski M-1377 (BATA). Litoral: Bata–Pembe, estrada km 33, Carvalho 4835 (MA); Bata–
+Pembe–Entuba, estrada km 20–21, Carvalho 5235 (BATA, MA); carretera de Mbini–Bata, puente Sendje
+sobre el río Wele o Woro, Fero et al. 303 (MA). Wele Nzas: région d´Anisok, au-dessus du village
+Nzuamayong, inselberg Akuom, Lisowski M-650 (BATA).
+Previously recorded from Río Muni (Thiselton-Dyer 1912: 953, Guinea 1946: 313, Keay 1958: 413,
+Govaerts 2012). This species has also been reported from Cameroon, the Central African Republic, CongoBrazzaville, D.R. Congo, Gabon, Ghana, Ivory Coast, Liberia, Nigeria, Sierra Leone, Togo, Tanzania and
+Uganda (Keay 1958: 412, Radcliffe-Smith 1987: 286, Sosef 2006: 163, Govaerts 2012).
+
+6. Discoclaoxylon Pax & K. Hoffm.
+1.
+
+Leaves narrowly elliptic, up to 6(–6.5) cm wide, shallowly denticulate, gradually narrowed at the base.....................
+............................................................................................................................................ Discoclaoxylon pedicellare
+Leaves elliptic, more than 6 cm wide, serrate, cuneate to rounded at the base ............................................................ 2
+2. Stamens (3–)6–8; female pedicels 0.1–0.2 mm long, extending to 2 mm in fruit ................. Discoclaoxylon hexandrum
+- Stamens (10–)12; female pedicels 1–3 mm long, extending to 5 mm in fruit...........................Discoclaoxylon pubescens
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 9
+
+6.1. Discoclaoxylon hexandrum (Müll. Arg.) Pax & K. Hoffm.
+Claoxylon hexandrum Müll. Arg.
+Claoxylon preussii Pax
+
+Bioko: Fernández Casas 11872 (MA), Mann 186 (K, original material). Bioko Norte: Malabo–Pico Basilé,
+estrada kms 3–4, Carvalho 4233 (MA). Bioko Sur: Malabo–Luba, estrada km 55–56, Carvalho 3743 (K,
+MA); Moka–Musola, estrada kms 8–9, Carvalho 3752 (MA); Musola–Moka–Granja Agronómica, estrada
+kms 10–11 a contar do cruzamento Luba–Malabo–Moka, Carvalho 3816 (MA); cerca del lago Loreto,
+Fernández Casas 11867 (MA); borde de la playa de Ureka, Guinea 2430 (MA); alrededores de Ureka, Guinea
+2431 (MA); Balacha S trail, pt. 133–pt. 134, Luke et al. 11760 (MA).
+Previously recorded from Bioko (Thiselton-Dyer 1912: 876, sub Claoxylon hexandrum, Pax &
+Hoffmann 1914: 139, Mildbraed 1922: 185, Hutchinson & Dalziel 1928: 301, sub C. hexandrum, Guinea
+1946: 311, Keay 1958: 401, sub C. hexandrum, Exell 1973: 352, Govaerts 2012) and Río Muni (Guinea 1946:
+154, sub Claoxylon preussii). This West, West-Central and Tropical East African species has been reported
+from Cameroon, the Central African Republic, Congo-Brazzaville, Ghana, D.R. Congo, Ivory Coast, Liberia,
+Nigeria, Sierra Leone and Uganda (Keay 1958: 401, Radcliffe-Smith 1987: 280, Cable & Cheek 1998: 49,
+Cheek et al. 2004: 286, Govaerts 2012).
+6.2. Discoclaoxylon pedicellare (Müll. Arg.) Pax & K. Hoffm.
+Claoxylon pedicellare Müll. Arg.
+
+Bioko: Mann s.n. (K, original material).
+Previously recorded from Bioko (Thiselton-Dyer 1912: 874, sub Claoxylon pedicellare, Pax &
+Hoffmann 1914: 139, Mildbraed 1922: 185, Hutchinson & Dalziel 1928: 301, sub C. pedicellare, Guinea
+1946: 311, Keay 1958: 401, sub C. pedicellare, Exell 1973: 352, Govaerts 2012). Only known from Bioko.
+This species is very close to D. hexandrum.
+6.3. Discoclaoxylon pubescens (Pax & K. Hoffm.) Exell
+Discoclaoxylon occidentale var. pubescens Pax & K. Hoffm.
+
+Annobón: Nordkrater, Mildbraed 6492 (HBG); Quioveo, Mildbraed 6555 (HBG, lectotype); subida al pico
+Quioveo, Velayos et al. 11648 (MA); subida a Santa Mina desde la aldea de San Pedro, cerca de la cuerda del
+macizo de Santa Mina, Velayos et al. 11690 (MA); highest part of crater, Wrigley & Melville 96 (BM, K,
+MA).
+Previously recorded from Annobón (Mildbraed 1922: 162, sub D. occidentale (Müll. Arg.) Pax &
+Hoffm., Pax & Hoffmann 1924: 182, sub D. occidentale var. pubescens, Exell 1944: 299, sub D. occidentale
+var. pubescens, 1963: 112, 1973: 353, Guinea 1968: 134, Govaerts 2012, Barberá et al. 2013). Endemic to
+Annobón Island.
+
+7. Discoglypremna Prain
+7.1. Discoglypremna caloneura (Pax) Prain
+Alchornea caloneura Pax
+Discoglypremna caloneura var. membranacea Pax
+
+Annobón: valle de Anganchi, Aedo et al. 18068 (MA); borde del lago A Pot, Fero et al. 229 (MA); camino de
+Palé a Santa Cruz (Awal), junto al arroyo Jada, Fero et al. 262 (MA); centro, Wrigley 288 (BM). Bioko Norte:
+Malabo–Cupapa, estrada km 25, Carvalho 2226 (BATA, BM, MA); Luba–Malabo, estrada km 14–15,
+Carvalho 2854 (MA); Luba–Malabo, estrada km 38, Carvalho 2856 (MA); Malabo–Cupapa, estrada kms 11–
+12, Carvalho 4017 (MA). Wele Nzas: Nkolentangan, Tessmann 97 (K).
+Previously recorded from Annobón (Mildbraed 1922: 162, sub var. membranacea, Exell 1944: 300,
+1973: 353, Léonard 1995: 207), Bioko (Léonard 1995: 207, Cable & Cheek 1998: 49, Govaerts 2012) and Río
+Muni (Thiselton-Dyer 1912: 932, Pax & Hoffmann 1914: 19, Hutchinson & Dalziel 1928: 305, Guinea 1946:
+310, Keay 1958: 403, Léonard 1995: 207). This West, West-Central and Tropical East African species has
+
+10 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+been reported from Angola, Benin, Cameroon, the Central African Republic, Congo-Brazzaville, D.R. Congo,
+Gabon, Ghana, Guinea, Ivory Coast, Liberia, Nigeria, São Tomé and Príncipe, Sierra Leone, Togo and
+Uganda (Keay 1958: 403, Radcliffe-Smith 1987: 223, Cable & Cheek 1998: 49, Cheek et al. 2004: 286,
+Akoègninou et al. 2006: 556, Sosef et al. 2006: 164, Figueiredo & Smith 2008: 71, Figueiredo et al. 2011: 54,
+Govaerts 2012).
+
+8. Erythrococca Benth.
+1.
+2.
+3.
+4.
+5.
+6.
+-
+
+Branchlets armed with a pair of sharp stipular spines at the base of each leaf.......................... Erythrococca anomala
+Branchlets not spiny..................................................................................................................................................... 2.
+Leaves densely pilose ................................................................................................................ Erythrococca dewevrei
+Leaves glabrous or glabrescent or with hairs in the nerves and spreading hairs beneath............................................ 3.
+Branchlets and petioles puberulous ............................................................................................................................. 4.
+Branchlets and petioles glabrous or with spreading hairs............................................................................................ 5.
+Leaves ovate–lanceolate, 10–25 × 7–12 cm, crenate-dentate in the distal part; styles not columnar; stigmas divaricate, longer than the style............................................................................................................Erythrococca rivularis
+Leaves oblong to elliptic–obovate, 10–15 × 5–6 cm, remotely toothed in the distal part; styles columnar; stigmas
+very small, not divaricate, much shorter than the style......................................................Erythrococca welwitschiana
+Leaves glabrous (hairs in young leaves only); stigmas sessile.................................................... Erythrococca mannii
+Leaves puberulous beneath at least in the nerves; stigmas on a short style................................................................. 6.
+Leaves with appressed hairs between the nerves beneath, and puberulous on the nerves ...... Erythrococca atrovirens
+Leaves glabrous beneath, but puberulous on the nerves........................................................ Erythrococca pallidifolia
+
+8.1. Erythrococca anomala (Juss. ex Poir.) Prain
+Adelia anomala Juss. ex Poir.
+Erythrococca aculeata Benth.
+
+Bioko Norte: Basilé, finca de Eloy Estrada, Carvalho 2469 (MA); Malabo–Aeroporto, estrada km 2,
+Carvalho 2715 (K, MA).
+Previously recorded from Bioko (Pax & Hoffmann 1914: 91, Mildbraed 1922: 185, Keay 1958: 401,
+Exell 1973: 353, Cable & Cheek 1998: 50, Govaerts 2012) and Río Muni (Guinea 1946: 156, sub E.
+aculeata). This West and West-Central African species has been reported from Benin, Cameroon, the Central
+African Republic, Congo-Brazzaville, D.R. Congo, Gabon, Gambia, Ghana, Guinea Bissau, Guinea, Ivory
+Coast, Liberia, Nigeria, Sierra Leone and Togo (Keay 1958: 401, Cable & Cheek 1998: 50, Cheek et al. 2004:
+288, Akoègninou et al. 2006: 558, Sosef et al. 2006: 164, Govaerts 2012).
+8.2. Erythrococca atrovirens (Pax) Prain
+Athroandra atrovirens var. flaccida (Pax) Pax & K. Hoffm.
+Claoxylon atrovirens Pax
+Erythrococca atrovirens var. flaccida (Pax) Radcl.-Sm.
+Erythrococca oleracea (Prain) Prain
+
+Centro Sur: Parque Nacional de Monte Alén, Engong, senda que va a una gran roca que se ve desde el pueblo,
+Pérez Viso 2666 (MA), 2692 (MA). Litoral: Bata–Micomiseng–Midjimiton, estrada km 157, Carvalho 6510
+(MA). Wele Nzas: Ebo–Ngoo Nsomo, carretera forestal Añisok Mongola–Niefang, Pérez Viso 3189 (MA).
+Previously recorded from Río Muni (Thiselton-Dyer 1912: 871, sub E. oleracea, Pax & Hoffmann 1914:
+83, sub Athroandra atrovirens var. flaccida, Radcliffe-Smith 1987: 279, sub E. atrovirens var. flaccida,
+Govaerts 2012, sub E. atrovirens var. flaccida). This species has been reported from Burundi, Cameroon, the
+Central African Republic, D.R. Congo, Kenya, Sudan, Tanzania, Uganda and Zambia (Radcliffe-Smith 1987:
+278, Cheek et al. 2004: 288, 2011: 148, Govaerts 2012).
+Very similar to E. pallidifolia but this species has leaves with apressed hairs beneath, puberulous on the
+nerves, instead of the glabrous leaves, puberulous only on the nerves of the undersurface characteristic of E.
+pallidifolia. Furthermore, E. atrovirens has only been recorded from the continent, not in Bioko.
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 11
+
+8.3. Erythrococca dewevrei (Pax) Prain
+Claoxylon dewevrei Pax
+
+Centro Sur: Parque Nacional de Monte Alén, Santa Cruz, Pérez Viso 1215 (MA).
+Not previously recorded from Equatorial Guinea. This species has only been reported from neighbouring
+Cameroon and D.R. Congo (Prain 1911, Govaerts 2012).
+According to Prain (1911: 626), this species is very close to E. hispida from which it differs in the
+pubescence of the leaves. E. dewevrei has leaves which are densely tomentose beneath with hispid nerves, and
+are not minutely verrucous as in E. hispida. The identification of Pérez Viso 1215 is based in these features.
+However, this specimen has longer leaves, up to 16 cm, which does not fit with the description of E. dewevrei
+by Prain (to 12 cm long). More material and further studies are needed to clarify its identification.
+8.4. Erythrococca mannii (Hook.f.) Prain
+Athroandra mannii (Hook.f.) Pax & K. Hoffm.
+Claoxylon mannii Hook.f.
+
+Bioko Norte: Pico Basilé (Clarence Peak), Mann 633 (K, original material).
+Previously recorded from Bioko (Hooker 1862: 20–21, sub Claoxylon mannii, 1864: 215, sub C. mannii,
+Prain 1911: 620, Thiselton-Dyer 1912: 866, Pax & Hoffmann 1914: 79, sub Athroandra mannii, Mildbraed
+1922: 185, Hutchinson & Dalziel 1928: 301, Guinea 1946: 311, sub A. mannii, Keay 1958: 401, Exell 1973:
+353, Govaerts 2012). Endemic to Bioko. Only known from the type.
+8.5. Erythrococca pallidifolia (Pax & K. Hoffm.) Keay
+Athroandra pallidifolia Pax & K. Hoffm.
+
+Bioko: Fernández Casas & Carvalho 10377 (K, MA), 11924 (K, MA). Bioko Norte: Malabo–Belebú
+Balachá, caminho de Ureca, andados cêrca de 5–6 km, Carvalho 4207 (MA). Bioko Sur: camino de Moka
+Malabo hacia el lago Biaó, Cabezas et al. 1089 (MA); Finca Puente, Guinea 1805 (MA); Moka, camino de
+Ureca, Fernández Casas 11754 (K, MA); Lago Biao–Moka, camino para Moka, Carvalho 2314 (MA);
+Malabo–Lago Loreto, estrada km 64–65, Carvalho 4197 (MA); Biao Peak trail, pt. 128-pt. 130, Luke et al.
+11866 (MA), 11867 (MA); Moka, Wrigley 621 (K).
+Previously recorded from Bioko (Pax & Hoffmann 1914: 84, sub Athroandra pallidifolia, Mildbraed
+1922: 185, sub A. pallidifolia, Guinea 1946: 311, sub A. pallidifolia, Keay 1958: 401, Exell 1973: 353,
+Govaerts 2012).
+This species is very similar to E. mannii and both of them are endemic to Bioko. We identified these
+specimens as E. pallidifolia because of their puberulous branchlets, petioles and leaves, at least when young,
+and their distinct style (Prain 1911: 620, Keay 1958: 401).
+8.6. Erythrococca rivularis (Müll. Arg.) Prain
+Athroandra rivularis (Müll. Arg.) Pax & K. Hoffm.
+Claoxylon rivulare Müll. Arg.
+
+Litoral: Mount John River, Kongui, Mann 1785 (K, original material).
+Previously recorded from Río Muni (Prain 1911: 622, Thiselton-Dyer 1912: 868, Pax & Hoffmann 1914:
+81, sub Athroandra rivularis, Govaerts 2012) and Equatorial Guinea (Guinea 1946: 311, sub A. rivularis).
+This species has only been reported from the neighbouring Cameroon (Govaerts 2012).
+8.7. Erythrococca welwitschiana (Müll. Arg.) Prain
+Athroandra welwitschiana (Müll. Arg.) Pax & K. Hoffm.
+Claoxylon welwitschianum Müll. Arg.
+Kie Ntem: Nfuiñ, a 29 km de Nsoc Nsomo por la pista que va hacia Bata, Cabezas et al. 1368 (MA). Litoral:
+Bebai Campogebiet, Tessmann 555 (K). Wele Nzas: Nkolentangan, Tessmann 296 (K).
+Previously recorded from Río Muni (Prain 1911: 622, Thiselton-Dyer 1912: 868, Pax & Hoffmann 1914:
+82, sub Athroandra welwitschiana, Govaerts 2012). This species has been reported from Angola, the Central
+
+12 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+African Republic, Cameroon, Congo-Brazzaville, D.R. Congo, Gabon and Nigeria (Keay 1958: 401, Sosef et
+al. 2006: 164, Figueiredo & Smith 2008: 71, Cheek et al. 2011: 148, Govaerts 2012).
+
+9. Macaranga Thouars
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+-
+
+Stipules prominent, persistent, saccate .........................................................................................Macaranga saccifera
+Stipules deciduous, visible only on the young growth, not saccate............................................................................. 2.
+Leaves 3–5-lobed, palmately 5–9-veined from the base, usually cordate ................................................................... 3.
+Leaves not lobed, pinnately veined or sometimes 3-veined at the base, rarely cordate .............................................. 4.
+Leaves sparsely pilose below, epunctate.............................................................................Macaranga magnistipulosa
+Leaves with short rigid hairs below, uniformly granular-punctate .......................................... Macaranga occidentalis
+Leaves broadly ovate, base rounded, truncate or cordate, leaves often 3- or more veined at the base ....................... 5.
+Leaves elliptic to obovate, pinnately veined................................................................................................................ 8.
+Leaves margin entire.................................................................................................................... Macaranga gabunica
+Leaves margin toothed................................................................................................................................................. 6.
+Leaf base deeply cordate (often overlapping).......................................................................... Macaranga occidentalis
+Leaf base rounded, truncate or only slightly cordate................................................................................................... 7.
+Lower surface of mature leaves with obvious indument (at least on veins and veinlets) ............ Macaranga hurifolia
+Lower surface of mature leaves essentially glabrous ................................................................. Macaranga monandra
+Leaf margin regularly repand-dentate........................................................................................ Macaranga monandra
+Leaf margin entire or irregularly undulate................................................................................................................... 9.
+Secondary veins 4–5 pairs ......................................................................................................................................... 10.
+Secondary veins more than 6 pairs ............................................................................................................................ 11.
+Leaves elliptic, apex acuminate to caudate..................................................................................Macaranga klaineana
+Leaves mostly obovate, apex truncate, rounded or shortly and obtusely cuspidate ....................... Macaranga staudtii
+Bracts well developed, 2–10 mm long, more or less enclosing the male flower, persistent ........... Macaranga barteri
+Bracts less than 2 mm long, not enclosing the male flower, deciduous ......................................... Macaranga spinosa
+
+9.1. Macaranga barteri Müll. Arg.
+Kie Ntem: Ngomgom, poblado de la pista que va de Nsoc Nsomo a Bata, Barberá et al. 102 (MA). Wele
+Nzas: Nkolentangan, Tessmann 9 (K).
+Previously recorded from Río Muni (Thiselton-Dyer 1912: 942, Pax & Hoffmann 1914: 329, Guinea
+1946: 311, Keay 1958: 407, 408, Govaerts 2012). This African species has also been reported from Benin,
+Cameroon, the Central African Republic, D.R. Congo, Gabon, Ghana, Guinea, Ivory Coast, Liberia, Nigeria,
+Sierra Leone, Togo, Uganda and Zaire (Keay 1958: 407, Radcliffe-Smith 1987: 251, Akoègninou et al. 2006:
+570, Sosef et al. 2006: 166, Whitmore 2008: 86, Govaerts 2012).
+9.2. Macaranga gabunica Prain
+Litoral: Estuaire du Río Muni, village Mayang, au bord de la rivière Mitong, Lisowski M-827 (BATA).
+Not previously reported from Equatorial Guinea. This species has only been reported from D.R. Congo
+and Gabon (Sosef et al. 2006: 166, Whitmore 2008: 134, Govaerts 2012).
+9.3. Macaranga hurifolia Beille
+Centro Sur: Evinayong, Guinea 124 (MA), 125 (MA), 126 (MA).
+Not previously reported from Equatorial Guinea. This species is distributed in West and Central Africa,
+and has been reported from Cameroon, the Central African Republic, Gabon, Ghana, Ivory Coast, Liberia,
+Nigeria, Sierra Leone and Togo (Keay 1958: 407, Cheek et al. 2004: 289, Sosef et al. 2006: 166, Whitmore
+2008: 155, Govaerts 2012).
+9.4. Macaranga klaineana Pierre ex Prain
+Litoral: Bata–Senye–Rio Benito, estrada km 22, Carvalho 4975 (MA); Bata–Bome, Carvalho 5409 (MA).
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 13
+
+Not previously reported from Equatorial Guinea. This species has only been reported from neighboring
+Gabon (Sosef et al. 2006: 166, Whitmore 2008: 166, Govaerts 2012).
+9.5. Macaranga magnistipulosa Pax
+Wele Nzas: Nkolentangan, Anang, Tessmann 249 (K, original material).
+Previously recorded from Río Muni (Thiselton-Dyer 1912: 938, Pax & Hoffmann 1914: 316, Whitmore
+2008: 179, Govaerts 2012) and Equatorial Guinea (Guinea 1946: 311). This species is only known from the
+type. According to Whitmore (2008: 179), the type appears to have been destroyed at Berlin and no material
+has been found at Kew, Paris or Brussels. Surprisingly we have seen Tessmann 249 in the Kew herbarium.
+9.6. Macaranga monandra Müll. Arg.
+Bioko: Fernández Casas 11595 (K, MA); cerca de Bososo, Fernández Casas et al. 10135 (K, MA); Lope del
+Val s.n. (MA-725803). Bioko Norte: camino Basilé [pico Basilé], Lope del Val s.n. (MA-835306); pico
+Basilé, Guinea & Lope del Val 218 (MA), 219 (MA). Bioko Sur: Balacha S trail, pt. 135–pt. 136, Luke et al.
+11835 (MA). Centro Sur: Niefang, orillas del río Woro, Esono & Ndong 378 (BATA); Parque Nacional de
+Monte Alén, carretera que va desde Moka hasta Engong, Pérez Viso 390 (MA); Parque Nacional de Monte
+Alén, río Vog-yii, Pérez Viso 3201 (MA); Bicaba, carretera de Niefang a Monte Alén, Pérez Viso 3464 (MA).
+Kie Ntem: Ngomgom, poblado de la pista que va de Nsoc Nsomo a Bata, Barberá et al. 62 (MA); camino que
+va desde Nsoc Nsomo a Bata, a unos 3 km de Nsoc Nsomo, Mocomo, Cabezas et al. 1246 (MA). Litoral:
+carretera de Mbini–Bata, a 10 km del cruce Akoakam, Fero et al. 293 (MA); Ndote Sud, Lisowski M-1133
+(BATA); Sendje, Pérez Viso 1617 (MA); carretera de Mbini, antigua trocha forestal, Pérez Viso 3335 (MA).
+Río Muni: Tessmann 600 (K). Unknown locality: Guinea 1213 (MA-715222); Boriyonica, Guinea s.n. (MA715223).
+Previously recorded from Río Muni (Pax & Hoffmann 1914: 328, Keay 1958: 407, Govaerts 2012). This
+African species has also been reported from Angola, Burundi, Cameroon, the Central African Republic, D.R.
+Congo, Gabon, Nigeria, São Tomé and Príncipe, Tanzania, Uganda and Zaire (Keay 1958: 407, RadcliffeSmith 1987: 249, Cable & Cheek 1998: 51, Cheek et al. 2004: 289, 2011: 149, Sosef et al. 2006: 166,
+Figueiredo & Smith 2008: 73, Whitmore 2008: 188, Figueiredo et al. 2011: 54, Govaerts 2012).
+9.7. Macaranga occidentalis (Müll. Arg.) Müll. Arg.
+Mappa occidentalis Müll. Arg.
+
+Bioko: Mann 303 (K, original material). Bioko Norte: Malabo–pico Basilé, estrada km 9–10, Carvalho 3461
+(K, MA); pico Basilé, Guinea & Lope del Val 208 (MA); pico Basilé, Lope del Val s.n. (MA-705241). Bioko
+Sur: Moka, Boughey 27 (K); camino de Moka–Malabo hacia el lago Biaó, Cabezas et al. 1079 (MA); entre
+Luba y Moka, Castroviejo 9188 (MA); Moka, Exell 850 (BM); Belebú Balachá, Fernández Casas 12137
+(MA); Balacha S trail, pt. 128-pt. 133, Luke et al. 11747 (MA); Moka, Melville 607 (K).
+Previously recorded from Bioko (Mildbraed 1922: 185, Thiselton-Dyer 1912: 937, Pax & Hoffmann
+1914: 315, Hutchinson & Dalziel 1928: 306, Guinea 1946: 312, Adams 1957: 482, Keay 1958: 407, Exell
+1973: 353, Whitmore 2008: 197, Govaerts 2012). This species distributed in West and Central Africa, has
+been reported from Cameroon and Nigeria (Keay 1958: 407, Cable & Cheek 1998: 51, Cheek et al. 2000: 132,
+2004: 289, Whitmore 2008: 198).
+9.8. Macaranga saccifera Pax
+Wele Nzas: Ngong Mocomo, vers inselberg Acoak Banga, Lejoly & Elad 98/035 (BATA).
+Not previously reported from Equatorial Guinea. This West and Central African species has been
+reported from Angola, Cameroon, the Central African Republic, Congo-Brazzaville, D.R. Congo and Gabon
+(Sosef et al. 2006: 167, Figueiredo & Smith 2008: 73, Whitmore 2008: 232, Cheek et al. 2011: 149, Govaerts
+2012).
+
+14 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+9.9. Macaranga spinosa Müll. Arg.
+Bioko: Mann 1160 (K). Bioko Norte: Malabo–Cupapa, estrada km 20–21, Carvalho 3505 (MA); Baney,
+Fernández Casas et al. 10129 (MA). Bioko Sur: Belebú Balachá, arredores da povoaçao, Carvalho 2280 (K,
+MA). Kie Ntem: a 5 km de Nsoc Nsomo por la pista que va hacia Bata, Cabezas et al. 1298 (MA); Akam,
+camino a Oyò, Fero 161 & Esono (MA).
+Previously recorded from Bioko (Thiselton-Dyer 1912: 944, Pax & Hoffmann 1914: 33, Mildbraed 1922:
+185, Hutchinson & Dalziel 1928: 306, Guinea 1946: 312, Keay 1958: 408, Exell 1973: 353, Cable & Cheek
+1998: 51, Whitmore 2008: 243, Govaerts 2012) and Río Muni (Thiselton-Dyer 1912: 944, Pax & Hoffmann
+1914: 331, Hutchinson & Dalziel 1928: 306, Guinea 1946: 312, Keay 1958: 408, Govaerts 2012). Distributed
+in tropical Africa, this species has been reported from Angola, Benin, Burundi, the Central African Republic,
+Congo-Brazzaville, D.R. Congo, Gabon, Ivory Coast, Liberia, Nigeria, Tanzania and Uganda (Keay 1958:
+408, Radcliffe-Smith 1987: 250, Cable & Cheek 1998: 51, Cheek et al. 2004: 290, 2011: 149, Akoègninou et
+al. 2006: 571, Sosef et al. 2006: 167, Figueiredo & Smith 2008: 73, Whitmore 2008: 243, Govaerts 2012).
+9.10. Macaranga staudtii Pax
+Litoral: aire protegée de Ndote, route forestière Engong–Jandje, Lejoly & Van Asbroeck 7 (BATA).
+Not previously reported from Equatorial Guinea. Distributed in West and Central Africa, this species has
+been reported from Benin, Cameroon, the Central African Republic, Gabon and Nigeria (Keay 1958: 407,
+Akoègninou et al. 2006: 571, Sosef et al. 2006: 167, Figueiredo & Smith 2008: 73, Whitmore 2008: 244,
+Govaerts 2012).
+
+10. Mallotus Lour.
+1.
+-
+
+Leaves golden-glandular beneath; stipules small, deciduous; fruits smooth........................ … Mallotus oppositifolius
+Leaves not golden-glandular beneath; stipules persistent, rigid subulate; fruit bristly ................... Mallotus subulatus
+
+10.1. Mallotus oppositifolius (Geiseler) Müll. Arg.
+Croton oppositifolius Geiseler
+Mallotus oppositifolius f. dentatus (Schumach. & Thonn.) Pax & K. Hoffm.
+
+Bioko Norte: Riaba–Malabo, estrada km 3, Carvalho 2459 (K, MA); Malabo–Riaba, estrada km 57, Carvalho
+2898 (MA); Malabo–Riaba, estrada km 57, Carvalho 2926 (MA). Litoral: Bebai Campogebiet, Tessmann 616
+(K).
+Previously recorded from Río Muni (Pax & Hoffmann 1914: 159, sub f. dentatus, Guinea 1946: 154).
+This tropical African species has been reported from Angola, Benin, Burkina Faso, Burundi, Cameroon, the
+Central African Republic, Congo-Brazzaville, D.R. Congo, Ethiopia, Gabon, Gambia, Ghana, Guinea, Ivory
+Coast, Kenya, Liberia, Madagascar, Malawi, Mozambique, Nigeria, Senegal, Sierra Leone, Sudan, Tanzania,
+Togo, Uganda, Zambia and Zimbabwe (Keay 1958: 402, Radcliffe-Smith 1987: 236, Cable & Cheek 1998:
+52, Cheek et al. 2004: 290, 2011: 150, Akoègninou et al. 2006: 571, Sosef et al. 2006: 168, Sierra et al. 2007:
+85, Figueiredo & Smith 2008: 73, Govaerts 2012).
+10.2. Mallotus subulatus Müll. Arg.
+Bioko: Mann 260 (K, lectotype); Vogel 194 (K). Bioko Norte: Malabo–Luba, patio Vaz Serra km 47,
+Carvalho 2119 (MA); Malabo–Luba, cerca de Sampaca km 4, Carvalho 2381 (K, MA); Malabo–Aeroporto,
+estrada km 6, Carvalho 2436 (K, MA), 2509 (BM, K, MA); Malabo–Riaba, entrada 58, Carvalho 2935 (MA);
+entre Malabo y el aeropuerto, junto al km 6 de la autopista, Fernández Casas et al. 10256 (MA); entre Malabo
+y el aeropuerto, km 6, Fernández Casas 11246 (MA); cerca de Rebola, Fernández Casas 11260 (K, MA).
+Bioko Sur: camino de Riaba, cerca de Babtabare, Fernández Casas 10237 (K, MA).
+Previously recorded from Bioko (Thiselton-Dyer 1912: 928, Pax & Hoffmann 1914: 154, Mildbraed
+1922: 185, Hutchinson & Dalziel 1928: 305, Guinea 1946: 311, Keay 1958: 402, Exell 1973: 354, Cable &
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 15
+
+Cheek 1998: 52, Govaerts 2012) and Río Muni (Pax & Hoffmann 1914: 154, Guinea 1946: 154, 156, Keay
+1958: 402, Govaerts 2012). This West and West-Central tropical African species has been reported from
+Cameroon, the Central African Republic, Congo-Brazzaville, Ghana, Ivory Coast, Liberia, Nigeria, Sierra
+Leone and Togo (Keay 1958: 402, Cable & Cheek 1998: 52, Cheek et al. 2004: 290, Sosef et al. 2006: 168,
+Sierra et al. 2007: 95, Govaerts 2012).
+
+11. Mareya Baill.
+1.
+-
+
+Leaves with 7–15 pairs of lateral nerves; stamens 30–40; pedicel of female flowers 2.5–9 mm long; capsule 6–8 mm
+long and 11–13 mm wide..................................................................................................................... Mareya brevipes
+Leaves with 5–9 pairs of lateral nerves; stamens 9–18 (–24); pedicel of female flowers 0.5–0.7 mm long; capsule
+2.5–4 mm long and 4–6 mm wide .................................................................................................... Mareya micrantha
+
+11.1. Mareya brevipes Pax
+Centro Sur: Niefang, explotación forestal de Matroguisa, Pérez Viso 2347 (MA), 2349 (MA). Kie Ntem:
+Ngomgom, poblado de la pista que va de Nsoc Nsomo a Bata, Barberá et al. 76 (MA); alrededores del
+poblado de Obot Nku–Eseng, a 7 km de Nsok Nsomo, Barberá et al. 154 (MA). Litoral: Bata–Mongo
+(Alosa), estrada kms 64–65, Carvalho 5540 (BATA, BM, MA); Bebai, Campogebiet, Tessmann 723 (K).
+Wele Nzas: Oveng Esandong, km 61 carretera Nkue–Mongomo, Pérez Viso 3101 (MA).
+Previously recorded from Río Muni (Thiselton-Dyer 1912: 910, Radcliffe-Smith 1987: 216, Léonard
+1996a: 8, Govaerts 2012). This tropical African species has been reported from Cameroon, the Central
+African Republic, Congo-Brazzaville, D.R. Congo, Gabon, and Uganda (Radcliffe-Smith 1987: 216, Léonard
+1996a: 8, Sosef et al. 2006: 169, Govaerts 2012).
+11.2. Mareya micrantha (Benth.) Müll. Arg.
+Acalypha micrantha Benth.
+Mareya micrantha subsp. micrantha
+Mareya spicata Baill.
+Mareya spicata var. leonensis (Benth.) Pax & K. Hoffm.
+Mareya spicata var. micrantha (Benth.) Pax & K. Hoffm.
+
+Bioko: Mann 209 (K), 235 (K), 435 (K); Vogel 210 (K, original material). Bioko Norte: Banapá, Guinea 1211
+(MA), 1212 (MA); Malabo–Luba, estrada km 22, Carvalho 2176 (K, MA); Malabo–Rebola, estrada km 7,
+Carvalho 2928 (K, MA); Malabo–Ela Nguema (zona de Noba Uan), Carvalho 3457 (BM, K, MA). Bioko
+Sur: Malabo–Riaba, cerca de Bilelipa, Fernández Casas 11554 (K, MA).
+Previously recorded from Bioko (Hooker 1849: 505, sub Acalypha micrantha, Thiselton-Dyer 1912:
+911–912, sub M. spicata and M. micrantha, Mildbraed 1922: 185, sub M. spicata var. leonensis and M.
+spicata var. micrantha, Hutchinson & Dalziel 1928: 303, sub M. micrantha and M. spicata, Guinea 1946: 310,
+sub M. spicata and M. micrantha, Keay 1958: 404, Exell 1973: 354, sub subsp. micrantha, Léonard 1996a:
+11, Cable & Cheek 1998: 52, Govaerts 2012) and Río Muni (Thiselton-Dyer 1912: 911, Hutchinson & Dalziel
+1928: 303, Guinea 1946: 158, 310, sub M. spicata and M. micrantha, Keay 1958: 404, Léonard 1996a: 11,
+Govaerts 2012). This West and West-Central tropical African species has been reported from Angola,
+Cameroon, Congo-Brazzaville, D.R. Congo, Gabon, Ghana, Guinea Bissau, Guinea, Ivory Coast, Liberia,
+Nigeria, Sierra Leone and Togo (Keay 1958: 404, Léonard 1996a: 11, Cable & Cheek 1998: 52, Cheek et al.
+2004: 290, Sosef et al. 2006: 169, Figueiredo & Smith 2008: 73, Govaerts 2012).
+
+12. Mareyopsis Pax & K. Hoffm.
+12.1. Mareyopsis longifolia (Pax) Pax & K. Hoffm.
+Mareya longifolia Pax
+
+16 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+Litoral: Bata–Niefang, estrada km 35, entrada a la zona de Adjape, por Ríos Sama e Comaya, Carvalho 5692
+(MA); Bata–Mbini, estrada km 27 en la carretera hacia Senge, Carvalho 6092 (MA); Bata–Senge, estrada km
+27, antigua explotación de Exfosa, Carvalho 6123 (MA).
+Not previously reported from Equatorial Guinea. This West Central African species has been reported
+from Cameroon, Congo-Brazzaville, D.R. Congo, Gabon and Nigeria (Léonard 1996a: 18, Cable & Cheek
+1998: 52, Cheek et al. 2004: 291, Sosef et al. 2006: 169, Govaerts 2012).
+
+13. Micrococca Benth.
+13.1. Micrococca mercurialis (L.) Benth.
+Tragia mercurialis L.
+
+Kie Ntem: camino que va desde Nsoc Nsomo a Bata, a unos 3 km de Nsoc Nsomo, Mocomo, Cabezas et al.
+1293 (MA). Litoral: Bata–Mbini, estrada kms 7–8, Carvalho 4923 (MA); Bata–Pembe, estrada kms 26–27,
+chamada Entura en margens de Río Ué, Carvalho 5184 (MA).
+Previously recorded from Río Muni (Thiselton-Dyer 1912: 879, Pax & Hoffmann 1914: 135, Govaerts
+2012). This species has been reported from tropical and South Africa, the Arabian Peninsula, and from India
+to the Malay Peninsula. In Africa, it has been reported from Angola, Benin, Botswana, Cameroon, the Central
+African Republic, Congo-Brazzaville, D.R. Congo, Ethiopia, Gabon, Ghana, Guinea, Ivory Coast, Kenya,
+Liberia, Malawi, Madagascar, Mauritania, Mozambique, Nigeria, Senegal, Sierra Leone, Sudan, Tanzania,
+Togo, Uganda, Zambia and Zimbabwe (Keay 1958: 402, Radcliffe-Smith 1987: 261, Cheek et al. 2004: 291,
+Akoègninou et al. 2006: 573, Sosef et al. 2006: 170, Figueiredo & Smith 2008: 73, Govaerts 2012).
+
+14. Plukenetia L.
+14.1. Plukenetia conophora Müll. Arg.
+Tetracarpidium conophorum (Müll. Arg.) Hutch. & Dalziel
+
+Bioko: Fernández Casas 12063 & Carvalho (MA). Bioko Norte: Malabo–Luba, estrada km 31, Carvalho
+2750 (MA); Malabo–Biao Grande, estrada km 22–23, Carvalho 3515 (MA); Malabo–Cupapa, estrada kms
+20–21, Carvalho 4085 (MA); Malabo–Cupapa, estrada km 19, Carvalho 4133 (K, MA); cerca de Rebola, km
+20–21, Fernández Casas 11275 (MA); cerca de Riaba, Fernández Casas 11682 (MA). Litoral: Bata–
+Bolondo, kms 5–6, Carvalho 4757 (MA); Bata–Senye, estrada kms 30–31, Carvalho 5153 (MA); Bata–
+Senge, estrada km 27, zona forestal de Iboga, antigua explotación forestal de Exfosa, Carvalho 6407 (MA).
+Previously recorded from Bioko (Thiselton-Dyer 1912: 950, Mildbraed 1922: 186, Hutchinson &
+Dalziel 1928: 307, sub Tetracarpidium conophorum, Guinea 1946: 311, sub T. conophorum, Keay 1958: 410,
+sub T. conophorum, Exell 1973: 354, sub T. conophorum, Cable & Cheek 1998: 54, Govaerts 2012) and Río
+Muni (Thiselton-Dyer 1912: 950, Hutchinson & Dalziel 1928: 307, sub T. conophorum, Guinea 1946: 311,
+sub T. conophorum, Keay 1958: 410, sub T. conophorum, Govaerts 2012). This West and West-Central
+tropical African species has been reported from Benin, Cameroon, the Central African Republic, CongoBrazzaville, D.R. Congo, Gabon, Nigeria and Sierra Leone (Keay 1958: 410, Cable & Cheek 1998: 54, Cheek
+et al. 2004: 292, Sosef et al. 2006: 173, Govaerts 2012).
+
+15. Pseudagrostistachys Pax & K. Hoffm.
+15.1. Pseudagrostistachys africana (Müll. Arg.) Pax & K. Hoffm. subsp. africana
+Agrostistachys africana Müll. Arg.
+
+Bioko: Mann 582 (K, original material). Bioko Sur: Hormiga camp pt. 346 to north camp pt. 347, Luke 13278
+(MA). Centro Sur: Parc National de Monte Alén, Ngomo 234 (BATA).
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 17
+
+Previously recorded from Bioko (Pax & Hoffmann 1912: 98, Mildbraed 1922: 186, Hutchinson &
+Dalziel 1928: 298, Guinea 1946: 309, Keay 1958: 399, Exell 1973: 354, Cable & Cheek 1998: 53, Cheek et
+al. 2004: 292, Govaerts 2012). This species has been reported from Congo-Brazzaville, Ghana, Nigeria and
+São Tomé and Príncipe (Keay 1958: 399, Cable & Cheek 1998: 53, Cheek et al. 2004: 292, 2011: 151,
+Figueiredo et al. 2011: 54, Govaerts 2012).
+
+16. Pycnocoma Benth.
+1.
+-
+
+Leaves sessile or subsessile .................................................................................................... Pycnocoma macrophylla
+Leaves petiolate ................................................................................................................................ Pycnocoma minor
+
+16.1. Pycnocoma macrophylla Benth.
+Pycnocoma brachystachya Pax
+
+Bioko: Vogel 18 (K, original material). Bioko Sur: playa de Moaba, camino de subida hacia Moka, cerca de la
+playa, Cabezas et al. 990 (MA); Moka to Areha beach, pt. 167 (Kika R)-pt. 168 (Areha R), Luke & Fermin
+12092 (MA).
+Previously recorded from Bioko (Thiselton-Dyer 1912: 959, Mildbraed 1922: 186, sub var. genuina,
+Hutchinson & Dalziel 1928: 307, Keay 1958: 405, Exell 1973: 354, sub var. macrophylla, Léonard 1996c:
+56–57, Cable & Cheek 1998: 54, Govaerts 2012) and Río Muni (Guinea 1946: 156, sub P. brachystachya,
+310). This African species has been reported from Cameroon, the Central African Republic, CongoBrazzaville, Gabon, Ghana, Ivory Coast and Nigeria (Keay 1958: 405, Léonard 1996c: 57, Sosef et al. 2006:
+172, Cable & Cheek 1998: 54, Cheek et al. 2004: 293, Govaerts 2012).
+16.2. Pycnocoma minor Müll. Arg.
+Litoral: Corisco Bay, Mann 1841 (K, original material).
+Previously recorded from Río Muni (Thiselton-Dyer 1913: 961, Pax & Hoffmann 1914: 59, Govaerts
+2012). This West Central African species has been reported from the Central African Republic, CongoBrazzaville and Gabon (Sosef et al. 2006: 172, Govaerts 2012).
+
+17. Ricinus L.
+17.1. Ricinus communis L.
+Bioko: Fernández Casas & Carvalho 12216 (MA). Bioko Norte: Malabo, inmediaciones de la embajada
+española, Gómez Marín & al. 14 (MA).
+Previously recorded from Annobón (Exell 1963: 113, 1973: 354). This species is native to NE Africa and
+it has been cultivated and naturalized throughout the tropics, subtropics and warm temperate regions mainly
+as ornamental, but also for medicinal, industrial and domestic uses of the seed oil (Radcliffe-Smith 1987: 323,
+2001: 202).
+
+18. Tragia L.
+1.
+2.
+3.
+-
+
+Female pedicel extending to 5 cm in fruit; female calyx lobes entire ...................................................Tragia volubilis
+Female pedicel not extending beyond 0.5 cm in fruit; female calyx lobes pinnatifid................................................. 2.
+Calyx lobes of female flowers with a foliaceous undivided apex .................................................Tragia aff. tenuifolia
+Calyx lobes of female flowers without a foliaceous apex, deeply pectinate ............................................................... 3.
+Leaves subentire ...................................................................................................................................... Tragia preussi
+Leaves sharply serrate......................................................................................................................... Tragia benthamii
+
+18 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+18.1. Tragia benthamii Baker
+Tragia cordifolia Benth.
+
+Bioko Norte: Malabo–Bahía de Venus, Carvalho 4142 (MA); Clarence Bei [Malabo], Vogel 26 (K, original
+material). Centro Sur: Parc Nacional de Monte Alén, Ngomo 263 (BATA). Litoral: Bata–Mongo–zona
+forestal de Alosa, estrada km 57–58, entre Mongo e Serraçao de Alosa, Carvalho 5420 (BATA, MA).
+Previously recorded from Bioko (Thiselton-Dyer 1913: 985, Mildbraed 1922: 186, Hutchinson & Dalziel
+1928: 308, 309, Guinea 1946: 313, Keay 1958: 412, Exell 1973: 354, Govaerts 2012) and Río Muni
+(Thiselton-Dyer 1913: 985, Guinea 1946: 313, sub T. cordifolia, Govaerts 2012). This tropical and South
+African species has been reported from Angola, Benin, Botswana, Cameroon, the Central African Republic,
+Congo-Brazzaville, D.R. Congo, Ethiopia, Gabon, Ghana, Ivory Coast, Malawi, Mozambique, Nigeria,
+Sudan, Togo, Uganda, Zambia and Zimbabwe (Keay 1958: 412, Radcliffe-Smith 1987: 303, Cable & Cheek
+1998: 54, Cheek et al. 2000: 133, 2004: 294, Akoègninou et al. 2006: 580, Sosef et al. 2006: 174, Figueiredo
+& Smith 2008: 74, Govaerts 2012).
+(18.2.) Tragia preussii Pax
+Tragia winkleri Pax
+
+This species has been reported previously from Río Muni without any precise voucher (Guinea 1946: 155, sub
+T. winkleri). We have not found any herbarium material of T. preussii from Equatorial Guinea in BM, K, MA,
+LISC, LISU or BATA. This species from West and Central tropical African has been reported from
+neighbouring Cameroon and Gabon and also from Benin, the Central African Republic, D.R. Congo, Nigeria
+and Togo (Keay 1958: 412, Cable & Cheek 1998: 54, Cheek et al. 2004: 294, Akoègninou et al. 2006: 581,
+Sosef et al. 2006: 174, Govaerts 2012). The distribution range of this species suggests it may occur in
+Equatorial Guinea.
+18.3. Tragia aff. tenuifolia Benth.
+Bioko Norte: Malabo–Aeroporto, estrada km 6, Carvalho 2510 (MA); entre Malabo y el aeropuerto, junto al
+km 6 de la autopista, Fernández Casas et al. 10254 (MA). Bioko Sur: Malabo–Luba–Riaba, estrada kms 62–
+63, Carvalho 4121 (MA); entre el cruce de Moka y Riaba, km 1–2, Fernández Casas 11576 (K, MA);
+Servicio Agronómico de Musola, Guinea 1426 (MA), Guinea 1426bis (MA). Litoral: Bata–Bome, longo do
+Rio Boara, Carvalho 4867 (BATA, MA).
+The specimens identified as T. aff. tenuifolia are characterized by calyx lobes with 2–3 lobules on each
+side. However, this material seems to be somewhat heterogeneous and can be arranged in two different
+groups: a) Fernández Casas 10254 and Carvalho 2510 have the foliaceous apical portion of the calyx wider,
+and leaves, stems and inflorescences distinctly pubescent, covered with long yellowish hairs; b) Carvalho
+4121, Guinea 1426, Guinea 1426bis, Carvalho 4867 and Fernández Casas 11576 have a narrower calyx apex
+and sparse hairs on leaves, inflorescences and stems.
+Tragia tenuifolia and closer species form a group of unsatisfactorily delimited species. According to
+Keay (1958: 411) T. tenuifolia has 4–6 calyx lobules on each side of the calyx lobes, while Radcliffe-Smith
+(1987: 295) attributed 3–4 lobules to this species. Both authors mentioned that the leaves are mainly
+pubescent on the nerves. Additionally, in West tropical Africa two other species are usually recorded: T.
+laminularis Müll. Arg. (described from Gabon) and T. mildbraediana Pax & K. Hoffm. (described from
+Cameroon). Keay (1958: 411) pointed out that T. laminularis has an entire foliaceous apical portion of the
+calyx with or without one lobule on each side. Pax & Hoffmann (1919: 99) indicated that this species has
+densely setose petioles and peduncles. According to Pax & Hoffmann (1919: 96), T. mildbraediana is an
+intermediate species between T. tenuifolia and T. laminularis, usually with 1–2 lobules on each side of calyx.
+Our specimens from Equatorial Guinea do not fit exactly with any of these species. In the meantime, until a
+modern taxonomic revision is available, we identify the previously mentioned samples provisionally as T. aff.
+tenuifolia.
+Only one of those species, T. tenuifolia, has been previously recorded from Equatorial Guinea (Govaerts
+2012).
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 19
+
+18.4. Tragia volubilis L.
+Bioko: Mann 75 (K). Bioko Norte: Malabo–Rebola, estrada km 4–5, Carvalho 3416 (MA). Centro Sur:
+Niefang, explotación forestal de Matroguisa, Pérez Viso 2289 (MA).
+Previously recorded from Bioko (Thiselton-Dyer 1913: 970, Mildbraed 1922: 186, Hutchinson & Dalziel
+1928: 308, Guinea 1946: 313, Keay 1958: 411, Exell 1973: 354, Govaerts 2012) and Río Muni (Guinea 1946:
+313). This species is considered to be introduced into tropical Africa from America (Radcliffe-Smith 1987:
+295). It has also been reported from Angola, Cameroon, the Central African Republic, Congo-Brazzaville,
+D.R. Congo, Gabon, Ghana, Ivory Coast, Nigeria, Sierra Leone, Sudan, Togo and Uganda (Keay 1958: 411,
+Radcliffe-Smith 1987: 295, Sosef et al. 2006: 174, Figueiredo & Smith 2008: 75, Cheek et al. 2011: 152,
+Govaerts 2012).
+
+DOUBTFUL RECORDS
+Erythrococca polyandra (Pax & K. Hoffm.) Prain
+Previously recorded from Río Muni (Pax & Hoffmann 1914: 96). We have not found any herbarium
+material of E. polyandra from Equatorial Guinea in BATA, BM, K, LISU or MA. Pax & Hoffmann (1914:
+96) recorded the specimen Soyaux 29 from the “Chinchoxo”. We have not found any locality in Equatorial
+Guinea with a similar name. On the other hand, it has not been documented that Soyaux collected in this
+country. Although this collector worked in Gabon at the end of the nineteenth century (Index of Botanists
+2011), no locality with this name has been found in this country either. This species has only been reported
+from Mozambique, Tanzania and Zimbabwe (Radcliffe-Smith 1987: 277). The distribution range of the
+species makes its presence in Equatorial Guinea unlikely.
+
+Conclusion
+The total number of taxa listed here for Equatorial Guinea is 49, two of them introduced. The list of species is
+based on herbarium material, with the exception of one report from the literature; the distribution range of this
+species suggests that it may occur in Equatorial Guinea. Eight species are reported for the first time for the
+country. The reports are mainly from Río Muni, one of the least explored territories of the country and
+probably of West and Central Africa (Aedo et al. 2001). Comparing with Govaerts (2012), our work increases
+the catalogue of Acalyphoideae for Equatorial Guinea by 40 %. Although we show an increase in species of
+Acalyphoideae, many plants already reported from Cameroon and Gabon have still not been found in
+Equatorial Guinea (Table 1), reflecting the need for further exploration, especially of less well-known areas,
+such as the south-eastern region of Río Muni.
+Rainforests of West Africa are estimated to contain about 50% of the total number of African plants
+species (Sayer et al. 1992), and this is reflected in the higher values of diversity, endemism and floristic
+richness obtained in different floristic studies in the Gulf of Guinea area (Cable & Cheek 1998, Cheek et al.
+2000, 2004, 2011, Fero et al. 2003, Parmentier & Geerinck 2003, Cabezas et al. 2004, 2005, 2009, Estrella et
+al. 2005, 2006, 2010, Akoègninou et al. 2006, Sosef et al. 2006, Figueiredo et al. 2011, Morales 2011). Our
+results support previous data in indicating that Equatorial Guinea, despite its small area, is one of the most
+undisturbed primary rainforest regions of continental Africa (Hamilton 1994).
+
+Acknowledgements
+The authors wish to thank the staff of the herbaria of BATA, BM, HBG, LISC, LISU and K for their help and
+collaboration, especially Gill Challen (K), Lulú Rico (K), Pablo Esono (BATA) and Luís Catarino (LISC) for
+
+20 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+their support at these herbaria. Anne Martin is thanked for her help with the English revision. This work was
+financed by the Spanish Government through the Research Projects “Flora de Guinea” CGL2012-32934 and
+“Flora iberica” CGL2011-28613-C03-01.
+
+References
+Adams, C.D. (1957) Observations on the fern Flora of Fernando Po. I. A description of the vegetation with particular
+reference to the Pteridophyta. Journal of Ecology 45: 479–494.
+Aedo, C., Morales, R., Tellería, M.T. & Velayos, M. (2001) Botánica y Botánicos en Guinea Ecuatorial. Real Jardín
+Botánico (CSIC). Agencia Española de Cooperación Internacional, Madrid, 257 pp.
+Aedo, C., Tellería, M.T. & Velayos, M. (1999) Bases Documentales para la Flora de Guinea Ecuatorial. Plantas
+vasculares y hongos. Real Jardín Botánico (CSIC). Agencia Española de Cooperación Internacional, Madrid, 414
+pp.
+Aké Assi, L. (1963) Contribution à l´étude floristique de la Côte d´Ivoire et des territories limitrophes. Ed. Paul
+Lechevalier, Paris, 205 pp.
+Akoègninou, A., van der Burg, W.J. & van der Maesen, L.J.G. (2006) Flore analytique du Bénin. Backhuys Publishers,
+Cotonou & Wageningen, 1034 pp.
+APG [Angiosperm Phylogeny Group] (2009) An update of the angiosperm phylogeny group classification for the orders
+and families of flowering plants: APG III. Botanical Journal of the Linnean Society 161: 105–121.
+http://dx.doi.org/10.1111/j.1095-8339.2009.00996.x
+Barberá, P., Velayos, M. & Aedo, C. (2013) Lectotypification and characterization of Discoclaoxylon pubescens (Pax &
+K. Hoffm.) Exell (Euphorbiaceae) from Annobón Island (Equatorial Guinea). Nordic Journal of Botany 31.
+http://dx.doi.org/10.1111/j.1756-1051.2012.01801.x
+Breteler, F.J. (1997) Novitates gabonenses (29). A new species in Mareyopsis Pax & K. Hoffm. (Euphorbiaceae) from
+Gabon with notes on the taxonomic position of the genus. Bulletin du Jardin Botanique National de Belgique 66:
+131–148.
+Brummitt, R.K. & Powell, C.E. (1992) Authors of plant names. Royal Botanic Gardens, Kew, 732 pp.
+Cabezas, F., Aedo, C. & Velayos, M. (2004) Checklist of the Cyperaceae of Equatorial Guinea. Belgian Journal of
+Botany 137: 3–26.
+Cabezas, F., Estrella, M., Aedo, C. & Velayos, M. (2005) Marantaceae of Equatorial Guinea. Annales Botanici Fennici
+42: 173–184.
+Cabezas, F., Estrella, M., Aedo, C. & Velayos, M. (2009) Checklist of Commelinaceae of Equatorial Guinea (Annobón,
+Bioko and Río Muni). Botanical Journal of the Linnean Society 159: 106–122.
+Cable, S. & Cheek, M. (eds.) (1998) The plants of Mount Cameroon. A conservation checklist. Royal Botanic Gardens,
+Kew, 198 pp.
+Cheek, M., Harvey, Y. & Onana, J.M. (2011) The plants of Mefou proposed National Park Yaoundé, Cameroon. Royal
+Botanic Gardens, Kew, 252 pp.
+Cheek, M., Onana, J.M. & Pollard, B.J. (2000) The plants of Mount Oku and the Ijim Ridge, Cameroons: a conservation
+checklist. Royal Botanic Gardens, Kew, 211 pp.
+Cheek, M., Pollard, B.J., Darbyshire, I., Onana, J.M. & Wild, C. (2004) The plants of Kupe, Mwanenguba and the
+Bakossi Mountains, Cameroon: a conservation checklist. Royal Botanic Gardens, Kew, 508 pp.
+Cufodontis, G. (1956) Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia). Bulletin du Jardin Botanique de
+l'État, suppl. 26: 354–440.
+Davies, F.G. & Figueiredo, E. (2007) A Checklist of Rubiaceae (coffee family) of Bioko and Annobón (Equatorial
+Guinea, Gulf of Guinea). Systematics and Biodiversity 5: 159–186.
+De Castro, M.L. & De la Calle, M.L. (1985) Geografía de Guinea Ecuatorial. Secretaría General Técnica. Ministerio de
+Educación y Ciencia, Madrid, 7 pp.
+Estrella, M., Cabezas, F., Aedo, C. & Velayos, M. (2005) Checklist of the Mimosoideae (Leguminosae) of Equatorial
+Guinea (Annobón, Bioko, Río Muni). Belgian Journal of Botany 138: 11–23.
+Estrella, M., Cabezas, F., Aedo, C. & Velayos, M. (2006) Checklist of the Caesalpinioideae (Leguminosae) of Equatorial
+Guinea (Annobón, Bioko, Río Muni). Botanical Journal of the Linnean Society 151: 541–562.
+Estrella, M., Cabezas, F., Aedo, C. & Velayos, M. (2010) The Papilionoideae (Leguminosae) of Equatorial Guinea
+(Annobón, Bioko and Río Muni). Folia Geobotanica 45: 1–57.
+Exell, A.W. (1944) Catalogue of the vascular plants of S. Tomé (with Príncipe and Annobón). British Museum (Natural
+History), London, 428 pp.
+Exell, A.W. (1963) Angiosperms of the Cambridge Annobón Island Expedition. Bulletin of the British Museum (Natural
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 21
+
+History), Botany 3: 93–118.
+Exell, A.W. (1973) Angiosperms of the islands of the gulf of Guinea (Fernando Po, Príncipe, S. Tomé and Annobón).
+Bulletin of the British Museum (Natural History), Botany 4: 325–411.
+Fernández Casas, F.J. (1994) Ad Guineae Aequatorialis floram texendam inventa varia, II. Fontqueria 39: 31–44.
+Fero, M., Cabezas, F., Aedo, C. & Velayos, M. (2003) Checklist of the Piperaceae of Equatorial Guinea. Anales del
+Jardín Botánico de Madrid 60: 45–50.
+Figueiredo, E., Paiva, J., Stévart, T., Oliveira, F. & Smith, G.F. (2011) Annotated catalogue of the flowering plants of São
+Tomé and Príncipe. Bothalia 41: 41–82.
+Figueiredo, E. & Smith, G.F. (2008) Plants of Angola. Strelitzia 22. South African National Biodiversity Institute,
+Pretoria, 279 pp.
+Govaerts, R., Frodin, D.G. & Radcliffe-Smith, A. (2000) World Checklist and Bibliography of Euphorbiaceae (and
+Pandaceae). Royal Botanic Gardens, Kew, 1621 pp.
+Govaerts, R. (ed.) (2012) World Checklist of Euphorbiaceae. Royal Botanic Gardens, Kew. Available from: http://
+apps.kew.org/wcsp/ (accessed: 15 June 2012).
+Guinea, E. (1946) Ensayo geobotánico de la Guinea Continental Española. Dirección General de Marruecos y Colonias,
+Madrid, 388 pp.
+Guinea, E. (1968) Fernando Po. In: Hedberg, I. & Hedberg, O. (eds.) Conservation of vegetation in Africa south of the
+Sahara. Acta Phytogeographica Suecica 54: 130–132.
+Hamilton, A.C. (1994) Regional overview: Africa. In: Davis, S.D., Heywood, V.H. & Hamilton, A.C. (eds.) Centres of
+plant diversity. A guide and strategy for their conservation, Vol. 1: Europe, Africa, South West Asia and the Middle
+East. The World Wide Fund for Nature (WWF)/IUCN (The World Conservation Union)/National Museum of
+Natural History, Smithsonian Institution, Cambridge, pp. 101–264.
+Heras, P., Infante, M., Obama, C. & Gascoigne, A. (2002) Vegetación de la isla de Annobón (República de Guinea
+Ecuatorial). Estudios del Museo de Ciencias Naturales de Álava 17: 115–123.
+Herrero, A., Aedo, C., Velayos, M. & Viane, R.L. (2001) A new species of Asplenium (Aspleniaceae, Pteridophyta) from
+Equatorial Guinea. Annales Botanici Fennici 38: 175–180.
+Hooker, J.D. (1862) On the vegetation of Clarence Peak, Fernando Poo; with descriptions of the plants collected by Mr.
+Gustav Mann on the higher parts of that Mountain. Journal of the Proceedings of the Linnean Society, Botany 6: 1–
+23.
+Hooker, J.D. (1864) On the plants of the temperate regions of the Cameroons Mountains and Islands in the Bight of
+Benin; collected by Mr. Gustav Mann, Government Botanist. Journal of the Proceedings of the Linnean Society,
+Botany 7: 171–240.
+Hooker, W.J. (1849) Niger Flora. Hippolyte Baillière, London, J.B. Baillière, Paris, Bailly Baillière, Madrid, 587 pp.
+Hutchinson, J. & Dalziel, J.M. (1928) Flora of West Tropical Africa 1(2). The Crown Agents for the Colonies, London,
+pp. 247–523.
+Index of Botanists (2011) Index of Botanists. President and Fellows of Harvard College, Cambridge. Available from:
+http://kiki.huh.harvard.edu/databases/botanist_index.html (accessed: 15 June 2012).
+Keay, R.W.J. (1958) Flora of West Tropical Africa 1(2) (2nd. ed.). The Crown Agents for Oversea Governments and
+Administrations, London, pp. 297–828.
+Lebrun, J.-P. & Stork, A.L. (2006) Tropical African Flowering Plants: Ecology and Distribution 2: Euphorbiaceae–
+Dichapetalaceae. Conservatoire et Jardin botaniques de la Ville de Genève, Geneva, 306 pp.
+Léonard, J. (1972) Notulae systematicae XXXIX Cleidion Blume, genre d´Euphorbiaceae nouveau pour la République
+du Zaïre. Bulletin du Jardin Botanique National de Belgique 42: 297–299.
+Léonard, J. (1995) Le genre Discoglypremna Prain au Zaïre (Euphorbiaceae). Bulletin du Jardin Botanique National de
+Belgique 64: 201–207.
+Léonard, J. (1996a) Révision des espèces zaïroises des genres Mareya Baill. et Mareyopsis Pax & K. Hoffm.
+(Euphorbiaceae). Bulletin du Jardin Botanique National de Belgique 65: 3–22.
+Léonard, J. (1996b) Le genre Argomuellera Pax en Afrique centrale (Zaïre, Rwanda, Burundi) (Euphorbiaceae). Bulletin
+du Jardin Botanique National de Belgique 65: 23–35.
+Léonard, J. (1996c) Révision des espèces zaïroises du genre Pycnocoma Benth. (Euphorbiaceae). Bulletin du Jardin
+Botanique National de Belgique 65: 37–72.
+Mildbraed, J. (1922) Wissenschaftliche Ergebnisse der Zweiten Deutschen Zentral–Afrika–Expedition 1910–1911, Band
+II: Botanik. Klinkhardt & Biermann, Leipzig, 202 pp.
+Mildbraed, J. (1937) Neue Arten von der Insel Annobón. Notizblatt des Botanischen Gartens und Museums zu BerlinDahlem 13: 697–705.
+Morales, R. (2011) Las labiadas (Lamiaceae) de Guinea Ecuatorial. Anales del Jardín Botánico de Madrid 68: 199–223.
+Parmentier, I. & Geerik, D. (2003) Checklist of the Melastomataceae of the Equatorial Guinea. Anales del Jardín
+Botánico de Madrid 60: 331–346.
+Pax, F. & Hoffmann, K. (1912) Euphorbiaceae—Acalypheae—Chrozophorinae. In: Engler, A. (ed.) Das Pflanzenreich
+
+22 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+BARBERÁ ET AL.
+
+IV.147.VI (Heft 57). Wilhelm Engelmann, Leipzig, 142 pp.
+Pax, F. & Hoffmann, K. (1914) Euphorbiaceae—Acalypheae—Mercurialinae. In: Engler, A. (ed.) Das Pflanzenreich
+IV.147.VII (Heft 63) Wilhelm Engelmann, Leipzig, Berlin, 474 pp.
+Pax, F. & Hoffmann, K. (1919) Euphorbiaceae—Acalypheae—Plukenetiinae. In: Engler, A. (ed.) Das Pflanzenreich
+IV.147.IX–XI (Heft 68) Wilhelm Engelmann, Leipzig, 108 pp.
+Pax, F. & Hoffmann, K. (1924) Euphorbiaceae—Acalypheae—Acalyphinae. In: Engler, A. (ed.) Das Pflanzenreich
+IV.147.XVII (Heft 85) Wilhelm Engelmann, Leipzig, 231 pp.
+Pérez del Val, J. (1993) El bosque de altura en Bioko. África 2000 18–19: 9–14.
+Prain, D. (1911) A review of the genera Erythrococca & Micrococca. Annals of Botany (Usteri) 25: 575–638.
+Radcliffe-Smith, A. (1987) Euphorbiaceae (1) In: Polhill, R.M. (ed.) Flora of Tropical East Africa. A.A. Balkema,
+Rotterdam, pp. 1–407.
+Radcliffe-Smith, A. (2001) Genera Euphorbiacearum. Royal Botanic Gardens, Kew, 455 pp.
+Sayer, J.A., Harcourt, C.S. & Collins, N.M. (1992) The conservation atlas of tropical forests: Africa. Macmillan
+Publishers, New York, 288 pp.
+Senterre, B. (2005) Checklist of the Ebenaceae of Equatorial Guinea. Anales del Jardín Botánico de Madrid 62: 53–63.
+Sierra, S.E.C., Aparicio, M., Gebraad, M.J.H., Kulju, K.K.M. & van Welzen, P.C. (2007) The morphological range in
+Mallotus (Euphorbiaceae) and a taxonomic revision of its section Rottleropsis (including Axenfeldia) in Malesia,
+Thailand and Africa. Blumea 52: 21–113.
+Sosef, M.S.M., Wieringa, J.J., Jongkind, C.C.H., Achoundong, G., Azizet Issembé, Y., Bedigian, D., van den Berg, R.G.,
+Breteler, F.J., Cheek, M., Degreef, J., Faden, R.B., Goldblatt, P., van der Maesen, L.J.G., Ngok Banak, L.,
+Niangadouma, R., Nzabi, T., Nziengui, B., Rogers, Z.S., Stévart, T., van Valkenburg, J.L.C.H., Walters, G., de Wilde,
+J.J.F.E. (2006) Check-list des plantes vasculaires du Gabon. Scripta Botanica Belgica 35: 1–438.
+Stevens, P.F. (2001 onwards) Angiosperm Phylogeny Website, version 9, June 2008 Missouri Botanical Garden, St.
+Louis. Available from: http://www.mobot.org/mobot/research/APweb/ (accessed: 10 June 2012).
+Takhtajan, A. (2009) Flowering Plants. Springer Netherlands, Dordrecht, 871 pp.
+Thiselton-Dyer, W.T. (ed.) (1912) Flora of Tropical Africa 6(1), Part V. Lovell Reeve & Co., London, pp. 769–960.
+Thiselton-Dyer, W.T. (ed.) (1913) Flora of Tropical Africa 6(1), Part VI. Lovell Reeve & Co., London, pp. 961–1094.
+Velayos, M., Aedo, C. & Pérez Viso, R. (2001) Check–List of the Pteridophytes of Equatorial Guinea. Belgian Journal of
+Botany 134: 145–191.
+Velayos, M., Cabezas, F., Barberá, P., Estrella, M., Aedo, C., Morales, R., Quintanar A., Velayos, G. & Fero, M. (2013)
+Preliminary checklist of vascular plants of Bioko Island (Equatorial Guinea). Botanica Complutensis 37: 113–137.
+Webster, G.L. (1994) Classification of the Euphorbiaceae. Annals of the Missouri Botanical Garden 81: 3–32.
+Whitmore, T.C. (2008) The genus Macaranga. A prodromus. Royal Botanic Gardens, Kew, 293 pp.
+Wurdack, K.J., Hoffmann, P. & Chase, M.W. (2005) Molecular phylogenetic analysis of uniovulate Euphorbiaceae
+(Euphorbiaceae sensu stricto) using plastid rbcL and trnL-F DNA sequences. American Journal of Botany 92: 1397–
+1420.
+Xi, Z., Ruhfel, B.R., Schaefer, H., Amorim, A.M., Sugumaran, A.M., Wurdack, K.J., Endress, P.K., Matthews, M.L.,
+Stevens, P.F., Mathews, S. & Davis, C.C. (2012) Phylogenomics and a posteriori partitioning resolve the Cretaceous
+angiosperm radiation Malpighiales. Proceedings of the National Academy of Sciences of the United States of
+America 109: 17519–17524.
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 23
+
+Appendix
+INDEX TO SCIENTIFIC NAMES
+Accepted names are in boldface. Synonyms are in italics. Doubtful records are in normal type.
+Acalypha L.
+annobonae Pax & K. Hoffm.
+brachystachya Hornem.
+hispida Burm.f.
+manniana Müll. Arg.
+micrantha Benth.
+ornata Hochst. ex A. Rich.
+paniculata Miq.
+racemosa Wall. ex Baillon
+Adelia L.
+anomala Juss. ex Poir.
+Agrostistachys Dalzell
+africana Müll. Arg.
+Alchornea Sw.
+caloneura Pax
+cordata Benth.
+cordifolia (Schumach. & Thonn.) Müll. Arg.
+floribunda Müll. Arg.
+hirtella Benth.
+f. comoensis (Beille) Pax & K. Hoffm.
+Argomuellera Pax
+lancifolia (Pax) Pax
+macrophylla Pax
+Athroandra Benth.
+atrovirens (Pax) Pax & K. Hoffm.
+var. flaccida (Pax) Pax & K. Hoffm.
+mannii (Hook.f.) Pax & K. Hoffm.
+pallidifolia Pax & K. Hoffm.
+rivularis (Müll. Arg.) Pax & K. Hoffm.
+welwitschiana (Müll. Arg.) Pax & K. Hoffm.
+Claoxylon A. Juss.
+atrovirens Pax
+dewevrei Pax
+hexandrum Müll. Arg.
+mannii Hook.f.
+pedicellare Müll. Arg.
+preussii Pax
+rivulare Müll. Arg.
+welwitschianum Müll. Arg.
+Cleidion Blume
+gabonicum Baill.
+Croton L.
+oppositifolius Geiseler
+Dalechampia L.
+ipomoeifolia Benth.
+Discoclaoxylon L.
+hexandrum (Müll. Arg.) Pax & K. Hoffm.
+occidentale (Müll. Arg.) Pax & K. Hoffm.
+var. pubescens Pax & K. Hoffm.
+pedicellare (Müll. Arg.) Pax & K. Hoffm.
+pubescens (Pax & K. Hoffm.) Exell
+Discoglypremna Prain
+caloneura (Pax) Prain
+var. membranacea Pax
+Erythrococca Benth.
+aculeata Benth.
+anomala (Juss. ex Poir.) Prain
+atrovirens (Pax) Prain
+var. flaccida (Pax) Radcl.-Sm.
+dewevrei (Pax) Prain
+mannii (Hook.f.) Prain
+oleracea (Pax) Prain
+
+24 •
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+ϲ
+ϲ
+ϲ
+ϲ
+ϭϲ
+ϲ
+ϲ
+ϲ
+ϭϭ
+ϭϳ
+ϭϬ
+ϳ
+ϳ
+ϴ
+ϴ
+ϴ
+ϴ
+ϵ
+ϭϭ
+ϭϮ
+ϭϮ
+ϭϮ
+ϭϮ
+ϭϭ
+ϭϮ
+ϭϬ
+ϭϮ
+ϭϬ
+ϭϬ
+ϭϮ
+ϭϮ
+ϵ
+ϭϱ
+ϵ
+ϭϬ
+ϭϬ
+ϭϬ
+ϭϬ
+ϭϬ
+ϭϬ
+ϭϭ
+ϭϭ
+ϭϭ
+ϭϭ
+ϭϮ
+ϭϮ
+ϭϭ
+
+pallidifolia (Pax & K. Hoffm.) Keay
+polyandra (Pax & K. Hoffm.) Prain
+rivularis (Müll. Arg.) Prain
+welwitschiana (Müll. Arg.) Prain
+Macaranga Thouars
+barteri Müll. Arg.
+gabunica Prain
+hurifolia Beille
+klaineana Pierre ex Prain
+magnistipulosa Pax
+monandra Müll. Arg.
+occidentalis (Müll. Arg.) Müll. Arg.
+saccifera Pax
+spinosa Müll. Arg.
+staudtii Pax
+Mallotus Lour.
+oppositifolius (Geiseler) Müll. Arg.
+f. dentatus (Schumach. & Thonn.) Pax & K. Hoffm.
+subulatus Müll. Arg.
+Mappa A. Juss.
+occidentalis Müll. Arg.
+Mareya Baill.
+brevipes Pax
+longifolia Pax
+micrantha (Benth.) Müll. Arg.
+subsp. micrantha
+spicata Baill.
+var. leonensis (Benth.) Pax & K. Hoffm.
+var. micrantha (Benth.) Pax & K. Hoffm.
+Mareyopsis Pax & K. Hoffm.
+longifolia (Pax) Pax & K. Hoffm.
+Micrococca Benth.
+mercurialis (L.) Benth.
+Neopycnocoma Pax
+lancifolia Pax
+Plukenetia L.
+conophora Müll. Arg.
+Pseudagrostistachys Pax & K. Hoffm.
+africana (Müll. Arg.) Pax & K. Hoffm.
+subsp. africana
+Pycnocoma Benth.
+brachystachya Pax
+macrophylla Benth.
+minor Müll. Arg.
+Ricinus L.
+communis L.
+Schousboea Willd.
+cordifolia Schumach. & Thonn.
+Tetracarpidium Pax
+conophorum (Müll. Arg.) Hutch. & Dalziel
+Tragia L.
+aff. tenuifolia Benth.
+benthamii Baker
+cordifolia Benth.
+mercurialis L.
+preussii Pax
+volubilis L.
+winkleri Pax
+Wetriaria Pax
+lancifolia (Pax) Pax
+macrophylla (Pax) Pax
+
+12
+ϮϬ
+ϭϮ
+ϭϮ
+ϭϯ
+ϭϯ
+ϭϯ
+ϭϯ
+ϭϰ
+ϭϰ
+ϭϰ
+ϭϰ
+ϭϱ
+ϭϱ
+ϭϱ
+ϭϱ
+ϭϱ
+ϭϰ
+ϭϲ
+ϭϲ
+ϭϲ
+ϭϲ
+ϭϲ
+ϭϲ
+ϭϲ
+ϭϲ
+ϭϳ
+ϴ
+ϭϳ
+ϭϳ
+ϭϴ
+ϭϴ
+ϭϴ
+ϭϴ
+ϳ
+ϭϳ
+ϭϵ
+ϭϵ
+ϭϵ
+ϭϳ
+ϭϵ
+ϮϬ
+ϭϵ
+ϴ
+ϵ
+
+BARBERÁ ET AL.
+
+LIST OF COLLECTIONS
+The species is indicated by a number in parenthesis corresponding to the number in the checklist.
+Aedo 18068 (7.1). Aedo, Pérez Viso & Velayos 5407 (2.1). Barberá 62 (9.6), 76 (11.1), 102 (9.1), 154 (11.1), 156 (2.2),
+262 (2.1). Barter s.n. (1.6), s.n. (2.1). Boughey 27 (9.7), 65 (1.4). Cabezas 120 (2.2), 990 (16.1), 1079 (9.7), 1089 (8.5),
+1246 (9.6), 1277 (2.1), 1285 (2.1), 1293 (13.1), 1298 (9.9), 1368 (8.7). Carvalho 2116 (2.1), 2119 (10.2), 2164 (2.2),
+2176 (11.2), 2226 (7.1), 2280 (9.9), 2314 (8.5), 2381 (10.2), 2436 (10.2), 2459 (10.1), 2469 (8.1), 2509 (10.2), 2510
+(18.3), 2525 (1.6), 2567 (5.1), 2715 (8.1), 2750 (14.1), 2758 (1.4), 2788 (2.1), 2854 (7.1), 2856 (7.1), 2858 (2.2), 2898
+(10.1), 2926 (10.1), 2928 (11.2), 2935 (10.2), 3241 (1.6), 3416 (18.4), 3457 (11.2), 3461 (9.7), 3505 (9.9), 3515 (14.1),
+3743 (6.1), 3752 (6.1), 3816 (6.1), 3973 (2.1), 4017 (7.1), 4085 (14.1), 4121 (18.3), 4133 (14.1), 4142 (18.1), 4197 (8.5),
+4207 (8.5), 4233 (6.1), 4328 (1.3), 4366 (4.1), 4393 (4.1), 4757 (14.1), 4835 (5.1), 4867 (18.3), 4923 (13.1), 4975 (9.4),
+5153 (14.1), 5184 (13.1), 5189 (2.1), 5235 (5.1), 5409 (9.4), 5420 (18.1), 5540 (11.1), 5692 (12.1), 6092 (12.1), 6123
+(12.1), 6407 (14.1), 6510 (8.2). Eneme 246 (2.1), 540 (1.3). Castelo, Cabeza & Juste s.n. (2.1). Castroviejo 9188 (9.7),
+9199 (1.5). Esono & Ndong 378 (9.6). Exell 850 (9.7). Fernández Casas 10066 (2.2), 10129 (9.9), 10135 (9.6), 10237
+(10.2), 10254 (18.3), 10256 (10.2), 10377 (8.5), 10387 (1.4), 10398 (1.4), 10434 (1.4), 11246 (10.2), 11260 (10.2),
+11275 (14.1), 11281 (2.2), 11298 (2.1), 11317 (2.1), 11461 (2.2), 11462 (1.4), 11554 (11.2), 11576 (18.3), 11595 (9.6),
+11682 (14.1), 11746 (1.4), 11754 (8.5), 11867 (6.1), 11870 (2.2), 11872 (6.1), 11907 (2.2), 11912 (1.4), 11924 (8.5),
+12017 (2.1), 12063 (14.1), 12137 (9.7), 12170 (1.4), 12216 (17.1). Fero 68 (2.1), 88 (2.1), 114 (2.1), 161 (9.9), 229 (7.1),
+262 (7.1), 293 (9.6), 303 (5.1). Galán & Barberá 4596PG (1.2), 4666PG (2.2), 4738PG (1.2). Gómez Marín 14 (17.1),
+67 (2.1). Guinea s.n. (9.6), 124 (9.3), 125 (9.3), 126 (9.3), 215 (2.1), 276–553 (2.1), 575–164 (2.1), 583 (2.1), 1104 (1.4),
+1106 (1.4), 1211 (11.2), 1212 (11.2), 1213 (9.6), 1426 (18.3), 1426bis (18.3), 1611 (1.4), 1613 (1.4), 1614 (1.4), 1720
+(1.4), 1721 (1.4), 1805 (8.5), 2430 (6.1), 2431 (6.1). Guinea & Lope del Val 208 (9.7), 218 (9.6), 219 (9.6). Lejoly &
+Elad 98/035 (9.8). Lejoly & van Asbroeck 7 (9.10). Lisowski M-51 (2.1), M-650 (5.1), M-827 (9.2), M-1133 (9.6), M1377 (5.1). Lope del Val s.n. (1.3), s.n. (2.1), s.n. (2.2), s.n. (9.6), s.n. (9.6), s.n. (9.7). Luke 11747 (9.7), 11760 (6.1),
+11835 (9.6), 11866 (8.5), 11867 (8.5), 13278 (15.1). Luke & Fermin 12092 (16.1). Mann s.n. (6.2), 75 (18.4), 81 (2.1),
+186 (6.1), 235 (11.2), 260 (10.2), 209 (11.2), 303 (9.7), 306 (2.2), 435 (11.2), 582 (15.1), 633 (8.4), 1160 (9.9), 1785
+(8.6), 1801 (2.2), 1841 (16.2). Melville 607 (9.7). Mildbraed 6492 (6.3), 6538 (1.1), 6555 (6.3). Ngomo 134 (2.1), 234
+(15.1), 263 (18.1). Obama 777 (2.2). Pérez Viso 61 (2.2), 107 (2.1), 343bis (2.1), 390 (9.6), 584 (2.3), 836 (2.1), 853
+(2.3), 1176 (2.2), 1197 (3.2), 1215 (8.3), 1310 (2.3), 1457 (2.1), 1617 (9.6), 1745 (2.3), 1761 (2.3), 1841 (2.1), 2091
+(2.3), 2140 (2.1), 2141 (2.1), 2289 (18.4), 2290 (2.1), 2325 (2.2), 2347 (11.1), 2349 (11.1), 2379 (2.2), 2405 (2.2),
+2753bis (2.2), 2619 (2.2), 2666 (8.2), 2682 (2.3), 2692 (8.2), 2999 (2.2), 3101 (11.1)͕ 3170 (2.2), 3189 (8.2), 3201 (9.6),
+3335 (9.6), 3411 (2.2), 3451 (2.1), 3464 (9.6), 3681 (2.2), 3749 (2.1), 4217 (3.1). Tessmann 9 (9.1), 97 (7.1), 167 (2.1),
+249 (9.5), 296 (8.7), 555 (8.7), 359 (3.1), 563 (3.2), 600 (9.6), 616 (10.1), 624 (3.2), 723 (11.1). Velayos 9286 (2.2), 9960
+(2.1), 9968 (2.3), 11648 (6.3), 11690 (6.3). Vogel 18 (16.1), 26 (18.1), 73 (2.1), 194 (10.2). Wrigley 288 (7.1), 510 (1.4),
+621 (8.5), 649 (2.2). Wrigley & Melville 55 (1.1), 96 (6.3).
+
+KEYS TO ACALYPHOIDEAE OF EQUATORIAL GUINEA
+
+Phytotaxa 140 (1) © 2013 Magnolia Press
+
+• 25
+
+

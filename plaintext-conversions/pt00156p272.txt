@@ -1,0 +1,2021 @@
+Phytotaxa 156 (5): 251–272
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.156.5.1
+
+Molecular phylogenetics of Neotropical Cyanaeorchis (Cymbidieae,
+Epidendroideae, Orchidaceae): geographical rather than morphological
+similarities plus a new species
+JOÃO A. N. BATISTA 1 , ANA CAROL INA M. MOTA 1 , K ARINA PROITE 1 , LUCIANO DE BEM
+BIANCHETTI 2 , GUSTAVO A. ROMERO-GONZÁLEZ 3 , HÉCTOR M. H. ESPINOZA 4 & GERARDO A.
+SALAZAR4
+1
+
+Universidade Federal de Minas Gerais, Departamento de Botânica, Av. Antônio Carlos 6627, Pampulha, C.P. 486, Belo Horizonte,
+MG, 31270-910, Brazil; email: janb@icb.ufmg.br
+2
+Embrapa Recursos Genéticos e Biotecnologia, Parque Estação Biológica, Final Av. W5 Norte, C.P. 02372, Brasília, DF, 70770-901,
+Brazil
+3
+Oakes Ames Orchid Herbarium, Harvard University Herbaria, 22 Divinity Avenue, Cambridge, Massachusetts 02138, USA
+4
+Departamento de Botánica, Instituto de Biología, Universidad Nacional Autónoma de Mexico, Apartado Postal 70-367, 04510
+Mexico, D.F., Mexico
+
+Abstract
+We investigated the phylogenetic placement of Cyanaeorchis and selected representatives of the tribe Cymbidieae based
+on nuclear (ITS) and plastid (matK–trnK and rbcL) DNA sequences. Bayesian and parsimony analyses of separate and
+combined datasets were largely congruent with each other and showed that the Neotropical Cyanaeorchis does not
+belongs in the predominantly Old World subtribe Eulophiinae, where it has previously been placed. Instead, it is strongly
+supported as a sister to Grobya in Catasetinae. Because Catasetinae are Neotropical and there are no unequivocal
+morphological similarities between Cyanaeorchis and other genera in the subtribe, this relationship reflects a
+geographical rather than morphological similarity and suggest habitat-driven local diversification. Specimens from
+central Brazil formerly identified as Cyanaeorchis minor are shown to be a distinct species, described here as C.
+praetermissa. Niche modeling indicates that C. praetermissa and C. minor have different distributions and ecological
+niches, whereas a third species, C. arundinae has broader climatic tolerances and a distribution that encompasses those
+of the other two species. The distribution of the genus is also predicted to include Bolivia, the states of Rio de Janeiro,
+Espirito Santo and several areas in northeastern Brazil, from where no collections are currently known.
+
+Introduction
+Cyanaeorchis Barbosa Rodrigues (1877: 112) is a small genus of two species distributed from the Espinhaço range
+in the state of Bahia in northeastern Brazil to central, southeastern and southern Brazil, Argentina and Paraguay.
+Species of Cyanaeorchis are terrestrial and found in humid grasslands, permanent swamps and marshes, usually
+from 600 to 1700 m, but also near sea level at latitudes greater than 27o S. Flowering is mainly from October to
+January, from the beginning to the peak of the rainy season. Plants of Cyanaeorchis have distinct growth and
+dormancy phases - a new vegetative shoot, leaves and terminal flowers are produced in the rainy season during the
+spring and summer. During the dry season or winter, the aerial parts wither and the plant survives as a short
+underground stem with roots, which makes possible a new cycle of growth in the following rainy season.
+The first species of Cyanaeorchis was originally described as Eulophia arundinae Reichenbach (1850: 854).
+Barbosa Rodrigues recognized a series of differences with Eulophia and proposed the genus Cyanaeorchis. The
+main distinctive characters were the terminal inflorescence, four pollinia and the lack of a spur on the labellum in
+Cyanaeorchis. Cogniaux (1898–1902) and Hoehne (1942) accepted and summarized knowledge of the genus.
+
+Accepted by Mark Chase: 6 Dec. 2013; published: 28 Jan. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+251
+
+Phylogenetic placement of Cyanaeorchis has been unclear. Since Reichenbach (1850), most authors have
+considere it to have some relationship to Eulophia Brown in Lindley (1821a: 573) and the corresponding subtribe,
+usually Eulophiinae Bentham (1881: 287) (Dressler 1981, 1993, Chase et al. 2003, Pridgeon et al. 2009).
+Szlachetko (1995, 2003) included Cyanaeorchis in Cymbidiinae Bentham (1881: 287), but that version of
+Cymbidiinae partially corresponds to what was defined as Eulophiinae by other authors. In contrast to other
+authors, Schlechter (1915) placed Cyanaeorchis in Polystachyinae Schlechter (1915: 292), which included Ansellia
+Lindley (1844: 12), Polystachya Hooker (1824: 103) and Galeandra Lindley in Lindley & Bauer (1830: 8),
+whereas Eulophia was placed in Cyrtopodiinae Bentham (1881: 288) along with Geodorum Jackson (1811: 626),
+Eulophiopsis Pfitzer (1877: 105), now considered a synonym of Graphorkis Thouars (1809: 318), Eulophiella
+Linden & Rolfe (1892: 29), Cyrtopodium Brown (1813: 216), Govenia Lindley (1832: 153) and Warrea Lindley
+(1843a: 14).
+Dressler (1993) was the first author to formally include Cyanaeorchis in Eulophiinae, but his morphological
+characterization of the subtribe did not match the morphological characters of Cyanaeorchis. Pridgeon et al. (2009)
+kept Cyanaeorchis in Eulophiinae and presented an expanded circumscription of the subtribe. However, beyond the
+general similarity between the flowers of Cyanaeorchis and some species of Eulophia, there are no clear,
+unequivocal morphological characters that link Cyanaeorchis to Eulophia or any other genus of Eulophiinae. For
+instance, Eulophiinae generally have pseudobulbs or an underground rhizomatous perennating organ (but not in
+Acrolophia Pfitzer 1887: 59), a lateral inflorescence (terminal in Acrolophia), two pollinia and a conspicuous stipe,
+whereas Cyanaeorchis has no pseudobulbs, a terminal inflorescence, four pollinia and an inconspicuous stipe.
+Another difference is found in distribution. Cyanaeorchis is restricted to the New World, in Brazil, Paraguay and
+northern Argentina, whereas Eulophiinae are predominantly Afro-Madagascan with extensions into tropical Asia,
+Australasia (Pridgeon et al. 2009) and a few (perhaps only three if Cyanaeorchis is excluded) in the American
+tropics. A few species of Eulophia and Oeceoclades (Eulophiinae) also occur in the New World, but these genera
+are mainly African, and in most cases, the same species, Eulophia alta (Linnaeus 1767: 594) Fawcett & Rendle
+(1910: 112) and Eulophia ruwenzoriensis Rendle (1895: 166), occurs in both continents, suggesting a recent longdistance dispersal from Africa to the New World. Oeceoclades maculata (Lindley 1821b: 15) Lindley (1833: 237)
+is a recently introduced invasive. These discrepancies raised doubts about phylogenetic placement of
+Cyanaeorchis.
+Until recently, material of Cyanaeorchis had not been available for DNA studies, precluding a phylogenetic
+analysis of the genus using molecular data. Recent collections of the genus were few, and none had included
+samples for DNA extraction. Here, we report a phylogenetic analysis of Cyanaeorchis and selected representatives
+of tribe Cymbidieae Pfitzer (1887: 105) based on nuclear (ITS) and plastid (matK–trnK and rbcL) DNA sequences.
+Furthermore, specimens from central Brazil previously identified as Cyanaeorchis minor Schlechter (1920: 332)
+were found to represent a distinct new species, which is described here.
+
+Material and methods
+Taxonomic sampling for phylogenetic analysis
+Because the phylogenetic position of Cyanaeorchis in Eulophiinae was uncertain, our ingroup consisted in
+selected species of most other subtribes of Cymbidieae. Exemplars of all species of Cyanaeorchis and
+representative species of most subtribes of Cymbidieae recognized by Pridgeon et al. (2009), namely Catasetinae
+Lindley (1843b: 22), Coeliopsidinae Szlachetko (1995: 97), Cymbidiinae, Cyrtopodinae, Eriopsidinae Szlachetko
+(1995: 94), Eulophiinae, Maxillariinae Bentham (1881: 288), Oncidiinae Bentham (1881: 288), Stanhopeinae
+Bentham (1881: 288) and Zygopetalinae Schlechter (1915: 417), except Vargasiellinae Schweinfurth in Romero &
+Carnevali (1993: 79), were analyzed in this study. Species of Polystachya (Vandeae Lindley (1826: 14),
+Polystachyinae) and Phalaenopsis Blume (1825: 294) (Vandeae, Aeridinae Pfitzer 1887: 108) were used as
+outgroups. Selection of outgroups was based on the phylogenetic analysis of Cameron et al. (1999), which placed
+the clade Epidendrae–Vandae as sister to Cymbidieae. The same outgroups were also used in the phylogenetic
+analyses of Cymbidieae of Pridgeon et al. (2009). Except for the Cyanaeorchis sequences obtained for this study,
+all sequences used in this analysis were downloaded from GenBank. Accession numbers are provided in Table 1.
+
+252 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+TABLE 1. GenBank accession numbers for the sequences analysed in this study.
+ITS
+
+matK–trnK
+
+rbcL
+
+Phalaenopsis aphrodite Rchb.f.
+
+AY391543
+
+NC_007499
+
+NC_007499
+
+Polystachya cultriformis (Thouars) Lindl. ex Spreng.
+
+GU556643
+
+GQ145124
+
+-
+
+Polystachya pubescens (Lindl.) Rchb.f.
+
+HM018554
+
+GQ145180
+
+AF074222
+
+-
+
+AF263637
+
+AF074121
+
+Catasetum fimbriatum (C.Morren) Lindl.
+
+EU441210
+
+-
+
+-
+
+Catasetum luridum (Link) Lindl.
+
+EU877155
+
+-
+
+-
+
+Catasetum planiceps Lindl.
+
+-
+
+EF079266
+
+-
+
+Catasetum saccatum Lindl.
+
+EU441204
+
+-
+
+-
+
+Catasetum sp.
+
+-
+
+EF065571
+
+-
+
+Clowesia warczewitzii (Lindl. & Paxton) Dodson
+
+-
+
+EU214146
+
+-
+
+JF69204
+
+-
+
+-
+
+Cyanaeorchis arundinae (Rchb.f.) Barb.Rodr. (RS)
+
+KF771817
+
+KF771821
+
+KF771825
+
+Cyanaeorchis arundinae (Rchb.f.) Barb.Rodr. (MG)
+
+KF771816
+
+KF771820
+
+-
+
+Cyanaeorchis minor Schltr.
+
+KF771818
+
+KF771822
+
+KF771824
+
+Cyanaeorchis praetermissa J.A.N.Bat. & Bianch.
+
+KF771819
+
+KF771823
+
+KF771826
+
+-
+
+AY368401
+
+AY368355
+
+Cycnoches sp.
+
+JF691909
+
+-
+
+-
+
+Dressleria dilecta (Rchb.f.) Dodson
+
+AF239411
+
+EF079265
+
+-
+
+Dressleria eburnea (Rolfe) Dodson
+
+-
+
+-
+
+AF074153
+
+Dressleria sp.
+
+-
+
+AY368406
+
+-
+
+Galeandra beyrichii Rchb.f.
+
+EU877151
+
+-
+
+-
+
+Galeandra blanchetii E.S.Rand
+
+EU877140
+
+-
+
+-
+
+Galeandra devoniana M.R.Schomb. ex Lindl.
+
+EU877142
+
+AY368408
+
+AF074171
+
+Grobya amherstiae Lindl.
+
+EU877158
+
+-
+
+-
+
+Grobya galeata Lindl.
+
+AF470487
+
+AF470457
+
+AY370655
+
+Mormodes vinacea Hoehne
+
+-
+
+EF079252
+
+-
+
+Mormodes sp.
+
+-
+
+-
+
+AF074196
+
+Coeliopsis hyacinthosma Rchb.f.
+
+AF239344
+
+EF065564
+
+-
+
+Lycomormium fiskei H.R.Sweet
+
+AF239345
+
+-
+
+-
+
+-
+
+AY368414
+
+AF074186
+
+AF239346
+
+-
+
+-
+
+AF470492
+
+AF470462
+
+-
+
+-
+
+-
+
+AY368350
+
+Ansellia africana Lindl.
+
+AF470491
+
+AF470461
+
+EU213445
+
+Cymbidium aloifolium (L.) Sw.
+
+JN114485
+
+AF470485
+
+-
+
+Cymbidium cyperifolium Wall. ex Lindl.
+
+AF284719
+
+-
+
+-
+
+Cymbidium eburneum Lindl.
+
+JF729012
+
+AF470470
+
+AY368356
+
+Outgroup
+
+Catasetinae
+Catasetum expansum Rchb.f.
+
+Clowesia sp.
+
+Cycnoches egertonianum Bateman
+
+Coeliopsidinae
+
+Lycomormium squalidum (Poepp. & Endl.) Rchb.f.
+Peristeria elata Hook.
+Cymbidiinae
+Acriopsis javanica Reinw. ex Blume
+Acriopsis sp.
+
+...... continued on the next page
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 253
+
+TABLE 1 (continued)
+ITS
+
+matK–trnK
+
+rbcL
+
+Cymbidium elegans Lindl.
+
+AF284712
+
+AF470478
+
+-
+
+Cymbidium ensifolium (L.) Sw.
+
+AF470512
+
+AF470464
+
+AF074141
+
+Dipodium paludosum (Griff.) Rchb.f.
+
+-
+
+EF079261
+
+-
+
+Grammatophyllum speciosum Blume
+
+AF470488
+
+AF239510
+
+AF074176
+
+Grammatophyllum papuanum J.J.Sm.
+
+-
+
+EF079262
+
+-
+
+Graphorkis lurida (Sw.) Kuntze
+
+-
+
+AY368410
+
+AY368359
+
+Thecostele alata (Roxb.) E.C.Parish & Rchb.f.
+
+-
+
+-
+
+AY368371
+
+Thecostele sp.
+
+-
+
+AY368431
+
+-
+
+Cyrtopodium aliciae L.Linden & Rolfe
+
+EU877156
+
+-
+
+-
+
+Cyrtopodium andersonii (Lamb. ex Andrews) R.Br.
+
+AF470490
+
+EF079263
+
+AF074143
+
+Cyrtopodium punctatum (L.) Lindl.
+
+AF239412
+
+AF239508
+
+AF074144
+
+Eriopsis biloba Lindl.
+
+DQ461788
+
+DQ210866
+
+AF074167
+
+Eriopsis rutidobulbon Hook.
+
+AF239410
+
+-
+
+-
+
+-
+
+EF079253
+
+-
+
+Cymbidiella pardalina (Rchb.f.) Garay
+
+AF470489
+
+AF470459
+
+-
+
+Eulophia alta (L.) Fawc. & Rendle
+
+EU877157
+
+-
+
+-
+
+Eulophia graminea Lindl.
+
+FJ565666
+
+FJ565159
+
+-
+
+Eulophia guineensis Lindl.
+
+AF239413
+
+AF239509
+
+-
+
+-
+
+EF079257
+
+AF264167
+
+EU877159
+
+-
+
+-
+
+Eulophia spectabilis (Dennst.) Suresh
+
+-
+
+JN004438
+
+AF074170
+
+Eulophia streptopetala Lindl.
+
+-
+
+EF079258
+
+AM235039
+
+AB306313
+
+-
+
+-
+
+-
+
+JN004435
+
+JN005457
+
+AF284726
+
+JN004443
+
+JN005467
+
+Oeceoclades rauhii (Senghas) Garay & P.Taylor
+
+-
+
+EF079260
+
+-
+
+Oeceoclades saundersiana (Rchb.f.) Garay & P.Taylor
+
+-
+
+AY368422
+
+AY368366
+
+Oeceoclades maculata (Lindl.) Lindl.
+
+-
+
+JQ588555
+
+JQ593044
+
+Bifrenaria aureofulva Lindl.
+
+AY063426
+
+-
+
+-
+
+Bifrenaria tyrianthina (Lodd. ex Loudon) Rchb.f.
+
+DQ210235
+
+DQ210752
+
+-
+
+Bifrenaria harrisoniae (Hook.) Rchb.f.
+
+-
+
+-
+
+AF074112
+
+Bifrenaria tetragona (Lindl.) Schltr.
+
+-
+
+DQ210751
+
+-
+
+Cryptocentrum peruvianum (Cogn.) C.Schweinf.
+
+DQ210321
+
+DQ210820
+
+AF074139
+
+Lycaste cruenta (Lindl.) Lindl.
+
+AF239342
+
+AF239438
+
+AF074185
+
+Mormolyca polyphylla Garay & Wirth
+
+DQ210534
+
+DQ211009
+
+-
+
+Rudolfiella floribunda (Schltr.) Hoehne
+
+DQ210394
+
+DQ210881
+
+-
+
+-
+
+-
+
+FJ534212
+
+Cyrtopodiinae
+
+Eriopsidinae
+
+Eriopsis sceptrum Rchb.f. & Warsz.
+Eulophiinae
+
+Eulophia petersii (Rchb.f.) Rchb.f.
+Eulophia ruwenzoriensis Rendle
+
+Eulophia zollingeri (Rchb.f.) J.J.Sm.
+Eulophia flava (Lindl.) Hook.f.
+Geodorum densiflorum (Lam.) Schltr.
+
+Maxillariinae
+
+Rudolfiella sp.
+
+...... continued on the next page
+
+254 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+TABLE 1 (continued)
+ITS
+
+matK–trnK
+
+rbcL
+
+EF079427
+
+EF079255
+
+-
+
+-
+
+-
+
+AF074245
+
+Comparettia falcata Poepp. & Endl.
+
+FJ565262
+
+FJ563869
+
+FJ534237
+
+Gomesa crispa (Lindl.) Klotzsch ex Rchb.f.
+
+FJ565415
+
+FJ564906
+
+-
+
+Gomesa echinata (Barb.Rodr.) M.W.Chase & N.H.Williams
+
+FJ565406
+
+FJ564897
+
+-
+
+-
+
+-
+
+FJ534252
+
+EF079418
+
+FJ564686
+
+-
+
+-
+
+-
+
+FJ534134
+
+Miltonia flavescens (Lindl.) Lindl.
+
+FJ565256
+
+FJ563862
+
+-
+
+Oncidium altissimum (Jacq.) Sw.
+
+FJ565295
+
+FJ563914
+
+FJ534170
+
+Ornithocephalus bicornisLindl.
+
+-
+
+FJ565126
+
+FJ534228
+
+Ornithocephalus inflexus Lindl.
+
+AF350507
+
+-
+
+-
+
+Trichocentrum cebolleta (Jacq.) M.W.Chase & N.H.Williams
+
+FJ565669
+
+-
+
+-
+
+Trichocentrum longicalcaratum Rolfe
+
+FJ565524
+
+FJ565007
+
+-
+
+AF239379
+
+-
+
+-
+
+Acineta chrysantha (C.Morren) Lindl.
+
+-
+
+AF263619
+
+AF074102
+
+Coryanthes macrantha (Hook.) Hook.
+
+AF239359
+
+-
+
+-
+
+Coryanthes verrucolineata G.Gerlach
+
+-
+
+AY368398
+
+AF074134
+
+Gongora amparoana Schltr.
+
+-
+
+AY368409
+
+AY368358
+
+AF239386
+
+-
+
+-
+
+-
+
+EF079251
+
+-
+
+Gongora sphaerica Jenny
+
+AF239388
+
+-
+
+-
+
+Houlletia sanderi Rolfe
+
+AF239371
+
+EF065562
+
+AF074178
+
+Houlletia wallisii Linden & Rchb.f.
+
+AF239369
+
+-
+
+-
+
+Stanhopea cirrhata Lindl.
+
+AF239368
+
+-
+
+-
+
+Stanhopeae cornuta Lem.
+
+-
+
+-
+
+AF074230
+
+Stanhopea jenischiana F.Kramer ex Rchb.f.
+
+-
+
+FJ565129
+
+-
+
+FJ565224
+
+AY368430
+
+-
+
+AY870081
+
+-
+
+-
+
+-
+
+AY368399
+
+AF074138
+
+Dichaea riopalenquensis Dodson
+
+EU123594
+
+EU123657
+
+AF074149
+
+Huntleya wallisii (Rchb.f.) Rolfe
+
+AY870074
+
+EU123674
+
+-
+
+-
+
+-
+
+AF074179
+
+Koellensteinia graminea (Lindl.) Rchb.f.
+
+AY870102
+
+AY870003
+
+AF074182
+
+Promenaea ovatiloba (Klinge) Cogn.
+
+AY870100
+
+AY368428
+
+AY368369
+
+Zygopetalum maculatum (Kunth) Garay
+
+AY870097
+
+AY869998
+
+AF074246
+
+Zygopetalum maxillare Lodd.
+
+AY870095
+
+EF079242
+
+-
+
+Xylobium squalens (Lindl.) Lindl.
+Xylobium sp.
+Oncidiinae
+
+Gomesa flexuosa (Lodd.) M.W.Chase & N.H.Williams
+Lockhartia amoena Endres &Rchb.f.
+Lockhartia micranta Rchb.f.
+
+Stanhopeinae
+Acineta superba (Kunth) Rchb.f.
+
+Gongora armeniaca (Lindl.) Rchb.f.
+Gongora galeata (Lindl.) Rchb.f.
+
+Stanhopea tigrina Bateman ex Lindl.
+Zygopetalinae
+Cryptarrhena lunata R.Br.
+Cryptarrhena sp.
+
+Huntleya heteroclita (Poepp. & Endl.) Garay
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 255
+
+Molecular markers
+Nucleotide sequences from one nuclear genome region (ITS) and three plastid regions (matK, trnK 3’ intron
+and rbcL) were used in analyses. Amplifications of ITS were performed with primers 17SE and 26SE (Sun et al.
+1994). The plastid DNA regions included the partial sequence of the matK gene, the complete sequence of the trnK
+3’ intron, and the complete sequence of the rbcL gene. The partial sequence of the matK gene and flanking region
+of the trnK 3’ intron were amplified with primers 390F (5'-CGATCTATTCATTCAATATTTC-3') and 2R (5'C C C G G A A C TA G T C G G AT G - 3 ' ) . T h e r b c L g e n e w a s a m p l i f i e d w i t h p r i m e r s F 1 ( 5 ' ATGTCACCACAAACAGAAAC-3') and 1379R (5'-TCACAAGCAGCAGCTAGTTCAGGACTC-3'). Marker
+selection was based on availability of sequences from other genera of Cymbidieae in public databases and the
+general use of these markers for inferring phylogenetic relationships at various taxonomic levels in Cymbidieae
+and other Orchidaceae (Cameron et al. 1999, Whitten et al. 2000, Salazar et al. 2003, Freudenstein et al. 2004, van
+den Berg et al. 2005, Pridgeon et al. 2009). Genomic DNA was extracted from fresh or silica gel-dried material
+using the 2× CTAB method adapted from Doyle & Doyle (1987) or the protocol described by de la Cruz et al.
+(1997) and optimized for small-scale extraction by Sánchez-Hernández & Gaytán-Oyarzún (2006). Some samples
+that did not amplify well were further purified using Qiagen spin columns (DNeasy ® Plant Mini Kit, Qiagen,
+Hilden, Germany). PCR amplifications were performed in a MJ96G (Biocycler) or Eppendorf Mastercycler
+thermal cycler. The general PCR system consisted of 2–3 μl genomic DNA (approximately 20–50 ng of DNA), 1×
+PCR buffer (Phoneutria Biotec., Belo Horizonte, Brazil),1.5 mM MgCl2, 200 μM dNTPs, 0.2 μM of each primer,
+1.5 U of Taq DNA polymerase (Phoneutria Biotec., Belo Horizonte, Brazil) and water in a volume of 30 μl. The
+cycling conditions were as follows: an initial denaturation at 94 ºC for 4 min, 35 cycles of 94 ºC for 45 s, 58 ºC for
+45 s, 72 ºC for 80 s, and a final extension of 5 min at 72 ºC. PCR products were purified by precipitation with
+polyethylene glycol and sequenced by Macrogen Inc. (Korea). Sequencing primers were the same as those used for
+amplification. Bidirectional sequence reads were obtained for all DNA regions, and the resulting
+electropherograms were edited and assembled using the Staden Package software (Bonfield et al. 1995).
+Sequence alignment and phylogenetic analyses
+The edited sequences were aligned with MUSCLE (Edgar 2004), and the resulting alignment was manually
+adjusted using MEGA4 software (Tamura et al. 2007) to maximize sequence similarity (Simmons 2004). No data
+were excluded from the analyses because of ambiguous alignments. Individual gap positions were treated as
+missing data. The data were analyzed with both parsimony and Bayesian inference. Phylogenetic analyses using
+maximum parsimony (MP) were performed in PAUP version 4 (Swofford 2002) with Fitch parsimony (Fitch 1971)
+as the optimality criterion. Each search consisted of 1,000 replicates of random taxon addition for the starting trees
+and branch swapping using the TBR (tree bisection-reconnection) algorithm, only saving up to ten trees per
+replicate to avoid extensive swapping on suboptimal islands. All characters were treated as unordered and equally
+weighted. Internal support was evaluated by nonparametric bootstrapping (Felsenstein 1985) with 1,000 replicates,
+simple addition and TBR branch swapping, saving up to ten trees per replicate. For bootstrap support levels, we
+considered bootstrap percentages (BP) of 50–70 as weak, 71–84 as moderate and > 85 as strong (Kress et al. 2002).
+Bayesian analysis of individual and combined datasets was implemented in MrBayes v. 3.1.2 (Ronquist et al.
+2005), treating each DNA region (ITS, matK–trnK and rbcL) as a separate partition. An evolutionary model for
+each DNA region was selected with MrModeltest 2 (Nylander 2004). For all data sets, the GTR + I + G model was
+selected based on the Akaike information criterion (AIC) or hierarchical likelihood ratio tests (hLRTs). Each
+analysis consisted of two independent runs with four chains for 5,000,000 generations, sampling one tree every
+1,000 generations. The temperature parameter for heating the chains was 0.2. Convergence between runs was
+evaluated by the average standard deviation of split frequencies (<0.01). After discarding the first 25% of the trees
+as burn-in, the remaining trees were used to assess topology and posterior probabilities (PP) in a majority-rule
+consensus. Because PP in Bayesian analysis are not equivalent to BP and are generally much higher (Erixon et al.
+2003), we used criteria similar to a standard statistical test, considering groups with PP > 0.95 as strongly
+supported, PP ranging from 0.90–0.95 as moderately supported and PP < 0.90 as weakly supported.
+Niche modeling
+We assembled a database of 71 taxonomically verified, georeferenced, unique occurrence records of the
+species of Cyanaeorchis, including 58 records of C. arundinae, six of C. minor and seven of the new species, C.
+praetermissa, based on review of specimens from 24 herbaria (see taxonomic analysis below). Niche models were
+
+256 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+generated for each species using Maxent and GARP (Phillips et al. 2004, Stockwell & Noble 1992) and a range of
+climatic and topographic variables, which have been shown to be useful for continental and regional scales
+(Thuiller et al. 2004). The following climatic variables were used: mean diurnal range, precipitation of driest
+quarter, precipitation of wettest quarter, precipitation of coldest quarter and precipitation seasonality (WorldClim;
+Hijmans et al. 2005). The topographic variables were as follows: elevation (from WorldClim; Hijmans et al. 2005),
+slope inclination and slope orientation (these two were obtained by processing the elevation variable of WorldClim
+using ArcGIS 9.3). Variables were selected by evaluating the correlation among variables by means of Pearson’s
+correlation coefficient, as in Elith et al. (2006) and Murphy & Lovett (2007). We tested the correlation among all
+pairs of variables, and only those with r ≤ 0.7 were used.
+Results of the modeling method can be affected by amount of available data; for instance, Papes & Gaubert
+(2007) showed that when modeling with small amounts of data, Maxent tended to over-predict the distribution
+more than GARP. Because the number of records of C. arundinae and C. minor were comparatively fewer (six and
+seven, respectively) than those of C. arundinae (58), we analyzed the data using both Maxent and GARP. Only in
+the case of C. arundinae was it possible to evaluate models using test points, i.e., other points distinct from those
+used to generate the model, that were posteriorly used to evaluate the model.
+Model robustness was evaluated with the area under the curve (AUC) statistic, which is a descriptive index of
+the graph of the receiver operating characteristic. Furthermore, results from both algorithms were critically
+evaluated on the basis of everything that is known of the natural history of the three species.
+Taxonomic analysis
+Morphological analyses and descriptions were based on live, pickled or herbarium material. Details of flowers
+were examined from the pickled material under a stereoscopic microscope. Data on flowering times, habitats, and
+distribution were based on herbarium labels or field observations. Materials and images were examined from the
+following herbaria: AMES, BHCB, CEN, F, G, HB, HBG, HUEFS, HUFU, ICN, IPA, K, M, MBM, NY, P, R, RB,
+S, SI, SP, SPF, UB, US and W. The descriptive terminology used here is based on Stearn (1992) and Simpson
+(2006).
+
+Results
+Phylogenetic analyses
+Initially, we performed separate analyses for each of the ITS and plastid data sets. Because no significant
+incongruence was detected between the plastid and nuclear data (i.e., no conflicting groups obtaining strong
+internal support), an analysis was performed with the combined matrix. Because the parsimony trees are largely
+congruent with the Bayesian trees but are less resolved and have weaker overall support, the Bayesian trees were
+chosen for presentation. General features of the datasets and parsimony statistics for each dataset and analysis are
+presented in Table 2.
+TABLE 2. Taxon sampling and matrix and parsimony statistics for each of the parsimony analyses.
+Taxa
+
+Aligned
+length
+
+Variable, noninformative sites
+
+Variable parsimony
+informative sites (%)
+
+Trees
+
+Fitch tree
+length
+
+Consistency
+index
+
+Retention
+index
+
+ITS
+
+72
+
+892
+
+114 (13%)
+
+420 (47%)
+
+61
+
+2361
+
+0.41
+
+0.60
+
+matK–trnK
+
+74
+
+1881
+
+309 (16%)
+
+378 (20%)
+
+3573
+
+1482
+
+0.59
+
+0.69
+
+rbcL
+
+61
+
+1343
+
+126 (9%)
+
+121 (9%)
+
+3090
+
+450
+
+0.60
+
+0.70
+
+Plastid
+
+80
+
+3247
+
+406 (12%)
+
+471 (14%)
+
+3940
+
+1783
+
+0.60
+
+0.68
+
+Combined
+
+45
+
+4080
+
+562 (14%)
+
+700 (17%)
+
+2
+
+3377
+
+0.52
+
+0.50
+
+Overall, the Bayesian tree and the parsimony strict consensus tree of the ITS dataset were congruent. Most
+subtribes were found to be monophyletic, except Cymbidiinae and Eulophiinae, because Ansellia and Geodorum,
+respectively, were not included in these subtribes, and Maxillariinae, which formed two major clades [(Mormolyca,
+Cryptocentrum, Maxillaria, Xylobium, Lycaste) and (Bifrenaria, Rudolfiella, Scuticaria)] that were paraphyletic to
+Coeliopsidinae and Stanhopeinae (Fig. 1). Cyanaeorchis, comprising the three species of the genus recognized
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 257
+
+FIGURE 1. Bayesian tree from the ITS analysis. Posterior probabilities and bootstrap percentages ≥ 50% from the parsimony analysis
+are shown next to nodes. Subtribes of Cymbidieae are indicated by bars.
+
+258 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+FIGURE 2. Bayesian tree from the plastid (matK–trnK, rbcL) analysis. Posterior probabilities and bootstrap percentages ≥ 50% from
+the parsimony analysis are shown next to nodes. Subtribes of Cymbidieae are indicated by bars.
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 259
+
+FIGURE 3. Bayesian tree from the combined ITS, matK–trnK and rbcL analysis. Posterior probabilities and bootstrap percentages ≥
+50% from the parsimony analysis are shown next to nodes. Subtribes of Cymbidieae are indicated by bars.
+
+260 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+here, formed a strongly supported clade (1.00 PP; 100 BP) that was strongly supported (1.00 PP; 99 BP) as sister to
+Grobya Lindley (1835: 1740). The Cyanaeorchis–Grobya clade was strongly supported as a member of
+Catasetinae (1.00 PP; 100 BP), where it formed a polytomy with a Catasetum–Clowesia–Dressleria–Cycnoches
+and a Galeandra clade.
+In analyses of the plastid dataset, similarly to that of ITS, most subtribes were recovered as monophyletic, with
+the exception of Cymbidiinae, because Ansellia, Graphorkis, and Dipodium Brown (1810: 330), were not included
+in this subtribe (Fig. 2). Dipodium was strongly to moderately supported (1.00 PP; 71 BP) as a sister of
+Cymbidieae, excluding Cymbidiinae, whereas Ansellia and Graphrochis formed a clade (1.00 PP; 81 BP) that was
+sister to Eulophiinae (0.97 PP). The three species of Cyanaeorchis formed a strongly supported clade (1.00 PP; 97
+BP) that was a sister to Grobya (1.00 PP; 95 BP) and placed as a sister to other genera in a strongly supported
+Catasetinae (1.00 PP; 98 BP).
+In the combined analysis, we used two approaches because the species with sequences available in public
+databases were not always the same in all datasets. First, we selected most of the sequences used in each of the
+individual analysis and treated the species absent in one of the datasets as missing data. Second we selected
+sequences in monophyletic genera common to the three datasets (ITS, matK–trnK, rbcL) and treated the taxa at the
+generic level, except for the Cyanaeorchis sequences, for which vouchers were the same for all datasets. In both
+cases, results were essentially the same, and there were no conflicting groups between the analyses with strong
+support. However, in the first case, when plastid and nuclear markers were from different species, resolution was
+lower and some genera were recovered as paraphyletic. Therefore, we choose for presentation the Bayesian tree
+from the second analysis, which was overall better resolved. With the exception of Cymbidiinae all other subtribes
+were recovered with moderate to high support (Fig. 3). Cymbidiinae, excluding Ansellia, were strongly supported
+(1.00 PP; 100 BP) as a sister to the remaining subtribes of Cymbidieae, whereas Ansellia was strongly to weakly
+supported as sister to Eulophiinae (0.96 PP; 64 BP). Similar to the other analyses, the Cyanaeorchis species formed
+a strongly supported clade (1.00 PP; 100 BP) that was a sister to Grobya (1.00 PP; 100 BP), the pair included in
+Catasetinae (1.00 PP; 100 BP).
+Niche modeling
+For Cyanaeorchis arundinae, there was no significant difference in the AUC statistic between the model
+generated with GARP (AUC = 0.901) and Maxent (AUC = 0.955), but the former grossly over-predicted the
+distribution, i.e., predicted a distribution area much larger than currently known, including several extensive
+suitable areas in the Amazon basin. The potential distribution of C. arundinae as modeled with Maxent is shown in
+Fig. 4C. The best model was mainly influenced by five variables (elevation, isothermality, precipitation of driest
+quarter, precipitation of wettest quarter and slope inclination), which explained over 90% of the model. In the cases
+of C. minor and C. praetermissa, Maxent resulted in large over-predictions, similarly to results obtained with
+GARP for C. arundinae, but the potential distributions inferred by GARP were much closer to what is known of
+the actual distribution of these species. The GARP models for both these species are shown in Fig. 4 A,B.
+However, GARP does not allow determination of which variables contributed more to the best models.
+
+Discussion
+Phylogenetic position of Cyanaeorchis
+Our phylogenetic analysis clearly supports inclusion of Cyanaeorchis in Catasetinae, among which it is
+strongly supported as sister to Grobya (BP 100, PP 1.00). From this result, it is clear that all earlier phylogenetic
+positions of Cyanaeorchis among Eulophiinae based on an interpretation of its general floral morphology were
+mistaken. However, as with the previous inclusion of Cyanaeorchis in Eulophiinae, there are no obvious or
+unequivocal morphological characters shared by Cyanaeorchis and the other genera in Catasetinae. For instance,
+Grobya and most species of Catasetinae are epiphytic and have pseudobulbs, whereas Cyanaeorchis is terrestrial
+and lacks pseudobulbs. The only species of Catasetinae with some similarity to Cyanaeorchis are the terrestrial
+Galeandra species, which have a similar vegetative morphology. In accordance with this similarity, Schlechter
+(1915) placed Cyanaeorchis and Galeandra in Polystachyinae along with and a few other genera, but he defined
+this subtribe based mainly on pollinarium morphology. Like Cyanaeorchis, the terrestrial species of Galeandra are
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 261
+
+found in grassland habitats, but this similarity may be, however, just convergence due to similar habitats.
+Accordingly, the molecular phylogenetic analysis of Galeandra (Monteiro et al. 2010) indicated that the terrestrial
+habit is a derived character in this genus.
+
+FIGURE 4. Occurrence records and niche modeling inferred with GARP (A–B) and Maxent (C). A. Cyanaeorchis praetermissa. B.
+Cyanaeorchis minor. C. Cyanaeorchis arundinae. D. Cyanaeorchis spp. Political divisions are highlighted in white. Country
+abbreviations are as follows: Arg, Argentina; Bol, Bolivia; Bra, Brazil; Par, Paraguay; Uru, Uruguay.
+
+262 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+Because Catasetinae are restricted to the Neotropics, our results reveal a geographical pattern, not one based on
+morphological similarity. The geographical structure of Catasetinae along with the habit and habitat of the species
+suggests divergent local diversification of the group in the Neotropics from a common American ancestor. Core
+Catasetinae (Catasetum, Clowesia, Cycnoches, Dressleria, and Mormodes), Grobya and one group of Galeandra
+species are mainly epiphytic in tropical forests, whereas Cyanaeorchis and another group of Galeandra species are
+grassland terrestrial. There are a few exceptions, such as terrestrial Galeandra beyrichii Reichenbach (1850: 854)
+that occurs in forests, and a few terrestrial species of Catasetum Richard in Kunth (1822: 330). Because most
+species of Catasetinae and Cymbidieae have pseudobulbs, the lack of pseudobulbs in Cyanaeorchis is most likely a
+derived character and an adaptation to permanently water-saturated soil. In contrast, the grassland terrestrial
+species of Galeandra grow in seasonally humid or dry soils and have pseudobulbs.
+Beyond the lack of pseudobulbs and terminal inflorescence, four pollinia in Cyanaeorchis is another distinctive
+feature that differs from other genera in Catasetinae and Eulophiinae. Nevertheless, the number of pollinia is a
+variable character in other genera in the tribe; for example, Cymbidium Swartz (1799: 70) can have two or four
+pollinia (Seidenfaden 1983). In summary, our results suggest that the modified vegetative morphology of
+Cyanaeorchis compared to other Catasetinae reflects an adaption to moist grasslands. Differences in flower
+features are most likely also adaptations to specific pollinators. Nothing is known about pollination of
+Cyanaeorchis, but the three species in the genus have papillae in the labellum midlobe. This feature is also found in
+several species of Eulophia. Pollination by carpenter bees of the genus Xylocopa has been reported for Eulophia,
+and it is possible that Cyanaeorchis may have a similar pollinator.
+Inclusion of Cyanaeorchis in Catasetinae requires a morphological change to circumscription in the latter, but
+this was true also of inclusion of Grobya and Galeandra in this subtribe. However, there are no apparent common
+morphological characters shared among genera in the subtribe, except for homoblastic pseudobulbs, which also
+occur in other subtribes and tribes (Pridgeon et al. 2009). Consequently more detailed comparisons, including
+additional data from anatomy, cytogenetics, palynology, phytochemistry etc. will be necessary to reassess the
+phylogenetic position of Cyanaeorchis, Grobya and Galeandra in Catasetinae, which is supported by molecular
+but not morphological characters.
+Relationships within Catasetinae were not completely resolved, particularly in relation to the position of
+Galeandra, which varied in each analysis. In the analysis of the combined datasets Galeandra was a sister to core
+Catasetinae, in the analyses of the plastid dataset it was a sister to a Catasetum–Clowesia clade, whereas in the
+analyses of the ITS dataset it formed a polytomy with Grobya–Cyanaeorchis and core Catasetinae.
+Phylogenetic relationships in Cymbidieae
+Although our study was not designed to resolve relationships in Cymbidieae, some results concerning major
+relationships in the tribe and differences from the literature deserve some mention. In all our analyses, Cymbidiinae
+were recovered as a sister to the remaining subtribes of Cymbidieae, with the exception of the parsimony analysis
+of the ITS dataset, in which Geodorum (Eulophiinae) was a sister to the remainder of the tribe. In the combined
+analysis, Cyrtopodiinae were sister to Cymbidieae exclusing Cymbidiinae. All analyses also recovered the clade
+composed of Eriopsidinae, Zygopetalinae, Oncidiinae, Maxillariinae, Coeliopsidinae and Stanhopeinae, but
+relationships between subtribes were not resolved. In the ITS and combined analyses, Zygopetalinae were a sister
+to Oncidiinae, Coeliopsidinae sister to Stanhopeinae, and Coeliopsidinae-Stanhopeinae sister to Maxillariinae. The
+position of Eriopsidinae was not resolved.
+Some results obtained were not in agreement with the literature. In our analyses, Ansellia and Graphorkis were
+more closely related to Eulophiinae, whereas in Genera orchidacearum (Pridgeon et al. 2009), they were placed in
+Cymbidiinae. The two first genera are from Africa, and in a biogeographical context, their inclusion in Eulophiinae
+makes more sense because Eulophiinae are predominantly Afro-Madagascan whereas Cymbidiinae are almost
+entirely from tropical and subtropical Asia. In this context, the monospecific genus Imerinaea Schlechter (1925:
+152), from Madagascar, is most likely more related to Eulophiinae than to Cymbidiinae. The position of Dipodium
+warrants further investigation. In our analysis of the plastid dataset, it was strongly to moderately supported (1.00
+PP; 71 BP) as sister to Cymbidieae, excluding Cymbidiinae. The same result was obtained in the parsimony
+analysis of Górniak et al. (2010) using the low-copy nuclear gene Xdh. However, in Genera orchidacearum
+(Pridgeon et al. 2009), Dipodium was placed in the subtribe Cymbidiinae, indicating that the phylogenetic position
+of the genus is not clear and requires further investigation.
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 263
+
+Distribution of the species of Cyanaeorchis
+There is no overlap between the known or potential distribution areas of C. praetermissa and C. minor (Fig.
+4A, B). Cyanaeorchis praetermissa occurs in the cerrado biome in the highlands of central-western and
+southeastern Brazil at an elevation of 1000–1400 m, whereas C. minor occupies the southernmost part of the Mata
+Atlântica domain at elevations of 700–900 m. Although the method (GARP) used to model potential distribution of
+these species does not specify which variables contributed more to the model, a comparison of the climatic data for
+the predicted areas suggests that the species have different ecological niches. Cyanaeorchis praetermissa occurs in
+locations with a marked seasonality, the highest precipitation of wettest quarter (mean of 863 mm vs. 594 mm for
+C. minor), lowest precipitation of the coldest quarter (mean of 53 mm vs. 200 mm for C. minor) and higher
+isothermality. On the other hand, the known and potential distribution of C. arundinae encompasses those of C.
+minor and C. praetermissa over an elevation range of 4–1800 m. The mean temperature of the coldest quarter
+(15.1°C for the sampled locations vs. 16.7 °C for C. minor and 18.2 °C for C. praetermissa) and precipitation of
+warmest quarter were the bioclimatic variables that most contributed to the niche model of C. arundinae, but its
+wide distribution indicates that this species likewise has broader climatic tolerance. Overall, the mean values of the
+bioclimate variables were more similar for the sampled sites of C. arundinae and C. minor, and sites of C.
+praetermissa were different from that of those two.
+Our field observations also indicate differences in the specific habitat preferences of C. praetermissa and the
+other two species. All three species occur in hydromorphic, water-saturated soil, but C. praetermissa occurs in
+areas where the herb cover is thinner and less developed and the soil is stable. In contrast, C. arundinae and C.
+minor occur in areas with a taller herb cover, usually over soft, unstable soil, and such areas are generally referred
+to as “brejos.” Although the known (and predicted) distribution of C. arundinae encompasses the distribution of C.
+praetermissa, we are not aware of any place in which the two species co-occur. Conversely, C. arundinae and C.
+minor co-occur in some sites.
+Distribution models predicted larger areas of occurrence for the three species, particularly for C. arundinae.
+According to our results, this species should also be expected in Bolivia, the southeastern Brazilian states of Rio de
+Janeiro and Espirito Santo and several areas in northeastern Brazil, including the Borborema Plateaux and Chapada
+do Araripe in the states of Pernambuco and Ceará. The only known record of this species from northeastern Brazil
+so far is from the Chapada Diamantina in Bahia (Toscano de Brito et al. 2005).
+
+Taxonomy
+Two species of Cyanaeorchis are accepted, C. arundinae and C. minor (Hoehne 1942, Pabst & Dungs 1975, Barros
+et al. 2013, Govaerts et al. 2013). Differences between these two species are size of plants and flowers and colour
+of the labellum. Plants of C. arundinae are usually taller with larger flowers that are completely yellow, whereas C.
+minor has smaller plants and flowers with a whitish perianth and wine-coloured lateral lobes of the labellum.
+However, there are no unique characteristics for either of the species because these characteristics overlap (Table
+3), and the exact separation between them is not clear. Hoehne (1942) accepted the existence of two species but
+suggested that C. minor could correspond to stunted specimens of C. arundinae.
+In terms of distribution, C. arundinae is the most widespread species, occurring from the Espinhaço range in
+the state of Bahia in northeastern Brazil to central (Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul),
+southeastern (Minas Gerais, São Paulo), southern Brazil (Paraná, Santa Catarina, Rio Grande do Sul), Argentina
+(Chaco and Buenos Aires) and Paraguay (Amambay, Caaguazú, Canindeyú and Misiones). Cyanaeorchis minor is
+found in southern (Paraná and Rio Grande do Sul), southeastern (São Paulo) and central (Goiás) Brazil, and
+Paraguay (Caaguazú). Some authors have also recorded C. arundinae in the Amazon region and the state of Rio de
+Janeiro in southeastern Brazil (Hoehne 1942, Pabst & Dungs 1975, Barros et al. 2013), but there are no herbarium
+specimens known from these regions.
+Small plants of Cyanaeorchis from central Brazil were previously identified as C. minor by Pabst & Dungs
+(1975), Menezes (1992, 2004), Batista & Bianchetti (2003) and Batista et al. (2005) because of the small size of the
+plants and flowers. However, examination of images of syntypes of C. minor in the herbarium of the Swedish
+Museum of Natural History (S) and several specimens of C. minor from other herbaria (AMES, BHCB, G, HBG,
+M, NY, SP, SPF) has shown that plants from central Brazil are a new species distinct from C. minor, described here
+as C. praetermissa.
+
+264 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+TABLE 3. Diagnostic characteristics for Cyanaeorchis species.
+C. praetermissa
+
+C. minor
+
+C. arundinae
+
+14–41
+
+20–52
+
+31–123
+
+(2–)3–4(–5)
+
+3–4
+
+3–7
+
+3.5–10.0
+× 0.3–0.7
+
+13.0–24.0
+× 0.4–0.6
+
+5.0–25.0(–38.0)
+× 0.4–1.0
+
+(1–)2–3(–6)
+
+(1–)3–5(–6)
+
+(2–)3–7(–13)
+
+12–16
+× 3–5
+
+(9–)11–17(–23)
+× 3–6
+
+15–27
+× 5–9
+
+(9.0–)11.0(–12.0) ×
+3.0–4.0(–5.0)
+
+10.5–12.0(–16.0)
+× 3.5–5.0
+
+12.0–14.0(–20.0)
+× 5.0–7.0
+
+Sepals and petals
+colour
+
+yellowish
+
+whitish
+
+yellowish or whitish
+
+Labellum: length ×
+width (mm)
+
+6.0–8.0
+× 4.5–6.5
+
+8.0–12.0
+× 9.0
+
+9.0–15.0
+× 9.0–12.0
+
+Labellum lateral
+lobes: length ×
+width (mm)
+
+5.5–7.0
+× 1.5–2.5
+
+8.0–10.0
+× 3.0
+
+9.0–12.0
+× 3.0–6.0
+
+Labellum midlobe:
+length × width (mm)
+
+2.0–3.0
+× 2.0–2.5
+
+3.2–5.0
+× 3.0–4.0
+
+(3.0–)5.0–7.0
+× 3.0–5.0
+
+Papillae length
+
+minute
+
+conspicuous
+
+conspicuous
+
+Labellum colour
+
+yellow
+
+midlobe and callus yellow,
+lateral lobes wine-coloured
+
+usually completely yellow, lateral lobes
+occasionally whitish or wine-coloured
+
+Column length (mm)
+
+5.7–7.2
+
+about 9.0
+
+9.0–13.0
+
+Column colour
+
+yellow
+
+base dorsally white,
+ventrally yellow, middle and
+apex wine
+
+mostly white, apex slightly wine
+
+Anther
+
+yellow
+
+wine-coloured
+
+wine-coloured
+
+Biome
+
+Cerrado
+
+Atlantic Forest
+
+Atlantic Forest, Cerrado
+
+Brazil (DF, GO,
+MG)
+
+Brazil (GO, PR, RS, SP),
+Paraguay (Caaguazú)
+
+Brazil (BA, DF, GO, MG, MT, MS, PR, RS, SC,
+SP), Argentina (Chaco, Buenos Aires), Paraguay
+(Amambay, Caaguazú, Canindeyú, Misiones)
+
+Plant size, including
+inflorescence (cm)
+No leaves
+Leaves size: length ×
+width (cm)
+No flowers
+Dorsal sepal: length ×
+width (mm)
+Petals: length ×
+width (mm)
+
+Distribution
+
+Key to the species of Cyanaeorchis
+1.
+1.
+2.
+2.
+
+Petals slightly falcate; labellum 4.5–6.5 mm wide between the outer margins of side lobes; lateral lobes 5.5–7.0 mm long,
+1.5–2.5 mm wide; midlobe 2.0–3.0 mm long, 2.0–2.5 mm wide; column 5.7–7.2 mm ................................ C. praetermissa
+Petals straight; labellum 9–12 mm wide between the outer margins of side lobes; lateral lobes 8–12 mm long, 3–6 mm
+wide; midlobe 3–7 mm long, 3–5 mm wide; column 9–13 mm ........................................................................................... 2
+Plants 31–123 cm tall, including inflorescence; dorsal sepal 15–27 × 5–9 mm; petals 12–14(–20) × 5–7 mm; labellum 9–
+15 × 9–12 mm, usually completely yellow, lateral lobes occasionally whitish or wine-coloured ..................... C. arundinae
+Plants 20–52 cm tall, including inflorescence; dorsal sepal (9–)11–17(–23) × 3–6 mm; petals 10.5–12.0(–16.0) × 3.5–5.0
+mm; labellum 8–12× 9 mm, midlobe and callus yellow, lateral lobes conspicuously wine-coloured ...................... C. minor
+
+Cyanaeorchis praetermissa J.A.N.Bat. & Bianch., sp. nov. (Figs. 5B–D, 6H–M).
+Similar to C. minor in plant size, number and size of leaves and number of flowers but with distinct completely yellow flowers,
+a smaller labellum (6.0–8.0 × 4.5–6.5 mm) with a smaller midlobe (2.0–3.0 × 2.0–2.5 mm) and less developed papillae,
+and a distribution restricted to the cerrado biome in central and southeastern Brazil.
+Type:—BRAZIL. Minas Gerais: Presidente Kubitschek, BR-239 no sentido para Datas, cerca de 2.8 km após a entrada para
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 265
+
+Presidente Kubitschek, 18º34’24.8’’ S, 43º36’37.6’’ W, 1108 m, 8 December 2010 (fl), Batista, Fernandes, Ramalho &
+Vale 3041 (holotype BHCB!; isotype CEN!).
+
+FIGURE 5. Cyanaeorchis praetermissa. A. Habitat: permanently wet grassland (campo limpo úmido) at the margin of gallery forest
+in Presidente Kubitschek, Minas Gerais, at the beginning of the rainy season. B. Uprooted plant, showing roots and stem base;
+remnants of the withered stem from the previous growth season are indicated by an arrow (Batista & Bianchetti 3175, BHCB). C.
+Inflorescence (Batista et al. 3041, BHCB). D. Flower, partial lateral view (Batista et al. 2218, BHCB). Cyanaeorchis arundinae. E.
+Flower, partial lateral view (Batista 312, CEN). Cyanaeorchis minor. F. Flower, partial lateral view (Klein 124, BHCB). Scale bars = 5
+mm.
+
+Terrestrial, sympodial herbs with a few roots. Stem erect, unbranched, glabrous, cylindrical, not modified into
+pseudobulb, 14–41 cm high, including inflorescence, 0.6–1.8 mm wide, base with 1–2 sheaths. Leaves (2–)3–4(–
+5), grass-like, erect, rigid, linear to lanceolate, acuminate, mostly sheathing, 3.5–10.0 × 0.3–0.7 cm, largest at the
+center of stem, shorter to slightly longer than internodes, green. Inflorescence terminal, erect, racemose, few
+flowered, lax, 2.5–7.5 cm high; floral bracts persistent, erect, rigid, linear to lanceolate, acuminate, 7–39 × 2–5
+mm, longer, about the same size or shorter than the pedicel and ovary, green. Flowers (1–)2–3(–6), ascending,
+resupinate, mostly yellow, ovary and pedicel 15–30 mm, fusiform, green. Sepals spreading, free, external side
+greenish, internal side yellowish; dorsal sepal, 12–16 × 3–5 mm, lanceolate, reflexed, acute to slightly obtuse,
+mucronate; lateral sepals, (11–)12–15 × 4–6 mm, obliquely oblanceolate, slightly reflexed, apex acute to slightly
+obtuse. Petals (9–)11(–12) × 3–4(–5) mm, yellowish, base sessile to shortly unguiculate, 0.5–0.7 mm, obliquely
+oblong, slightly falcate, partially superimposed to one another, forming a hood over the column and labellum, apex
+obtuse to rounded, sometimes slightly apiculate. Labellum trilobed, conduplicate-concave, 6–8 mm long, when
+spread 4.5–6.5 mm wide between the outer margins of side lobes, yellow; base shortly unguiculate to almost
+sessile, 0.5–0.8 mm; lateral lobes curved forward, parallel, transversally elliptic, 5.5–7.0 × 1.5–2.5 mm, mostly
+glabrous, pubescent at base, apex obtuse; median part between lateral lobes with five prominent parallel veins that
+
+266 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+FIGURE 6. Cyanaeorchis arundinae. A–B. Habit. C–E. perianth. Cyanaeorchis minor. F. Habit. G. Perianth. Cyanaeorchis
+praetermissa. H–J. Habit. K–M. Perianth. A. Mota & Giacomin 2337 (BHCB). B–C. Batista et al. 2769 (BHCB). D. Batista s.n.
+(CEN). E. Klein 128 (BHCB). F–G. Klein 124 (BHCB). H. Batista et al. 2218 (BHCB). I. Salles & Bianchetti s.n. (CEN). J and M.
+Batista et al. 3041 (BHCB). K. Batista 130 (CEN). L. Batista & Carvalho 2342 (BHCB).
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 267
+
+extend onto the midlobe from the base to about the middle of the median part with numerous minute papillae,
+immediately before the midlobe with a flat, short, glabrous, longitudinally slightly grooved callus; midlobe 2.0–3.0
+× 2.0–2.5 mm, base attenuate, apex orbicular to suborbicular, rounded, curved downwards, verrucose, verrucae
+concentrated at base or middle of midlobe, margins crenulate. Gynostemium erect, half-terete, slightly arcuate,
+5.7–7.2 × 1.3–1.5 mm, foot absent, base reddish with small, rounded, lateral wings on each side, greenish or
+yellowish toward apex; anther terminal, incumbent, deciduous, membranous, ovate, transversally depressed, ca.
+1.3 × 1.5 mm, yellowish; pollinia four, waxy, yellow, in two pairs, each pair with one larger, ca. 0.85 × 0.70 mm,
+flat, roundish, concave, forming a groove that fits the smaller pollinia, the other smaller, 0.70 × 0.60 mm; viscidium
+not seen; stigma ventral, entire, oblong, yellowish, slightly convex. Fruit fusiform, at one month old 2.5 × 0.6 cm.
+Distribution and Conservation Status:—Restricted to the cerrado biome in central and southeastern Brazil in
+the states of Goiás and Minas Gerais and the Federal District (Fig. 4A). The species is known from 13 collections at
+seven localities. Most collections and some of the larger known populations of the species are from the Federal
+District, where the species seem to be most threatened. The population at Setor Mansões Park Way has been
+destroyed, whereas large populations at Santuário Ecologico do Riacho Fundo and Reserva Ecológica do Guará
+have been severely depleted in the last 20 years due to alterations in habitat quality. Based on the World
+Conservation Union Red List Categories and Criteria (IUCN 2001), C. praetermissa can be tentatively classified as
+Vulnerable (VU) (criteria A2ac; B2ab (ii, iii, iv); C2a(i)).
+Habitat and Ecology:—Cyanaeorchis praetermissa grows in permanently wet grassland, campo limpo
+úmido, according to the classification of Ribeiro & Walter (2008), over dark, water-saturated, hydromorphic soil,
+usually near the border of flooded gallery forests (Fig. 5A) or in veredas (grasslands with buriti palms), 1000–1400
+meters above sea level. Vegetative and reproductive growth are associated with rainfall, and blooming occurs at the
+beginning of the rainy season, from October to early December. Blooming appears to be strictly related to
+brushfires that occur during the dry season. All collections of the species made by the authors (12 of the 13 known
+collections) were made in recently burned areas. The species is sympatric with, and flowers at about the same time
+as, other orchid species, such as Veyretia simplex (Grisebach 1864: 641) Szlachetko (1995: 116), Habenaria
+edwallii Cogniaux (1906 publ. 1907: 275), H. balansae Cogniaux (1906 publ. 1907: 271), Gomesa hydrophila
+(Barbosa Rodrigues 1877: 92) Chase & Williams (2009: 397), G. barbaceniae (Lindley 1855: 32) Chase &
+Williams (2009: 395), Epidendrum dendrobioides Thunberg (1818: 17), Cleistes castaneoides Hoehne (1939: 42)
+and Cyrtopodium fowliei Menezes (1995: 17), all also typically found in habitats with water-saturated soil.
+Populations of Cyanaeorchis praetermissa usually form compact groups with large number of specimens, whereas
+C. arundinae and C. minor are usually found as scattered individuals or a few plants.
+Etymology:—From Latin, meaning overlooked or neglected, in reference to the new species having been
+overlooked by previous taxonomists.
+Illustrations:—Pabst & Dungs (1975, pg. 381, fig. 1645, based on Heringer 9202, HB), Menezes (1992,
+pg.18–19, colour photographs; 2004, pg. 120, colour photograph); all identified as C. minor.
+Additional specimens examined:—BRAZIL. Distrito Federal: Guará, Reserva Ecológica do Guará, campo
+úmido, 20 October 1990 (fl), Batista 130 (CEN!); Núcleo Bandeirante, Santuário Ecológico do Riacho Fundo,
+campo limpo permanentemente úmido, solo escuro, hidromórfico, 18 October 1996 (fl), Batista 630 (CEN!);
+Guará, Reserva Ecológica do Guará, campo limpo permanentemente úmido a borda de mata ciliar inundada, 29
+October 1997 (fl), Batista 745 (CEN!); Reserva Ecológica do Guará, 30 November 1997 (fr), Batista 755 (CEN!);
+Brasília, Setor Mansões Park Way, Campo as margens do Córrego do Cedro, na altura em que este é cortado pela
+pista, um pouco antes do conjunto 1 da Quadra 19, campo limpo inundado (permanentemente úmido), solo escuro,
+hidromórfico, com água sobre a superfície, 30 October 1999 (fl), Batista et al. 952 (CEN!); Guará, Reserva
+Ecológica do Guará, campo limpo permanentemente úmido na borda de mata ciliar inundada, 10 December 2002
+(fl), Batista et al. 1318 (CEN!); Núcleo Bandeirante, Santuário Ecológico do Riacho Fundo, em mancha de campo
+limpo inundável (permanentemente úmido), 12 November 2011 (fl), Batista & Bianchetti 3175 (BHCB!); Brasília,
+Parque Zoobotânico, brejo inundável, 30 October 1963 (fl), Heringer 9202 (HB!, K!, M!, NY!); Núcleo
+Bandeirante, Santuário Ecológico do Riacho Fundo, campo limpo úmido, 3 October 1990 (fl), Salles & Bianchetti
+s.n. (CEN 26597!). Goiás: Cavalcante, cerca de 64 km da cidade, na estrada de terra em direção a Minaçu,
+Cachoeiras do Rio Prata, campo limpo permanentemente úmido, solo escuro, hidromórfico, com água sobre a
+superfície, 27 November 2004 (fl), Batista et al. 1536 (BHCB!, CEN!). Minas Gerais: Gouveia, BR 259 cerca de 7
+km NE de Gouveia em direção a Diamantina, campo limpo estacionalmente úmido, na borda de mata de galeria,
+
+268 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+solo escuro, hidromórfico, 13 November 2007 (fl), Batista & Martins 2218 (BHCB!); São Roque de Minas, Parque
+Nacional da Serra da Canastra, 37 km a partir da portaria principal de São Roque de Minas, em direção a
+Sacramento, campo limpo úmido, 12 December 2007 (fl), Batista & Carvalho 2342 (BHCB!).
+Notes:—As far as we could determine, C. praetermissa was first collected by Heringer in Brasília in 1963.
+Material of this collection was examined by Pabst, who misidentified it as C. minor and published a sketch of a
+flower from this collection in his seminal work of Brazilian orchids, Orchidaceae Brasilienses (Pabst & Dungs
+1975). This mistake was followed by all subsequent authors who examined and identified material of the species
+(Menezes 1992, 2004, Batista & Bianchetti 2003, Batista et al. 2005) or compiled data on the distribution of the
+genus (Barros et al. 2013, Govaerts et al. 2013).
+Cyanaeorchis praetermissa is the smallest of the three species in the genus (Fig. 6). In terms of size, number
+and size of leaves and number of flowers, C. praetermissa overlaps C. minor and small individuals of C.
+arundinae. In size of sepals and petals, C. praetermissa overlaps C. minor. The main distinctive characteristics are
+size of the labellum and papillae. In C. praetermissa, the labellum is shorter and straighter (6.0–8.0 × 4.5–6.5 mm,
+versus 8.0–12.0× 9.0 mm in C. minor and 9.0–15.0 × 9.0–12.0 mm in C. arundinae), and papillae are shorter.
+Another difference in C. minor is floral colour. Cyanaeorchis praetermissa has completely yellow flowers, whereas
+C. minor has whitish sepals and petals and wine-coloured lateral lobes of the labellum. Other differences between
+the three species are outlined in Table 3.
+
+Acknowledgments
+The authors thank the curators and staff of the following herbaria for loans, images or providing access to their
+collections, AMES, BHCB, CEN, F, G, HB, HBG, HUEFS, HUFU, ICN, IPA, K, M, MBM, NY, P, R, RB, S, SI,
+SP, SPF, UB, US and W; Maria Rosa V. Zanatta, Nara F. O. Mota, Cristiano R. Buzatto, Leonardo R.S. Guimarães
+for providing images of herbarium material; Jacques Klein for providing samples and images of C. minor; IBAMA
+(Sisbio–ICM Bio) for permits for the scientific collections; Mark Whitten and Mark Chase for corrections and
+suggestions that improved the manuscript. JANB acknowledges a scholarship (Pq-2) from Conselho Nacional de
+Desenvolvimento Científico e Tecnológico – CNPq and financial support from Pró-Reitoria de Pesquisa da
+Universidade Federal de Minas Gerais – UFMG.
+
+References
+Barbosa Rodrigues, J. (1877) Genera et species orchidearum novarum I. Fleiuss, Rio de Janeiro, 230 pp.
+http://dx.doi.org/10.5962/bhl.title.585
+Barros, F., Vinhos, F., Rodrigues, V.T., Barberena, F.F.V.A., Fraga, C.N., Pessoa, E.M. & Foster, W. (2013) Lista de espécies da flora
+do Brasil. Cyanaeorchis. Jardim Botânico do Rio de Janeiro. Available from: http://floradobrasil.jbrj.gov.br/2012/FB011412/
+(accessed: 12 April 2013).
+Batista, J.A.N. & Bianchetti, L.B. (2003) Lista atualizada das Orchidaceae do Distrito Federal. Acta Botanica Brasilica 17: 183–201.
+http://dx.doi.org/10.1590/s0102-33062003000200003
+Batista, J.A.N., Bianchetti, L.B. & Pellizzaro, K.F. (2005) Orchidaceae da reserva ecológica do Guará, Distrito Federal, Brasil. Acta
+Botanica Brasilica 19: 221–232.
+http://dx.doi.org/10.1590/s0102-33062005000200004
+Bentham, G. (1881) Notes on Orchideae. Journal of the Linnean Society, Botany 18: 281–360.
+http://dx.doi.org/10.1111/j.1095-8339.1881.tb01258.x
+Blume, C.L. (1825) Bijdragen tot de flora van Nederlandsch Indië 7. Lands Drukkerij, Batavia, pp. 284–636.
+http://dx.doi.org/10.5962/bhl.title.395
+Bonfield, J.K., Smith, K.F. & Staden, R. (1995) A new DNA sequence assembly program. Nucleic Acids Research 24: 4992–4999.
+http://dx.doi.org/10.1093/nar/23.24.4992
+Brown, R. (1810) Prodromus Florae Novae Hollandiae. Taylor, London, 592 pp.
+http://dx.doi.org/10.5962/bhl.title.3633
+Brown, R. (1813) Cyrtopodium. Hortus Kewensis second edition 5: 216.
+Cameron, K.M., Chase, M.W., Whitten, W.M., Kores, P.J., Jarrell, D.C., Albert, V.A., Yukawa, T., Hills, H.G. & Goldman, D.H. (1999)
+A phylogenetic analysis of the Orchidaceae: evidence from rbcL nucleotide sequences. American Journal of Botany 86: 208–224.
+http://dx.doi.org/10.2307/2656938
+Chase, M.W., Freudenstein, J.V., Cameron, K.M. & Barrett, R.L. (2003) DNA data and Orchidaceae systematics: a new phylogenetic
+classification. In: Dixon, K.W., Kell, S.P., Barrett, R.L. & Cribb, P.J. (eds.) Orchid conservation. Natural History Publications,
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 269
+
+Kota Kinabalu, pp. 69–89.
+Chase, M.W., Williams, N.H., Faria, A.D., Neubig, K.M., Amaral, M.C.E. & Whitten, W.M. (2009) Floral convergence in Oncidiinae
+(Cymbidieae; Orchidaceae): an expanded concept of Gomesa and a new genus Nohawilliamsia. Annals of Botany 104: 387–402.
+Cogniaux, A. (1898–1902) Orchidaceae II. Cyanaeorchis. In: Martius, C.F.P., Eichler, A.G. & Urban, I. (eds.) Flora Brasiliensis, vol.
+3, Part 5. R. Oldenbourg, Munich, pp. 381–382.
+Cogniaux, A. (1906 publ. 1907) Notes sur les orchidées du Brésil et des régions voisines. Bulletin de la Société Royale de Botanique
+de Belgique 43: 265–350.
+de la Cruz, M., Ramirez, F. & Hernandez, H. (1997) DNA Isolation and amplification from cacti. Plant Molecular Biology Reporter
+15: 319–325.
+http://dx.doi.org/10.1023/a:1007428818078
+Doyle, J.J. & Doyle, J.S. (1987) A rapid DNA isolation procedure for small quantities of fresh leaf tissue. Phytochemical Bulletin 19:
+11–15.
+Dressler, R.L. (1981) The orchids: natural history and classification. Harvard University Press, Cambridge, 332 pp.
+Dressler, R.L. (1993) Phylogeny and classification of the orchid family. Dioscorides Press, Portland, 314 pp.
+Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Research 32:
+1792–1797.
+http://dx.doi.org/10.1093/nar/gkh340
+Elith, J., Graham, C.H., Anderson, R. P., Dudík, M., Ferrier, S., Guisan, A., Hijmans, R.J., Huettmann, F., Leathwick, J. R., Lehmann,
+A., Li, J., Lohmann, L.G., Loiselle, B.A., Manion, G., Moritz, C., Nakamura, M., Nakazawa, Y., Overton, J.McC., Peterson, A.T.,
+Phillips, S.J., Richardson, K.S., Scachetti-Pereira, R., Schapire, R.E., Soberón, J., Williams, S., Wisz, M.S. & Zimmermann, N.E.
+(2006) Novel methods improve prediction of species' distributions from occurrence data. Ecography 29: 129–151.
+http://dx.doi.org/10.1111/j.2006.0906-7590.04596.x
+Erixon, P., Svennblad, B., Britton, T. & Oxelman, B. (2003) Reliability of Bayesian posterior probabilities and bootstrap frequencies in
+phylogenetics. Systematic Biology 52: 665–673.
+Fawcett, W. & Rendle, A.B. (1910) Flora of Jamaica, containing descriptions of the flowering plants known from the island 1.
+Orchidaceae. Clowes, London, 121 pp.
+http://dx.doi.org/10.5962/bhl.title.2760
+Felsenstein, J. (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39: 783–791.
+http://dx.doi.org/10.2307/2408678
+Fitch, W.M. (1971) Toward defining the course of evolution: minimum change for a specific tree topology. Systematic Zoology 20:
+406–416.
+http://dx.doi.org/10.2307/2412116
+Freudenstein, J.V., van den Berg, C., Goldman, D.H., Kores, P.J., Molvray, M. & Chase, M.W. (2004) An expanded plastid DNA
+phylogenetic analysis of Orchidaceae and analysis of jackknife clade support strategy. American Journal of Botany 91: 149–157.
+http://dx.doi.org/10.3732/ajb.91.1.149
+Górniak, M., Paun, O. & Chase, M.W. (2010) Phylogenetic relationships within Orchidaceae based on a low-copy nuclear coding
+gene, Xdh: Congruence with organellar and nuclear ribosomal DNA results. Molecular Phylogenetics and Evolution 56: 784–
+795.
+Govaerts, R., Bernet, P., Kratochvil, K., Gerlach, G., Carr, G., Alrich, P., Pridgeon, A.M., Pfahl, J., Campacci, M.A., Holland Baptista,
+D., Tigges, H., Shaw, J., Cribb, P., George, A., Kreuz, K. & Wood, J. (2013) World checklist of Orchidaceae. Royal Botanic
+Gardens, Kew. Available from: http://apps.kew.org/wcsp/ (accessed: 12 April 2013).
+Grisebach, A.H.R. (1864) Flora of the British West Indian Islands. Reeve, London, 789 pp.
+http://dx.doi.org/10.5962/bhl.title.56664
+Hijmans, R.J., Cameron, S.E., Parra, J.L., Jones, P.G. & Jarvis, A. (2005) Very high resolution interpolated climate surfaces for global
+land areas. International Journal of Climatology 25: 1965–1978.
+http://dx.doi.org/10.1002/joc.1276
+Hoehne, F.C. (1939) Dezoito novas espécies para a flora do Brasil e outras regiões da América Meridional e Central. Orchidaceae.
+Arquivos de Botânica do Estado de São Paulo, nova série 1: 41–49.
+Hoehne, F.C. (1942) Orchidaceas. Cyanaeorchis. In: Hoehne, F.C. (ed.) Flora Brasilica vol. 12, 6. Secretaria da Agricultura, Indústria
+e Comércio de São Paulo, São Paulo, pp. 43−45, t. 26.
+Hooker, W.J. (1824) Polystachya luteola. Exotic Flora 2: 103.
+IUCN. (2001) IUCN Red List categories and criteria, Version 3.1. IUCN Species Survival Commission, Gland, 30 pp.
+Jackson, G. (1811) Botanist's repository 10: 626.
+Kress, W.J., Prince, L.M. & Williams, K.J. (2002) The phylogeny and a new classification of the gingers (Zingiberaceae): evidence
+from molecular data. American Journal of Botany 89: 1682–1696.
+http://dx.doi.org/10.3732/ajb.89.10.1682
+Kunth, K.S. (1822) Synopsis plantarum 1. Levrault, Paris, 491 pp.
+Linden, L. & Rolfe, R.A. (1892) Eulophiella elisabethae. Lindenia 3: 29.
+Lindley, J. (1821a) Eulophia. Botanical Register 7: 573.
+Lindley, J. (1821b) Oeceoclades maculata. Collectanea Botanica 3: 15.
+Lindley, J. (1826) Vandeae. Orchidearum Sceletos 7: 14.
+Lindley, J. (1830–1840) The genera and species of orchidaceous plants. Ridgways, London, 553 pp.
+http://dx.doi.org/10.5962/bhl.title.499
+Lindley, J. (1835) Grobya amherstiae. Edwards's Botanical Register 20: 1740.
+
+270 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+Lindley, J. (1843a) Warrea. Edwards's Botanical Register, miscellaneous matter 29: 14.
+Lindley, J. (1843b) Cycnoches pentadactylon. Edwards's Botanical Register 29: 22.
+Lindley, J. (1844) Ansellia. Edwards's Botanical Register 30: 12.
+Lindley, J. (1847) Eriopsis biloba. Edwards's Botanical Register 33: 9.
+Lindley, J. (1855) Oncidium. Folia Orchidacea 6: 1–61.
+http://dx.doi.org/10.5962/bhl.title.51709
+Lindley, J. & Bauer, F.A. (1830–1838) Illustrations of orchidaceous plants. Ridgways, London, 75 pp.
+http://dx.doi.org/10.5962/bhl.title.499
+Linnaeus, C. (1767) Systema naturae, ed. 12, vol. 2. Stockholm, 735 pp.
+Menezes, L.C. (1992) Cyanaeorchis Barb.Rodr. Boletim CAOB 16: 16–19.
+Menezes, L.C. (1995) In memory of Dr. J. A. Fowlie: Cyrtopodium fowliei. Orchid Digest 59: 17–18.
+Menezes, L.C. (2004) Orquídeas do Planalto Central Brasileiro (Orchids Brazilian Central Plateau). IBAMA, Brasília, 304 pp.
+Monteiro, S.H.N., Selbach-Schnadelbach, A., Oliveira, R.P. & van den Berg, C. (2010) Molecular phylogenetics of Galeandra
+(Orchidaceae: Catasetinae) based on plastid and nuclear DNA sequences. Systematic Botany 35: 476–486.
+http://dx.doi.org/10.1600/036364410792495944
+Murphy, H. & Lovett, J. (2007) Accounting for regional niche variation in habitat suitability models. Oikos 116: 99–110.
+http://dx.doi.org/10.1111/j.2006.0030-1299.15050.x
+Nylander, J.A.A. (2004) MrModeltest v2. Program distributed by the author. Evolutionary Biology Centre, Uppsala University.
+Pabst ,G.F.J. & Dungs, F. (1975) Orchidaceae Brasilienses, Vol. 1. Schmersow, Hildesheim, 408 pp.
+Papes, M. & Gaubert, P. (2007) Modeling ecological niches from low numbers of occurrences: Assessment of the conservation status
+of poorly known viverrids (Mammalia, Carnivora) across two continents. Diversity and Distributions 13: 890–902.
+http://dx.doi.org/10.1111/j.1472-4642.2007.00392.x
+Pfitzer, E.H.H. (1887) Entwurf einer natürlichen Anordnung der Orchideen. Winter's Universitätsbuchhandlung, Heidelberg, 108 pp.
+Phillips, S.J., Dudik, M. & Schapire, R.E. (2004) A maximum entropy approach to species distribution modelling. In: Proceedings of
+the 21st international conference on machine learning. ACM, New York, pp. 655–662.
+Pridgeon, A.M., Cribb, P.J., Chase, M.W. & Rasmussen, F.N. (2009) Genera orchidacearum. Vol.5. Epidendroideae (part 2). Oxford
+University Press Inc., Oxford, 585 pp.
+Reichenbach f., H.G. (1850) Beiträge zu einer Aequinoctialflor Amerika's. Die Orchideen. Linnaea 22: 809–867.
+Rendle, A.B. (1895) Mr. Scott Elliot’s tropical African orchids. Journal of Botany 33: 165–173.
+Ribeiro, J.F. & Walter, B.M.T. (2008) As principais fitofisionomias do bioma Cerrado. In: Sano, S.M., Almeida, S.P. & Ribeiro, J.F.
+(eds.) Cerrado: ecologia e flora. Embrapa Informação Tecnológica, Brasília-DF, pp. 151–212.
+Romero, G.A. & Carnevali, G. (1993) Reappraisal of subtribe Vargasiellinae (Maxillarieae, Orchidaceae). Novon 3: 79–80.
+http://dx.doi.org/10.2307/3391429
+Ronquist, F., Huelsenbeck, J.P. & van der Mark, P. (2005) MrBayes: Bayesian inference of Phylogeny. Program distributed by the
+authors. Available from: http://mrbayes.sourceforge.net/index.php.
+Salazar, G.A., Chase, M.W., Soto, M.A. & Ingrouille, M. (2003) Phylogenetics of Cranichideae with emphasis on Spiranthinae
+(Orchidaceae, Orchidoideae): evidence from plastid and nuclear DNA sequences. American Journal of Botany 90: 777–795.
+http://dx.doi.org/10.3732/ajb.90.5.777
+Sánchez-Hernández, C. & Gaytán-Oyarzún, J.C. (2006) Two mini-preparation protocols to DNA extraction from plants with high
+polysaccharide and secondary metabolites. African Journal of Biotechnology 5: 1864–1867.
+Schlechter, F.R.R. (1915) Die Orchideen. Parey, Berlin, 835 pp.
+Schlechter, F.R.R. (1920) Beiträge zur Kenntnis der Orchidaceenflora von Parana. Repertorium Specierum Novarum Regni Vegetabilis
+16: 316–334.
+Schlechter, F.R.R. (1925) Imerinaea. Repertorium Specierum Novarum Regni Vegetabilis Beihefte 33: 152.
+Seidenfaden, G. (1983) Orchid genera in Thailand. XI. Cymbidieae Pfitz. Opera Botanica 72: 1–124.
+Simmons, M.P. (2004) Independence of alignment and tree search. Molecular Phylogenetics and Evolution 31: 874–879.
+http://dx.doi.org/10.1016/j.ympev.2003.10.008
+Simpson, M.G. (2006) Plant systematics. Elsevier, Burlington, 590 pp.
+Stearn, W.T. (1992) Botanical Latin. 4o ed. Timber Press, Portland, 546 pp.
+Stockwell, D.R. & Noble, I.R. (1992) Induction of sets of rules from animal distribution data: a robust and informative method of data
+analysis. Mathematics and Computers in Simulation 32: 249–254.
+http://dx.doi.org/10.1016/0378-4754(92)90126-2
+Sun, Y., Skinner, D.Z., Liang, G.H. & Hulbert, S.H. (1994) Phylogenetic analysis of Sorghum and related taxa using internal
+transcribed spacers of nuclear ribosomal DNA. Theoretical and Applied Genetics 89: 26–32.
+http://dx.doi.org/10.1007/bf00226978
+Swartz, O.P. (1799) Cymbidium. Nova Acta Regiae Societatis Scientiarum Upsaliensis 6: 70.
+Swofford, D.L. (2002) PAUP*. Phylogenetic analysis using parsimony (*and other methods). Version 4. Sinauer, Sunderland.
+Szlachetko, D.L. (1995) Systema orchidalium. Fragmenta Floristica et Geobotanica, Supplement 3: 1–152.
+Szlachetko, D.L. (2003) Gynostemia orchidalium III. Acta Botanica Fennica 176: 1–311.
+Tamura, K., Dudley, J., Nei, M. & Kumar, S. (2007) MEGA4: Molecular evolutionary genetics analysis (MEGA) software version 4.0.
+Molecular Biology and Evolution 24: 1596–1599.
+http://dx.doi.org/10.1093/molbev/msm092
+Thouars, L.A.P. (1809) Extrait de trois mémoires lus à la première classe de l'institut, sur l'histoire des plantes orchidées des îles
+australes d'Afrique. Nouveau bulletin des sciences / par la Société philomathique de Paris 1: 314–319.
+
+MOLECULAR PHYLOGENETICS OF NEOTROPICAL CYANAEORCHIS
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 271
+
+Thuiller, W.L., Brotons, M., Araújo, B. & Lavorel, S. (2004) Effects of restricting environmental range of data to project current and
+future species distributions. Ecography 27: 165–172.
+http://dx.doi.org/10.1111/j.0906-7590.2004.03673.x
+Thunberg, C.P. (1818) Epidendrum dendrobioides. Plantarum Brasiliensium 2: 17.
+Toscano de Brito, A.L.V., Cribb, P.J. & Smidt, E.C. (2005) Checklist das orquídeas da Chapada Diamantina. In: Toscano de Brito,
+A.L.V. & Cribb, P.J. (eds.) Orquídeas da Chapada Diamantina. Nova Fronteira, Rio de Janeiro, pp. 278–285.
+van den Berg, C., Goldman, D.H., Freudenstein, J.V., Pridgeon, A.M., Cameron, K.M. & Chase, M.W. (2005) An overview of the
+phylogenetic relationships within Epidendroideae inferred from multiple DNA regions and recircumscription of Epidendreae and
+Arethuseae (Orchidaceae). American Journal of Botany 92: 613–624.
+http://dx.doi.org/10.3732/ajb.92.4.613
+Whitten, W.M., Williams, N.H. & Chase, M.W. (2000) Subtribal and generic relationship of Maxillarieae (Orchidaceae) with emphasis
+on Stanhopeinae: combined molecular evidence. American Journal of Botany 87: 1842–1856.
+http://dx.doi.org/10.2307/2656837
+
+Additional specimens examined:—Cyanaeorchis arundinae: Amaral s.n. (HUFU 18370); Amaral 1224 (SP);
+Barroso et al. 509-68 (IPA, UB); Batista s.n. (BHCB), 312 (CEN), Batista et al. 2769 (BHCB); Boechat s.n. (ICN
+44273); Brade 6855A (RB), 7575 (HB); Carvalho et al. 40 (RB); Duarte 2291 (RB), 4303 (HB, RB), 13911 (HB,
+HBG, M, NY); Dusen 7500 (HBG, K); Dutra 1015 (ICN), 1098 (ICN); Gaudichaud 175a (P), 176 (P); Glaziou s.n.
+(P 436668); Harley et al. 24924 (K, SPF); Hassler 5323 (G), 9677 (G, NY, W), 11406 (G); Hatschbach 22888 (F,
+K), 23285 (NY), 25107 (NY), 35541 (M), 43437 (NY, UB); Irwin et al. 8597 (HB, NY), 9007 (HB, NY, UB);
+Kirsten s.n. (CEN 46501, SP 28749); J. Klein 126 (BHCB); R.M. Klein 3344 (HB), 3505 (HB), 3562 (HB); Leinig
+s.n. (HB 41038); Leitão et al. 1350 (UEC); Lutz s.n. (HB 10733); Markgraf & Borges 10337 (HB); Mota &
+Giacomin 2337 (BHCB); Oliveira 435 (HUFU); Pedersen 5230 (K); Regnell ser. II 264 (S); Reitz & Klein 14195
+(HB, RB); Ribas et al. 5769 (RB); Roth s.n. (ICN 68316); Sello 462-1341 (K); Smith & Klein 13627 (HB), 13669
+(HB), 13971 (HB, NY, P); Sobral 9460 (RB); Stutzel s.n. (ICN 51518); Ule 7029 (HBG); Waechter 2000 (ICN);
+Weddell s.n. (P 436670). Cyanaeorchis minor: Dusen 15681 (S), 15708 (S), 15840 (AMES, NY); Hassler 9677a
+(G); Hatschbach 32806 (HBG, M); Hoehne 661 (M, NY); Jonsson 1307a (AMES, F); Klein 124 (BHCB); PaulaSouza et al. 8301 (SPF); Souza et al. 7230 (ESA, SP).
+
+272 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+BATISTA ET AL.
+
+

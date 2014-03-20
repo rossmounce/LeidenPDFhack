@@ -1,0 +1,599 @@
+Phytotaxa 158 (3): 245–254
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.158.3.4
+
+Morphometric characterization of Eryngium viviparum (Umbelliferae):
+description of a new subspecies from the Iberian Peninsula
+MARÍA INMACULADA ROMERO BUJÁN1 & CARLOS REAL2
+1
+
+Department of Botany, Politechnic School, University of Santiago de Compostela, R/ Benigno Ledo, Campus Universitario 27002
+Lugo, Spain; email: mi.romero@usc.es
+2
+Department of Celular Biology and Ecology, Politechnic School, University of Santiago de Compostela, R/ Benigno Ledo, Campus
+Universitario 27002 Lugo, Spain
+
+Abstract
+Eryngium viviparum is an endemic plant of the Atlantic regions of Europe. Surveys carried out in recent years in the
+wetlands of northwest Spain have led to the identification of several previously undetected subpopulations of this species
+in inland areas with markedly Mediterranean bioclimatic characteristics that constitute the southern limit of this species.
+However, these populations overlap with the distribution of the Iberian endemic E. galioides, similar in size and
+morphology. We developed a biometric study on herbarium vouchers that has enabled us to identify a new subspecies,
+subspecies bariegoi, distributed in a limited geographical zone in Mediterranean areas of the northwest Iberian
+Peninsula.
+Key words: taxonomy, aquatic plant, endemic plant, threatened plant, conservation, Spain
+
+Introduction
+Eryngium viviparum J.Gay (1848: 171) is a small plant growing in seasonally flooded sites (Cook 1983, 1990; Arts
+& Den Hartog 1990; Rodríguez-Oubiña et al. 1997). Since 1979 this species has been included in Annex I (strictly
+protected plant species) of the Berne Convention (1979), and is also listed as a priority species in Annex II of The
+Habitats Directive (1992). Today there is a single known subpopulation in France (in Morbihan, Brittany) (Annezo
+et al. 1995; Buord et al. 1999). The remaining subpopulations are all in northwest Spain, in the Region of Galicia,
+where it is considered threatened and has recently been rated as “Endangered” (Romero & Rubinos 2003; Romero
+et al. 2004).
+Surveys carried out in recent years in the wetlands in the northwest Iberian Peninsula have led to the detection
+of several previously undetected subpopulations of this species in inland areas with markedly Mediterranean
+bioclimatic characteristics. These subpopulations, located in the Region of Castile-León, constitute the southern
+limit of this species’ known range (see Fig. 1). Nevertheless, recent molecular data on this population has shown
+that the genetic distance between the Atlantic subpopulations (Galicia and Brittany) is lower than the distance
+between the Spanish subpopulations (Galicia and Castile-León) (Rodríguez-Gacio et al. 2009). Moreover, the
+monitoring of the northwest Iberian subpopulations has revealed morphological differences between them. In this
+paper we show that these differences are measurable. This information will be important for the preservation of the
+genetic and morphological variability of this rare species, which is associated to a very selective habitat (Menges
+1986; Soltis & Gitzendanner 1998).
+
+Material & methods
+Morphometric data
+This study was based on specimens from all three subpopulations deposited in the following herbaria: the Paris
+Herbarium (Herbier National de Paris-Muséum National d'Histoire Naturelle), the location of the original type
+Accepted by Tim Utteridge: 15 Jan. 2014; published: 4 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+245
+
+material, where we revised 16 vouchers with an average of 18 specimens per voucher; and the SANT Herbarium
+(University of Santiago de Compostela), where the Spanish subpopulation is very well represented, with 32
+vouchers each with an average of six specimens.
+Eryngium viviparum is a biennial plant that in its first year produces only a basal leaf rosette. In the second
+year, when the water disappears in early summer, the plant develops inflorescences with some basal leaves rosettes
+at the end of stoloniferous branches. Each individual can produce several inflorescences throughout its life and they
+form a series that can be followed from the initial inflorescence, identified here as R0, to the last inflorescence
+produced. The highest inflorescence order identified was R7.
+From an initial inspection of the vouchers and our field experience, we determined the shapes of the leaves and
+bracteoles to be the morphological characters that showed the greatest differences between subpopulations. To
+quantify these differences, more than two thousand photographs of the specimens in the herbaria vouchers were
+taken with the aid of a digital camera connected to a stereomicroscope. Then, we measured the length and width of
+the leaves and the bracteoles with a specific software developed by one of the authors. The width measurements
+were taken at the widest part of the leaf or bracteole. With these data we also calculated length/width ratios for
+bracteoles and leaves.
+
+FIGURE 1. Distribution of the population of Eryngium viviparum. Atlantic subpopulations: French (
+subpopulations. Mediterranean subpopulation in the Region of Castile-León ( ).
+
+), and Galician (
+
+)
+
+Statistical analysis
+The data were analysed as an ANOVA with two crossed factors: subpopulations (three levels: 1) France, 2) Galicia,
+and 3) Castile-León); and inflorescence order (eight levels from R0 to R7, although not all were included in the
+analysis; see below).
+
+246 •
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+ROMERO BUJÁN & REAL
+
+The design, however, was not balanced since low-order inflorescences were less abundant due to the
+desiccation and death of the oldest parts of the plant, and because many plants did not produce inflorescences of a
+very high order. Table 1 shows the number of samples (n) in each group. Owing to the considerable differences in
+the quantity of samples among the groups, we did not include groups with a small number of samples in the
+statistical analysis, i. e. R6 and R7 (bracteoles) and R0, R6 and R7 (leaf). However, Fig. 2 includes all the data.
+
+FIGURE 2. Means and distributions of the bracteole length data. The box-plots summarize the distribution of the data grouped by
+subpopulation and rosette order. The overlayed symbols represent the means for those groups (France: solid line and dots, Galicia:
+dashed line and squares, Castile-León: dash-dot line and triangles). The upper graph shows the original data and the lower graph the
+data after logarithmic transformation. The distributions of the transformed data showed improvements in symmetry and
+homoscedasticity. The parallel, descendent, non-overlapping mean lines for the three populations indicate the existence of significant
+effects due to both factors (subpopulation and rosette order) and the lack of significant interaction between them.
+
+As a first step in the analysis, we carried out normality and homoscedasticity tests in order to determine
+whether the data met the conditions needed for a formal ANOVA test. To do this we applied the Shapiro Wilks test
+of normality and the Fligner-Killeen test of homoscedasticity to the groups with sufficient data. This is one of the
+most efficient tests in the presence of non-normal data distributions (Conover et al. 1981). As will be explained in
+the results section, we applied a logarithmic transformation to improve both the normality and homoscedasticity of
+the data.
+To show the differences among subpopulations in the variables analysed we employed the means of ten
+individuals instead of the original data themselves, thereby reducing the variability of the data and making the
+differences between the subpopulations clearer. To do this we resampled the data with replacement to form groups
+of ten randomly selected individuals, and calculated their means. We repeated this procedure 10,000 times (Jackson
+and Somers 1989). The resampling was done within each subpopulation independently (i.e. 30,000 means were
+calculated). Finally, we applied kernel smoothing in its uni- and bivariate variants to estimate the density
+distribution functions of the means (Wand and Jones 1995).
+All the calculations and graphs were done with the R language (R Development Core Team 2011), and
+Package KernSmooth (Wand 2011) used for kernel smoothing procedures.
+
+ERYNGIUM VIVIPARUM BARIEGOI ROMERO SUBSP. NOV.
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+• 247
+
+Results
+We found that a logarithmic transformation of the data greatly improved their homoscedasticity. This can be seen in
+Fig. 2, which shows the original and transformed data for bracteole length. It also produced a general improvement
+in the normality of the data. However, a small number of groups with normal distributions prior to the
+transformation become not normally distributed afterwards. It should be noted, however, that we set a probability
+limit of p<0.05, which made our tests conservative. A lower limit –say 0.01– would have identified fewer groups as
+non-normal. Despite this, we decided to apply the transformation to all the data, since the sensitivity of the
+ANOVA to heteroscedasticity is greater than its sensitivity to departures from normality. Fig. 2 shows the original
+data for bracteole length and the same data after transformation and clearly demonstrates the advantages of the
+transformation, particularly with regard to the stabilisation of the variances. The Mediterranean samples had
+greater variances than the Atlantic samples prior to the transformation.
+The results of the ANOVAs are presented in Appendix I. Most of them detected significant effects (p<0.001)
+for both factors but none detected interaction effects. The cases for which a factor effect was found less significant
+(0.050 > p >0.001) were the subpopulation factor for leaf width and the rosette factor for leaf length/leaf width.
+Although the results of the ANOVA showed differences between subpopulations, the dispersion of the
+individual measurements was large, thus producing a substantial overlap among the data distributions. This makes
+it quite difficult to assign an individual to any of the three subpopulations based on a single measurement.
+Fortunately, this problem can be solved by using the mean of several measurements as the basis for comparison.
+We used the resampling procedure described in the methods section to construct the distribution of the means of
+groups of ten measurements. We also tested this method using the means of smaller groups, but we found that the
+resolution power was not sufficient to achieve a clear separation between subpopulations.
+We found that the most resolutive variables were those related to bracteole shape. Fig. 3 shows a contour graph
+representing the bivariate density function estimated with kernel smoothing for the variables bracteole length and
+bracteole width (means of ten measurements). It shows that the Mediterranean subpopulation can be clearly
+differentiated from the two Atlantic subpopulations, although these two subpopulations – while different – show a
+large degree of overlap which makes them more difficult to differentiate.
+
+FIGURE 3. Bivariate probability density plot for the variables bracteole length and bracteole width. The isolines are 0.2 probability
+units apart, and those with a thicker line are the 1.0 and 2.0 levels. Note that although the three modes are clearly distinguishable, there
+is a large overlap between the Galician and French subpopulations.
+
+The graph also suggests that a more synthetic method of differentiating the individuals belonging to the
+Mediterranean subpopulation would be the ratio between bracteole length/bracteole width (Bl/Bw). We calculated
+this quotient for the resampled data (means of ten measurements as before), and Fig. 4 shows the density function
+for these data. The value Bl /B w = 7 can be considered the limit between the values obtained for the Atlantic
+subpopulations (which are lower than this value) and the Mediterranean subpopulation. It should be noted that all
+
+248 •
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+ROMERO BUJÁN & REAL
+
+these calculations were done with untransformed data. An important point to note is that the resampling procedure
+did not distinguish between rosette orders. As a consequence, any group of ten measurements could serve to
+identify the subpopulation of origin without any need to take into account the order of the rosettes from which the
+data were collected.
+
+FIGURE 4. Probability density functions of the means (n = 10) of the ratio between bracteole length and width for the three
+subpopulations. Solid line: Brittany, dashed line: Galicia, dash-dot line: Castile-León. Each distribution was estimated by resampling
+the data for the corresponding subpopulation.
+
+Discussion
+The results showed that there were significant differences between subpopulations and between inflorescence
+orders, and also that there were no significant interactions between factors. The interpretation of these results can
+clearly be observed in Fig. 2. The mean bracteole length values in the Mediterranean subpopulation were
+consistently higher than those in the other two subpopulations for all rosette orders. Likewise, a reduction in the
+mean size was observed with the inflorescence order, and this occurred simultaneously and in parallel in the three
+subpopulations, which justifies the lack of interaction between the two factors. The patterns shown in Fig. 2 are
+shared by the other variables, and we thus omitted these graphs. Although all the ANOVAs showed that there were
+significant differences between subpopulations, these were harder to appreciate in the case of the leaf variables, due
+to their greater variability. This fact justified the use of bracteole characteristics to differentiate the subpopulations.
+Moreover, leaves tend to disappear throughout the growing season, whereas the bracteoles persist.
+The significance of the inflorescence order factor for all the variables is the result of a decrease in both the
+width and length of the leaves and bracteoles as the inflorescence order increases. The length/width ratio also
+diminishes with order. These relationships are consistently higher for the Mediterranean subpopulation, which have
+narrower leaves and bracteoles compared to the other two subpopulations. In addition to these features, the
+appearance of the Mediterranean plants was spiny and coriaceous, similar to a small thistle, while the plants from
+the Atlantic subpopulations had a soft and fleshy appearance.
+This species is morphologically very similar to E. galioides Lam. (1798:757), an aquatic plant endemic to the
+western Iberian Peninsula and with which it has been confused (Nieto Feliner 2003). Both species seem to be close
+relatives (Chater 1968; Nieto Feliner op cit.), but unfortunately, there are not data to support a discussion of their
+taxonomic relationship. We have included E. galiodes in the key at the end of the paper in order to facilitate its
+differentiation from the subspecies of E. viviparum.
+The morphological data presented here, in conjunction with the aforementioned genetic data (Rodríguez-Gacio
+et al. 2009), lead us to conclude that the Mediterranean subpopulation can be considered as a distinct subspecies
+from the Atlantic ones (see the keys of Chater (1968) and Nieto Feliner (2003)).
+
+ERYNGIUM VIVIPARUM BARIEGOI ROMERO SUBSP. NOV.
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+• 249
+
+Taxonomy treatment
+Eryngium viviparum J. Gay subsp. bariegoi M. I. Romero Buján & C. Real subsp. nov. (Fig. 5)
+Eryngium viviparum J.Gay subsp. bariegoi is similar to E. viviparum subsp. viviparum, from which it is easily distinguished by
+the bracteoles of the flowers which are very narrow and long, presenting appear nearly awned. As a result the new
+subspecies is a spiny plant, like a tiny thistle.
+Type:—SPAIN. Zamora: Otero de Bodas 29TQG3347, 828 m, 1 January 2003, MI. Romero, P. Ramil & P. Bariego 2424
+(holotype SANT! [SANT 50009 specimen on the top left], isotypes: remaining specimens).
+Herbaceous spiny plant with procumbent stems 1(−2) mm; basal leaves linear-lanceolate, dentate, with lamina decurrent on
+petiole and present at the time of flowering. Inflorescence cylindrical, capitula with similar bracts and bracteoles, rigid and
+lanceolate-acuminate with 1 spine. Bracteoles > 7 times longer than wide.
+
+Distribution and habitat:—Endemic subspecies from the Mediterranean areas of the Northwest of the Iberian
+Peninsula. The plant grows in very shallow temporary ponds which exist only in winter. The habitat is indicated as
+a priority habitat type (3170 * Mediterranean temporary ponds) in the Annex I of The Habitats Directive (1992)
+into the freshwater habitats, standing water.
+Etymology:—In recognition of his dedication and contribution to the study of the local flora, the subspecies is
+dedicated to Patricio Bariego, Technical Staff of Natural Parks Service of Castile-León Community.
+Additional specimens examined:—FRANCE (vouchers from the Paris Hebarium [ID Nº of voucher]).
+Morbihan. Carnac; August 1939, P. Jovet [P00271714]; Between Ploemel and Erdeven, 09 September 1966, H.
+Bouby [P00271715]; Carnac, August 1849, J. Lloyd [P00272716]; Auray, 17 September 1847, Maire [P00272717];
+Ploëmel, 29 August 1895, R. Ménager [P00271718]; Erdeven, 17 September 1848, Grenier [P00271719]; Ploëmel,
+17 August 1928, J. Charrier [P00271720]; Ploemel, 15 August 1883, E. Préaubert & Ch. Bouvet [P00271721];
+Carnac, September 1869, Toussaint [P00271722]; Vannes, August 1849, Lloyd? [P00271723]; Carnac, 12-13 July
+1928, - [P00271724]; Glaucharnel, 16 August 1907, G. Hibon [P00271725]; Carnac, Konaz, 27 August 1873,
+Bureau [P00271726]; Carnac, 12 October 1885, D. Luizet [P00271727]; Between Ploemel and Erdeven, 01
+September 1866, G. Gallée [P00271728]; Erdeven, Toussaint [P00271729];
+SPAIN (vouchers from the SANT Hebarium [ID Nº of voucher]). A Coruña: Melide, 27TNH8350, 449 m
+elev., 26 October 2000, MI. Romero, M. Rubinos & P. Ramil 2102 [SANT 46310]; León: Chozas de Arriba,
+30TTN7711, 855 m elev., 21 September 2001, J. Amigo 50101[SANT 45316]; Villadangos del Páramo,
+30TTN7011, 21 September 2001, J. Amigo 50102 [SANT 45312]; Lugo: Cospeito, 29TPH1888, 440 m elev., 10
+October 1997, J. Amigo, P. Ramil, M. Rodríguez & J. Izco 39497 [SANT 38490]; Rabade, 1 August 1951, A. Penas
+[SANT 06228]; Begonte, 09 August 1951, A. Penas [SANT 05909]; Begonte, 24 July 1951, A. Penas & F. Bellot
+[SANT 05361]; Begonte, 29TPH0481, 395 m elev., 17 June 1999, MI. Romero, Rodríguez Oubiña, P. Ramil & M.
+Rubinos 2033 [SANT 41397]; Cospeito, 29TPH1685, 395 m elev., 31 July 1987, F.J. Silva-Pando & G.B.G. 11161
+[SANT 17595]; Cospeito, 29TPH1882, 390 m elev., 17 June 1999, MI Romero, Rodríguez Oubiña, P Ramil & M.
+Rubinos 2032 [SANT 41391]; Rábade, 01 July 1951, A. Penas [SANT 06228]; Ourense: Porqueira, 29TNG9655,
+615 m elev., 25 October 2001, I. Pulgar [SANT 45414]; Rairíz de Veiga, 29TNG5956, 617 m elev., 09 October
+2001, MI. Romero, I. Pulgar & J. Izco 2122 [SANT 46390]; Rairiz de Veiga, 29TNG5759, 620 m elev., 13
+September 2001, I. Pulgar [SANT 45319]; Sandiás, 29TPG0663, 619 m elev., 25 October 2001, I. Pulgar [SANT
+45413]; Sarreaus, 29TPG1065, 618 m elev., 13 September 2008, I. Pulgar [SANT 59746]; Sarreaus, 29TPG1065,
+619 m elev., 14 October 2001, I. Pulgar [SANT 45969]; Vilar de Santos, 29TNG9658, 29 September 1995, I.
+Pulgar [SANT 32524]; Villar de Santos, 1 August 1987, E. Rico [SANT 34962]; Xinzo de Limia, 29TNG9967,
+640 m elev., 27 October 2001, I. Pulgar [SANT 45415]; Xinzo de Limia, 29TPG1358, 640 m elev., 27 October
+2001, I. Pulgar [SANT 45416]; Junquera de Ambía, 29TPG0468, 630 m elev., 25 October 2001, I. Pulgar [SANT
+45417]; Zamora: Ayoó de Vidriales, 29TQG3668, 911 m elev., 01 November 2003, MI. Romero, P. Ramil & P.
+Bariego 2423 [SANT 50008]; Ayoó de Vidriales, 29TQG3769, 905 m elev., 29 September 2003, P. Bariego 2835
+[SANT 60809]; Cubo de Benavente, 29TQG3668, 895 m elev., 29 September 2003, P. Bariego 2834 [SANT
+60810]; Ferreruela, 29TQG4730, 785 m elev., 21 June 2003, P. Bariego 2482 [SANT 60814]; Fonfría,
+29TQG4209, 820 m elev., 06 July 2003, P. Bariego 2481 [SANT 60807]; Melgar de Tera, 29TQG4547, 810 m
+elev., 22 May 2004, P. Bariego 2571 [SANT 60812]; Melgar de Tera, 29TQG4447, 810 m elev., 09 August 2003, P.
+
+250 •
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+ROMERO BUJÁN & REAL
+
+Bariego 2480 [SANT 60815]; Melgar de Tera, 29TQG4347, 820 m elev., 09 August 2003, P. Bariego 2479 [SANT
+60813]; Otero de Bodas, 29TQG3347, 828 m elev., 01 november 2003, MI. Romero, P. Ramil & P. Bariego 2102
+[SANT 50009]; Otero de Bodas 29TQG3347, 810 m elev., 29 September 2003, P. Bariego2836 [SANT 60808];
+Peque, 29TQG2756, 820 m elev., 03 July 2004, P. Bariego 2542 [SANT 60811]; Vigo de Sanabria, 29TPG9066,
+900 m elev., 24 July 2002, MI.Romero & P. Ramil 2335 [SANT 47268].
+Comparison with the type subspecies:—The new subspecies can be differentiated from E. viviparum subsp.
+viviparum by the bracteoles of the flowers (Fig. 5), which are narrower and longer than in the subspecies
+viviparum. This can be done by measuring the length and width of ten bracteoles and then calculating the quotient
+of these variables. Samples with a mean value greater than seven belong to E. viviparum subsp. bariegoi. When
+making the selection of bracteoles the rosette order is not relevant, and data from different individuals can be
+pooled if needed.
+
+FIGURE 5. A) Eryngium viviparum subsp. viviparum. A, B drawn from voucher P00271721 of Paris Herbarium [A, branches with
+basal leaves and inflorescences (capitula); B. bracteole detail]. Eryngium viviparum subsp. bariegoi. C, D drawn from SANT
+Herbarium, SANT 60809 [C, branches and D, bbracteole]. Drawing by Luis Gómez-Orellana.
+
+ERYNGIUM VIVIPARUM BARIEGOI ROMERO SUBSP. NOV.
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+• 251
+
+Conservation status:—According to IUCN (2012) the species can be assigned as endangered (EN, criterion
+and subcriteria B2ac), due to its highly restricted area of occupancy (less than 500 km²) and to the severe
+fragmentation of its population, which is linked to a very selective habitat “seasonal pools or temporary
+Mediterranean pools”.These habitats are affected by different types of disturbances: changes in land use (drainage,
+water pollution, etc.), or human or animal pressure, which result in habitat loss. In addition, the number of mature
+individuals is subject to extreme annual fluctuations because summer heat waves do not allow the development of
+fruits. As a consequence, climatic change is also a potential risk for this species.
+Key for the european aquatic taxa of the genus Eryngium
+1.
+2.
+−
+
+Width of the stems 1(−2) mm, basal leaves green when the plant is in flower: Soft in texture, biennial plant .................... 2
+Width of the stems (2−) 3−4 mm, dry basal leaves when in flower, spiny annual plant ...................................... E. galioides
+Bracteoles ≤ 7 times longer than wide, finely denticulate or with spinescent teeth ............... E. viviparum subsp. viviparum
+Bracteoles > 7 times longer than wide, spiny plant ................................................................... E. viviparum subsp. bariegoi
+
+Acknowledgements
+Our thanks go to the curators of the herbaria mentioned and to P. Bariego for the loan of material; to L. GómezOrellana for the illustrations. We would also like to thank the Institute of Agricultural Biodiversity and Rural
+Development (University of Santiago de Compostela, IBADER), and particularly P. Ramil for providing the optical
+material required for this study, and two anonymous referees for helpful comments on the manuscript.
+
+References
+Annezo, N., Lesouef, J.Y. & Rivière, G. (1995) Eryngium viviparum Gay. In: Olivier, L., Galland, J.-P. & Maurin, H. (éds.)
+Livre Rouge de la Flore Menacée de France. Muséum National d´Histoire Naturelle, IEGB, Paris, p 181.
+Arts, G.H.P. & Den Hartog, C. (1990) Phytogeographical aspects of the West European soft-water macrophyte flora. Acta
+Botanica Neerlandica 39: 369−378.
+Berne Convention (1979) Convention on the Conservation of European Wildlife and Natural Habitats. Council of Europe,
+European Treaty Series No 104, Berne. Available from http://conventions.coe.int/Treaty/Commun/
+QueVoulezVous.asp?NT=104&CM=8&DF=&CL=ENG (accessed 02/09/2013).
+Buord, S., Couderc, M. & Couderc, H. (1999) Incidences conservatoires et systématiques d’une étude morphologique,
+biologique et cytogénétique de l’Eryngium viviparum Gay, taxon au bord de l’extinction. Bulletin de la Société Botanique
+du Centre-Ouest, Nouvelle série, 19: 197−208.
+Chater, A.O. (1968) Eryngium L. In: Tutin, T.G., Heywood, V.H., Burges, N.A., Valentine, D.H., Walters, S.M. & Webb, D.A.
+(eds.), Flora Europaea, vol II. Cambridge University Press, Cambridge, pp 320−324.
+Cook, C.D.K. (1983) Aquatic plants endemic to Europe and the Mediterranean. Botanische Jahrbücher für Systematik 103:
+539−582.
+Cook, C.D.K. (1990) Aquatic plant book. SPB Academic Publishing, The Hague, 228 pp.
+Conover, W.J., Johnson, M.E. & Johnson, M.M. (1981) A comparative study of tests for homogeneity of variances, with
+applications to the outer continental shelf bidding data. Technometrics 23: 351–361.
+http://dx.doi.org/10.1080/00401706.1981.10487680
+Dupont, P. (1962) La Flore Atlantique Européenne. Introduction à l´étude du Secteur Ibéro-Atlantique. Faculté des Sciences,
+Toulouse, 414 pp.
+Gay, J. (1848) Eryngiorum novorum vel minus cognitorum Heptas. Annales des sciences naturelles comprenant la zoologie, la
+botanique, l'anatomie et la physiologie comparées des deux régnes, et l'historie des corps organisés fossiles; Troisième
+série, Botanique, 9: 148−184.
+IUCN, (2012) IUCN Red List Categories and Criteria (Version 3.1, Second edition). Gland, Switzerland and Cambridge, UK,
+iv + 32 pp. Available from http://www.iucnredlist.org/technical-documents/categories-and-criteria (accessed 06/11/2013).
+Jackson, D.A. & Somers, K.M. (1989) Are probability estimates from the permutation model of Mantel's test stable? Canadian
+Journal of Zoology 67: 766−768.
+http://dx.doi.org/10.1139/z89-108
+Lamarck, J.-B. (1798) Encyclopédie méthodique. Botanique. Tome quatrieme, part. 2, Paris, 774 pp.
+Menges, E.S. (1986) Predicting the future of rare plant populations: demographic monitoring and modelling. Natural Areas
+Journal 6: 13−25.
+Nieto Feliner, G. (2003) Eryngium L. In: Nieto Feliner, G., Jury, S.L. & Herrero, A. (eds.), Flora Ibérica, vol X. Real Jardín
+Botánico, CSIC, Madrid, pp 36−60.
+
+252 •
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+ROMERO BUJÁN & REAL
+
+R Development Core Team (2011) R: A language and environment for statistical computing. R Foundation for Statistical
+Computing, Vienna, Austria. Available from http://www.R-project.org/ (accessed 10/12/2012).
+Rodríguez-Gacio, M.C., De Jesús, J., Romero, M.I. & Herrera, M.T. (2009) Genetic diversity among genotypes of Eryngium
+viviparum Gay (Apiaceae): a plant threatened throughout its natural range. Botanical Journal of the Linnean Society 159:
+237−244.
+http://dx.doi.org/10.1111/j.1095-8339.2008.00931.x
+Rodríguez-Oubiña, J., Romero, M.I. & Ortiz, S. (1997) Communities of the Class Littorelletea in the Northwest Iberian
+Peninsula. Acta botanica Gallica 144:155−169.
+http://dx.doi.org/10.1080/12538078.1997.10515762
+Romero, M.I. & Rubinos, M. (2003) Eryngium viviparum Gay. In: Bañares, A., Blanca, G., Güemes, J., Moreno, J.C. & Ortiz,
+S. (eds.), Atlas y Libro Rojo de la Flora Vascular Amenazada de España. Taxones prioritarios. Ministerio de Medio
+Ambiente, Dirección General de Conservación de la Naturaleza–Tragsa, Madrid, pp 694−695.
+Romero, M.I., Ramil, P. & Rubinos, M. (2004) Conservation status of Eryngium viviparum Gay. Acta botanica Gallica 151:
+54−64.
+http://dx.doi.org/10.1080/12538078.2004.10516020
+Soltis, P.S. & Gitzendanner, M.A. (1999) Molecular Systematics and the Conservation of Rare Species. Conservation Biology
+13: 471−483.
+http://dx.doi.org/10.1046/j.1523-1739.1999.97286.x
+The Habitats Directive (1992) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild
+fauna and flora. Official Journal L 206, 22/07/1992 pp. 0007–0050, Finnish special edition: Chapter 15 vol 11 p. 0114.
+Available from http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0043:EN:html (accessed 02/09/
+2013).
+Wand, M.P. (2011) KernSmooth: Functions for kernel smoothing for Wand & Jones (1995). R package version 2.23-8.
+Available from http://CRAN.R-project.org/package=KernSmooth (accessed 10/12/2012).
+Wand, M.P. & Jones, M.C. (1995) Kernel smoothing. Chapman & Hall, Oxford, 224 pp.
+http://dx.doi.org/10.1007/978-1-4899-4493-1
+
+ERYNGIUM VIVIPARUM BARIEGOI ROMERO SUBSP. NOV.
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+• 253
+
+Appendix I. ANOVA tables.
+Table 1: Logarithm of bracteole length.
+D. f.
+2
+5
+10
+1235
+
+Sum sq.
+6.269
+5.129
+0.090
+9.878
+
+Mean sq.
+3.134
+1.026
+0.009
+0.008
+
+F value
+39.1876
+12.8239
+1.128
+
+Pr (>F)
+<0.001
+<0,001
+0.337
+
+D. f.
+2
+5
+10
+1235
+
+Sum sq.
+1.569
+1.045
+0.102
+10.654
+
+Mean sq.
+0.784
+0.209
+0.010
+0.009
+
+F value
+90.907
+24.225
+1.187
+
+Pr (>F)
+<0.001
+<0.001
+0.295
+
+Table 3: Logarithm of the bracteole length/ bracteole width ratio.
+D. f.
+Sum sq.
+Subpopulation
+2
+7.784
+Inflorescence order
+5
+1.662
+Interaction
+10
+0.121
+Residuals
+1235
+10.882
+
+Mean sq.
+3.892
+0.333
+0.012
+0.009
+
+F value
+441.718
+37.733
+1.378
+
+Pr (>F)
+<0.001
+<0.001
+0.185
+
+Subpopulation
+Inflorescence order
+Interaction
+Residuals
+Table 2: Logarithm of bracteole width.
+Subpopulation
+Inflorescence order
+Interaction
+Residuals
+
+Table 4: Logarithm of leaf length.
+Subpopulation
+Inflorescence order
+Interaction
+Residuals
+
+D. f.
+2
+4
+8
+346
+
+Sum sq.
+1.969
+1.654
+0.110
+3.772
+
+Mean sq.
+0.984
+0.414
+0.014
+0.011
+
+F value
+90.292
+37.933
+1.263
+
+Pr (>F)
+<0.001
+<0.001
+0.262
+
+D. f.
+2
+4
+8
+346
+
+Sum sq.
+0.123
+0.950
+0.116
+4.800
+
+Mean sq.
+0.062
+0.238
+0.015
+0.014
+
+F value
+4.434
+17.123
+1.046
+
+Pr (>F)
+0.013
+<0.001
+0.401
+
+Sum sq.
+1,459
+0.110
+0.064
+3.603
+
+Mean sq.
+0.730
+0.028
+0.008
+0.010
+
+F value
+70,072
+2.645
+0.767
+
+Pr (>F)
+<0.001
+0.034
+0.632
+
+Table 5: Logarithm of leaf width.
+Subpopulation
+Inflorescence order
+Interaction
+Residuals
+
+Table 6: Logarithm of the leaf length/leaf width ratio.
+D. f.
+Subpopulation
+2
+Inflorescence order
+4
+Interaction
+8
+Residuals
+346
+
+254 •
+
+Phytotaxa 158 (3) © 2014 Magnolia Press
+
+ROMERO BUJÁN & REAL
+
+

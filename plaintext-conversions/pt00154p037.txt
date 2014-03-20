@@ -1,0 +1,1301 @@
+Phytotaxa 154 (1): 1–37 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.154.1.1
+
+The diatom genus Gomphoneis Cleve (Bacillariophyceae) from Lake Baikal,
+Russia
+JOHN P. KOCIOLEK1,2, MAXIM S. KULIKOVSKIY3 & CÜNEYT N. SOLAK4
+1
+
+Museum of Natural History and 2Department of Ecology and Evolutionary Biology
+University of Colorado, Boulder, Colorado, 80309 USA
+3
+I.D. Papanin Institute for Biology of Inland Waters Russian Academy of Sciences,
+152742, Borok, Nekouz, Yaroslavl, Russia
+4
+Dumlupiner University, Department of Biology, Art & Science Faculty, Kütahya, 431000, Turkey
+2
+
+Abstract
+We describe 22 new species of Gomphoneis, and report several previously described taxa, from historical and recently
+made collections from Lake Baikal, Russia. We use light microscopy to document all taxa, and scanning electron
+microscopy to illustrate several of the species from the lake. All of the species present in Lake Baikal are part of the
+Elegans subgroup of the genus. Despite previous reports, we could find no representatives of the Herculeana subgroup in
+Baikal. We provide comparisons between the taxa, and document variability in the features found in the species. Two
+groups within the Elegans subgroup are present; most have 4 (or more) stigmoids, while a minority of the species lack
+stigmoids. We suggest that the species in Lake Baikal have two origins; one from the West, where an arc of related
+species spans Mongolia, NW China to Macedonia, and the second from western North America. Radiation of the two
+groups has resulted in species flocks. The number of Gomphoneis species in Lake Baikal is the largest number of species
+of the genus anywhere in the world.
+Key words: Bacillariophyceae, biogeography, species flocks, new species, Gomphoneis, Lake Baikal, systematics,
+taxonomy, scanning electron microscopy
+
+Introduction
+The diatom genus Gomphoneis was described by Cleve (1894: 73) for the species previously assigned to the
+genus Gomphonema, but with longitudinal lines and doubly-punctate striae. Initially, the genus was comprised
+mostly of fossil taxa and those from western North America as well as “Kamtschatka” (Cleve 1894, pp. 73–4;
+Grunow in Van Heurck 1880). Boyer (1927) designated the generitype of Gomphoneis as G. elegans (Grunow)
+Cleve (1894: 73). Originally it was a small genus, with 3 taxa, and it remained relatively small for nearly 100
+years. Perspectives on the genus changed in the 1970’s as observations of some species of “typical” or wellknown Gomphonema Ehrenberg (1832: 87) species (such as G. olivaceum (Hornemann) Ehrenberg 1838: 218)
+showed them with doubly-punctate striae and they were transferred to Gomphoneis (Dawson 1974; Ross &
+Sims 1978). Krammer (in Krammer & Lange-Bertalot 1985), for example, noted Gomphonema
+transylvanicum Pantocsek (1892: pl. 14, figs 219, 220), a species with doubly-punctate striae, typical porelli,
+and marginal laminae and assigned this species to Gomphoneis. Kociolek and Stoermer reviewed the genus,
+and contributed many new species (e.g. Kociolek & Stoermer 1986, 1988a, b) as well as described their
+systematic relationships (Kociolek & Stoemer 1989). They indicated the genus had doubly-punctate striae and
+in larger, more primitive species marginal laminae, which have been secondarily lost in smaller, more derived
+species, a concept not well understood in the diatom taxonomy community (see, for example, the paper by
+Reichardt 2007). They organized the genus into two subgroups. The first one has a stigma, doubly-punctate
+
+Accepted by David M. Williams: 18 Nov. 2013; published: 17 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+striae, longitudinal lines created by axial plate (seen in valve view) and marginal laminae (seen in girdle view),
+and other features similar to Gomphonema (apical pore fields, striae of the puncta). Included here are G.
+herculeana (Ehrenberg) Cleve (1874: 73), G. eriense (Grunow) Skvortzow & Meyer (1928: 28) and their
+closest allies (Kociolek & Stoermer 1988). The other group includes the generitype, G. elegans, and species in
+this group have apical pore field porelli that are similar to the areolae, 4 or more stigmoids (simple openings
+around the central area that may have siliceous ingrowths; versus stigmata with have round external openings
+and slit-like internal openings, found in traditional Gomphonema taxa and the other subgroup of Gomphoneis),
+or lack stigmoids altogether. More recently some members of this subgroup have been described from Lake
+Ohrid (Levkov et al. 2007), and Tuji (2005) considered species from Japan.
+The genus Gomphoneis has been reported previously from Lake Baikal. Wislouch (1924) described one
+new variety from the lake. Skvortzow (in Skvortzow & Meyer 1928; 1937) and Meyer (1930) reported several
+species from the Lake, making several new combinations. There were many taxa reported from several
+species, both following the taxonomic traditions of the day to describe more varieties and forms than is
+common today, and indicating the diversity of similar, but slightly different morphotypes present in the Lake.
+In addition to the reports of Gomphoneis in Lake Baikal by Skvortzow & Meyer, and Skvortzow,
+Skabitchevsky (1984, 1985, 1987) described new taxa of gomphonemoid diatoms that appear to have
+affinities with Gomphoneis species, including the presence of multiple stigmoids around the central area.
+Kociolek & Stoermer (1988b) attempted to determine the species of multiple stigmoid forms in the lake. They
+used historical collections of Østrup and Skvortzow to make preliminary observations on the taxa referred to
+as Gomphoneis quadripunctata (Østrup) P.A. Dawson ex R. Ross & P.A. Sims (1978: 162) and its allies.
+Though Krammer & Lange-Bertalot (1991) considered these as Gomphonema species, they are clearly
+aligned to Gomphoneis as typified by G. elegans. In all, over 19 Gomphoneis taxa have been reported from
+Lake Baikal, of which 12 were described from this locality (Table 1).
+TABLE 1. *RPSKRQHLV WD[D SUHYLRXVO\ UHSRUWHG IURP /DNH %DLNDO
+7D[D
+5HIHUHQFHV
+* HOHJDQV *UXQRZ LQ 9DQ +HXUFN &OHYH
+0H\HU 
+6NYRUW]RZ 0H\HU  0H\HU 
+* HOHJDQV YDU EDLFDOHQVLV 6NY
+* HOHJDQV YDU TXDGULSXQFWDWD 6NY
+6NYRUW]RZ 0H\HU  0H\HU 
+)RJHG 
+* EDLFDOHQVLV 6NY
+6NYRUW]RZ 0H\HU  0H\HU 
+* EDLFDOHQVLV YDU HORQJDWD 6NY
+6NYRUW]RZ 0H\HU  0H\HU 
+* HULHQVLV *UXQ
+6NYRUW]RZ 0H\HU 0H\HU 
+* HULHQVH YDU URVWUDWD $ 6FKP
+6NYRUW]RZ 0H\HU  0H\HU 
+* HULHQVH YDU URVWUDWD I EDLFDOHQVLV 6NY
+6NYRUW]RZ 0H\HU 
+* HULHQVH YDU URVWUDWD I KDVWDWD 6NY
+6NYRUW]RZ 0H\HU 
+* HULHQVH YDU EDLFDOHQVLV 6NY
+6NYRUW]RZ 0H\HU  0H\HU 
+* KDVWDWD :LVORXFK .RFLROHN 6WRHUPHU
+.RFLROHN 6WRHUPHU 
+* KHUFXOHDQXP (KUHQE
+6NYRUW]RZ 0H\HU  0H\HU 
+* KHUFXOHDQXP YDU UREXVWD *UXQ
+6NYRUW]RZ 0H\HU  0H\HU 
+* KHUFXOHDQXP YDU EDLFDOHQVLV 6NY
+6NYRUW]RZ 0H\HU  0H\HU 
+* KHUFXOHDQXP YDU EDLFDOHQVLV I JUDFLOLV 6NY
+6NYRUW]RZ 0H\HU 
+* ROLYDFHRLGHV +XVW &DUWHU %DLOH\:DWWV
+.RFLROHN 6WRHUPHU 
+* TXDGULSXQFWDWD VWUXS 'DZVRQ H[ 5RVV 6LPV
+.RFLROHN 6WRHUPHU 
+* WXPLGD 6NY LQ 6NY 0H\HU .RFLROHN 6WRHUPHU
+.RFLROHN 6WRHUPHU 
+* WXPLGD YDU RHVWUXSLL .RFLROHN 6WRHUPHU
+.RFLROHN 6WRHUPHU 
+
+There has recently been increased interest in the diatoms of Lake Baikal, including a Darwin Initiative
+(Flower et al. 2004, Flower 2005) project that yielded many samples from the lake, and the recovery of slides
+of Skabitchevsky and Skvortzow (in the California Academy of Sciences and the Friedrich Hustedt Diatom
+Study Center collection). The first two authors of this publication have also made collections from Lake
+Baikal within the last 10 years. The recent publications on the pennate diatoms of Lake Baikal (Genkal et al.
+2008, Kulikovskiy et al. 2011, 2012a,b,c, 2013) have yielded over 200 new species and 11 new genera.
+
+2 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+The objective of the present report is to document and describe the diversity of members of the diatom
+genus Gomphoneis in Lake Baikal, based on historical and more recent collections.
+
+Materials and methods
+Material includes original samples from Skabtichevsky collected from Bolshoi Ushkaniy Island in 1965;
+samples from the expeditions of the UK Darwin Initiative (Flower 1995; collections made in 1997 and 1998);
+further collections made by Kulikovskiy in 2011 (material kept in IBIW: collection Maxim Kulikovskiy, I.D.
+Papanin Institute for Biology of Inland Waters, Russian Academy of Sciences, Russia) and by the senior
+author in 1998 (material kept in COLO: University of Colorado Museum of Natural History, Boulder,
+Colorado, USA). Samples consulted for this work are listed in Table 2. Type material is housed in IBIW,
+COLO and SZCZ (collection Andrzej Witkowski, Institute of Marine Sciences, University of Szczecin).
+Samples were cleaned with nitric acid, alternately rinsed and settled unto neutral. Cleaned material was
+air-dried onto coverslips. For LM, air-dried material was mounted in Naphrax and observed with an Olympus
+BX-51 microscope with 60X (1.42 N.A.) and 100X (1.40 N.A.) objectives with DIC. For SEM, the material
+was attached to aluminum stubs, sputter-coated with gold-palladium and viewed with a JEOL field emission
+SEM housed at the University of Colorado, Boulder.
+Terminology for valve features of this group follows that of Kociolek & Stoermer (1989, 1993).
+TABLE 2. 6DPSOHV FRQVXOWHG LQ WKLV PDQXVFULSW
+6DPSOH ,'	
+&ROOHFWRU	
+9,,,
+-3 .RFLROHN
+-3 .RFLROHN
+9,,,
+9,,,
+-3 .RFLROHN
+9,,,
+-3 .RFLROHN
+9,,,
+-3 .RFLROHN
+9,,,
+-3 .RFLROHN
+9,,,
+-3 .RFLROHN
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  FROO 
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  %.
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  %.
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  %.
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+6WDWLRQ  
+'DUZLQ ,QLWLDWLYH
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+0 .XOLNRYVNL\
+
+/RFDOLW\	
+8VKNDQ\L ,VODQGV URFN
+8VKNDQ\L ,VODQGV URFN
+8VKNDQ\L ,VODQGV URFN
+8VKNDQ\L ,VODQGV URFN
+%XKUDQ &DSH URFN
+%XKUDQ &DSH URFN
+%XKUDQ &DSH URFN
+&DSH *RORXVW\QL
+2KORQ *DWH
+0LGGOH ,VODQG 2KORQ *DWH
+&DSH .KRERM VWRQHV DQG DOJDH
+0RXWK RI .KHMUHN
+&DSH .RWHOQLNRYVNLM
+3RUW 6HYHUREDMNDOVN
+3UHER\
+7DQR\
+0\SXPR
+%DLNDOVNL
+0DQJXWLH
+0DQJXWLH
+0DQJXWLH
+0DQJXWLH
+%D\ QHDU (QNKDOXN YLOODJH
+.XOWXN
+0XULQR YLOODJH
+%ROGDNRYR
+:KDWH VWRQH FDSH
+.DSXVWLQVND\D ED\
+0XULQR YLOODJH
+(QNKDOXN YLOODJH
+(QNKDOXN YLOODJH
+%D\ QHDU (QNKDOXN YLOODJH
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+'DWH
+9,,,
+9,,,
+9,,,
+9,,,
+9,,,
+9,,,
+9,,,
+
+
+
+
+
+
+
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+
+
+
+
+
+
+
+
+
+
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 3
+
+Taxonomic results
+Gomphoneis hastata (Wislouch) Kociolek & Stoermer (1988: 100) (Figs 1–11, 376–379)
+Basionym: Gomphonema quadripunctatum var. hastata Wislouch (1924: 166)
+
+PLATE 1: LM. Figs 1–11: Gomphoneis hastata. Figs 12–17: G. parahastata sp. nov. Fig. 15 is of the holotype. Scale bar = 10 µm for
+all figures.
+
+4 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+Valves clavate, with headpole broadly rounded, footpole rounded. Length 27–62 µm, breadth 10–14 µm.
+Axial area straight, forming an orbicular central area that does not extend to the margin. Raphe lateral, with
+distinctly dilated external proximal raphe ends. External distal raphe ends extend nearly straight from the
+valve face to mantle, bisecting the distinct apical pore fields at footpole. Central area with 4–7 isolated
+stigmoids around the central area. Striae costate, individual areolae not visible with LM. Striae strongly
+radiate about the center of the valve, becoming parallel at both poles. Striae 13–15 in 10 µm. Prominent septa
+and pseudosepta at both poles.
+In the SEM, the interior of G. hastata is dominated by the round central area (Figs 376, 377). The central
+nodule is raised internally, and the elevated raphe terminates on the central nodule with proximal raphe ends
+that are recurved in the same direction (Fig. 377). Around the base of the central nodule is located 4 isolated
+stigmoids. The stigmoids are occluded with siliceous coverings, around the base of each are small pores (Fig.
+377). Septa are associated with girdle bands at the poles (Fig. 376). Externally, the central area has the
+stigmoids that occur in small, round depressions (Fig. 378). Proximal raphe ends are elongated and dilated
+(Fig. 378). The doubly-punctate striae extend from the mantle to the valve face, terminating next to the axial
+area with 1 or 2 areolae (Figs. 378). Valvocopula has a single row of pores (Fig. 379).
+Observations:—The orbicular shape of the central area, not extending to the margin and the costate
+nature of the striae help to distinguish this species from other, similar species in the genus.
+Gomphoneis parahastata Kulikovskiy & Kociolek, sp. nov. (Figs 12–31, 380–381)
+Valves lanceolate-clavate with headpole broadly rounded, footpole rounded. Length 32–78 µm, breadth 12–17
+µm. Axial area straight, narrow, expanded by irregularly long and short striae about the center to form an
+irregular somewhat circular central area with 4 stigmoids that appear to be offset from one another. Raphe is
+lateral with external proximal raphe ends dilated and distal ends nearly straight and extending onto the mantle
+at both apices. Striae composed of two rows of areolae, resolvable with LM. Striae radiate, nearly parallel near
+the headpole. Striae 12–14/ 10 µm. Septa and pseudosepta present at poles. Apical pore field distinct composed
+of stria-like rows or porelli. In the SEM the valve exterior has dilated proximal raphe ends and isolated
+stigmoids in depressions in the irregularly rounded central area (Figs 380, 381). The striae are composed of
+two rows of areolae (Figs 380, 381), and the apical pore fields appear as compressed striae (Fig. 381).
+Type:—RUSSIA: Bolshoi Ushkaniy Island, Lake Baikal (IBIW, slide no. 15651m!, in collection Maxim
+Kulikovskiy, 20.07.1965, leg. A.P. Skabitschewsky, holotype here designated (= Fig. 15); COLO slide no.
+15651p; SZCZ slide no. 15651°, isotypes).
+Gomphoneis lata (Skabitchevsky) Kociolek & Kulikovskiy, comb. nov. (Figs 32–39, 368–375)
+Basionym: Gomphonema latum Skabitchevsky (1987: 74, pl. 2, figs 1–6).
+Valves linear-lanceolate clavate with apices broadly rounded. Length 41–61 µm, breadth 11–15 µm. Axial
+area narrow, straight, expanded to form a distinct, rectangular central area bordered by 2–3 shortened striae on
+either side, with 4–9 isolated stigmoids. Raphe lateral, straight, with external proximal ends dilated and
+rounded. External distal raphe ends deflected onto the mantle at the headpole, bisecting the apical pore field at
+the footpole. Striae composed of two rows of fine areolae. Striae radiate at the center, nearly radiate to barely
+parallel at poles. Striae 9–11/10 µm. Apical pre fields composed of distinct rows of porelli. Septa and
+pseudosepta present at the apices.
+In the SEM, the external portion of the valve is dominated by thickened, distinct interstriae that alternate
+with the striae (Figs 368–371). The axial area, interstriae and central area appear to be elevated from the level
+of the areolae. Striae are composed on 2, sometimes 3 rows of areolae (Figs 369, 371). At the central area the
+stigmoids are round and appear to occur in slightly sunken depressions (Fig. 370). The poles have the distal
+raphe ends bent onto the mantle (Figs 369, 371), while at the footpole the apical pore fields appear as
+compressed striae (Fig. 371). Internally, an overall view shows the presence of septa at both poles (Figs 372,
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 5
+
+374). The internally elevated, elliptical central nodule bears the proximal raphe ends (Figs 372, 373, 375). The
+proximal raphe ends are recurved in the same direction. Around the base of the central nodule there 4 isolated
+stigmoids (Figs 373, 375). The stigmoidal openings appear slit like and occluded by teeth-like projections
+(Figs 373, 375). Girlde bands have one row of rectangular openings (Figs 372, 374, 375).
+
+PLATE 2: LM. Figs 18–31: Gomphoneis parahastata sp. nov. Figs 32–39: G. lata. Scale bar = 10 µm for all figures.
+
+6 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+PLATE 3: LM. Figs 40–60: Gomphoneis hastatoides sp. nov. Fig. 41 is of the holotype.Scale bar = 10 µm for all figures.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 7
+
+Gomphoneis hastatoides Kociolek & Kulikovskiy, sp. nov. (Figs 40–60)
+Valves distinctly clavate with broadest portion of the valve located past the central nodule towards the
+footpole, with headpole broadly rounded and footpole rounded. Length 30–65 µm, breadth 12–17 µm. Axial
+area straight, expanded to form a distinctly orbicular central area. Raphe lateral, straight, with external
+proximal raphe ends dilated. Internal distal raphe ends distinct. External distal raphe ends nearly straight,
+extending onto the valve mantle. Central area with 4 (rarely 5) isolated stigmoids. At the footpole the raphe
+bisects the distinct apical pore fields that resemble the striae. Striae costate, individual areolae cannot be
+resolved with LM. Striae radiate about the center of the valve and towards the footpole, becoming parallel
+near the headpole. Striae 12–14/10 µm. Septa and pseudosepta present at both poles.
+Type:—RUSSIA: Bolshoi Ushkaniy Island (rock), Lake Baikal, 16.07.2011, leg. M. Kulikovskiy (IBIW,
+slide no. 18575m!, holotype here designated (= Fig. 41); COLO slide 18575p, isotype).
+Observations:—This species is distinguished from G. hastata by the shape of the valves, with G.
+hastatoides being broadest towards the footpole.
+Gomphoneis eriensioides Kulikovskiy, Kociolek & Solak, sp. nov. (Figs 61–84, 397–400)
+Valves lanceolate-clavate, with apices rounded. Length 26.0–67.5 µm, breadth 8.5–13.0 µm. Axial area
+straight, expanded to form an irregularly rounded central area, with 3–5 shortened striae on either side. 4
+stigmoids present around the central area. Raphe lateral, more or less straight with external proximal ends
+dilated and round. External distal raphe ends extend straight onto the valve mantle. Costate striae strongly
+radiate, except near the headpole where they approach being parallel. Striae 11–14/10 µm. Apical pore fields
+evident, comprised of distinct rows of porelli. Septa and pseudosepta present at the poles.
+In the SEM the valve exterior has evident striae composed of two rows of areolae (Figs 397–399). The
+stigmoidal openings around the central area appear to be in small, round depressions (Figs 397, 398).
+Proximal raphe ends dilated (Figs 397, 398). Apical pore field porelli are organized into double rows, and
+appear like condensed striae (Fig. 399). Internally, there are pseudosepta and helictoglossae at the poles. The
+smallish central nodule has recurved proximal raphe ends at its margin, and there are 4 isolated stigmoids
+around the base. Stigmoids may be unoccluded, or have small teeth-like projects (Fig. 400).
+Type:—RUSSIA: Bolshoi Ushkaniy Island (rock), Lake Baikal, N52o35.694, E107 o17.141, white stone
+cape, on stone, 16.07.2011, leg. M. Kulikovskiy (IBIW slide no. 18575m, holotype designated here ( = Fig.
+63); COLO slide no. 18575p, SZCZ slide no. 18575°, isotypes).
+Etymology:—Gomphoneis eriensioides is named for its superficial resemblance to G. eriense.
+Observations:—Gomphoneis eriensioides differs from G. eriense by having 4 stigmoids rather than a
+single stigma, undifferentiated apical pore fields rather than those composed of differentiated porelli, and lack
+of longitudinal lines on either side of the axial area as seen in G. eriense (Patrick & Reimer 1975; Kociolek &
+Stoermer 1988).
+Gomphoneis cf. eriensioides Kulikovskiy, Kociolek & Solak (Figs 85–88, 401)
+In the SEM this taxon has an undulate raphe and dilated proximal raphe ends externally. The stigmoid
+openings are round and occur in depressions. The striae are composed of round, unoccluded areolae (Fig.
+401).
+Observations:—Valves given this designation are slightly more linear and narrow than G. eriensioides.
+The outline of the valve appears somewhat irregular. We continue to look for smaller specimens that match
+better with these valves. We wait finding a better size diminution series for this group before we decide to
+describe it as a separate species.
+
+8 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+PLATE 4: LM. Figs 61–84: Gomphoneis eriensioides sp. nov. Fig. 63 is of the holotype. Figs 85–88: G. cf. eriensioides. Scale bar =
+10 µm for all figures.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 9
+
+PLATE 5: LM. Figs 89–119: Gomphoneis tumida. Scale bar = 10 µm for all figures.
+
+Gomphoneis tumida (Skvortzow in Skvortzow & Meyer) Kociolek & Stoermer (1988: 104)(Figs 89–119, 382–387)
+Valves lanceolate clavate, with broadly rounded headpole and rounded footpole. Axial area narrow, expanded
+to form an orbicular central area containing 4–6 isolated stigmoids. Length 25–51 µm, breadth 6-9 µm. Raphe
+lateral, with proximal ends just reaching into the central area. Striae costate, radiate about the center,
+becoming parallel towards the apices. Striae 14-19/10 µm. Apical pore fields distinct. Septa and pseudosepta
+present at the apices.
+
+10 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+Externally in the SEM G. tumida has proximal raphe ends that are dilated, and 4 isolated stigmoids with
+rounded openings (Fig. 382). Internally, the central area is rounded, and bears the internally raised central
+nodule (Figs 383–387). The proximal raphe ends are received in the same direction. The stigmoidal openings
+are elliptical in outline and have teeth-like projections (Figs 383–387). Helictoglossae are positioned at the
+poles. There are both septa (Fig. 383) and pseudosepta (Figs 385, 386) at the poles.
+Observations:—This represents a more narrow view of this taxon than the one presented by Kociolek &
+Stoermer (1988b), but it is still considered one of, if not the most variable species present in Lake Baikal. This
+species is more linear than G. tumidioides.
+Gomphoneis tumidioides Kulikovskiy, Kociolek & Solak, sp. nov. (Figs 120–127)
+Valves lanceolate-clavate with headpole and footpole rounded, apices not protracted. Length 25–52 µm,
+breadth 6.5–9.0 µm. Axial area straight, expanded to form a distinctly circular central area, with 4 isolated
+stigmoids situated around the central area. Central area not expanded to the margin. Raphe lateral, straight,
+with external proximal raphe ends distinctly dilated. External distal raphe ends extend nearly straight onto the
+valve mantle. Striae costate, radiate about the center of the valve, to the footpole and towards the headpole,
+before becoming parallel at the apex. Striae 11–15/10 µm. Apical pore field distinct, composed of defined
+rows of porelli. Septa and pseudosepta distinct, especially at the footpole.
+Type:—RUSSIA: Lake Baikal, N52o28.997, E106 o57.601. Shore near Enkhaluk village, on stone,
+15.07.2011, leg. M. Kulikovskiy (IBIW slide no. 18584m, holotypus here designated (= Fig. 120); COLO
+slide no. 18584p, SZCZ slide no. 18584a, isotypes).
+Etymology:—The species resembles G. tumida in outline.
+Observations:—Distinguished from G. witkowskii by the more rounded valves, and more rounded central
+area.
+Gomphoneis rotundata Kulikovskiy & Kociolek, sp. nov. (Figs 128–131)
+Valves lanceolate-clavate, with apices rounded. Length 23–29 µm, breadth 5–6 µm. Axial area narrow
+straight, expanded to form an irregularly-shaped, somewhat circular central area bordered by 2–3 shortened
+striae on either side, more coarsely arranged than other striae. 4 stigmoids present around the central area.
+Raphe lateral, more or less straight, with external proximal ends rounded. External distal raphe ends extend
+nearly straight onto the valve mantle. Costate striae strongly radiate, except parallel at the headpole. Striae
+14–16/10 µm. Apical pore fields indistinct. Septa and pseudosepta evident at the poles.
+Type:—RUSSIA: Lake Baikal, N52o27.042, E106o53.215. Bay near Enkhaluk village, fouling on the
+wood, 14.07.2011, leg. M. Kulikovskiy (IBIW slide no. 18589m, holotype designated here ( = Fig. 129);
+COLO slide no. 18589p; SZCZ slide no. 18589a, isotypes).
+Gomphoneis gracilis Kociolek, Kulikovskiy & Solak, sp. nov. (Figs 132–143)
+Valves linear-lanceolate clavate, with headpole slightly protracted, rounded, footpole rounded. Length 25–46
+µm, breadth 4.5–7.5 µm. Axial area narrow, expanded at center to form a rounded to irregular rectangularshaped central area bordered by 2–5 shortened striae more coarsely separated from other striae. Central area
+contains 4 isolated stigmoids. Central area not expanded to the margin. Raphe lateral, straight, with external
+proximal raphe ends distinctly dilated. External distal raphe ends extend nearly straight onto the valve mantle.
+Striae costate, radiate about the center of the valve, to the footpole and towards the headpole, before becoming
+parallel at the apex. Striae 10–12/ 10 µm. Apical pore field distinct, composed of defined rows of porelli.
+Septa and pseudosepta distinct, especially at the footpole.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 11
+
+PLATE 6: LM. Figs 120–127: Gomphoneis tumidoides sp. nov. Fig. 120 is of the holotype. Figs 128–131: G. rotundata sp. nov. Fig.
+129 is of the holotype. Figs 132–143: G. gracilis sp. nov. Fig. 142 is of the holotype. Figs. 144–152: G. sp. cf. witkowskii. Figs 153–
+158: G. lange-bertalotii sp. nov. Fig. 155 is of the holotype. Figs 159–168: G. witkowskii sp. nov. Fig. 168 is of the holotype. Scale bar
+= 10 µm for all figures.
+
+12 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+Type:—RUSSIA: Lake Baikal, White stone cape, on stone, N52o35.694, E107 o17.141, 16.07.2011, leg.
+M. Kulikovskiy (IBIW slide no. 18575m, holotype designated here (= Fig. 142); COLO slide no. 18575p,
+SZCZ slide no. 18575°, isotypes).
+Observations:—The unique outline of this species clearly differentiates it from other species in Lake
+Baikal.
+Gomphoneis lange-bertalotii Kociolek & Kulikovskiy, sp. nov. (Figs 153–158)
+Valves lanceolate-clavate with rounded apices. Length 21–42 µm, breadth 5–7 µm. Axial area linear,
+expanded to form x-shaped to rectangular (to somewhat circular) central area. 4 isolated stigmoids positioned
+around the central area. Raphe is lateral, barely undulate. The external proximal raphe ends dilated. Costate
+striae strongly radiate near the center of the valve and towards the footpole, becoming parallel towards the
+headpole. Striae 11–13/10 µm. Apical pore field bilobed, comprised of distinct rows of porelli. Septa and
+pseudosepta small at both poles.
+Type:—RUSSIA: Lake Baikal, Kapustinskaya bay, N52o38.484, E107 o23.218, 17.07.2011, leg. M.
+Kulikovskiy (IBIW slide no. 18580m, holotype designated here (= Fig. 155), COLO slide no. 18580p, SZCZ
+slide no. 18580a, isotypes).
+Etymology:—Named in honor of our friend and colleague, Prof. Dr. Horst Lange-Bertalot (Frankfurt).
+Gomphoneis witkowskii Kulikovskiy, Kociolek & Solak, sp. nov. (Figs 159–168, 388)
+Valves lanceolate-clavate, with apices rounded. Length 20–34 µm, breadth 5.0–6.5 µm. Axial area narrow,
+becoming wider towards the center, forming a rounded to angular central area. 4 isolated stigmoids present
+around the central area. Raphe lateral, more or less straight, with external proximal ends dilated slightly.
+External distal raphe ends straight and extend onto the valve mantle. Striae are costate, radiate in the center
+and to the footpole, and radiate to parallel to the headpole. Striae 13–16/10 µm. Septa and pseudoseptae
+evident at the apices. Apical pore field distinct, composed of distinct lines or rows of porelli.
+In the SEM the valve exterior of this species appears similar to other taxa in the genus, having doublypunctate striae, stigmoids that occur in small, round depressions, and dilated proximal raphe ends (Fig. 388).
+Type:—RUSSIA: Lake Baikal, shore near Murino village, on algae, N51o29.244, E104 o24.060,
+20.07.2011, leg. M. Kulikovskiy (IBIW slide no. 18569m, holotype designated here (= Fig. 168); COLO slide
+no. 18569p, SZCZ slide no. 18569°, isotypes).
+Gomphoneis cf. witkowski (Figs 144–152)
+Valves lanceolate-clavate apices rounded. Length 29–45 µm, breadth 7–9 µm. Axial area narrow, expanded at
+the center to form a rounded to irregular rectangular-shaped central area bordered by 2–5 shortened striae
+more coarsely separated from other striae. Central area contains 4 isolated stigmoids positioned around the
+central area. Central area not expanded to the margin. Raphe lateral, straight, with external proximal raphe
+ends distinctly dilated. External distal raphe ends extend nearly straight onto the valve mantle. Striae costate,
+radiate about the center of the valve, to the footpole and towards the headpole, before becoming parallel at the
+apex. Striae 12–14/10 µm. Apical pore field distinct, composed of defined rows of porelli. Septa and
+pseudosepta distinct, especially at the footpole.
+Observations:—This represents the morphologies of specimens identified by Kociolek & Stoermer
+(1988b, their figures 31–34) as G. quadripunctata (Østrup) Dawson ex Ross & Sims from Lake Baikal. Our
+review of micrographs published of the type specimens of G. quadripunctata (Kociolek & Stoermer 1988b;
+Tuji 2005) from Lake “Kossogol” (Mongolia) suggests we cannot confirm the presence of this taxon in Lake
+Baikal.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 13
+
+Gomphoneis metzeltinii Kociolek, Kulikovskiy & Solak, sp. nov. (Figs 169–174; 389–391)
+Valves lanceolate-clavate with headpole protracted, rounded and footpole rounded. Length 14.5–32.0 µm,
+breadth 4.0–5.5 µm. Axial area narrow, straight, expanded laterally to form a rectangular to bow-tie shaped
+central area, with 1–2 shortened striae on either side at the margins, more coarsely arranged than other striae.
+4 isolated stigmoids arranged around the central area, usually offset from one another. Raphe lateral, weakly
+undulate, with external proximal raphe ends rounded and distal raphe ends straight and extending onto the
+valve mantle. Costate striae radiate, except parallel at the headpole. Striae 10–14/10 µm. Apical pore fields
+small, indistinct. Septa and pseudosepta present at the poles.
+This species have doubly-punctate striae, isolated stigmoidal openings that are indistinct and appear
+similar to the areolae, and proximal raphe ends that are dilated (Figs 389, 390). Areolae are small, round and
+unoccluded (Figs 389, 391). The apical pore field is present on the valve face and mantle (Figs 389, 391).
+Type:—RUSSIA: Lake Baikal, Boldakovo, on algae, N52o35.694, E107 o17.142, 16.07.2011, leg. M.
+Kulikovskiy (IBIW slide no. 18572m, holotype designated here (= Fig. 169); COLO slide no. 18572p, SZCZ
+slide no. 18572a, isotypes).
+Etymology:—Named in honor of our friend and colleague, Ditmar Metzeltin, Frankfurt (Germany) for
+his many contributions of our understanding of freshwater diatom biodiversity on a worldwide scale.
+Gomphoneis subcapitata Kociolek, Kulikovskiy & Solak, sp. nov. (Figs 193–200, 407)
+Valves lanceolate-clavate, headpole distinctly protracted and rounded, footpole narrowly rounded. Length
+13.0–28.5 µm, breadth 2.5–5.5 µm. Axial area narrow, expanded to form an irregularly-shaped, more or less
+rectangular central area with 1–2 shortened striae on either side at margin. 4 isolated stigmoids, sometimes
+difficult to distinguish, occur around central area. Raphe lateral, barely undulate, with external proximal raphe
+ends dilated and round, distal ends straight and extending onto mantle. Striae radiate at center, radiate to
+parallel at footpole and parallel at headpole, 13–16/10 µm. Apical pore field indistinct, formed by rows of
+porelli. Septa and pseudosepta present at poles. Internally, the valve has a small nearly linear central nodule,
+with recurved proximal raphe ends. There are pseudosepta and helictoglossae at the poles (Fig. 407).
+Type:—RUSSIA: Lake Baikal, shore near Murino village, on algae, N51o29.244, E104 o24.060,
+20.07.2011, leg. M. Kulikovskiy (IBIW slide no. 18569m, holotype designated here (= Fig. 200); COLO slide
+no. 18569p, SZCZ slide no. 18569a, isotypes).
+Observations:—Differentiated from G. asymmetrica by the shape of the valve.
+Gomphoneis cf. subcapitata (Figs 175–192, 406)
+Valves small, lanceolate to nearly elliptical-clavate, headpole rounded, footpole narrowly rounded. Length
+8.0–15.5 µm, breadth 2.5–3.5 µm. Axial area narrow, straight, expanded to form a wide rectangular central
+area extending to the margin with1–2 shortened striae. 4 stigmoids positioned at the end of striae occur around
+the central area. Raphe barely lateral, more or less straight. Striae costate, slightly radiate, 13–16/10 µm.
+Apical pore field indistrinct. Septa and pseudosepta at the poles, small.
+In the SEM the valve interior of this small diatom has a rather prominent central nodule, with recurved
+proximal raphe ends, and surrounded by 4 stigmoids. The stigmoid openings are more or less rounded. Large
+helictoglossae are present at the poles, and there is a small pseudoseptum at each end of the valve (Fig. 406).
+Observations:—We will continue to examine specimens of this relatively common species before
+deciding whether to include all similar specimens within a concept of G. subcapitata, or to segregate them into
+a separate species. Valve shape with respect to how developed the protracted headpole might be (less
+protracted in these specimens) differentiates this group from G. subcapitata.
+
+14 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+Gomphoneis inconspicua Kociolek, Kulikovskiy & Solak, sp. nov. (Figs 201–214, 408–409)
+Valves small linear-lanceolate clavate with headpole barely protracted, apices rounded. Length 8.5–20.0 µm,
+breadth 2–3 µm. Axial area narrow, expanded to form a relatively wide, transverse rectangular-shaped central
+area bordered by a single shortened stria on either side. There are 4 stigmoids, sometimes difficult to
+distinguish, situated around the central area. Raphe filiform, slightly undulate, with external proximal raphe
+ends dilated and round. Costate striae radiate, except parallel at headpole.. Striae 16–20/10 µm. Apical pore
+fields indistinct. Septa and pseudosepta small at both poles.
+Externally, the striae of this species are composed of two rows of round, unoccluded areolae and they
+terminate at the axial in in one or two areolae (Fig. 408). The proximal raphe ends are dilated. The four
+isolated stigmoids are small and round (Fig. 408). Internally, the central nodule is inconspicuous and narrow
+(Fig. 409). The central nodule has recurved proximal raphe ends. The helictoglossa at the footpole is oriented
+off-center from the raphe branch (Fig. 409). A small pseudoseptum is present at the footpole.
+Type:—RUSSIA: Lake Baikal, Kultuk, on algae, N51o43.460, E103 o43.096, 21.07.2011, leg. M.
+Kulikovskiy (IBIW slide no. 18600m, holotype designated here (= Fig. 201); COLO slide no. 18600p, SZCZ
+slide no. 18600°, isotypes).
+Gomphoneis cf. subcapitata (Figs 215–222, 405)
+Valves linear-lanceolate clavate, with apices rounded. Length 19–29 µm, breadth 3.0–4.5 µm. Axial area
+straight, expanded to form an irregularly-shaped, asymmetrical more or less rectangular central area bordered
+by 1–2 shortened striae on either side. 4 isolated stigmoids present around central area. Raphe lateral, straight,
+with external proximal raphe ends dilated and distal ends extend onto mantle. Striae radiate to parallel, 12–15/
+10 µm. Apical pore fields distinct, formed by rows of porelli. Septa and pseudosepta present at poles.
+In the SEM, external proximal raphe ends are dilated and elongate, while the distal raphe ends are
+deflected on the valve face and then proceed onto the mantle (Fig. 405). Two of the stigmoid openings appear
+larger than the other two (Fig. 405).
+Gomphoneis reichardtii Kociolek, Kulikovskiy & Solak, sp. nov. (Figs 223–228, 422–424)
+Valves lanceolate-clavate with headpole rounded and footpole narrowly rounded. Length 13.0–21.5 µm,
+breadth 4–5 µm. Axial area very narrow, expanded laterally at the center to form a rectangular central area,
+bordered by 1–2 shortened striae more coarsely arranged than other striae on both sides of the central area at
+the margins. 4 isolated stigmoids are positioned around the central area. Raphe weakly lateral, slightly
+undulate. External proximal raphe ends dilated slightly. External distal raphe ends extend onto mantle at both
+poles. Costate striae radiate around the center and at footpole, radiate towards headpole and parallel at apex.
+Striae number 13–15/10 µm. Footpole with small apical pore field. Septa and pseudosepta present at poles.
+The small valves of this species have the apical pore field restricted to the valve mantle, while the
+proximal raphe ends are dilated (Fig. 422). Stigmoidal openings can be of different sizes (Fig. 422). The distal
+raphe ends are deflected weakly onto the mantle at both poles. Internally, the central nodule is raised slightly
+internally, and bears the small, recurved proximal raphe ends. The internal stigmoidal opening are round and
+unoccluded (Figs. 423, 424). Pseudosepta are present at the poles.
+Type:—RUSSIA: Lake Baikal, bay near Enkhaluk village, on macrophyte, N52o27.042, E106 o53.215,
+14.07.2011, leg. M. Kulikovskiy (IBIW slide no. 18599m, holotype designated here (= Fig. 223); COLO slide
+no. 18599p, SZCZ slide no. 18599a, isotypes).
+Etymology:—Named in honor of Mr. Erwin Reichardt, Treuchtlingen, Germany, for his contributions to
+the study of gomphonemoid diatoms.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 15
+
+PLATE 7: LM. Figs 169–174: Gomphoneis metzeltinii sp. nov. Fig. 169 is of the holotype. Figs 175–192: G. cf. subcapitata. Figs 193–
+200: G. subcapitata sp. nov. Fig. 200 is of the holotype. Figs 201–214: G. inconspicua sp. nov. Fig. 201 is of the holotype. Figs 215–
+222: G sp. cf. subcapitata. Figs 223–228: G. reichardtii sp. nov. Fig. 223 is of the holotype. Figs 229–237: G. sp. cf. skabitchevskii.
+Figs 238–250: G. sp. cf. skabitchevskii. Figs 251–260: G. skabitchevskii sp. nov. Fig. 258 is of the holotype. Figs 261–282: G. sp. cf.
+reichardtii. Scale bar = 10 µm for all figures.
+
+16 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+Gomphoneis cf. skabitchevskii (Figs 229–250)
+Valves elliptical-clavate, slightly tumid at center with slightly protracted rounded headpole and narrowly
+rounded footpole. Length 12–27 µm, breadth 4.5–7.0 µm. Axial area narrow, expanded to form a transversely
+widened, irregular to rectangular central area bordered by 1–2 shortened striae on either side, near the margin.
+4 isolated stigmoids, usually arranged offset from one another, occur around the central area. The raphe is
+broadly lateral, undulate, with external proximal raphe ends rounded. External distal raphe ends extend
+straight onto the valve mantle at both apices. Costate striae radiate, except at the headpole where they become
+nearly parallel. Striae 17–20/10 µm. Apical pore field small. Septa and pseudosepta at the poles, indistinct.
+Observations:—This size series is very similar to G. skabitchevskii, differing only slightly in the outline
+of the valve. This populations looks to be slightly more robust than the new species described here.
+Gomphoneis skabitchevskii Kociolek, Kulikovskiy & Solak, sp. nov. (Figs 251–260, 410–411)
+Valves elliptical-clavate, with headpole not protracted and rounded, footpole narrowly rounded. Length 7–19
+µm, breadth 3–5 µm. Axial area narrow, expanded laterally to form a rectangular central area bordered by 1–2
+shortened striae margin more coarsely arranged than other striae. 4 stigmoids occur around the central area,
+positioned at the ends of striae. Raphe is broadly lateral, undulate, with external proximal raphe ends rounded.
+External distal raphe ends extend straight onto the valve mantle at both apices. Costate striae radiate, except
+parallel at the headpole. Striae 17–21/10 µm. Apical pore field small. Septa and pseudosepta at poles,
+indistinct.
+SEM shows the valve of G. skatichevskii to have 4 isolated stigmoids which are round in shape both
+internally (Fig. 410) and externally (Fig. 411). The valve interior has proximal raphe ends that are recurved in
+the same direction, and prominent helictoglossae at the poles (Fig. 410). Small pseudosepta are present at the
+apices. Externally, the striae are shown to have double rows of areolae that terminate near the axial area with
+one or two areolae. The proximal raphe ends are dilated, and the raphe is undulate. The apical pore field
+porelli are very similar to the areolae in shape and size (Fig. 411).
+Type:—RUSSIA: Lake Baikal, Kapustinskaya Bay, N52o38.484, E107 o23.218, 17.07.2011, leg. M.
+Kulikovskiy (IBIW slide no. 18580m, holotype designated here (= Fig. 258); COLO slide no. 18580p, SZCZ
+slide no. 18580a, isotypes).
+Gomphoneis cf. reichardtii (Figs 261–282, 420–421)
+Valves linear-elliptical clavate, tumid at center, with headpole barely protracted and rounded, footpole
+narrowly rounded. Length 7–24 µm, breadth 3–5 µm. Axial area narrow, expanded laterally to form a
+rectangular to bow-tie shaped central area that is usually asymmetrical, with one side of the central area being
+slightly larger than the other, bordered by 1–2 shortened striae that are more coarsely arranged than the other
+striae. 4 stigmoids occur around central area, positioned at ends of striae. Raphe is broadly lateral, undulate,
+with external proximal raphe ends rounded. External distal raphe ends extend straight onto the valve mantle at
+both apices. Costate striae radiate, except at headpole where they become nearly parallel. Striae 13–17/10 µm.
+Apical pore field small. Septa and pseudosepta at the poles, indistinct.
+This species has a valve interior with a small central nodule and relatively large helictoglossae (Fig. 420).
+Stigmoidal opening are simple and round. The proximal raphe ends are deflected in the same direction.
+Pseudosepta are present at the apices (Fig. 420). The exterior of the valve has indistinct stigmoids, small,
+round, slightly dilated proximal raphe ends (Fig. 421). The apical pore field is located on the mantle (Fig.
+421).
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 17
+
+Gomphoneis baicaliana Kociolek & Kulikovskiy, sp. nov.(Figs 283–286)
+Valves broadly lanceolate-clavate, with both apices broadly rounded. Length 35–60 µm, breadth 9–11 µm.
+Axial area narrow, expanded into irregularly-expanded central area, with 4–5 shortened striae bordering the
+central area on either side. Stigmoids wanting. Raphe lateral, with dilated external proximal ends. External
+distal raphe ends deflect onto mantle, curving well before valve terminus. Costate striae radiate near the center
+of the valve, becoming parallel to slightly convergent towards the ends. Striae 14–17/10 µm. Apical pore
+fields distinct at the footpole. Septa and pseudosepta present, distinct at the footpole.
+Type:—RUSSIA: Lake Baikal, Cape Khoboj, stones and algae, 1998, Darwin Initiative sample (COLO
+slide for Station 9, number 9, holotype designated here (= Fig. 285); IBIW slide no. Station 9, number 9m,
+isotype).
+Observations:—Distinguished by the larger, proportionately broader valves, and the more broadly
+rounded apices.
+Gomphoneis fourtanierae Kociolek & Kulikovskiy, sp. nov. (Figs 287–306 402–404)
+Valves clavate with headople protracted and rostrate, footpole rounded. Length 19–55 µm, breadth 5–11 µm.
+Axial area very narrow, straight, broadening to form a rectangular to bow-tie shaped central area, bordered on
+each side by 1–2 shortened striae which area more coarsely arranged than other striae. Stigmoids in the central
+area wanting. Raphe barely lateral, straight, with external proximal raphe ends dilated slightly. Striae costate,
+radiate near the central area, becoming parallel to slightly convergent towards both poles. Striae 15–18/10 µm.
+Apical pore fields not visible on the valve face. Small septa and pseudosepta present at the poles.
+In the SEM, this species is shown to have small pseudosepta at the apices (Figs 402–404), with the pore field
+having thin ribs (Fig. 404). Proximal raphe ends are recurved in the same direction, being located on
+irregularly-shaped central nodule. Helictoglossae are also present near the poles (Figs 402–404).
+Type:—RUSSIA: Lake Baikal, Cape Khoboj, stones and algae, 1998, Darwin Initiative sample (COLO, slide
+for Station 9, number 9, holotype designated here (= Fig. 288); IBIW slide no. Station 9, number 9m, isotype).
+Etymology:—Named in honor our friend and colleague, of Dr. Elisabeth Fourtanier, in honor of her
+outstanding contributions to diatom research.
+Observations:—This species is proportionally more stout, and the apices less protracted, as compared to
+G. capitata.
+Gomphoneis potapovae Kociolek & Kulikovskiy, sp. nov. (Figs 305–315, 417–419)
+Valves lanceolate-clavate with apices rounded. Length 13–28 µm, breadth 4.0–6.0 µm. Axial area narrow,
+expanded to form a small X-shaped central area, bordered by 2–3 shortened striae on either side near the
+margin. Stigmoids wanting. Raphe weakly lateral, with external proximal raphe ends dilated, distal raphe ends
+deflected onto valve mantle. Costate striae radiate, except parallel towards the headpole. Striae 16–20/10 µm.
+Apical pore fields barely visible. Septa and pseudosepta present at poles.
+In the SEM the central area appears to bear isolated areolae externally (Figs 417, 418), but those are not
+visible internally (Fig. 419). The external proximal raphe ends are dilated slightly, and the apical pore fields
+are positioned almost entirely on the valve mantle (Fig. 417, 418). Internally there are prominent septa, and
+the recurved proximal raphe ends are evident (Fig. 419).
+Type:—RUSSIA: Lake Baikal, Middle Island, Ohlon Gate, 1998, Darwin Initiative sample (COLO slide
+for Station 8, collection 8.0, holotype designated here (= Fig. 307); IBIW slide no. Station 8, collection 8.0m,
+isotype).
+Etymology:—Named in honor of our friend and colleague, Dr. Marina Potapova (Philadelphia), for her
+many contributions to the study of diatoms.
+Observations:—Differs from G. strelnikovae by the larger valves and rounded not protracted headpole.
+
+18 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+PLATE 8: LM. Figs 283–286: Gomphoneis baicaliana sp. nov. Fig. 285 is of the holotype. Figs 287–304: G. fourtanierae sp. nov. Fig.
+288 is of the holotype. Figs 305–315: G. potapovae sp. nov. Fig. 307 is of the holotype. Figs 316–327: G. strelnikovae sp. nov. Fig. 319
+is of the holotype. Figs 328–334: G. minuscula sp. nov. Fig. 333 is of the holotype. Figs 335–352: G. capitata sp. nov. Fig. 336 is of the
+holotype. Scale bar = 10 µm for all figures.
+
+Gomphoneis strelnikovae Kociolek & Kulikovskiy, sp. nov. (Figs 316–327, 412–416)
+Valves lanceolate-clavate, with headpole protracted and apices rounded. Length 12.0–18.5 µm, breadth 3–5
+µm. Axial area narrow, straight, expanded transversely to form a narrow, rectangular central area, bordered by
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 19
+
+1–2 shortened striae on either side. Stigmoids wanting. Raphe lateral, with external proximal raphe ends
+dilated slightly, distal raphe ends deflected onto mantle. Costate striae radiate, except at the headpole where
+they are parallel to weakly convergent. Striae 19–22/10 µm. Apical pore fields absent from valve face. Septa
+and pseudosepta present at poles.
+In the SEM the valve exterior has what appear to be isolated areolae in the central area, of differing sizes.
+The proximal raphe ends are dilated, and the distal raphe ends are deflected before the valve terminus. Apical
+pore fields are found on the valve mantle only (Figs 412–413). Internally, the proximal raphe ends are
+recurved, and helictoglossae are prominent (Figs 414–416). Pseudosepta are small at the valve apex (Figs
+414–416).
+Type:—RUSSIA: Lake Baikal, Middle Island, Ohlon Gate, 1998, Darwin Initiative sample (COLO slide
+for Station 8, number 8.0, holotype designated here (= Fig. 319); IBIW slide no. Station 8, number 8.0m,
+isotype).
+Etymology:—Named in honor of Dr. Nina I. Strelnikova, for her many contributions to the study of
+diatoms.
+Observations:—Gomphoneis strelnikovae differs from G. potapovae by having protracted apices and a
+valve outline that is more rounded, not angular.
+Gomphoneis minuscula Kociolek & Kulikovskiy, sp. nov. (Figs 328–334)
+Valves small, linear-clavate, with poles rounded. Length 8–16 µm, breadth 2–3 µm. Axial area narrow,
+expanded laterally to form a rectangular central area with one shortened stria on either side. 4 isolated
+stigmoids present, indistinct. Raphe barely lateral, with external proximal raphe ends dilated slightly. The
+raphe extends straight on to the mantle at both poles. Striae costate, individual areolae not resolved with LM.
+Striae radiate at the center, become parallel to slightly convergent at the headpole, radiate at the footpole.
+Striae 17–19/10 µm. Small septa and pseudosepta present at the poles. Apical pore fields difficult to
+distinguish at the footpole.
+Type:—RUSSIA: Lake Baikal, Middle Island, Ohlon Gate, 1998, Darwin Initiative sample (COLO slide
+for Station 8, number 8.1, holotype designated here (= Fig. 333); IBIW slide no. Station 8, number 8.1m,
+isotype).
+Gomphoneis capitata Kociolek & Kuliovskiy, sp. nov. (Figs 335–352, 392–395)
+Valves lanceolate-clavate, with headpole protracted, nearly rostrate, footpole protracted, rounded. Length 15–
+19 µm, breadth 3–4 µm. Axial area very narrow, straight, expanded transversely to form a rectangular central
+area bordered on each side near the margin by a shortened stria. Stigmoids indistinct in the central area,
+sometimes only 2 stigmoids evident. Raphe barely lateral, straight, with external proximal raphe ends dilated
+slightly. Striae costate, radiate to nearly parallel in the center, parallel to nearly convergent towards the poles.
+Striae 15–18/ 10 µm. Apical pore field indistinct. Septa and pseudosepta small at both poles.
+Internally, valves of G. capitata appear to express only two of the isolated stigmoids (Figs 393, 394).
+Other features of the valve interior include proximal raphe ends recurved in the same direction, helictoglossae
+aligned with the axis of the raphe, and pseudosepta at the apices (Figs 392–394). Externally, the raphe has
+prominently dilated proximal ends and distal ends that are barely deflected onto the mantle (Fig. 396). Striae
+are doubly-punctate and terminate near the axial area with one or two areolae. The apical pore fields look like
+they are condensed striae (Fig. 396).
+Type:—RUSSIA: Lake Baikal, Middle Island, Ohlon Gate, 1998, Darwin Initiative sample (COLO slide
+for Station 8, number 8.1, holotype designated here ( = Fig. 336); IBIW slide no. Station 8, number 8.1m,
+isotype).
+Observations:—This species is more linear, narrower, and has more protracted apices than G.
+fourtanierae.
+
+20 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+Gomphoneis russica Kociolek & Kulikovskiy, sp. nov. (Figs 353–359)
+Valves lanceolate-clavate with headpole broadly rounded, footpole rounded. Length 47–68 µm, breadth 11–14
+µm. Axial area straight, expanded to form a bow-tie shaped central area, bordered by 4–5 shortened striae on
+either side. Isolated stigmoids general wanting, but 1–2 may rarely be present around the central area. Raphe
+lateral, undulate, with external proximal ends dilated and distal ends deflected onto the valve mantle. Striae
+composed of double rows of areolae, visible with the LM. Striae radiate around the center and to the footpole,
+becoming parallel towards the headpole, 11–15/10 µm. Prominent septa and pseudosepta occur at the poles.
+The apical pore field is not distinguishable from the striae, appearing slightly shorter than striae at the footpole.
+Type:—RUSSIA: Lake Baikal, Cape Khoboj, stones and algae, 1998, Darwin Initiative sample (COLO
+slide for Station 9, number 9, holotype designated here (= Fig. 353); IBIW slide no. Station 9, number 9m,
+isotype).
+
+PLATE 9: LM. Figs 353–359: Gomphoneis russica sp. nov. Fig. 353 is of the holotype. Figs 360–364: G. subrussica sp. nov. Fig. 364
+is of the holotype. Figs 365–367: G. impressa sp. nov. Fig. 366 is of the holotype. Scale bar = 10 for all figures.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 21
+
+Gomphoneis subrussica Kociolek & Kulikovskiy, sp. nov. (Figs 360–364)
+Valves lanceolate-clavate, with apical broadly rounded. Length 29–41 µm, breadth 7–9 µm. Axial area very
+narrow, expanded slightly to form a smallish, irregularly-shaped central area that does not extend to the
+margin. 2–3 shortened striae occur on either side of the central area and are slightly more coarsely arranged
+than other striae. Stigmoids wanting. Raphe lateral, undulate, with external proximal ends rounded and
+external distal ends deflected onto the valve mantle. Costate striae radiate, except at the headpole where they
+become nearly parallel. Striae 10–13/10 µm. Septa and pseudosepta present at the poles. Apical pore fields
+evident, composed of distinct rows of porelli.
+Type:—RUSSIA: Lake Baikal, Cape Khoboj, stones and algae, 1998, Darwin Initiative sample (COLO slide
+for Station 9, number 9, holotype designated here (= Fig. 364); IBIW slide no. Station 9, number 9m, isotype).
+Gomphoneis impressa Kulikovskiy, Kociolek & Solak, sp. nov. (Figs 365–367)
+Valves lanceolate-clavate, tapered broadly to the headpole, narrowly to the footpole. Headpole rounded,
+footpole distinctly rounded. Length 45–66, breadth 9–10 µm. Axial area narrow, broadening to form an
+irregularly elliptical central area with 4–6 isolated stigmoids. Raphe lateral, more or less straight with dilated
+external proximal raphe ends. Internal distal raphe ends distinct. Striae radiate about the center, parallel
+towards the ends, 19–22/10 µm. Not distinctly punctate. Septa and pseudosepta present at the poles, especially
+evident at the footpole. Apical pore fields comprised of condensed rows of striae.
+Type:—RUSSIA: Lake Baikal, Boldakovo, on algae, N52o35.694, E107 o17.142, 16.07.2011, leg. M.
+Kulikovskiy (IBIW slide no. 18572m, holotype designated here (= Fig. 366); COLO slide no. 18572p).
+Observations:—It is not clear to us if the specimen illustrated in figure 365 belongs here, due to the shape
+of the valve, especially the footpole. However, we have only seen one valve with this unique shape to date.
+
+Discussion
+We record here a total number of 31 Gomphoneis taxa from Lake Baikal, 23 of these are new to science and 3
+have been reported previously, and we also show possible species that are closely related to some of the new
+species described herein. Two species we did not record in this survey include G. quadripunctata and G.
+grandicaptata (see below), and both of these were previously reported from the lake (Kociolek & Stoermer
+1988b; Skabitchevsky 1984). Inclusion of these two taxa makes the total number of Gomphoneis in Lake
+Baikal to be 33. It is by far the largest number of taxa of the genus in any one area of the world, let alone in one
+lake. Most of the species in Baikal, 26 of the 33 total (or nearly 80%), are of the stigmoid group, while the
+remainder of the species are astigmate, all of the taxa within the Elegans subgroup. We have not encountered
+any representatives in Baikal of the Herculeana subgroup of the genus, though they have been previously
+reported (Meyer 1930). These previous reports, of G. “herculeanum” from Lake Baikal are probably examples
+of Gomphonema firma Skvortzow (1937: 353). Lakes Ohrid and Prespa have a large number (10) of
+Gomphoneis taxa (even though some of them were described as Gomphonema, see below), and most of them
+are astigmate. Half of the Gomphoneis taxa from these lakes are endemics (Levkov et al. 2007, Levkov &
+Williams, 2011). Eight species of Gomphoneis were reported from Mongolia, but 7 of them were not identified
+(only as “Gomphonema spec.” Metzeltin et al. 2009, plate 171), and 8 new astigmate taxa have been described
+from NW China, in Xinjiang Province (You et al. 2013). This arc between Lakes Ohrid and Prespa, through
+China, Mongolia and Baikal, and the species present along this arc, is worthy of further study to see if there is a
+pattern of evolutionary relationships between the taxa and the regions they inhabit. Kociolek and Stoermer
+(1989, 1993) suggested that, unlike the astigmate group which may have its origins in Lakes Ohrid and Prespa,
+where Gomphoneis transylvanicum (Pantocsek) Krammer in Krammer & Lange-Bertalot (1985: 41) or taxa
+similar to it is at or near the base of the lineage, the most primitive members of the stigmoid-bearing lineage are
+
+22 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+from western North America, including G. elegans. Hence, it might be that Gomphoneis flora of Lake Baikal
+has two different origins, astigmate taxa from the West and taxa with multiple stigmoids from the East.
+Surprisingly, a small percentage of the Gomphoneis taxa identified previously from Lake Baikal are the
+same as those we identified in our samples. Table 1 lists the taxa referred to Gomphoneis in past reports, and of
+these 19 taxa, none of those referred to G. elegans (Kociolek & Stoermer 1986) G. eriense or G. herculeana
+(Kociolek & Stoermer 1988a) were encountered. These species groups account for more than 60% (12 of the
+19) of the Gomphoneis taxa reported. Some of these records, such as G. herculeana, G. eriense and G.
+baicalensis Skvortzow & Meyer (1928: 29) were illustrated (Skvortzow & Meyer 1928 with a single stigma,
+representing a lineage of Gomphoneis (the Herculeana group) that is not present in Lake Baikal. We expect
+these are taxa that should be referred to the genus Gomphonema. Of the taxa listed in Table 1, we did record G.
+hastata, and G. tumida and from Lake Baikal, a mere 10% of the total previously reported.
+The level of endemism of Gomphoneis in Lake Baikal is high. Over 93% (31 of the total 33 taxa) of the
+species and possible species we found in Lake Baikal have only been seen from this lake. The only two that
+have been reported elsewhere are G. quadripunctata and G. tumida (Tuji 2005). While much of Siberia and
+adjoining areas are still to be explored, and there are closely related species present in the area (Reichardt
+2009), we expect that many of the species we have described here will be limited to the Lake. Levels of
+endemism of Gomphoneis species in Lake Ohrid are 50%, and in western North America (where the
+representatives are from the Herculeana subgroup), the levels are comparable. Kociolek (2012) lists 14
+members of the genus from the USA, of which 9 (nearly 65%) are restricted to the western USA. Other taxa
+considered by Kociolek & Stoermer (1988a), but not addressed in the USA on-line flora, would raise that
+percentage.
+In other groups of organisms in Lake Baikal with exceptional levels of endemism, the prevailing model of
+evolution in the lake has been one of one or a few introductions followed by relatively fast divergence or intralacustrine speciation or radiation (Fryer 1991; Martens & Schön 1999), resulting in species flocks. Such data
+has come from morphological observations, and more recently from molecular data. For example, molecular
+support for the idea of a single monophyletic clade of cottoid fishes that rapidly diversified has been offered
+by Kontula et al. (2003), while MacDonald et al. (2005) showed a similar set of relationships for amphipods
+in Lake Baikal. Molecular data from isopods, however, suggests two separate invasions, to explain the six
+endemic species found there (Hidding et al. 2003). Given the possibility of separate origins for the stigmoidbearing (source being western North America) and astigmate groups (source being Lake Ohrid) in Baikal,
+based on the biogeographic implications of the phylogenetic analysis of the genus by Kociolek and Stoermer
+(1989, 1993), it might appear that each of these introductions could have been followed by radiations within
+Lake Baikal.
+We have noted that Gomphoneis species we have encountered were usually found in either the central or
+southern basins of the Lake. For example, a large group of species (e.g. G. eriensioides sp. nov., G. potapovae
+sp. nov., G. strelnikovae sp. nov., G. inconspicua sp. nov., G. skabitchevskii sp. nov.) were found in the southern
+basin only, while another set of species were found only in the central basin of the Lake, near the Ushkani
+Islands (e.g. G. tumida, G. russica sp. nov., G. subrussica sp. nov., G. fourtanierae sp. nov., G. baicaliana sp.
+nov.). Only a few species (G. parahastata sp. nov.) were found in both basins. Dorogostaisky (1923) described
+a similar phenomenon for amphipods in Lake Baikal. Further research will be necessary to explore whether
+the physical separation of species into difference basins reflects evolutionary descent. While amphipods
+(Dorogostaisky 1923) and fish (Kontula et al. 2003) have apparently been able to exploit different habitats,
+including different basins of the lake as well as the different depth regimes, it is not known how diatoms,
+especially those whose growth habit is normally attached to substrates by mucilaginous stalks, can accomplish
+this feat.
+Documentation of stigmoid-bearing and astigmate members of the genus from several localities around
+the world, suggests several of these species need nomenclatural transfers to the genus. We affect those
+transfers here:
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 23
+
+Gomphoneis grandicapitata (Skabitchevsky) Kociolek & Kulikovskiy comb. nov.
+Basionym: Gomphonema grandicapitatum Skabichevskij 1984: 54, pl. 2, figs 1–3.
+Gomphoneis variostigmata (E. Reichardt) Kociolek & Kulikovskiy comb. nov.
+Basionym: Gomphonema variostigmatum E. Reichardt 2007: 123, pl. 10, figs 1–27.
+Gomphoneis marvanii (E. Reichardt) Kociolek & Kulikovskiy comb. nov.
+Basionym: Gomphonema marvanii E. Reichardt 2009: 293, figs 58–87.
+Gomphoneis fonticola (Hust.) Kociolek & Kulikovskiy comb. nov.
+Basionym: Gomphonema olivaceum var. fonticola Hustedt 1945: 942, pl. 40, figs 19–22.
+
+Gomphoneis olivaceolacua (Lange-Bert. & E. Reichardt in Lange-Bert.) Kociolek & Kulikovskiy comb. nov.
+Basionym: Gomphonema olivaceum var. olivaceaolacuum Lange-Bertalot & E. Reichardt in Lange-Bert. 1993: 67, pl.
+80, figs 1–4, pl. 81, fis 3, 4, pl. 82, figs 1–4.
+
+Gomphoneis subolivacea (Levkov & Nakov in Levkov et al.) Kociolek & Kulikovskiy comb. nov.
+Basionym: Gomphonema subolivaceum Levkov & Nakov in Levkov, Krstic, Metzeltin, & Nakov 2007: 69, pl. 176, figs
+1–15.
+
+Gomphoneis perolivaceoides (Levkov) Kociolek & Kulikovskiy comb. nov.
+Basionym: Gomphonema perolivaceoides Levkov in Levkov, Krstic, Metzeltin, & Nakov 2007: 65, pl. 177, figs 1–21.
+
+In addition to recognizing two groups within the Elegans lineage of Gomphoneis, namely those with 4 (or
+more) stigmoids and those where stigmoids or stigma is wanting, we can also observe features shared across
+the two groups. In every one of the Gomphoneis species we observed in Lake Baikal, features shared include
+doubly-punctate striae, apical pore fields at the footpole that are undifferentiated, presence of septa and
+pseudosepta, and a central nodule bearing proximal raphe ends recurved in the same direction.
+There were several taxa and features that were variable across members of the genus. For example G. lata
+has robust interstriae and in some specimens or on certain portions of the valve (apices), striae were composed
+of both 2 and 3 rows of areolae. Gomphoneis lata and G. tumida (see figures 383–387) both exhibited
+stigmoids with teeth-like projections internally, and that feature is also present in G. marvanii (Reichardt
+2009, figure 82).
+Gomphoneis hastata and its allies, as well as G. eriensioides (figures 398, 401), have external stigma
+openings that occur in small depressions on the valve face. Internally, the stigmoids are occluded, and there
+are small openings around the stigma. Also, relative to the stigmoids, G. capitata showed 4 isolated stigmoids
+externally, but only two stigma openings internally (Figs 392–395). Internal stigma openings are not occluded
+in G. capitata sp. nov., and this feature is also seen in G. inconspicua sp. nov. (Fig. 409), G. skabitchevskii sp.
+nov. (Fig. 410) and G. cf. subcapitata (Fig. 406).
+Position of the apical pore field in most Gomphoneis taxa is both on the valve face and valve mantle. This
+is known in both major groups within the genus, and across many taxa in the Elegans subgroup (Kociolek &
+Stoermer 1986, 1988b; Levkov et al. 2007; Tuji 2005; You et al. 2013). There were two taxa in Lake Baikal,
+however, where the apical pore fields were structured differently. In G. potapovae sp. nov. (Figs 417, 418), and
+G. strelinkovae sp. nov. (Fig. 412, 413), the apical pore field does not extend onto the valve face, but rather is
+restricted to the valve mantle; this is also seen in G. sp. cf. reichardtii (Fig. 421).
+This variation in the valve structure in stigmoid or astigmoid groups of Gomphoneis has not been
+recognized previously. Further assessment of these features in recently described, or historically known taxa,
+may help to further resolve evolutionary relationships of the Gomphoneis taxa within and outside of Lake
+Baikal. Such a detailed understanding of the relationships of these taxa may yield an understanding of the
+distributions across the lake and the arc eastward from the Balkans to eastern Asia through NW China,
+Mongolia, Lake Baikal and the Russian Far East to Japan, and westward from North America.
+
+24 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+PLATE 10: SEM. Figs 368–371: Gomphoneis lata. External valve views. Fig. 368: Overall valve view showing robust interstriae,
+thickened central area, straight raphe and isolated stigmoids. Fig. 369: Headpole with raphe extending well onto valve mantle. Fig.
+370: Central area with doubly punctate striae ending as single areolae and isolated stigmoids much larger than the areolae. Fig. 371:
+Footpole, with apical pore field bisected by distal raphe end curving onto mantle, porelli elongate and right next to the striae, and some
+striae composed of 2 or 3 rows of areolae.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 25
+
+26 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+PLATE 11: SEM. Gomphoneis lata. Internal valve views. Fig. 372: Entire valve, showing prominent pseudosepta at the poles. Fig.
+373: Ellipsoidal central nodule bears recurved proximal raphe ends and is bordered by 4 isolated stigmoids. The stigmoids occur in
+depressions and have teeth-like projections that partially occlude the openings. Fig. 374: Footpole, showing robust interstriae and
+pseudoseptum. Fig. 375: Central portion of the valve shows the double rows of areolae that comprise the striae and the ellipsoidal
+central nodule with proximal raphe ends and stigmoids.
+
+PLATE 12: SEM. Gomphoneis hastata. Figs 376–377: Internal valve views. Fig. 376: Entire view, with prominent central area and
+pseudosepta at the poles evident. Fig. 377: Close up of the central area showing an internally elevated central nodule, rectangular in
+shape, bordered by 4 isolated stigmoids located in depressions and the elevated raphe with recurved proximal ends terminating on the
+central nodule. A complex siliceous covering with openings around the base occludes each stigmoidal opening. Figs 378–379:
+External valve views. Views of central area and valve face-mantle area. Central area show proximal raphe ends elongate and dilated,
+and each of the four stigmoids is in a round depression. Doubly punctate striae extend from the face to the mantle. Areolae comprising
+the striae are round and unoccluded. G. parahastata. Figs 380–381: External valve views. Fig. 380: Entire valve view showing
+elongated, dilated proximal raphe ends, rounded central area with 5 isolated stigmoids and doubly-punctate striae that terminate in
+single areolae around the central area and along the axial area. Fig. 381: View of the valve from the central area to the footpole.
+Areolae of the striae are round and unoccluded. The isolated stigmoids occur in depressions in the central area. Striae terminate around
+the central area and along the axial area in single areolae. The apical pore field at the footpole is bisected by the distal raphe end and is
+composed of porelli that are condensed but not differentiated from the areolae.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 27
+
+28 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+PLATE 13: SEM. Gomphoneis tumida. Figs 382–387: Fig. 382: External valve view. Arcuate raphe has dilated proximal ends and
+deflects onto the mantle at the poles. Striae are composed of round areolae in two rows. Figs 383–387: Internal valve views. Fig. 383:
+Full valve view showing rounded central area and prominent pseudosepta at the poles. Fig 385: Specimen without girdle bands shows
+septa at the poles and the large helictoglossae. Fig. 386: View of valve from central area to footpole, showing narrow axial area, and
+robust striae and interstriae. Septum is evident at footpole. Fig. 384: Central area showing the proximal raphe ends recurved in the
+same direction and rounded to ellipsoidal stigma openings occluded by teeth-like projections. Fig. 387: Central area showing the
+inwardly raised central nodule, with the stigmoids in depressions around the base and the elevated raphe ends recurved at its margin. G.
+sublanceolata. Fig. 388: External valve view shows the dilated proximal raphe ends, simple, rounded stigmoidal openings and striae
+composed of rounded, unoccluded areolae. The striae terminate with a single areola along the length of the valve.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 29
+
+PLATE 14: SEM. Gomphoneis metzeltinii. Figs 389–391: Extenal valve views. Figs 389, 390: Whole valve views should fine striae
+and indistinct stigmoids. Proximal raphe ends are dilated slightly. Fig. 391. Footpole shows the rounded porelli of the apical pore field
+appear as condensed striae. G. capitata. Figs 392–396: Figs 392–395: Internal valve views. Figs 392–394: Entire valve views. Fig.
+392: Specimen with girdle bands shows septa at the poles, wide, rectangular central area and central nodule with recurved proximal
+raphe ends. Fig. 393: Specimen lacking girdle bands revealing the smaller pseudosepta at the poles. The helictoglossae are evident
+also. Only two stigmoid openings are evident around the central nodule. Fig. 394: Specimen without girdle bands, showing
+pseudosepta, recurved proximal raphe ends on small central nodule, and helictoglossae at the poles. Fig. 395: Internal valve view
+showing only two prominent stigmoidal opening. The appear simple, without occlusions. Fig. 396: External valve view. The valve has
+proximal raphe ends that are prominently dilated, and has 2 types of stigmoidal openings, one larger and one smaller.
+
+30 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 31
+
+PLATE 15: SEM. Gomphoneis eriensioides Fig. 397: External valve view, showing 5 isolated stigmoids in the central area, rounded
+and dilated proximal raphe ends and the distal raphe ends deflected onto the mantle at both the headpole and footpole. Figs 398, 399:
+External valve view showing dilated proximal raphe ends and stigmoids in round, sunken depressions. Fig 399: External view of
+apical pore field, with porelli appearing as condensed striae. Fig. 400: Internal valve view showing small pseudosepta and
+helictoglossae at poles, a small central nodule with proximal raphe ends recurved in the same direction and bordered by isolated
+stigmoids. One stigmoid opening has teeth-like projections. G. cf. eriensioides. Fig. 401: External valve view showing undulate raphe
+branches, dilated proximal raphe ends and stigmoidal openings in round depressions. G. fourtanierae. Figs 402–404: Internal views.
+Figs 402–403 entire valve views. Both figures show the recurved proximal raphe ends, prominent helictoglossa and pseudosepta at the
+poles. Fig. 404: Footpole with helictoglossa and narrow pseudoseptum evident. Siliceous bars are present at the apical pore fields,
+similar to interstriae.
+
+PLATE 16: SEM. Gomphoneis sp. cf. subcapitata. Fig. 405: External valve view showing outline of the valve, the close and slightly
+dilated proximal raphe ends and stigmoids that are offset from one another. G. cf. subcapitata. Fig. 406: Internal valve view showing
+relatively large helictoglossae at the poles. The central nodule is ellipsoidal, and has around its base 4 isolated stigmoids. Recurved
+proximal raphe ends terminate on the central nodule. Small pseudosepta are present at the poles. G. subcapitata. Fig. 407: Internal
+valve view shows broader interstriae, helictoglossae and pseudosepta. G. inconspicua. Figs 408–409: Fig. 408: External valve view.
+Striae composed of double rows of areolae, terminating at the axial area in single areolae are separated by relatively wide interstriae.
+Proximal raphe ends are dilated, and isolated stigmoids are indistinct. Fig. 409: Internal view showing simple stigmoid openings,
+proximal raphe ends with recurved in the same direction, a helictoglossa offset from the raphe branch, and a very narrow
+pseudoseptum at the footpole. G. skabitchevskii. Fig. 410: Internal valve view shows raphe with helictoglossae at the poles and
+proximal ends recurved on the central nodule. Four stigmoids, with simple openings, are positioned around the base of the internally
+raised central nodule. Fig. 411: External valve view shows the double rows of round areolae, many of them terminating near the axial
+area in a single areola. The raphe is slightly undulate and has dilated proximal ends. The isolated stigmoids are barely differentiated
+from the areolae, and two of the stigmoids look larger than the other two. Porelli of the apical pore field look similar to the areolae,
+extending onto the mantle.
+
+32 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 33
+
+PLATE 17: SEM. Gomphoneis strelnikovae. Figs 412–416: Figs 412, 413: External valve views showing the raph brach with dilated
+proximal raphe ends. Even though the striae around the central area terminate with a single areolae, there are not stigmoids internally.
+The apical pore field is positioned entirely on the valve mantle, porelli do not extend onto the valve face. Figs 414–416: Internal
+views. The central nodule is not well distinguished from the rest of the central area, and bears the proximal raphe ends that recurved in
+the same direction. Helictoglossae and pseudosepta are present at the poles. G. potapovae. Figs 417–419: Figs 417–418: External
+valve views showing straight raphe with slightly dilated proximal ends. The doubly punctate striae end in single areolae; those around
+the central area appear larger than others. Porelli are located on the valve mantle. Fig. 4192: Internal valve view with septa evident at
+the poles, along with helictoglossae. The central nodule is raised internally, and bears the proximal raphe ends recurved in the same
+direction. G. sp. cf. reichardtii. Figs 420–421: Fig. 420: Internal valve view with 4 isolated stigmoids evident. Their openings are
+simple. The central nodule is small, and bears recurved proximal raphe ends. The poles have helictoglossae and pseudosepta. Fig. 421:
+External view showing the apical pore field restricted to the valve mantle. The raphe is slightly undulate, and the proximal raphe ends
+are dilated.
+
+34 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+PLATE 18: SEM. Gomphoneis reichardtii. Figs 422–424: Fig. 422: External valve view with stigmoids evident. The raphe is straight
+and the proximal ends are dilated. The apical pore field is positioned only on the valve mantle. Figs 423–424: Internal valve views
+with pseudosepta and helictoglossae evident at the poles. Stigmoids occur around the internally raised central nodule.
+
+Acknowledgement
+We are very appreciative to Manfred Ruppell and Prof. Dr. Horst Lange-Bertalot for some SEM pictures used
+in this publication. This work benefited from the constructive comments of two reviewers. This work was
+partly supported by the RFBR (12-04-33078 mol_a_ved) and Russian President Foundation (MK5681.2012.4) for M.S.K. and by the Polish Ministry of Science and High Education (N304017840) for M.S.K.
+and C.N.S.
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 35
+
+References
+Boyer, C.S. (1927) Synopsis of North American Diatomaceae, Supplement. Part 2. Naviculatae, Surirellatae.
+Proceedings of the Academy of Natural Sciences of Philadelphia 79: 229–583.
+Cleve, P.T. (1894). Synopsis of naviculoid diatoms. Part I. Kongliga Svenska-Vetenskaps Akademiens Handlingar 26: 1–
+194.
+Dawson, P.A. (1974) Observations on diatom species transferred from Gomphonema C.A. Agardh to Gomphoneis Cleve.
+British Phycological Journal 9: 75–82.
+http://dx.doi.org/10.1080/00071617400650091
+Dorogostaisky, V.C. (1923) Distribution vertical et horizontale de la faune du lac Bajcal. Rec. de. Trav. Des Proff. De l
+Univ. d’etat á Irkoutsk Sci. Nat. 4: 102–131.
+Ehrenberg, C.G. (1832) Über die Entwicklung und Lebensdauer der Infusionsthiere, Nebst ferneren Beiträgen zu einer
+Vergleichung ihrer organischen Systeme. Abhandlungen der Königlichen Akademie Wissenschaften zu Berlin 1831:
+1–154.
+Ehrenberg, C.G. (1838) Die Infusionthierchern als vollkommene Organismen. Ein Blick in das tiefere organische Leben
+de Natur. Leoplod Voss, Leipzig. 548p.
+Flower, R.J. (2005) A review of diversification trends in diatom research with special reference to taxonomy and
+environmental applications using examples from Lake Baikal and elsewhere. In: J.P. Kociolek & A. Witkowski
+(eds), Diatoms: Taxonomy and Ecology: A Marriage of Necessity. Proceedings of a Workshop. Proceedings of the
+California Academy of Sciences 56. San Francisco, pp. 107–128.
+Fryer, G. (1991) Comparative aspects of adaptive radiation and speciation in Lake Baikal and the great rift lakes of
+Africa. Hydrobiologia 211: 137–146.
+Genkal, S.I., Popovskaya, G.I. & Kulikovskiy, M.S. (2008) New for science species from the genus Hannaea Patrick
+(Bacillariophyta). International Journal of Algae 10: 321–329.
+http://dx.doi.org/10.1615/interjalgae.v10.i4.20
+Heurck, H. van (1880) Synopsis des Diatomées de Belgique. Atlas. Ducaju et Cie, Anvers. 30 plates.
+Hidding, B., Michel, E., Natyaganova, A.V. & Sherbakov, D.Y. (2003) Molecular evidence reveals a polyphyletic origin
+and chromosomal speciation of Lake Baikal's endemic asellid isopods. Molecular Evolution 12: 1509–1514.
+http://dx.doi.org/10.1046/j.1365-294x.2003.01821.x
+Hustedt, F. (1945) Diatomeen aus Seen und Quellgebieten der Balkan-Halbinsel. Archiv für Hydrobiologie 40: 867–973.
+Kociolek, J.P. & Stoermer, E.F. (1986) Observations on North American Gomphoneis (Bacillariophyceae). II.
+Descriptions and ultrastructure of two new species. Trans. Am. Microsc. Soc. 105: 141–151.
+http://dx.doi.org/10.2307/3226386
+Kociolek, J.P. & Stoermer, E.F. (1988a) Taxonomy, ultrastructure, and distribution of Gomphoneis herculeana, G. eriense
+and closely related species. Proc. Acad. Nat. Sci. Philadelphia 140: 24–97.
+Kociolek, J.P. & Stoermer, E.F. (1988b) Taxonomic and systematic position of the Gomphoneis quadripunctata species
+complex. Diatom Research 3: 95–108.
+http://dx.doi.org/10.1080/0269249x.1988.9705019
+Kociolek, J.P. & Stoermer, E.F. (1989) Phylogenetic relationships and evolutionary history of the diatom genus
+Gomphoneis. Phycologia 28: 438–454.
+http://dx.doi.org/10.2216/i0031-8884-28-4-438.1
+Kociolek, J.P. & Stoermer, E.F. (1993) Freshwater gomphonemoid diatom phylogeny: Preliminary results.
+Hydrobiologia 269/270: 31–38.
+http://dx.doi.org/10.1007/bf00028001
+Kontula, T., Kirilchik, S.V. & Väinölä, R. (2003) Endemic diversification of the monophyletic cottoid fish species flock
+in Lake Baikal explored with mtDNA sequencing. Molecular Phylogenetics and Evolution 27: 143–155.
+http://dx.doi.org/10.1016/s1055-7903(02)00376-7
+Krammer, K. & Lange-Bertalot (1985) Naviculaceae Neue und wenig bekannte Taxa, neue Kombinationen und
+Synonyme sowie Bemerkungen zu einigen Gattungen. Bibliotheca Diatomologica 9: 5–230.
+Krammer, K. & Lange-Bertalot (1991) Bacillariophyceae 4. Teil: Achnanthaceae, Kritische Erganzungen zu Navicula
+(Lineolatae) und Gomphonema Gesamtliteraturverzeichnis Teil 1-4. In: H. Ettl et al., Suesswasserflora von
+Mitteleuropa. VEB Gustav Fisher Verlag, Jena, Vol: 2, Issue: 4, 437p.
+Kulikovskiy, M.S., Lange-Bertalot, H., Witkowski, A. & Khursevich, G.K. (2011) Achnanthidium sibiricum
+(Bacillariophyta), a new species from bottom sediments in Lake Baikal. Algological Studies 136/137: 77–87.
+http://dx.doi.org/10.1127/1864-1318/2011/0136-0077
+Kulikovskiy, M.S., Lange-Bertalot, H., Khursevich, G.K. & Kuznetsova, I.V. (2012a) New diatom species of the genus
+Eolimna (Bacillariophyceae) from Lake Baikal. Novosti sistematiki nizschih rasteniy 46: 46–51.
+
+36 •
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+KOCIOLEK ET AL.
+
+Kulikovskiy, M., Lange-Bertalot, H., Metzeltin, D. & Witksowski, A. (2012b) Lake Baikal: Hotspot of endemic diatoms.
+Iconographia Diatomologica 23: 1–607.
+Kulikovskiy M.S., Witkowski A. & Khursevich G.K. (2012c) Encyonema horstii sp. nov., a species of unusual valve
+outline from Pleistocene deposits of Lake Baikal. Nova Hedwigia, Beiheft 141: 365–374.
+Kulikovskiy, M.S., Lange-Bertalot H. & Witkowski A. (2013) Gliwiczia gen. nov. a new monoraphid diatom genus from
+Lake Baikal with a description of four species new for science. Phytotaxa 109(1): 1–16.
+http://dx.doi.org/10.11646/phytotaxa.109.1.1
+Lange-Bertalot, H. (1993) 85 neue taxa und über 100 weitere neu definierte Taxa ergänzend zur Süwasserflora von
+Mitteleuropa, Vol. 2/1-4. Bibliotheca Diatomologica 27: 1–164.
+Levkov, Z., Krstic, S., Metzeltin, D. & Nakov, T. (2007) Diatoms of lakes Prespa and Ohrid, about 500 taxa from ancient
+lake systems. Iconographia Diatomologica 16: 1–613.
+Levkov, Z., Williams, D.M. (2011) Fifteen new diatom (Bacillariophyta) species from Lake Ohrid, Macedonia.
+Phytotaxa 30: 1–41.
+MacDonald, K.S. III, Yampolsky, L. & Duffy, J.E. (2005) Molecular evidence reveals a polyphyletic origin and
+chromosomal speciation of Lake Baikal's endemic asellid isopods. Molecular Phylogenetics and Evolution 35: 323–
+343.
+http://dx.doi.org/10.1046/j.1365-294x.2003.01821.x
+Martens, K. & Schön, I. (1999) Crustacean biodiversity in ancient lakes: A review. Crustaceana 72: 899–910.
+http://dx.doi.org/10.1163/156854099503807
+Metzeltin, D., Lange-Bertalot, H. & Nergui, S. (2009) Diatoms in Mongolia. Iconographia Diatomologica 20: 3–686.
+Meyer, C.I. (1930) Einfuhrung in die Algenflora des Baicalsees. Biulleten Moskovskogo Obshchestva Ispytatelei Prirody,
+Otdel Biologicheskii 39: 179–396.
+Pantocsek, J. (1892) Beiträge zur Kenntnis der Fossilen Bacillarien Ungarns. Teil III, Süsswasster Bacillarien. Anhanganalysen 15 neuer Depots von Bulgarien, Japan, Mahern, Russland und Ungarn. Julius Platzko, Nagyy-Taplcsany.
+42 pls.
+Reichardt, E. (2007) Neue und wenig bekannte Gomphonema-Arten (Bacillariophyceae) mit Areolen in Doppelreihen.
+Nova Hedwigia 85: 103–137.
+http://dx.doi.org/10.1127/0029-5035/2007/0085-0103
+Reichardt, E. (2009) New and recently described Gomphonema species (Bacillariophyceae) from Siberia. Fottea 9: 289–
+297.
+Ross, R. & Sims, P.A. (1978) Notes on some diatoms from the Isle of Mull, and other Scottish localities. Bacillaria 1:
+151–168.
+Skabitchevsky, A.P. (1984) Species Gomphonematis Ag. (Bacillariophyta) Lacus Baical. Novitates Systematicae
+Plantarum Non Vascularium. Academia Scientiarum URSS Institutum Botanicum Nomine V.L. Komarovii) (Novosti
+Sistematiki Nizschikh Rastenii 21: 51–62.
+Skabitchevsky, A.P. (1985) Species of Gomphonema Ag. (Bacillariophyta) in Lake Baikal. Biulleten Moskovskogo
+Obshchestva Ispytatelei Prirody, Otdel Biologicheskii 90: 92–103.
+Skabitchevsky, A.P. (1987) Materies ad floram Bacillariophytorum zonae sublitoralis Lacus Baical. Novitates
+Systematicae Plantarum Non Vascularium. Academia Scientiarum URSS Institutum Botanicum Nomine V.L.
+Komarovii) 24: 72–79.
+Skvortzow, B.W. (1937) Bottom diatoms from Olhon Gate of Lake Baikal. Philippine Journal of Science 62: 293–377.
+Skvortzow, B.W. & Meyer, C.I. (1928) A contribution to the diatoms of Baikal Lake. Proceedings of the Sungaree River
+Biological Station 1: 1–55.
+Tuji, A. (2005) Taxonomy of the Gomphoneis tetrastigmata species complex. Bulletin of the National Science Museum,
+Tokyo, Series B 31: 89–108.
+Wislouch, S.M. (1924) Beitrage zur Diatomeenflora von Asien. I. Neuer Untersuchungen über die Diatomeen des
+Baikalsees. Bericht der Deutschen Botanischen Gesellschaft 42: 163–173.
+You, Q., Kociolek, J.P. & Wang, X. (2013) New Gomphoneis Cleve (Bacillariophyceae) species from Xinjiang Province,
+China. Phytotaxa 103: 1–24.
+http://dx.doi.org/10.11646/phytotaxa.103.1.1
+
+THE DIATOM GENUS GOMPHONEIS CLEVE (BACILLARIOPHYCEAE)
+
+Phytotaxa 154 (1) © 2013 Magnolia Press
+
+• 37
+
+

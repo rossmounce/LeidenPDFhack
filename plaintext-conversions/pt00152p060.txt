@@ -1,0 +1,120 @@
+Phytotaxa 152 (1): 59–60 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.152.1.8
+
+Senecio imbaburensis, proposed name for Lasiocephalus sodiroi in the genus
+Senecio (Asteraceae)
+KAROL MARHOLD1,2 & PETR SKLENÁŘ1
+1
+
+Charles University in Prague, Faculty of Science, Department of Botany, Benátská 2, CZ-128 01 Praha, Czech Republic;
+email Karol.Marhold@savba.sk
+2
+Institute of Botany, Slovak Academy of Sciences, Dúbravská cesta 9, SK-845 23 Bratislava, Slovak Republic
+
+Lasiocephalus Willd. ex Schlechtendal (1818: 308), as traditionally circumscribed (e.g., by Cuatrecasas 1978,
+Dušková et al. 2010), is a neotropical genus of ca 25 species confined to the Andes and distributed from
+Venezuela to Bolivia. Nevertheless, recent studies by Pelser et al. (2007, 2010) have shown that based on
+phylogenetic analyses of nrITS and plastid DNA sequence data, species of the genus Lasiocephalus are
+deeply embedded in Senecio Linnaeus (1753: 866), and, consequently, should be transferred into this latter
+genus. In fact, a number of species of Lasiocephalus were originally described as Senecio or had been, at
+some point, transferred into Senecio so only few transfers are necessary.
+Lasiocephalus sodiroi (Hieronymus 1900: 63) Cuatrecasas (1990: 313) is based on the name Culcitium
+sodiroi Hieron., described by Hieronymus (1900: 63−64) from “[Ecuador,] summis pascuis montium
+Imbabura et Chimborazo”, based on unnumbered specimens collected by Sodiro. The type specimen was
+originally deposited in B, where it was destroyed in 1943 [see photo no. 18150 at F (F0BN018150); Field
+Museum 2012] and a lectotype was subsequently selected by Cuatrecasas (1990), see below. Apart from the
+two localities mentioned in protologue, the species is known from a few additional localities in Ecuador
+(Cuatrecasas 1990, Sklenář (2001) and Sklenář, unpublished data); however, in contrast to Sklenář 2001, the
+population in Carchi is now considered to belong to Senecio (Lasiocephalus) gargantanus (Cuatrecasas 1942:
+29) Cuatrecasas (1950: 44). Following some authors (Sklenář 2001, The Plant List 2010, Flann 2009+,
+urn:lsid:compositae.org:names:9D3C0615-0F67-4F11-8223-1EE0FFC39CC8) it seems that the
+corresponding name in the genus Senecio is Senecio sodiroi (Hieron.) Cuatrecasas (1950: 45), which is indeed
+based on Culcitium sodiroi Hieronymus (1900: 63).
+However, the name Senecio sodiroi (Hieron.) Cuatrec. is a later homonym of the name Senecio sodiroi
+Hieronymus (1900: 73). The latter species was described by Hieronymus based on a specimen collected in
+“[Ecuador,] regione subtropica alt. s. m. 900−2000 m prope Canzacoto, etc.” (Hieronymus 1900: 73−74;
+Sodiro 60/2). Currently this species is treated within the genus Pseudogynoxys as Pseudogynoxys sodiroi
+(Hieronymus 1900: 73) Cuatrecasas (1964: 150) (Pruski 1996). According to the recent studies (Pelser et al.
+2002, 2007, 2010) the genus Pseudogynoxys is well separated from both Senecio and Lasiocephalus.
+Consequently, following Art. 6.11 and Art. 53 of the Code (McNeill et al. 2012), a replacement name
+should be published, which is done here as follows:
+Senecio imbaburensis Sklenář & Marhold, nom. nov.
+≡ Culcitium sodiroi Hieronymus (1900: 63).
+≡ Senecio sodiroi (Hieron.) Cuatrecasas (1950: 45), nom. illeg., non Hieronymus (1900: 73).
+≡ Lasiocephalus sodiroi (Hieron.) Cuatrecasas (1990: 313).
+Lectotype (designated by Cuatrecasas 1990: 313):—ECUADOR. Riobamba [below Chimborazo], s.a., Sodiro s.n. (P).
+
+Accepted by Alexander Sennikov: 18 Nov. 2013; published: 11 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+59
+
+Acknowledgements
+This research was supported by the Czech Science Foundation (project no. 206/07/0273), as well as by the
+institutional funds of the Charles University in Prague, Faculty of Science. The authors thank Vicki Funk for
+comments and for revision of the English.
+
+References
+Cuatrecasas, J. (1942) Notas a la flora de Colombia, V. Revista de la Academia Colombiana de Ciencias Exactas, Físicas
+y Naturales 5 (17): 16−39.
+Cuatrecasas, J. (1950) Studies on Andean Compositae 1. Fieldiana, Botany 27: 1−53.
+Cuatrecasas, J. (1964) Micelanea sobre flora Neotropica, I. Ciencia (Mexico) 23: 137−151.
+Cuatrecasas, J. (1978) Studies in Neotropical Senecioneae, Compositae I. Reinstatement of genus Lasiocephalus.
+Phytologia 40: 307–312.
+Cuatrecasas, J. (1990) Miscellaneous notes on Neotropical flora, XIX. Combinations in Senecioneae, Compositae.
+Phytologia 69: 313–315.
+Dušková, E., Kolář, F., Sklenář, P., Kubešová, M., Rauchová, J., Fér, T., Suda, J. & Marhold, K. (2010) Genome size
+correlates to growth forms, habitat and phylogeny in the Andean genus Lasiocephalus (Asteraceae). Preslia 82:
+127–148.
+Field Museum (2012) FMNH Botany Collection: Berlin negatives. Published on the Internet; http://
+emuweb.fieldmuseum.org/botany/search_berlin.php, accessed: 30 October 2013.
+Flann, C. (ed.) (2009+) Global
+Compositae checklist. Published on
+the Internet:
+http://
+compositae.landcareresearch.co.nz/, accessed: 19 October 2013.
+Hieronymus, G. (1900) Compositae. In: Sodiro, A., Plantae ecuadorenses. II. Botanische Jahrbücher für Systematik,
+Pflanzengeschichte und Pflanzengeographie 29: 1–85.
+Linnaeus, C. (1753) Species plantarum. Impensis Laurentii Salvii, Holmiae, 1200 pp.
+McNeill, J., Barrie, F.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K., Prado,
+J., Prud’homme van Reine, W.F., Smith, G.F., Weirsema, J.H. & Turland, N.J. (2012) International Code of
+Nomenclature for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154: I–XXX + 1–208.
+Pelser, P.B., Gravendeel, B. & van der Meijden, R. (2002) Tackling speciose genera: Species composition and
+phylogenetic position of Senecio sect. Jacobaea (Asteraceae) based on plastid and nrDNA sequences. American
+Journal of Botany 89: 929–939.
+http://dx.doi.org/10.3732/ajb.89.6.929
+Pelser, P.B., Kennedy, A.H., Tepe, E.J., Shidler, J.B., Nordenstam, B., Kadereit, J.W. & Watson, L.E. (2010) Patterns and
+causes of incongruence between plastid and nuclear Senecioneae (Asteraceae) phylogenies. American Journal of
+Botany 97: 856–873.
+http://dx.doi.org/10.3732/ajb.0900287
+Pelser, P.B., Nordenstam, B., Kadereit, J.W. & Watson, L.E. (2007) An ITS phylogeny of tribe Senecioneae (Asteraceae)
+and a new delimitation of Senecio L. Taxon 56: 1077–1104.
+http://dx.doi.org/10.2307/25065905
+Pruski, J.F. (1996) Pseudogynoxys lobata (Compositae: Senecioneae), a new species from Bolivia and Brazil. Systematic
+Botany 21: 101–105.
+http://dx.doi.org/10.2307/2419566
+Schlechtendal, D.F.L. von (1818) Lasiocephalus, eine neue Pflanzen-Gattung. Der Gesellschaft Naturforschender
+Freunde zu Berlin Magazin für die neuesten Entdeckungen in der Gesammten Naturkunde 8: 308–309.
+Sklenář, P. (2001) Notes on taxonomy, distribution and ecology of some Ecuadorian high páramo Asteraceae, tribe
+Senecioneae. Compositae Newsletter 36: 1–8.
+The Plant List (2010). The Plant List. Version 1. Published on the Internet; http://www.theplantlist.org/, accessed: 19
+October 2013.
+
+60 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+MARHOLD & SKLENÁŘ
+
+

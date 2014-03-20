@@ -1,0 +1,316 @@
+Phytotaxa 96 (1): 54–62 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.96.1.2
+
+Delimitation in the Veratrum mengtzeanum—V. chiengdaoense complex
+(Melanthiaceae) in Thailand based on morphology, with commentary on
+conservation status
+ANNA TRIAS-BLASI1* & PIYAKASET SUKSATHAN2
+1
+2
+
+Herbarium, Library, Art and Archives, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AB, UK; e-mail: a.triasblasi@kew.org
+Queen Sirikit Botanic Garden, PO Box 7, Mae Rim, Chiang Mai, 50180, Thailand
+
+Abstract
+The two species of Veratrum in Thailand, V. mengtzeanum and V. chiengdaoense, are supported as conspecific
+with a detailed morphological study. Two distinct subspecies of V. mengzeanum s.l. are defined based on
+morphology and distribution, and a new subspecies, Veratrum mengzeanum subsp. phuwae is described.
+Conservation assessments are provided for both subspecies.
+
+Introduction
+Melanthiaceae comprise five tribes of mainly perennial herbs occurring in the temperate zones (occasionally
+extending to Arctic zones) of the Northern Hemisphere (APG 2009; Tamura 1998; Zomlefer et al. 2001,
+2003). Veratrum (26-50 species) is the largest genus in tribe Melanthieae (Tamura (1998); Chen & Takahashi
+2000; Stevens 2001 onwards; Govaerts 2012). The species inhabit a wide range of habitats and vary
+morphologically mainly in characters of habit, leaves, tepals and perigonal nectaries (Zomlefer et al. 2003).
+Synapomorphies for Veratrum include dendritic pubescence of the vegetative parts (at least upper stem/
+inflorescence) and broadly winged seeds (Zomlefer 1997; Zomlefer et al. 2003).
+Initial revisionary work by the first author on Veratrum for the Flora of Thailand indicated two species:
+Veratrum chiengdaoense Larsen (1961: 346), a narrow endemic from Doi Chiangdao (Chiang Mai province)
+in northwestern Thailand (Larsen 1961) and Veratrum mengtzeanum Loesner (1926: 145), native to the
+southwestern Chinese provinces of Yunnan, Guizhou and Sichuan and disjunct to the Doi Phu Wae mountain
+in Doi Phu Kha National Park (Nan province), Thailand. Tanaka (2001) suggested these two species may be
+conspecific. The World Checklist (Govaerts 2012) has recognised them as separate species. Additionally, the
+restricted distribution of V. chiengdaoense raises conservation concerns. Confirmation of conspecificity with
+V. mengtzeanum would suggest a wider distribution and revised conservation status. We thus conducted a
+morphological study to clarify the taxonomic status of these two taxa.
+
+Materials & Methods
+A subset of 11 specimens including the types for each taxon was fully examined. These specimens were
+selected to represent V. chiengdaoense and V. mengtzeanum and geographical areas (Thailand and China).
+Additional specimens were also examined for the descriptions.
+Floral dissections and measurements were made using a Leica M3Z microscope with a calibrated
+eyepiece. Vegetative and inflorescence characters were measured with a digital caliper. Measurements were
+
+54 Accepted by Mark Chase: 3 Apr. 2013; published online in PDF: 26 Apr. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+taken of the largest and smallest exemplar for each organ and 7–10 exemplars of these organs of each
+specimen to establish the range. Measurements also indicate the widest point of an organ. Mean values and
+standard deviation were calculated and plotted on bar graphs (Fig. 1). Absolute numbers were plotted when
+characters or specimens with only one measurement were available (i.e. number of flowers per individual).
+
+FIGURE 1. Bar graphs representing 15 morphological characters (x axis) plotted against 11 specimens (y axis). Whiskers represent
+standard deviation. White bars: V. chiengdaoense; Light grey bars: V. mengtzeanum from China; dark grey bars: V. mengtzeanum from
+Thailand. No bars depicted for unavailable data.
+
+DELIMITATION IN THE VERATRUM MENGTZEANUM—V. CHIENGDAOENSE COMPLEX
+
+Phytotaxa 96 (1) © 2013 Magnolia Press
+
+• 55
+
+Results
+Results are shown in Figure 1. Specimens of Thai V. mengtzeanum (dark grey bars) have shorter filaments and
+pedicels, particularly in male flowers, and a greater number of flowers per individual than those in the rest of
+its range. A limited number of specimens had gynoecia, and results show that the specimen of V.
+mengtzeanum from Thailand (Srisanga 2128) has shorter ovaries (generally by at least 1 mm). According to
+morphology, specimens of V. chiengdaoense (white bars) and Chinese V. mengtzeanum (light grey bars)
+represent a single entity.
+
+FIGURE 2. Distribution map of Veratrum mengtzeanum based on specimen data (dots represent subsp. mengtzeanum; stars represent
+subsp. phuwae).
+
+56 •
+
+Phytotaxa 96 (1) © 2013 Magnolia Press
+
+TRIAS-BLASI & SUKSATHAN
+
+Discussion
+Morphological characters, especially pedicel length and number of flowers per individual, support two
+taxonomic entities. Most other characters overlap, for example, vegetative characters (Fig. 1). Flowers of Thai
+V. mengtzeanum specimens have shorter filaments, and inflorescences have a greater number of flowers per
+individual (Fig. 1: dark grey bars), along with a disjunct geographical distribution (Fig 2: star) support this
+entity as a subspecies. An increase in flower number per individual and reduced length of certain flower parts
+might suggest an adaptation to a specific suite of pollinators (Fenster et al. 2004). Further research is
+necessary to clarify potential speciation processes in these taxa.
+With the limited number of specimens available, it is not known whether the range (Fig. 2) is continuous
+through Lao People's Democratic Republic and Burma or if the known populations (in China and Thailand)
+are disjunct. Such gaps in distribution may be the result of a number of factors, including habitat
+fragmentation, extinction events, environmental changes and dispersal pathways. Alternatively, distribution
+gaps may be an artefact of insufficient collecting in intervening areas. Further discussion on how this
+disjunction affects conservation status of these taxa can be found below .
+
+Taxonomic treatment
+Veratrum mengtzeanum Loesener (1926: 145). Lectotype (designated here):—CHINA. Yunnan: Mengtze
+(Mengtsz), 1829 m, 11 November 1937, Henry 9979 (B!, electronic image with barcode B100365925);
+isolectotypes E (barcode E00061642), K! (barcode K000400441), NY! (electronic images with barcodes
+NY00319944, NY00319945), US! (electronic image with barcode US00091720).
+Veratrum wilsonii Wright ex Loesener (1926: 145). Holotype:—CHINA. Without province: 13 August 1908,
+Wilson seed No. 1567 (K!, electronic image with barcode K000400440)).
+Veratrum chiengdaoense Larsen (1961: 346) as “chiengdaoënse”. Holotype:—THAILAND. Chiang Mai: Doi
+Chiangdao [as Chiengdao], 18 October 1926, Put 388 (K!, electronic images with barcodes K000291993,
+K000291994); isotypes BK! (barcode 257143), BM! (barcode BM000071950)).
+Plants to 1.5 m tall. Mostly andromonoecious, sometimes polygamous or androecious. Bulb 3.5–7.5 × 2.0–4.0
+cm, with brownish papyraceous tunic becoming fibrous apically; rhizome not seen. Scape terete, stout,
+glabrous to pubescent. Scape bracts foliaceous, 5–10, basal and cauline, sessile, linear to narrowly lanceolate,
+10.0–61.0 × 1.0–3.5 cm (diminishing in size towards the apex of the plant), base sheathing (particularly basal
+leaves), sheaths closed or absent, margin entire, apex acute, both surfaces glabrous but occasionally pilose on
+the proximal margin. Inflorescence lax with 16–226 flowers, 19–75 cm long, erect, with 1 terminal raceme
+and 2–15 basal secondary racemes, 3.1–17.0 cm long, spreading to ascending, tertiary racemes sometimes
+present, axes tomentose; bracts ovate to lanceolate, foliaceous, 0.8–5.5 cm long, tomentose; pedicels 2.6–22.0
+mm long, exceeding bracts, tomentose. Flowers staminate or hermaphroditic, cup-shaped to rotate. Tepals 6,
+4.0–13.0 × 2.5–7.0 mm, whitish or greenish, yellowing with age, spreading, elliptic-spatulate to ellipticobovate, apex acute to rounded, base abaxially slightly tomentose, adaxially with two collateral prominent
+dark (when dry) basal glands, 1.3–5.5 mm long, clawed. Stamens 6, basally epitepalous; anthers 0.6–1.4 mm
+long, extrorse, hemispherical; filaments 1.2–7.5 mm long, filiform, free. Ovary (present on flowers of
+terminal raceme, sometimes of secondary), triloculate, 1.9–4.6 mm long, superior, ovoid, glabrous; styles 3,
+1.1–2.1 mm long, reflexed. Capsules 0.8–3.1 × 0.7–1.9 cm, ovoid to ellipsoid, brown, erect, dehiscing in
+apical third. Seeds several per locule, 6.4–13.5 × 3.5–5.4 mm, flat, irregularly oblanceolate to obelliptic,
+winged, pale brown.
+Ecology.—In thickets, scrub, grasslands and forests, often in dry, open sites in limestone formations.
+
+DELIMITATION IN THE VERATRUM MENGTZEANUM—V. CHIENGDAOENSE COMPLEX
+
+Phytotaxa 96 (1) © 2013 Magnolia Press
+
+• 57
+
+Nomenclature notes.—Zimmerman (1958) suggested the syntype “Henry 9979 pro parte” as the
+lectotype of V. mengtzeanum. However, this was not effectively published according to Article 30.7 of the
+Melbourne Code (McNeill et al. 2012), and lectotypification is effected here.
+
+FIGURE 3. Veratrum mengtzeanum subsp. mengtzeanum: A-B Flowering habit. C. Inflorescence apex. D. Functionally staminate
+flower. E. Perfect flower. F. Fruit. G. Seed. A and C from Fig. 4-5. B, D and E from Forrest 22186 (K). F and G from Smitinand 7770
+(BKF) (Drawings by Lucy Smith).
+
+58 •
+
+Phytotaxa 96 (1) © 2013 Magnolia Press
+
+TRIAS-BLASI & SUKSATHAN
+
+Key to the subspecies of V. mengtzeanum
+1.
+-
+
+Flowers per individual 16–130. Filament length 3.4–7.5 mm....................................................... subsp. mengtzeanum
+Flowers per individual 155–226. Filament length 1.2–2.9 mm.............................................................. subsp. phuwae
+
+1a. Veratrum mengtzeanum subsp. mengtzeanum (Figs. 3–5)
+Inflorescence with 16–130 flowers. Filaments 3.4–7.5 mm long.
+Distribution.—Northern Thailand (Chiang Mai); southwestern China (Yunnan, Guizhou, southwestern
+Sichuan).
+Ecology.—1200–4000 m elev. Flowering and fruiting August to December.
+Specimens examined.—CHINA. Without province: 13 August 1908, Wilson seed No. 1567 (K).
+Guizhou: Houang ts'ao-pa [Xingyi], 1918, J. Cavalerie 4132 (K); Houang ts'ao-pa [Xingyi], Cavalerie 8080
+(B). Szechuan: Mountains SE of Mu-li, 3358 m, August 1922, Forrest 22186 (K); Mu-li, 2743 m, KingdonWard 4789 (B). Yunnan: Mengtze, 1829 m, Henry 9979 (B, E, K, NY, US); Houang kia pin, 4 September
+1882, Delavay 366 (K); Likiang Snow Range, Forrest 3039 (B); Inter pagos Yungning [Yongning] et
+Dschundien ("Chungtien")[Zhongdian], 2500-3200 m, 12 August 1915, Handel-Mazzetti 7625 (WU); Prope
+pagum Yungning [Yongning], in regionis temperatae fruticetis ad austro-orient, 3150 m, 1914, HandelMazzetti 3158 (WU); Prope urbem Lidjiang [Likiang], imprimis in monte Yülung-schan.[Jade Dragon Snow
+Mountain], 1914, Handel-Mazzetti 4013 (WU); Geiju, October 1970, s.coll. s.n. (WUK); Luoping County,
+Fraxinus Hill, 3 August 1973, s.coll. 8 (KUN); Yanshan County, bar-garh, 15 November 1939, Wong 85016
+(KUN); Yanshan County, Shiao-hwa-yuan-dzai, 22 October 1939, Wang 84545 (PE). THAILAND. Chiang
+Mai: Doi Chiangdao, 18 October 1926, Put 388 (BK, BM, K); southern slope Doi Chiang Dao, 1700 m, 5
+August 2005, Suksathan 3566 (QBG); Doi Chiangdao, 1900-2000 m, 10 November 1962, Smitinand et al.
+7770 (BKF); Doi Chiangdao, 2100 m, 3 December 1961, Smitinand, & Anderson 7293a (BKF); Doi
+Chiangdao, 1750 m, 16 August 1963, Smitinand & Sleumer c. al. 1023 (BKF); Doi Chiang Dao Wilflife
+Sanctuary, ridge to closest peak to ranger station, 1728 m, 12 November 2011, Trias-Blasi et al. 67 (K); below
+the summit of Doi Chiang Dao, 1900 m, 14 September 1967, Shimizu et al. 10079 (QBG).
+Conservation Assessment.—There are at least 13 populations of V. mengtzeanum subsp. mengtzeanum
+represented by 22 herbarium specimens (Fig. 2). Additional herbarium specimens have been observed within
+the same provinces as the georeferenced specimens used in the assessment, but it has been impossible to
+determine their exact localities. Using GeoCAT (Bachman et al. 2011; http://geocat.kew.org/), extent of
+occurrence (EOO) was calculated to be as 287,500 km2 and area of occupancy (AOO) 48 km2 based on a user
+defined cell width of 2 km. Chinese collections are generally old (1882 – 1939), and the most recent one was
+collected in 1973. No recent observations have been recorded, and the current status of these populations is
+unknown. Thai collections are more recent and have all been collected from Doi Chiangdao, where we also
+collected a specimen in 2011. There is a disjunction between Chinese and Thai populations. This species may
+occur in intermediate localities in Lao People's Democratic Republic and Burma. Additionally, a member of
+the editorial board (Mark Newman, pers. comm.) of the Flore du Cambodge, Laos et Viêtnam confirmed that
+this taxon has not been recorded for these countries. With an AOO of 48 km2 this taxon could meet criterion
+B2 under Endangered. Until current Chinese populations are assessed, the data available do not suggest
+immediate threats to this taxon; its habitat is restricted to relatively high and inaccessible elevations (1,200–
+4,000 m), and it has a wide distribution (high EOO). These factors support a preliminary global assessment of
+Least Concern, based on the criteria of IUCN (2001).
+One population of V. mengtzeanum subsp. mengtzeanum, represented by seven herbarium specimens,
+occurs in Thailand (Fig. 2). Using GeoCAT (Bachman et al. 2011; http://geocat.kew.org/), the AOO was
+calculated as 8 km2 based on a user defined cell width of 2 km2 and the EOO could not be calculated. Absence
+
+DELIMITATION IN THE VERATRUM MENGTZEANUM—V. CHIENGDAOENSE COMPLEX
+
+Phytotaxa 96 (1) © 2013 Magnolia Press
+
+• 59
+
+of populations between China and Thailand suggests that the Thai populations may be genetically isolated.
+The regional assessment of this subspecies follows the reasoning as for the global assessment of V.
+mengtzeanum subsp. phuwae (see below). A preliminary assessment of Near Threatened (NT), based on the
+criteria of IUCN (2001), is indicated.
+
+FIGURES 4–5. Veratrum mengtzeanum subsp. mengtzeanum (from: Doi Chiangdao, Chiang Mai province, Thailand; photos by
+Piyakaset Suksathan).
+
+1b. Veratrum mengtzeanum subsp. phuwae Trias-Blasi subsp. nov. (Fig. 6)
+Differs from V. mengtzeanum subsp. mengtzeanum in having a larger number of flowers per individual and shorter
+filaments.
+
+Holotype:—THAILAND. Doi Phu Wae, Doi Phu Kha National Park, Chalerm Pra Kiat, 1700 m, 5 September
+2001, Srisanga 2128 (QBG!).
+Inflorescence with 155-226 flowers. Filaments 1.2–2.9 mm long.
+Distribution.—Northern Thailand (Nan).
+Ecology.—1700–1800 m elev. Flowering and fruiting from September to January.
+Etymology.— This subspecies is named after the Phu Wae mountain peak located in Doi Phu Ka National
+Park in the northern floristic region of Nan in Thailand, the only known locality. The specific ephithet
+“phuwae” is a noun in apposition and therefore does not have an additional Latin suffix.
+Specimens examined.—THAILAND. Nan: Doi Phu Kha National Park, Phu Wae. 1800 m, 4 July 1999,
+Srisanga et al. 884 (AAU, QBG); Phu Wae, Doi Phu Kha, 1790 m, 1 January 1999, Suksathan 1796 (QBG);
+Doi Phu Wae, 1800 m, 13 November 2000, Srisanga 1857 (QBG); Doi Phu Wae, Doi Phu Kha National Park,
+Chalerm Pra Kiat, 1700 m, 5 September 2001, Srisanga 2128 (QBG).
+Conservation Assessment.—The one population of V. mengtzeanum subsp. phuwae is represented by four
+herbarium specimens (Fig. 2). Using GeoCAT (Bachman et al. 2011; http://geocat.kew.org/), the AOO was
+
+60 •
+
+Phytotaxa 96 (1) © 2013 Magnolia Press
+
+TRIAS-BLASI & SUKSATHAN
+
+calculated as 4 km2 based on a user defined cell width of 2 km2, which suggests this taxon meets criterion B2
+under Critically Endangered. The specimens only had general locality information, and thus georeferencing
+was imprecise; the EOO could not be calculated. It is likely that more individuals could be found in suitable
+habitats in nearby areas, in which case the EOO might increase to over 100 km2, and this taxon might then be
+classed as Endangered. Even though specimens show that this population is still extant, it is strictly restricted
+to limestone outcrops, resulting in a fragmented distribution. Limestone habitats are generally threatened in
+Thailand by extraction for making concrete (Wilkin et al. 2012), but this population (IUCN locations) is in a
+National Park; thus, it is afforded a higher level of protection. This taxon meets some conditions for CR B1+2a
+and VU D2, but there are no observed declines or extreme fluctuations. However, the taxon needs to be
+carefully monitored in Thailand as the introduction of a threat of any kind would have an impact. A
+preliminary assessment of Near Threatened (NT), based on the criteria of IUCN (2001), is indicated.
+
+FIGURE 6. Veratrum mengtzeanum subsp. phuwae Trias-Blasi subsp. nov. (from type locality; photo by Prachaya Srisanga).
+
+Acknowledgements
+The authors are grateful to Wendy Zomlefer for her helpful review. Thanks to the curators and the staff of the
+following herbaria: B, BK, BKF, BM, E, K, KUN, NY, PE, QBG, US, WU, and WUK for the loan of or access
+to specimens. Thanks to Paul Wilkin for the useful comments on the manuscript, Lucy Smith for the line
+drawings, Steve Bachman for assistance with conservation assessments, Christine Barker for help with the
+nomenclature of the new subspecies, Prachaya Srisanga for permission to use his photographs and Mark
+Newman for verifying the Lao Veratrum records.
+DELIMITATION IN THE VERATRUM MENGTZEANUM—V. CHIENGDAOENSE COMPLEX
+
+Phytotaxa 96 (1) © 2013 Magnolia Press
+
+• 61
+
+References
+APG. (2009) An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering
+plants: APG III. Botanical Journal of the Linnean Society 161: 105–121.
+http://dx.doi.org/ 10.1111/j.1095-8339.2009.00996.x
+Bachman, S., Moat, J., Hill, A.W., de la Torre, J. & Scott, B. (2011) Supporting Red List threat assessments with
+GeoCAT: geospatial conservation assessment tool. ZooKeys 150: 117–126.
+http://dx.doi.org/ 10.3897/zookeys.150.2109
+Chen, X. & Takahashi, H. (2000) Veratrum. In: Wu, Z. & Raven, P. H. (eds.) Flora of China, Volume 24: Flagellariaceae
+through Marantaceae. Science Press, Beijing, and Missouri Botanical Garden Press, St. Louis, pp. 82–85
+Fenster, C.B., Armbruster, W.S., Wilson, P.M., Dudash, R. & Thomson, J.D. (2004) Pollination syndromes and floral
+specialization. Annual Review of Ecology, Evolution, and Systematics 35: 375–403.
+http://dx.doi.org/10.1146/annurev.ecolsys.34.011802.132347
+Govaerts, R. (2012) World checklist of Melanthiaceae. Royal Botanic Gardens, Kew. Available from: http://
+apps.kew.org/wcsp/ (accessed 05/11/2012).
+IUCN (2001) IUCN Red List categories and criteria: Version 3.1. IUCN Species Survival Commission, IUCN, Gland
+and Cambridge.
+Larsen, K. (1961) New species of Veratrum and Orchidantha from Thailand and Laos. Botanisk Tidsskrift 56: 345–350.
+Loesener, O. (1926) Studien über die Gattung Veratrum und ihre Verbreitung. Verhandlungen des botanischen Vereins
+der Provinz Brandenburg 68: 105–166.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud’homme van Reine, W.F., Smith, G.F., Wiersema, J.H., & Turland, N.J. (eds.) (2012)
+International code of nomenclature for algae, fungi, and plants (Melbourne Code): adopted by the eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154. Koeltz, Königstein,
+Germany, 208 pp.
+Stevens, P.F. (2001 onwards). Angiosperm phylogeny website. Version 12, July 2012 [and more or less continuously
+updated since] Available from: http://www.mobot.org/MOBOT/research/APweb/ (accessed 05/11/2012).
+Tamura, M.N. (1998) Melanthiaceae. In: Kubitzki, K. (ed.) The families and genera of vascular plants, vol. III,
+monocotyledons. Springer, Berlin, pp. 369–380.
+Tanaka, N. (2001) The identity of Veratrum chiengdaoense (Melanthiaceae) and a new record of V. mengtzeanum from
+Thailand. Acta Phytotaxonomica et Geobotanica 51: 133–137.
+Wilkin, P., Suksathan, P., Keeratikiat, K., Van Welzen, P. & Wiland-Szyma ska, J. (2012) A new threatened endemic
+species from central and northeastern Thailand, Dracaena jayniana (Asparagaceae: tribe Nolinoideae). Kew Bulletin
+67: 697–705.
+http://dx.doi.org/ 10.1007/s12225-012-9412-2
+Zimmerman, J.H. (1958) A monograph of Veratrum. Ph.D. thesis. University of Wisconsin, Madison, 318 pp.
+Zomlefer, W.B. (1997) The genera of Melanthiaceae in the southeastern United States. Harvard Papers in Botany 2:
+133–177.
+Zomlefer, W.B., Williams, N.H., Whitten, W.M. & Judd, W.S. (2001) Generic circumscription and relationships in the
+tribe Melanthieae (Liliales, Melanthiaceae), with emphasis on Zigadenus: evidence from ITS and trnL-F sequence
+data. American Journal of Botany 88: 1657–1669.
+Zomlefer, W.B., Whitten, W.M., Williams, N.H. & Judd, W.S. (2003) An overview of Veratrum s.l. (Liliales:
+Melanthiaceae) and an infrageneric phylogeny based on ITS sequence data. Systematic Botany 28: 250–269.
+ń
+
+62 •
+
+Phytotaxa 96 (1) © 2013 Magnolia Press
+
+TRIAS-BLASI & SUKSATHAN
+
+

@@ -1,0 +1,354 @@
+Phytotaxa 131 (1): 9–16 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.131.1.2
+
+Miconia paralimoides (Miconieae: Melastomataceae), a new species from the
+Cordillera Central, Dominican Republic
+LUCAS C. MAJURE1,2 & WALTER S. JUDD1,2
+1
+
+Department of Biology, University of Florida, 220 Bartram Hall, P.O. Box 118525, Gainesville, Florida 32611 USA;
+lmajure@ufl.edu, wjudd@botany.ufl.edu.
+2
+Florida Museum of Natural History, University of Florida, P.O. Box 117800, Gainesville, Florida 32611-7800, USA.
+
+Abstract
+In the course of a taxonomic revision of Miconia sect. Lima, we discovered a previously undescribed species, Miconia
+paralimoides, from the Cordillera Central, Dominican Republic. This species is part of the Miconia lima species
+complex, and is most similar morphologically to Miconia limoides. We illustrate and provide a distribution map of the
+species, as well as a key to distinguish M. paralimoides from other members of the Miconia lima complex, i.e., species
+with very well-developed, bulla-based hairs on the adaxial leaf surface, which mostly or completely cover the areoles.
+
+Resumen
+En el proceso de una revisión taxonómica de Miconia sect. Lima, descubrimos una especie previamente no descrita,
+Miconia paralimoides, de la Cordillera Central, República Dominicana. Esta especie forma parte del complejo de
+especies de M. lima, y es mas parecida morfológicamente a M. limoides. Ilustramos y proveemos un mapa de
+distribución para la especie, además de una clave para identificar M. paralimoides de los otros miembros del complejo de
+especies de M. lima, i.e., especies con pelos de base bulada bien desarrollados en el haz de la hoja, y casi o
+completamente cubriendo las aréolas.
+
+Introduction
+Tribe Miconieae (Melastomataceae) is composed of approximately 1800 species, which occur broadly
+throughout the Neotropics (Michelangeli et al. 2008). Generic delimitation in the tribe has long been
+considered to be problematic (Cogniaux 1891, Gleason 1932, Macbride 1941, Wurdack 1972; Judd 1986,
+1989, Judd & Skean 1991) and even arbitrary (Cogniaux 1891). Recent phylogenetic analyses based on DNA
+sequence data have shown that most of the genera recognized within the Miconieae, including the largest
+genus Miconia Ruiz & Pavon (1794: 60) with ca. 1057 species (Goldenberg et al. 2013), are nonmonophyletic (Michelangeli et al. 2004, 2008; Bécquer-Granados et al. 2008, Goldenberg et al. 2008, Martin
+et al. 2008, Reginato et al. 2010). Thus, the recognition of most species within Miconieae under Miconia s.l.,
+which can be recognized, in part, by their berry fruit, has been proposed as a best solution to the dilemma
+(Ionta et al. 2012, Ionta & Judd 2012, Judd & Ionta 2013, Goldenberg et al. 2013, Majure & Judd 2013).
+Therefore, we describe the new species in this study under Miconia sect. Lima Majure & Judd (2013: 266).
+Miconia sect. Lima is a clade of 17 species, including the new species described herein, distributed
+throughout the Greater Antilles (excluding Puerto Rico), with nine known species from Cuba, seven from
+Hispaniola and one from Jamaica. Species within the Lima clade are recognized by their striking bulla-based
+hairs on the adaxial leaf surface, long stemmed, clavate-dendritic hairs produced from in between bulla-based
+hairs on the adaxial leaf surface, sessile glandular hairs on both leaf surfaces, hypanthia, and calyx teeth, and
+generally acute to acuminate petal apices with slightly bulla-based hairs produced abaxially just below the
+Accepted by Renato Goldenberg: 27 Aug. 2013; published: 13 Sept. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+9
+
+petal apex and sometimes from the medial portion of the petal (Majure & Judd 2013). The Lima clade also is
+well supported by molecular phylogenetic data (Michelangeli et al. 2008, Majure et al. unpubl. data).
+The Miconia lima (Desrousseaux 1797: 47) Gómez (1894: 64) complex represents a group of closely
+related Hispaniolan species in the Lima clade that have very well-developed bulla-based hairs on the adaxial
+leaf surface, which mostly or completely cover the areoles (Fig. 1). The Miconia lima complex is represented
+by M. lima, M. limoides (Urban 1927: 50) Majure & Judd (2013: 269), M. marigotiana (Urban & Ekman
+1929: 50) Majure & Judd (2013: 269), and M. phyrnosomaderma Majure & Judd (2013: 269).
+In the process of revising the Lima clade, we discovered a previously undescribed species from the
+Cordillera Central, Dominican Republic, Miconia paralimoides Majure & Judd sp. nov. This species differs
+from all other taxa in the Miconia lima complex in several morphological characters. We have provided a key
+below for the identification of the members of the M. lima complex, including the new species described here.
+Key to the species of the Miconia lima complex
+1.
+2.
+
+-
+
+3.
+4.
+
+-
+
+Stem hairs ascending .................................................................................................................................................... 2
+Stem hairs descending .................................................................................................................................................. 4
+Leaves narrowly elliptic, ovate, narrowly ovate, or elliptic-rhomboid, abaxial leaf surface covered in erect, spreading or sparse, moderately appressed hairs (i.e., with lamina surface mostly to partly visible), inflorescence 1.9–6.5 ×
+1–6 cm, delicate, longest hypanthium hairs to 1.5 mm long, Hispaniola .................................................................... 3
+Leaves broadly elliptic to obovate, abaxial leaf surface covered in dense, strongly appressed hairs (lamina surface
+mostly obscured), inflorescence 0.9–2.8 × 1.2–2.8 cm, stout, longest hypanthium hairs to 2.6 mm long, restricted to
+the Cordillera Central, Dominican Republic ........................................................................................M. paralimoides
+Leaves ovate or narrowly elliptic, abaxial leaf surface covered in erect or spreading hairs, carpels 4 (5), widespread
+in Hispaniola .......................................................................................................................................................M. lima
+Leaves narrowly ovate to elliptic-rhomboid, abaxial leaf surface covered in appressed hairs, carpels 2, restricted to
+Massif de la Selle, Haiti ......................................................................................................................... M. marigotiana
+Areoles of adaxial leaf surface completely filled by bulla-based hairs, abaxial leaf surface completely covered in
+erect to slightly spreading bulla-based hairs, flowers sessile or subsessile, petals not clawed, anthers lacking dorsobasal appendage (or very poorly developed to 0.1mm long), calyx teeth erect or spreading, not reflexed in fruit,
+restricted to southern Hispaniola (i.e., Massif de la Selle/Sierra de Bahoruco) ......................................... M. limoides
+Areoles of adaxial leaf surface not completely filled by bulla-based hairs, abaxial leaf surface visible, bulla-based
+hairs mostly restricted to veins, appressed or slightly spreading, flowers pedicellate, petals clawed, anthers with
+dorso-basal appendage to 0.3 mm long, calyx teeth reflexed in fruit, restricted to Massif du Nord, Haiti ...................
+....................................................................................................................................................M. phrynosomaderma
+
+Taxonomy
+Miconia paralimoides Majure & Judd sp. nov. (sect. Lima) (Fig. 1)
+Diagnosis: Species ab haec Miconia limoides differt indumento caulium ascendenti appresso (non declinato, effuso vel
+recurvo) et indumento foliorum appresso in pagina abaxiali (non effuso vel erecto).
+Type:—DOMINICAN REPUBLIC. Cordillera Central, Provincia La Vega, Constanza, 1.5 hora caminando a pie al sur
+de Loa Mañanguises, en el lugar llamado Sonador, 18°53’N, 70°36’Oeste, 1300 m, fr., 12 abril 1986, R. García 1186
+(holotype FLAS!; isotypes JBSD!, MO!, NY!, S!, US!) (Fig. 1).
+
+Evergreen shrub, 1–3 m tall; stems round in cross section, not ridged, the internodes 0.4–8.9 cm long, stem
+indumentum of bulla-based hairs 0.1–1.3 mm long, these ascending (antrorse) appressed, mostly arcuate with
+the tips bent towards the stem axis, making the stem appear smooth; nodal line present, with larger bullabased hairs than those on the rest of the stem. Leaves opposite, decussate, broadly elliptic to obovate, 2.7–5.5
+× 1.7–3.8 cm, slightly anisophyllous, apex widely acute to rounded, base acute to rounded, venation
+acrodromous, 5–7 veined, the midvein and 2–3 pairs of arching secondary veins, the outermost intramarginal,
+secondary veins mostly basal to slightly suprabasal, the innermost pair, ± asymmetrical at union with midvein,
+produced 0.3–4 mm from leaf base, positioned 3–7 mm in from margin at widest point of blade, tertiary veins
+
+10 •
+
+Phytotaxa 131 (1) © 2013 Magnolia Press
+
+MAJURE & JUDD
+
+FIGURE 1. Illustration of Miconia paralimoides. A) habit (Veloz 4059), B) close-up of upper leaf surface (García 1186), C) close-up
+of lower leaf surface (García 1186), D) flower Veloz 4059), E) petal abaxial surface (Veloz 4059), F) petal adaxial surface (Veloz 4059),
+G) stamen (Veloz 4059), H) fruit longitudinal section (F. Jiménez 176–A).
+
+MICONIA PARALIMOIDES SP. NOV.
+
+Phytotaxa 131 (1) © 2013 Magnolia Press
+
+• 11
+
+percurrent, ± perpendicular to midvein, 1.5–2.9 mm apart at midleaf, intertertiary veins present, tertiary veins
+often joined by quaternary veins; adaxial leaf surface covered in well developed bulla-based hairs completely
+filling the areoles, bases of bulla-based hairs strongly angular (mostly 4–5 angular) produced from the
+separation of one hair from another, widest hair bases to 2.2 mm, apices of bulla-based hairs mostly erect,
+young leaf adaxial surface producing long-stemmed, clavate-dendritic hairs along the primary, secondary, and
+tertiary veins from between the bulla-based hairs, sessile, glandular hairs produced along the primary,
+secondary, tertiary, and quaternary veins between the bulla-based hairs, especially toward the base of the leaf;
+abaxial leaf surface covered in bulla-based hairs, these strongly appressed, those along the primary, secondary,
+and tertiary veins larger than hairs produced throughout the lamina, the lamina completely covered in bullabased hairs and thus obscured, lamina appearing as a series of pits from depressions of the bulla-based hairs
+produced from the upper leaf surface and slightly raised intertertiary veins, sessile, glandular hairs produced
+from between the bulla-based hairs; petioles 0.4–1.7 cm long, covered in appressed-ascending, bulla-based
+hairs on both surfaces. Inflorescences terminal, of condensed-short cymes, 5–15 flowered, 0.9–2.8 × 1.2–2.8
+cm, the peduncle 0.05–1.5 cm long, proximal inflorescence branches 2–8 mm long, pedicels absent to 1.2 mm
+long; bracts oblong to ovate, 2.6–4.9 mm long; bracteoles narrowly ovate, 1.7–3.8 × 0.3–0.6 mm. Flowers
+mostly produced in glomerulate clusters, sessile or with pedicels to 1.2 mm long, 4–5(6) merous, when 4 or 5
+merous, sometimes with one or two calyx teeth apparently aborted; hypanthium 2.9–3.5 mm long, shortoblong to globose, 4-lobed, but lobing mostly obscured by bulla-based hairs, slightly constricted below the
+torus, free portion of the hypanthium 0.8–1.1 mm long, hypanthium abaxial surface covered in bulla-based
+hairs from 0.8–2.6 mm long, and occasional, sessile, glandular hairs near the bases of the bulla-based hairs;
+hypanthium adaxial surface (i.e., free portion) covered in small, bulla-based hairs; calyx teeth 2.9–4.2 × 0.8–
+0.9 mm, ascending or spreading, covered in bulla-based hairs; calyx lobes acute, 1.3–1.6 × 1.5–2 mm, covered
+in bulla-based hairs abaxially and sessile, sparse, glandular hairs adaxially; calyx tube not tearing, 0.1–0.4 mm
+long with bulla-based hairs abaxially and sessile, glandular hairs adaxially; petals 4–5(6), red to violet-red,
+elliptic with an acute apex and membranous margin, 4.5–7 × 2.6–3.6 mm, with one or two slightly bulla-based
+hairs produced abaxially, just below the apex, to 2.8 mm long; stamens twice the number of petals, 8–10(12);
+filaments 1.8–2.8 mm long, glabrous, anthers 1.5–1.6 mm long, with one dorsally oriented pore, anther thecae
+1.2–1.4 mm long, anthers with a dorso-basal appendage 0.18–0.3 mm long; style 5.0–5.3 mm long, glabrous,
+not or only slightly dilated in the middle, collar absent, style subtended by a crown of multicellular, linear to
+elongate-triangular (needle-like) hairs, which are slightly longer than the surrounding bulla-based hairs of the
+ovary apex, stigma punctate; ovary 1.6–2.2 × 2.4–3.4 mm, slightly four lobed, apex pubescent with bullabased hairs, except for the linear or elongate-triangular hairs forming crown, placentation axile with deeply
+intruded placenta, 4-locular; berries globose, 4-lobed, purple at maturity, 4–5.5 mm long (including calyx
+tube), 5.5–7 mm wide, seeds 0.8–1mm long, obpyramidal, often falcate, testa smooth, light brown, raphe dark
+brown, smooth, extending the length of the seed.
+Relationships with other taxa and species concepts: — Of all of the members of the M. lima complex,
+M. paralimoides is likely most closely related to M. lima and M. limoides, as all three species have very welldeveloped bulla based hairs on the adaxial leaf surface (see Fig. 1B), which more or less entirely fill the leaf
+areoles and comparable leaf shapes and floral morphology. Miconia marigotiana has ovate, narrowly elliptic
+to elliptic-rhomboid leaves and 2-carpellate ovaries, which differ from the broadly elliptic to obovate leaves
+and 4-carpellate ovaries of M. paralimoides, and M. phrynosomaderma exhibits bulla-based hairs on the
+adaxial leaf surface that do not completely cover the areoles, as well as clawed petals and descending stem
+hairs (Majure & Judd 2013). Liogier (2000) considered populations of M. paralimoides to represent M. lima,
+although using his key, material of M. paralimoides is identifiable to M. limoides. Nearly all collections of M.
+paralimoides, except for those of Liogier, have been identified as M. limoides by previous collectors. Miconia
+paralimoides shares the ascending-appressed stem hairs (Fig. 1A) and longer (0.18–0.3 mm in M.
+paralimoides and 0.25–0.4 mm in M. lima) dorso-basal anther appendages with M. lima (Figs 1G & 2D).
+However, M. paralimoides is phenetically most similar and may be more closely related to M. limoides, as it
+shares the shaggy, long, hypanthium hairs (longest to 2.6 mm in M. paralimoides, 3 mm in M. limoides; Figs.
+
+12 •
+
+Phytotaxa 131 (1) © 2013 Magnolia Press
+
+MAJURE & JUDD
+
+1D & H, & 2J–K), large fruit (4–5.5 mm × 5–7 mm in M. paralimoides, 3.9–7 × 5–9 mm in M. limoides),
+bulla-based hairs with sharp-angled bases on the adaxial leaf surface (rather than the generally smooth-angled
+to rounded bases of the bulla-based hairs in M. lima; Fig. 1B), the more robust growth form, a more tightly
+overlapping leaf length/width quotient (1.2–1.6 in M. paralimoides and 1.0–1.8 in M. limoides), as compared
+to M. lima (see below), a very dense indumentum of bulla-based hairs mostly obscuring the lamina of the
+abaxial leaf surface (Fig. 1C), and longer petal hairs than M. lima (Figs. 1D–F, 2H).
+This species is easily distinguished from M. limoides in having ascending-appressed, arcuate stem hairs
+(Fig. 1A), as well as dense, appressed, bulla-based hairs on the abaxial leaf surface (Fig. 1C). The stem hairs
+of M. limoides are descending-appressed to spreading and slightly recurved at the tips and the dense, abaxial
+leaf surface hairs are erect to spreading. Miconia paralimoides has a dorso-basal anther appendage 0.18–0.3
+mm long (Fig. 1G), while M. limoides lacks or only has a poorly developed dorso-basal appendage to 0.1 mm
+long (Fig. 2I).
+Miconia paralimoides is distinguished from M. lima by its densely pubescent abaxial leaf surface with
+strongly appressed hairs (Fig. 1C). It also differs from M. lima by the leaf length/width quotient (1.5–2.6 for
+M. lima vs. 1.2–1.6 for M. paralimoides), longer overall bulla-based hairs of the hypanthium (to 2.6 mm in M.
+paralimoides vs. 1.5 mm in M. lima; Figs. 1H & 2E–F), larger fruit (4–5.5 mm ×5–7 mm in M. paralimoides
+vs. 2–3.5 mm ×3–4.1 mm in M. lima), longer petals (4.5–7 mm vs. 3–4.3 mm; Figs. 1D–F & 2–C), and longer
+average petal hairs (2.6 mm vs. 1.1 mm; Figs. 1 & 2).
+Miconia paralimoides is morphologically diagnosable from its putative closest relative M. limoides (Fig.
+2) and their ranges are allopatric, thus satisfying the morphological-phenetic (Judd 2007) and diagnostic
+(Wheeler & Platnick 2000) species concepts. The two species also are presumably reproductively isolated.
+Etymology:—As stated above, Miconia paralimoides is most phenetically similar to M. limoides, and the
+specific epithet “paralimoides” is meant to reflect this similarity. Miconia paralimoides, has, by most
+collectors, been identified as M. limoides.
+Distribution and Habitat:—Miconia paralimoides is restricted to the Cordillera Central of the
+Dominican Republic, while its putative sister species, M. limoides, is restricted to southern Hispaniola,
+occurring in the Massif de la Selle and the Sierra de Bahoruco (Fig. 3). The species occurs in humid, broad
+leaved, mixed forests or cloud forests from 1000–1950 m in elevation. Some associate species include
+Brunellia comocladifolia Bonpland (1808: 211; Brunelliaceae), Lyonia buchii Urban (1921: 515; Ericaceae),
+Magnolia pallescens Urban & Ekman (1931: 10; Magnoliaceae), Myrsine coriacea (Swartz) Browne (1819:
+511; Primulaceae), Ocotea floribunda Bentham & Hooker (1880: 158; Lauraceae), Tabebuia vinosa Gentry
+(1989: 137; Bignoniaceae), as well as other species of Miconia. Miconia lima is sympatric with M.
+paralimoides.
+Phenology:—Miconia paralimoides has been collected in bud, at anthesis and in immature fruit from
+September through December, and has been collected in immature and mature fruit from February through
+April.
+Additional specimens examined: Dominican Republic. LA VEGA. Cordillera Central, Municipio
+Jarabacoa, Distrito Municipal Manabao, Los Tablones, al pie de la Subida de La Cotorra, Parque A.
+Bermudez; UTM 301221E, 2107542N, 21 Feb 2011, Clase 6739 (FLAS, JBSD). Reserva Científica Ébano
+Verde, en el camino viejo entre la caseta principal (a la orilla del Arroyo La Sal), y la cima de Loma
+Golondrina, 19°04'N, 70°34'O, 12 Mar 1992, F. Jiménez 176–A (JBSD). Ciénaga de la Culata, Constanza, 15–
+16 Oct 1968, Liogier 13013 (NY, US). Loma Redonda, Ciénaga de la Culata, Constanza, 12 Sept 1969,
+Liogier 15998 (GH, NY, P, US). Municipio de Constanza, Loma el Paragua, en el lugar denominado el
+Chiflito, 19°00'06.8'N, 70°43'39.6"O, 10 Nov 2006, Veloz 4059 (JBSD). SANTIAGO RODRÍGUEZ , Cordillera
+Central, Parque Nacional J. C. Ramírez, entre Monte Llano & Los Descansaderos, 19°14'N, 71°17'O, 10 Jul
+1988, Zanoni 41982 (FLAS, JBSD, NY).
+
+MICONIA PARALIMOIDES SP. NOV.
+
+Phytotaxa 131 (1) © 2013 Magnolia Press
+
+• 13
+
+FIGURE 2. Reproductive structures of Miconia lima (A–G) and M. limoides H–K). A) flower (Judd 6587), B) petal side view (Clase
+935), C) petal adaxial surface (Judd 6587), D) stamen (Howard 12300), E) fruit longitudinal section (Judd 5172), F) fruit (Holdridge
+1404), G) seed (Judd 5172), H) petal abaxial surface (Zanoni 18900), I) stamen (Zanoni 18900), J) fruit longitudinal section (Ekman
+H9519), K) fruit cross section (Zanoni 20367).
+
+14 •
+
+Phytotaxa 131 (1) © 2013 Magnolia Press
+
+MAJURE & JUDD
+
+FIGURE 3. Distribution of Miconia paralimoides (black circles) and Miconia limoides (open circles).
+
+Acknowledgements
+We would like to thank numerous herbaria (GH, JBSD, MO, NY, S, US) for specimen loans used in this study,
+as well as K. Perkins, T. Linder, and N. Williams (FLAS) for handling loan materials. We also would like to
+thank two anonymous reviewers for comments on an earlier version of the manuscript and the National
+Science Foundation for financial support (BSR-0818399).
+
+References
+Bécquer-Granados, E.R., Neubig, K.M., Judd, W.S., Michelangeli, F., Abbott, J.R. & Penneys, D.S. (2008) Preliminary
+molecular phylogenetic studies in Pachyanthus (Miconieae, Melastomataceae). Botanical Review 74: 37–52.
+http://dx.doi.org/10.1007/s12229-008-9010-z
+Bentham, G. & Hooker, J.D. (1880) Genera plantarum: ad exemplaria imprimis in Herberiis Kewensibus servata definita.
+London. 459 pp.
+Bonpland (1808) Plantes équinoxiales recueillies au Mexique: dans l’ile de Cuba, dans les provinces de Caracas, de
+Cumana et de Barcelone, aux Andes de la Nouvelle Grenade, de Quito et Pérou, et sur les bords du rio-Negro de
+Orénoque et de la riviére des Amazones. Paris. 234 pp.
+Browne, R. (1819) Mysine coriacea, In: Roemer, J.J. & Schultes, J.A., Caroli a Linné ... Systema vegetabilium:
+secundum classes, ordines, genera, species. Cum characteribus differentiis et synonymis. Editio nova, speciebus
+inde ab editione XV. Detectis aucta et locupletata. Stuttgardtiae. pp. 511.
+Cogniaux, A. (1891) Melastomataceae. In: A. de Candolle and C. de Candolle, eds. Monographiae phanerogamarum. 7.
+Masson, Paris. 1256 pp.
+Desrousseaux, L.A.J. (1797) Melastoma lima In: Lamarck (ed.) Encyclopedie methodique: botanique 4: 47–48.
+Gentry (1989) Three new Hispaniolan species of Tabebuia (Bignoniaceae). Moscosoa 5: 134–141.
+Gleason, H.A. (1932) A synopsis of the Melastomataceae of British Guiana. Brittonia 1: 127–184.
+http://dx.doi.org/10.2307/2804765
+Goldenberg, R., Penneys, D.S., Almeda, F., Judd, W.S. & Michelangeli, F.A. (2008) Phylogeny of Miconia
+(Melastomataceae): Patterns of stamen diversification in a megadiverse Neotropical genus. International Journal of
+Plant Sciences 169: 963–979.
+http://dx.doi.org/10.1086/589697
+
+MICONIA PARALIMOIDES SP. NOV.
+
+Phytotaxa 131 (1) © 2013 Magnolia Press
+
+• 15
+
+Goldenberg, R., Almeda, F., Caddah, M.K., Martius, A.B., Meirelles, J., Michelangeli, F.A. & Weiss, M. (2013)
+Nomenclator botanicus for the neotropical genus Miconia (Melastomataceae: Miconieae). Phytotaxa 106: 1–171.
+http://dx.doi.org/10.11646/phytotaxa.106.1.1
+Gomez, D. M. 1894. Catálogo de las periantiadas Cubanas, espontáneas y cultivadas. Anales de Historia Natural 23: 41–
+71.
+Ionta, G.M. & Judd, W.S. (2012) Miconia cordieri, a new species of Miconia sect. Sagraea (Melastomataceae) from the
+Macaya Biosphere Reserve, Haiti. Journal of the Botanical Research Institute of Texas 6: 37–44.
+http://dx.doi.org/10.1007/s12228-011-9214-0
+Ionta, G.M., Judd, W.S., Skean, Jr., J.D. & McMullen, C.K. (2012) Two new species of Miconia sect. Sagraea
+(Melastomataceae) from the Macaya Biosphere Reserve, Haiti, and twelve relevant new species combinations.
+Brittonia 64: 61–72.
+http://dx.doi.org/10.1007/s12228-011-9214-0
+Judd, W.S. (1986) Taxonomic studies in the Miconieae (Melastomataceae). I. Variation in inflorescence position.
+Brittonia 38: 150–161.
+http://dx.doi.org/10.2307/2807268
+Judd, W.S. (1989) Taxonomic studies in the Miconieae (Melastomataceae). III. Cladistic analysis of axillary-flowered
+taxa. Annals of the Missouri Botanical Garden 76: 476–495.
+Judd, W.S. (2007) Revision of Miconia sect. Chaenopleura (Miconieae, Melastomataceae) in the Greater Antilles.
+Systematic Botany Monographs 81: 1–235.
+Judd, W.S. & Skean, Jr., D. (1991) Taxonomic studies in the Miconieae (Melastomataceae). IV. Generic realignments
+among terminal-flowered taxa. Bulletin of the Florida Museum of Natural History, Biological Sciences 36: 25–84.
+Judd, W.S. & Ionta, G.M. (2013) Taxonomic studies in Miconieae (Melastomataceae). X. Revision of the species of the
+Miconia crotonifolia complex. Brittonia 65: 66–95.
+http://dx.doi.org/10.1007/s12228-012-9264-y
+Liogier, A.H. (2000) La flora de la Española. Vol. IX. Jardín Nacional Dr. Rafael Ma. Moscoso, Instituto Tecnológico de
+Santo Domingo, Santo Domingo. 151 pp.
+Macbride, J.F. (1941) Melastomataceae. Flora of Peru. Fieldiana, Botanica 13: 249–523.
+Majure, L.C. & Judd, W.S. (2013) Miconia phrynosomaderma (Melastomataceae: Miconieae), a new species of Miconia
+from the Massif du Nord, Haiti, and sixteen new names and combinations. Journal of the Botanical Research
+Institute of Texas 7: 265–274.
+Martin, C.V., Little, D.P., Goldenberg, R. & Michelangeli, F.A. (2008) A phylogenetic evaluation of Leandra
+(Miconieae, Melastomataceae): a polyphyletic genus where the seeds tell the story, not the petals. Cladistics 24:
+317–327.
+http://dx.doi.org/10.1111/j.1096-0031.2007.00185.x
+Michelangeli, F.A., Pennys, D.S., Giza, J., Soltis, D.E., Hils, M.H. & Skean, Jr., J.D. (2004) A preliminary phylogeny of
+the tribe Miconieae (Melastomataceae) based on ITS data and its implications on inflorescence position. Taxon 53:
+279–290.
+http://dx.doi.org/10.2307/4135608
+Michelangeli, F.A., Judd, W.S., Penneys, D.S., Skean, Jr., J.D., Bécquer Granados, E.R., Goldenberg, R. & Martin, C.V.
+(2008) Multiple events of dispersal and radiation of the tribe Miconieae (Melastomataceae) in the Caribbean.
+Botanical Review 74: 53–77.
+http://dx.doi.org/10.1007/s12229-008-9004-x
+Reginato, M., Michelangeli, F.A. & Goldenberg, R. (2010) Phylogeny of Pleiochiton (Melastomataceae: Miconieae):
+total evidence. Botanical Journal of the Linnean Society 162: 423–434.
+http://dx.doi.org/10.1111/j.1095-8339.2009.01022.x
+Ruiz, H. & Pavón, J. (1794) Florae peruvianae, et chilensis prodromus. Imprenta de Sancha, Madrid,153 pp.
+Urban, I. (1921) Symbolae Antillanae, seu fundamenta florae indiae occidentalis. vol. 8, Paris. 860 pp.
+Urban, I. (1927). Ossaea limoides. In: I. Urban. Plantae Haitienses novae vel rariores IV. a cl. E.L. Ekman 1924–1927
+lectae. Arkiv för Botanik 21A, 5: 50.
+Urban, I. & Ekman, E.L. (1929). Ossaea marigotiana. In: I. Urban, Plantae Haitienses et Domingenses novae vel rariores
+VII. a cl. E.L. Ekman 1924–1928 lectae. Arkiv för Botanik 22A, 17: 65.
+Urban, I. & Ekman, E.L. (1931) Magnolia pallescens, In: I. Urban, Plantae Haitienses et Domingenses novae vel rariores
+IX. a cl. E.L. Ekman 1924-1928 lectae. Arkiv för Botanik 23A, 11: 10.
+Wheeler, Q.D. & Platnick, N.I. (2000) The phylogenetic species concept (sensu Wheeler and Platnick). In: Q.D. Wheeler
+& R. Meier, eds. Species concepts and phylogenetic theory: a debate. Columbia University Press, New York. pp. 55–
+69.
+Wurdack, J.J. (1972) Certamen Melastomataceis XVIII. Phytologia 22: 399–418.
+http://dx.doi.org/10.2307/2804774
+
+16 •
+
+Phytotaxa 131 (1) © 2013 Magnolia Press
+
+MAJURE & JUDD
+
+

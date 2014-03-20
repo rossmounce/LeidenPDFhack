@@ -1,0 +1,583 @@
+Phytotaxa 127 (1): 150–162 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.15
+
+Recent changes in abundance and cell size of pelagic diatoms in the North
+American Great Lakes
+EUAN D. REAVIE1 & RICHARD P. BARBIERO2
+1
+
+Natural Resources Research Institute, University of Minnesota Duluth, 1900 East Camp Street, Ely, MN, USA 55731;
+Tel.: 218-235-2184; Fax: 218-235-2186; Email: ereavie@d.umn.edu (corresponding author)
+2
+Loyola University Chicago and Computer Sciences Corporation, 1359 West Elmdale Avenue Suite #2, Chicago, IL 60660
+
+Abstract
+Changes in diatom abundance and cell size in Great Lakes phytoplankton collections were examined from two periods,
+1996–1999 and 2007–2008. Trends indicate marked shifts in pelagic diatoms, including diatom total biovolume and cell
+density declines. Concurrent with these changes have been establishments of invasive species, water quality changes and
+longer stratification periods resulting from climate warming. No consistent change in cell sizes was observed in diatoms
+between the two periods in the Great Lakes basin as a whole, but lake- and taxon-specific changes were apparent. Cell
+size declines include centric and pennate diatoms in the spring in Lake Huron and pennate diatoms in the spring in Lake
+Superior. Increases in cell size occurred for centric diatoms in Lake Erie and pennate diatoms in the summer in lakes
+Michigan and Ontario. Some of the more dominant taxa exhibited lake-specific shifts. For instance, lightly-silicified
+diatoms such as Nitzschia increased in length in Lake Huron, possibly as an adaptation to climate warming and/or
+declining nutrient supplies. Difficulty in explaining the observed changes in cell sizes is acknowledged, but continued
+study of these trends is critical to understanding impacts on Great Lakes food webs.
+Key words: diatom sizes, large lakes, cell density, stressors, grazers, nutrients
+
+Introduction
+Phytoplankton size structures are influenced by environmental drivers such as nutrients, thermal structure of
+the water column and grazing (Parsons & Takahashi 1973). For example, high nutrient concentrations often
+result in a shift to larger-celled algal assemblages (Watson & Kalff 1981, Peters 1983, Sprules & Munawar
+1986). Physiological models generally predict that the proportion of smaller cells in an assemblage will
+increase with decreasing nutrient availability (Irwin et al. 2006). In most related literature this is considered
+logical because nutrient (and light) acquisition is maximized at high surface area/volume ratios (i.e., small
+sizes) (Finkel et al. 2004). Alternatively, it has also been hypothesized that diatom size decreases in response
+to increasing nutrients in order to slow the rate of sinking out of the euphotic zone as would be needed if the
+depth of light penetration decreased with increasing biological content of the epilimnion (Smol et al. 1984).
+It has been postulated that size-dependent sinking would be constrained by stratification regimes
+(Rodríguez et al. 2001; Winder et al. 2009), and so cell sizes and shapes may adjust in response to climate
+shifts such as warming. Climate influences have been noted to have simultaneous influences on taxonomic
+composition and cell sizes in diatom communities. Over the period of recent warming, arctic (Smol et al.
+2005) and temperate lakes in Europe and North America (Rühland et al. 2008) have manifested a distinct shift
+towards smaller planktonic diatom species, especially those in the genus Cyclotella (Kützing) de Brébisson
+(1838: 19). Finkel et al. (2009) noted that the median size of diatoms decreased in a comparison of preEuropean and modern sedimentary assemblages of diatoms from a suite of alkaline Ontario lakes. The
+apparent selection of small species was linked to climate-induced increases in the duration and strength of the
+
+150 Accepted by M.B. Edlund: 10 Aug. 2011; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+stratification period. In agreement, a reduction in diatom size in Lake Tahoe has been linked to climateinduced strengthening of summer stratification (Winder et al. 2009).
+Size ranges of phytoplankton consumed by grazers are limited by grazer morphology (Burns 1968, Geller
+& Muller 1981, Bogdan & Gilbert 1984), particularly in the case of filter-feeding cladocerans, and also by
+size-selective feeding by copepods (Wilson 1973). Therefore, changes in the composition of the herbivore
+community can impact size distributions of phytoplankton. Sommer et al. (2001) have shown differential
+effects of cladocerans and copepods on the size structure of phytoplankton communities. This is particularly
+relevant given the dramatic shifts in cladoceran/copepod ratios that have been observed recently in some of
+the Great Lakes (Barbiero et al. 2009a, 2009b). Shifts in algal cell sizes have generally been observed as shifts
+in the assemblage; i.e., a change in species composition in response to a change in environmental conditions.
+However, little is known about intra-species changes in algal cell size, with the rare exception of herbivorealgae studies. Some algal species are able to adjust their phenotype (e.g., spines, size) in response to grazing.
+For instance, grazing pressure has been known to result in changes in the shape and size of certain algae, such
+as Scenedesmus Meyen (1829: 774) (Hessen & Van Donk 1993), but similar evaluations for diatoms have
+been rare (e.g., Pondaven et al. 2007).
+The planktonic communities of the Laurentian Great Lakes have been subject to environmental changes
+in the past several decades that might have an impact on diatom cell size. Successful implementation of
+phosphorus controls in response to the Great Lakes Water Quality Agreement has resulted in a decrease in
+nutrient concentrations in many regions of the lakes (Johengen et al. 1994, Dolan & McGunagle 2005). This
+trend towards oligotrophication has accelerated in recent years, perhaps driven by the appearance of
+dreissenid mussels (Barbiero et al. 2009a, 2009b, Dove 2009, Fahnenstiel et al. 2010). These more recent
+reductions in nutrients have been accompanied by sometimes dramatic shifts in zooplankton communities.
+For example, the cladoceran community of Lake Huron has virtually disappeared since 2003 (Barbiero et al.
+2009a), while similar, if not quite as dramatic, changes have occurred in Lake Michigan at roughly the same
+time (Kerfoot et al. 2010). There is also recent evidence that climate change has resulted in warming of the
+Great Lakes and an increase in the period of stratification (e.g., Austin & Coleman 2008, Dobiesz et al. 2009,
+Trumpickas et al. 2009).
+While some of the effects of these changes on diatom communities have already been documented (e.g.,
+Barbiero et al. 2006), much remains unknown about the impacts of recent climate warming, changes in
+nutrient flux (increases and decreases), herbivore shifts and other stressors on the Great Lakes pelagic system.
+A cursory analysis of the Great Lakes phytoplankton from the last 15 years reveals declines in cell numbers
+and biovolume (with the exception of Lake Erie), concurrent with rapid changes in water quality (Osantowski
+2010) and other biological communities [zooplankton (Barbiero et al. 2009a), the benthic macroinvertebrate
+Diporeia (Nalepa et al. 2009)]. In some cases these changes are attributed to establishment of invasive
+species, such as the quagga mussel which has carpeted the entire Lake Michigan basin (Bunnell et al. 2009),
+likely resulting in dramatic reductions in microorganism biomass. However, changes in the planktonic
+community, especially those that probably reflect trophic relationships, are not always so easily explained.
+A better understanding of the shifts in the Great Lakes phytoplankton is needed to explain past changes in
+environmental condition, but more importantly to determine future scenarios. The recent, rapid shifts in water
+quality and biological assemblages are worrisome, and explanations of likely causal factors will be critical to
+management recommendations. Evaluating changes in diatom assemblages and cell sizes, and comparing
+these changes with shifts observed in other freshwater lakes, can reveal drivers and trajectories of pelagic
+condition as they relate to primary producers. Furthermore, future applications of diatom size in sedimentary
+records could be a useful indicator of ecological change (e.g., warming; Winder et al. 2009) in response to
+changes in a lake’s condition.
+Since 1983 the USEPA’s Great Lakes National Program Office (GLNPO) has undertaken an annual
+monitoring program for the pelagic Great Lakes. To meet goals of the Great Lakes Water Quality Agreement
+of 1978 (USEPA 1997), the monitoring program collects environmental information that is important to
+understanding the Great Lakes food chain. The primary objective of the annual program is to assess the
+CHANGES IN PELAGIC DIATOMS IN THE NORTH AMERICAN GREAT LAKES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 151
+
+environmental quality in the open lake basins. Phytoplankton collections are followed by identification and
+enumeration of diatoms and non-diatomaceous algae. Ultimately these algae data are evaluated for long-term
+trends in phytoplankton as they relate to stressors and food web dynamics. We quantified the abundance,
+taxonomic composition and size of diatoms from the Great Lakes phytoplankton collections from two
+periods; a pre-2000 (1996–1999) and recent (2007–2008) period. Primary aims of this examination of 13-year
+trends from the pelagic Great Lakes were to substantiate trends in diatom (1) density and biovolume, (2) cell
+sizes, and (3) assemblage composition. From these trends we affirm the main changes taking place and
+hypothesize driving influences.
+
+Methods
+Twice yearly the U.S. EPA conducts surveillance monitoring of the offshore waters of the Great Lakes to
+fulfill provisions of the Great Lakes Water Quality Agreement. To track environmental conditions and trends
+these surveys include phytoplankton collections (Barbiero & Tuchman 2002), and detailed diatom
+assessments are performed on these samples. The diatom samples in this investigation comprise pelagic
+collections from spring and summer cruises of the R/V Peter Wise Lake Guardian in 1996, 1998, 1999, 2007
+and 2008. Integrated phytoplankton samples were created from a composite of water samples taken at discrete
+depths with a rosette sampler. For an unstratified water column (early spring), the integrated sample was
+prepared by taking equal volumes of water from depths of 1, 5, 10 and 20 meters unless the depth was less
+than 20 meters. For epilimnetic sampling of a stratified water column (summer), equal volumes were taken
+from 1 m, 5 m, 10 m and the lower epilimnion. Aliquots from each depth were combined to form a 1-L
+composite sample which was preserved with 10 mL each of Lugol’s Solution and 37% formalin.
+Sample preparation
+At least 500 mL of sample water were digested in a 1000 mL beaker using 20 mL of concentrated HNO3.
+Beakers were heated at approximately 100 ºC (steaming or barely boiling) on a hotplate until the volume was
+reduced to about 20 mL. In a 300 mL beaker the remaining water was combined with 25 mL of 30% H2O2 and
+a few crystal grains of K2Cr2O7. Samples were re-heated until the volume was reduced to less than 10 mL.
+Samples were transferred to 15-mL graduated centrifuge tubes and rinsed at least seven times with deionized
+water as follows: Samples were centrifuged at 1500 rpm for 20 minutes; all but 0.5 mL of supernatant was
+were drawn off; deionized water was added to bring the volume up to at least 10 mL; and the sample was
+agitated using a vortex mixer. On final centrifugation all but 0.5 mL of supernatant was drawn off and the final
+slurry volume was brought up to 5 mL with deionized water.
+Two microscope slides were made from each sample. Round coverslips were placed on a static-free slide
+warmer. A homogenized 0.25 mL aliquot of slurry was added to each coverslip and allowed to dry. Heating of
+the slides was never applied because it resulted in clumping of the diatom remains, so coverslips were allowed
+to dry at room temperature. Diatom density was observed at 200x magnification under a compound
+microscope to ensure adequate diatom density for counting. If needed, additional slurry was added and dried.
+Coverslips were mounted on microscope slides using Hyrax® medium.
+Sample analysis
+Diatoms were identified and enumerated at 1000–1250x using oil immersion. Identification to the lowest
+taxonomic rank was facilitated using standard references (a full list of the taxonomic literature used is
+available from the primary author). At least 500 valves were counted per slide. At least 10 specimens of each
+taxon were measured for cell volume calculations. When fewer than 10 specimens were present, those present
+were measured as they were encountered. Measurements for each specimen were recorded as one or more of
+length, width, diameter and depth. For many taxa (such as Stephanodiscus Ehrenberg (1845: 72) and
+Cyclotella), depth measurements were problematic because the cells were seldom oriented in girdle view. For
+
+152 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+REAVIE & BARBIERO
+
+biovolume calculations, when a certain dimension for a specimen could not be measured the average for that
+taxon was assumed based on measurements from previous years. Cell size as presented in the results refers to
+the most relevant measured dimension for a given taxon. For instance, because they were typically oriented in
+valve view the most frequent available measurement for Cyclotella stelligera (Cleve & Grunow in Cleve) Van
+Heurck (1882: pl. 94, fig. 22–26) was valve diameter, whereas for the pennate diatom Fragilaria crotonensis
+Kitton (1869: 110) the valve length was almost always measured. Taxa such as Aulacoseira Thwaites (1848:
+167) were typically oriented in girdle view, so valve depth was the dominant measurement.
+Densities of diatom cells (cells mL-1) were based on quantitative counts of centric and pennate diatoms
+recorded during detailed assessment of the non-diatomaceous algae (USEPA 2010). Biovolumes of cells (µm3
+mL-1) were calculated based on formulas representing the closest approximation of each diatom’s geometric
+shape. A list of the geometric forms and formulae are listed in Chapter 4 of the USEPA’s standard operating
+procedures for the monitoring effort (USEPA 2010). For this article, calculations were used to estimate algal
+biovolume per unit water volume for all diatoms encountered in a given sample, centric diatoms and pennate
+diatoms. Pre- and post-2000 analyses were performed by different algal analysts. Although taxonomic workshops
+were held for consistency we cannot fully discount an analytical artifact on algal abundance estimates.
+To evaluate changes over the sampling period, monitoring data (cell dimensions, densities and
+biovolumes) were averaged for each of the pre- (three years) and post-2000 (two years) periods. Differences
+in these parameters between the two periods were used to graphically track changes. Significance of changes
+was determined using the R programming language (version 2.10.0, R Development Core Team 2010) with
+the R Commander package (version 1.5-6, Fox 2005).
+
+Results
+Diatom abundance
+The dominant difference in Great Lakes diatoms between the two periods was a decline in assemblage density
+and biovolume, with spring assemblages exhibiting the most obvious unidirectional differences (Fig. 1).
+Spring data show consistent declines in both density and biovolume in the upper lakes (Superior, Huron,
+Michigan) and declines in biovolume in Lake Ontario. Increases in spring diatoms in Lake Erie are attributed
+to substantial recent blooms of the large-celled centric diatom Aulacoseira islandica (O.Müller) Simonsen
+(1979: 60), especially in the central basin. Trends in summer abundance varied by sample location. In the
+summer, diatom densities and biovolume in central to northern Lake Huron and southern locations in lake
+Superior predominantly declined, density and biovolume increased in northern Lake Superior, and biovolume
+declined in central lake Erie while densities increased. Otherwise there was little evidence of lake-wide
+summer trends for the other lakes. While not presented here, it is worth noting that other algal forms
+(chrysophytes, cryptophytes, chlorophytes and cyanophytes) largely exhibited a similar summer change as the
+diatoms over the study period (unpublished data).
+Are cells getting smaller or larger?
+By constraining size-based analyses to taxa that occurred in both the pre- and post-2000 assemblages we
+factored out the influence of assemblage shifts over time and examined whether average cell sizes were
+collectively changing across the individual taxa (Fig. 2). Overall, the first two columns of scatterplots in Fig.
+2 indicate no consistent change in taxon-specific cell sizes. Applying a paired test on taxon-specific
+differences in each lake for each season revealed no overall change in cell sizes (Wilcoxon paired tests with
+Bonferroni correction for multiple comparisons, P = 0.05). Points that lie farther from the 1:1 line indicate that
+some taxa may have changed size, but in general these taxa tended to be less common and so may not
+accurately represent their populations. For instance, the average length of Amphipleura pellucida (Kützing)
+Kützing (1844: 103) (Fig. 2) may have decreased, but this taxon was not commonly observed in
+phytoplankton samples. More detailed investigation into taxon-specific changes in Lake Erie indicated that
+CHANGES IN PELAGIC DIATOMS IN THE NORTH AMERICAN GREAT LAKES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 153
+
+the abundant taxon Aulacoseira islandica (an increase from 18 to 21 µm average mantle depth), among
+others, has increased in average size. Similar shifts were not reflected in most other taxa. A comparison of
+boxplots indicates no overall change in cell sizes when sizes were averaged within taxa and across both
+seasons (Fig. 2, third column).
+
+FIGURE 1: Average change in density and biovolume of total diatoms in spring and summer from sample locations throughout the
+Great Lakes. Lines represent the difference in diatom abundance (density or biovolume) between the average for pre-2000 years (1996,
+1998, 1999) and post-2000 years (2007, 2008). Black, down-pointing lines indicate declines in diatom cell densities or biovolumes at
+each sample location. Gray, up-pointing lines similarly indicate density or biovolume increases over the sampling period.
+
+Examination of the site-specific changes in cell size for total diatoms, centrics and pennates (Fig. 3)
+reveals no consistent pattern across the Great Lakes. In the spring, cell size decreases are noted in Lake
+Huron, western Lake Erie and eastern Lake Ontario; these size reductions are largely attributed to the pennate
+diatoms. In Lake Erie, spring cell sizes increased in the central and eastern basins, mostly due to the dominant
+Aulacoseira islandica. Spring size changes in Lake Superior have no discernable spatial pattern overall, but
+pennate diatoms may be decreasing in size. Similarly for summer, no Great Lakes basin-wide pattern in size
+changes were apparent. However, lake-specific changes suggest that summer cells are getting smaller in
+northern Lake Huron (pennates) and central and eastern Lake Erie (centrics and pennates). Summer size
+increases are apparent in Lake Michigan (mostly pennate diatoms), and Lake Ontario (mostly pennates).
+Space limitations prevent inclusion of trend data for all of the common Great Lakes taxa, but trends in cell
+sizes for some of the species that contribute substantial algal biovolume to the lakes are presented in Fig. 4
+(similar plots for all common taxa are available from the primary author). Certain taxa, such as large
+Stephanodiscus, have notably decreased in size in some of the lakes, whereas many of the thin, narrowlanceolate or rod-shaped taxa (e.g., Nitzschia Hassall (1845: 435) and Asterionella formosa Hassall (1850:
+10)) have become longer. As an example, Nitzschia acicularis (Kützing) W. Smith (1853: 43), a common
+diatom in Lake Superior in spring and summer, has increased in length by an average of 27 µm in that lake.
+
+154 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+REAVIE & BARBIERO
+
+FIGURE 2: Comparison of pre-2000 (1996, 1998, 1999) and post-2000 (2007, 2008) cell sizes. Each circle in the first two columns
+(spring and summer) represents a comparison of average cell size for a taxon. Taxa that occurred in only one period are not included.
+Diagonal gray lines are 1:1 and black lines are the fitted regressions. AP indicates Amphipleura pellucida, as mentioned in the text.
+The third column presents boxplot distributions of taxon-specific average cell sizes (spring and summer combined) for the two
+periods, for all taxa present in each period. Paired t-tests (P = 0.05, with Bonferroni correction for multiple comparisons) were used to
+determine differences between the two periods (no significant differences were noted). The top and bottom of each box are the 25th
+and 75th percentiles, a line is drawn through the middle of each box at the median, with pinches representing ± 10 percentiles. The
+upper and lower tails respectively indicate the largest and smallest scores beyond 1.5 interquartile ranges of the box percentiles.
+
+CHANGES IN PELAGIC DIATOMS IN THE NORTH AMERICAN GREAT LAKES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 155
+
+FIGURE 3: Change in cell size (µm) for diatoms from sample locations throughout the Great Lakes. Line lengths represent the
+difference in size between the average for pre-2000 years (1996, 1998, 1999) and post-2000 years (2007, 2008). Sizes for the two
+periods were based on an average of all measured cells at each location. Seasonal data are presented for all, centric and pennate
+diatoms. Black, down-pointing lines indicate declines in average cell size at each sample location. Gray, up-pointing lines similarly
+indicate cell size increases over the sampling period.
+
+156 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+REAVIE & BARBIERO
+
+FIGURE 4: Change in cell size (µm) for select diatom species from spring sample locations throughout the Great Lakes. Line lengths
+represent the difference in size between the average for pre-2000 years (1996, 1998, 1999) and post-2000 years (2007, 2008). Black,
+down-pointing lines indicate declines in average cell size at each sample location. Gray, up-pointing lines similarly indicate cell size
+increases over the sampling period. The presence of a circle at a sampling station indicates that the taxon was observed during both
+periods.
+
+CHANGES IN PELAGIC DIATOMS IN THE NORTH AMERICAN GREAT LAKES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 157
+
+Discussion
+With the exception of Lake Erie, recent declines in the density and biovolume of diatoms have occurred in the
+Great Lakes basin. Lake- and taxon-specific changes in cell sizes were also observed for the study period.
+These changes in the diatoms are attributed to some known changes in environmental condition, but in many
+cases it has been difficult to confirm reasons for the observed shifts.
+Despite substantial changes in physical, chemical and biological conditions in the Great Lakes over the
+13-year study period, no consistent shift in diatom sizes has occurred across all taxa. While shifts to smaller
+diatoms have been the norm in lakes throughout the Northern Hemisphere (Rühland et al. 2008), a similar
+trend does not appear to apply to the recent history of the Great Lakes, likely owing to the significant
+physicochemical differences between the Great Lakes and the smaller lakes used in the paleoecological data
+summary of Rühland et al. To understand the observed trends it is clear that the Great Lakes need to be
+considered individually, and in cases like Lake Erie there are obvious spatial differences among sub-basins.
+There has been a distinct shift to smaller taxa in Lake Huron, particularly in spring assemblages. Closer
+examination of taxonomic shifts reveals that large-celled taxa such as Stephanodiscus subtransylvanicus
+Gasse (1980: 47–48) have been replaced by smaller-celled taxa including Cyclotella cf. atomus Hustedt
+(1937: 143). Lake Huron has undergone the most dramatic ecological changes between the two periods
+compared in our study. These include the crash of cladoceran populations in the offshore of the lake (Barbiero
+et al. 2009a) and the collapse of alewife (Alosa pseudoharengus Wilson), previously the main prey fish in the
+lake (Riley et al. 2008), both in 2003. That same year saw an abrupt decline in the magnitude of the spring
+algal bloom, according to higher water clarity (Barbiero et al. 2011). During the study period Huron has
+simultaneously experienced declines in nutrients (Barbiero 2009a) and overall algal biomass (Barbiero et al.
+2011), factors that may be related to the establishment of the quagga mussel (Nalepa et al. 2007). Similar
+chemical and biological trends have been observed in Lake Michigan (Fahnenstiel et al. 2010), but Michigan
+experienced an average increase in the length of pennate diatoms. It may be that, due to the rapid expansion of
+the filter-feeding quagga mussel throughout the Michigan basin between the two periods investigated in our
+study (Nalepa et al. 2009), the diatoms, albeit lower in number, are becoming larger as smaller cells are
+selectively grazed. It is unclear, though, whether such shifts would be manifested at the species level, as
+opposed to the community level.
+In general it appears that, as Huron became more oligotrophic, large, heavy diatoms such as Aulacoseira
+islandica and Stephanodiscus subtransylvanicus decreased in size while needle-like taxa, such as Nitzschia
+acicularis and Asterionella formosa, became longer. Such a change might suggest adaptation of needle-like
+cells to increase surface area for nutrient absorption in an increasingly limited environment. Increasing in
+length is also considered an adaptation to reduce sinking rates (Hutchinson 1967), which may be a result of a
+longer ice-free season and stronger late-summer stratification (higher epilimnetic temperatures and greater
+density differential in the thermocline; King et al. 1997).
+Although dreissenids appear to be a driving force behind algal declines in Lake Michigan (Vanderploeg et
+al. 2010), some of the changes in diatom assemblage composition and cell sizes in the other lakes are
+probably not explainable by grazing pressure. Lake Huron has a smaller dreissenid population (Nalepa et al.
+2007) and has seen substantial declines in zooplankton, yet algal densities are also declining (Barbiero et al.
+2011). In Lake Superior there is no known change in herbivores that could account for the observed spring
+declines in cell density and biovolume. This decrease in Huron and Superior’s algal density and biovolume
+may be associated with warming climate, which has reduced the average period and extent of ice cover,
+increased average annual surface water temperatures and extended the annual stratification period (e.g.,
+Austin & Coleman 2008). Similar phenomena on other large lakes, such as Lake Tahoe (Winder et al. 2009),
+resulted in a decrease in the median size of diatoms as an adaptation to reduce sinking velocity. A similar
+overall change in cell sizes did not occur in Lake Superior, but certain taxa have had clear unidirectional shifts
+in cell size; some taxa have decreased (e.g., Stephanodiscus niagarae Ehrenberg) or increased (e.g., Nitzschia
+acicularis) in size. Physical and chemical changes in the lake are probably affecting these changes, but
+
+158 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+REAVIE & BARBIERO
+
+additional work is needed to better understand mechanisms. Despite an increase in average surface water
+temperature it may be that there has not been sufficient time to monitor or observe class-wide changes in
+diatom cell size in Lake Superior as a result of warming (note that reductions in the size of diatoms observed
+by Rühland et al. [2008] were derived from paleoecological records covering a period of more than 100
+years.) Concurrent changes in water quality, such as nutrients (Chapra et al. 2009), are probably limiting
+planktonic assemblages, but adaptational explanations for these changes are only speculative at this time.
+While diatom biovolume and densities predominantly declined across the Great Lakes basin, recent
+phytoplankton collections from Lake Erie indicate increased diatom production. Most notable is the
+predictable spring bloom of Aulacoseira islandica. The dominance of this taxon contributes to the increase in
+average cell size in the assemblage, especially in Erie’s central basin. This change further supports the
+premise that eutrophication may lead to larger cells (Winder et al. 2009), particularly in a well-mixed,
+enriched lake such as Erie. However there are contrasting views in the published literature, such as Stoermer
+et al. (1989), who noted in Lake Ontario that the diatom Stephanodiscus niagarae Ehrenberg (1845: 80)
+decreased in diameter following eutrophication and an apparent prevention of sexual reproduction in the
+species. Further, Stoermer et al. (1985) determined that eutrophication and resulting silica depletion caused
+specimens of Melosira (Aulacoseira) islandica to become more finely-structured in more recent sediments of
+a Lake Ontario core. The paleoecological data reflect size changes within particular taxa caused by
+environmental drivers. Such unidirectional, taxon-specific changes were not as obvious in our 13-year
+analyses. Based on inter-lake differences, a given taxon could increase or decrease in size based on each lake’s
+unique and complex interaction of environmental factors. Even though there have been significant
+environmental and assemblage changes over our study period, changes in nutrients and silica do not appear to
+be having consistent impact on cell sizes within taxa.
+Reasons for the augmentation of these spring diatom blooms are uncertain at this time. Nutrient trends
+suggest that individual nutrient concentrations have not changed significantly in the last decade, although the
+central and eastern basins of Lake Erie are the only pelagic regions in the Great Lakes with a declining N:P
+ratio (USEPA, unpublished data). The success of Aulacoseira in Lake Erie may be a competitive response to
+this changing ratio, so nutrient ratios may be worth additional exploration.
+Study of changes in the size and shape of specific organisms in response to environmental influences has
+been performed largely on higher trophic levels (e.g., cladoceran morphological responses to predation
+pressure; Chang & Hanazato 2003). This analysis of Great Lakes diatoms indicates that some algal taxa may
+also respond to environmental cues by changing size. However, the predominant shift in sizes, where
+detectable, is attributed to temporal shifts in the taxa comprising each lake’s assemblage. Long-term changes
+in Great Lakes phytoplanktonic algal assemblages have been documented previously using fossil material
+(e.g., Stoermer 1993), and it is recommended that further paleoecological investigations be used to clarify
+long-term, size-related changes in the algal communities.
+Biotic and abiotic factors are determining the size structure in diatom communities in the Great Lakes,
+and the relative effects of these factors vary by lake. These lake-specific considerations will be important in
+future tracking of diatom-based trends, especially in paleoecological and other applications that require longterm information on environmental quality and food web dynamics.
+
+Acknowledgements
+Michael Agbeti, Joseph Volerman and Jennifer Gronefeld supported diatom assessments of the GLNPO
+phytoplankton samples. This research was supported by a grant to E. Reavie from the U.S. Environmental
+Protection Agency under Cooperative Agreements GL-00E23101. This document has not been subjected to
+the Agency’s required peer and policy review and therefore does not necessarily reflect the view of the
+Agency, and no official endorsement should be inferred. This is contribution number 539 of the Center for
+Water and the Environment, Natural Resources Research Institute, University of Minnesota Duluth.
+CHANGES IN PELAGIC DIATOMS IN THE NORTH AMERICAN GREAT LAKES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 159
+
+References
+Austin, J. & Colman, S. (2008) A century of temperature variability in Lake Superior. Limnology and Oceanography 53:
+2724–2730.
+http://dx.doi.org/10.4319/lo.2008.53.6.2724
+Barbiero R.P. & Tuchman, M.L. (2002) Results from GLNPO’s biological open water surveillance program of the
+Laurentian Great Lakes 1999. Report to US EPA Great Lakes National Program Office, EPA-905-R-02-001, 32 pp.
+Barbiero, R.P., Lesht, B.M. & Warren, G.J. (2011) Evidence for bottom-up control of recent shifts in the pelagic food web
+of Lake Huron. Journal of Great Lakes Research 37: 78–85.
+http://dx.doi.org/10.1016/j.jglr.2010.11.013
+Barbiero, R.P., Balcer, M., Rockwell, D.C. & Tuchman, M.L. (2009a) Recent shifts in the crustacean zooplankton
+community of Lake Huron. Canadian Journal of Fisheries and Aquatic Sciences 66: 816–828.
+http://dx.doi.org/10.1139/F09-036
+Barbiero, R.P., Bunnell, D.B., Rockwell, D.C. & Tuchman, M.L. (2009b) Recent increases in the large glacial-relict
+calanoid Limnocalanus macrurus in Lake Michigan. Journal of Great Lakes Research 35: 285–292.
+http://dx.doi.org/10.1016/j.jglr.2008.12.006
+Barbiero, R.P., Rockwell, D.C., Warren, G.J. & Tuchman, M.L. 2006. Changes in spring phytoplankton communities and
+nutrient dynamics in the eastern basin of Lake Erie since the invasion of Dreissena spp. Canadian Journal of
+Fisheries and Aquatic Sciences 63: 1549–1563.
+http://dx.doi.org/10.1139/f06-059
+Bogdan, K.G. & Gilbert, J.J. (1984) Body size and food size in freshwater zooplankton. Proceedings of the National
+Academy of Sciences 81: 6427–6431.
+http://dx.doi.org/10.1073/pnas.81.20.6427
+Brébisson, A. de. (1838) Considérations sur les Diatomées et essai d'une classification des genres et des espèces
+appartenant à cette famille. Brée l'Ainé Imprimeur-Libraire, Falaise. 22 pp.
+Bunnell, D.B., Madenjian, C.P. Holuszko, J.D., Adams, J.V. & French III, J.R.P. (2009) Expansion of Dreissena into
+offshore waters of Lake Michigan and potential impacts on fish populations. Journal of Great Lakes Research 35:
+74–80.
+http://dx.doi.org/10.1016/j.jglr.2008.10.002
+Burns, C.W. (1968) The relationship between body size of filter-feeding Cladocera and the maximum size of particles
+ingested. Limnology and Oceanography 13: 675–678.
+http://dx.doi.org/10.4319/lo.1968.13.4.0675
+Chang, K.H. & Hanazato, T. (2003) Seasonal and reciprocal succession and cyclomorphosis of two Bosmina species
+(Cladocera, Crustacea) co-existing in a lake: their relationship with invertebrate predators. Journal of Plankton
+Research 25: 141–150.
+http://dx.doi.org/10.1093/plankt/25.2.141
+Chapra, S.C., Dove, A. & Rockwell, D.C. (2009) Great Lakes chloride trends: Long-term mass balance and loading
+analysis. Journal of Great Lakes Research 35: 272–284.
+http://dx.doi.org/10.1016/j.jglr.2008.11.013
+Dobiesz, N.E. & Lester, N.P. (2009) Changes in mid-summer water temperature and clarity across the Great Lakes
+between 1968 and 2002. Journal of Great Lakes Research 35: 371–384.
+http://dx.doi.org/10.1016/j.jglr.2009.05.002
+Dolan, D.M. & McGunagle, K.P. (2005) Lake Erie total phosphorus loading analysis and update: 1996–2002. Journal of
+Great Lakes Research 31: 11–22.
+http://dx.doi.org/10.1016/S0380-1330(05)70301-4
+Dove, A. (2009) Long-term trends in major ions and nutrients in Lake Ontario. Aquatic Ecosystem Health and
+Management 12: 281–295.
+http://dx.doi.org/10.1080/14634980903136388
+Ehrenberg, C.G. (1845) Neue Untersuchungen über das kleinste Leben als geologisches Moment. Bericht über die zur
+Bekanntmachung geeigneten Verhandlungen der Königlich-Preussischen Akademie der Wissenschaften zu Berlin
+1845: 53–87.
+Fahnenstiel, G., Pothoven, S., Vanderploeg, H., Klarer, D., Nalepa, T. & Scavia, D. (2010) Recent changes in primary
+production and phytoplankton in the offshore region of southeastern Lake Michigan. Journal of Great Lakes
+Research 36(3): 20–29.
+http://dx.doi.org/10.1016/j.jglr.2010.03.009
+Finkel, Z.V., Irwin, A.J. & Schofield, O. (2004) Resource limitation alters the 3/4 size scaling of metabolic rates in
+phytoplankton. Marine Ecology Progress Series 273: 269–279.
+http://dx.doi.org/10.3354/meps273269
+
+160 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+REAVIE & BARBIERO
+
+Finkel, Z.V., Vaillancourt, C.J., Irwin, A.J., Reavie, E.D. & Smol, J.P. (2009) Environmental control of diatom
+community size structure varies across aquatic ecosystems. Proceedings of the Royal Society B 276: 1627–1634.
+http://dx.doi.org/10.1098/rspb.2008.1610
+Fox, J. (2005) The R Commander: a basic-statistics graphical user interface to R. Journal of Statistical Software 14: 1–42
+Gasse, F. (1980) Les diatomées lacustres Plio-Pleistocènes du Gadeb (Ethiopie). Systématique, paléoécologie,
+biostratigraphie. Revue Algologique, Mémoire hors-série 3: 249 pp.
+Geller, W. & Müller, H. (1981). The filtration apparatus of cladocera. Filter mesh sizes and their implications on food
+selectivity. Oecologia 49: 316–321.
+http://dx.doi.org/10.1007/BF00347591
+Hassall, A.H. (1845) A history of the British Freshwater Algae (including descriptions of the Diatomaceae and
+Desmidiaceae) with upwards of one hundred Plates. I. Text. Taylor, Walton, and Maberly, London. 462 pp.
+Hassall, A.H. (1850) The Diatomaceae in the Water Supplied to the inhabitants of London and the suburban districts. A
+microscopic examination of the water. London. 60 pp., 6 pls.
+Hessen, D.O. & Van Donk, E. (1993) Morphological changes in Scenedesmus induced by substances released from
+Daphnia. Archiv für Hydrobiologie 127: 129–140.
+Hustedt, F. (1937) Systematische und ökologische Untersuchungen über die Diatomeen-Flora von Java, Bali und
+Sumatra nach dem Material der Deutschen Limnologischen Sunda-Expedition. "Tropische Binnengewässer, Band
+VII". Archiv für Hydrobiologie, Supplement 15: 131–177, pls 9–12.
+Hutchinson, G.E. (1967) A treatise on limnology vol. 2: introduction to lake biology and the limnoplankton. J. Wiley &
+Sons Inc., New York. 570 pp.
+Irwin, A.J., Finkel, Z.V., Schofield, O.M.E. & Falkowski, P.G. (2006). Scaling-up from nutrient physiology to the size
+structure of phytoplankton communities. Journal of Plankton Research 28: 459–471.
+http://dx.doi.org/10.1093/plankt/fbi148
+Johengen, T., Johannsson, O., Pernie, G. & Millard, E. (1994) Temporal and seasonal trends in nutrient dynamics and
+biomass measures in Lakes Michigan and Ontario in response to phosphorus control. Canadian Journal of Fisheries
+and Aquatic Sciences 51: 2570–2578.
+http://dx.doi.org/10.1139/f94-257
+Kerfoot, W.C., Yousef, F., Green, S.A., Budd, J.W., Schwab, D.J. & Vanderploeg, H.A. (2010) Approaching storm:
+disappearing winter bloom in Lake Michigan. Journal of Great Lakes Research 36: 30–41.
+http://dx.doi.org/10.1016/j.jglr.2010.04.010
+King, J.R., Shuter, B.J. & Zimmerman, A.P. (1997) The response of the thermal stratification of South Bay (Lake Huron)
+to climatic variability. Canadian Journal of Fisheries and Aquatic Sciences 54: 1873–1882.
+Kitton, F. (1869) Notes on New York Diatoms with description of a new species Fragilaria crotonensis. Hardwicke's
+Science-Gossip 5: 109–110.
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+Meyen, F.J.F. (1829) Beobachtungen über einige niedere Algenformen. Nova Acta Physico-Medica Academiae
+Caesareae Leopoldino-Carolinae Naturae 14: 768–778, pl. XLIII.
+Nalepa, T.F., Fanslow, D.L. & Lang, G.A. (2009) Transformation of the offshore benthic community in Lake Michigan:
+recent shift from the native amphipod Diporeia spp. to the invasive mussel Dreissena rostriformis bugensis.
+Freshwater Biology 54: 466–479.
+http://dx.doi.org/10.1111/j.1365-2427.2008.02123.x
+Nalepa, T.F., Fanslow, D.L., Pothoven, S.A., Foley III, A.J. & Lang, G.A. (2007) Long-term trends in benthic
+macroinvertebrate populations in Lake Huron over the past four decades. Journal of Great Lakes Research 33: 421–
+436.
+http://dx.doi.org/10.3394/0380-1330(2007)33[421:LTIBMP]2.0.CO;2
+Osantowski, E.S., Warren, G. & Horvatin, P.J. (2010) Long-term water quality trends in the open waters of Lake
+Superior. In: Ecology of Lake Superior: integrated approaches and challenges in the 21st Century. Lake Superior
+Binational Program, Great Lakes Regional Research Information Network, Duluth, Minnesota, 92 pp.
+Parsons, T.R. & Takahashi, M. (1973) Environmental control of phytoplankton cell size. Limnology and Oceanography
+18: 511–515.
+http://dx.doi.org/10.4319/lo.1973.18.4.0511
+Peters, R.H. (1983) Size structure of the plankton community along the trophic gradient of Lake Memphremagog.
+Canadian Journal of Fisheries and Aquatic Sciences 40: 1770–1778.
+http://dx.doi.org/10.1139/f83-206
+Pondaven, P., Gallinari, M., Chollet, S., Bucciarelli, E., Sarthou, G., Schultes, S. & Jean, F. (2007) Grazing-induced
+changes in cell wall silicification in a marine diatom. Protist 158: 21–28.
+R Development Core Team (2010) R: A language and environment for statistical computing. R Foundation for Statistical
+Computing, Vienna, Austria. ISBN 3-900051-07-0, URL http://www.R-project.org.
+Riley, S.C., Roseman, E.F., Nichols, S.J., O'Brien, T.P., Kiley, C.S. & Schaeffer, J.S. (2008) Deepwater demersal fish
+
+CHANGES IN PELAGIC DIATOMS IN THE NORTH AMERICAN GREAT LAKES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 161
+
+community collapse in Lake Huron. Transactions of the American Fisheries Society 137: 1879–1890.
+http://dx.doi.org/10.1577/T07-141.1
+Rodríguez, J., Tintoré, J., Allen, J.T., Blanco, J.M., Gomis, D., Reul, A., Ruiz, J., Rodríguez, V., Echevarría, F. &
+Jiménez-Gómez, F. (2001) Mesoscale vertical motion and the size structure of phytoplankton in the ocean. Nature
+410: 360–363.
+http://dx.doi.org/10.1038/35066560
+Rühland, K., Paterson, A.M. & Smol, J.P. (2008) Hemispheric-scale patterns of climate-induced shifts in planktonic
+diatoms from North American and European lakes. Global Change Biology14: 2740–2745.
+Simonsen, R. (1979) The diatom system: ideas on phylogeny. Bacillaria 2: 9–71.
+Smith, W. (1853) Synopsis of British Diatomaceae. John Van Voorst, London 1853. 1: 89 pp., pl. 1–31.
+Smol, J.P., Brown, S.R. & McIntosh, H.J. (1984) A hypothetical relationship between differential algal sedimentation
+and diatom succession. Verhandlungen des Internationalen Verein Limnologie 22: 1361–1365.
+Smol, J.P., Wolfe, A.P., Birks, H.J.B., Douglas, M.S.V., Jones, V.J., Korhola, A., Pienitz, R., Rühland, K., Sorvari, S.,
+Antoniades, D., Brooks, S.J., Fallu, M.-A., Hughes, M., Keatley, B.E., Laing, T., Michelutti, N., Nazarova, L.,
+Nyman, M., Paterson, A.M., Perren, B., Quinlan, R., Rautio, M., Saulnier-Talbot, É., Siitonen, S., Solovieva, N. &
+Weckström, J. (2005) Climate driven regime shifts in the biological communities of arctic lakes. Proceedings of the
+National Academy of Sciences 102: 4397–4402.
+http://dx.doi.org/10.1073/pnas.0500245102
+Sprules,W.G. & Munawar, M. (1986) Plankton size spectra in relation to ecosystem productivity, size and perturbation.
+Canadian Journal of Fisheries and Aquatic Sciences 43: 1789–1794.
+http://dx.doi.org/10.1139/f86-222
+Stoermer, E.F., Emmert, G. & Schelske, C.L. (1989) Morphological variation of Stephanodiscus niagarae
+(Bacillariophyta) in a Lake Ontario sediment core. Journal of Paleolimnology 2: 227–236.
+http://dx.doi.org/10.1007/BF00202048
+Stoermer, E.F. (1993) Evaluating diatom succession: some peculiarities of the Great Lakes case. Journal of
+Paleolimnology 8: 71–83.
+http://dx.doi.org/10.1007/BF00210058
+Stoermer, E.F., Wolin, J.A., Schelske, C.L. & Conley, D.J. (1985) Variations in Melosira islandica valve morphology in
+Lake Ontario sediments related to eutrophication and silica depletion. Limnology and Oceanography 30: 414–418.
+http://dx.doi.org/10.4319/lo.1985.30.2.0414
+Thwaites, G.H.K. (1848) Further observations on the Diatomaceae with descriptions of new genera and species. Annals
+and Magazine of Natural History, 2nd series 1: 161–172.
+Trumpickas, J., Shuter, B.J. & Minns, C.K. (2009) Forecasting impacts of climate change on Great Lakes surface water
+temperatures. Journal of Great Lakes Research 35: 454–463.
+http://dx.doi.org/10.1016/j.jglr.2009.04.005
+USEPA (1997) United States Great Lakes Program report on the Great Lakes water quality agreement. United States
+Environmental Protection Agency, Great Lakes National Program Office. Chicago, Illinois. 69 pp.
+USEPA (2010) Sampling and analytical procedures for GLNPO's open lake water quality survey of the Great Lakes.
+United States Environmental Protection Agency, Great Lakes National Program Office. Chicago, Illinois. EPA 905R-05-001. http://www.epa.gov/glnpo/monitoring/sop/ (Accessed 7 October 2010)
+Vanderploeg, H.A., Liebig, J.R., Nalepa, T.F., Fahnenstiel, G.L. & Pothoven, S.A. (2010) Dreissena and the
+disappearance of the spring phytoplankton bloom in Lake Michigan. Journal of Great Lakes Research 36(3): 50–59.
+http://dx.doi.org/10.1016/j.jglr.2010.04.005
+Van Heurck, H. (1882) Synopsis des Diatomées de Belgique. Atlas. Ducaju & Cie., Anvers. pls 78–103.
+Watson, S. & Kalff, J. (1981) Relationships between nannoplankton and lake trophic status. Canadian Journal of
+Fisheries and Aquatic Sciences 38: 960–967.
+http://dx.doi.org/10.1139/f81-129
+Wilson, D.S. (1973) Food size selection among copepods. Ecology 54: 909–914.
+Winder, M., Reuter, J.E. & Schladow, S.G. (2009) Lake warming favours small-sized planktonic diatom species.
+Proceedings of the Royal Society B 276: 427–435.
+http://dx.doi.org/10.1098/rspb.2008.1200
+
+162 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+REAVIE & BARBIERO
+
+

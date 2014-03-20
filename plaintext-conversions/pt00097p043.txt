@@ -1,0 +1,496 @@
+Phytotaxa 97 (2): 36–43 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.97.2.3
+
+Notes on Early Land Plants Today. 36. Generic treatment of Lophocoleaceae
+(Marchantiophyta)
+LARS SÖDERSTRÖM1, BARBARA CRANDALL-STOTLER2, RAYMOND E. STOTLER2, JI Í VÁ A3,
+ANDERS HAGBORG4 & MATT VON KONRAT4
+
+Ň
+
+Ř
+
+1
+
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+Department of Plant Biology, Southern Illinois University, Carbondale, Illinois 62901-6509, USA; crandall@plant.siu.edu,
+stotler@plant.siu.edu
+3
+Department of Botany, Charles University, Benátská 2, CZ-12801 Praha 2, Czech Republic; vana@natur.cuni.cz
+4
+Department of Botany, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Abstract
+Recent molecular phylogenetic studies on Lophocoleaceae have recovered some well-supported monophyletic lineages
+within Chiloscyphus s. lat. that merit recognition at the generic level. As a consequence, Chiloscyphus is herein
+circumscribed to include only Chiloscyphus subgen. Chiloscyphus, Chiloscyphus subgen. Connati is elevated to generic
+rank to which the new name Cryptolophocolea is applied, and Lophocolea, Pachyglossa and Clasmatocolea are
+recognized as distinct genera. Tetracymbaliella is transferred to the Brevianthaceae, and a synopsis of the genera
+currently recognized in Lophocoleaceae is provided.
+
+Current knowledge of the family Lophocoleaceae
+During the last 50 years Lophocoleaceae Vanden Berghen (1956: 208) have (mostly as Geocalycaceae
+Klinggräff 1858: 34) mainly been circumscribed in a very broad sense. However, Hentschel et al. (2006a)
+showed that Lophocoleaceae is well separated from Geocalycaceae and Harpanthaceae Arnell (1928: 147),
+but remains a large and diverse family.
+Lophocoleaceae is a family with a turbulent history and many taxa have been moved back and forth
+among genera. Engel & Schuster (1985) introduced a very broad concept of the genus Chiloscyphus including
+in it all species generally referred to Chiloscyphus and Lophocolea at that time. This concept was not adopted
+by several authors, including Grolle (1995), Paton (1999), Gradstein & Costa (2003), and Crandall-Stotler et
+al. (2009), but has been more widely accepted since molecular studies showed that Chiloscyphus s. str. nests
+within the traditionally circumscribed Lophocolea (He-Nygrén & Piippo 2003, Hentschel et al. 2006a).
+However, several later studies (Hentschel et al. 2007, Glenny et al. 2009, Engel et al. 2010, Engel & He 2010)
+have shown that unless the genus Chiloscyphus s. lat. is split into additional genera, Pachyglossa,
+Leptoscyphus and Clasmatocolea would also have to be included within it. But the same studies also show
+that there are several well-supported monophyletic lineages within the Chiloscyphus s. lat. clade that merit
+recognition at the generic level.
+All molecular analyses resolve the taxa assigned to Chiloscyphus subg. Connati in a strongly supported
+clade that is sister to the rest of Chiloscyphus, or even to a combined Chiloscyphus-Leptoscyphus clade
+(Hentschel et al. 2007). Recognizing Chiloscyphus subg. Connati, as circumscribed by Engel (2010), at a
+genus level would allow the robustly supported clade of Leptoscyphus to be kept following Vanderpoorten &
+Long (2006) and Vanderpoorten et al. (2010), as discussed by Hentschel et al. (2007) and Crandall-Stotler et
+al. (2009).
+
+36 Accepted by Jon Shaw: 10 Apr. 2013; published online in PDF: 1 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Likewise, Lophocolea, which is resolved as the lineage labelled Chiloscyphus subg. Lophocolea
+(Dumortier 1831: 59) J.J.Engel et R.M.Schust. in Engel (1998: 42) by Hentschel et al. (2006b), can also be
+recognized as a distinct genus with moderate to strong support, especially since this fairly large clade includes
+the generitype of Lophocolea, but excludes that of Chiloscyphus (Crandall-Stotler et al. 2009). According to
+current molecular evidence (Hentschel et al. 2006a, 2006b, Glenny et al. 2009), the genus should comprise
+taxa previously assigned to Chiloscyphus subg. Lophocolea (excluding Chiloscyphus subg. Lophocolea sect.
+Bicornuti (Spruce 1885:424) Engel & Schuster (1985: 409), which was transferred to Chiloscyphus subg.
+Connati by Engel in 2010), Chiloscyphus subg. Microlophocolea (Spruce 1885: 426) Engel (1999: 22),
+Chiloscyphus subg. Fragilifoliae (Schuster 1978: 245) Engel & Schuster (1985: 409) and Chiloscyphus subg.
+Spinoscyphus Engel (2010: 1999).
+Of the remaining taxa included by Hentschel et al. (2007) in the “Chiloscyphus I” clade, Chiloscyphus
+s.str., has been consistently resolved as a robustly supported, monophyletic lineage, comprising Chiloscyphus
+polyanthos (Linnaeus 1753: 1131) Corda (1829: 651) (the generitype of Chiloscyphus) and Chiloscyphus
+pallescens (Hoffmann 1796: 87) Dumortier (1831: 67). Recognizing Chiloscyphus to include only
+Chiloscyphus subg. Chiloscyphus is consistent with Grolle's (1995) contention that Chiloscyphus is a small,
+strictly Laurasian genus that is morphologically isolated from the more speciose, broadly distributed elements
+of the Lophocoleaceae, like Lophocolea and Heteroscyphus.
+Disposition of the remaining taxa in the "Chiloscyphus I" clade is problematic. In Henschel et al. (2006b,
+2007), Chiloscyphus subg. Notholophocolea (Schuster 1980: 183) Engel & Schuster (1985: 410) is robustly
+supported as a monophyletic lineage, with Pachyglossa tenacifolia (Hook.f. et Taylor in Hooker 1845: 152)
+Herzog & Grolle (1959: 153) moderately supported sister to it. In the analysis of Glenny et al. (2009), on the
+other hand, Chiloscyphus subg. Notholophocolea is nested in Lophocolea. These contrasting results may be
+due to the use of different loci and/or different taxa by the two groups. The analyses of Hentschel et al.
+(2006b, 2007) include two accessions of Chiloscyphus (Notholophocolea) gottscheoides (Bescherelle &
+Massalongo 1886: 631) Engel & Schuster (1985: 415) and a single accession of Chiloscyphus
+(Notholophocolea) austrigenus (Hooker & Taylor 1844: 466) Engel & Schuster (1985: 411) subsp.
+austrigenus from southern South America in an nrITS dataset, while that of Glenny et al. (2009) is based on 3
+plastid loci and a single accession of Chiloscyphus (Notholophocolea) austrigenus subsp. okaritanus
+(Stephani 1906: 785) Engel (1992: 113) from New Zealand. Obviously, more extensive molecular studies of
+this complex are needed to resolve unambiguously the relationships of these geographically separated taxa.
+However, on the basis of morphological similarities (Schuster 1980) and the more extensive sampling of
+Hentschel et al. (2007) Chiloscyphus subg. Notholophocolea should be transferred to Pachyglossa, and
+Pachyglossa should continue to be recognized as a genus.
+A polyphyletic Clasmatocolea is also resolved within the "Chiloscyphus I" clade with most species
+currently included in molecular studies widely separated from Clasmatocolea vermicularis (Lehmann 1829:
+361) Grolle (1960: 28), which is morphologically close to or conspecific with the generitype, Clasmatocolea
+heterostipa Spruce (1885: 441). These results are not surprising given the morphological heterogeneity of the
+six subgenera recognized to comprise the genus (Engel 1980). For example, Clasmatocolea rigens (Hooker &
+Taylor 1844: 461) Engel (1973: 156) (Clasmatocolea subg. Protoclasmatocolea Engel (1980:44)), not
+included in molecular studies, is morphologically very similar to species of the genus Lophocolea (s. str.), and
+it has been suggested that Clasmatocolea cucullistipula (Stephani 1900) Grolle (1960: 71) (Clasmatocolea
+subg. Plicaticalyx Engel (1980: 183)) should perhaps be separated at a generic level (Engel 1980). Since the
+molecular data of Hentschel et al. (2007), however, do not provide unambiguous resolution of the lineages
+within Clasmatocolea, it should be kept in its current form until the genus is more broadly sampled.
+On the basis of molecular evidence, three monotypic genera have been recently reduced to older taxa.
+Specifically, Amphilophocolea sciophila Schuster (2001: 98) of the monotypic genus Amphilophocolea
+Schuster (2001: 98) has been shown by Engel et al. (2010: 47) to be conspecific with Heteroscyphus knightii
+(Stephani 1908: 129) Grolle (1987: 251), Cyanolophocolea echinella (Gottsche et al. 1847: 703) Schuster
+(2001: 102) has been transferred to Heteroscyphus (Engel & He 2010: 155), and Physotheca autoica Engel &
+GENERIC TREATMENT OF LOPHOCOLEACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 37
+
+Gradstein (2003:764) has been transferred to Leptoscyphus (Vanderpoorten et al. 2012: 252). Until
+representatives of the genera Bragginsella, Conoscyphus, Evansianthus, Hepatostolonophora,
+Leptoscyphopsis, Otoscyphus, Perdusenia, Pigafettoa, Stolonivector and Xenocephalozia are included in
+molecular studies, and their relationships to other genera of the Lophocoleaceae are resolved, they should
+remain as currently defined.. The generic status of Xenocephalozia is especially problematic. The genus was
+initially reduced by Grolle (1966) to Clasmatocolea, with affinities suggested to Clasmatocolea trachyopa
+(Hooker & Taylor 1844: 471) Grolle (1960: 73) and Clasmatocolea obvoluta (Hooker & Taylor 1845: 80)
+Grolle (1960: 72), taxa recognized by Engel (1980) to comprise Clasmatocolea subg. Lacerifolia Engel
+(1980: 50). Characters supporting the relationship of Xenocephalozia navicularis (Stephani 1915: 835)
+Schuster (1965: 25) to this subgenus of Clasmatocolea include the slightly armed and strongly adaxially
+concave leaves and relatively small underleaves, as also noted by Engel (1980). In Hentschel et al. (2007),
+Clasmatocolea trachyopa and Clasmatocolea obvoluta form a well-supported lineage within the
+"Chiloscyphus I" clade. The relationship of this lineage to Xenocephalozia and its status as a genus, however,
+cannot be determined without more extensive sampling.
+Many taxa that have been referred to Chiloscyphus in the past have not been included in molecular
+studies, so their phylogenetic affinities are unknown. None of them have been morphologically aligned with
+Chiloscyphus subg. Chiloscyphus, and should be excluded from Chiloscyphus s. str. as herein defined on the
+basis of morphology. Taxa included in Chiloscyphus subg. Parachiloscyphus Hässel (2000: 452) and
+Chiloscyphus subg. Eurychiloscyphus Hässel (2001: 38) show features in common with Leptoscyphus, where
+they were placed by Grolle (1962). Chiloscyphus subg. Septati Engel (2010: 125) is morphologically similar
+to Stolonivector and the two species in Chiloscyphus subg. Phaeochiloscyphus Engel & Schuster (1985: 409)
+have been previously aligned, respectively, with Leptoscyphus and Heteroscyphus (Hässel de Menéndez
+1999).
+Recent studies indicate that some elements included in Lophocoleaceae should be removed from the
+family. Engel and Schuster (1985) reduced Tetracymbaliella to a subgenus of Heteroscyphus, but in several
+molecular studies it is clearly resolved as a genus distinct from Heteroscyphus (e.g., Glenny et al. 2009; Engel
+& He, 2010). The genus is placed as sister to Brevianthus in He-Nygrén et al. (2006) and the two genera are
+sister to Plagiochilaceae Müll.Frib. et Herzog in Müller (1956: 877) instead of Lophocoleaceae in the same
+study, but sister to Lophocoleaceae in He & Glenny (2010). Brevianthus is monotypic but of the 3-5 species of
+Tetracymbaliella, only Tetracymbaliella cymbalifera (Hook.f. et Taylor in Hooker 1846: 151) Grolle (1961:
+50) (the type of the genus) has been studied using molecular methods. Although morphologically quite
+different from each other, these two genera are tentatively placed in Brevianthaceae, pending additional
+studies. The genus Deceptifrons is provisionally placed in Lophocoleaceae pending further studies.
+The genus Pseudolophocolea Schuster & Inoue in Schuster & Engel (1982: 71) was originally described
+as being closely related to Pedinophyllopsis Schuster & Inoue (1981: 311). The authors even speculated that
+the two genera might be regarded as subgenera of a single genus. Although both genera were placed in
+Geocalycaceae subfam. Leptoscyphoideae Schuster (1980: 267), an affinity with the plagiochiloid
+Pedinophyllum (Lindberg 1874: 366) Lindberg (1875: 504) was also noted. He-Nygrén & Piippo (2003)
+showed that Pedinophyllopsis is best placed in Plagiochilaceae, a hypothesis further supported by the
+molecular studies of Groth (2005). Based on the morphological similarities of Pseudolophocolea with
+Pedinophyllopsis and Pedinophyllum detailed in Schuster & Engel (1982), Pseudolophocolea is also placed in
+Plagiochilaceae.
+
+Formal treatment
+The format of this note follows Söderström et al. (2012) except that we use the Melbourne International Code
+of Nomenclature for algae, fungi, and plants (ICN; McNeill et al. 2012) instead of the Vienna International
+Botanical Code of Nomenclature (ICBN; McNeill et al. 2006).
+
+38 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Cryptolophocolea L.Söderstr., Crand.-Stotl., Stotler et Vá a, gen. et stat. nov.
+
+ň
+
+Type:—Cryptolophocolea ciliolata (Nees) L.Söderstr., Crand.-Stotl., Stotler et Vá a.
+Description:—Plants lophocoleoid in aspect; leaves opposite to subopposite, bifid, often with the ventral lobe larger than
+the dorsal; underleaves large, 2- or 4(6)-lobed, connate with the leaves on both sides, often broadly so; androecia on
+a leading stem or short lateral branch; antheridial stalks biseriate; gynoecia terminating the main shoot or a long
+leafy branch; perianths trigonous, with the mouth 3-lobed and the keels sometimes winged; inner capsule wall
+thickenings forming fenestrae.
+= Plagiochila sect. V Connatae Lindenb., Monogr. Hep. Gen. Plagiochilae: XXIX, 1844 [1843] (Lindenberg 1843).
+Lectotype (Piippo 1985):—Plagiochila ciliolata (Nees) Lindenb.
+Lophocolea subgen. Connatae (Lindenb.)
+Piippo, Acta Bot. Fenn. 131: 165, 1985 (Piippo 1985) nom. inval. (ICN Art. 41.5, basionym cited erroneously);
+Chiloscyphus subgen. Connati (Lindenb.) J.J.Engel, Novon 9: 22, 1999 (Engel 1999), nom. inval. (ICN Art. 41.5;
+basionym cited erroneously); Chiloscyphus sect. Connati (Lindenb.) J.J.Engel, Fieldiana, Bot., n.s. 48: 133, 2010
+(Engel 2010), nom. inval. (ICN Art. 41.5; basionym cited erroneously).
+= Chiloscyphus sect. Spiniferi J.J.Engel, Novon 9: 22, 1999 (Engel 1999).
+= Chiloscyphus sect. Bicornutae (Spruce) J.J.Engel & R.M.Schust., Nova Hedwigia 39: 409. 1984 [1985] (Engel &
+Schuster 1985).
+= Chiloscyphus sect. Leucophylli J.J.Engel, Bryologist 94: 312, 1991 (Engel 1991a).
+ň
+
+≡
+
+≡
+
+≡
+
+Note:—This genus is based upon the expanded concept of Chiloscyphus subgen. Connati as treated by Engel
+(2010). Although we are changing the status of the Engel subgenus to the rank of genus, the name Connatae is
+a Latin technical term in use in morphology and cannot be used as a genus name following ICN Art. 20.2
+(McNeill et al. 2012). In contrast to Chiloscyphus s. str., which is characterized by undivided to retuse leaves,
+gynoecia borne on short, leafless lateral branches, and short inflated perianths with emergent fleshy calyptrae,
+Cryptolophocolea possesses bifid leaves, gynoecia that terminate leading shoots and elongate, trigonous
+perianths, often with winged keels. In these features it resembles Lophocolea. It is morphologically distinct
+from Lophocolea, however, in having large underleaves that are connate with the leaves on both sides, and in
+developing fenestrate, rather than unbranched, thickenings on the inner capsule wall. We have chosen a new
+name for the genus that reflects its morphological similarity to Lophocolea, while recognizing its "hidden"
+status as a distinct monophyletic lineage.
+Cryptolophocolea ciliolata (Nees) L.Söderstr., Crand.-Stotl., Stotler et Vá a, comb. nov.
+
+ň
+
+Basionym:—Jungermannia ciliolata Nees, Enumer. Pl. Javae: 68, 1830 (Nees 1830).
+Type:—INDONESIA. Java: in ligno putrido, rara., Blume, ex hb. Lehmann, misit Nees 1832. (syntype S-B25177).
+Plagiochila ciliolata (Nees) Lindenb., Spec. Hepat. (fasc.5): 143. 1843 (Lindenberg 1843). Lophocolea ciliolata
+(Nees) Gottsche, Bot. Zeitung (Berlin) 16, Beil.: 38. 1858 (Gottsche 1858).
+Chiloscyphus ciliolatus (Nees)
+J.J.Engel & R.M.Schust., Nova Hedwigia 39: 413. 1984 [1985] (Engel & Schuster 1985).
+
+≡
+
+≡
+
+≡
+
+Note:—Other combinations into this genus are being made elsewhere.
+
+Synopsis of the Lophocoleaceae complex
+Brevianthaceae J.J.Engel et R.M.Schust., Phytologia 47: 317, 1981 (Engel & Schuster 1981).
+Brevianthus J.J.Engel et R.M.Schust., Phytologia 47: 317, 1981 (Engel & Schuster 1981).
+Tetracymbaliella Grolle, Nova Hedwigia 3: 48, 1961 (Grolle 1961).
+
+Lophocoleaceae Vanden Berghen, Fl. Gén. Belgique, Bryoph. 1 (2): 208, 1956 (Vanden Berghen 1956).
+Bragginsella R.M.Schust., Bryologist 100: 363, 1997 (Schuster 1997). Chiloscyphus Corda, Naturalientausch 12:
+651, 1829 "Cheilocyphos" (Corda 1829). Clasmatocolea Spruce, Trans. & Proc. Bot. Soc. Edinburgh 15: 440, 1885
+(Spruce 1885). Conoscyphus Mitt., Seemann, Fl. Vit.: 404, 1871 [1873] (Mitten 1873). Cryptolophocolea
+L.Söderstr. et al., gen. nov. Deceptifrons S.W.Arnell ex J.J.Engel et Vá a, Mem. New York Bot. Gard. 105: 54,
+2012 (Vá a & Engel 2012). Evansianthus R.M.Schust. et J.J.Engel, Bryologist 76: 516, 1973 (Schuster & Engel
+1973). Hepatostolonophora J.J.Engel et R.M.Schust., J. Hattori Bot. Lab. 46: 91, 1979 (Engel 1979).
+Heteroscyphus Schiffn., Österr. Bot. Z. 60: 171, 1910 (Schiffner 1910). Lamellocolea J.J.Engel, J. Hattori Bot.
+Lab. 70: 65, 1991 (Engel 1991b). Leptoscyphopsis R.M.Schust., Phytologia 39: 246, 1978 (Schuster 1978).
+Leptoscyphus Mitt., Hooker's J. Bot. Kew Gard. Misc. 3: 358, 1851 (Mitten 1851). Leptophyllopsis R.M.Schust., J.
+
+ň
+
+ň
+
+GENERIC TREATMENT OF LOPHOCOLEACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 39
+
+Hattori Bot. Lab. 26: 269, 1963 (Schuster 1963). Lophocolea (Dumort.) Dumort., Recueil Observ. Jungerm.: 17,
+1835 (Dumortier 1835). Basionym: Jungermannia sect. Lophocolea Dumort., Syll. Jungerm. Europ.: 59, 1831
+(Dumortier 1831). Otoscyphus J.J.Engel, Bardat et Thouvenot, Cryptog. Bryol. 33: 280, 2012 (Engel et al. 2012).
+Pachyglossa Herzog et Grolle, Rev. Bryol. Lichénol. 27: 150, 1958 [1959] (Herzog & Grolle 1959). Perdusenia
+Hässel, Revista Mus. Argent. Ci. Nat., Bernardino Rivadavia Inst. Nac. Invest. Ci. Nat. Bot. 7: 11, 1989 (Hässel de
+Menéndez1989). Pigafettoa C.Massal., Nuovo Giorn. Bot. Ital. 17: 237, 1885 (Massalongo 1885). Platycaulis
+R.M.Schust., Phytologia 39: 245, 1978 (Schuster 1978). Stolonivector J.J.Engel, J. Hattori Bot. Lab. 69: 80, 1991
+(Engel 1991c). Xenocephalozia R.M.Schust., Nova Hedwigia 10: 25, 1965 (Schuster 1965).
+
+Acknowledgements
+The Early Land Plants Today project (ELPT) has been generously supported in part by the Global Biological
+Information Facility (GBIF) Seed Money Award No.2007-41, activities facilitated in part by funding from the
+Biodiversity Synthesis Center of the Encyclopedia of Life (BioSynC), partial funding from the National
+Science Foundation (Award No's 0749762, 1115002), the Warwick Foundation, and the Negaunee
+Foundation. NSF grant EF-0531750 (Assembling the Liverwort Tree of Life) to Crandall-Stotler & Stotler is
+gratefully acknowledged.
+
+References
+Arnell, H.W. (1928) Levermossor. In: Holmberg, O.R. Hartmans Handbok i Skandinaviens Flora. P. A. Norstedt &
+Söner Förlag, Stockholm, 224 pp.
+Bescherelle, E. & Massalongo, C. (1886) Hepaticae novae americanae-australes. Bulletin mensuel de la société
+linnéenne de Paris 1: 626–640.
+Corda, A.J.C. (1829) Genera Hepaticarum. Die Gattungen der Lebermoose. In: Opiz, P.M.. (Ed), Beiträge zur
+Naturgeschichte als Fortsetzung des Naturalientausches No. 12. Praha, pp. 643–655.
+Crandall-Stotler, B., Stotler, R.E. & Long, D.G. (2009) Phylogeny and classification of the Marchantiophyta. Edinburgh
+Journal of Botany 66: 155–198.
+http://dx.doi.org/10.1017/S0960428609005393
+Dumortier, B.C. (1831) Sylloge Jungermannidearum Europae indigenarum, earum genera et species systematice
+complectens. J. Casterman, Tournay, 100 pp.
+http://dx.doi.org/10.5962/bhl.title.22343
+Dumortier, B.C. (1835) Recueil d'Observations sur les Jungermanniacées. I. Révision des genres. J. A. Blanquart,
+Tournay, 27 pp.
+http://dx.doi.org/10.5962/bhl.title.731
+Engel, J.J. (1973 “1972”) Chiloscyphus hookeri n. sp. and nomenclatural changes in the genus Clasmatocolea. Journal of
+the Hattori Botanical Laboratory 36: 150–156.
+Engel, J.J. (1979) Austral Hepaticae X. A revision of Hepatostolonophora Engel et Schust., nom. nov. (Hepaticae).
+Journal of the Hattori Botanical Laboratory 46: 91–108.
+Engel, J.J. (1980) A monograph of Clasmatocolea (Hepaticae). Fieldiana Botany, n.s. 3: 1–229.
+Engel, J.J. (1991a) Studies of Geocalycaceae (Hepaticae). V. Comments on the Leucophyllae complex of Chiloscyphus.
+Bryologist 94: 311–314.
+http://dx.doi.org/10.2307/3243973
+Engel, J.J. (1991b) Studies on Geocalycaceae (Hepaticae). IV. Lamellocolea, a new genus of Leptoscyphoideae from
+New Zealand. Journal of the Hattori Botanical Laboratory 70: 63–78.
+Engel, J.J. (1991c) Studies on Geocalycaceae (Hepaticae). II. Stolonivector, a new genus from New Zealand. Journal of
+the Hattori Botanical Laboratory 69: 79–86.
+Engel, J.J. (1992) Studies on Geocalycaceae (Hepaticae). VIII. A revision of Chiloscyphus subg. Notholophocolea
+(Schust.) Engel & Schust. Journal of the Hattori Botanical Laboratory 72: 105–115.
+Engel, J.J. (1998 "1997"). Studies on Geocalycaceae (Hepaticae). X. New taxa and new combinations in Chiloscyphus
+Corda for Australasia. Phytologia 83: 42-46.
+Engel, J.J. (1999) Studies on Geocalycaceae (Hepaticae). XI. Supraspecific new taxa and new combinations in
+Chiloscyphus Corda for Australia. Novon 9: 22–24.
+http://dx.doi.org/10.2307/3392110
+
+40 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Engel, J.J. (2010) Austral Hepaticae 45. A monograph of the genus Chiloscyphus Corda (Lophocoleaceae) for
+Australasia. Fieldiana Botany, n.s. 48: 1–209.
+Engel, J.J., Bardat, J. & Thouvenot, L. (2012) Studies on Lophocoleaceae XXI. Otoscyphus J.J.Engel, Bardat et
+Thouvenot, a new liverwort genus from New Caledonia with an unusual morphology. Cryptogamie, Bryologie 33:
+279–289.
+http://dx.doi.org/10.2307/3647350
+Engel, J. J. & Gradstein, S. R. (2003). Studies on Geocalycaceae XIV. Physotheca J.J. Engel & Gradst., a new genus of
+Hepaticae from Ecuador, belonging to a new subfamily, Geocalycaceae subfam. Physothecoideae J.J. Engel &
+Gradst. Taxon 52: 763–773.
+http://dx.doi.org/10.2307/3647350
+Engel, J.J. & He, X.-L. (2010) Studies on Lophocoleaceae. XIX. The systematic identity of Cyanolophocolea
+R.M.Schust., an intriguing liverwort from New Zealand and Australia, based on morphological and molecular
+evidence. Bryologist 113: 149–163.
+http://dx.doi.org/10.1639/0007-2745-113.1.149
+Engel, J.J., He, X.-L. & Glenny, D. (2010) Studies on Lophocoleaceae XXII. The systematic position of
+Amphilophocolea R.M.Schust. together with comments on the status of Tetracymbaliella Grolle and Lamellocolea
+R.M.Schust. Phytotaxa 9: 41–52.
+Engel, J.J. & Schuster, R.M. (1981) Austral Hepaticae XV. Brevianthaceae, fam. nov. and Brevianthus, gen. nov. from
+Tasmania. Phytologia 47: 317–318.
+Engel, J.J. & Schuster, R.M. (1985 “1984”) An overview and evaluation of the genera of Geocalycaceae subfamily
+Lophocoleoideae (Hepaticae). Nova Hedwigia 39: 385–463.
+Glenny, D., Engel, J.J. & He-Nygrén, X. (2009) The systematic identity of Chiloscyphus trichocoleoides, a new
+liverwort species from New Zealand, uncovered by morphological and molecular evidence. Journal of Bryology 31:
+93–105.
+http://dx.doi.org/10.1179/174328209X427524
+Gottsche, C.M. (1858) Uebersicht und kritische Würdigung der seit dem Erscheinen der Synopsis Hepaticarum bekannt
+gewordenen Leistungen in der Hepaticologie. Botanische Zeitung. (Berlin) 16, Beilage: 1–54.
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, C.G. (1847) Synopsis Hepaticarum, fasc. 5. Meissner,
+Hamburg, pp. 625–834.
+Gradstein, S.R. & Costa, D.P. (2003) Hepáticas e Antóceros do Brasil. Memoirs of the New York Botanical Garden 87: 1318.
+Grolle, R. (1960) Nachtrag zur "Revision der Clasmatocolea-Arten". Revue Bryologique et Lichénologique 29: 68–91.
+Grolle, R. (1961) Tetracymbaliella, eine neue Lebermoosgattung. Nova Hedwigia 3: 47–53.
+Grolle, R. (1962) Monographie der Lebermoosgattung Leptoscyphus Mitt. Nova Acta Leopoldina; Abhandlungen der
+Kaiserlich Leopoldinisch-Carolinisch Deutschen Akademie der Naturforscher, n.s. 25: 1-143.
+Grolle, R. (1966) Miscellanea hepaticologica (61-70). Journal of Japanese Botany 41: 225-232.
+Grolle, R. (1987 “1986”) Miscellanea Hepaticologica 241-250. Journal of the Hattori Botanical Laboratory 61: 249–
+255.
+Grolle, R. (1995) The Hepaticae and Anthocerotae of the East African Islands. An annotated catalogue. Bryophytorum
+Bibliotheca 48: 1-178.
+Groth, H. (2005) Molecular phylogeny and morphological reconstructions of Plagiochilaceae (Jungermanniopsida) with
+hypotheses on biogeography and divergence times. PhD Dissertation, George-August-Universität, Göttingen.
+Hässel de Menéndez, G.G. (1989) Perdusenia rheophila Hässel, a new genus and species of Hepatophyta from southern
+South America. Revista del Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" e Instituto Nacional de
+Investigacion de las Ciencias Naturales: Ciencias Botanicas 7: 11–17.
+Hässel de Menéndez, G.G. (1999) Chiloscyphus subgenus Phaeochiloscyphus (Hepatophyta, Geocalycaceae) from
+southern South America. Revista del Museo Argentino de Ciencias Naturales, n.s. 1: 121-127.
+Hässel de Menéndez, G.G. (2000) Parachiloscyphus Hässel, a new subgenus of Chiloscyphus Corda (Hepatophyta) from
+southern South America, including a new species. Nova Hedwigia 70: 451-460.
+Hässel de Menéndez, G.G. (2001) Eurychiloscyphus Hässel, a new subgenus of Chiloscyphus Corda (Hepatophyta) from
+southern South America. Lindbergia 26: 37-42.
+He, X.-L. & Glenny, D. (2010) Perssoniella and the genera of Schistochilaceae: a new classification based on molecular
+phylogenies. Australian Systematic Botany 23: 229–238.
+http://dx.doi.org/10.1071/SB10007
+He-Nygrén, X. & Piippo. S. (2003) Phylogenetic relationships of the generic complex Chiloscyphus–Lophocolea–
+Heteroscyphus (Geocalycaceae, Hepaticae): Insights from three chloroplast genes and morphology. Annales
+Botanici Fennici 40: 317-329.
+
+GENERIC TREATMENT OF LOPHOCOLEACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 41
+
+He-Nygrén, X.-L., Juslén, A., Ahonen, I., Glenny, D. & Piippo, S. (2006) Illuminating the evolutionary history of
+liverworts (Marchantiophyta) - towards a natural classification. Cladistics 22: 1–31.
+http://dx.doi.org/10.1111/j.1096-0031.2006.00089.x
+Hentschel, J., Wilson, R., Burghardt, M., Zündorf, H.-J., Schneider, H. & Heinrichs, J. (2006a) Reinstatement of
+Lophocoleaceae (Jungermanniopsida) based on chloroplast gene rbcL data: exploring the importance of female
+involucres for the systematics of Jungermanniales. Plant Systematics and Evolution 258: 211–226.
+http://dx.doi.org/10.1007/s00606-006-0408-y
+Hentschel, J., Zündorf, H.-J., Hellwig, F.H., Schäfer-Verwimp, A. & Heinrichs, J. (2006b) Taxonomic studies in
+Chiloscyphus Corda (Jungermanniales: Lophocoleaceae) based on nrITS sequences and morphology. Plant
+Systematics and Evolution 258: 211–226.
+http://dx.doi.org/10.1007/s00606-006-0408-y
+Hentschel, J., Feldberg, K., Zündorf, H.-J., Hellwig, F.H., Schneider, H. & Heinrichs, J. (2007) The systematic position
+of Pachyglossa and Clasmatocolea (Jungermanniopsida: Lophocoleaceae) inferred from nrDNA ITS sequences and
+morphology. Taxon 56: 1136–1142.
+http://dx.doi.org/10.2307/25065908
+Herzog, T. & Grolle, R. (1959 “1958”) Was ist Pachyglossa? Revue Bryologique et Lichénologique 27: 147–165.
+Hoffmann, G.F. (1796) Deutschlands Flora oder Botanisches Taschenbuch für das Jahr 1795. Cryptogamie. Johan Jakob
+Palm, Erlangen, 200 pp.
+Hooker, J.D. (1845) The Botany of the Antarctic Voyage of H. M. discovery ships Erebus and Terror in the years 1839-43.
+I. Flora Antarctica 1. Lord Auckland's Group and Campbell Island. Reeve, London, pp. 1–208.
+Hooker, J.D. (1846) The Botany of the Antarctic Voyage of H. M. discovery ships Erebus and Terror in the years 1839-43.
+I. Flora Antarctica II. Antarctic regions (exclusive of Lord Auckland's Group and Campbell's Island). Reeve,
+London, pp. 209–574.
+Hooker, J.D. & Taylor, T. (1844) Hepaticae Antarcticae; being characters and brief descriptions of the Hepaticae
+discovered in the southern circumpolar regions during the voyage of H.M. Discovery ships Erebus and Terror. II.
+Species of the Falkland Islands, Cape Horn, and of Kerguelen's Land. London Journal of Botany 3: 454–481.
+Hooker, J.D. & Taylor, T. (1845) Hepaticae Antarcticae, supplementum; or specific characters, with brief descriptions. of
+some additional species of the Hepaticae of the Antarctic regions, New Zealand, and Tasmania, together with a few
+from the Atlantic Islands and New Holland. London Journal of Botany 4: 79–97.
+Klinggräff, H.V. (1858) Die höheren Cryptogamen Preussens. Vilhelm Koch, Königsberg, 220 pp.
+Lehmann, J.G.C. (1829) Hepaticarum Capensium a C.F. Ecklon collectarum brevem recensionem cum Schlechtendalio
+suo. Linnaea 4: 357–371.
+Lindberg, S.O. (1874) Manipulus muscorum secundus. Notiser ur Sällskapets pro Fauna et Flora Fennica
+Förhandlingar 13: 353–417.
+Lindberg, S.O. (1875 “1874”) Hepaticae in Hibernia mense Julii 1873 lectae. Acta Societatis Scientiarum Fennicae 10:
+465–559.
+Lindenberg, J.B.C. (1843) Species hepaticarum. Fasc. 5. Henry & Cohen, Bonn, pp. 121–164.
+Lindenberg, J.B.G. (1844) Monographia Hepaticarum Generis Plagiochilae. Henry & Cohen, Bonn, 29 pp.
+Linnaeus, C. (1753) Species Plantarum, ed. 1. Laurentii Salvii, Holmiae [Stockholm], 1200 pp.
+Massalongo, C. (1885) Epatiche raccolte alla Tierra del Fuoco del Dott. C. Spegazzini nell' anno 1882. Nuovo Giornale
+Botanico Italiano 17: 201–277.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for Algae, Fungi and Plants (Melbourne Code). Adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–208.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+146: 1–260.
+Mitten, W. (1851) Catalogue of cryptogamic plants collected by Professor W. Jameson in the vicinity of Quito. Hooker's
+Journal of Botany and the Kew Garden Miscellany 3: 351–361.
+Mitten, W. (1873) Jungermanniae and Marchantiae. In: Seemann, B. (Ed), Flora Vitiensis. Reeve, London, pp. 325-453.
+Müller, K. (1956) Die Lebermoose Europas (Dr. L. Rabenhorst's Kryptogamen-Flora von Deutschland, 3. Aufl.) 6. Band,
+6. Lieferung. Akademische Verlagsgesellschaft: Leipzig, pp. 757–916.
+Nees von Esenbeck, C.G. (1833) Hepaticae Hedw. In: Martius, C.F.P., Flora brasiliensis seu enumeratio plantarum 1.
+Sumptibus J. G. Cottae, Stuttgart, pp. 294–390.
+Paton, J. A. (1999) The Liverwort Flora of the British Isles. Harley Books, Colchester, 626 pp.
+Piippo, S. (1985) Bryophyte flora of the Huon Peninsula, Papua New Guinea. XII. Geocalycaceae (Hepaticae). Acta
+Botanica Fennica 131: 129–167.
+
+42 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Schiffner, V. (1910) Über die Gattungen Chiloscyphus und Heteroscyphus n. gen. Österreichische Botanische Zeitschrift
+60: 169–173.
+http://dx.doi.org/10.1007/BF01631854
+Schuster, R.M. (1963) Studies on antipodal Hepaticae I. Annotated key to the genera of antipodal Hepaticae with special
+reference to New Zealand and Tasmania. Journal of the Hattori Botanical Laboratory 26: 185–309.
+Schuster, R.M. (1965) Studies on Hepaticae XXVI. The Bonneria-Paracromastigum-Pseudocephalozia-HyalolepidoziaZoopsis-Pteropsiella complex and its allies: a phylogenetic study (Part 1). Nova Hedwigia 10: 19–61.
+Schuster, R.M. (1978) Studies on Venezuelan Hepaticae. I. Phytologia 39: 239–251.
+Schuster, R.M. (1980) The Hepaticae and Anthocerotae of North America. vol. IV. Columbia University Press, New
+York, 1334 pp.
+Schuster, R.M. (1997) Bragginsella, a new genus of Jungermanniales from New Zealand. Bryologist 100: 362–367.
+Schuster, R.M. & Engel, J.J. (1973) Austral Hepaticae II. Evansianthus, a new genus of Geocalycaceae. Bryologist 76:
+516–520.
+http://dx.doi.org/10.2307/3241410
+Schuster, R.M. & Engel, J.J. (1982) Austral Hepaticae XVI. Gondwanalandic Leptoscyphoideae (Geocalycaceae).
+Lindbergia 8: 65–74.
+Schuster, R.M. & Engel, J.J. (1981) Austral Hepaticae XIII. Two new genera of Geocalycaceae (Lophocoleaceae).
+Phytologia 47: 309–312.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+Spruce, R. (1885) Hepaticae Amazonicae et Andinae. Part II. Transactions and Proceedings of the Botanical Society of
+Edinburgh 15: 309–588.
+Stephani, F. (1900) Beiträge zur Lebermoosflora Westpatagoniens und des südlichen Chile. Bihang til Kongliga Svenska
+Vetenskaps-Akademiens Handlingar 26 (III,6): 1–69.
+Stephani, F. (1906) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 6( 9): 781–796.
+Stephani, F. (1908) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8(2): 125–148.
+Stephani, F. (1915) Species Hepaticarum 5. George & Cie, Genève & Bale, pp. 705–848.
+Vá a, J. & Engel, J.J. (2012) The liverworts and hornworts of the Tristan da Cunha group. Memoirs of the New York
+Botanical Garden 105: 1-138.
+Vanden Berghen, C. (1956) Flore générale de Belgique, Bryophytes, Vol. 1, Fasc. 2. Jardin Botanique de l'État,
+Bruxelles, pp. 133–270.
+Vanderpoorten, A., Désamoré, A. Laenen, B & Gradstein, S.R. 2012. Striking autapomorphic evolution in Physotheca
+J.J.Engel & Gradst. (Marchantiophyta: Lophocoleaceae) blurred its actual relationships with Leptoscyphus Mitt.
+Journal of Bryology 34:251-256.
+Vanderpoorten, A. & Long, D.G. (2006) Budding speciation and neotropical origin of the Azorean endemic liverwort,
+Leptoscyphus azoricus. Molecular Phylogenetics and Evolution 40: 73–83.
+http://dx.doi.org/10.1016/j.ympev.2006.02.013
+Vanderpoorten, A., Schäfer-Verwimp, A., Heinrichs, J., Devos, N. & Long, D.G. (2010) The taxonomy of the leafy
+liverwort genus Leptoscyphus (Lophocoleaceae) revisited. Taxon 59: 176–186.
+ň
+
+GENERIC TREATMENT OF LOPHOCOLEACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 43
+
+

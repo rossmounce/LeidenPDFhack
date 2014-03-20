@@ -1,0 +1,726 @@
+Phytotaxa 144 (2): 45–55 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.144.2.2
+
+Morphological and anatomical characterization of a new natural hybrid between
+Cohniella ascendens and C. brachyphylla (Oncidiinae: Orchidaceae)
+WILLIAM CETZAL-IX 1, 2, GERMAN CARNEVALI 2, 5, ELIANA NOGUERA-SAVELLI 3 & DAMELIS
+JAUREGUI4
+1
+
+El Colegio de la Frontera Sur, Unidad Chetumal, Av. del Centenario, km 5.5, Chetumal, Quintana Roo 77000, México;
+e-mail: rolito22@hotmail.com
+2
+Herbarium CICY, Centro de Investigación Científica de Yucatán, A. C. (CICY), Calle 43, No. 130. Col. Chuburná de Hidalgo, Mérida
+97200, Yucatán, México.
+3
+El Colegio de la Frontera Sur (ECOSUR), División de Conservación de la Biodiversidad, Departamento de Ecología y Sistemática
+Terrestre, San Cristóbal de Las Casas 29290, Chiapas, México.
+4
+Instituto de Botánica Agrícola, Facultad de Agronomía. Universidad Central de Venezuela, Apartado postal 4579, Maracay 2101,
+Aragua, Venezuela.
+5
+Orchid Herbarium of Oakes Ames, Harvard University Herbaria, 22 Divinity Avenue, Cambridge, Massachusetts 02138, U.S.A.
+
+Abstract
+A putative natural hybrid between Cohniella ascendens and C. brachyphylla (Orchidaceae, Oncidiinae) from western
+Costa Rica, C. ×francoi, is herein newly described, illustrated and characterized based upon both morphological and
+anatomical characters. This taxon hybrid is most similar to C. ascendens but the flowers show intermediate characters
+between the putative parents. Cohniella ×francoi is similar to C. ascendens in its semipendulous inflorescences, callus
+shape, cylindrical column base with linear oblong wings, and obovate stigmatic cavity plus several anatomical
+characters. On the other hand, it is similar to C. brachyphylla in the oblong to subquadrate lateral lobes of the labellum
+that are in the same plane as the central lobe, and the rectangular disc of the labellum with a lateral extension of the callus
+in the margins. A table of diagnostic characters for the new hybrid and its putative parents, a comparative figure, and a
+map showing their geographical distributions are also provided.
+
+Resumen
+Cohniella ×francoi, un híbrido natural entre Cohniella ascendens y C. brachyphylla (Orchidaceae, Oncidiinae) del oeste
+de Costa Rica es aquí descrito, ilustrado y caracterizado por caracteres morfológicos y anatómicos. El nuevo híbrido es
+más similar a C. ascendens pero las flores presentan caracteres intermedios entre sus padres putativos. Cohniella
+×francoi se parece a C. ascendens en la inflorescencia semipéndula, la forma del callo, la columna cilíndrica con las alas
+linear oblongas y la cavidad estigmática obovada, además de varios caracteres anatómicos. Por otro lado, es similar a C.
+brachyphylla por los lóbulos laterales del labelo oblongos a subcuadrados y extendidos en el mismo plano que el lóbulo
+central y el disco rectangular con extensiones laterales del callo en los márgenes. Adicionalmente, proporcionamos una
+tabla de caracteres diagnósticos para el nuevo híbrido y sus padres putativos, una figura comparativa y un mapa
+detallando las distribuciones geográficas de los tres taxones.
+Key words: Anatomy, Costa Rica, morphology, natural hybridization, Cohniella ×francoi
+
+Introduction
+The genus Cohniella Pfitzer (1889: 194) is distinguished from others members of the Oncidiinae by the
+relatively small and subspherical, 1-leaved pseudobulbs, succulent, terete leaves, and Oncidium-like flowers
+
+Accepted by Cassio van den Berg: 15 Oct. 2013; published: 8 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+45
+
+(Carnevali et al. 2010). At the present, the genus includes 22 species and one natural hybrid (Cetzal-Ix et al.
+2013). Most species in the genus show disjunct distributional patterns (e.g. C. leptotifolia Cetzal & Carnevali
+(2010: 198), C. pendula Carnevali & Cetzal (in Carnevali et al. 2010: 171), C. lacera (Lindley 1844: 30)
+Cetzal (2012a: 139), etc.). However, a few species share distributional ranges with one or more congeneric
+taxa; these include C. ascendens (Lindley 1842: 4) Christenson (1999: 177), C. cepula (Hoffmannsegg 1843:
+833) Carnevali & Romero (in Carnevali et al. 2010: 167), and C. nuda (Lindley 1837: 1994) Christenson
+(1999: 177). In all cases of sympatry of parapatry, the species involved are not sister taxa. For example, C.
+cebolleta (Jacquin 1760: 30) Christenson (1999: 177), a member of the C. cebolleta complex (Cetzal-Ix et al.
+2013) is para- or sympatric with C. nuda, a member of the C. ascendens complex, whereas C. cepula (a
+member of the C. cepula complex) occurs in the same habitats as C. jonesiana (Reichenbach 1883: 781)
+Christenson (1999: 177), a member of the C. jonesiana complex (Cetzal-Ix et al. 2012b). No instances of
+natural hybrids between these pairs of species are known to occur.
+Cohniella ascendens is unique in the genus in that it overlaps its distributional range with three other
+congeneric taxa, all members of the C. brachyphylla (Lindley 1842: 4) Cetzal & Carnevali (in Carnevali et al.
+2010: 163) complex. Cohniella ascendens usually grows in evergreen to semi-evergreen forest but, more
+rarely, it also occurs in semi-deciduous forest and several types of secondary vegetation at elevations of 0–500
+(–900) m. Thus, in Mexico, along the Gulf drainage north of the Tehuantepec isthmus, this species is
+sympatric with C. biorbicularis Balam & Cetzal (in Carnevali et al. 2010: 162). Also in Mexico, it is
+sympatric or parapatric with C. yucatanensis Cetzal & Carnevali (2010: 206) in the northern Yucatan
+Peninsula (Carnevali et al. 2010, Cetzal-Ix & Carnevali 2010) whereas it shares these habitats with C.
+brachyphylla in western Chiapas through extreme NW Costa Rica, along the Pacific drainage of Central
+America. The flowering period of these four species broadly overlap (Table 1), but so far no natural hybrids
+have been recorded or described.
+TABLE 1. Flowering period comparison throughout the geographic range of each taxon of four species of Cohniella (based on
+Carnevali et al. 2010 and Cetzal-Ix & Carnevali 2010) and the putative natural hybrid C. francoi.
+Taxa
+
+Months of the year
+J
+
+F
+
+M
+
+A
+
+M
+
+Cohniella ascendens
+
+*
+
+*
+
+*
+
+*
+
+Cohniella biorbicularis
+
++
+
++
+
+*
+
+Cohniella brachyphylla
+
+*
+
+*
+
+*
+
+Cohniella yucatanensis
+
+*
+
+*
+
+*
+
+Cohniella ×francoi
+
+A
+
+S
+
+*
+
++
+
++
+
+*
+
++
+
++
+
+*
+
++
++
+
+J
+
+J
+
++
+
+O
+
+N
+
+D
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+*
++
+
++
+
+(+) Flowering. (*) Peak bloom.
+
+As found in other genera in subtribe Oncidiinae (e.g. Oncidium Swartz (1800: 239), Lophiaris Rafinesque
+(1838: 40), and many others) Cohniella species feature a generalized floral architecture resembling blooms of
+the family Malpighiaceae, which are mainly pollinated by oil-gathering Centris bees (Dodson 1972,
+Carmona-Díaz & García-Franco 2009). Therefore, it is possible that these insects are able to visit and
+pollinate flowers of orchid species of the same or different genera, opening the possibility for intrageneric and
+intergeneric hybridization to occur, of which several examples are known in the group of genera related to
+Cohniella (e.g. Lophiaris ×haematochila (Lindley & Paxton (in Lindley 1850: 21)) Braem (1993: 19), L.
+×oerstelurida Cetzal & Balam (2012: 139), and ×Cohnlophiaris quintanarooensis Cetzal & Carnevali (in
+Cetzal-Ix et al. 2012a: 41)).
+Despite all this, there is just a single natural intrageneric hybrid in Cohniella formally described. This is
+Cohniella ×marvraganii (Lückel 1998: 90) Christenson (1999: 177), the natural cross of C. jonesiana and C.
+stacyi (Garay 1973: 301) Christenson (1999: 177). This nothospecies was described from Santa Cruz, Bolivia,
+
+46 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+CETZAL-IX ET AL.
+
+and it is only known from two collections, each one morphologically more similar to one parent than to the
+other. These two, otherwise closely related species, are very different, rendering the natural hybrid readily
+identifiable by a combination of characters, some found in neither of the parents, others intermediate between
+the two.
+However, other sympatric species of Cohniella are not as obviously distinct and the possibility that other
+events of natural hybridization may have been overlooked cannot be ruled out. To recognize other
+nothospecies within the genus would require knowledge of the morphology (and its variation) and
+biogeography of the putative parents.
+Recently, in an area of tropical evergreen forest in the southern portion of the Guanacaste province (Santa
+Rosa National Park), Costa Rica, a plant was collected with intermediate floral characteristics between those
+of C. ascendens and C. brachyphylla. We here interpret this combination of morphological and anatomical
+characters as evidence of a hybrid status for this plant, which is herein proposed as the new nothospecies,
+Cohniella ×francoi Cetzal & Carnevali.
+
+Material and methods
+Plant material
+All the specimens studied were prepared from plants collected in the field. Representative samples of each
+taxon were deposited in the Herbarium CICY: Cohniella ascendens (Chiapas, Mexico, Cetzal 36), C.
+brachyphylla (Chiapas, Mexico, Carnevali 7310), and the new hybrid (Carnevali 7257). Morphological
+characters of the new natural hybrid and putative parents were revised under the dissecting microscope.
+Additionally, we assessed morphological characters of additional putative parents from the taxonomic
+revisions of Carnevali et al. (2010) and Cetzal-Ix & Carnevali (2010). Images of live flowers were obtained
+with an Epson Expression 1640 XL scanner. Digital images of flowers were captured at several resolutions,
+ranging from 600 to 1200 dpi. Digital line drawings were produced with Canvas, Version X Build 925, using
+the digital images previously captured to provide outlines. A distributional map was produced by plotting the
+locality data cited here and previous studies of Carnevali et al. (2010) and Cetzal-Ix & Carnevali (2010) on an
+image data “shaded and colored SRTM elevation model” (NASA/JPL/NIMA 2002) using ArcView 3.2 (ESRI
+1999).
+Foliar anatomy
+Samples of mature leaves for anatomical study from the same plants mentioned under “Plant Material”
+above. Sections were taken from the middle portion of the leaf and fixed in FAA (5% formaldehyde, 5%
+acetic acid, 40% water, and 50% ethanol) (Sass 1958). The sections were cut transversely freehand, stained
+with 0.5% aqueous Toluidine blue, mounted in 50% glycerin, and sealed with clear nail polish. The slides are
+included in the holotype specimen. For the study of leaf epidermis, 0.5 cm wide leaf sections were placed in
+an approximately 3.75% sodium hypochlorite solution for three hours, washed with distilled water, cleaned of
+mesophyll remnants with a brush, and stained and mounted in the same manner as the transverse sections.
+Observations were made using a Leica-DME microscope, and pictures were taken with a Nikon Eclipse E 200
+microscope equipped with a camera.
+
+Taxonomy
+Cohniella ×francoi Cetzal & Carnevali, nothosp. nov. (Figs. 1–5)
+Cohniella ×francoi is a nothospecies intermediate between C. ascendens and C. brachyphylla. It resembles the former in
+the semi-pendulous habit, the general morphology of the callus, the linear-oblong column wings, and the obovate
+
+A NATURAL HYBRID BETWEEN COHNIELLA ASCENDENS AND C. BRACHYPHYLLA Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 47
+
+stigmatic cavity. It is similar to C. brachyphylla in the oblong to subquadrate, spreading lateral lobes of the labellum
+and in the rectangular disc of the labellum with a conical lateral extension on the margins. It is distinguished from
+both parental taxa by the brown callus with white teeth as well as the combination of the Cohniella ascendens type
+callus with a rectangular disc bearing conical lateral extensions on the margins.
+Type:–– COSTA RICA. Guanacaste: near Santa Rosa National Park, 19 February 2009, Pupulin s.n. sub Carnevali 7257
+(holotype, CICY!; isotypes, AMES!, JBL!).
+
+Epiphytic, semipendulous herbs. Pseudobulbs 9–12 × 9–12 mm, subspherical to broadly ovoid, apically 1leaved, red-purple tinged, totally enclosed by 3 imbricate sheaths. Leaves (13.6–)17.8–52.0 × 0.5–0.7 cm,
+terete, thickly fleshy-coriaceous, dark green, usually purple spotted. Inflorescences solitary from the base of
+the pseudobulbs, 9.7–21.0 cm long, a 5–10-flowered raceme; peduncle 5 cm long, and rachis 1.5 cm long,
+both dark green, purple tinged. Flowers 18–19 mm diameter, resupinate, with widely spreading perianth parts
+and the petals and sepals somewhat reflexed; ovary with pedicel 10–11 mm long, of which 2.5–3.0 mm
+correspond to the ovary, this 1 mm thick. Sepals basally clawed, spreading or somewhat reflexed, dorsal sepal
+6.0–7.0 × 4.0–4.3 mm, oblanceolate, apically obtuse and minutely apiculate, concave in the upper half, the
+claw 1.0–1.2 × 1.1–1.2 mm. Lateral sepals fused at the very base, then free, similar to dorsal, 7.0–7.5 × 3.5–
+3.8 mm. Petals 6.5–7.0 × 3.5–4.0 mm, oblong to oblanceolate, somewhat oblique, the apex rounded,
+somewhat reflexed in natural position. Labellum deeply 3-lobed, 10–11 mm long from the base to the apex of
+the central lobe, 11–12 mm wide across the apices of the lateral lobes, the lateral lobes in the same plane as the
+central lobe and +/- perpendicular to it; central lobe 7.0–8.0 × 12.0–12.5 mm, spathulate to transversely oblate
+or circular in outline, apically rounded to subquadrate, basally produced into a short isthmus, 2.0–3.0 × 1.0–
+1.5 mm; lateral lobes 4.0–4.5 × 3.0–3.5 mm, patent, somewhat reflexed in natural position, oblong to
+subquadrate, apically truncate-rounded, the upper and lower margins of the lateral lobes flat to rounded; disc
+(the basalmost section of the labellum that carries the callus) 4.0–4.5 × 3.0–3.5 mm, rectangular, bearing a
+well-developed callus, 4.0–4.2 × 2.5–2.6 mm, brown, consisting of a large, elevated, +/- flat, hemicircular
+platform, 2 × 2 mm, proximally with two small, lateral, white, divergent teeth, that are obconical and point
+upward, 1.0–1.5 × 0.3–0.5 mm; distally with two lateral teeth, broadly rectangular to conical, these 1.8–2.0 ×
+0.8–1.0 mm; the central tooth or keel laterally compressed, ca. 2 mm long; the basal portion of the callus with
+conical lateral extensions. Column 3.0–3.2 × 1.2–1.5 mm, the ventral face in the same plane as the labellum
+lobes, oblong, tabula infrastigmatica longitudinally channeled, stigmatic cavity rounded, 1 × 1 mm; column
+wings small, 2 × 1 mm, linear-oblong. Anther cap 1.8 × 1.5 mm, apical, operculate, ellipsoid. Pollinarium 1
+mm long, tegula spathulate, 0.5 × 0.3 mm, viscidium disciform, pollinia 0.5–0.8 mm long, yellow. Capsule
+38.5 × 7.0 mm, elliptical, pale green with reddish spots.
+Anatomical description (Fig. 4):––Dermic tissue system. Cuticle: Smooth (Fig. 4E) Epidermis:
+monostratified, cells with external periclinal walls thick and convex. In frontal view, the cells are arranged in
+rows, are isodiametric to slightly elongated, hexagonal, with thick, straight anticlinal walls, with angulose
+tapering end walls. Bulliform cells: absent. Stomata: tetracytic, guard cells without papillae, striations absent.
+Fundamental tissue system. Mesophyll: leaf unifacial, parenchyma homogeneous, cells of variable sizes,
+arrangement and morphology, with some cells bearing reticulate thickenings in the walls (Fig. 4F); numerous
+bundles of extravascular fibers arranged in two series (Fig. 4D–E), the outermost one layer of cells from the
+epidermis, the other 3–7 layers of cells deeper. Hypodermis: absent. Cellular inclusions: druses in some
+mesophyll cells toward 2–6 cell apart from the epidermis. Vascular tissue system: comprised by closed,
+collateral vascular bundles (Fig. 4B–C), arranged in two central, concentric series (Fig. 4A), made up of
+bundles of a larger size and many of smaller dimensions which are scattered in the mesophyll.
+Distribution and ecology:––Cohniella ×francoi is only known from the vicinity of the Santa Rosa
+National Park in Guanacaste province, Costa Rica. This hybrid grows in tropical dry forest (Holdridge 1967)
+where the distribution ranges of its putative parents, C. ascendens and C. brachyphylla, overlap (Fig. 2). The
+Santa Rosa National Park and surrounding areas are located in the Santa Rosa Plateau at 300 m of elevation,
+between the Pacific Coast and the Guanacaste Cordillera (Heinrich & Hurka 2004); in this area both putative
+
+48 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+CETZAL-IX ET AL.
+
+parents have been recorded; the C. brachyphylla parent was misidentified by these authors as Oncidium
+cebolleta (Jacquin 1760: 30) Swartz (1800: 240) and the C. ascendens parent as O. ascendens Lindley (1842:
+4). Vouchers for these two species from the general Guanacaste area are cited in Cetzal-Ix & Carnevali (2010).
+
+FIGURE 1. Cohniella ×francoi. A. Habit with inflorescence. B. Flower. C. Labellum front view. D. Labellum back view. E. Sepals
+and petals. F. Disc and callus. G. Column and base of labellum, lateral view. H. Column, ventral view. I. Column, front view. Scale: BE. 6 mm. Drawing by W. Cetzal-Ix.
+
+A NATURAL HYBRID BETWEEN COHNIELLA ASCENDENS AND C. BRACHYPHYLLA Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 49
+
+In most localities along their distributional range, both parental taxa are allopatric (Fig. 2, map scale is too
+large in some areas to clearly show this). However, in a few known localities both species appear to be
+parapatric, i.e. occurring in the same general area but growing in different vegetation types; Cohniella
+ascendens always found growing in the more humid, shadier places. Thus, the two taxa can grow within
+flying distance of a potential common pollinator. The occurrence of this natural hybrid between C. ascendens
+and C. brachyphylla suggests that, where the existence of vegetation mosaics allow for the habitats of both
+parental taxa to coexist within pollinator flying distance, gene exchange between these clearly different taxa
+may occur. We know little about the pollinators of these two taxa. We have observed oil-gathering Centris
+bees visiting C. brachyphylla both in the field as in cultivation (where the visits result in the successful
+production of capsules), whereas have never seen any pollinator on C. ascendens. There is a report of Trigona
+nigra Cresson as a pollinator of C. ascendens (Parra-Tabla et al. 2000) but the reported locality (Dzilam de
+Bravo in northern Yucatan State, México) makes it highly unlikely that they were actually studying this
+species (most likely it was C. yucatanensis). Since there are no plant vouchers reported in the Parra-Tabla et
+al. (2000) study, we have to disregard the report at this time.
+
+FIGURE 2. Distributional records of Cohniella ×francoi and putative parents (based upon Cetzal-Ix & Carnevali, 2010). BE= Belize.
+CR= Costa Rica. GT= Guatemala. NI= Nicaragua. SV= El Salvador.
+
+Eponymy:—Named after Franco Pupulin, Professor at the University of Costa Rica and researcher at the
+Lankester Botanical Garden, who collected the type specimen.
+Morphological analysis:—The morphology of this specimen from Costa Rica is intermediate between C.
+ascendens and C. brachyphylla. The semipendulous habit, the callus type, the linear-oblong column wings,
+and the obovate stigmatic cavity are similar to those of C. ascendens. On the other hand, the erect, oblong to
+subquadrate lateral lobes of the labellum as well as the rectangular disc of the labellum with conical lateral
+
+50 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+CETZAL-IX ET AL.
+
+extension on the margins are similar to those of C. brachyphylla. Comparisons between the putative hybrid
+and its putative parental species are featured in Table 2 and Figure 3.
+
+FIGURE 3. Morphological comparison of Cohniella ×francoi and putative parents. A1–A5. Cohniella ascendens. B1–B5. Cohniella
+×francoi. C1–C5. Cohniella brachyphylla. A1–C1. Flowers. A2–C2. Column and base of labellum, lateral view. A3–C3. Disc and
+callus, front view. A4–C4. Callus. A5–C5. Column, ventral view. Drawing by W. Cetzal-Ix.
+
+A NATURAL HYBRID BETWEEN COHNIELLA ASCENDENS AND C. BRACHYPHYLLA Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 51
+
+TABLE 2. Morphological comparison of Cohniella ×francoi and its putative parental species.
+Characters
+
+Cohniella ascendens
+
+Cohniella ×francoi
+
+Cohniella brachyphylla
+
+Plant orientation
+
+Semipendulous
+
+Semipendulous
+
+Erect to arching
+
+Leaf length (cm)
+
+(13–)15–86
+
+(13.6–)17.8–52.0
+
+(9–)12–42
+
+(11–)14–65(–80)
+
+9.7–21.0
+
+(15–)24–110
+
+15–22
+
+18–19
+
+17–25
+
+Inflorescence length (cm)
+Flower size (mm)
+Central lobe of the labellum (mm)
+
+5–7 × 8.5–13.0
+
+7–8 × 12.0–12.5
+
+4–14 × 4–18
+
+Lateral lobes of the labellum (mm)
+
+4–8 × 2–4
+
+4.0–4.5 × 3.0–3.5
+
+5–11 × 3–5
+
+Erect, perpendicular to the
+central lobe
+
+Spreading, in the same
+plane as the central lobe
+
+Spreading, in the same plane
+as the central lobe
+
+Lateral lobes of the labellum
+(position)
+Lateral lobes of the labellum (shape)
+
+Oblong to suborbicular
+
+Oblong to subquadrate
+
+Oblong to subquadrate
+
+Disc of the labellum (shape)
+
+Obovate
+
+Rectangular
+
+Rectangular
+
+Lateral extension on the margins of
+the disc
+
+Absent
+
+Present
+
+Present
+
+Callus shape
+
+Cohniella ascendens type
+
+Cohniella ascendens type
+
+Cohniella brachyphylla type
+
+Callus (color)
+
+Brown with yellow teeth
+
+Brown with white teeth
+
+White with yellow and pink
+teeth
+
+Isthmus (mm)
+
+0.5–4.0 × 1.3–3.0
+
+2.0–3.0 × 1.0–1.5
+
+1.0–2.0 × 1.2–3.5
+
+Column base (shape)
+
+Cylindrical
+
+Cylindrical
+
+Subquadrate
+
+Column wings (shape)
+
+Linear-oblong
+
+Linear-oblong
+
+Oblate
+
+Column wings (color)
+
+Yellow
+
+Yellow with reddish
+points
+
+Yellow
+
+Stigmatic cavity (shape)
+
+Obovate
+
+Obovate
+
+Rounded
+
+FIGURE 4. Leaf anatomy of Cohniella ×francoi, transverse sections. A. Schematic cross section near the middle of the leaf. B. Larger
+vascular bundles. C. Smaller vascular bundles. D. Extravascular fibers. E. Stoma and extravascular fibers, detail. F. View of the
+mesophyll, spiral cell wall thickenings and druses (indicated by arrows).
+
+52 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+CETZAL-IX ET AL.
+
+Cohniella ×francoi is further distinguished from C. ascendens and C. brachyphylla by the brown callus
+with white teeth whereas the combination of the Cohniella ascendens type callus with a rectangular disc
+bearing conical lateral extensions on the margins is unique to this nothospecies (Fig. 5).
+
+FIGURE 5. Morphological comparison of Cohniella ×francoi and putative parents. A. Cohniella ascendens (Costa Rica, based on
+Pupulin 5784, JBL). B. Cohniella ×francoi (Costa Rica, Pupulin s.n. sub Carnevali 7257, CICY). C. Cohniella brachyphylla (Costa
+Rica, Bogarin 6153, JBL).
+
+TABLE 3. Anatomical comparison of Cohniella ×francoi and its putative parental species.
+Characters
+
+Cohniella ascendens
+
+Cohniella ×francoi
+
+Cohniella brachyphylla
+
+Cuticle
+
+Smooth
+
+Smooth
+
+Papillose
+
+External periclinal walls of the epidermal cells
+
+Convex
+
+Convex
+
+Straight
+
+Penta-septagonal
+
+Hexagonal
+
+Penta-hexagonal
+
+Paracytic
+
+Tetracytic
+
+Paracytic
+
+Absent
+
+Absent
+
+Present
+
+Mesophyll cell wall thickenings
+
+Spiral
+
+Reticulate
+
+Spiral
+
+Starch
+
+Absent
+
+Absent
+
+Present
+
+Cellular inclusions type
+
+Druses
+
+Druses
+
+Raphides
+
+One central arch
+
+Two central arches
+
+One central arch
+
+Dermal tissue system
+
+Epidermal cell shape
+Stomata type
+Stomata guard cell striations
+Fundamental tissue system
+
+Vascular tissue system
+Arrangement of vascular bundles
+
+Anatomical analysis:—Cohniella ×francoi has anatomical features intermediate between the putative
+parents (Table 3). It is similar C. ascendens by the smooth cuticle, convex external periclinal walls of the
+epidermal cells, the absence of striations in the stomatal guard cellls, the absence of starch in parenchyma
+cells of mature plants, and the presence of druses in parenchyma cells; it is similar to C. brachyphylla in the
+hexagonal epidermal cell shape. This combination of anatomical features renders this nothospecies most
+similar to C. ascendens. Otherwise, the putative hybrid is characterized anatomically by tetracytic stomata,
+
+A NATURAL HYBRID BETWEEN COHNIELLA ASCENDENS AND C. BRACHYPHYLLA Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 53
+
+reticulate wall thickening walls of the mesophyll cells, and the vascular bundles arranged in two central
+arches. Cohniella species with smooth cuticle are usually found growing under more shady and humid
+conditions than those with a papillose cuticle (Cetzal-Ix 2012b). This nothospecies also has two concentric
+rings of vascular bundles in the mesophyll, a character found only in species of the C. ascendens complex
+(albeit absent from C. ascendens itself), a group of species restricted to humid, shady environments (Cetzal-Ix
+2012b).
+
+Acknowledgements
+The senior author would thank CONACYT for a scholarship 162579 for doctoral studies. The second author
+wants to acknowledge the support by CONACYT that partially funded this project in the grant 49980-Q
+("Filogenia molecular y morfológica, revisión sistemática y una exploración de cuatro regiones nocodificantes del genoma del cloroplasto para estudios filogeográficos en el complejo Trichocentrum
+(Orchidaceae: Cymbidieae: Oncidiinae)") awarded to him. The third author is grateful to ECOSUR by the
+scholarship for post-doctoral studies. Gustavo A. Romero-González (AMES), Ivón M. Ramírez, and Rodrigo Duno
+(both at CICY) commented on earlier drafts of this article. Silvia Hernández Aguilar (CICY) helped us with the
+management of herbarium loans. Norbelis Garces (UCV) provided assistance in the anatomy laboratory. Franco Pupulin
+(JBL) for giving us permission to use the images of C. ascendens and C. brachyphylla from Costa Rica.
+
+References
+Braem, G.J. (1993) Studies in the Oncidiinae – Discussion of some taxonomic problems with description of Gudrunia
+Braem, gen. nov., and reinstatement of the genus Lophiaris Rafinesque. Schlechteriana 4: 8–29.
+Carmona-Díaz, G. & García-Franco, J.G. (2009) Reproductive success in the Mexican rewardless Oncidium
+cosympephorum (Orchidaceae) facilitated by the oil-rewarding Malpighia glabra (Malpighiaceae). Plant Ecology
+203: 253–261.
+http://dx.doi.org/10.1007/s11258-008-9543-6
+Carnevali, G., Cetzal-Ix, W., Balam-Narváez, R. & Romero-González, G.A. (2010) A synopsis of Cohniella
+(Orchidaceae, Oncidiinae). Brittonia 62: 153–177.
+http://dx.doi.org/10.1007/s12228-009-9115-7
+Cetzal-Ix, W. (2012a) Oncidium lacerum, an older and ignored name for Cohniella stipitata (Orchidaceae, Cymbideae,
+Oncidiinae). Annales Botanici Fennici 49: 137–143.
+http://dx.doi.org/10.5735/085.049.0124
+Cetzal-Ix, W. (2012b) Sistemática, Filogenia y Biogeografía de Cohniella Pfitzer (Orchidaceae: Cymbidieae,
+Oncidiinae). El Colegio de la Frontera Sur, Chetumal, Quintana Roo, 276 pp.
+Cetzal-Ix, W. & Balam, R. (2012) The identity and distribution of Lophiaris carthagenensis (Orchidaceae, Oncidiinae):
+two centuries of confusion. Journal of the Torrey Botanical Society 139: 9–25.
+http://dx.doi.org/10.3159/torrey-d-11-00063.1
+Cetzal-Ix, W., Balam-Narváez, R. & Carnevali, G. (2012a) A new nothogenus and nothospecies in the Oncidiinae
+(Orchidaceae) from Quintana Roo, Mexico. Nordic Journal of Botany 30: 40–46.
+http://dx.doi.org/10.1111/j.1756-1051.2011.01261.x
+Cetzal-Ix, W., & Carnevali, G. (2010) A revision of Cohniella Pfitzer (Orchidaceae) in Mexico. Journal of the Torrey
+Botanical Society 137: 180–213.
+http://dx.doi.org/10.3159/10-ra-018r.1
+Cetzal-Ix, W., Carnevali, G. & Paiva-Castro, V. (2012b) Cohniella (Orchidaceae: Oncidiinae) south of the Amazon River.
+Systematic Botany 37: 58–77.
+http://dx.doi.org/10.1600/036364412X616648
+Cetzal-Ix, W., Carnevali, G., Noguera-Savelli, E. & Romero-González, G.A. (2013) Really, what is Cohniella cebolleta?
+A recircumscription plus new and resurrected species and combinations. Systematic Botany 38: 606–623.
+http://dx.doi.org/10.1600/036364413x670269
+Christenson, E.A. (1999) The return of Cohniella (Orchidaceae: Oncidiinae). Lindleyana 14: 176–177.
+
+54 •
+
+Phytotaxa 144 (2) © 2013 Magnolia Press
+
+CETZAL-IX ET AL.
+
+Dodson, C.H. (1972) The importance of pollination in the evolution of the orchids of tropical America. American Orchid
+Society Bulletin 31: 525–534.
+ESRI (1999) ArcView gis 3.2, Environmental Systems Research Institute, Inc. New York.
+Garay, L.A. (1973) Studies in American orchids IX. Botanical Museum Leaflets 23: 299–304.
+Heinrich, A. & Hurka, H. 2004. Species richness and composition during sylvigenesis in a tropical dry forest in
+northwestern Costa Rica. Tropical Ecology 45: 43–57.
+Hoffmannsegg, J.C. (1843) Verzeichniss der Orchideen. Botanische Zeitung (Berlin) 1: 831–835.
+Holdridge, L.R. (1967) Life Zone Ecology. Tropical Science, San José, 206 pp.
+Jacquin, N.J. (1760) Enumeratio Systematica Plantarum, quas in insulis Caribaeis 30. Facsimile reprint Zug, Leiden, 30
+pp.
+Lindley, J. (1837) Oncidium nudum. Edwards's Botanical Register 23: t. 1994.
+Lindley, J. (1842) Oncidium ascendens. Edwards's Botanical Register 28: t. 4.
+Lindley, J. (1842) Oncidium brachyphyllum. Edwards's Botanical Register 28: t. 4.
+Lindley, J. (1844) Oncidium lacerum. Edwards's Botanical Register 30: 30.
+Lindley, J. (1850) Oncidium haematochilum. Paxton's Flower Garden 1: t. 6.
+Lückel, E. (1998) Stilifolium stacyi und Stilifolium x marvraganii. Die Orchidee 49: 89–91.
+NASA/JPL/NIMA (2002) NASA, Jet Propulsion Laboratory. NASA Earth Science Enterprise, Washington, D.C.
+Available from http://photojournal.jpl.nasa.gov/catalog/PIA03364 (accessed: 10 March 2013)
+Parra-Tabla, V., Vargas, C.F., Magaña-Rueda, S. & Navarro, J. (2000) Female and male pollination success of Oncidium
+ascendens Lindley (Orchidaceae) in two contrasting habitat patches: forest vs agricultural field. Biological
+Conservation 94: 335–340.
+http://dx.doi.org/10.1016/s0006-3207(99)00187-1
+Pfitzer, E. (1889) Orchidaceae, In: Engler, A. & Prantl, K. (eds.) Die Natürlichen Pflanzenfamilien 2(6). Wilhelm
+Engelmann, Leipzig, pp. 52–224.
+Rafinesque, C.S. (1838) Flora Telluriana, 4. Philadelphia, Pennsylvania, 135 pp.
+Reichenbach, H.G. (1883) New Garden Plants: Oncidium jonesianum. The Gardeners' Chronicle & Agricultural Gazette
+20: 781.
+Sass, J.E. (1958) Botanical microtechnique, 3rd Edition. The Iowa State College Press, Ames, 228 pp.
+Swartz, O.P. (1800) Oncidium. Kongl. Vetenskaps Academiens Nya Handlingar 21: 239–240.
+
+A NATURAL HYBRID BETWEEN COHNIELLA ASCENDENS AND C. BRACHYPHYLLA Phytotaxa 144 (2) © 2013 Magnolia Press
+
+• 55
+
+

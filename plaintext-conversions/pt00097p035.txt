@@ -1,0 +1,525 @@
+Phytotaxa 97 (2): 27–35 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.97.2.2
+
+Notes on Early Land Plants Today. 35. Notes on Lophoziaceae
+(Marchantiophyta)
+L. SÖDERSTRÖM1, JI Í VÁ A2, ANDERS HAGBORG3 & MATT VON KONRAT3
+
+Ň
+
+Ř
+
+1
+
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+Department of Botany, Charles University, Benátská 2, CZ-12801 Praha 2, Czech Republic; vana@natur.cuni.cz
+3
+Department of Botany, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Abstract
+Recent redefinition of Lophoziaceae has led to many nomenclature and taxonomic changes but several problems
+remains. Here we discuss and make the necessary new combinations for Lophoziopsis longidens subsp. arctica,
+Lophoziopsis pellucida var. minor, Heterogemma patagonica and Trilophozia quinquedentata var. asymetrica. A number
+of new synonyms are proposed. Lophozia handelii is shown to be a synonym to Lophozia pallida and the species is
+treated separate from Lophozia guttulata. Four problematic names in Lophozia (Lophozia groenlandica, Lophozia
+murmanica, Lophozia confertifolia and Lophozia longiflora) are discussed and a conspectus of the genus is given.
+
+Introduction
+The definition of Lophoziaceae Cavers (1910: 293) as a family has changed dramatically in recent years based
+on molecular studies. Schill et al. (2004) included the whole family as defined by Schuster (1969) in
+Scapaniaceae Migula (1904: 479). De Roo et al. (2007) showed that it included several unrelated groups. It
+has later been separated into Anastrophyllaceae Söderström et al. (2010: 48), Scapaniaceae, Jamesoniellaceae
+He-Nygrén et al. (2006: 27) and Lophoziaceae, as well as moving Leiocolea (Müller 1913: 711) Buch (1933:
+288) to Jungermanniaceae Reichenbach (1828). Even so, the family still includes elements that should be
+removed.
+The genus Lophozia (Dumortier 1831: 53) Dumortier (1835: 17) as defined by Schuster (1969) is also
+shown to be very heterogeneous and the species belong to at least 4 families (De Roo et al. 2007). The breakup of the genus has resulted in several new names and combinations (Söderström et al. 2010, Konstantinova
+& Vilnet 2010) but a few taxa remain to be transferred or synonymized.
+The format of this note follows Söderström et al. (2012) except that we use the Melbourne International
+Code of Nomenclature for algae, fungi, and plants (ICN; McNeill et al. 2012) instead of the Vienna
+International Botanical Code of Nomenclature (ICBN; McNeill et al. 2006).
+
+New combinations and new synonyms in Lophoziopsis Konstant. et Vilnet
+Lophoziopsis Konstantinova & Vilnet (2010: 66) was established for the majority of the Lophozia s.lat. with
+red gemmae. However, a few taxa remain to be transferred.
+Lophozia nepalensis was described by Bakalin (2003: 50) from Nepal based on a specimen collected by
+Josef Poelt in 1962. The characters separating it from Lophoziopsis longidens were 1) acute-lobed leaves with
+angulate sinus vs. more or less hornlike lobes and U-shaped sinus, 2) concentration of gemmae (purple, not
+
+Accepted by Jon Shaw: 10 Apr. 2013; published online in PDF: 1 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+27
+
+red-brown) in apical leaves, not on lobe tips, 3) funnel-like base of the leaves, which are loosely canaliculateconduplicate vs. almost transversely inserted and decurved in Lophoziopsis longidens, and 4) presence of
+attenuate shoot apices. One of us (JV) could examine rich material from Himalaya collected by David Long
+and found 2-3 specimens with more or less attenuate shoot apices. Of the characters given by Bakalin,
+character 1 (acute-lobed leaves) and 3 (funnel-like leaf bases) are of no value as both characters can be found
+also in some specimens of Lophoziopsis longidens, and character 2 (concentration of gemmae) is not constant
+and mostly refers to attenuate shoot apices. We interpret Lophozia nepalensis as a modification of
+Lophoziopsis longidens with attenuate apices induced by ecological conditions.
+Lophoziopsis excisa (Dicks.) Konstant. et Vilnet¸ Arctoa 18: 66, 2009 [2010] (Konstantinova & Vilnet 2010).
+Basionym:—Jungermannia excisa Dicks., Fasc. Pl. Crypt. Brit. 3: 11, 1793 (Dickson 1793).
+= Lophozia excisa var. gemmicumulata Bakalin, Monogr. Lophozia: 99, 2005 (Bakalin 2005), syn. nov. Type:—
+GERMANY. Sachsen: Vogtland, zwischen Schneckenstein und Winselburg. 11 August 1917, M. Spindler. Schiffner,
+Hepaticae europaeae N. 1398 (holotype KPABG). Lophozia cylindracea var. gemmicumulata Spindl. ex Schiffn.,
+Krit. Bemerk. Eur. Lebermoose 28: 29, 1942 (Schiffner 1942), nom. inval. (ICN Art. 39.1; no Latin description).
+
+≡
+
+Lophoziopsis longidens (Lindb.) Konstant. et Vilnet, Arctoa 18: 66, 2009 [2010] (Konstantinova & Vilnet
+2010).
+Basionym:—Jungermannia longidens Lindb., Helsingfors Dagblad 1876 (323): 2 (Lindberg 1876).
+= Lophozia nepalensis Bakalin, Ann. Bot. Fenn. 40: 50, 2003 (Bakalin 2003), syn. nov. Type:—NEPAL. East Nepal:
+Vorhimalaya, Abies-Rhododendron forest, on decaying wood, 1962 Poelt H214, (holotype JE!).
+
+Lophoziopsis longidens subsp. arctica (R.M.Schust.) Vá a et L.Söderstr., comb. nov.
+
+ň
+
+Basionym:—Lophozia longidens subsp. arctica R.M.Schust., Hepat. Anthocerotae N. Amer. 2: 539, 1969 (Schuster
+1969).
+Type:—GREENLAND. Kânâk, Red Cliff Peninsula, NW. Greenland, in deep, vertical dry cleft formation bedrock by ice
+action, plateau between coastal hills and ice cap, 1500-1600 feet, 4 miles northwest of village, Schuster RMS 45649
+(holotype F-2142374).
+Lophozia longidens var. arctica (R.M.Schust.) Schljakov, Petjen. Mchi Sev. SSSR 3: 108, 1980 (Schljakov 1980).
+Lophozia pellucida f. arctica (R.M.Schust.) Bakalin, Monogr. Lophozia: 112 (Bakalin 2005).
+Lophoziopsis rubrigemma f. arctica (R.M.Schust.) Bakalin, Arctoa 18: 38, 2009 [2010] (Konstantinova et al. 2010).
+
+≡
+≡
+≡
+
+Lophoziopsis pellucida var. minor (R.M.Schust.) L.Söderstr. et Vá a, comb. nov.
+
+ň
+
+Basionym:—Lophozia pellucida var. minor R.M.Schust., Canad. J. Bot. 39: 984, 1961 (Schuster 1961c).
+Type:—CANADA. Nunavut: Damp, weakly basic steep slope, south end of Hilgar Bay, 82°26'N, 63°25'W, northeast
+Ellesmere I, Schuster RMS 35237 (holotype F).
+
+The identity of Lophozia patagonica
+Lophozia patagonica was described as belonging to sect. Heterogemma Jørgensen (1934: 146) but “may
+likely prove to be a synonym of Lophozia capitata” (=Heterogemma capitata (Hooker 1816: pl. 80)
+Konstantinova & Vilnet (2010: 67)) according to Schuster (2002). Although the type lacks gemmae, the
+placement in Heterogemma (Jørg.) Konstantinova & Vilnet (2010: 67) can be confirmed. The dorsal cortical
+cells are more than 4x longer than wide and leaf cells are large. In addition, Schäfer-Verwimp (1996) found
+gemmae similar to species in Heterogemma in a specimen identified as the current species. He was also able
+to study living plants from Brazil and discussed its relation to Heterogemma capitata. The main difference is
+the markedly acute leaf lobes in Heterogemma patagonica versus the mainly blunt leaf lobes in Heterogemma
+capitata. Interestingly, Heterogemma patagonica grows in similar habitats as Heterogemma laxa (Lindberg
+1875: 539) Konstantinova & Vilnet (2010: 67) from the Northern Hemisphere. Heterogemma patagonica is
+retained as an independent species here pending further research on the relations in Heterogemma.
+
+28 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Heterogemma patagonica (Herzog et Grolle) L.Söderstr. et Vá a, comb. nov.
+
+ň
+
+Basionym:—Lophozia patagonica Herzog et Grolle, Rev. Bryol. Lichénol. 28: 343, 1959 [1960] (Grolle 1960).
+Type:—CHILE. Osorno: between San Juan de la Costa and Pucatrihue, 800 m, 1958, Oberdorfer 246 (holotype JE4001765!).
+
+The identity of Lophozia handelii
+Lophozia handelii was placed in the synonymy of Lophozia guttulata by Bakalin (2003), but not mentioned in
+his monograph (Bakalin 2005). One of us (JV) has seen rich material of Lophozia handelii from Himalaya and
+it appears to be a well-developed form of Lophozia guttulata. However, it is in most cases possible to separate
+it from the latter and we therefore retain the species pending further studies. Lophozia pallida from Yunnan is
+not much studied, but study of the type shows it to represent large, well developed plants of Lophozia handelii
+over which it has nomenclatural priority.
+Lophozia pallida (Steph.) Grolle, J. Jap. Bot. 39: 174, 1964 (Grolle 1964).
+Basionym:—Anastrophyllum pallidum Steph., Bull. Herb. Boissier ser. 2, 1: 1131 (Sp. Hepat. 2: 114), 1901 (Stephani
+1901).
+Type:—CHINA. Yunnan: Ma-eul-chan, Delavay (lectotype [Bonner 1962: 77] G-53383! [=G-10810!]1)
+= Lophozia handelii Herzog, Symb. Sin. 5: 14, 1930 (Herzog. 1930), syn. nov. Type:—CHINA. Yunnan: 21.VII.1915,
+Handel-Mazzetti 1285 (holotype JE!).
+
+Problematic names in Lophozia
+The genus Lophozia s.str. (sensu Konstantinova et al. 2010) includes many problematic taxa and has a chaotic
+nomenclature as a result of different interpretations of types by different authors. Several molecular studies
+(De Roo et al. 2007, Vilnet et al. 2010) have also shown that Lophozia ventricosa (Dickson 1790: 14)
+Dumortier (1835: 14), Lophozia wenzelii (Nees 1836: 58) Stephani (1902a: 35), Lophozia schusterana
+Schljakov (1975: 320) and Lophozia austro-sibirica Bakalin (2003: 49) (and possibly other taxa) form a
+complex of closely related, if not conspecific, taxa. On this basis Bakalin (2011) questioned if Lophozia
+wenzelii can be separated from Lophozia ventricosa at the species level. The type species itself, Lophozia
+ventricosa, has also been interpreted in different ways, and its use has only recently become stabilized.
+Schljakov (1980) and others considered the type from Britain to be what is now Lophozia silvicola Buch
+(1929: 228), a species with biconcentric oil bodies. This is possibly a correct interpretation, since Lophozia
+silvicola is common in Britain and oil bodies were not studied at the time of description. Thus, Schljakov
+(1980) used the name Lophozia ventricosa for Lophozia silvicola and Lophozia groenlandica (Nees in
+Gottsche et al. 1844: 114) Macoun (1902: 19) for Lophozia ventricosa. Konstantinova et al. (1992) argued
+that Lophozia groenlandica should be rejected and used the next available name, Lophozia confertifolia
+Schiffner (1905: 47), for Lophozia ventricosa. Grolle & Long (2000) neotypified Lophozia ventricosa with a
+specimen where the oil bodies were known (non biconcentric). Thus, the usage of the names Lophozia
+ventricosa and Lophozia silvicola became fixed. Until recently, Lophozia ventricosa and Lophozia silvicola
+have often been considered conspecific, sometimes at varietal level. Recent molecular studies (de Roo et al.
+2007), however, show that Lophozia silvicola should be treated as a separate species.
+Lophozia groenlandica:—As mentioned above, Lophozia groenlandica is a problematic early name,
+interpreted in different ways. Schuster (1969) used the name for what is now generally known as Lophozia
+schusterana. Schljakov (1980) considered it a synonym of Lophozia ventricosa as currently defined and used
+1. Citation of specimens in G should preferably use the barcode (M. Price, pers. comm.) but for comparability the numbers printed on the specimen,
+which have often been cited by previous authors, are also given here in square brackets.
+
+NOTES ON LOPHOZIACEAE (MARCHANTIOPHYTA)
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 29
+
+the name for it as he considered Lophozia ventricosa (as currently defined after neotypification) to be a
+synonym of Lophozia silvicola. Damsholt (1994) selected a lectotype for L. groenlandica and considered it to
+belong to Lophozia wenzelii. Schljakov (1998), however, accepted it as a good species, and placed Lophozia
+confertifolia in synonymy of this species, with Lophozia murmanica Kaalaas in Bryhn (1906: 34) and
+Lophozia heteromorpha Schuster & Damsholt in Schuster (1969: 507) as possible synonyms (with question
+mark). This concept (except the synonymy of Lophozia confertifolia) was followed by Grolle & Long (2000)
+without question marks. Meinunger (2002), however, considered L. groenlandica a good species, not identical
+with Lophozia wenzelii or Lophozia confertifolia and Bakalin (2005, 2011) regarded it a variety of Lophozia
+wenzelii. Konstantinova et al. (2010) followed the latter concept and included Lophozia murmanica (with a
+question mark), but not Lophozia heteromorpha, keeping the latter as an independent species. Although it is
+one of the oldest names in the complex, we are not using the name here due to the ambiguity of its
+interpretation. An unambiguous epitype should be selected.
+Lophozia murmanica:—Lophozia murmanica has also been interpreted in several ways, especially by
+Russian authors. Schljakov (1969) and Schljakov (1970) recognized the species but with two different
+circumscriptions. Later, Schljakov (1980) included his 1969 ‘species’ in Lophozia savicziae Schljakov (1973:
+299) and his 1970 ‘species’ (including what he considered to be the type) in his Lophozia groenlandica (=
+Lophozia ventricosa in the current sense). Schuster (1969) and Grolle & Long (2000) also included it under
+Lophozia groenlandica (excl. Lophozia ventricosa) although the concept of Schuster was later referred to
+Lophozia schusterana by Schljakov (1975). Although briefly discussed by Bakalin (2004), Lophozia
+murmanica was not mentioned by Bakalin (2005). In both Schljakov (1980) and Grolle & Long (2000)
+Lophozia heteromorpha was included as a synonym of Lophozia groenlandica together with Lophozia
+murmanica.
+Lophozia confertifolia:—Another problematic taxon difficult to place is Lophozia confertifolia. It has
+sometimes been regarded close to Lophozia ventricosa (e.g. Schljakov 1975) and sometimes close to
+Lophozia wenzelii (e.g. Müller 1954). Konstantinova et al. (1992) used the name for the current Lophozia
+ventricosa as it had been used in that way for some times (mainly in Russian literature) as they used Lophozia
+ventricosa for Lophozia silvicola. Grolle & Long (2000) presented the opinion of Vá a that this species is not
+conspecific with Lophozia wenzelii, but did not say where it should be placed. Meinunger (2002) considered it
+a good species separated from Lophozia wenzelii by oil-bodies and stem cross section; like Müller (1954) he
+later (in Meinunger & Schröder 2007) considered Lophozia confertifolia a form of Lophozia wenzelii.
+Bakalin (2005) placed it in synonymy of Lophozia wenzelii var. groenlandica (Nees) Bakalin (2001: 213). A
+lectotype for L. confertifolia that clearly can be referred to a specific taxon should be selected among the
+many syntypes in various herbaria.
+
+ň
+
+Lophozia longiflora:—The name Lophozia longiflora (Nees 1836: 95) Schiffner (1903: 257) has been used
+for two different taxa during the last 50 years. Pearson (1890) was the first to associate it with Lophozia
+ventricosa (as Jungermannia ventricosa var. longiflora (Nees) Pearson (1890: 23)). Müller (1954) followed
+this concept and the taxon was generally considered a variety of Lophozia ventricosa until Schljakov (1981)
+concluded that all syntypes in Nees’ herbarium belong to Lophozia guttulata over which it has nomenclatural
+priority. The latter concept has generally been followed since then. Meinunger (in Meinunger & Schröder
+2007), however, disagreed with Schljakov (1981) after examination of type material from UPS and STR and
+kept Lophozia longiflora and Lophozia guttulata as separate species on the basis of the difference in stem
+cross section. Recently, Bakalin (2005, 2011) again used the name in the sense of Müller (1954). A lectotype
+should be selected for L. longiflora and, if needed, an epitype. Until then we use the name Lophozia guttulata
+for L. longiflora. The following new synonym is proposed:
+
+30 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Lophozia guttulata (Lindb. et Arnell) A.Evans, Proc. Wash. Acad. Sci. 2: 302, 1900 (Evans 1900).
+Basionym:—Jungermannia guttulata Lindb. et Arnell, Kongl. Svenska Vetensk.-Akad. Handl. n.f. 23 (5): 51, 1889
+(Lindberg & Arnell 1889).
+= Lophozia porphyroleuca var. viridis Schiffn., Sitzungsber. Deutsch. Naturwiss.-Med. Vereins Böhmen "Lotos" Prag 51:
+273, 1903 (Schiffner 1903), syn. nov. Type:—CZECH REPUBLIC. Böhmen: auf faulen Stämmen und Stöcken in
+den Wäldern bei Salnau im südlichen Böhmerwalde. 900-1100 m, Sept. 1902 lgt V. Schiffner, Hep. eur. exs. no. 150
+(lectotype [here designated] FH!).
+
+Conspectus of Lophozia:—The following list includes the taxa accepted here in Lophozia (bold) together
+with their main recent synonyms. Taxa of uncertain synonymy are placed under all possible accepted taxa, as
+discussed above, preceded by a question mark.
+Lophozia ascendens (Warnst.) R.M.Schust., Bryologist 55: 180, 1952 (Schuster 1952). Basionym: Sphenolobus
+ascendens Warnst., Hedwigia 57: 63, 1915 [1916] (Warnstorf 1916). Lophozia austro-sibirica Bakalin, Ann. bot.
+Fenn. 40: 49, 2003 (Bakalin 2003). Lophozia ciliata Damsh., L.Söderstr. et H.Weibull, Lindbergia 25:3, 2000
+(Söderström et al. 2000). Lophozia guttulata (Lindb. et Arnell) A.Evans, Proc. Wash. Acad. Sci. 2: 302, 1900
+(Evans 1900). Basionym: Jungermannia guttulata Lindb. et Arnell, Kongl. Svenska Vetensk.-Akad. Handl. n.f. 23
+(5): 51, 1889 (Lindberg & Arnell 1889). ?= Lophozia longiflora (Nees) Schiffn. Sitzungsber. Deutsch. Naturwiss.Med. Vereins Böhmen "Lotos" Prag 51: 257, 1903 (Schiffner 1903). Lophozia lacerata N.Kitag., Hikobia 3: 172,
+1963 (Kitagawa 1963). Lophozia lantratoviae Bakalin, Ann. Bot. Fenn. 40: 47, 2003 (Bakalin 2003). Lophozia
+murmanica Kaal., Rep. Second Norweg. Arctic Exped. 11: 34, 1906 (Bryhn 1906). ?= Lophozia groenlandica
+(Nees) Macoun, Cat. Canad. Pl., Lich. Hepat.: 19, 1902 (Macoun 1902). = Lophozia heteromorpha R.M.Schust. et
+Damsh., Hepat. Anthocerotae N. Amer. 2: 507, 1969 (Schuster 1969). Lophozia pacifica Bakalin, Bryologist 114:
+302, 2011 (Bakalin 2011). Lophozia pallida (Steph.) Grolle, J. Jap. Bot. 39: 14, 1964 (Grolle 1964). Basionym:
+Anastrophyllum pallidum Steph., Bull. Herb. Boissier ser. 2, 1: 1131 (Spec. Hep. 2: 114), 1901 (Stephani 1901). =
+Lophozia handelii Herzog, Symb. Sin. 5: 14, 1930 (Herzog. 1930). Lophozia savicziae Schljakov, Novosti Sist.
+Nizsh. Rast. 10: 299, 1973 (Schljakov 1973). Lophozia schusterana Schljakov, Novosti Sist. Nizsh. Rast. 12: 320,
+1975 (Schljakov 1975). Lophozia silvicola H.Buch, Rep. 18. Scand. Naturalist Congr., 228. 1929 (Buch 1929).
+Lophozia silvicoloides N.Kitag., J. Hattori Bot. Lab. 28: 276, 1965 (Kitagawa 1965). Lophozia subapiculata
+R.M.Schust. et Damsh., Meddel. Grønland 199 (1): 104, 1974 (Schuster & Damsholt 1974). Lophozia ventricosa
+(Dicks.) Dumort., Recueil Observ. Jungerm.: 14, 1835 (Dumortier 1835). Basionym: Jungermannia ventricosa
+Dicks., Pl. Crypt. Brit. 2: 14, 1790 (Dickson 1790). ?= Lophozia groenlandica (Nees) Macoun, Cat. Canad. Pl.,
+Lich. Hepat.: 19, 1902 (Macoun 1902). ?= Lophozia longiflora (Nees) Schiffn. Sitzungsber. Deutsch. Naturwiss.Med. Vereins Böhmen "Lotos" Prag 51: 257, 1903 (Schiffner 1903). ?= Lophozia confertifolia Schiffn., Österr. Bot.
+Z. 55: 47, 1905 (Schiffner 1905). Lophozia wenzelii (Nees) Steph., Bull. Herb. Boissier ser. 2, 2: 35 (Spec. Hep. 2:
+135), 1902 (Stephani 1902a). ?= Lophozia groenlandica (Nees) Macoun, Cat. Canad. Pl., Lich. Hepat.: 19, 1902
+(Macoun 1902). ?= Lophozia confertifolia Schiffn., Österr. Bot. Z. 55: 47, 1905 (Schiffner 1905).
+
+New synonym and combination in Trilophozia
+Trilophozia quinquedentata ( Tritomaria quinquedentata (Huds.) Buch (1933: 290)) is a variable species and
+many varieties and subspecies have been proposed. De Roo et al. (2007) showed that Tritomaria
+quinquedentata subsp. turgida (Lindb. in Lindberg & Arnell 1889: 59) Damsholt (1982: 98) cannot
+molecularly be separated from typical plants although there are some morphological differences. The variety
+Tritomaria quinquedentata var. grandigemma from Yamal peninsula was described with larger gemmae than
+usual (22–29 x 16–20 µm) as the main differentiation character. As size of gemmae is a variable character, the
+variety does not merit recognition without other supporting evidence.
+
+≡
+
+Trilophozia quinquedentata (Huds.) Bakalin, Monogr. Lophozia: 34 (Bakalin 2005).
+Basionym:—Jungermannia quinquedentata Huds., Fl. Angl. (Hudson): 433, 1762 (Hudson 1762).
+= Tritomaria quinquedentata var. grandigemma Potemkin, Arctoa 2: 80, 1993 (Potemkin 1993), syn. nov. Type:—
+RUSSIA. Yamal-Nenets: Paeninsula Jamal, regio ripae sinistrae fl. Laptajaha adjacens (68° 20' lat. bor., 73° 15'
+long. orient.) 23.VII.1979, O.V. Rebritstaja (holotype LE).
+
+Kitagawa (1963) studied East Asiatic specimens of Tritomaria quinquedentata and distinguished a highly
+NOTES ON LOPHOZIACEAE (MARCHANTIOPHYTA)
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 31
+
+papillose variety, var. asymmetrica. Almost simultaneously, Schuster (1966) described the papillose taxon as
+subsp. papillifera. For now we recognize this taxon at variety level pending further research and the following
+transfer is done.
+Trilophozia quinquedentata var. asymmetrica (Horik.) L.Söderstr. et Vá a, comb. nov.
+
+ň
+
+Basionym:—Lophozia asymmetrica Horik., J. Sci. Hiroshima Univ., Ser. B., Div. 2, Bot. 2: 153, 1934 (Horikawa 1934).
+Type:—TAIWAN. Tainan: Mt. Morrison (Tâtaka-Mayeyama), Aug. 1932, Y. Horikawa, no. 9140a (holotype HIRO).
+Tritomaria quinquedentata var. asymmetrica (Horik.) N.Kitag., Hikobia 3: 171, 1963 (Kitagawa 1963).
+= Jungermannia trilobata Steph., Hedwigia 34: 50, 1895 (Stephani 1895), nom. illeg. (ICN Art. 53.1; hom. illeg. [non L.
+1753]). Sphenolobus trilobatus Steph., Bull. Herb. Boissier ser. 2, 2: 175 (Sp. Hepat. [Stephani] 2: 167), 1902
+(Stephani 1902b). Tritomaria quinquedentata subsp. papillifera R.M.Schust., Rev. Bryol. Lichénol. 34: 275, 1966
+(Schuster 1966).
+
+≡
+
+≡
+
+≡
+
+New synonym to Tritomaria exsecta
+Sphenolobus striolatus from Taiwan is known only from the type consisting of a small shoot fragment with 12
+leaves, one of which is broken. Although gemmae are lacking, the leaf cells agree completely with those of
+Tritomaria exsecta in size, slightly thickened walls, small to missing trigones and papillose cuticle. The leaves
+are unequally bilobed, but similar leaves sometimes occur in T. exsecta. We therefore propose the following
+new synonym.
+Tritomaria exsecta (Schmidel. ex Schrad.) Schiffn. ex Loeske, Hedwigia 49: 13, 1909 (Loeske 1909).
+Basionym:—Jungermannia exsecta Schmidel ex Schrad., Syst. Samml. Crypt. Gew. 2: 5, 1797 (Schrader 1797).
+= Sphenolobus striolatus Horik., J. Sci. Hiroshima Univ., Ser. B., Div. 2, Bot. 2: 157, 1934 (Horikawa 1934), syn. nov.
+Type:—TAIWAN. Formosa: Mt. Arisan (Niitakatozanguchi), prov. Tainan, Aug. 1932, leg. Y. Horikawa, n. 9008/b
+(holotype HIRO 9008!). Anastrophyllum striolatum (Horik.) N.Kitag., Hikobia 3: 171, 1963 (Kitagawa 1963).
+
+≡
+
+Acknowledgements
+We thank Michelle Price (G) and Hans-Joachim Zündorf (JE) for help with information of specimens in their
+herbaria. The Early Land Plants Today project (ELPT) has been generously supported in part by the Global
+Biological Information Facility (GBIF) Seed Money Award No.2007-41, activities facilitated in part by
+funding from the Biodiversity Synthesis Center of the Encyclopedia of Life (BioSynC), partial funding from
+the National Science Foundation (Award No's 0749762, 1115002), the Warwick Foundation, and the
+Negaunee Foundation.
+
+References
+Bakalin, V.A. (2001) Notes on Lophozia III. Some taxonomic problems in Lophozia sect. Lophozia. Arctoa 10: 207–218.
+Bakalin, V.A. (2003) Notes on Lophozia IV. Some new taxa of Lophozia sensu stricto. Annales Botanici Fennici 40: 47–
+52.
+Bakalin, V.A. (2004) Notes on Lophozia V. Comments on sect. Sudeticae, Longidentatae and Savicziae. Arctoa 13: 229–
+240.
+Bakalin, V.A. (2005) Monograficzeskaya obrabotka roda Lophozia (Dumort.) Dumort. s. str. [Monograph of the genus
+Lophozia (Dumort.) Dumort. s. str.]. Nauka, Moscow, 240 pp.
+Bakalin, V.A. (2011) Notes on Lophozia VI. Taxonomy and distribution of Lophozia and Schistochilopsis
+(Lophoziaceae) in North America north of Mexico. Bryologist 114: 298–315.
+http://dx.doi.org/10.1639/0007-2745.114.2.298
+Bonner, C.E.B. (1962) Index Hepaticarum. Pars II. Achiton to Balantiopsis. J. Cramer, Weinheim, 320 pp.
+Buch, H. (1929) Eine neue moossystematische Methodik nebst einigen ihrer Resultate und ein neues
+
+32 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Nomenklatursystem. In: Winge, Ø. (Ed), Beretning om, det 18. Skandinaviske naturforskermøde i København 26.31. August 1929. København, pp. 225-229.
+Buch, H. (1933 “1932”) Vorarbeiten zu einer Lebermoosflora Fenno-scandias. I. Ein Versuch zur Aufspaltung der
+Gattungen Lophozia Dum. und Sphenolobus Steph. Memoranda societatis pro fauna et flora fennica 8: 282–297.
+Bryhn, N. (1906) Bryophyta in itinere polari norvagorum secundo collecta. Report of the Second Norwegian Arctic
+Expedition in the "Fram," 1898-1902 11: 1–260.
+Cavers, F. (1910) The interrelationships of the Bryophyta. New Phytologist 9: 269–304.
+http://dx.doi.org/10.1111/j.1469-8137.1910.tb05577.x
+Damsholt, K. (1982) The perianth of Tritomaria quinquedentata var. turgida (Lindb.) Weim. (Hepaticae). Bryologist 85:
+96–98.
+http://dx.doi.org/10.2307/3243147
+Damsholt, K. (1994) On the identity of Jungermannia groenlandica Nees. Journal of the Hattori Botanical Laboratory
+75: 173–178.
+De Roo, R.T., Hedderson, T.A. & Söderström, L. (2007) Molecular insights into the phylogeny of the leafy liverwort
+family Lophoziaceae Cavers. Taxon 56: 301–314.
+Dickson, J. (1790) Plantarum Cryptogamicarum Britanniae, Fasc. 2. G. Nicol, London, 31 pp.
+Dickson, J. (1793) Plantarum Cryptogamicarum Britanniae, Fasc. 3. G. Nicol, London, 24 pp.
+Dumortier, B.C. (1831) Sylloge Jungermannidearum Europae indigenarum, earum genera et species systematice
+complectens. J. Casterman, Tournay, 100 pp.
+http://dx.doi.org/10.5962/bhl.title.22343
+Dumortier, B.C. (1835) Recueil d'Observations sur les Jungermanniacées. I. Révision des genres. J.-A. Blanquart,
+Tournay, 27 pp.
+http://dx.doi.org/10.5962/bhl.title.731
+Evans, A. (1900) Papers form the Harriman Expedition. 5. Notes on Hepaticae collected in Alaska. Proceedings of the
+Washington Academy of Sciences 2: 287–314.
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, S.G. (1844) Synopsis Hepaticarum, fasc. 1. Meissner,
+Hamburg, pp. 1–144.
+Grolle, R. (1960 “1959”) Lophozia (Massula) patagonica Herz. & Grolle n. sp. Revue Bryologique et Lichénologique 28:
+343–345.
+Grolle, R. (1964) Miscellanea hepaticologica 11-20. Journal of Japanese Botany 39: 173–178.
+Grolle R, Long DG (2000) An annotated check-list of the Hepaticae and Anthocerotae of Europe and Macaronesia.
+Journal of Bryology 22: 103–140.
+He-Nygrén, X.-L., Juslén, A., Ahonen, I., Glenny, D. & Piippo, S. (2006) Illuminating the evolutionary history of
+liverworts (Marchantiophyta) - towards a natural classification. Cladistics 22: 1–31.
+http://dx.doi.org/10.1111/j.1096-0031.2006.00089.x
+Herzog, T. (1930) Hepaticae. In: Handel-Mazetti, H.M. (Ed), Symbolae Sinicae, Botanische Ergebnisse der Expedition
+der Akademie der Wissenschaften in Wien nach Südwest-China. 1914/1918. Part 5. Hepaticae. Springer, Berlin, pp.
+1-6.
+Hooker, W.J. (1816) British Jungermanniae: being a history and description, with figures, of each species of the genus,
+and microscopical analysis of the parts, vol. 20-22. Longmans, London, pp. 77–84.
+Horikawa, Y. (1934) Monographia Hepaticarum Australi-Japonicarum. Journal of Science of the Hiroshima University:
+Series B, Division 2 (Botany) 2: 101–325.
+Hudson, W. (1762) Flora Anglica. J. Nourse, London, 506 pp.
+Husnot, T. (1922) Hepaticologia Gallica. Flore analytique et descriptive des hépatiques de France et des contrées
+voisines. Cahan, 163 pp.
+Jørgensen, E. (1934) Norges Levermossor. Bergens Museums Skrifter, n.s. 16: 1–343.
+Kitagawa, N. (1963) Lophoziaceae of Taiwan (Formosa). Hikobia 3: 169–176.
+Kitagawa, N. (1965) A revision of the family Lophoziaceae of Japan and its adjacent regions. I. Journal of the Hattori
+Botanical Laboratory 28: 239–291.
+Konstantinova, N.A., Bakalin, V.A., Andreeva, E.N., Bezgodov, A.G., Borovichev, E.A., Dulin, M.A. & Mamontov, Y.S.
+(2010 “2009”) Checklist of liverworts (Marchantiophyta) of Russia. Arctoa 18: 1–64.
+Konstantinova, N.A., Potemkin, A.D. & Schljakov, R.N. (1992) Checklist of the Hepaticae and Anthocerotae of the
+former USSR. Arctoa 1: 87–127.
+Konstantinova, N.A. & Vilnet, A.A. (2010 “2009”) New taxa and new combinations in Jungermanniales. Arctoa 18: 65–
+67.
+Lindberg, S.O. (1875 “1874”) Hepaticae in Hibernia mense Julii 1873 lectae. Acta Societatis Scientiarum Fennicae 10:
+465–559.
+Lindberg, S.O. (1876) Sällskapets pro Fauna et Flora fennica sammanträde den 4 november 1876. Helsingfors Dagblad
+323 (26 Nov.): 2.
+
+NOTES ON LOPHOZIACEAE (MARCHANTIOPHYTA)
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 33
+
+Lindberg, S.O. & Arnell, H.W. (1889) Musci Asiae Borealis. Kongliga Svenska Vetenskaps-Akademiens Handlingar, ny
+följd 23(5): 1–69.
+Loeske, L. (1909) Zur Moosflora der Zillertaler Alpen. Hedwigia 49: 1–53.
+Macoun, J. (1902) Catalogue of Canadian Plants, Lichenes and Hepaticae. Montréal, 180 pp.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+146: 1–260.
+Meinunger, L. (2002 “2001”) Vorläufige Bemerkungen zu Lophozia groenlandica (Nees) Macoun und nächstverwandte
+Arten in Deutschland. Verhandlungen des Botanischen Vereins von Berlin und Brandenburg 134: 169–176.
+Meinunger, L. & Schröder, W. (2007) Verbreitungsatlas der Moose Deutschlands. Regensburgische Botanische
+Gesellschaft, Regensburg, 709 pp.
+Migula, W. (1904) Kryptogamen-Flora von Deutschland, Deutsch-Österreich und der Schweiz. Band I. Moose, Lief. 17.
+Friedrich von Zezschwitz, Berlin, pp. 449–512.
+Müller, K. (1913) Die Lebermoose Deutschlands, Oesterreichs und der Schweiz (Dr. L. Rabenhorst's KryptogamenFlora von Deutschland, Oesterreich und der Schweiz, 2nd ed.) 6 Band 17 Lieferung. Eduard Kummer, Leipzig, pp.
+145–208.
+Müller, K. (1954) Die Lebermoose Europas (Dr. L. Rabenhorst's Kryptogamen-Flora von Deutschland, 3. Aufl.) 6. Band,
+4. Lieferung. Akademische Verlagsgesellschaft, Leipzig, pp. 481–640.
+Nees von Esenbeck, C.G. (1836) Naturgeschichte der Europäischen Lebermoose mit besonderer Beziehung auf Schlesien
+und die Oertlichkeiten des Riesengebirgs, vol. 2. Grass, Barth & Co., Berlin, 500 pp.
+Pearson, W.H. (1890) List of Canadian Hepaticae. Geology and Natural History Survey of Canada, ser. 3 1: 1–31.
+Potemkin, A.D. (1993) The Hepaticae of the Yamal Peninsula, West Siberian Arctic. Arctoa 2: 57–101.
+Reichenbach, H.G.L. (1828) Botanik für Damen, Künstler und Freunde der Pflanzenwelt überhaupt, enthaltend eine
+Darstellung des Pflanzenreichs, in seiner Metamorphose, eine Anleitung zum Studium der Wissenschaft und zum
+Anlagen von Herbarien. Leipzig, 528 pp.
+Schiffner, V. (1903) Kritische Bemerkungen über die europäischen Lebermoose mit Bezug auf die Exemplare des
+Exsiccatenwerkes, Hepaticae Europaeae exsiccatae 3 (101-150). Sitzungsberichte des Deutschen
+Naturwissenschaftlich-Medicinischen Vereins für Böhmen "Lotos" in Prag 51: 213–275.
+Schiffner, V. (1905) Bryologische Fragmente XVIII-XXII. Österreichische Botanische Zeitschrift 55: 6–13.
+http://dx.doi.org/10.1007/BF01791003
+Schill, D.B., Long, D.G., Moeller, M. & Squirrell, J. (2004) Phylogenetic relationships between Lophoziaceae and
+Scapaniaceae based on chloroplast sequences. Monographs in Systematic Botany from the Missouri Botanical
+Garden 98: 141–149.
+Schäfer-Verwimp, A. (1996) New or interesting records of Brazilian bryophytes, V. Candollea 51: 283–302.
+Schiffner, V.F. (1903) Kritische Bemerkungen über die europäischen Lebermoose mit Bezug auf die Exemplare des
+Exsiccatenwerkes, Hepaticae Europaeae exsiccatae 3 (101-150). Sitzungsberichte des Deutschen
+Naturwissenschaftlich-Medicinischen Vereins für Böhmen "Lotos" in Prag 51: 213–275.
+Schiffner, V.F. (1942) Kritische Bemerkungen über die europäischen Lebermoose mit Bezug auf die Exemplare des
+Exsiccatenwerkes, Hepaticae Europaeae exsiccatae 28 (1351-1400). Privately published, Prague, 31 pp.
+Schljakov, R.N. (1969) [De positione systematica Lophosiae murmanicae Kaal.]. Novosti sistematiki nizshikh rastenij 6:
+241–245.
+Schljakov, R.N. (1970) [Sectio nova generis Lophozia Dum. emend. Loeske]. Novosti sistematiki nizshikh rastenij 7:
+324–333.
+Schljakov, R.N. (1973) [Notulae systematicae in Lophoziaceis Cavers]. Novosti sistematiki nizshikh rastenij 10: 287–
+302.
+Schljakov, R.N. (1975) [Additamenta ad floram hepaticarum arcticae URSS]. Novosti sistematiki nizshikh rastenij 12:
+318–323.
+Schljakov, R.N. (1980) Pechenochnye Mchi Severa SSSR. 3. Nauka, Leningrad, 188 pp.
+Schljakov, R.N. (1981) Lophozia longiflora (Hepaticae) – czastyj komponent rastite nych soobszczestv. Botanicheskii
+Zhurnal. Moscow & Leningrad 66: 1197–1205.
+Schljakov, R.N. (1998) On the Lophozia groenlandica (Nees) Macoun (Hepaticae). Arctoa 7: 191–196.
+Schrader, H.A. (1797) Systematische Sammlung Cryptogamischer Gewächse, Fasc. 2. J. C. Dietrich, Göttingen, pp. 91–
+174.
+Schuster, R.M. (1952) Notes on nearctic Hepaticae. V. The status of Lophozia gracillima Buch and its relation to
+
+ľ
+
+34 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+SÖDERSTRÖM ET AL.
+
+Lophozia longidens, Lophozia porphyroleuca and Sphenolobus ascendens. Bryologist 55: 173–185.
+Schuster, R.M. (1961) Notes on Nearctic Hepaticae, XVIII. New Lophoziaceae from the arctic archipelago of Canada.
+Canadian Journal of Botany 39: 965–992.
+http://dx.doi.org/10.1139/b61-081
+Schuster, R.M. (1966) Studies in Lophoziaceae. 1. The genera Anastrophyllum and Sphenolobus and their segregates. 2.
+Cephalolobus gen. n., Acrolophozia gen. n. and Protomarsupella gen. n. Revue Bryologique et Lichénologique 34:
+241–287.
+Schuster, R.M. (1969) The Hepaticae and Anthocerotae of North America. vol. II. Columbia University Press, New York,
+1062 pp.
+Schuster, R.M. (2002) Austral Hepaticae, part II. Beihefte zur Nova Hedwigia 119: 1–606.
+Schuster, R.M. & Engel, J.J. (1975) Austral Hepaticae, IV. Notes on Lophozia subgenus Protolophozia Schust., with
+diagnosis of a new South American species. Journal of Bryology 8: 465–474.
+Schuster, R.M. & Damsholt, K. (1974) The Hepaticae of West Greenland from the 66° N to 72° N. Meddelelser om
+Grønland 199(1): 1–373.
+Söderström, L., Weibull, H. & Damsholt, K. (2000) A new species of Lophozia (subgen. Protolophozia) from
+Fennoscandia. Lindbergia 25: 3–7.
+Söderström, L., De Roo, R. & Hedderson, T. (2010) Taxonomic novelties resulting from recent reclassification of the
+Lophoziaceae/Scapaniaceae clade. Phytotaxa 3: 47–53.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+Stephani, F. (1895) Hepaticarum species novae VII. Hedwigia 34: 43–65.
+Stephani, F. (1901) Species Hepaticarum 2. Bulletin de l'Herbier Boissier, série 2 1: 1022–1140.
+Stephani, F. (1902a) Species Hepaticarum 2. Bulletin de l'Herbier Boissier, série 2 2: 35–48.
+Stephani, F. (1902b) Species Hepaticarum 2. Bulletin de l'Herbier Boissier, série 2 2: 157–179.
+Stephani, F. (1908) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8(12): 941–966.
+Warnstorf, C. (1916 “1915”) Bryophyta nova europaea et exotica. Hedwigia 57: 62–131.
+
+NOTES ON LOPHOZIACEAE (MARCHANTIOPHYTA)
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 35
+
+

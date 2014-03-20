@@ -1,0 +1,112 @@
+Phytotaxa 159 (1): 029–030
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.159.1.6
+
+Rubus pseudofagifolius (subg. Lampobatus, Rosaceae), a replacement name for a
+Mexican bramble species and its lectotypification
+HUAN-CHONG WANG1 & HANG SUN2
+1
+
+School of Life Sciences, Yunnan University, Kunming 650091, China, e-mail: hchwang@ynu.edu.cn
+Key Laboratory for plant Biodiversity and Biogeography of East Asia, Kunming Institute of Botany, Chinese Academy of Sciences,
+Kunming 650204, China, e-mail: hsun@mail.kib.ac.cn
+2
+
+Rubus Linnaeus (1753: 492), belonging to the monotypic tribe Rubeae of the subfamily Rosoideae (Potter et al.
+2007), is one of the largest genera in the rose family (Rosaceae). The genus occurs in all continents except
+Antarctica (Lu & Boufford 2003, Wang et al. 2013). Rubus is a taxonomically notoriously complex group; its
+species circumscription is complicated by hybridization, polyploidy, agamospermy, and lack of a universal species
+concept (Weber 1996).
+In 1852, Liebmann (1852: 154) proposed the name Rubus scandens for a bramble species collected from
+Mexico by himself. Unfortunately, the name R. scandens had previously been used by Poiret (in Lamark & Poiret
+1804: 237) for a European species; thus Liebmann's name is a later homonym of R. scandens Juss. ex Poir. and
+therefore illegitimate. Liebmann's species represents a distinct group, and has been accepted by later authors since
+its original publication (e.g. Focke 1911, Rydberg 1913, 1915, CONABIO 2009). As no available synonym of R.
+scandens Liebm. exists, a replacement name (nomen novum) for this Mexican species is required and the new
+name, R. pseudofagifolius Huan C. Wang, is proposed here.
+
+Rubus pseudofagifolius Huan C. Wang, nom. nov.
+Replaced name: Rubus scandens Liebmann (1852: 154), nom. illeg., non Juss. ex Poiret (in Lamark & Poiret 1804: 237).
+Type:—MEXICO. Veracruz: Mirador, in oak woods, March 1842, F. Liebmann 1701 (lectotype C [C10014356], designated
+here; isolecotypes C [C10014357], NY [NY-00429626 ]).
+Other syntypes:—MEXICO. Veracruz: Mirador, November 1841, F. Liebmann 1702 (C [C10014358, C10014359]); Veracruz
+: Hacienda de Mecapalco, June 1841, F. Liebmann 1703 (C [C10014360]); Oaxaca: Cuicatlan, December 1842, F.
+Liebmann 1704 (C [C10014361]).
+Etymology:—The specific epithet, pseudofagifolius, derives from the Greek pseudo-, meaning "false", and the epithet of the
+species Rubus fagifolius Cham. ex Schltdl. (in Schlechtendal & Chamisso 1830: 571) to which the newly named species is
+closely related.
+
+Liebmann (1852) did not formally typify his name Rubus scandens. At least four syntypes were cited in the
+protologue by Liebmann: two from "omkring Mirador" (F. Liebmann 1701 and 1702), one from "Hac. de
+Mecapalco" (F. Liebmann 1703) and one from "ved Cuicatlan" (F. Liebmann 1704). All of them match the
+protologue very well and all bear Liebmann's handwriting "Rubus scandens Liebm." on the labels. The specimen F.
+Liebmann 1701 is here chosen as lectotype since it is a complete specimen with leaves and fruits, and is
+represented by more duplicates.
+Rubus pseudofagifolius Huan C. Wang is mostly similar to R. fagifolius Cham. ex Schltdl., both belonging to
+subgenus Lampobatus (Focke 1888: 31) Focke (1911: 212) (excluding R. sect. Micranthobatus Fritsch (1887: 25)),
+but is clearly distinct from the latter by its tomentose stem, leaflets stellate-puberulent above and tomentose
+beneath.
+Additional examined speciems:—Rubus pseudofagifolius. MEXICO, Huasteca: near Tantoyuca, 1858, L.C.
+Ervendberg 224 (P [P03341300, P03341301, P03341302]); Veracruz: Mirador, collection date unknown, F.
+Liebmann s. n. (possible no. 1701 ) (K [K000424907, K000424908])—R. fagifolius. MEXICO, "in dumetis
+Papantlae", January 1829, C.J.W. Schiede s. n. (HAL [HAL0107629, HAL0060479]).
+
+Accepted by Jinshuang Ma: 20 Jan. 2014; published: 7 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+29
+
+Acknowledgements
+We express our gratitude to Dr. Ib Friis, curator of the Herbarium C, for providing the type images of Rubus
+pseudofagifolius and for translating the Danish text within the protologue. We aslo thank to the directors and staff
+of the following herbaria for assistance and granting study access to their collections or online specimen databases:
+HAL, K, NY, and P. We are grateful to the anonymous reviewers for critical comments on the manuscript. This
+study was supported by Key project NSFC- Yunnan United fund (U1136601) to H. Sun.
+
+References
+CONABIO (Comisión Nacional para el Conocimiento y Uso de la Biodiversidad) (2009) Catálogo taxonómico de especies de
+México. Vol. 1. Capital Natural de México. CONABIO, México City, CD1 (versión 1.0).
+Focke, W.O. (1888) Rosaceae. In: Engler A. & Prantl K. (eds.) Die Natürlichen Pflanzenfamilien 3(3). Verlag von Wilhelm
+Engelmann, Leipzig, pp. 1–61.
+Focke, W.O. (1911) Species Ruborum. Monographiae generis Rubi prodromus II. Bibliotheca Botanica 17 (Heft 72): 121–223.
+http://dx.doi.org/10.5962/bhl.title.15533
+Fritsch, F.E. (1887) Anatomische-systematische Studien über die Gattung Rubus. Sitzungsberichte der Kaiserlichen Akademie
+der Wissenschaften in Wien 95 (Heft 35): 187–219.
+Linnaeus, C. (1753) Species Plantarum. L. Salvius, Stockholm, 1200 pp.
+Lamarck, J.B.A. & Poiret, J.L.M. (1804) Encyclopédie Méthodique. Botanique vol. 6. Panckoucke, Paris, 786 pp.
+http://dx.doi.org/10.5962/bhl.title.49178
+Liebmann F.M. (1852) Mexicos og Central-Americas Rubi. Videnskabelige meddelelser fra den Naturhistoriske forening i
+Kjöbenhavn : 150–164.
+Lu, L.D. & Boufford, D.E. (2003) Rubus Linnaeus. In: Wu, Z. Y. & Raven, P. H. (eds.) Flora of China 9. Science Press, Beijing
+& Missouri Botanical Garden Press, St. Louis, pp. 195–285.
+Potter, D., Eriksson, T., Evans, R.C. et al. (2007) Phylogeny and classification of Rosaceae. Plant Systematics and Evolution
+266: 5–43.
+http://dx.doi.org/10.1007/s00606-007-0539-9
+Rydberg, P.A. (1913) (Rosales) Rosaceae. North American Flora 22 (5): 389–480.
+Rydberg, P.A. (1915) Notes on Rosaceae IX. Bulletin of the Torrey Botanical Club 42(3):117–160.
+Schlechtendal, D.F.L. & Chamisso, L.K.A. (1830) Plantarum Mexicanarum a cel. viris Schiede et Deppe collectarum recensio
+brevis (Continuatio v. Linn. p. 72 & 206). Linnaea 5: 554–625.
+Wang, H.C., Wang, Y.H. & Sun, H. (2013) Nomenclatural changes in Rubus (Rosaceae) mostly from China. Phytotaxa 114(1):
+58–60.
+http://dx.doi.org/10.11646/phytotaxa.114.1.6
+Weber, H.E. (1996) Former and modern taxonomic treatment of the apomictic Rubus complex. Folia Geobotanica 31: 373–
+380.
+http://dx.doi.org/10.1007/bf02815381
+
+30 •
+
+Phytotaxa 159 (1) © 2014 Magnolia Press
+
+WANG & SUN
+
+

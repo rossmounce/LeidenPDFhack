@@ -1,0 +1,118 @@
+Phytotaxa 159 (2): 127 – 128
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.159.2.7
+
+Nomenclatural novelties in Astraea (Euphorbiaceae)
+MARIA BEATRIZ ROSSI CARUZO1, OTÁVIO LUIS MARQUES DA SILVA2 , PAUL E. BERRY3 & INÊS
+CORDEIRO2
+1
+
+Departamento de Ciências Exatas e da Terra, Universidade Federal de São Paulo, Diadema, SP, Brazil.
+E-mail: mbrcaruzo@unifesp.br
+2
+Instituto de Botânica, Secretaria do Meio Ambiente, Cx. Postal 3005, 01061-970, São Paulo, SP, Brazil.
+3
+University of Michigan Herbarium, 3600 Varsity Drive, Ann Arbor, MI 48108-2287, USA.
+
+Astraea Klotzsch (1841: 194) was considered a synonym of Croton Linnaeus (1753: 1004) by many authors
+(Baillon 1858, Müller 1866, Pax & Hoffmann 1931, Webster 1994, Radcliffe-Smith 2001), but based on a
+molecular phylogenetic study of Croton and related groups, Berry et al. (2005a) justified recognizing Astraea
+again as a valid genus. De-Paula et al. (2011) showed morphological differences in the flowers of these two
+genera, corroborating the findings of Berry et al. (2005a). Riina et al. (2014) discussed additional
+morphological characters separating Astraea from both Croton and its sister genus Brasiliocroton Berry &
+Cordeiro in Berry et al. (2005b: 357). Some species that were originally described under Croton have already
+been transferred to Astraea (Berry et al. 2005a, Caruzo & Cordeiro 2007, Zuloaga et al. 2007, Van Ee 2011),
+and Van Ee (2011) accounted for numerous names of Astraea invalidly published by Klotzsch (1841).
+However, there are still several species of Croton that should be transferred to Astraea. As part of an ongoing
+taxonomic revision of the genus Astraea, we herein propose the necessary remaining transfers. Astraea has an
+estimated 13 species, most of them distributed in South America, especially in Brazil. Astraea lobata
+(Linnaeus 1753: 1005) Klotzsch (1841: 194) is the only species occurring throughout the Neotropical region
+and is also found, introduced, in Africa and Yemen.
+Astraea comantha (S.Moore) Caruzo, comb. nov. Croton comanthus Moore (1895: 460). Type:—BRAZIL.
+Mato Grosso: between Santa Cruz and Villa Maria, December 1891, S.L. Moore 1022 (holotype BM!,
+isotypes B† (photo F!), K!, NY!, P!, R!).
+Astraea douradensis (Steyerm.) Caruzo, comb. nov. Croton douradensis Steyermark (1958: 4). Type:—
+BRAZIL. Goiás: in gallery forest along stream 17 km east of Formoso, region of the southern Serra Dourada
+at 48o 40’ W, 13o 40’ S, 19 May 1956, E.Y. Dawson 14973 (holotype R!, isotypes F!, RSA!).
+Astraea gardneri (Müll.Arg.) Caruzo, comb. nov. Croton gardneri Müller Argoviensis (1865: 135). Croton
+gardneri var. cordatus Müller Argoviensis (1865: 135). Lectotype (designated here):—BRAZIL. Ceará: Serra
+do Araripe, September 1838, G. Gardner 1839 (K 000186088!, isolectotypes B† (photo F), BM!, K
+000186087!, G-DC 00312463!, L!, P 00634930!, P 00634931!, NY 00246541!, NY 00246542!, S!, US
+00109563!). The other syntype cited by Müller Argoviensis, BRAZIL: Bahia, partie méridionale de la prov.
+de Bahia, 1840, J.S. Blanchet 3155 (G!, G-DC!) corresponds to Astraea praetervisa (Müller Argoviensis
+1873: 240) Berry in Berry et al. (2005a: 1532).
+Astraea subcomosa (Müll.Arg.) Caruzo, comb. nov. Croton subcomosus Müller Argoviensis (1873: 234).
+Croton gardneri var. lanceolatus Müller Argoviensis (1865: 135). Lectotype (designated here):—BRAZIL.
+Minas Gerais: prope José Gonzambres [= José Gonçalves], without date, J.B.E. Pohl 3416 (G-DC!, fragment F!,
+isolectotype G!). The holotype at B was destroyed in World War II, although there is a photograph of it at F!.
+Accepted by Hans-Joachim Esser: 24 Nov. 2013; published: 11 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+127
+
+Acknowledgements
+We thank Ricarda Riina and Hans-Joachim Esser for their reviews and comments on the manuscript.
+
+References
+Baillon, H. (1858) Etude général du groupe des Euphorbiacées. Victor Masson, Paris, 684 pp.
+http://dx.doi.org/10.5962/bhl.title.50439
+Berry, P.E., Cordeiro, I., Wiedenhoeft, A.C., Vitorino-Cruz, M.A. & Lima, L.R. (2005b) Brasiliocroton, a new crotonoid
+genus of Euphorbiaceae s.s. from eastern Brazil. Systematic Botany 30: 357–365.
+http://dx.doi.org/10.1600/0363644054223585
+Berry, P.E., Hipp, A.L., Wurdack, K.J., Van Ee, B.W. & Riina, R. (2005a) Molecular phylogenetics of the giant genus
+Croton and tribe Crotoneae (Euphorbiaceae sensu stricto) using ITS and trnL-trnF DNA sequence data. American
+Journal of Botany 92: 1520–1534.
+http://dx.doi.org/10.3732/ajb.92.9.1520
+Caruzo, M.B.R. & Cordeiro, I. (2007) Sinopse da tribo Crotoneae Dumort. (Euphorbiaceae s.s.) no Estado de São Paulo,
+Brasil. Hoehnea 34: 571–585.
+http://dx.doi.org/10.1590/s2236-89062007000400011
+De-Paula, O.C., Sajo, M.G., Prenner, G., Cordeiro, I. & Rudall, P.J. (2011) Morphology, development and homologies of
+the perianth and floral nectaries in Croton and Astraea (Euphorbiaceae—Malpighiales). Plant Systematics and
+Evolution 292: 1–14.
+http://dx.doi.org/10.1007/s00606-010-0388-9
+Klotzsch, J.F. (1841) Neue und weniger gekannte südamerikanische Euphorbiaceen-Gattungen. Archiv für
+Naturgeschichte 7(1): 175–204.
+Linnaeus, C. (1753) Species plantarum. Laurentius Salvius, Stockholm. 1200 pp.
+Moore, S.L.M. (1895) The phanerogamic botany of the Matto Grosso expedition, 1891–1892. Transactions of the
+Linnean Society of London, Botany 4: 265–516.
+http://dx.doi.org/10.1111/j.1095-8339.1895.tb00046.x
+Müller Argoviensis, J. (1865) Euphorbiaceae. Vorläufige Mittheilungen aus dem für De Candolle’s Prodromus
+bestimmten Manuscript über diese Familie. Linnaea 34: 1–224.
+Müller Argoviensis, J. (1866) Euphorbiaceae excl. Euphorbieae. In: Candolle, A.L.P.P. de (ed.) Prodromus Systematis
+Naturalis Regni Vegetabilis 15(2). Masson, Paris, pp. 189–1286.
+Müller Argoviensis, J. (1873) Euphorbiaceae. In: Martius, C.F.P. von & Eichler, A.W. (eds.) Flora Brasiliensis 11(2).
+Fleischer, Munich, 752 pp.
+Pax, F. & Hoffmann, K. (1931) Euphorbiaceae. In: Engler, A. & Prantl, K. (eds.) Die Natürlichen Pflanzenfamilien, ed. 2,
+19c. Engelmann, Leipzig, pp. 11–233.
+Radcliffe-Smith, A. (2001) Genera Euphorbiacearum. Royal Botanic Gardens, Kew, 445 pp.
+Riina, R., D. Carneiro-Torres, J.A. Peirson, P.E. Berry & Cordeiro, I. (2014) Further support for the Crotoneae
+phylogeny: A new species of Brasiliocroton (Euphorbiaceae) based on morphological, geographical, and molecular
+evidence. Systematic Botany 39: 227–234
+Steyermark, J.A. (1958) The Machris Brazilian expedition. Los Angeles County Museum Contributions in Science 21: 3–
+21.
+Webster, G.L. (1994) Synopsis of the genera and suprageneric taxa of Euphorbiaceae. Annals of the Missouri Botanical
+Garden 81: 33–144.
+http://dx.doi.org/10.2307/2399909
+Van Ee, B.W. (2011) The contribution of Johann Friedrich Klotzsch to the taxonomy of Croton (Euphorbiaceae) and
+associated genera. Willdenowia 41: 15–33.
+http://dx.doi.org/10.3372/wi.41.41102
+Zuloaga, F.O., Morrone, O. & Belgrano, M.J. (2007) Novedades taxonômicas y nomenclaturales para la Flora Vascular
+del Cono Sur de Sudamérica. Darwiniana 45: 236–241.
+
+128 •
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+CARUZO ET AL.
+
+

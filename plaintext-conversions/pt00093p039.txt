@@ -1,0 +1,535 @@
+Phytotaxa 93 (1): 25–39 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.93.1.2
+
+Ten new species of Cladonia (Cladoniaceae, Lichenized Fungi) from the Guianas
+and Venezuela, South America
+TEUVO AHTI1 & HARRIE J. M. SIPMAN2,3
+1
+
+Botanical Museum, Finnish Museum of Natural History, P.O. Box 7, FI-00014 Helsinki University, Finland
+Freie Universität, Botanischer Garten & Botanisches Museum, Königin-Luise-Strasse 6-8, D-14195 Berlin, Germany
+3
+Author for correspondence, email: h.sipman@bgbm.org
+2
+
+Abstract
+The diversity of the lichen family Cladoniaceae in the Neotropics is apparently underestimated. A revision of the family
+for the Flora of the Guianas resulted in the description of 10 species new to science from Northern South America:
+Cladonia cayennensis; Cladonia flavocrispata; Cladonia isidiifera; Cladonia maasii; Cladonia mollis; Cladonia
+persphacelata; Cladonia recta; Cladonia rupununii; Cladonia subsphacelata; Cladonia termitarum.
+Key words: new species, endemic species, Guyana, Suriname, French Guiana, Guyana Highland
+
+Introduction
+The lichen family Cladoniaceae is studied by us for the Flora of the Guianas (Ahti & Sipman 2013, in press).
+The area covered by our treatment includes Guyana, Suriname and French Guiana and, because this area
+shares most of the species, also the Venezuelan Guayana with its tepuis. In this way we got a good coverage
+for the whole Guiana Shield, well-known as one of the biodiversity hotspots in the world. Both of us were
+able to study most species ourselves in situ, during field work in Guyana and Venezuela, HS also in French
+Guiana, on several expeditions.
+The treatment is based on the recent monograph of Cladoniaceae of the whole Neotropics (Ahti 2000).
+However, we were astonished to encounter no less then ten undescribed species in the area. Indeed, a few of
+them were recognized earlier but due to sparse or poor material they were not published. The new species
+recognized during our study are described separately here.
+
+Material and methods
+About 900 specimens from the study area were examined, collected by us during several expeditions or
+obtained on loan mainly from the herbaria B, H, NY and US. For morphological character analysis air-dried
+specimens were observed under the stereomicroscope. Anatomical details were studied by compound
+microscope. The chemistry was analysed by standard TLC (Orange, James & White 2001).
+
+Accepted by Thorsten Lumbsch: 12 Mar. 2013; published online in PDF: 11 Apr. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+25
+
+Result: Taxonomic Treatment
+Cladonia cayennensis Ahti & Sipman, sp. nov. (Fig. 1)
+Mycobank # MB 803520
+Thallus primarius squamulosus, viridifuscus, rotundatus, squamulae 1–2 mm latae, infra sorediosae. Conidiomata et
+apothecia ignota. Acidum usnicum (parce) et zeorinam (crystallis numerosis in speciminibus diu conservatis)
+continens. Species epiphytica.
+Type:—FRENCH GUIANA. Cayenne: Botanical Garden, on palm, sea level, 04º56’N, 52º20’W, Mar 1985, A. Aptroot
+15098 (holotype L!, isotypes B!, H!).
+
+Primary thallus persistent, consisting of flat to concave, even involute squamules, 1–2 mm wide, soft and
+fragile, with rounded lobes, entire or little divided; upper side greenish-brown, lower side white, floccose and
+loosely sorediate, specially along margins; occasionally squamules provided with short basal, brownishveined stalk. Podetia, conidiomata and hymenial discs unknown. Chemistry: usnic acid (in low concentration)
+and zeorin (needle-like crystals abundant on old herbarium specimens!). Colour reactions: P–, K–, KC–.
+
+FIGURE 1. Cladonia cayennensis, holotype. Bar = 1 cm.
+
+Distribution and ecology:—Known so far only from the Guianas, but in view of its occurrence in
+secondary habitats, the species is probably more widespread. Perhaps it was once reported as C. ahtii S.
+Stenroos (1989: 252) from adjacent Venezuela, in Bolívar near Canaima, epiphytic at 550 m elev.; this record
+was excluded from C. ahtii by Ahti (2000). The species was found exclusively epiphytic on hepatic film on
+smooth, living palm stems in plantations along the coast.
+
+26 •
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+AHTI & SIPMAN
+
+Additional specimen examined (paratype):—SURINAME. Paramaribo: Palmgarden, sea level, Aptroot
+14829 (L!).
+Remarks:—Cladonia cayennensis is a sorediate representative of the group of Cladonia miniata G.
+Meyer (1825: 149), similar to C. ahtii, from which it differs by the thinner thallus lobes and different
+chemistry (Ahti 2000). It is also close to C. meridionalis Vainio in Zahlbruckner (1909: 136), but that species
+has much larger thallus lobes, which are sorediate over much of their lower side. Cladonia termitorum (see
+below) is also rather similar, due to its slightly sorediate thallus lobes. It differs by its thinner and more finely
+divided squamules, its chemistry and the regular presence of small podetia and red hymenial discs.
+In the absence of apothecia and podetia its systematic position is tentative. It is based on the similarity of its
+thallus squamules with the miniata group of the genus Cladonia, and its chemistry which occurs in Cladonia
+rather than in other squamulose lichen genera. Cladonia cayennensis is easily overlooked because it is known
+only in squamulose, sterile state. However, having a distinct morphology and chemistry, it cannot be any other
+species of Cladonia recognized by Ahti (2000) in tropical America. Herbarium specimens are easily identified
+by the soredia and abundant zeorin crystals on the lower surface of the squamules (crystals expected to be
+absent from fresh material). The presence of a low amount of usnic acid causes hardly any yellowish colour.
+
+Cladonia flavocrispata Ahti & Sipman, sp. nov. (Fig. 2)
+Mycobank # MB803521
+Sicut Cladonia hians sed axillae non inflatae et acidum usnicum continens.
+Type:—VENEZUELA. Bolívar: Cerro Guaiquinima, near NE edge of upper plateau, 05º54’N, 63º27’W, ca. 1250 m
+elev., rocky sandstone area with scrub on exposed ridge, 8 Febr. 1990, H. Sipman 26772 (holotype VEN!, isotypes
+B!, H!).
+
+FIGURE 2. Cladonia flavocrispata. A. isotype (B); B. Guyana specimen of uncertain affinity (Sipman 40299 (B)). Bar = 2 cm.
+
+TEN NEW SPECIES OF CLADONIA
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+• 27
+
+Primary thallus evanescent, pale green, restricted to scattered, small squamules in the lower part of the
+podetia, ca. 0.2–0.5 × 1 mm, simple or somewhat split up irregularly into crenulate laciniae, esorediate.
+Podetia 5–12 cm tall, of indeterminate growth, pale greenish grey, in lower parts strongly variegated, with
+alternating pale greenish grey and brown to black patches, usually forming cushions composed of dense,
+erect, 1.0–1.5 mm wide main stems; stereome soon brownish but not blackening inside; branching type
+anisotomous tricho- to polytomy; axils always perforated and only slightly swollen; branchlet tips short and
+darkbrown, usually under 0.5 mm long. Podetial surface matt, discontinuously very thinly corticate,with most
+of the stereome becoming bare with age, usually esquamose but some squamules may occur, particularly in
+fallen podetia; podetial squamules up to ca. 1.5 mm wide, divided in ca. 0.5 mm wide, elongate and crenulate
+lobes. Podetial wall 125–175(–200) µ m thick, cortex 0–35 µ m; medulla mostly absent; stereome 125–
+150 µm, pellucid, well-delimited. Conidiomata and hymenial discs not observed. Chemistry: thamnolic and
+usnic acids, sometimes with barbatic acid (TLC of 3 specimens). Colour reactions: P+ yellow, K+ yellow,
+KC+ yellow.
+Distribution and ecology:—The available samples suggest that this is a Guayana Highlands endemic,
+known so far with certainty only from Venezuela. It is found in humid sandstone tableland, and it grows on
+sandstone flats with open bog vegetation between ca. (400–)1000 and 2500 m elev. From the Guianas only
+three doubtful collections are known, from the sandstone plateau of the Kaieteur Falls (see notes).
+Additional specimens examined (paratypes):—VENEZUELA. Amazonas, Depto. Atabapo: Cerro
+Marahuaca, Cumbre, 2480–2580 m, 1982, M. Guariglia et al. 1512 (H!, VEN!); Bolívar: Chimantá, Toronotepui, 2100 m, 1985, Ahti et al. 45255 (H!, VEN!); Chimantá, 2130 m, Vareschi 9209 (H!, VEN!);
+Auyantepuí-Massif, Guayaraca, 1100 m, 1956, Vareschi & Foldats 6303 (H!, VEN!); Cerro Guaiquinima,
+1000 m, 1990, Sipman 26514 (B!, H!, VEN!); id., 1500 m, 1990, Sipman 27101, 27105 (B, H, VEN).
+Remarks:—Cladonia flavocrispata is very similar to C. hians Ahti (2000: 284) and could be considered
+its usnic acid-strain. However, it is also larger in size. Like C. hians, it belongs in section Perviae, as
+demonstrated by the regular perforations of the axils. The species can be also easily confused with C.
+vareschii Ahti (1986: 218). The latter has a more intense yellow tinge and its cortex is somewhat thicker. Its
+apical branchlets stand at an obtuse angle (>90°) and bend away from each other immediately. A very reliable
+difference is the (often scarce) presence of squamules in C. flavocrispata.
+Three Guianas specimens (GUYANA, Potaro-Siparuni Region, Kaieteur Falls National Park, around the
+airstrip, ca. 400 m elev., Sipman 40299, 40300, 40336 (B!, BRG!)) show a considerable resemblance, but
+deviate by the mostly closed axils not developing into funnels and the complete absence of squamules. In this
+repect they agree more with C. vareschii but lack the obtuse-angled apical branchlets and brownish colour.
+They may be more close to C. spinea Ahti (1986: 215), which lacks main stems, however.
+
+Cladonia isidiifera Ahti & Sipman, sp. nov. (Fig. 3)
+Mycobank #MB 803522
+Sicut Cladonia ahtii sed differt sorediis absentibus et isidiis cylindricis praesentibus.
+Type:—GUYANA. Upper Mazaruni Distr.: E-bank of Waruma R., 20 km S of confluence with Kako R., in ca. 20 m tall,
+virgin, riverine forest, on overhanging tree along river, ca. 550 m elev., 11 Feb. 1985, H. Sipman & A. Aptroot 18671
+(holotype B!).
+
+Primary thallus persistent, consisting of 1–4 mm long, horizontal to ascending squamules which are deeply
+divided in ca. 0.5–1.0 mm wide and ca. 0.3 mm thick, slightly crenulate lobes, with flat to concave, green
+upper side and white or pale brown, shiny lower side, with pale hypothallus, often isidiate along the tips of
+erect, up to 5 mm long and 2 mm wide extensions of the lobes; isidia short-cylindrical, ca. 0.3 mm long and
+0.15 mm wide, glossy. Podetia, conidiomata and hymenial discs not known. Chemistry: barbatic and 4-Odemethylbarbatic (minor) acids. Colour reactions: P–, K–, KC–.
+
+28 •
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+AHTI & SIPMAN
+
+FIGURE 3. Cladonia isidiifera, holotype. Bar = 1 cm.
+
+Distribution and ecology:—Known only from a single specimen found in the Upper Mazaruni Distr.,
+Guyana, on an overhanging trunk along a stream at ca. 550 m elev. in mossy forest.
+Additional specimens examined:—known from the type only.
+Remarks:—The presence of cylindrical isidia is so unusual in the genus Cladonia, that there is no doubt
+that the only available specimen belongs to an undescribed species. The thallus squamules show that it is
+related to C. miniata. Morphologically it bears most similarity with C. ahtii. This species is sorediate instead
+of isidiate, and it lacks the peculiar lobe extensions. In the C. miniata-group there is one more isidiate species,
+C. caribaea S. Stenroos (1989: 256). This has coralloid to flattened, not cylindrical isidia.
+
+Cladonia maasii Ahti & Sipman, sp. nov. (Fig. 4)
+Mycobank #MB 803528
+Sicut Cladonia peltastica sed differt ramulis rufescentibus et crassioribus et acidum fumarprotocetraricum continente.
+Type:—SURINAME. 2 km N of Kamisa Falls in Nickerie R., shrub savanna, 2 July 1968, P.J.M. Maas 3378 (holotype
+B!, isotype H!, L!).
+
+Primary thallus squamulose, evanescent, squamules ca. 0.1 mm diam. Podetia 4–6(–10) cm tall, 0.3–1 mm
+thick, rarely with scattered, small squamules, of indeterminate growth, basic colour whitish grey but exposed
+parts may become dark brown, forming erect, dense, flat, interwoven mats; branching type anisotomous
+
+TEN NEW SPECIES OF CLADONIA
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+• 29
+
+dichotomy, to a lesser degree trichotomy or tetrachotomy; main stems in part distinguishable; axils commonly
+perforated; tips erect, divaricate, acute. Podetial surface clearly corticate; cortex smooth to somewhat
+rugulose, dull, with some ecorticate patches; soredia and squamules lacking. Podetial wall thin, ca. 100–
+200 µm; cortex 50 µm; medulla 50–100 µm; stereome ca. 100 µm. Hymenial discs not seen. Conidiomata
+scarce, at the end of podetia, 200–300 × 100–150 µm, ovoid to ampullaceous, constricted at base, black,
+content not seen. Chemistry: fumarprotocetraric, tr. protocetraric, homosekikaic and/or sekikaic acids. Colour
+reactions: P+ red, K–, KC–.
+
+FIGURE 4. Cladonia maasii, holotype. Bar = 2 cm.
+
+Distribution and ecology:—A Guianan endemic, as far as presently known, represented only by two
+collections from Suriname and one from Guyana, in shrub savanna, from ca. 200 to 1000 m elev.
+Aditional specimens examined (paratypes):—GUYANA. Ituru Yawaruki savanna, white sand areas,
+Abraham 123 (BM!) (TLC (F. Oberli, G): with fumarprotocetraric, protocetraric, homosekikaic, and sekikaic
+acid). SURINAME. Natuurreservaat Brinckheuvel, Sabanpasi savanne complex, Teunissen & Wildschut LBB
+11403 (L!).
+Remarks:—Cladonia maasii is named in honour of the collector, Prof. Dr. Paul J.M. Maas, who
+discovered several important Cladonia sites in the Guianas. The lichen resembles C. peltastica (Nylander
+1874: 70) Müller Argoviensis (1880: 260) but contains fumarprotocetraric acid and tends to get slightly brown
+and has no usnic acid. Its branchlets are also more robust, with perforated axils, and the ramification is less
+dense than in C. peltastica. A specimen from Guyana (Mt. Latipu near Kamarang, Sipman & Aptroot 19164,
+B!) is included here with doubt. It agrees in chemistry but the podetia are more slender.
+
+Cladonia mollis Ahti & Sipman, sp. nov. (Fig. 5)
+Mycobank # MB 475357
+Thallus primarius laciniatus, viridis. Podetia 1–2(3) cm alta, pallide vel viride flavescentia, semper scyphosa, scyphis 1–
+4 mm latis. Superficie fere toto granuloso-sorediata et microsquamulosa, toto vel fere ecorticata. Disci hymeniales
+coccinei. Acidum usnicum, acidum thamnolicum et acidum rhodocladonicum continens.
+
+30 •
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+AHTI & SIPMAN
+
+Type:—GUYANA. Demerara-Mahaica Region: on Linden Highway, km 7 from Soesdyke, by end of trail to Marudi
+Creek Resort, 06º31’N, 58º12’W, 10 m elev., on burnt stump in secondary woodland with savanna patches on white
+sand, 1996, T. Ahti, R. Lücking & H. Sipman 52910 (holotype BRG!, isotypes B!, H!, US!, VEN!).
+
+Primary thallus squamulose, consisting of green, flattish squamules with convex lobes and necrotic bases
+turning orange. Podetia 1–2(–3) cm tall, of determinate growth, whitish to greenish yellow, always forming
+scyphi; scyphi 1–4 mm wide, usually single but with age proliferating from the margins and sometimes
+forming a second scyphus at the end of the proliferations, just below the short-stalked apothecia. Podetial
+surface totally ecorticate or little corticate at the very base, otherwise very rough due to coarse granules and
+often very densely beset with microsquamules, all of which dissolve into a thick layer of loose, finely
+granulose soredia towards the tops. Podetial wall not measured. Conidiomata formed on margins of young
+scyphi, typically black, cylindrical, shortly stipitate; with purple slime inside. Hymenial discs unusual, at
+margins of scyphi, forming 1–2 mm wide purple disks. Chemistry: K+ yellow, PD+ yellow, containing usnic
+and thamnolic acids, as well as the purple pigment rhodocladonic acid in hymenial discs and conidiomata.
+
+FIGURE 5. Cladonia mollis, isotype (B). Bar = 2 cm.
+
+Distribution and ecology:—Cladonia mollis is known from the Guianas and northern Brazil, but is
+expected to be more widespread in Amazonia. It was observed on rotten wood and white sand in forest
+clearings and savannas, from 10 to 500 m elev.
+Additional specimens examined (paratypes):—GUYANA. Demerara-Mahaica Region: type locality,
+Ahti 52900 (B!, BRG!, H!, US!), 52912 (BRG!, H!, US!); Cuyuni-Mazaruni Region, Bartica, Linder 810
+(FH!, TUR-V 14099!, W!, as “Cladonia Guiana Vain.” in herb.); Potaro-Siparuni Region, Kaieteur Falls
+National Park, DePriest 9316 (BRG!, H!, US!); Tukeit, DePriest 9361 (BRG!, H!, US!); Basin of Essequibo
+R., Kurupukari, A.C. Smith 2178 (NY!); Upper Demerara-Berbice Region, Mabura Hill, along logging road
+WS 1200, Waraputa compartment, DePriest 9179 (BRG!, H!, US!); Upper Mazaruni Region, Makwaima
+savanna near Mayaropai, at Kako R., wet savanna on white sand, Sipman & Aptroot 18538 (H!, L!). FRENCH
+GUIANA. Inselberg de Montagne de la Trinité, NE summit, on dead wood in rock savanna, de Granville et al.
+6252 (B!, L!). SURINAME. No locality, [1827–28] C. Weigelt in Herb. Schweinitz (PH!); Sabanpasi savanna
+complex, Nature Reserve Brinckheuvel, summit of Brinckheuvel, on coarse, white sand, Teunissen &
+Wildschut LBB 11933 (H!, L!); Jodensavanne, Benjamins (L!), Stahel (L!, REN!). BRAZIL. Amazonas:
+Manaus-Itacoatiara road km 18, under 100 m elev., in secondary campina forest, Richards 6949 (BM!); Pará:
+Serra do Cachimbo, Base Aérea do Cachimbo, ca. 20 km N of the border with Mato Grosso on CuiabáSantarém highway (RB-163), ca. 09º 22’S, 54º 54’W, broad, sandy, level riverine plain, Brako & Dibben 5810
+(H!, INPA, NY!).
+Remarks:—The species is distinguished from the very similar C. corallifera (Kunze 1827-1828)
+Nylander (1874: 70) by the production of distinct soredia almost throughout the surface of the podetia.
+However, it may be difficult to distinguish from granulose morphs of C. corallifera. In Guiana we
+encountered the two species growing together in some places, where they appeared to be distinct. Also E. A.
+
+TEN NEW SPECIES OF CLADONIA
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+• 31
+
+Vainio recognized the species under an unpublished herbarium name (see above). All the specimens of C.
+mollis that were chemically studied contained thamnolic acid, while in C. corallifera the chemistry is more
+variable (Ahti 2000).
+Cladonia mollis is also closely related to C. prancei Ahti (2000: 223), another sorediate derivative of C.
+corallifera, which in addition has podetia forming narrow scyphi, sometimes becoming subulate, with a low
+content of usnic acid often giving the podetia a pale grey colour without yellowish tinge.
+Sorediate squamules have been found only in the specimen Sipman & Aptroot 18538.
+
+Cladonia persphacelata Sipman & Ahti, sp. nov. (Fig. 6)
+Mycobank # MB 803523
+Sicut Cladonia sphacelata, sed podetia cornea, fusca, incrassata, squamulis elongatis; acidum didymicum et acidum
+thamnolicum continens.
+Type:—GUYANA. Upper Mazaruni Distr.: Mt. Latipu, ca. 8 km N of Kamarang, at ca. 1000 m elev., in scrub on summit
+plateau, on white sand on open spot, 25 Feb 1985, H. Sipman & A. Aptroot 19149 (holotype B!, isotype BRG!)
+(TLC: thamnolic, tr. didymic acid).
+
+Primary thallus persistent to evanescent, consisting of up to 0.5 cm long squamules which are deeply divided
+into ca. 0.5 mm wide, elongate laciniae, attenuated and often almost stalk-like at the base, on the lower side
+with rather smooth surface to corticoid and sometimes with ochraceous streak. Podetia up to 5 cm tall and
+0.5–1.5 mm thick, of determinate growth, grey to usually more or less brown, in lower part almost black,
+horny and swollen, somewhat branched; branching type irregular anisotomous dichotomy, rarely trichotomy
+or tetrachotomy; axils closed or with usually small openings; tips often divided into 2–10 short branchlets.
+Podetial surface smooth and often shiny, denudated even at the tips, finally being rather densely squamulose,
+smooth inbetween, esorediate; mature squamules narrow, laciniate and imbricate, up to 4 mm long, pointing
+downward but with recurved tips, often glossy. Podetial wall 200–290 µ m thick; cortex (0–)25–40 µ m,
+consisting of large cells; medulla very thin, (0–)10–25 µ m (including the algae); stereome distinctly
+delimited, very horny, thick, 200–250 µ m, inner surface glossy. Conidiomata terminal on tiny apical
+branchlets, often grouped, 200–250 × 100–150 µm, dolioliform, constricted at the base, shortly pedicellate,
+containing red slime. Hymenial discs not seen. Chemistry: thamnolic acid sometimes with a trace of didymic
+acid (TLC of 6 specimens). Colour reactions: P+ yellow, K+ yellow, KC–; UV–.
+Distribution and ecology:—A Guayana Highland endemic, known only from Venezuela and Guyana. It
+is widespread in the Guayana Highland of Venezuela in light, mossy forest over sandstone at ca. 600–1100 m
+elev. In Guyana found on mossy sandstone rocks in light forest, rather shade-tolerant and avoiding open spots,
+from 400 to 1000 m elev.
+Additional specimens examined (paratypes):—GUYANA. Upper Mazaruni Distr., 2 km N of
+Kamarang, 500 m, Sipman & Aptroot 18241 (B!); E-bank of Waruma R., ca. 20 km S of confluence with
+Kako R. (campsite 4), Sipman & Aptroot 18241, 18660 (B!); trail from Kamarang R. to Pwipwi Mt., ca. 10
+km N of Waramadan, Sipman & Aptroot 19322, 19494 (B!); Potaro-Siparuni Region, Kaieteur Falls National
+Park, around the airstrip, Sipman 40447 (B!, BRG!); Region 7 (Upper Mazaruni Distr.), N of Paruima
+Mission, Aymatoi savanna, Sipman 39860 (B!, BRG!, US!); Cuyuni-Mazaruni Region, Partang R., 8.6 km NE
+of Imbadamai, Hoffman 1722 (H!). VENEZUELA. Bolívar: Cerro Guaiquinima, in central part of upper
+plateau, along Río Carapo (near camp 3-nuevo), Sipman 27065 (B!, H!, VEN!); in central part of upper
+plateau (near camp 4), Sipman 26487 (B!, VEN!); near NE edge of upper plateau (near camp 2), Sipman
+26890 (B!, VEN!); near west end of upper plateau (near camp 5), Sipman 27102 (B!, H!, VEN!); Canaima, at
+Río Carrao, Sipman 27256 (B!, VEN!).
+
+32 •
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+AHTI & SIPMAN
+
+FIGURE 6. Cladonia persphacelata, holotype. Bar = 2 cm.
+
+Remarks:—Cladonia persphacelata belongs to a group of closely related species including in the
+Guianas C. polystomata Ahti & Sipman in Ahti (2000) and C. subsphacelata (see below), and the Brazilian C.
+sphacelata Vainio (1887: 456). C. polystomata grows on soil or litter and forms wide funnels on top of more
+
+TEN NEW SPECIES OF CLADONIA
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+• 33
+
+or less corticated, up to ca. 1 cm thick, little branched podetia with short squamules. C. subsphacelata has
+largely corticate, less than 1 mm wide podetia, and shares with C. persphacelata the saxicolous habit and very
+elongated squamules. C. sphacelata has short podetial squamules, the podetia remain thin, under 1 mm wide,
+and do not become horny.
+Richly squamulose forms of C. subdelicatula Vainio ex Asahina (1963: 1) can also resemble C.
+persphacelata. They differ by their felty rather than smooth surface and their preference for tree bark as
+substrate (in the Guianas).
+
+Cladonia recta Ahti & Sipman, sp. nov. (Fig. 7)
+Mycobank # MB 803524
+Sicut Cladonia peltastica sed podetiis gracilioribus albo-cinereis; conidiomata gelatinam purpuream continentia;
+acidum squamaticum continens.
+Type:—GUYANA. Upper Takutu Distr.: ca. 35 km S of Aishalton, ca. 5 km N of Kuyuwini Landing, along track to
+Karaudanawa, ca. 2°08'N, 95°15'W, ca. 250 m elev., on sandy soil among scattered shrubs and trees along and on
+small savanna, 1 Nov. 1992, H. Sipman 57134 (holotype B 60 0164014!, isotype BRG!).
+
+FIGURE 7. Cladonia recta, holotype. Bar = 2 cm.
+
+Primary thallus evanescent, consisting of very small, to 0.2 mm long, slightly crenulate squamules. Podetia 2–
+5 cm tall, 0.2–0.5(–1) mm thick, of indeterminate growth, whitish grey, basal parts darker but not melanotic,
+extreme tips black, forming dense mats with individual podetia erect and very straight, branched by irregular
+anisotomous dichotomy, rarely trichotomy, main stems distinct but somewhat anastomosing, equally thick;
+
+34 •
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+AHTI & SIPMAN
+
+axils normally closed but occasionally perforated; tips erect or slightly bent, acuminate. Podetial surface
+continuously corticate, cortex smooth or somewhat rugulose, especially towards the base, occasionally
+slightly squamulose, dull to slightly shiny, somewhat maculate, with some brownish, ecorticate patches near
+the base; soredia lacking. Podetial wall anatomy not studied; stereome distinct, central canal very narrow.
+Conidiomata on tips of podetia, ca. 200 × 100 µm, cylindrical, not constricted at the base, black, containing
+purple slime. Hymenial discs at tips of slightly swollen podetia, very small (ca. 0.1 mm diam.), pale brown;
+spores not observed. Chemistry: squamatic acid. Colour reactions: P–, K–, KC–.
+Distribution and ecology:—As far as known a Guianan endemic, collected only in Guyana on sandy soil
+and rotten wood in savanna, at ca. 250 m elev.
+Additional specimens examined (paratypes):—GUYANA. Upper Takutu Distr., ca. 35 km S of
+Aishalton, ca. 5 km N of Kuyuwini Landing, along track to Karaudanawa, ca. 2°08'N, 95°15'W, ca. 250 m,
+Sipman 57127, 57132 (B!, BRG!).
+Remarks:—Cladonia recta resembles most C. peltastica, but is much more slender and forms
+conspicuous, straight, erect colonies. However, it is possible that it represents an usnic acid-free chemotype of
+that species.
+
+Cladonia rupununii Ahti & Sipman, sp. nov. (Fig. 8)
+Mycobank # MB 803525
+Sicut Cladonia macilenta, sed podetia regulariter ramosa, in parte applanata, toto sorediosa; disci hymeniales coccinei;
+acidum didymicum et acidum barbaticum continens.
+Type:—GUYANA. Upper Takutu Distr.: southern Rupununi savanna, Kusad Mt., SE side, 2°47'N, 59°51'W, 450 m
+elev., forest along stream in upper part of valley, on Curatella trunk, 29 Sept. 1992, H. Sipman 57749 (holotype B!,
+isotype BRG!).
+
+FIGURE 8. Cladonia rupununii, holotype. Bar = 2 cm.
+
+TEN NEW SPECIES OF CLADONIA
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+• 35
+
+Primary thallus persistent, consisting of very small, 0.5–2 mm long, dissected squamules, veined below; often
+slightly sorediate along margins. Podetia up to 2 cm tall, 0.3–1 mm thick, of determinate growth, very slender,
+whitish grey, dichotomously or digitately branched, especially in upper parts; branchlets divergent; axils
+closed; tips bluntish; ascyphose. Podetial surface abundantly farinose-sorediate throughout. Podetial wall
+anatomy not studied. Hymenial discs red, not seen in maturity. Conidiomata born on basal squamules or at tips
+of podetia, ampullaceous, black, containing purple slime. Chemistry: didymic, barbatic, trace of
+demethylbarbatic acids. Colour reactions: P–, K–, KC–.
+Distribution and ecology:—A Guyana endemic, so far as known, collected once in a forest island on a
+hilltop in the Rupununi savanna in SW Guyana, on rotten log in clearing along a stream, at 450 m elev.
+Additional specimens examined:—known from the type only.
+Remarks:—Very similar and apparently closely related to Cladonia macilenta Hoffmann (1796: 126),
+but more branched. Also similar to Cladonia prancei, which is much more robust, forms narrow scyphi, and
+always contains thamnolic acid. Chemically, it is similar to C. didyma (Fée 1825: 118, 101) Vainio (1887:
+137), but that species has smooth, pellucid podetia producing granules or squamules and lacks soredia.
+
+Cladonia subsphacelata Sipman & Ahti, sp. nov. (Fig. 9 )
+Mycobank # MB 803526
+Sicut Cladonia persphacelata, sed podetia tenuioria, ad 0.8 mm crassa, plerumque corticata; acidum didymicum et
+acidum squamaticum continens.
+Type:—FRENCH GUIANA. Savane Roche de Virginie, Bassin de l'Approuague, 120 m elev., Fourré isolé de savane
+roche, 12 Feb. 1991, G. Cremers & P. Petronelli 11900 (holotype B!).
+
+FIGURE 9. Cladonia subsphacelata, holotype. Bar = 2 cm.
+
+36 •
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+AHTI & SIPMAN
+
+Primary thallus persistent, consisting of up to 0.5 cm long squamules which are deeply divided into ca.
+0.5 mm wide, elongate laciniae, attenuated and often almost stalk-like at the base, with rather smooth to
+corticoid surface towards the base and sometimes with ochraceous streak. Podetia up to 3 cm tall and 0.3–
+0.8 mm thick, of determinate growth, grey to usually more or less brown, at base almost black, somewhat
+branched; branching type irregular anisotomous dichotomy, rarely trichotomy or tetrachotomy; axils closed or
+with usually small openings; tips often divided into 2–10 short branchlets; central canal very thin, ca. 0.1 mm
+wide. Podetial surface smooth and mostly corticate, not shiny, finally being rather densely squamulose,
+smooth inbetween, esorediate; mature squamules narrow, laciniate and imbricate, up to 4 mm long, pointing
+downward but with recurved tips, often glossy. Podetial wall 200–300 µ m thick; cortex (0–)25–40 µ m;
+medulla thin, 10–25 µm (including the algae); stereome distinctly delimited, horny, thick, 200–250 µm, inner
+surface glossy. Conidiomata not seen. Hymenial discs not seen. Chemistry: squamatic and didymic acids
+(TLC of 4 specimens). Colour reactions: P–, K–, KC–; UV+ white.
+Distribution and ecology:—Species known so far only from French Guiana and Guyana, found in
+sananna over rock from 100 to 400 m elev.
+Additional specimens examined (paratypes):—GUYANA. Potaro-Siparuni Region, Kaieteur Falls
+National Park, around the airstrip, Sipman 40326 (B!, BRG!); Ahti et al. 53048a (B!, H!, US!); trail to
+Johnson's View, dePriest 9375 (H!). FRENCH GUIANA. Savane Roche de Virginie, Bassin de l'Approuague,
+Cremers & Petronelli 11899 (B!).
+Remarks:—For differences with related species see under C. persphacelata.
+
+Cladonia termitarum Ahti, sp. nov. (Fig. 10)
+Mycobank # MB 803527
+Thallus squamulosus, aggregatus, squamulae minutae (0.3–1 mm longae), crustaceae, crassae, subteretia, marginibus
+crenulatis, interdum parce sorediosis. Podetia brevissima (0.5–2 mm), laevia, granulosa vel squamosissima, semper
+fertilia. Conidiomata subsphaerica, demum ostiolum hians, gelatinam coccineam continentia. Disci hymeniales
+applanati, coccinei. Acidum fumarprotocetraricum et acidum rhodocladonicum continens.
+Type:—GUYANA. Potaro-Siparuni Region: Kaieteur Falls National Park, S side of airstrip, 0.5º10’N, 59º29’W, 400 m
+elev., on termite structure on premontane sclerophyll forest floor, 1996, T. Ahti et al. 53023 (holotype BRG!,
+isotypes B!, H!, US!).
+
+Primary thallus persistent, appearing crustose but consisting of 0.3–1 mm long, 0.1–0.5 mm wide, pale
+greenish to brownish grey squamules, usually very short and irregular, convex, thick, often warty or almost
+cylindrical, often densely aggregated, crenulate at ends and margins, with eroded, granulose patches
+extending on the underside of the squamules; necrotic basal parts becoming orange. Podetia often numerous,
+very short (0.5–2 mm), of determinate growth, greenish grey; stalk smooth (little corticate), granulose or
+densely squamulose. Podetial surface areolate-verruculose. Podetial wall not measured. Conidiomata
+scattered, subspherical, black, 0.2 mm tall, after ejaculation of conidia ostiolum gaping open with black,
+toothed margins and red slime visible inside. Hymenial discs sparsely produced, on very short (0.5–2 mm),
+smooth, granulose or squamulose podetia, flat, purple. Chemistry: PD+ fast brick red, containing the
+fumarprotocetraric acid complex; the purple pigment rhodocladonic acid in hymenial discs and conidiomata.
+Distribution and ecology:—A Guianas endemic, known so far only from three collections made near the
+Kaieteur Falls, Guyana. It was exclusively observed on old forest floor termite structures, at ca. 400 m elev.
+These structures are very common in the Amazonian and associated lowland rainforests, therefore the species
+is expected to be more widespread.
+Additional specimens examined (paratypes):—GUYANA. Potaro-Siparuni Region, type locality,
+termite mound, Ahti 53020 (BRG!, H!, US!); Kaieteur Falls National Park, N side of airstrip, termite mound,
+Ahti 53035 (B!, BRG!, H!).
+
+TEN NEW SPECIES OF CLADONIA
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+• 37
+
+FIGURE 10. Cladonia termitarum, isotype (B). Bar = 1 cm.
+
+Remarks:—The short-stalked, bright red ascomata in combination with the presence of
+fumarprotocetraric acid set this species well apart from all Guianas lichens. The only similar species is
+Cladonia ahtii Stenroos, known from SE Brazil, which belongs to the group of C. miniata, and differs by the
+shape of the squamules, thick and rounded, with a flat to concave upper surface.
+
+Acknowledgements
+A special word of thanks is for the organisers of the expeditions to Guyana which kindly allowed us to
+participate, notably Ben ter Welle and Dr. Rob Gradstein (Utrecht, 1985, 1992), and Paula T. DePriest
+(Washington, 1996, 1997). They enabled us to collect essential material for this study. Our field work in the
+Guianas was supported by the Biological Diversity of the Guiana Shield Program (BDG) run by the
+Smithsonian Institution, Washington, DC. Fieldwork in Venezuela was supported by grants from the New
+York Botanical Garden, Academy of Finland and IVIC. We are obliged for help from many colleagues, such
+as Dr. Paula T. DePriest, Prof. Soili Stenroos, Dr. Otto Huber, and Dr. Stephen S. Tillett. Thanks are also due
+to the curators of the many herbaria studied, especially B, BRG, FH, H, L, NY, TUR, US, VEN.
+
+References
+Ahti, T. (1986) New species and nomenclatural combinations in the lichen genus Cladonia. Annales Botanici Fennici 23: 205–
+220.
+Ahti, T. (2000) Cladoniaceae. Flora Neotropica Monograph 78: 1–363.
+Ahti, T. & Sipman, H.J.M. (2013) Cladoniaceae (Lichens) incl. guide to the Cladoniaceae of the Guayana Highland. In Mota de
+Oliveira, S. (ed.), Flora of the Guianas, ser. E, 3 (in press).
+Asahina, Y. (1963) Lichenologische Notizen (186–187). Journal of Japanese Botany 38(10): 1–3.
+Fée, A.L.A. (1825) Essai sur les cryptogames des écorces exotiques officinales. Paris, vii–xiv, 167 pp.
+Hoffmann, G.F. (1796) Deutschlands Flora oder Botanisches Taschenbuch. Zweyter Theil für das Jahr 1795. Cryptogamie.
+
+38 •
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+AHTI & SIPMAN
+
+Erlangen, 200 pp.
+Kunze, G. in C. Weigelt (1827–1828) [Unnumbered exsiccate].
+Meyer, G.F.W. (1825) Die Entwicklung, Metamorphose und Fortpflanzung der Flechten. Göttingen.
+Müller Argoviensis, J. (1880) Lichenologische Beiträge, XI. Schluss. Flora (Regensburg) 63: 259–268, 275–290.
+Nylander, W. (1874) Animadversiones circa Spruce, Lichenes Amazonicos et Andinos. Flora (Regensburg) 57: 70–73.
+Orange, A., James, P. W. & White, F. J. (2001) Microchemical methods for the identification of lichens. British Lichen Society,
+101 pp.
+Stenroos, S. (1989) Taxonomic revision of the Cladonia miniata group. Annales Botanici Fennici 26: 237–261.
+Vainio, E.A. (1887) Monographia Cladoniarum universalis: 1. Acta Societatis pro Fauna et Flora Fennica 4: 1–509.
+Zahlbruckner, A. (1909) Lichenes (Flechten), in: Schiffner, V. (ed.), Ergebnisse der botanischen Expedition der kaiserlichen
+Akademie der Wissenschaften nach Südbrasilien, 1901, 2. Band. Denkschrifte der Kaiserliche Akademie der
+Wissenschaften 83: 85–211.
+
+TEN NEW SPECIES OF CLADONIA
+
+Phytotaxa 93 (1) © 2013 Magnolia Press
+
+• 39
+
+

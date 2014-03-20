@@ -1,0 +1,110 @@
+Phytotaxa 162 (4): 234 – 235
+www.mapress.com / phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+Copyright © 2014 Magnolia Press
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.162.4.7
+
+Notes on Early Land Plants Today. 48. Drepanolejeunea longifolia, a new
+synonym of Drepanolejeunea angustifolia (Marchantiophyta, Lejeuneaceae)
+QIONG HE 1,2 & RUI-LIANG ZHU 1,3,4
+1
+
+Department of Biology, School of Life Sciences, East China Normal University, 3663 Zhong Shan North Road, Shanghai 200062,
+China; rlzhu@bio.ecnu.edu.cn
+2
+Ningbo Binhai International Cooperative School, Ningbo Binhai Education Group Ltd., 11 Mingyue Road, Binhai New City,
+Beilun,Ningbo, Zhejiang 315830, China
+3
+Shanghai Key Lab for Urban Ecological Processes and Eco-Restoration, East China Normal University, 500 Dongchuan Road,
+Shanghai 200241, China
+4
+Author for correspondence
+
+Drepanolejeunea (Spruce 1884: 186) Stephani (1891: 209), with about 110 currently accepted species, is the fourth
+largest genus of Lejeuneaceae (following Cololejeunea (Spruce 1884: 291) Stephani (1891: 208), Lejeunea Libert
+(1820: 373), and Cheilolejeunea (Spruce 1884: 251) Stephani (1890: 284) (He et al. 2012). Although
+Drepanolejeunea is a diverse pantropical genus, it is characterized and easily distinguished from other related
+genera by the 1) erect to widely divergent lobes of underleaves without a basal disc, 2) transverse section of stem
+with 7 cortical cells and 3 medullary cells, 3) presence of ocelli at least at base of leaf lobe), 4) proximal hyaline
+papilla, 5) pycnolejeuneoid leaf sequence of gynoecial innovation (if present), 6) inflated perianths usually with
+various projections near apex, and 7) asexual reproduction by means of cladia or caducous leaves (Zhu & So 2001;
+He et al. 2012; Pócs et al., 2013). The genus has been classified in a separate subtribe, Drepanolejeuneinae
+Gradstein (2013: 14), together with Vitalianthus Schuster & Giancotti (1993: 447).
+During our recent studies on Asian Drepanolejeunea, we found that Drepanolejeunea longifolia Singh & Nath
+(2007: 248), previously known only from India is conspecific with Drepanolejeunea angustifolia (Mitten 1861:
+116) Grolle (1965: 206), a common epiphytic and epiphyllous species in southeastern Asia (e.g., Udar & Awasthi
+1982; Zhu & So 2001).
+
+Formal treatment
+The format of this note follows Söderström et al. (2012).
+Drepanolejeunea angustifolia (Mitt.) Grolle, J. Jap. Bot. 40: 206. 1965 (Grolle 1965).
+≡ Lejeunea angustifolia Mitt., J. Proc. Linn. Soc., Bot. 5: 116. 1861 “1860” (Mitten 1861). Type:—INDIA. “Sikkim
+Himalaya”: Tonglo, 10000 ft, J. D. Hooker 1498 (holotype NY!; isotype BM!).
+= Drepanolejeunea longifolia Ajit P.Singh et V.Nath, Hepat. Khasi Jaintia Hills E. Himal.: 248, 2007 (Singh & Nath 2007);
+Bryologist 111: 477, 2008 (Singh et al. 2008). Type:—INDIA. Meghalaya: East Khasi Hills, Elephant Falls, on bark of
+tree, ca. 1500 m, 8 June 1965, S. Chandra 201213-B (holotype LWG!), syn. nov.
+
+For further synonyms, see Mizutani (1961), Grolle (1965), Zhu & So (2001).
+
+Acknowledgements
+This research was sponsored by the National Natural Science Foundation of China (nos. 31370238, 31170190), the
+Special Prog ram for the National Basic Work of the Ministry of Science and Technolog y, China
+(No. 2012FY110600), and 211 Project for the East China Normal University. We also thank the curators of BM,
+LWG and NY, Virendra Nath (LWG ) and A.K. Asthana (LWG) for making specimens available for study through
+loans or visits.
+
+234 Accepted by Lars Söderström: 19 Jan. 2014; published: 17 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+References
+Gradstein, S.R. (2013) A classification of Lejeuneaceae (Marchantiophyta) based on molecular and morphological evidence.
+Phytotaxa 100: 6–20.
+http://dx.doi.org/10.11646/phytotaxa.100.1.2
+Grolle, R. (1965) Miscellanea hepaticologica. 41-50. Journal of the Hattori Botanical Laboratory 40: 206–219.
+He, Q., Zhu, R.-L., Chantanaorrapint, S., Kornochalert, S. & Printarakul, N. (2012) Drepanolejeunea laciniata (Lejeuneaceae),
+a new species from northern Thailand. Cryptogamie Bryologie 33: 291–298.
+http://dx.doi.org/10.7872/cryb.v33.iss3.2012.291
+Libert, M.-L. (1820) Sur un genre nouveau d'hépatiques, Lejeunia. Annales générales des sciences physiques 6: 372–374.
+Mitten, W. (1861) Hepaticae Indiae Orientalis: An enumeration of the Hepaticae of the East Indies. Journal of the Proceedings
+of the Linnean Society. Botany 5: 89–128.
+http://dx.doi.org/10.1111/j.1095-8312.1861.tb01343.x
+Mizutani, M (1961) A revision of Japanese Lejeuneaceae. Journal of the Hattori Botanical Laboratory 24: 115–302.
+Pócs, T., Luong, T.-T. & Ho, B.-C. (2013) New or little known epiphyllous liverworts, XVIII. Records from the Bidoup-Núi Bà
+National Park, Vietnam, with the description of Drepanolejeunea bidoupensis, sp. nov. Cryptogamie Bryologie 34: 287–
+298.
+http://dx.doi.org/10.7872/cryb.v34.iss3.2013.287
+Schuster, R.M. & Giancotti, C. (1993). On Vitalianthus Schust. & Giancotti, a new genus of Lejeuneaceae. Nova Hedwigia 57:
+445–56.
+Singh, A.P. & Nath, V. (2007) Hepaticae of Khasi and Jaintia Hills: Eastern Himalayas. Bishen Singh Madendra Pal Singh,
+Dehra Dun, 1–382.
+Singh, A.P., Nath, V. & Asthana, A.K. (2008) Studies on two noteworthy species of Drepanolejeunea (Lejeuneaceae) from
+Meghalaya (India). The Bryologist 111: 476–481.
+http://dx.doi.org/10.1639/0007-2745(2008)111[476:sotnso]2.0.co;2
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+http://dx.doi.org/10.11646/phytotaxa.112.1.3
+Spruce, R. (1884) Hepaticae of the Amazon and the Andes of Peru and Ecuador. Transactions and Proceedings of the Botanical
+Society of Edinburgh 15: 1–308.
+Stephani, F. (1890) Hepaticae africanae novae in insulis Bourbon, Maurice et Madagascar lectae. Botanical Gazette 15: 281–
+292.
+http://dx.doi.org/10.1086/326585
+Stephani, F, (1891) Hepaticae africanae. Hedwigia 30: 201–217.
+Udar, R. & Awasthi, U.S. (1982) The genus Drepanolejeunea in India. Journal of the Hattori Botanical Laboratory 53: 419–
+437.
+Zhu, R.-L. & So, M.L. (2001) Epiphyllous liverworts of China. Beihefte zur Nova Hedwigia 121: 1–418.
+
+DREPANOLEJEUNEA LONGIFOLIA, SYN. NOV. OF D. ANGUSTIFOLIA
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 235
+
+

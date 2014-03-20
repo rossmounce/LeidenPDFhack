@@ -1,0 +1,312 @@
+Phytotaxa 150 (1): 54–60 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.150.1.4
+
+Otatea ramirezii (Poaceae: Bambusoideae: Bambuseae) flower description and
+the importance of the Mexican national living bamboo collection
+EDUARDO RUIZ-SANCHEZ
+Instituto de Ecología, A. C., Centro Regional de Bajío, Red de Biodiversidad y Sistemática, Av. Lázaro Cárdenas 253, 61600,
+Pátzcuaro, Michoacán, México. E-mail: eduardo.ruiz@inecol.mx
+
+Abstract
+Botanical gardens have several aims, among which is to increase awareness of plant diversity, to study it, and to conserve
+it. The Francisco Javier Clavijero Botanical Garden at the Instituto de Ecología, in Xalapa, Mexico, curates the Mexican
+national living national bamboo collection. In 2010 a new Otatea species was collected, described and cultivated in the
+living bamboo collection. Two years after being planted, this bamboo began to flower in the summer of 2012. I decided
+to visit the type locality and I found the entire population flowering. Based on collected specimens, the synflorescences
+and spikelets of Otatea ramirezii are described and these structures are compared with those of the known Otatea species
+described with flowers. The living national bamboo collection of Mexico is important for the preservation of native
+species and, given that the flowering cycles of most bamboo species are not known, for the documentation of their life
+cycles.
+Key words: asynchrony, botanical garden, flowering cycle, phenology, monocarpic, synflorescence
+
+Resumen
+Los jardines botánicos tienen diversos objetivos, uno de ellos es aumentar la conciencia, la investigación y la
+conservación de biodiversidad vegetal. El jardín botánico Francisco Javier Clavijero en el Instituto de Ecología, en
+Xalapa, México, resguarda la colección nacional de bambúes Mexicanos. En 2010 se colectó, describió y cultivó una
+especie nueva de Otatea en la colección nacional de bambúes. Después de dos años de crecimiento, el bambú comenzó a
+florecer en el verano de 2012. Decidí visitar la localidad tipo y encontré a toda la población floreciendo. Con base en los
+especímenes colectados, se completo la descripción de Otatea ramirezii, describiendo las inflorescencias y flores. Esas
+estructuras se compararon con la de las especies conocidas de Otatea descritas con flores. La colección nacional de
+bambúes Mexicanos es muy importante para la conservación de las especies nativas y dado que los ciclos de floración de
+la mayoría de las especies de bambúes no se conocen, la documentación de sus ciclos de vida es necesaria.
+
+Introduction
+In the Americas, the highest bamboo diversity and endemism is found in Brazil, the northern and central
+Andes, Mexico and Central America (Judziewicz et al., 1999). Prior to 2004 there were 36 native species of
+bamboos described in eight genera for Mexico (Judziewicz et al., 1999; Cortés Rodríguez 2000; Clark and
+Cortés 2004), but recent work has brought this number to 44 species (Judziewicz et al., 1999; Ruiz-Sanchez et
+al., 2011, 2011a; Ruiz-Sanchez 2012; Ruiz-Sanchez and Clark 2013) and three more are in the process of
+being described. More than the half (23) of the Mexican bamboo species are endemic and this number could
+increase with the description of new taxa. The Mexican bamboos grow in tropical dry and perennial forests,
+mixed pine-oak and pine-spruce forests, pine forests, and cloud forests from sea level to 3,000 m elevation
+(Cortés Rodríguez 2000; Ruiz-Sanchez et al., 2011, 2011a; Ruiz-Sanchez & Clark 2013).
+
+54 Accepted by Maria S. Vorontsova: 6 Nov. 2013; published: 3 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+The Francisco Javier Clavijero Botanical Garden at the Instituto de Ecología, A.C. (INECOL) in Xalapa,
+Veracruz, Mexico houses the Mexican national living bamboo collection that was created in a collaborative
+effort by INECOL, Bamboos of the Americas (BOTA), and the Instituto Tecnológico de Chetumal for the ex
+situ preservation of Mexican bamboo diversity, and for the purposes of research and teaching the public about
+Mexican bamboo species. The living Mexican bamboo collection has 31 of the 44 described species, some of
+which have been difficult to cultivate due their requirement for special abiotic conditions (temperature,
+humidity, soil type, etc.).
+One of the eight genera of bamboos present in Mexico is Otatea (McClure & E.W. Sm) Calderón &
+Soderstrom (1980: 21). With eight described species (Guzmán et al. 1984; Clark and Cortés 2004; RuizSanchez et al., 2011; Ruiz-Sanchez 2012), it is the second most speciose bamboo genus in Mexico, behind
+Chusquea Kunth (1822: 151) with 18 described species (Cortés Rodríguez 2000; Ruiz-Sanchez & Clark
+2013). Like most bamboos, Otatea is a semelparous genus with mass flowering in cycles that, according to
+herbarium records, occur in 8-30 year cycles (Guzmán et al., 1984; Judziewicz et al., 1999; Ruiz-Sanchez et
+al., 2011). Populations usually flower for two or three years consecutively and then die (Ruiz-Sanchez et al.,
+2011). Some species of Otateaǡ such as O. fimbriata Soderstrom in McVaugh (1983: 280) have synchronous
+flowering, while others, such as O. acuminata (Munro) Calderón & Soderstrom (1980: 21), O. glauca Clark &
+G. Cortés (2004: 3) and O. ramirezii Ruiz-Sanchez (2012: 25), flower asynchronously (Ruiz-Sanchez et al.,
+2011; personal observation).
+During fieldwork in the Querétaro state in 2010, I collected a potentially new species of Otatea. This
+specimen was described as Otatea ramirezii based on its vegetative morphology characters, without flowering
+characters because the population was sterile. Other Otatea species (O. carrilloi Ruiz-Sanchez, Sosa & MejíaSaulés in Ruiz-Sanchez et al. (2011: 324) and O. transvolcanica Ruiz-Sanchez & L.G. Clark in Ruiz-Sanchez
+et al. (2011: 330) have also been initially described based only on vegetative morphological characters (RuizSanchez et al., 2011). The O. ramirezii specimen was cultivated at the Francisco Javier Clavijero Botanical
+Garden and deposited in the Mexican national living bamboo collection. Over the course of regular visits to
+the collection I saw the specimen of O. ramirezii flowering, and decided to visit the population in Querétaro.
+There, I found the entire population flowering synchronously and noted that some individuals had flowered
+the previous year. I collected several flowering specimens and described and illustrated the flowers of O.
+ramirezii (Fig. 1, 2) and constructed a flowering key to the species of Otatea with known flowers.
+Key to the species of Otatea based on flowering characters
+1.
+1.
+2.
+2.
+3.
+3.
+4.
+4.
+5.
+5.
+
+Synflorescences with 6–33 spikelets ............................................................................................................................ 2
+Synflorescences with 2–7 spikelets .............................................................................................................................. 4
+Synflorescences 10–15 cm long, paniculate, glume I 5–7 mm long (including the awn), glume II 7–9.5 mm long
+(including the awn) ...................................................................................................................... O. fimbriata Soderstr.
+Synflorescences 5–10 cm long, paniculate to racemose, glume I 2.5–8.2 mm long (including the awn), glume II 3.5–
+8.5 mm long (including the awn) .................................................................................................................................. 3
+Lemmas 8–13 mm long (including the awn), pubescent; paleas keels pubescent; lodicules glabrous with ciliate
+margin ................................................................................................. O. acuminata (Munro) C. Calderón & Soderstr.
+Lemmas 10–14.5 mm long (including the awn), scabrous; paleas keels glabrous; lodicules pubescent .......................
+............................................................................................................................................. O. ramirezii Ruiz-Sanchez
+Spikelets purple-blue; glume I 6–11 mm long (including the awn), glume II 8–12.7 mm long (including the awn);
+lemmas 11.5–17 mm long (including the awn).................................... O. ximenae Ruiz-Sanchez & Clark (2011: 330)
+Spikelets green; glume I 6.5–13 mm long (including the awn), glume II 9.5–17 mm (including the awn); lemmas
+14.3–21 mm (including the awn) .................................................................................................................................. 5
+Lemmas glabrous; paleas 9.7–11.7 mm long..................................O. reynosoana Ruiz-Sanchez & Clark (2011: 328)
+Lemmas scabrous-pubescent; paleas 14–15.4 mm long........................................................O. glauca Clark & Cortés
+
+OTATEA RAMIREZII (POACEAE: BAMBUSOIDEAE: BAMBUSEAE)
+
+Phytotaxa 150 (1) © 2013 Magnolia Press
+
+• 55
+
+FIGURE 1. Otatea ramirezii. A. Flowering branch, with synflorescences. B. Synflorescence. C. Spikelet, showing florets and rachilla
+joints. D. Spikelet ventral lemma view, showing glabrous awned glume I, rachilla joint with pubescent apex, palea with glabrous keels,
+pubescent sulcus and bifid apex and lateral view of awned lemma. E. Spikelet dorsal lemma view showing glabrous awned glume II,
+and awned lemma. F. Detail of the scabrous lemma. G. Anterior pubescent lodicules pair, abaxial view and adaxial apex of the posterior
+one. H. Caryopsis hilum (left), embryo (embryo). Based on E. Ruiz-Sanchez, L. Pérez & A. Núñez 410. Drawn by Alfonso Barbosa.
+
+56 •
+
+Phytotaxa 150 (1) © 2013 Magnolia Press
+
+RUIZ-SANCHEZ
+
+FIGURE 2. A. White arrows indicate mass flowering populations in the hills of the Sierra Gorda in the state of Querétaro, Mexico. B.
+Close-up of the mass flowering population. C. Individual flowering, showing the plant with terminal synflorescences. D. Close-up of
+the branches showing terminal synflorescences. E. Synflorescence showing several spikelets. F. Close-up of the synflorescence, An =
+anthers, Fl = single floret. Photos by E. Ruiz-Sanchez.
+
+Otatea ramirezii Ruiz-Sanchez amended description
+Type:—MÉXICO. Querétaro: 500 m antes de llegar a San Juan Tetla desde El Apartadero, municipio de San
+Joaquín, bosque tropical caducifolio, suelos calizos, 20°58'40.8" N, 99°29'47" W, 1223 m, 10 July 2010, E.
+Ruiz-Sanchez & A. de Nova 304 (holotype: IBUG!; isotypes: IEB!, MEXU!, XAL!).
+OTATEA RAMIREZII (POACEAE: BAMBUSOIDEAE: BAMBUSEAE)
+
+Phytotaxa 150 (1) © 2013 Magnolia Press
+
+• 57
+
+Description:—Rhizomes with necks 5–15 cm long. Culms 2–5 m tall, 0.8–2.5 cm in diameter at base,
+erect; internodes 12–16 cm long, terete, glabrous, green-glaucous and pruinose when young, brownish-yellow
+when old, hollow, the walls 3–5 mm thick, the lacuna occupying < 50% of the total diameter. Culm leaves 12–
+17 cm long, non-overlapping, deciduous; sheaths 10–12 cm long, 3.5–5 cm wide at the base, the blades 1.8–
+4.5 cm long, triangular, erect, abaxially and adaxially glabrous, the margins ciliate when young, glabrous
+when old; inner ligule a coriaceous rim 0.5–1 mm long, irregular, ciliate; oral setae absent; fimbriae at the
+apex of the sheath on both sides of the blade, 1–3 mm long, ca. 0.05 mm wide, terete, free, curly; blades 1.8–
+4.5 cm long, triangular, erect, persistent, shorter than the sheaths, glabrous on both sides, the margin glabrous,
+the apex attenuate-subulate. Branching intravaginal; one main branch per node, if two then the central branch
+3–4 times wider than the lateral branch, sometimes both branches subequal and these diverging from each
+other and rebranching, 33–48 cm long, diverging from the main culm at 45–60o, with only one branch per
+node in the second and third orders of branching; supranodal ridge pronounced; nodal line horizontal. Foliage
+leaves 3–5(–7) per complement; sheaths glabrous, rounded on the back; oral setae absent; fimbriate at
+shoulderlike sheath summit, the fimbriae 1–2 mm long, ca. 0.05 mm in diameter, terete, free, curly; outer
+ligule an irregular glabrous rim up to 0.1 mm long; inner ligule 0.3–0.5 mm long, truncate, ciliate;
+pseudopetioles ca. 1 mm long, brownish, pulvinate at the base; blades (6.5–)8–11(–12.5) cm long, 0.4–0.8(–
+1.2) cm wide, linear to linear-lanceolate, green adaxially and glabrous abaxially, with a patch of white cilia at
+the base extending along one side of the midrib for 2–3 mm, the base attenuate, the apex attenuate-subulate,
+the margins weakly serrulate. Synflorescences 5–9.5 cm long, paniculate, of 6–25 spikelets, the rachis
+rounded, glabrous; pedicels 2–25 mm long, angular, scabrous. Spikelets 2.5–3 cm long, green, with 3–4
+florets, sometimes the upper floret sterile, the basal floret persistent and the two or three florets deciduous;
+rachilla joints 5–7.5 mm long, pubescent, densely pubescent at the apex of each joint; glumes narrowly
+triangular and navicular, abaxially slightly scabrous; glume I 4–8.2 mm long including the awn, 3–5-nerved,
+the awn 1–3 mm long; glume II 5.5–8.5 mm long including the awn, 4–7-nerved, the awn 1–3 mm long;
+lemmas 10–14.5 mm long including the awn, narrowly triangular and navicular, abaxially scabrous, 7–9nerved, the awn 1–4 mm long, antrorsely scabrous; paleas 8–11 mm long, the keels glabrous, the sulcus
+pubescent, the wing glabrous, the apex bifid with antrorsely scabrous teeth. Lodicules 3, abaxially pubescent,
+brownish to the base with the anterior pair 1–1.3 mm long, the posterior one 1–1.2 mm long; anthers 5–6 mm
+long; ovary 1.2–1.8 mm long, green, glabrous. Caryopsis 7.8–8.2 mm long, sublinear, tapering to a narrow
+beak, brown to amber.
+Specimens Examined:—MEXICO. Querétaro: on the El Apartadero road to San Juan Tetla, 6 Km from
+El Apartadero to San Juan Tetla and approx. 500 m before arriving at San Juan Tetla, San Joaquín
+Municipality ,tropical deciduous forest, calcareous soils, 20°58'40.8'' N, 99°29'47'' W, 1250 m, 18 August
+2012, E. Ruiz-Sanchez, L. Pérez & A. Núñez 407a, 407b, 407c, 408, 409, 410, 411, 412 (IEB!).
+Comparison:—On the basis of vegetative morphology Otatea ramirezii is similar to O. acuminata, O.
+carrilloi and O. glauca, but based on flowering characters O. ramirezii is more similar to O. acuminata and O.
+fimbriata. Synflorescence size in O. fimbriata is 10–15 cm long with 30–33 spikelets, whereas in O.
+acuminata the synflorescence size ranges between 6.5–10 cm long with 6–15 spikelets, while the
+synflorescence length in O. ramirezii is 5–9.5 cm with 6–25 spikelets. The average lengths of glumes, lemmas
+and paleas are very similar in O. acuminata and O. ramirezii; the differences are the following: O. acuminata
+has the lemma and palea keels pubescent and the lodicules glabrous with ciliate margins, whereas O. ramirezii
+has the lemma keels scabrous, the palea keels glabrous and pubescent lodicules.
+
+Discussion
+The purposes of botanical gardens include increasing public awareness and promoting research and the
+conservation of plant diversity (Wyse Jackson 1999; Pautasso and Parmentier 2007). Today there are more
+than 3,000 botanical gardens in 156 countries, with over 6 million accessions of living plants, and
+
+58 •
+
+Phytotaxa 150 (1) © 2013 Magnolia Press
+
+RUIZ-SANCHEZ
+
+approximately 80,000 taxa in cultivation (Pautasso and Parmentier 2007; Dosmann and Groover 2012). One
+such garden is the Francisco Javier Clavijero Botanical Garden at the INECOL in Xalapa, Veracruz, Mexico,
+which is home to two living national collections: the national cycad collection and the Mexican national living
+bamboo collection. Living collections are curated for various purposes including scientific education and
+research (Dosmann and Groover 2012). Living collections include germplasm repositories that preserve plant
+genetic resources for research and conservation. There are also experimental research plots, seed banks,
+conservatories, and germplasm repositories for research carried out by universities and research institutions
+(Dosmann and Groover 2012).
+Living collections are important for understanding how plants respond to global climate change because
+they are particularly valuable sources of long-term data (Primack and Miller-Rushing 2009). Researchers at
+botanical gardens can address the question of how long-lived individual plants respond to climate change and
+other environmental stimuli over their lifetimes in terms of physiology, growth, anatomy and phenology
+(Primack and Miller-Rushing 2009).
+It is challenging to study phenology in woody bamboos because their flowering cycles last between 3 and
+120 years (Janzen 1976). Several hypotheses have been invoked to explain this: the predator satiation
+hypothesis (Janzen 1976); the resource allocation hypothesis (Gadgil and Bossert 1970; Schaffer 1974); the
+habitat modification hypothesis (Stearns 1980); and the bamboo fire cycle (Keeley and Bond 1999). Franklin
+(2004) described four spatio-temporal patterns of flowering, in addition to gregarious monocarpy, that have
+been detected among semelparous bamboos:
+1. A small percentage of clumps flower the year (or two) before and after the main flowering event, and
+this is called “flowering distribution” by Janzen (1976);
+2. Gregarious flowering occurs in patches in successive years, referred to as a “flowering wave” by Troup (1921);
+3. Variation in periodicity between populations leads to diffuse temporality within a species;
+4. “Sporadic flowering” may imply random or other non-gregarious patterns of flowering (Franklin 2004).
+In Otatea acuminata the first and third patterns have been observed (Ruiz-Sanchez et al. 2011). For O.
+fimbriata the second pattern has been observed in Chiapas (personal observation), and a specimen collected
+there in 2005 was planted in the living national bamboo collection. In 2008 the cultivated plant flowered and
+flowering was verified the same year in the field. For O. ramirezii, I observed a few clumps in the living
+collection that had flowered in 2011, because we saw dead or dying clumps and a few new seedlings in the
+soil, directly beneath the potential mother. Then, in the summer of 2012, I saw the entire wild population
+flowering gregariously. These field observations agree with the pattern of Janzen’s (1976) “flowering
+distribution”. For O. glauca we observed the fourth pattern of “sporadic flowering”. We collected only a
+single plant with flowers in 2005 in Chiapas and the rest of the clumps were sterile. On subsequent visits to
+the population we did not observe any other clump flowering.
+Without the living national bamboo collection, it would have been difficult to observe the flowering of
+Otatea ramirezii; the flowering of O. ramirezii in the living collection allowed us to confirm flowering in the
+wild population. To date, there are still two Otatea species for which the flowers have not been described: O.
+carrilloi and O. transvolcanica. The latter is under cultivation in the collection and hopefully will be observed
+flowering in the years to come. We will then have the opportunity to confirm its flowering in the field.
+Another advantage of having the living national bamboo collection is that over time, we can determine the
+flowering cycles of O. ramirezii and other species living in the collection for which flowering cycle records
+are not currently available.
+
+Acknowledgments
+I want to thank Laura Pérez and Alejandro Núñez for their assistance during the fieldwork, Lynn Clark for
+suggestions that greatly improved the manuscript and Bianca Delfosse for editing the English version of this
+manuscript. I am particularly grateful to Alfonso Barbosa for his excellent illustrations. Emmet Judziewicz
+and one anonymous reviewer provided constructive suggestions that improved the manuscript.
+OTATEA RAMIREZII (POACEAE: BAMBUSOIDEAE: BAMBUSEAE)
+
+Phytotaxa 150 (1) © 2013 Magnolia Press
+
+• 59
+
+References
+Calderón, C.E. & Soderstrom, T.R. (1980) The genera of Bambusoideae (Poaceae) of the American Continent; keys and
+comments. Smithsonian Contribution to Botany 44: 1–27.
+Clark, L.G. & Cortés, G. (2004) A new species of Otatea from Chiapas, Mexico. Bamboo Science and Culture 18: 1–6.
+Cortés Rodríguez, G.R. (2000) Los bambúes nativos de México. CONABIO. Biodiversitas 30: 12–15.
+Dosmann, M. & Groover, A. (2012) The importance of living botanical collections for plant biology and the “next
+generation” of evo-devo research. Frontiers in Plant Sciences 3: 1–5.
+Franklin, D.C. (2004) Synchrony and asynchrony: observations and hypotheses for the flowering wave in a long-lived
+semelparous bamboo. Journal of Biogeography 31: 773–778.
+http://dx.doi.org/10.1111/j.1365-2699.2003.01057.x
+Gadgil, M., & Bossert, W.H. (1970) Life historical consequences of natural selection. American Naturalist 104: 1–24.
+http://dx.doi.org/10.1086/282637
+Guzmán, R., Anaya, M.C. & Santana, M. (1984) El género Otatea (Bambusoideae), en México y Centroamérica. Boletín
+del Instituto de Botánica Universidad de Guadalajara 5: 2–20.
+Janzen, D.H. (1976) Why bamboos wait so long to flower. Annual Review of Ecology and Systematics 7: 347–391.
+http://dx.doi.org/10.1146/annurev.es.07.110176.002023
+Judziewicz, E.J., Clark, L.G., Londoño, X. & Stern, M.J. (1999) American Bamboos. Smithsonian Institution Press,
+Washington DC, 392 pp.
+Keeley, J.E. & Bond, W.J. (1999) Mast flowering and semelparity in bamboos: the bamboo fire cycle hypothesis.
+American Naturalist 154: 383–391.
+http://dx.doi.org/10.1086/303243
+McClure, F.A. (1973) Genera of bamboos native to the New World (Gramineae: Bambusoideae). Smithsonian
+Contribution to Botany 9: 1–148.
+http://dx.doi.org/10.5479/si.0081024X.9
+McVaugh, R. (1983) Gramineae. In: Anderson, W. R. (ed.) Flora Novo-Galiciana: A descriptive account of the vascular
+plants of Western Mexico. The University of Michigan Press, Ann Arbor, Michigan, pp. 1–223.
+Munro, W. (1868) A monograph of the Bambusaceae, including descriptions of all the species. Transactions of the
+Linnean Society of London 26: 1–157.
+http://dx.doi.org/10.1111/j.1096-3642.1968.tb00502.x
+Pautasso, M. & Parmentier, I. (2007) Are the living collections of the world’s botanical gardens following speciesrichness patterns observed in natural ecosystems? Botanica Helvetica 117: 15–28.
+http://dx.doi.org/10.1007/s00035-007-0786-y
+Primack, R.B. & Miller-Rushing, A.J. (2009) The role of botanical gardens in climate change research. New Phytologist
+182: 303–313.
+http://dx.doi.org/10.1111/j.1469-8137.2009.02800.x
+Ruiz-Sanchez, E. (2012) A new species of Otatea (Poaceae: Bambusoideae: Bambuseae) from Queretaro, Mexico. Acta
+Botánica Mexicana 99: 21–29.
+Ruiz-Sanchez, E. & Clark, L.G. (2013) Two new species of Chusquea (Poaceae: Bambusoideae: Bambuseae) from
+Mexico, one of them morphologically unusual, and a key to the Mexican sections of Chusquea. Phytotaxa 92: 1–12.
+http://dx.doi.org/10.11646/phytotaxa.92.1.1
+Ruiz-Sanchez, E., Sosa, V., Mejía-Saulés, M.T., Londoño, X. & Clark. L.G. (2011) A taxonomic revision of Otatea
+(Poaceae: Bambusoideae: Bambuseae) including four new species. Systematic Botany 36: 314–336.
+http://dx.doi.org/10.1600/036364411X569516
+Ruiz-Sanchez, E., Sosa, V. & Mejía-Saulés, M.T. (2011a) Molecular phylogenetics of the Mesoamerican bamboo
+Olmeca (Poaceae: Bambuseae): Implications for taxonomy. Taxon 60: 89–98.
+Schaffer, W.M. (1974) Optimal reproductive effort in fluctuating environments. American Naturalist 103: 783–790.
+http://dx.doi.org/10.1086/282954
+Stearns, S.C. (1980) A new view of life-history evolution. Oikos 35: 266–281.
+http://dx.doi.org/10.2307/3544434
+Troup, R.S. (1921) The silviculture of Indian trees. Volume III. Lauraceae to Coniferae. Clarendon, Oxford,pp. 785–
+1172.
+Wyse Jackson, P.S. (1999) Experimentation on a large scale: an analysis of the holdings and resources of botanic
+gardens. Botanic Gardens Conservation News 3: 27–32.
+
+60 •
+
+Phytotaxa 150 (1) © 2013 Magnolia Press
+
+RUIZ-SANCHEZ
+
+

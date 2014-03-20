@@ -1,0 +1,286 @@
+Phytotaxa 156 (5): 279–284
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.156.5.3
+
+Thelypteris indusiata (Thelypteridaceae), a new fern species from Amazonian
+Brazil
+ALEXANDRE SALINO, MARIA GABRIELA MARQUES DE SOUZA & ANDRÉ JARDIM ARRUDA
+Universidade Federal de Minas Gerais, Instituto de Ciências Biológicas, Departamento de Botânica, Caixa Postal 486, 30123-970,
+Belo Horizonte, Minas Gerais, Brazil.
+Email: salinobh@gmail.com, salino@icb.ufmg.br
+
+Abstract
+Thelypteris indusiata is described as a new species from Amazonian Brazil. This species with 1-pinnate laminae and
+terminal pinnae that resemble lateral ones belongs to Thelypteris subgenus Goniopteris and resembles several other
+species, mainly T. poiteana, T. ghiesbreghtii, T. vivipara and T. platypes, but differs from these species mainly by the
+venation pattern and the indusiate sori.
+Key words: Ferns, Goniopteris, Pará state, Brazil, Carajás Range
+
+Introduction
+During a pteridophyte floristic survey at Carajás National Forest in Pará State, northern Brazil, five new species
+were discovered. Three of them have been described elsewhere (Dittrich et al. 2012, Salino et al. 2011), one
+species of Isoetes will be further described, and one species of Thelypteris is described here. This species belongs
+to subg. Goniopteris (Presl 1836: 181) Duek (1971:720), which has long been recognized as a natural group
+(Christensen 1913, Mickel & Smith 2004, Smith 1983, 1990, 1992, 1993, 1995 a, b, Tryon & Tryon 1982). Recent
+molecular phylogenetic analyses supported Goniopteris as a monophyletic group (Smith & Cranfill 2002,
+Schuettpelz & Pryer 2007, Alvarez-Fuentes 2010, He & Zhang 2012). However, sampling of Goniopteris to date
+has been sparse, and infrageneric treatments of Thelypteris sensu lato are in flux (Smith et al. 2006). The presence
+of furcate or stellate hairs is a useful diagnostic for Goniopteris (Salino 2002); however, some species lack these
+hairs (Smith 1992). Goniopteris is a Neotropical group of about 115–120 species, of which 36 occur in Brazil (A.
+Salino, unpublished data). In addition to the new species described here, nine other species of subg. Goniopteris
+occur in Amazonian Brazil: Thelypteris abrupta (Desvaux 1827: 239) Proctor (1959 [1960]: 306), T. amazonica
+Salino & Fernandes (2011: 611), T. biformata (Rosenstock 1909: 300) Tryon (1967: 5), T. biolleyi (Christ 1901: 31)
+Proctor (1953: 58), T. juruensis (Christensen 1913: 256) Tryon & Conant (1975: 33), T. pennata (Poiret 1804: 535)
+Morton (1967: 64), T. poiteana (Bory 1826: 233) Proctor (1953: 63), T. tetragona (Swartz 1788: 132) Small (1938:
+256) and T. tristis (Kunze 1834: 47) Tryon (1967: 8).
+
+Materials & Methods
+Specimens of all mentioned species of Thelypteris subg. Goniopteris including the type specimens and additional
+material from the following herbaria were studied: B, BM, COAH, COL, F, FI, GH, HB, HUA, IAN, JAUM, K,
+MEDEL, MG, MO, NY, P, PI, PMA, Q, QCA, QCNE, QPLS, RB, S, STRI, UC, and US. The morphological
+terminology used in the description follows Lellinger (2002). For SEM images, samples of spores and leaves were
+transferred from herbarium specimens to aluminum SEM stubs coated with double-sided carbon tape. The stubs
+were then coated with gold in a sputter-coater, and were imaged digitally using a FEI Quanta 200 SEM at an
+accelerating voltage of 30 kV.
+
+Accepted by Marcus Lehnert: 10 Dec. 2013; published: 28 Jan. 2014
+
+279
+
+Taxonomy
+Thelypteris indusiata Salino, sp. nov. (Figs. 1, 2, 3)
+Thelypteris indusiata is most similar to T. poiteana, T. ghiesbreghtii (Hooker 1846: 3) Morton (1967: 45), Thelypteris vivipara
+(Raddi 1825: 32) Reed (1968: 324), and T. platypes (Fée 1869: 106) Ponce (2007: 319) with which it shares the 1-pinnate
+lamina with terminal pinna that resembles that lateral ones and pinnae entire or very shallowly lobed. It differs from these
+species mainly by the indusiate sori and free venation.
+Type:—BRAZIL. Pará: Canaã dos Carajás, Floresta Nacional de Carajás, Serra do Tarzan, 6°18’47” S, 50° 10’40”W, 10
+February 2012, A. Salino 15156, L.C.S. Vianna, A.J. Arruda, L.F.A. de Paula, T. Alves & M. Gontijo (holotype BHCB,
+isotypes BM, MG, UC).
+
+Plants terrestrial. Stems decumbent to erect, scales lanceolate, castaneous, with furcate and stellate hairs. Leaves
+clustered, 21–88 cm long, monomorphic; petioles sulcate adaxially, 11–56 cm long, 0.8–2.8 mm diameter, scaly at
+base, scales like those of stems, pilose with stellate and furcate hairs. Laminae 10–32 cm long, triangular to oblong,
+herbaceous to papyraceous, not verrucose, 1-pinnate or rarely 1-pinnate-pinnatifid, with conform (pinna-like) apex;
+buds or plantlets absent; aerophores absent; rachises pilose with a mixture of long simple hairs (0.4–0.8 mm) and
+short simple, furcate and stellate hairs (0.09–0.26 mm); pinnae 1–4(–5) pairs, 4–17 × 1.8–4.0 cm, perpendicular to
+ascending, the proximal pair usually deflexed, oblong to ovate, sessile to short-stalked to 2.7 mm, apex acute to
+acuminate, base obtuse, excavate or cuneate; pinnae with entire to crenate margins or rarely incised to 1/3 of their
+width; costae, costules and veins adaxially, pilose with simple hairs 0.09–0.30(–0.80) mm long, laminar surface
+adaxially glabrous; costae, costules and veins abaxially with a mixture of simple unicellular to multicellular long
+hairs 0.4–0.6 mm and simple unicellular short hairs 0.09–0.20 mm, laminar surface abaxially with simple
+unicellular hairs 0.10–0.25(–0.80) mm; segments, if present, 3.3–5.2 mm wide, entire, rounded apically; veins 3–8
+pairs per segment, unbranched, all veins ending below the margins or sinuses, free, rarely one proximal or medial
+pair united below the sinus, distal vein of proximal pair arising from costule. Sori round, medial; indusia
+conspicuous, round or round-reniform, castaneous, entire, margins pilose with long simple hairs (0.25–0.40 mm
+long); sporangia glabrous; spores monolete, elipsoidal, perispore with prominent, fimbriate wings (Fig. 3).
+Distribution and habitat:—Thelypteris indusiata is know only from Pará state, northern Brazil, where grows
+in Amazonian rainforests usually on hillsides or along trails at 300–520 m, mainly in the Serra dos Carajás
+National Forest with only two collections outside this region.
+Etymology:—The epithet refers to the conspicuous indusia.
+Additional specimens examined (paratypes):—BRAZIL. Pará: Alenquer, Estação Ecológica do Grão-Pará,
+12 June 2008, J.M. Costa 684 (BHCB); Belterra, 30 July 1947, G. Black 47-1130 (IAN); Canaã dos Carajás,
+Floresta Nacional de Carajás, Corpo S11D, 6°24’24”S, 50°14’57”W, 391 m, 27 April 2012, T.E. Almeida et al. 2337
+(BHCB); estrada para a Serra Sul, 6°16’19”S, 50°18’40”W, 380 m, 28 August 2012, A. Salino et al. 15501 (BHCB,
+MG, VALE), 6°18’57”S, 50°10’39”W, 580 m, 16 Dec 2012, A. Salino et al. 15579 (BHCB); Parauapebas, Floresta
+Nacional de Carajás, Corpo N1, 6° 02’14” S, 50° 15’55”W, 520 m, 14 February 2012, A. Salino et al. 15195
+(BHCB).
+Notes:—Thelypteris indusiata is most similar to T. poiteana (Mexico, Central America, Antilles and South
+America to Brazil), T. ghiesbreghtii (Mexico and Central America), Thelypteris vivipara (Southeastern Brazil), and
+T. platypes (Southeastern Brazil) in having 1-pinnate laminae with conform, pinnule-like apices and entire to
+shallowly lobed pinnae. However, it differs from these species mainly by the indusiate sori and free venation.
+Thelypteris poiteana has exindusiate sori, usually setose sporangia and anastomosing venation with 3–9 areoles
+between the costa and pinnae margins. The exindusiate Thelypteris ghiesbreghtii has similarly anastomosing veins
+but lacks branched or stellate trichomes on the sporangia. Thelypteris vivipara and T. platypes also differs from T.
+indusiata by having creeping stems, veins and lamina surface glabrous abaxially, buds present on adaxial side of
+distal pinnae, anastomosing veins with 1–3 vein-pairs united before margins (always forming a costal areolae), and
+exindusiate sori. Some specimens of T. indusiata are slightly similar to T. juruensis (French Guiana, Ecuador, Peru,
+Bolivia, and Amazonian Brazil), however T. juruensis differs by having both surfaces of the veins glabrous, the
+distal vein of proximal pair arising from the costa and absent or minute indusia. Thelypteris rolandii (Christensen
+1913: 258) Tryon (1967: 8) from Nicaragua, Haiti, Jamaica, Lesser Antilles, Venezuela and Ecuador is also slightly
+similar to T. indusiata, however, T. rolandii has 2–3 anastomosing vein pairs, exindusiate sori and sporangial
+capsules with acicular hairs. Thelypteris indusiata occurs sympatrically with eight Goniopteris species, T. abrupta,
+T. amazonica, T. biolleyi, T. lugubriformis, T. pennata, T. poiteana, T. tetragona and T. tristis.
+
+280 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+SALINO ET AL.
+
+FIGURE 1. Thelypteris indusiata. A. Habit. B. Detail of the abaxial side of pinna from a specimen with short hairs. C. Detail of the
+abaxial side of pinna from a specimen with long hairs. D. Abaxial side of the rachis and pinna base from collection with long hairs. E.
+Abaxial side of the rachis and pinna base from collection with long hairs. F. Detail of the sorus with pilose indusia. (A–B, F from
+Salino et al. 15156, BHCB; C–E. from Salino et al. 15195, BHCB).
+
+THELYPTERIS INDUSIATA, A NEW FERN SPECIES FROM BRAZIL
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 281
+
+FIGURE 2. Thelypteris indusiata. A. Plant growing inside forest at Carajás National Park. B. Abaxial side of a medial pinna. C.
+Adaxial side of a distal pinna.
+
+FIGURE 3. Thelypteris indusiata. Scanning electron micrographs of hairs, sorus and spores. A. Hairs of the abaxial side of rachis. B.
+Sorus with pilose indusium. C. Spore. D. Spore. (All from Black 47-1130, IAN).
+
+282 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+SALINO ET AL.
+
+Key to species of Thelypteris subg. Goniopteris from Amazonian Brazil
+1.
+–.
+2.
+–.
+
+3.
+–.
+4.
+–.
+5.
+–.
+6.
+–.
+7.
+–.
+8.
+–.
+9.
+–.
+
+Costules and veins on abaxial side with sessile stellate hairs ............................................................................................... 2
+Costules and veins on abaxial side glabrous or with acicular hairs ..................................................................................... 3
+Lamina gradually reduced into a pinnatifid apex; proximal pair of veins from adjacent segments uniting below the sinus to
+an excurrent vein and the next pair running at or above the sinus ...........................................................................T. biolleyi
+Lamina with terminal pinna that resembles a lateral one (conform apex); proximal pair of veins from adjacent segments
+uniting below the sinus to an excurrent vein, with the next 1–2 pairs either joining the excurrent vein below the sinus or
+running directly to sinus ..........................................................................................................................................T. pennata
+Veins anastomosing, forming 3–9 series of areoles between costa and margin or sinus; pinnae crenate or very shallowly
+lobed less than 1/5 the distance to costae; sori exindusiate ....................................................................................T. poiteana
+Veins free or rarely anastomosing, forming 1–2 areoles series between costa and margin or sinus; pinnae shallowly to
+deeply lobed, 1/3 or more (if rarely shallowly lobed less than 1/5 then sori indusiate); sori indusiate or exindusiate ......... 4
+Proximal pairs of veins from adjacent segments uniting below the sinus to an excurrent vein to sinus; sori exindusiate; sporangia with simple acicular hairs on the capsules and stalks ............................................................................... T. tetragona
+Proximal pairs of veins from adjacent segments uniting at the sinus or ending blindly below the sinus, without excurrent
+vein; sori indusiate, rarely exindusiate; sporangia glabrous or with hairs only on sporangial stalks (in T. abrupta) ........... 5
+Lamina gradually narrowed distally into a pinnatifid apex .................................................................................... T. abrupta
+Lamina with terminal pinna resembling a lateral one (conform apex), rarely subconform apex .......................................... 6
+Veins glabrous on both surfaces; distal vein of proximal pair arising from costa; indusia absent or minute .......T. juruensis
+Veins with hairs on both surfaces, rarely glabrous; distal vein of proximal pair arising from costule; indusia conspicuous 7
+Pinnae 2–4(–5) pairs; pinnae usually entire with crenate margins, rarely incised to 1/3 their width; buds or plantlets absent
+................................................................................................................................................................................T. indusiata
+Pinnae 7–18 pairs; pinnae incised 1/3–3/4 of their width; buds or plantlets usually present in axils of distal pinnae .......... 8
+Proximal pinnae with short- to long-cuneate bases; abaxial surface of costae glabrous or with sparsely acicular hairs, and a
+few furcate hairs ......................................................................................................................................................... T. tristis
+Proximal pinnae with truncate or oblique bases; abaxial surface of costae moderately to densely pilose with a mixture of
+acicular, furcate and stellate hairs .......................................................................................................................................... 9
+Segments with 6–9 vein pairs, proximal 1–2 pairs from adjacent segments ending well below the sinus; veins usually with
+clavate apices ...................................................................................................................................................... T. amazonica
+Segments with 10–20 vein pairs, proximal 1–2 pairs from adjacent segments connivent to sinus; veins without clavate apices .........................................................................................................................................................................T. biformata
+
+Acknowledgements
+The authors thank CNPQ (Conselho Nacional de Desenvolvimento Científico e Tecnológico) for the research
+fellowship grants (302594/2005-1, 303581/2008-5, 308520/2011-4 and 508742/2010-2) and financial support
+(563568/2010-0 and 475096/2012-6), Myrian Morato Duarte for the botanical illustration, and Thais Elias Almeida
+for critical reading and suggestions. We also thank Golder Associates and Vale for facilitating the field trip to the
+Carajás Range, and the curators of all herbaria cited.
+
+References
+Alvarez-Fuentes, O. (2010) The systematics of the genus Amauropelta (Pteridophyta: Thelypteridaceae) in the Caribbean
+islands. PhD Thesis, Michigan State University, 361 pp.
+Bory, J.B.G.G.M. (1826) Lastrée. Dictionnaire Classique d'histoire Naturelle 9: 232–234.
+Christ, H. (1901) Filices. Primitiae Florae Costaricensis 3: 1–69.
+http://dx.doi.org/10.5962/bhl.title.51686
+Christensen, C. (1913) A monograph of the genus Dryopteris, Part I. The tropical American pinnatifid-bipinnatifid species.
+Kongelige Danske Videnskabernes Selskabs Skrifter Naturdidenskabeliger og Mathematisk Afdeling 10: 55–282.
+Desvaux, A.N. (1827) Prodrome de la famille des fougères. Mémoires de la Société linnéenne de Paris 6: 171–337.
+Dittrich, V.A.O., Salino, A. & Almeida, T.E. (2012) Two species of the fern genus Blechnum with partially anastomosing veins
+from northern Brazil. Systematic Botany 37: 38–42.
+http://dx.doi.org/10.1600/036364412x616602
+Duek, J.J. (1971 [1972]) Lista de lase species Cubanas de Lycopodiophyta, Psilotophyta, Equisetophyta y Polypodiophyta
+(Pteridophyta) 2a. Partie. Adansonia 11 (4): 717–731.
+Fée, A.L.A. (1869) Cryptogames Vasculaires du Brésil. Veuve Berger-Levrault & Fils, Lybraires, Paris, 346 pp.
+
+THELYPTERIS INDUSIATA, A NEW FERN SPECIES FROM BRAZIL
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+• 283
+
+He, L.J. & Zhang, X.C. (2012) Exploring generic delimitations within the fern family Thelypteridaceae. Molecular
+Phylogenetics and Evolution 65: 757–764.
+http://dx.doi.org/10.1016/j.ympev.2012.07.021
+Hooker, W.J. (1864) Species Filicum. Dulau & Co., London, 364 pp.
+Kunze, G. (1834) Synopsis plantarum cryptogamicarum ab Eduardo Poeppig in Cuba insula et in America meridionali
+collectarum. Linnaea 9: 1–111.
+http://dx.doi.org/10.5962/bhl.title.51054
+Lellinger, D.B. (2002) A Modern Multilingual Glossary for Taxonomic Pteridology. Pteridologia 3: 1–263.
+Mickel, J.T. & Smith, A. (2004) The Pteridophytes of Mexico. Memoirs of the New York Botanical Garden 88: 1–1054.
+Morton, C.V. (1967) Studies in the fern types. Contributions from the United States National Herbarium 38: 29–83.
+Poiret, J.L.M. (1804) Encyclopédie Méthodique, Botanique Tomo 5: 1–748.
+http://dx.doi.org/10.5962/bhl.title.49178
+Ponce, M.M. (2007) Sinopsis de las Thelypteridaceae de Brasil central y Paraguay. Hoehnea 34(3): 282–333.
+http://dx.doi.org/10.1590/s2236-89062007000300003
+Presl, C.B. (1836) Tentamen Pteridographiae seu Genera Filicacearum Praesertim Justa Venarum Decursum Distributionem
+Exposita. T. Haase, Prague, 256 pp.
+http://dx.doi.org/10.5962/bhl.title.47011
+Proctor, G.R. (1953) A preliminary checklist of Jamaican pteridophytes. Bulletin of the Institute of Jamaica, Science Series 5:
+1–89.
+Proctor, G. (1959) New combinations in Thelypteris. Rhodora 61: 305–306.
+Raddi, G. (1825) Plantarum brasiliensium nova genera et species novae, vel minus cognitae. Pars I / collegit, et descripsit
+Iosephus Raddius. A. Pezzati, Florence, 101 pp.
+Reed, C.F. (1968) Index Thelypteridis. Phytologia 17: 249–368.
+Rosenstock, E. (1909) Filices Spruceanae adhuc nondum descriptae. Repertorium Specierum Novarum Regni Vegetabilis 7:
+289–310.
+http://dx.doi.org/10.1002/fedr.4870071902
+Salino, A. (2002) New species and combinations in Thelypteris subg. Goniopteris (Thelypteridaceae). Brittonia 54: 331–339.
+http://dx.doi.org/10.1663/0007-196x(2003)54[331:nsacit]2.0.co;2
+Salino, A., Fernandes, R.S. & Pietrobom, M.R. (2011) Thelypteris amazonica sp. nov. (Thelypteridaceae) from Amazonian
+Brazil. Nordic Journal of Botany 29: 1–4.
+http://dx.doi.org/10.1111/j.1756-1051.2011.01332.x
+Schuettpelz, E. & Pryer, K.M. (2007) Fern phylogeny inferred from 400 leptosporangiate species and three plastid genes. Taxon
+56: 1037–1050.
+http://dx.doi.org/10.2307/25065903
+Small, J.K. (1938) Ferns of the Southeastern States: descriptions of the fern-plants growing naturally in the states south of the
+Virginia-Kentucky state line and east of the Mississippi River. The Science Press Printing Co., Lancaster, 517 pp.
+Smith, A.R. (1983) Polypodiaceae – Thelypteridoideae. In: Harling, G. & Sparre, B. (Eds.) Flora of Ecuador 18: 18–148.
+Smith, A.R. (1990) Thelypteridaceae. In: Kramer, K.U. & Green, P.S. (Vol. Eds.) Pteridophytes and Gymnosperms, pp. 263–
+272 In: Kubitzki, K. (Ed.) The Families and Genera of Vascular Plants, vol. 1. Springer Verlag, Berlin.
+Smith, A.R. (1992) Thelypteridaceae. In: Tryon, R.M. & Stolze, R.G. (Eds). Pteridophyta of Peru. Part III. Fieldiana Botany,
+n.s. 29: 1–80.
+Smith, A.R. (1993) Thelypteridaceae. In: Görts-Van Rijn, A.R.A. (Ed.). Flora of the Guianas 6: 77–126.
+Smith, A.R. (1995a) Thelypteridaceae. In: Davidse, G. (Ed.). Flora Mesoamericana. Psilotaceae a Salviniaceae, p.164–195.
+Universidad Nacional Autónoma de México. México, D.F.
+Smith, A.R. (1995b) Thelypteridaceae. In: Berry, P.E., Holst, B.K. & Yatskievych, K. (Eds.). Flora of the Venezuelan Guayana
+- Pteridophytes and Spermatophytes (Acanthaceae-Araceae), p. 315–326. Missouri Botanical Garden & Timber Press,
+Portland.
+Smith, A.R. & Cranfill, R.B. (2002) Intrafamilial relationships of the thelypteroid ferns. American Fern Journal 92: 131–149.
+http://dx.doi.org/10.1640/0002-8444(2002)092[0131:irottf]2.0.co;2
+Smith, A.R., Pryer, K.M., Schuettpelz, E., Korall, P., Schneider, H. & Wolf, P.G. (2006) A classification for extant ferns. Taxon
+55(3): 705–731.
+http://dx.doi.org/10.2307/25065646
+Swartz, O.P. (1788) Nova Genera & Species Plantarum Prodromus. M. Swederi, Stockholm, 152 pp.
+Tryon, R.M. (1967) Taxonomic fern notes V. New combinations in Peruvian species of Thelypteris. Rhodora 69: 5–8.
+Tryon, R.M. & Conant, D.S. (1975) The ferns of Brazilian Amazonia. Acta Amazonica 5(1): 23–34.
+Tryon, R.M. & Tryon, A.F. (1982) Fern and allied plants, with special reference to Tropical America. Springer Verlag, New
+York, 857 pp.
+
+284 •
+
+Phytotaxa 156 (5) © 2014 Magnolia Press
+
+SALINO ET AL.
+
+

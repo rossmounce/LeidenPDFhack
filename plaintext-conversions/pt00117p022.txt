@@ -1,0 +1,959 @@
+Phytotaxa 117 (1): 11–22 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.117.1.2
+
+Taxonomic reexamination of Portulaca okinawensis (Portulacaceae) in
+the Ryukyu Archipelago of Japan based on molecular and morphological data
+GORO KOKUBUGATA1*, KOH NAKAMURA2, YUMIKO HIRAYAMA1 & MASATSUGU YOKOTA3
+1
+
+Department of Botany, National Museum of Nature and Science, Tsukuba, Ibaraki 305-0005, Japan; e-mail: gkokubu@kahaku.go.jp
+Biodiversity Research Center, Academia Sinica, Nangang, Taipei 115, Taiwan.
+3
+Laboratory of Ecology and Systematics, Faculty of Science, University of the Ryukyus, Senbaru 1, Nishihara, Okinawa 903-0213,
+Japan.
+*
+author for correspondence
+2
+
+Abstract
+We used molecular phylogenetic and morphological data to reexamine the taxonomic status of Portulaca okinawensis (
+P. pilosa subsp. okinawensis) endemic to the central Ryukyu islands, southwestern Japan. Our molecular analyses
+showed that P. okinawensis is monophyletic, sister to the clade of P. psammotropha and P. tuberosa and it is not closely
+related to P. pilosa subsp. pilosa. Two subclades, one comprising plants from the Okinawa Islands and the other from the
+Amami Islands, were recognized. The plants from the Okinawa Islands had more than 20 stamens, orange-yellow
+nallowly obovate to oblanceolate petals, and reddish-green stems (as the holotype), while the plants from the Amami
+Islands had less than 20 stamens, lemon-colored obovate petals, and bright-green stems. The molecular and
+morphological data support a taxonomic treatment of Walker & Tawada (1951) regarding P. okinawensis as a separate
+species, also suggesting that the plants from the Amami and Okinawa islands should be treated as different taxa. A new
+variety Portulaca okinawensis var. amamiensis was here described.
+
+≡
+
+Key words: ITS phylogeny, Japan, morphological data, new taxon, Portulaca pilosa, Ryukyu Islands
+
+Introduction
+Portulacaceae Juss. is a monotypic family including only Portulaca Linnaeus (1753: 445) (Nyffeler & Eggli
+2010). Portulaca includes over 100 species of annuals and perennials and is distributed worldwide (mostly in
+the tropics and subtropics) with the center of species diversity in South America and Africa (Ocampo &
+Columbus 2012). The Ryukyu Archipelago (the Ryukyus) is located between the Kyushu Island (Japan) and
+Taiwan, and comprises about 140 islands (Fig. 1). Three native Portulaca species have been reported in the
+Ryukyus (Walker 1976, Shimabuku 1997): the pantropical P. oleracea Linnaeus (1753: 445) from most of the
+islands, P. quadrifida Linnaeus (1767: 328) distributed in tropical Asia and Africa but collected only once in
+Ikei-jima Island being an islet of the Okinawa Islands, and P. okinawensis Walker & Tawada (1951: 138) [ P.
+pilosa Linnaeus (1753:445) subsp. okinawensis (Walker & Tawada) Geesink (1969: 298)]. P. okinawensis was
+described by Walker & Tawada (1951) on a specimen collected from Okinawa Island. This taxon rarely occurs
+on coastal rocky slopes in the Amami Islands and the Okinawa Islands, and is a critically threatened species in
+a Japanese red list (Japanese Ministry of Environment 2012).
+Portulaca okinawensis is considered to be endemic to the central Ryukyus that consisted of the Okinawa
+and Amami islands (Fig. 1; Hotta 2004, Shinjo & Shinzato 2006). Geesink (1969) recognized P. okinawensis
+as subspecies of P. pilosa based on the leaf morphology. Portulaca pilosa subsp. pilosa is native to South
+America and widely naturalized in the tropics and subtropics (PIER 2013) including the Ryukyus (Hatusima
+1975). The taxonomic concept of Walker & Tawada (1951) was accepted by Momiyama (1982) and Akiyama
+
+≡
+
+Accepted by Duilio Iamonico: 17 June 2013; published: 15 July 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+11
+
+(2006), while that of Geesink (1969) was accepted by Hatusima (1975) and Hatusima & Amamo (1994).
+Here, we tentatively used the name P. okinawensis and later discuss its taxonomy and proper name based on
+our resultant phylogeny.
+Aiming to clarify the taxonomic status of P. okinawensis, we carried out molecular phylogenetic analyses
+of nuclear ribosomal DNA (ITS). Furthermore, we studied intraspecific taxonomy of P. okinawensis based on
+a morphological approach and the ITS-sequence polymorphisms to properly understand the floristic
+biodiversity of the Ryukyus and to benefit conservation activities for this critically endangered species.
+
+Materials and Methods
+Molecular analyses
+DNA sample collection
+Samples of P. okinawensis from 12 localities (two samples per locality) in six central Ryukyus islands were
+collected and analyzed: Amami Island (4 localities) and Tokuno-shima Island (1) in Amami Islands; Okinawa
+Island (4), Geruma Island (1), Aka Island (1) and Tonaki Island (1) in Okinawa Islands (Fig. 1; Table 1). A
+collection locality in Onna of Okinawa Island (OK2 in Table 1 and Fig. 1) is the locus classicus of P.
+okinawensis.
+
+FIGURE 1. Map of the Ryukyus showing 12 localities on six islands of Portulaca okinawensis and four localities of P. psammotropha
+in Taiwan. Broken lines circle the islands of the Amami Islands and the Okinawa Islands (see Table 1 for abbreviations for collection
+localities).
+
+12 •
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+KOKUBUGATA ET AL.
+
+TAXONOMIC REEXAMINATION OF PORTULACA OKINAWENSIS
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 13
+
+Portulaca oleracea L.
+Portulaca psammotropha Hance
+
+Taxon
+Portulaca okinawensis Walker & Tawada
+
+Collection number (Herbarium)
+G.Kokubugata15434 (TNS)
+G.Kokubugata15435 (TNS)
+G.Kokubugata11096 (TNS)
+G.Kokubugata11097 (TNS)
+G.Kokubugata15197 (TNS)
+G.Kokubugata15198 (TNS)
+G.Kokubugata11081 (TNS)
+G.Kokubugata11082 (TNS)
+G.Kokubugata12141 (TNS)
+G.Kokubugata12142 (TNS)
+G.Kokubugata12873 (TNS)
+G.Kokubugata12874 (TNS)
+G.Kokubugata9988 (TNS)
+G.Kokubugata9989 (TNS)
+G.Kokubugata12887 (TNS)
+G.Kokubugata12888 (TNS)
+G.Kokubugata12868 (TNS)
+G.Kokubugata12869 (TNS)
+G.Kokubugata15162 (TNS)
+G.Kokubugata15164 (TNS)
+G.Kokubugata15167 (TNS)
+G.Kokubugata15168 (TNS)
+G.Kokubugata13068 (TNS)
+G.Kokubugata13069 (TNS)
+K.Nakamura21011273 (HAST)
+K.Nakamura10456 (HAST)
+K.Nakamura10457 (HAST)
+G.Kokubugata13338 (TNS)
+G.Kokubugata13340 (TNS)
+K.Nakamura21011269 (HAST)
+K.Nakamura21011271 (HAST)
+Taiwan, Taitung, Lanyu Isl. (2).
+
+Taiwan, Miaoli, Hsiao-liuqie Isl.
+
+Taiwan, Taitung, Lanyu Isl. (1).
+Taiwan, Pingtung, Hengchun.
+
+Japan, Ryukyus, Okinawa Group, Okinawa Isl., Tonaki Isl. (TN)
+
+Japan, Ryukyus, Okinawa Group, Geruma Isl. (GR)
+
+Japan, Ryukyus, Okinawa Group, Aka Isl. (AK).
+
+Japan, Ryukyus, Okinawa Group, Okinawa Isl., Yomitan (OK4).
+
+Japan, Ryukyus, Okinawa Group, Okinawa Isl., Onna (OK3).
+
+Japan, Ryukyus, Okinawa Group, Okinawa Isl., Onna (OK2).
+
+Japan, Ryukyus, Okinawa Group, Okinawa Isl., Onna (OK1).
+
+Japan, Ryukyus, Amami Group, Tokuno-shima Isl., Amagi (TK).
+
+Japan, Ryukyus, Amami Group, Amami Isl., Uken (AM4).
+
+Japan, Ryukyus, Amami Group, Amami Isl., Yamato (AM3).
+
+Japan, Ryukyus, Amami Group, Amami Isl., Amami (AM2).
+
+Locality*
+Japan, Ryukyus, Amami Group, Amami Isl., Amami (AM1).
+
+the localities reported in Fig. 1; **alphabets in parentheses indicate the ITS types).
+ITS DDBJ no. **
+AB823823 (A)
+AB823824 (A)
+AB823825 (A)
+AB823826 (A)
+AB823827 (A)
+AB823828 (A)
+AB823829 (A)
+AB823830 (A)
+AB823831 (B)
+AB823832 (B)
+AB823833 (C)
+AB823834 (C)
+AB823835 (C)
+AB823836 (C)
+AB823837 (C)
+AB823838 (C)
+AB823839 (C)
+AB823840 (C)
+AB823841 (C)
+AB823842 (C)
+AB823843 (C)
+AB823844 (C)
+AB823845 (D)
+AB823846 (D)
+AB823847
+AB823848
+AB823849
+AB823850
+AB823851
+AB823852
+AB823853
+
+TABLE 1. List of sampled three taxa from 16 localities with their respective vouchers and DDBJ Accession numbers (*abbreviations in parentheses refer to
+
+To test the phylogenetic relationship between P. okinawensis and P. pilosa subsp. pilosa, we need to
+incorporate many other congeners in phylogenetic analyses; we therefore utilized ITS (Internal Transcribed
+Spacer region of nuclear ribosomal DNA) data reported in a preceding molecular study of the genus (Ocampo
+& Columbus 2012). The ITS sequences of 54 Portulaca species, including P. pilosa subsp. pilosa, were
+obtained from GenBank (Table 2). This data set from GenBank also included P. villosa von Chammisso
+(1831: 565) [ P. pilosa subsp. villosa (Cham.) Geesink (1969: 297)], which Geesink (1969) recognized as a
+morphologically closely related species of P. okinawensis. In addition, our collections of P. psammotropha
+Hance (1852: 660), distributing in southern China, southern Taiwan and the northern Philippines (Chung et al.
+2008), were included in the analyses, because Walker & Tawada (1951) recognized that this species is
+morphologically most similar to P. okinawensis but differs in having axillary hairs. We collected a total of 6
+samples of P. psammotropha in three islets of Taiwan (total three localities) (Table 1). Furthermore, our
+collection of one plant of P. oleracea from Taiwan was included in the analyses. For outgroups, we followed
+preceding studies (Ocampo & Columbus 2010, 2012) and used Talinopsis frutescens A. Gray (1852: 15;
+Anacampserotaceae), Pereskia aculeata Miller (1768: without pagination; Cactaceae), and Talinum
+paniculatum (von Jacquin 1760: 22) Gaertner (1791: 219; Talinaceae), whose ITS data were also cited from
+GenBank (Table 2).
+Voucher specimens of our collection were deposited in the herbaria of Academia Sinica, Taipei (HAST)
+and the National Museum of Nature and Science, Japan (TNS).
+
+≡
+
+DNA extraction, amplification, and sequencing
+For DNA extraction, the DNeasy Plant Mini Kit (Qiagen, Valencia, CA, USA) was used following the
+manufacturer's protocols. The isolated DNA were deposited in the Molecular Biodiversity Research Center of
+the National Museum of Nature and Science (Japan).
+The amplification of the ITS region (ITS1, 5.8S, and ITS2), was made by the polymerase chain reaction
+(PCR) using an iCycler (Bio-Rad, Hercules, CA, USA). The forward primer AB101 (5’-ACG AAT TCA
+AGG TCC GGT GAA GTG TTC G-3’) and the reverse primer AB102 (5’-TAG AAT TCC CCG GTT CGC
+TCG CCG TTA C-3’) (Douzery et al. 1999) were used for amplification. Amplifications were performed
+using Takara LA taq with GC buffer II (Takara, Otsu, Japan) and Ampdirect Plus buffer (Shimadzu, Kyoto,
+Japan). The PCR profile comprised 35 cycles of 1 min at 94°C, 30 s at 55°C, and 1.5 min at 72°C after an
+initial denaturing for 3 min at 94°C. The PCR products were checked by electrophoresis before purification
+with ExoSAP-IT (USB Corp., Cleveland, OH, USA).
+The cycle sequencing was carried out with a BigDye Terminator Cycle Sequencing Kit ver. 3.1 (Applied
+Biosystems, Foster City, CA, USA) using PCR primers listed above with the additional internal reverse
+primer N2 (5'-GGC GCA ACT TGC GTT CAA-3') and the forward primer N3 (5'-GCT CTC GCA GCA
+TCG ATG AAG-3') designated by T. Yukawa (TNS, personal communication). The Sanger sequencing
+products were then purified by ethanol precipitation. Automated sequencing was carried out with an Applied
+Biosystems 3130xl Genetic Analyzer. The electropherograms were assembled using ATGC ver. 4.01 software
+(Genetyx Co., Tokyo, Japan). Sequence data from this study were deposited in the DDBJ (DNA Data Bank of
+Japan) databases (since 1983).
+Phylogenetic analyses
+The DNA sequences were aligned using ClustalW 1.8 software (Thompson et al. 1994) and then manually
+adjusted. Phylogenetic analyses were based on a Bayesian approach using MrBayes 3.1.2 (Ronquist &
+Huelsenbeck 2003) and a maximum parsimony (MP) criterion using PAUP* version 4.0b10 (Swofford 2002).
+In the Bayesian phylogenetic analysis, the Hierarchical Likelihood Ratio Tests (hLRT) implemented in
+MrModeltest 2.2 (Nylander 2004) was used to estimate the appropriate evolutionary model of nucleotide
+substitutions. Based on the model selected, two separate runs of Metropolis coupled Markov chain Monte
+Carlo (MCMCMC) analyses were performed, each with a random starting tree and four chains (one cold and
+
+14 •
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+KOKUBUGATA ET AL.
+
+TABLE 2. Genebank accession numbers of ITS sequences referred from Ocampo & Columbus (2012).
+Taxon
+INGROUP
+Portulaca amilis Speg.
+P. australis Endl.
+P. bicolor F.Muell.
+P. cf. bicolor
+P. biloba Urb.
+P. californica D.Legrand
+P. canariensis Danin et Reyes-Bet.
+P. confertifolia Hauman
+P. constricta M.G.Gilbert
+P. cryptopetala Speg.
+P. decipiens Poelln.
+P. digyna F.Muell.
+P. echinosperma Hauman
+P. elatior Mart. ex Rohrb.
+P. eruca Hauman
+P. ﬁlifolia F.Muell.
+P. foliosa Ker Gawl.
+P. fulgens Griseb.
+P. giliesii Hook.
+P. grandiﬂora Hook.
+P. grandiﬂora Hook. cv.
+P. guanajuatensis G.Ocampo
+P. halimoides L.
+P. hereroensis Schinz
+P. howellii (D.Legrand) Eliasson
+P. intraterranea J.M.Black
+P. johnstonii Henrickson
+P. lutea Sol. ex G.Forster
+P. massaica S.M.Phillips
+P. matthewsii G.Ocampo
+P. mexicana P.Wilson
+P. molokiniensis Hobdy
+P. mucronulata D.Legrand
+P. oblonga Peter
+P. obtusa Poelln.
+P. oligosperma F.Muell.
+P. papulifera D.Legrand
+P. perennis R.E.Fr.
+P. pilosa L.
+P. pusilla Kunth
+P. quadriﬁda L.
+P. retusa Engelm.
+P. rotundifolia R.E.Fr.
+P. rubricaulis Kunth
+P. rzedowskiana G.Ocampo
+P. sclerocarpa A.Gray
+P. smallii P.Wilson
+P. suffrutescens Engelm.
+P. tingoensis J.F.Macbr.
+P. trituberculata Danin, Domina et
+Raimondo
+P. tuberosa Roxb.
+P. villosa Cham.
+P. wightiana Wall. ex Wight et Arn.
+P. yecorensis Henrickson et T.Van
+Devender
+OUTGROUP
+Pereskia aculeata Mill. (Cactaceae)
+Talinopsis frutescens A.Gray (Montiaceae)
+Talinum paniculatum (Jacq.) Gaertn.
+(Talinaceae)
+
+Collection number (Herbarium)
+
+Collection area
+
+ITS Genbank no.
+
+Ocampo et al. 1556 (RSA, SI)
+Ocampo et al. 1747 (BRI, RSA)
+Ocampo et al. 1753 (BRI, RSA)
+Ocampo et al. 1726 (BRI, RSA)
+Carter 18168 (RSA)
+Ocampo & Columbus 1529 (RSA)
+Reyes-Betancort s.n (RSA, from seed)
+Ocampo et al. 1619 (RSA, SI)
+Kilian et al. 5916 (B)
+Ocampo et al. 1540 (RSA, SI)
+Ocampo et al. 1758 (BRI, RSA)
+Ocampo et al. 1749 (BRI, RSA)
+Ocampo et al. 1638 (RSA, SI)
+Ocampo 1708cv (RSA) (cult.)
+Ocampo et al. 1645 (RSA, SI)
+Ocampo et al. 1733 (BRI, RSA)
+Ocampo 1772cv (RSA) (cult.)
+Ocampo et al. 1636 (RSA, SI)
+Ocampo et al. 1545 (RSA, SI)
+Ocampo et al. 1662 (RSA, SI)
+Ocampo 1403cv (RSA)
+Ocampo 1482 (RSA)
+Ocampo 1474 (RSA)
+Roodt 223 (PRE)
+Jaramillo 3332 (CDS)
+Ocampo et al. 1748 (BRI, RSA)
+Columbus 5076 (RSA)
+Morden 1575 (HAW)
+Cruse-Sanders s.n. (RSA)
+Ocampo 1425 (RSA)
+Ocampo & Morales 1461 (RSA)
+Perlman 12643 (RSA)
+Ocampo et al. 1598 (RSA, SI)
+Mboya 877 (MO)
+Ocampo et al. 1591 (RSA, SI)
+Ocampo et al. 1751 (BRI, RSA)
+Ocampo et al. 1569 (RSA, SI)
+Ocampo et al. 1606 (RSA, SI)
+Nortrup s.n. (UNCC)
+Gröger 927 (MO)
+Cruse-Sanders s.n. (RSA)
+Baker 16325 (ARIZ)
+Ocampo et al. 1611 (RSA, SI)
+Simá et al. 2433 (MO)
+Ocampo 1124 (IEB)
+Morden 1828 (HAW)
+Herkenham s.n. (UNCC)
+Ocampo & Columbus 1505 (RSA)
+Ocampo et al. 1615 (RSA, SI)
+
+Argentina
+Australia
+Australia
+Australia
+USA
+Mexico
+Canary Isl.
+Argentina
+Yemen
+Argentina
+Australia
+Australia
+Argentina
+Caribbean
+Argentina
+Australia
+Tropical Africa
+Argentina
+Argentina
+Argentina
+Cultivated
+Mexico
+Mexico
+Botswana
+Galápagos Isl.
+Australia
+Mexico
+Hawaii
+Tanzania
+Mexico
+Mexico
+Hawaii
+Argentina
+Tanzania
+Argentina
+Australia
+Argentina
+Argentina
+USA
+Venezuela
+Tanzania
+USA
+Argentina
+Mexico
+Mexico
+Hawaii
+USA
+Mexico
+Argentina
+
+JF508527
+JF508531
+JF508532
+JF508530
+JF508533
+JF508534
+JF508535
+JF508536
+JF508537
+JF508538
+JF508539
+JF508540
+JF508541
+JF508542
+JF508543
+JF508544
+JF508546
+JF508547
+JF508548
+JF508549
+JF508550
+JF508551
+JF508552
+JF508554
+JF508555
+JF508556
+JF508557
+JF508558
+JF508559
+JF508560
+JF508561
+JF508562
+JF508563
+JF508564
+JF508565
+JF508579
+JF508580
+JF508581
+JF508585
+JF508587
+JF508588
+JF508590
+JF508591
+JF508592
+JF508593
+JF508594
+JF508595
+JF508597
+JF508598
+
+Danin & Domina SC55 (PAL; RSA from seed)
+
+Italy
+
+JF508574
+
+Ocampo et al. 1737 (BRI, RSA)
+Perlman 13305 (PTBG)
+Burgoyne 3613 (PRE)
+
+Australia
+Hawaii
+Namibia
+
+JF508599
+JF508604
+JF508605
+
+Columbus 5006 (RSA)
+
+Mexico
+
+JF508606
+
+NA (ZSS) (cult.)
+Ocampo 1480 (RSA)
+
+Americas
+Mexico
+
+JF508526
+JF508607
+
+Ocampo & Morales 1458 (RSA)
+
+Mexico
+
+JF508608
+
+TAXONOMIC REEXAMINATION OF PORTULACA OKINAWENSIS
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 15
+
+three heated). The MCMCMC length was one million generations, and the chain was sampled every one
+hundredth generation from the cold chain. The first 2500 sample trees (25% of the total 10000 sample trees)
+were discarded as burn-in after checking that the average standard deviation of split frequencies (ASDSF)
+reached a stationary state at < 0.01 thereafter. As a guide to convergence, the potential scale reduction factors
+(PSRFs) were ascertained to be reasonably close to 1.0 for all parameters in an output table. A 50% majority
+consensus tree of the output tree file from MrBayes was generated by TREEVIEW (Page 1996).
+In the MP phylogenetic analysis, indels were treated as missing data. The characters were treated as
+unordered, and the character transformations were equally weighted. The branch collapse option was set to
+collapse at a minimum length of zero. A heuristic parsimony search was performed with 200 replicates of
+random additions of sequences with ACCTRAN character optimization, tree bisection–reconnection (TBR)
+branch swapping, and MULTREES and STEEPEST DESCENT options on. Statistical support for each clade
+was assessed by bootstrap analysis (Felsenstein 1985). Ten thousand replicates of heuristic searches, with the
+TBR branch swapping switched on and MULTREES options off, were performed to calculate bootstrap
+values (BS).
+Intraspecific morphological comparison
+The following morphological characters of P. okinawensis were examined: number of stigma lobes and
+stamens, color and shape of petals, and color of stems. The number of stigma lobes and stamens was studied
+fixing the materials in the FAA solution, while the color and shape of the petals and stems were observed in
+living plants. A total of 46 samples were examined: 11 plants from Amami Island (4 localities), 5 plants from
+Tokuno-shima Island (1), 22 plants from Okinawa Island (4 including the locus classicus of P. okinawensis), 3
+plants from Aka Island (1), 3 plants from Geruma Island (1), and 2 plants from Tonaki Island (1) (Table 3).
+The equality of variances for the number of the stigma lobes and stamens between the Amami Islands and the
+Okinawa Islands was firstly evaluated using the F-test. If the F-test shows equal variances, the Student’s t-test
+is applied; if F-test shows no equal variances, the Student’s t-test with Welch’s correction is applied.
+The color of the stems was examined in 79 samples from Amami Island (31 plants from 4 localities) and
+Tokuno-shima Island (5 from 1), Okinawa Island (28 from 4, holotype included), Aka Island (5 from 1),
+Geruma Island (5 from 1), and Tonaki Island (5 from 1). The on-line herbarium database of the National
+Museum of Natural History, Smithsonian (2013) was checked for the holotype.
+Results
+Phylogenetic relationships based on ITS
+Four ITS types were found in P. okinawensis: type A in plants collected from Amami Island; type B in plants
+from Tokuno-shima Island; type C in plants from Okinawa Island, Aka Island, and Geruma Island; type D in
+plants from Tonaki Island. The ITS sequences were identical in the 6 plants of P. psammotropha collected
+from 3 localities of Taiwan, and differed from the four ITS types of P. okinawensis. The ITS sequence of P.
+oleracea was also different from those of P. okinawensis and P. psammotropha. For these three species, we
+used ITS types as operational taxonomic units (OUTs) in the Bayesian and MP phylogenetic analyses. Finally
+we obtained 63 OUTs, including six ITS types of the three species obtained herein, 54 accessions as ingroups
+and three outgroup accessions obtained from GenBank. After alignment of the 63 OUTs, we obtained a matrix
+of 650 bp.
+The model of GTR+I+G was selected in the Bayesian analysis. The 50% majority rule consensus tree of
+all the post-burn-in trees is depicted with Bayesian posterior probabilities (PPs, Fig. 2). In the MP analysis,
+233 of 350 variable characters were parsimony informative in the ITS matrix including the outgroup taxa.
+3838 equally most parsimonious trees of 884 steps were obtained with a consistency index (CI) of 0.632, a
+retention index (RI) of 0.804, and a rescaled consistency index (RC) of 0.501. The topology of the strict
+consensus tree was highly compatible with that of the Bayesian tree, and thus bootstrap percentages (BPs) are
+plotted on the Bayesian tree (Fig. 2).
+
+16 •
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+KOKUBUGATA ET AL.
+
+FIGURE 2. Bayesian phylogenetic tree for 60 OTUs of Portulaca with three outgroups based on internal transcribed spacer (ITS)
+sequence. The topology of the maximum parsimony (MP) strict consensus tree was highly compatible with the Bayesian tree.
+Bayesian posterior probabilities (left) and bootstrap percentages in the MP analysis (right) are shown [see the Table 1 for the localities
+collection of the four ITS types (A–D) of P. okinawensis].
+
+TAXONOMIC REEXAMINATION OF PORTULACA OKINAWENSIS
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 17
+
+Both the Bayesian and MP analyses (Fig. 2) demonstrated that four ITS types of P. okinawensis formed a
+well-supported clade (PP / BS = 1.00 / 98%) including two subclades: the first one comprises the type A
+(plants from Amami Island) and the type B (plants from Tokuno-shima Island) (0.98 / 65%), while the other
+group comprises the type C (plants from Okinawa, Aka, and Geruma Islands) and the type D (plants from
+Tonaki Island) (0.99 / 63%). A sister clade of P. okinawensis includes P. psammotropha and P. tuberosa Roxb.
+On the other hand, P. okinawensis and P. pilosa subsp. pilosa were intervened by many species in the
+phylogeny and they were not closely related with each other. Portulaca okinawensis and P. villosa ( P. pilosa
+subsp. villosa) were comparatively closely related but fell into two different well-supported clades.
+
+≡
+
+Morphological characters
+The number of stamens ranged from 12 to 32 in P. okinawensis (Table 3). In the plants from the Amami
+Islands, the stamens were 12–15, while in those from the Okinawa Islands were 14–32. The F-test showed
+that the variances in the number of the two island groups were not statistically equal (p < 0.0001), and the
+Student’s t-test with Welch’s correction was applied. The test showed that there was a significant statistic
+difference between the two island groups (p < 0.0001).
+The number of stigma lobes was 3–4 in P. okinawensis (Table 3). The F-test showed that the variances of
+the two island groups were statistically equal, and the Student’s t-test was applied. The test showed that there
+was no significant difference between the two island groups.
+The plants collected from the Amami Islands had bright-green stems (Fig. 3A–C); while those from the
+Okinawa Islands had reddish-green stems (Fig. 3D–H). Petals of the plants from the Amami Islands were
+lemon-colored (Fig. 3A–C). Those from the Okinawa Islands were orange-yellow (Fig. 3D–H). Moreover, the
+plants collected from Amami (Fig. 3A & B), Tokuno-shima (Fig. 3C), Aka (Fig. 3H) and Geruma islands had
+the petal obovate, while the plants from Okinawa (Fig. 3D–F) and Tonaki (Fig. 3G) islands had nallowly
+obovate to oblanceolate petals.
+The colors of stems and petals of the holotype (S. Tawada 2221) were degraded and not observable and
+not written on the description of P. okinawensis (Walker & Tawada 1951). However, there was a hand-written
+note indicating that petal color of the holotype was orange-yellow, and its stem color was reddish on the
+specimen sheet.
+TABLE 3. Comparison of number of stigma lobes and stamens of Portulaca okinawensis from the Ryukyus of Japan.
+Island group
+
+Island
+
+Locality
+abbreviation*
+
+Plant sample
+number
+
+Number of stigma lobe
+(avg.)
+
+Number of stamen
+(avg.)
+
+Amami Islands
+
+Amami
+
+AM1
+
+4
+
+4 (4.0)
+
+12–15 (14.3)
+
+AM2
+
+3
+
+3 (3.0)
+
+12–15 (14.0)
+
+AM3
+
+2
+
+3–4 (3.5)
+
+12–15 (13.5)
+
+AM4
+
+2
+
+3 (3.0)
+
+12 (12.0)
+
+Tokuno-shima
+
+TK
+
+5
+
+4 (4.0)
+
+12–15 (12.6)
+
+Okinawa
+
+OK1
+
+4
+
+3–4 (3.3)
+
+23–24 (24.7)
+
+OK2
+
+3
+
+3–4 (3.5)
+
+24–26 (24.7)
+
+OK3
+
+6
+
+3–4 (3.3)
+
+23–26 (24.0)
+
+OK4
+
+9
+
+3–4 (3.1)
+
+15–24 (19.9)
+
+Aka
+
+AK
+
+3
+
+3–4 (3.7)
+
+14–20 (16.7)
+
+Geruma
+
+GR
+
+3
+
+3 (3.0)
+
+15–25 (18.3)
+
+Tonaki
+
+TN
+
+2
+
+4 (4.0)
+
+26–32 (29.0)
+
+Okinawa Islands
+
+* Refer Table 1 and Fig. 1.
+
+18 •
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+KOKUBUGATA ET AL.
+
+FIGURE 3. Flowering plants of Portulaca okinawensis from the Ryukyus. A. Amami Island (AM1). B. Amami Island (AM3). C.
+Tokuno-shima Island. D. Okinawa Island (OK1). E. Okinawa Island (OK2). F. Okinawa Island (OK4). G. Tonaki Island (TK). H. Aka
+Island (AK). Scale bar in H also applies to A–G, and indicates 5 mm (see the Table 1 for the localities abbreviations).
+
+Discussion
+Taxonomic reconsideration of Portulaca okinawensis
+Our molecular analysis results disagree with Geesink (1969) showing that P. okinawensis are not closely
+related to P. pilosa subsp. pilosa and it cannot be treated at subspecies rank of P. pilosa and revealing that P.
+okinawensis and P. villosa ( P. pilosa subsp. villosa) are not conspecific.
+Portulaca okinawensis is instead phylogenetically related to P. psammotropha (sensu Chung et al. 2008)
+collected from islets of southern Taiwan and P. tuberosa distributed from India, through Malesia, to Christmas
+Island of Australia (Puy et al. 1993). However, P. okinawensis is morphologically distinguishable from these
+
+≡
+
+TAXONOMIC REEXAMINATION OF PORTULACA OKINAWENSIS
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 19
+
+two species by the absence of axillary hairs (Puy et al. 1993, Chung et al. 2008). Therefore, the present
+molecular data and morphological difference support the taxonomic concept of Walker & Tawada (1951)
+treating P. okinawensis as an independent endemic species to the central Ryukyus.
+Intraspecific taxonomy of Portulaca okinawensis
+From the morphological point of view, the two subclades of P. okinawensis (from the Amami Islands, and
+from the Okinawa Islands), include plants clearly different. The plants from the Amami Islands have brightgreen stems and lemon-colored petals, while plants from the Okinawa Islands have reddish-green stems and
+orangey-yellow petals as same as the holotype (S. Tawada 2221). Although the ranges of the number of
+stigmas were slightly overlapped between the two groups, the numbers of the former are always less than 20,
+and are significantly different from the other. The number of stamens is 25 in the holotype (Walker & Tawada
+1951) and this is included in the ranged for the plants from the Okinawa Islands.
+We conclude that the plants from the Amami and Okinawa islands should be treated as different
+taxonomic entities. A new variety is described below.
+
+Taxonomic treatment
+A diagnostic key of Portulaca okinawensis and the related species follows:
+1.
+2.
+3.
+4.
+-
+
+Stem 10–30 cm long, leaf 5–28 mm long ..................................................................................................................... 2
+Stem ca. 10 cm long, leaf 5–8 mm long ....................................................................................................................... 3
+Leaf obovate to liner, axillary hair up to 12 mm long, petal white, pink, or pink with a white base, fruit 3–4 mm long
+......................................................................................................................................................................... P. villosa
+Leaf elliptic to liner, axillary hair up to 6 mm long, petal reddish violet or pink, fruit 5–6 mm long. ........... P. pilosa
+Axillary hairs present........................................................................................................................ P. psammotropha
+Axillary hairs absent ..................................................................................................................................................... 4
+Number of stamens mostly more than 20, petals orange yellow, mostly obovate to nallowly obovate, stems reddish
+green............................................................................................................................. P. okinawensis var. okinawensis
+Number of stamens less than 20, petals lemon-colored, obovate to oblanceolate, stems bright green .........................
+......................................................................................................................................P. okinawensis var. amamiensis
+
+Portulaca okinawensis Walker & Tawada var. okinawensis
+Type:—JAPAN. The Ryukyus, the Okinawa Islands, Okinawa Island, Onna, 2 October 1949, Tawada 2221 (holotype
+US!; available from: http://collections.mnh.si.edu/search/botany/?ti=3).
+
+Description:—Herbs perennial, 3–5 cm tall. Stems not articulated, diffuse, branched basally, ca. 1 mm thick;
+basal stems woody, prostrate, upper stems herbaceous, upright, reddish green. Root fleshy, much-branched.
+Leaves spirally arranged to alternate, subsessile, without axillary hairs; leaf blade 2–3 mm thick, oblong to
+obovate, 5–8 mm long, base obtuse, apex obtuse or rounded. Flowers solitary, about 10–15 mm in diameter.
+Sepals 2, ovate-deltate, about 2 mm long. Petals 5, obovate to nallowly obovate, orangey yellow, mostly
+without margins overlapping. Stamens 12–15. Ovary ovoid. Stigma usually trilobed or tetralobed; capsule
+glossy, 2–4 mm long, 2–3 mm wide.
+Distribution and habitat:—The Ryukyus, the Okinawa Islands, Okinawa, Aka, Geruma, Tonaki islands.
+Coastal rocky slopes, xeric, saline, and exposed to direct sunlight. Portulaca okinawensis has also been recorded
+from Aka, Geruma, Yakabi, Tonaki, Aguni, and Kume islands of the Okinawa Islands (Shinjo & Shinzato
+2006). We have not collected samples from these islands. We examined a herbarium specimen of P. okinawensis
+collected from Yakabi Island (Miyagi 8414, RYU, collected in 1978) but we could not identify it at variety level
+because of the difficulty in counting of the number of stamens and the discoloring of the petals and stems.
+Additional specimens examined:—JAPAN. The Ryukyus, the Okinawa Islands: Okinawa Island,
+Onna (OK1), 10 August 2010, Kokubugata 12873–12878 (TNS); Okinawa Island, Onna (OK2), 20
+
+20 •
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+KOKUBUGATA ET AL.
+
+September 2007, Kokubugata 9988, 9989, 10018 (TNS); Okinawa Island, Onna (OK3), 1 September 2010,
+Kokubugata 12886–12891 (TNS); Okinawa Island, Yomitan (OK4), 29 August 2010, Kokubugata 12867–
+12872, 12879–12885 (TNS); Aka Island, 30 August 2012, Kokubugata 15161–15165 (TNS); Geruma Island,
+30 August, 2012, Kokubugata 15166–15170 (TNS); Tonaki Island, 31 August 2012, Kokubugata 15179–
+15183 (TNS).
+Portulaca okinawensis Walker & Tawada var. amamiensis Kokubugata, Koh Nakam. & Yokota, var. nov.
+Type:—JAPAN. The Ryukyus, the Amami Islands, Amami Island, Yamato, 6 September 2012, Kokubugata 15198
+(holotype TNS!).
+Diagnosis:—Differt a var. okinawensi staminibus 12–15, petalis citrinis, obovatis vel oblanceolatis, caulibus viridibus.
+
+Description:—Herbs perennial, 3–5 cm tall. Stems not articulated, diffuse, branched basally, ca. 1 mm thick;
+basal stems woody, prostrate, upper stems herbaceous, upright, bright green. Root fleshy, much-branched.
+Leaves spirally arranged to alternate, subsessile, without axillary hairs; leaf blade 2–3 mm thick, oblong to
+obovate, 5–8 mm long, base obtuse, apex obtuse or rounded. Flowers solitary, about 10–15 mm in diameter.
+Sepals 2, ovate-deltate, about 2 mm long. Petals 5, obovate, emarginate, rotund to obtuse, lemon-colored, with
+margins overlapping. Stames 12–15. Ovary ovoid. Stigma usually trilobed or tetralobed; capsule glossy, 2–4
+mm long, 2–3 mm wide.
+Etymology:—The epithet refers to the Amami Islands, the locus classicus.
+Distribution and habitat:—Endemic to the Amami Islands (the Ryukyus), in Amami and Tokuno-shima
+islands. Coastal rocky slopes, xeric, saline, and exposed to direct sunlight. In Kakeroma Island, being an islet
+situated in the Amami Island, P. okinawensis has been recorded. However, we could not obtain and investigate
+samples from the island.
+IUCN Red list category:—It can be included in the Data Deficient (DD) category of IUCN Red List
+categories (IUCN 2010) as there are inadequate information to make a direct or indirect assessment of its risk
+of extinction based on its distribution and/or population status.
+Additional specimens examined (paratypes):—JAPAN. The Ryukyus, the Amami Islands: Amami
+Island, Amami (AM1), 3 November 2010, Kokubugata 12939–12942, 7 September 2012, Kokubugata
+15434–15443 (TNS); Amami (AM2), 18 October 2008, Kokubugata 11096–11100 (TNS); Yamato (AM3), 6
+September 2012, Kokubugata 15197–15202; Uken (AM4), 18 October 2008, Kokubugata 11081–11085,
+11102 (TNS); Tokuno-shima Island, Amagi (TK), 17 October 2007, Kokubugata 12140–12144 (TNS).
+
+Acknowledgments
+We thank D. Iamonico for valuable comments; and A. Abe, C.-I Huang, Y. Minemoto, C.-I Peng, M. Tabata and
+H. Yamashita for assistance in field surveys. This study was carried out under the project of Grant-in-Aid for
+Scientific Research (B) (JSPS KAKENHI Grant Number 25290085) and that of “Elucidative studies of
+delimitation and origin on endemic and narrow-range species in Japan” managed by the National Museum of
+Nature and Science, Japan, and supported in part by the Mitsui & Co., Ltd. Environment Fund (No. RC10-C097).
+
+References
+Akiyama, S. (2006) Portulacaceae. In: Iwatsuki, K., Boufford, D.E. & Ohba, H. (eds.) Flora of Japan 2a. Kodansha, Tokyo, pp. 181–
+182.
+Chammisso, L.K.A. von (1831) Portulacaceae. In: von Driesen, L. (ed.) Beitrag zur Kenntnifs der Varietäten nud Bastardformen
+einheimischer Gewächese. Linnaea 6: 484–592.
+Chung, S., Madulid, D.A. & Hsu, T. (2008) Portulaca psammotropha Hance (Portulacaceae), a neglected species in the flora of
+Taiwan and the Philippines. Taiwania 53: 90–95.
+
+TAXONOMIC REEXAMINATION OF PORTULACA OKINAWENSIS
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 21
+
+DDBJ (since 1983) DNA Data of Bank of Japan, National Institute of Genetics, Japan, Mishima. Available from: http://
+www.ddbj.nig.ac.jp/ (accessed: 6 June 2013).
+Douzery, E.J.P., Pridgeon, A.M., Kores, P., Linder, H.P., Kurzweil H. & Chase, M.W. (1999) Molecular phylogenetics of Diseae
+(Orchidaceae): a contribution from nuclear ribosomal ITS sequences. American Journal of Botany 86: 887–899.
+http://dx.doi.org/10.2307/2656709
+Felsenstein, J. (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39: 783–791.
+http://dx.doi.org/10.2307/2408678
+Gaertner, J. (1791) De Fructibus et Seminibus Plantarum 2. Schrammii, Tübingen, 352 pp.
+Geesink, T. (1969) An account of the genus Portulaca in Indo–Australia and the Pacific (Portulacaceae). Blumea 17: 276–301.
+Gray, A. (1852) Plantae Wrightianae. Smithsonian Contributions to Knowledge 3: 1–146.
+Hance, H.F. (1852) Portulacaceae. In: Walpers, G. G. (ed) Annales Botanices Systematicae 2. Friedrich Hofmeister, Leipzig, p. 660.
+Hatusima, S. (1975) Flora of the Ryukyus, added and corrected edition. Okinawa Association of Biology Education, Naha, 1002 pp.
+Hatusima, S. & Amano, T. (1994) Flora of the Ryukyus, South of Amami Island, second edition. Biological Society of Okinawa,
+Nishihara, 391 pp.
+Hotta, M. (2004) Distribution areas of rare or endangered plant species in Amami Island. Bulletin of the Kagoshima Prefectural
+Colleague 55: 1–108.
+IUCN (2010) The IUCN Red list of the threatened species, version 2010.4. Available from: http://www.iucnredlist.org (accessed: 2
+June 2013).
+Jacquin, N. J. von (1760) Enumeratio Systematica Plantarum, quas in Insulis Caribaeis. Inter Documentation Company AG, Zug, 41
+pp.
+Japanese Ministry of Environment (2012) Red Data List (Plants). Available from: http://www.biodic.go.jp/rdb/rdb_f.html. (accessed:
+3 January 2013).
+Linnaeus, C. (1753) Species Plantarum 1. Laurentii Salvii, Holmiae, 560 pp.
+Linnaeus, C. (1767) Systema Naturae 12th ed. 2. Laurentii Salvii, Holmiae,735 pp.
+Miller, P. (1768) The Gardener’s Dictionary 8th ed. Printed for the author, London, without pagination.
+Momiyama, Y. (1982) Portulacaceae. In: Satake, Y., Ohwi, J., Kitamura, S., Watari, S. & Tominari, T. (eds.) Wild Flowers of Japan 2.
+Heibonsha, Tokyo, pp. 31.
+National Museum of Natural History, Smithsonian (2013). Search the Botany Collections. Smithsonian National Museum of Natural
+History, Washington, D.C. Available from: http://collections.mnh.si.edu/search/botany/?ti=3 (accessed: 23 March 2013).
+Nylander, J.A.A. (2004) MrModeltest ver2. Distributed by the author. Evolutionary Biology Centre, Uppsala University.
+Nyffeler, R. & Eggli, U. (2010) Disintegrating Portulacaceae: a new familial classification of the suborder Portulacineae
+(Caryophyllales) based on molecular and morphological data. Taxon 59: 227–240.
+Ocampo, G. & Columbus, J.T. (2010) Molecular phylogenetics of suborder Cactineae (Caryophyllales), including insights into
+photosynthetic diversification and historical biogeography. American Journal of Botany 97: 1827–1847.
+http://dx.doi.org/10.3732/ajb.1000227
+Ocampo, G. & Columbus, J.T. (2012) Molecular phylogenetics, historical biogeography, and chromosome number evolution of
+Portulaca (Portulacaceae). Molecular Phylogenetics and Evolution 63: 97–112.
+http://dx.doi.org/10.1016/j.ympev.2011.12.017
+Page, R.D.M (1996) TREEVIEW: An application to display phylogenetic trees on personal computers. Computer Applications in the
+Bioscience 12: 357–358.
+PIER–Pacific Island Ecosystems at Risk (2013) Portulaca pilosa. Available from: http://www.hear.org/pier/species/
+portulaca_pilosa.htm (accessed: 19 February 2013).
+Puy, D.J.D., Telford, I.R.H. & Orchard, A.E. (1993) Portulacaceae. In: George, A.S., Orchard, A.E. & Hewson, H.J. (eds.) Flora of
+Australia 50. AGPS Press Publication, Canberra, pp. 118–121.
+Ronquist, F. & Huelsenbeck, J.P. (2003) MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics 19: 1572–
+1574.
+http://dx.doi.org/10.1093/bioinformatics/btg180
+Shimabuku, K. (1997) Check List Vascular Flora of the Ryukyu Islands, revised edition. Kyushu University Press, Fukuoka, 855 pp.
+Shinjo, K. & Shinzato, T. (2006) Portulaca okinawensis Walker et Tawada. In: Okinawa Prefecture (ed.) Red Data Okinawa, revised
+version. Okinawa Prefecture, Naha, p. 72.
+Swofford, D.L. (2002) PAUP: phylogenetic analysis using parsimony, version 4.0b10. Sinauer Associates, Sunderland.
+Thompson, J.D., Higgins, D.G. & Gibson, T.J. (1994) CLUSTAL W: improving the sensitivity of progressive multiple sequence
+alignment through sequence weighting, position specific gap penalties and weight matrix choice. Nucleic Acids Research 22:
+4673–4680.
+http://dx.doi.org/10.1093/nar/22.22.4673
+Walker, E.H. (1976) Flora of Okinawa and the southern Ryukyu Islands. Smithsonian Institution Press, Washington, 1159 pp.
+Walker, E.H. & Tawada, S. (1951) A new species of Portulaca from Okinawa. Journal of the Washington Academy of Sciences 41:
+138.
+
+22 •
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+KOKUBUGATA ET AL.
+
+

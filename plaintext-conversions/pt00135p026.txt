@@ -1,0 +1,292 @@
+Phytotaxa 135 (1): 19–26 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.135.1.3
+
+Four new species of Calamus (Arecaceae) from Vietnam
+ANDREW HENDERSON1 & NGUYEN QUOC DUNG2
+1
+
+Institute of Systematic Botany, The New York Botanical Garden, Bronx, NY 10458-5126, U.S.A.
+Email: ahenderson@nybg.org
+2
+Forest Inventory and Planning Institute, Thanh Tri, Hanoi, Vietnam
+Email: dungfipi@gmail.com
+
+Abstract
+Four new species of Calamus (Arecaceae) are described and illustrated and compared with similar species.
+Key words: Palmae, rattan
+
+With its 374 species, Calamus Linnaeus (1753: 325) is by far the largest genus of palms (Govaerts &
+Dransfield 2005). It is widely distributed from India eastwards to Fiji, with one disjunct species in tropical
+Africa. The highest concentration of species is in the Asian tropics, especially in the Malay Peninsula,
+Borneo, and Sumatra, with other centers of diversity in Indochina and New Guinea. The only monograph of
+the whole genus is that of Beccari (1908, 1913, 1914). These monumental works are unrivalled for their
+clarity and detail, but are now out-of-date. Although various regional treatments of Calamus have been
+recently published (e.g., Evans et al. 2001a for Laos), there is no comprehensive revision of the whole genus.
+Because of this, and its economic importance as a source of rattan cane, Henderson is currently carrying out a
+revision of the genus. In the course of this revision, the following new species have been collected in Vietnam.
+Calamus batoensis Henderson & N. Q. Dung sp. nov. (Fig. 1)
+It differs from related species by its rachis bracts which are swollen at the apices and recurved pistillate rachillae which
+have the dyads arranged in alternate rows but not opposite so one side of the rachillae is without flowers.
+Type:—VIETNAM. Quang Ngai: Ba To District, road from Ba To to Ba Cung, steep slope in forest near road, 14°44’N,
+108°53’E, ca. 600 m, 24 April 2013, A. Henderson & Nguyen Quoc Dung 3881 (holotype, VFM! isotype, NY!).
+
+Stems clustered, 1 –10 m long, 0.5 –0.8 cm diameter with sheaths, ca. 0.6 cm without sheaths. Sheaths
+greenish-white, longitudinally striate, not tomentose, with scattered, brown-tipped spines to 0.2 cm long;
+ocreas short, membranous, early deciduous; knees present; flagella 72 cm long; petioles 2.5–11 cm long, spiny
+along the margins and abaxially; rachises 12.5–30 cm long with 3–4, elliptic pinnae per side, these arranged in
+remote clusters, the proximal pair oriented towards the sheath, the distalmost few (usually four) in a cluster
+with the distalmost pair oriented away from the sheath and the adjacent pair oriented at a 45º angle to the
+rachis, the apical pair joined for 8.5–12.7 cm, middle pinnae 15–26 cm long, 3.7–4.7 cm wide at widest point,
+minutely spiny along the margins and with a few spines at the apices, not spiny on the veins. Staminate
+inflorescences 76 cm long, flagellate, the first partial inflorescence subtended by the prophyll; prophyll and
+rachis bracts tubular, swollen at the apices, just covering the bases of the partial inflorescences; partial
+inflorescences branched to 2 orders; rachillae 0.5 – 1 cm long; staminate flowers not seen; pistillate
+inflorescences 31–62 cm long, similar to staminate but branched to 1 order; rachillae 1.5–2 cm long; dyad
+bracteoles obscure, campanulate, one side of mouth acuminate, visibly ribbed, the base free from the
+preceding neuter flower and without an impression of its bracteole; dyads arranged in alternate rows but not
+Accepted by Timothy Evans: 30 Aug. 2013; published: 1 Oct. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+19
+
+opposite, one side of the rachillae without flowers, the rachillae recurved; pistillate flowers 6 mm long (post
+anthesis); calyx 2.5 mm long, tubular, lobed at the apices; corolla 4 mm long, tubular, with 3, valvate lobes at
+the apices; fruits (immature) globose, 1.1 cm long, 0.9 cm diameter, 1-seeded; endosperm homogeneous or
+scarcely ruminate; embryo basal.
+
+FIGURE 1. Calamus batoensis. A. Leaf sheath, with proximal pinnae oriented towards the sheath. B. Distalmost pinnae, showing
+cluster of pinnae with the distalmost pair oriented away from the sheath and the adjacent pair oriented at a 45º angle to the rachis. C.
+Pistillate inflorescence showing swollen rachis bracts and recurved rachillae. D. Fruits. (A –C from Henderson et al. 3809, D from
+Henderson et al. 3808).
+
+20 •
+
+Phytotaxa 135 (1) © 2013 Magnolia Press
+
+HENDERSON & DUNG
+
+Distribution and habitat:—Endemic to central Vietnam in Quang Ngai Province in secondary,
+evergreen forest at 600 m elevation.
+Local names and uses:—may rac. No uses recorded.
+Additional specimens examined:—VIETNAM. Quang Ngai: Ba To District, road from Ba To to Ba
+Cung, steep slope in forest near road, 14°44’N, 108°53’E, ca. 600 m, 18 July 2012, Henderson et al. 3808
+(NY, VFM); same locality, same date, Henderson et al. 3809 (NY, VFM); same locality, 14 September 2011,
+Nguyen Quoc Dung 2036 (NY, VFM).
+Discussion:—In Evans et al.’s (2001a) treatment of Calamus in neighboring Laos, C. batoensis (named
+for the district in which it occurs) would key to a group of three species: C. oligostachys Evans et. al. (2001b:
+242), C. solitarius Evans et al. (2000: 932), and C. tetradactylus Hance (1875: 289), based on the presence of
+a flagellum and strongly grouped pinnae lying in one plane. Calamus batoensis differs from all of these in its
+swollen rachis bracts and recurved pistillate rachillae. In the course of a revision of Calamus (Henderson, in
+prep.), phylogenetic analysis of morphological data comprising 110 characters taken from 3133 specimens
+representing 316 species of Calamus, five of Ceratolobus Blume ex Schultes & Schultes (1830: lxxx), five of
+Daemonorops Blume in Schultes & Schultes (1830: 1333), one of Retispatha Dransfield (1980a: 529), and
+three of Pogonotium Dransfield (1980b: 763), with Plectocomia Martius & Blume in Schultes & Schultes
+(1830: 1333) as outgroup, shows that Calamus batoensis is placed in a clade of 11 species, all from Laos and
+Vietnam, characterized by the short, membranous ocrea. These are: C. oligostachys, C. solitarius, C.
+tetradactylus, C. parvulus Henderson & Nguyen Quoc Dung (2010: 30), C. crispus Henderson et al. (2008:
+191), C. dioicus Loureiro (1790: 211), C. kontumensis Henderson et al. (2008: 193), C. bimaniferus Evans et
+al. (2000: 936), and two new species described below (C. flavinervis, C. quangngaiensis). Calamus batoensis
+differs from all of these by its rachis bracts which are swollen at the apices and recurved pistillate rachillae
+which have the dyads arranged in alternate rows but not opposite so one side of the rachillae is without
+flowers. Although these two character states occur in unrelated species of Calamus, they only occur in this
+clade in C. batoensis.
+Calamus flavinervis Henderson & N. Q. Dung sp. nov. (Fig. 2)
+It differs from related species by its densely spiny, tomentose leaf sheaths and distinctive, yellow cross veins.
+Type:—VIETNAM. Khanh Hoa: road 653B from Nha Trang to Da Lat, 54 km from Nha Trang, 67 km before Da Lat, near
+border with Lam Dong province, Hon Giao mountain, 12.180N, 108.733E, undisturbed forest on steep slope, 1000 m
+elevation, 21 April 2013, A. Henderson & Nguyen Quoc Dung 3869 (holotype, VFM! isotypes, AAU!, NY!).
+
+Stems clustered, to 8 m tall, 1–1.3 cm diameter with sheaths, ca. 0.6 cm without sheaths. Sheaths densely
+brown tomentose initially, green, densely covered with greenish-yellow spines to 1.1 cm long, these
+tomentose as the sheaths; ocreas short, membranous, early deciduous; knees present; flagella 190 cm long;
+petioles 8–22 cm long, spiny along the margins and abaxially; rachises 38–60 cm long with 7–10, oblanceolate
+pinnae per side, these arranged in remote clusters, leathery, with prominent, yellow cross-veins, the basal pair
+oriented towards the sheath (especially on more apical leaves), distalmost few (usually four) in a cluster with
+the distalmost pair oriented away from the sheath and the adjacent pair oriented at a 45º angle to the rachis, the
+apical pair joined for 7.5–8.5 cm, middle pinnae 15–23.5 cm long, 3.4–4.3 cm wide at widest point, minutely
+spiny along the margins, not spiny on the veins. Staminate inflorescences 300 cm long, flagellate; rachis
+bracts tubular, terminating well below the partial inflorescences; partial inflorescences branched to 2 orders;
+rachillae 2.5–4.5 cm long; staminate flowers not seen; pistillate inflorescences similar to staminate but
+branched to 1 order; rachillae 2.5–2.7 cm long; dyad bracteoles obscure, campanulate, one side of mouth
+acuminate, visibly ribbed, the base free from the preceding neuter flower and without an impression of its
+bracteole; pistillate flowers 3.5 mm long before anthesis; calyx 3.5 mm long, tubular, lobed at the apices;
+corolla 3 mm long, tubular, with 3, valvate lobes at the apices; fruits (immature) globose to ellipsoid, 0.9 cm
+long, 0.7 cm diameter, 1-seeded; endosperm homogeneous or scarcely ruminate; embryo basal.
+Distribution and habitat:—Endemic to southern Vietnam in Khanh Hoa Province in montane rain forest
+on steep slopes at 900–1000 m elevation.
+FOUR NEW SPECIES OF CALAMUS
+
+Phytotaxa 135 (1) © 2013 Magnolia Press
+
+• 21
+
+FIGURE 2. Calamus flavinervis. A. Leaf sheath, with proximal pinnae oriented towards the sheath. B. Leaf, showing clustered
+pinnae. C. Distalmost pinnae, showing cluster of pinnae with the distalmost pair oriented away from the sheath and the adjacent pair
+oriented at a 45º angle to the rachis. D. Partial pistillate inflorescence. (A–D from Henderson & Nguyen Quoc Dung 3869).
+
+22 •
+
+Phytotaxa 135 (1) © 2013 Magnolia Press
+
+HENDERSON & DUNG
+
+Local names and uses:—may rac. No uses reported.
+Additional specimen examined:—VIETNAM. Khanh Hoa: Khanh Vinh district, road from Khanh Hoa
+to Da Lat, 12.200N, 108.733E, 900 m, 12 July 2010, A. Henderson et al. 3711 (IEBR, NY).
+Discussion:—In Evans et al.’s (2001a) treatment of Calamus in neighboring Laos, this palm would key to
+a group of three species: C. oligostachys, C. solitarius, and C. tetradactylus, based on the presence of a
+flagellum and strongly grouped pinnae lying in one plane. Calamus flavinervis differs from all of these in its
+pinnae with yellow cross-veins. In the same study of Calamus cited above (Henderson, in prep.), Calamus
+flavinervis is placed in the same clade of 11 species as C. batoensis. It differs from all of these by its densely
+spiny, tomentose leaf sheaths and pinnae with distinctive yellow cross-veins.
+Calamus phuocbinhensis Henderson & N. Q. Dung sp. nov. (Fig. 3)
+It differs from related species by its leaf sheaths without tomentum and with few spines, its rachises with recurved spines
+abaxially, and its short, membranous ocreas consisting of two lateral flanges, not developed above the petiole.
+Type:—VIETNAM. Ninh Thuan: Phuoc Binh National Park, near park headquarters, disturbed forest by ecotourism
+trail, 11.986N, 108.747E, 323 m elevation, 18 April 2013, A. Henderson & Nguyen Quoc Dung 3857 (holotype,
+VFM! isotype, NY!).
+
+FIGURE 3. Calamus phuocbinhensis. A. Leaf sheath with lack of tomentum, few spines, and small ocrea. B. Pinnae, irregularly
+arranged and spreading in different planes. (A–B from Henderson & Nguyen Quoc Dung 3853).
+
+Stems clustered, 8–15 m long, 1.3 –2.1 cm diameter with sheaths, 1.2–1.4 cm diameter without sheaths.
+Sheaths completely green, with very few, flat, brown spines to 1.5 cm long; ocreas short, membranous,
+consisting of two lateral flanges, not developed above petiole, soon falling; flagella 165 cm long; knees
+present; cirri absent; petioles 4–8 cm long on upper leaves, to 24 cm long on lower leaves; rachises 97–125 cm
+
+FOUR NEW SPECIES OF CALAMUS
+
+Phytotaxa 135 (1) © 2013 Magnolia Press
+
+• 23
+
+long with 44–45 pinnae per side, these irregularly arranged in clusters and spreading in different planes, linear,
+minutely spiny along the margins and mid-vein adaxially; middle pinnae 19.3–29.5 cm long, 1.2 cm wide;
+apical pair of pinnae joined for 0.2–0.5 cm. Staminate inflorescences not seen; pistillate inflorescence rachis
+bracts tubular, terminating below the partial inflorescences; flowers and fruits not seen.
+Distribution and habitat:—Endemic to southern Vietnam in Ninh Thuan Province in seasonal forest at
+323 m elevation.
+Local names and uses:—may. No uses are reported.
+Additional specimen examined:—Vietnam. Ninh Thuan: Phuoc Binh National Park, near park
+headquarters, disturbed forest by ecotourism trail, 11.986N, 108.747E, 323 m, 18 April 2013, A. Henderson &
+Nguyen Quoc Dung 3853 (AAU, NY, VFM).
+Discussion:—Although the two specimens are incomplete and lack both flowers and fruits, and with only
+an old, decaying inflorescence present, we have no doubt that they represent an undescribed species. In fact,
+the sheaths and leaves of this species are the most distinctive and easily recognized of all Vietnamese palms. In
+Evans et al.’s (2001a) treatment of Calamus in neighboring Laos, this palm would key to C. viminalis
+Willdenow (1799: 203), based on its presence of a flagellum and irregularly arranged pinnae lying in different
+planes. In the same study of Calamus cited above (Henderson, in prep.), C. phuocbinhensis (named for the
+National Park in which it occurs) is placed in a clade comprising two other species; C. viminalis and C.
+siamensis Beccari (1902: 203), characterized by the rachis with straight spines abaxially and the very short
+staminate rachillae with the flowers arranged in glomerules. Calamus phuocbinhensis differs from both of
+these in its leaf sheaths without tomentum and with few spines, its rachises with recurved spines abaxially, and
+in particular its short, membranous ocreas consisting of two lateral flanges, not developed above the petiole. In
+both C. viminalis and C. siamensis the ocrea is completely tubular and developed above the petiole.
+Calamus quangngaiensis Henderson & N. Q. Dung sp. nov. (Fig. 4)
+It differs from related species in its more numerous, regularly arranged lanceolate pinnae.
+Type:—VIETNAM. Quang Ngai: Ba To District, road from Ba To to Ba Cung, steep slope in forest near road, 14°44’N,
+108°53’E, ca. 600 m. 24 April 2013, A. Henderson & Nguyen Quoc Dung 3880 (holotype, VFM! isotype, NY!).
+
+Stems clustered, 3–4 m long, 1–1.5 cm diameter with sheaths, 0.7 cm without sheaths. Sheaths densely brown
+tomentose initially, green, densely covered with greenish-yellow, flattened spines to 1.2 cm long; ocreas short,
+membranous, early deciduous; knees present; flagella present; petioles 18–44 cm long, spiny along the
+margins; rachises 45–50 cm long with 8–13, lanceolate pinnae per side, these regularly arranged, middle
+pinnae 28–31 cm long, 1.9–2 cm wide at widest point, minutely spiny along the margins, not spiny on the
+veins, apical pair joined for 8.5–8.7 cm. Staminate inflorescences to 150 cm long, flagellate; rachis bracts
+tubular, splitting near insertion of partial inflorescences or terminating just below them; partial inflorescences
+branched to 2 orders; rachillae 2–5.5 cm long; staminate flowers 4 mm long; sepals 2 mm long, tubular
+proximally, lobed distally; petals 4 mm long, valvate; pistillate inflorescences to 200 cm long, flagellate,
+branched to 1 order; rachis bracts tubular, terminating well below the partial inflorescences; rachillae 3–6 cm
+long; dyad bracteoles obscure, campanulate, one side of mouth acuminate, visibly ribbed, the base free from
+the preceding neuter flower and without an impression of its bracteole; pistillate flowers 3 mm long before
+anthesis; calyx 3 mm long, tubular, lobed at the apices; corolla 3 mm long, tubular, with 3, valvate lobes at the
+apices; fruits (immature) ellipsoid, 1.1 cm long, 0.76 cm diameter, 1-seeded; fruiting perianths tubular;
+endosperm homogeneous or scarcely ruminate; embryo basal.
+Distribution and habitat:—Endemic to central Vietnam in Quang Ngai Province in secondary,
+evergreen forest at 600 m elevation.
+Local names and uses:—may. The canes are used locally in furniture making.
+Additional specimens examined:—VIETNAM. Quang Ngai: Ba To District, road from Ba To to Ba
+Cung, steep slope in forest near road, 14°44’N, 108°53’E, ca. 600 m, 18 July 2012, A. Henderson et al. 3811
+(NY, VFM); same locality, 14 September 2011, Nguyen Quoc Dung 2035 (NY, VFM).
+
+24 •
+
+Phytotaxa 135 (1) © 2013 Magnolia Press
+
+HENDERSON & DUNG
+
+FIGURE. 4. Calamus quangngainesis. A. Leaf sheath, densely brown tomentose with densely cover of spines. B. Leaf with regularly
+arranged pinnae. C. Partial staminate inflorescence. D. Partial pistillate infructescence with fruits. (A–D from Henderson & Nguyen
+Quoc Dung 3880).
+
+FOUR NEW SPECIES OF CALAMUS
+
+Phytotaxa 135 (1) © 2013 Magnolia Press
+
+• 25
+
+Discussion:—In Evans et al.’s (2001a) treatment of Calamus in neighboring Laos, this palm will key to a
+group of clearly unrelated species; C. siamensis, C. tenuis Roxburgh (1832: 780), and C. godefroyi Beccari
+(1908: 267). In same study of Calamus cited under C. batoensis (Henderson, in prep.), Calamus
+quangngaiensis (named for the province in which it occurs) is placed as sister species to the clade including C.
+batoensis and related species. It differs from all of these in its more numerous, regularly arranged lanceolate
+pinnae.
+
+Acknowledgments
+Field work in Vietnam was supported by a grant from the National Geographic Society and carried out in
+collaboration with the Vietnam Forest Museum (VFM) of the Forest Inventory and Planning Institute (FIPI).
+We thank Dr. Ngo Ut, director of FIPI, Dr. Nguyen Huy Dung, director of Forest Resource and Environment
+Centre (FREC, under FIPI), and Mrs. Quach Quynh Nga and her staff at the VFM.
+
+References
+Beccari, O. (1902) Systematic enumeration of the species of Calamus and Daemonorops, with diagnoses of the new
+ones. Records of the Botanical Survey of India 2: 197–230.
+Beccari, O. (1908) Asiatic palms–Lepidocaryeae. Part I. The species of Calamus. Annals of the Royal Botanic Garden
+Calcutta 11: 1–518, plates i–ii, 1–238.
+Beccari, O. (1913) Asiatic palms–Lepidocaryeae. The species of Calamus. Supplement to Part I. Annals of the Royal
+Botanic Garden Calcutta 11 (Appendix): 1–142.
+Beccari, O. (1914) Asiatic palms–Lepidocaryeae. The species of Calamus. Supplement to Part I. Annals of the Royal
+Botanic Garden Calcutta 11 (Appendix): plates 1–83.
+Dransfield, J. (1980a) Retispatha, a new Bornean rattan genus (Palmae: Lepidocaryoideae). Kew Bulletin 34: 529–536.
+http://dx.doi.org/10.2307/4109828
+Dransfield, J. (1980b) Pogonotium (Palmae: Lepidocaryoideae), a new genus related to Daemonorops. Kew Bulletin 34:
+761–768.
+http://dx.doi.org/10.2307/4119069
+Evans, T., Sengdala, K., Viengkham, O., Thammavong, B. & Dransfield, J. (2000) Four new species of Calamus
+(Arecaceae: Calamoideae) from Laos and Thailand. Kew Bulletin 55: 929–940.
+http://dx.doi.org/10.2307/4113639
+Evans, T., Sengdala, K., Viengkham, O. & Thammavong, B. (2001a) A Field Guide to the Rattans of Lao PDR. Royal
+Botanic Gardens, Kew, London, UK, 96 pp.
+Evans, T., Sengdala, K., Viengkham, O., Thammavong, B. & Dransfield, J. (2001b) Calamus pauciflorus T. Evans et al.
+non Ridl. renamed Calamus oligostachys T. Evans et al. Kew Bulletin 56: 242.
+http://dx.doi.org/10.2307/4119442
+Govaerts, R. & Dransfield, J. (2005) World Checklist of Palms. Royal Botanic Gardens, Kew, 223 pp.
+Hance, H. (1875) On three new Chinese Calami. Journal of Botany 12: 263–267.
+Henderson, A. & Nguyen Quoc Dung (2010) Notes on rattans (Arecaceae) from Vietnam. Phytotaxa 8: 25–33.
+Henderson, A., Ninh Khac Ban & Nguyen Quoc Dung (2008) New species of Calamus (Palmae) from Vietnam. Palms
+52: 187–197.
+Linnaeus, C. (1753) Species Plantarum vol. 1. Laurentii Salvii, Stockholm, 560 pp.
+Loureiro, J. (1790) Flora Cochinchinensis. Volume 1. Ulyssipone, typis, et expensis academicis, 744 pp.
+Roxburgh, W. (1832) Flora Indica; or, descriptions of Indian plants. Volume 3. Serampore: printed for W. Thacker and
+Co. Calcutta, and Parbury, Allen and Co. London, 875 pp.
+Schultes, J. & Schultes, J. (1830) Systema vegetabilium. Vol 7 part 2. Stuttgardtiae Sumtibus J. G. Cottae, pp. 725–1815.
+Willdenow, K. (1799) Species plantarum. Volume II. Berolini. Impensis G.C. Nauk, 1340 pp.
+
+26 •
+
+Phytotaxa 135 (1) © 2013 Magnolia Press
+
+HENDERSON & DUNG
+
+

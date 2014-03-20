@@ -1,0 +1,476 @@
+Phytotaxa 125 (1): 25–32 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.125.1.4
+
+Twins are not alone: a recircumscription of Linnaea (Caprifoliaceae)
+MAARTEN J.M. CHRISTENHUSZ
+Jodrell Laboratory, Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3DS, United Kingdom; E-mail: m.christenhusz@kew.org
+
+Abstract
+The genus Linnaea is reviewed and expanded to include the genera Abelia (excluding section Zabelia), Diabelia,
+Dipelta, Kolkwitzia and Vesalea, making it monophyletic and comprising 16 species. The history of the generic name is
+discussed. An updated description for the genus Linnaea is provided and new combinations or names for all taxa are
+provided in Linnaea.
+Key words: botanical history, genus concepts, inflorescence structure
+
+Introduction
+Linnaea borealis Gronovius ex Linnaeus (1753: 631) was named in honour of Carolus Linnaeus to whom we
+owe the system of binomial nomenclature. The name was first coined by Dutch botanist Jan Frederik
+Gronovius (in Linnaeus 1737), because it was Linnaeus’s favourite plant ‘Planta nostra’, which was later
+adopted by Linnaeus himself in his Species plantarum (1753). It is currently restricted to a single species,
+which may be considered unfortunate, because it honours such an important botanist. Ricket (1941) wrote that
+‘Linnaeus regarded it as his solemn duty to perpetuate the names of great botanists in generic names’, and
+even though at the time it was argued that there often is no connection between the name and the botanist,
+‘there will be such charm in the association that it will never fade from memory’. Ricket (1941) provided the
+following example: ‘Linnaea was named by the celebrated Gronovius and is a plant of Lapland, lowly,
+insignificant, disregarded, flowering but for a brief space—from Linnaeus who resembles it”. This was of
+course meant ironically, but the name of Linnaeus was perpetuated in the name for the flower in several
+languages, and Linnaeus used the flower in his coat of arms after his knighthood and was frequently depicted
+with Linnaea.
+Brown (1818) described some new plants in Abel Clarke’s ‘Narrative of a Journey in the Interior of
+China’, where he named a particular ornamental shrub in honour of the traveller: Abelia Brown (1818: 376).
+Martens & Galeotti (1843) described two species from Oaxaca, Mexico, which they placed in their new genus
+Vesalea Martens & Galeotti (1843: 242), but they stated that the new genus has affinity with Brown’s Abelia.
+Vatke (1872) proposed several Abelia species be treated in Linnaea, because of their similarity in flower
+structure. In his series of new plants from Asia, Maximowicz (1878) described the genus Dipelta
+Maximowicz (1878: 50), but among other Caprifoliaceae he observed similarities with Abelia. Dipelta was
+described on the basis of having two accrescent bracts beneath the flowers that become wing-like in fruit, but
+species of Abelia and Linnaea also have such bracts, although not always as conspicuous and not necessarily
+morphologically equivalent (Landrein & Prenner 2013). When describing the new genus Kolkwitzia,
+Graebner (in Diels 1901: 593) pointed out that his new genus has clear morphological similarity to Linnaea,
+but was maintained separate from that genus on the basis of the fruit characteristics. In the same paper
+Graebner (in Diels 1901: 593) transferred many Abelia species to Linnaea, which was continued by Diels
+(1912). Wittrock (1907) focussed on the species Linnaea borealis, which he concluded was a polymorphic
+Accepted by Marco Duretto: 30 July 2013; published: 21 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+25
+
+species in which he recognised over 200 forms based on foliar and floral characteristics. In spite of these
+efforts to enlarge Linnaea in the early 20th Century, this was not followed in subsequent treatments, and Abelia
+became well established in floras and horticulture (e.g. Rehder 1911, Ohwi 1965, Villareal & De la Rosa
+2000, Cubey et al. 2013).
+Phylogenetic studies of Caprifoliaceae s.l. and related families in Dipsacales have resulted in a much
+better understanding of generic relationships of the family (Pyck 2001, Bell et al. 2001, Winkworth et al.
+2008, Landrein 2010a, Jacobs et al. 2010), and in particular those genera close to Linnaea (tribe Linnaeeae).
+In most studies, monophyly of the Linnaea clade was supported, although Zabelia (Rehder) Makino (1948:
+175), traditionally included in Linnaeeae and sometimes considered to be a section of Abelia, was not found to
+belong there. The position of Zabelia was either suggested to be near Morina Linnaeus (1753: 28; Jacobs et
+al. 2010, 2011) or its position was not resolved (Landrein et al. 2012, Landrein & Prenner 2013). Another
+genus associated with Linnaea in the past, because of some morphological similarity, is Heptacodium Rehder
+(1916: 617), but molecular results have shown that genus to be related to Lonicera Linnaeus (1753: 173) and
+its relatives (tribe Caprifolieae) (Jacobs et al. 2011). Landrein & Prenner (2013) interpreted inﬂorescences of
+Heptacodium as intermediate between the tribes Linnaeeae and Caprifolieae.
+In the Linnaea clade (excluding Heptacodium and Zabelia), the genus Abelia was polyphyletic: the
+Mexican species formed a clade (which can be treated as Vesalea) and two independent Asian clades. The
+clade including the type species, A. chinensis Brown (1818: 376), remained Abelia and the other clade was
+named Diabelia Landrein (2010b: 35). In all recent analyses (Jacobs et al. 2010, Landrein et al. 2012) the
+genera Abelia (excluding sect. Zabelia), Diabelia, Dipelta, Kolkwitzia, Linnaea and Vesalea form a single
+well-supported clade corresponding with tribe Linnaeeae.
+
+Discussion
+Creating new genera in order to maintain already existing genera in spite of overall morphological similarity
+among these clades appears to be a trend in some plant groups, with good examples in, for instance,
+grammitid ferns (Polypodiaceae), Ornithogalum Linnaeus (1753: 306; Asparagaceae), Potentilla Linnaeus
+(1753: 495; Rosaceae, see also Christenhusz & Väre 2012), Streptocarpus Lindley (1828: t. 1173;
+Gesneriaceae, see also Christenhusz 2012) and many others. This process in the extreme would be creating a
+new genus for every species, which is frequently done in many groups of birds and mammals. One could
+easily make an argument in the opposite extreme, merging all clades into large genera without taking
+morphology into account. It seems to me that an intermediate approach is needed, bringing phylogenetic
+monophyly and morphology in harmony. This should in my opinion be supported by readily observable
+characters and be in line with other lineages in the family to be practical for the user. In the case of tribe
+Linnaeeae, related genera such as Lonicera of tribe Caprifolieae could be used as an example. The
+morphological diversity seen in Lonicera should prompt the question why that genus is not divided further,
+when Linnaea is. The morphological similarity of the genera in Linnaeeae, especially in characteristics of the
+flowers is so obvious that some of these species when first discovered, early botanists treated them as
+Linnaea, indicating a close relationship. Linnaea is easily recognised by its paired flowers, hence the
+vernacular name in English: twin flower. Linnaea in the broad sense are erect or creeping shrubs with simple
+usually opposite leaves without stipules. The inflorescences are paired cymes and reduced to 1 or 2 flowers
+per inflorescence with leaf-like or scale-like bracts. Flowers are bisexual, zygomorphic, the corolla tubular
+with 4 or 5 imbricate lobes and a nectary of glandular hairs inside the tube, and 4 stamens adnate to the corolla
+tube. The ovary is inferior, with axile placenta and single fertile ovules per locule, only 1 or 2 locules
+developing into an achene crowned with persistent (or deciduous) sepals. The most divergent species in the
+broader Linnaea are those currently placed in Kolkwitzia and Dipelta, for which I propose new combinations
+in Linnaea below.
+
+26 •
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+CHRISTENHUSZ
+
+One argument of not accepting a broader circumscription of Linnaea, as proposed here, is the loss of
+genera well-known to horticulture, such as Abelia and Kolkwitzia, but the alternative is to divide one of these,
+Abelia, into three genera to produce a monophyletic classification, destabilising the names just as extensively
+and requiring new generic names to be adopted by the users. This also results in the Linnaea clade (see
+Landrein & Prenner, 2013) consisting of six genera, none with more than three species, which is highly
+divided in comparison to other genera in Caprifoliaceae. The total number of species is only 13 according to
+Landrein (2010b), although other authors disagree about this (e.g Jacobs et al. 2010 included several
+additional species in their analysis that are not mentioned by Landrein 2010b). Here, I include a total of 17
+taxa (following Yang & Landrein 2011, excluding Zabelia). The taxonomy of the species complex
+surrounding L. uniflora (R.Br.) A.Br. & Vatke in Vatke (1872: 291) needs further study and may include as yet
+undescribed species.
+The differences between the genera Abelia, Diabelia, Dipelta, Kolkwitzia, Linnaea and Vesalea lies in the
+inflorescence structure (Landrein et al. 2012, Landrein & Prenner 2013), but without micromorphological
+study they all appear similar due to the strong reduction of the inflorescences. Inflorescence structure is
+variable within many other genera. Lonicera has a similar variability of inflorescence structure and also in
+plant habit (e.g. Laros 2013), even more diverse than Linnaea sensu lato. In several other groups this can also
+be found, with good examples in Amaryllidaceae: Milula spicata Prain (1895: 56; with racemose
+inflorescences) was found to be embedded in Allium (with umbellate inflorescences) and was hence
+transferred into that genus (Friesen et al. 2000). Additionally in Gilliesioideae of Amaryllidaceae,
+nomenclatural changes are needed to form monophyletic lineages irrespective of inflorescence structure (Fay
+et al. 2006). If inflorescence structure is the only reason to maintain separate genera, then these species are
+surely better placed in a single genus and the segregate genera reverted to subgeneric or sectional levels. Plant
+habit has also been applied as a character to separate some of genera, but there are also precedents for treating
+creeping, nearly herbacous species in the same genus as more typically woody shrubs or trees, such as in
+Betula Linnaeus (1753: 982; Betulaceae), Clematis Linnaeus (1753: 543; Ranunculaceae), Cornus Linnaeus
+(1753: 117; Cornaceae), Ficus Linnaeus (1753: 1059; Moraceae), Fuchsia Linnaeus (1753: 1191;
+Onagraceae), Lonicera (Caprifoliaceae) and Salix Linnaeus (1753: 1015; Salicaceae).
+Because of these name changes, I realise that people working in horticulture will have to become familiar
+with the concept of Linnaea as a common garden shrub in the temperate zones of the world. That name will no
+longer be exclusive to the species L. borealis, which is only grown rarely in alpine plant collections. I should
+point out that a system of recognising six genera is not wrong per se—all genera are monophyletic and can be
+recognised morphologically (Landrein 2010a, Landrein & Prenner 2013)—but that is not surprising because
+of the small number of species of which they consist. We can question if we are looking at differences
+between genera or species. Of course the delimitation of genera is arbitrary, and depends on tradition and
+preference of the user. Here, I am merely making the names available to provide a choice. It is up to users,
+ultimately, to decide what generic system is preferable and which names will be accepted in future treatments
+of Caprifoliaceae.
+
+Taxonomy
+Linnaea [Gronov.] L.
+Gronovius in Linnaeus (1737: 188); Linnaeus (1753: 631).
+Type: Linnaea borealis [Gronov.] L.
+Synonyms: Abelia Brown (1818: 376), Diabelia Landrein (2010b: 35), Dipelta Maximowicz (1878: 50), Kolkwitzia
+Graebner in Diels (1901: 593), Linneusia Rafinesque (1830: 239), nom. illeg. superfl., Obolaria Kuntze (1891: 275),
+nom. illeg. hom. non Linnaeus (1753), Vesalea Martens & Galeotti (1843: 242)
+
+Erect or creeping shrubs. Leaves opposite or whorled, simple, without stipules, petiolate. Axillary buds
+exposed. Inflorescences terminal or axillary, simple or compound reduced thyrses, flowers single or paired.
+A RECIRCUMSCRIPTION OF LINNAEA
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+• 27
+
+Bracts leaf-like or scale-like, located at bases of flowers, forming an epicalyx around the flowers. Flowers
+bisexual, zygomorphic. Perianth pentamerous. Calyx lobes 5, nearly free. Corolla funnelform or bilabiate with
+5 spreading lobes that are imbricate in bud. Nectaries consisting of glandular hairs inside corolla tube.
+Stamens four, alternating the corolla lobes, filaments adnate with the lower ⅓–½ corolla tube. Ovary inferior,
+3–4-loculed with axile placentation, usually one or two locules with a single fertile ovule the other two with
+numerous sterile ovules. Styles long, terminated by white, capitate stigmas. Fruit an achene crowned with
+persistent or rarely deciduous sepals, with one or two seeds.
+1. Linnaea amabilis (Graebn.) Christenh., comb. nov.
+Basionym: Kolkwitzia amabilis Graebner in Diels (1901: 593).
+Type: CHINA. Hua shan near Gniu yu, Giraldi 1725 (B).
+Distribution: China (Anhui, Gansu, Henan, Hubei, Shaanxi, Shanxi); rare in the wild but widely cultivated in China,
+Japan, Europe and North America.
+
+2. Linnaea borealis Linnaeus (1753: 631).
+Lectotype (designated by Jonsell in Jarvis et al. 1993): Herb. Linn. no. 250 (LAPP!).
+Heterotypic synonyms: Linnaea americana Forbes (1833: 135), L. borealis subsp. americana (J.Forbes) Hultén (1937:
+310), L. borealis subsp. longiflora (Torr.) Piper & Beattie (1915: 338), L. longiflora (Torr.) Howell (1900: 280), etc..
+Note: A great number of additional synonyms are listed by Wittrock (1907) and Brenner (1908, 1910), which are not
+repeated here to keep this paper concise. These synonyms should be addressed with respect to the variability of this
+species to be addressed in future studies.
+Distribution: Circumboreal and subarctic (Canada, northern and central USA, Greenland, northern Britain,
+Fennoscandia, Baltic States, Mainland Europe south to the Alps, and the Balkans, Ukraine, Russia, Siberia,
+Kazakhstan, Mongolia, northern China, Korea, northern Japan).
+
+3. Linnaea chinensis (R.Br.) A.Braun & Vatke (in Vatke 1872: 291).
+Basionym: Abelia chinensis Brown (1818: 376).
+Type: CHINA. Guangdong: Lienchow River, 19 August 1887, C. Ford 1795 (BM!).
+Heterotypic synonyms: Abelia aschersoniana (Graebn.) Rehder (1911: 127), A. cavaleriei Léveillé (1914: 60), A.
+hanceana M.Mart. ex Hance (1866: 216), A. ionandra Hayata (1918: 31), A. lipoensis An & Gou (2009: 129), A.
+rupestris Lindley (1846: 63), Linnaea aschersoniana Graebner (1900: 139), L. rupestris (Lindl.) A.Braun & Vatke
+in Vatke (1872: 291).
+Distribution: China (Fujian, Guangdong, Guangxi, Guizhou, Hubei, Hunan, Jiangxi, Sichuan, Yunnan, Zhejiang),
+northern Vietnam, Taiwan. The species is commonly cultivated in China and Japan, occasionally so in Europe and
+North America.
+
+4. Linnaea coriacea (Hemsl.) Christenh., comb. nov.
+Basionym: Abelia coriacea Hemsley (1880: 53)
+Type: MEXICO. San Luis Potosí: 6000–8000 feet, 1878, Parry & Palmer 299 (holotype K!, isotypes GH, MO!).
+Homotypic synonym: Vesalea coriacea (Hemsl.) K.Tim & B.Sun ex Landrein (2010: 38).
+Distribution: Mexico (Nuevo León, San Luis Potosí).
+
+5. Linnaea dipelta Christenh., nom. nov.
+Replaced synonym: Dipelta floribunda Maximowicz (1878: 51), non Linnaea floribunda (M.Mart. & Galeotti) A.Braun
+& Vatke in Vatke (1872: 291).
+Type: CHINA. ‘Prov Shensi: montibus circa urbem Han-tschun-fu, initio Aprilis florens’ 1875, Piasezki s.n. (LE)
+Heterotypic synonym: Dipelta floribunda var. parviflora Rehder (1924: 241).
+Distribution: China (Gansu, Guangxi, Hubei, Hunan, Shaanxi, Sichuan).
+
+6. Linnaea elegans (Batalin) Christenh., comb. nov.
+Basionym: Dipelta elegans Batalin (1895: 174)
+Type: CHINA. ‘Prov. Kansu orientale, trajectus altus inter pagus Mör ping et Wu ping’, 27 June & 5 July 1885, Potanin
+s.n. (LE).
+Distribution: China (Gansu, Sichuan).
+
+28 •
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+CHRISTENHUSZ
+
+7. Linnaea floribunda (M.Mart. & Galeotti) A.Braun & Vatke (in Vatke 1872: 291).
+Basionym: Vesalea floribunda Martens & Galeotti (1844: 242).
+Type: MEXICO. Veracruz: Dans les forêts alpines du pic d'Orizaba a 10,000 pie. Galeotti 2641 (holotype BR)
+Homotypic synonym: Abelia floribunda (M.Mart. & Galeotti) Decaisne (1846: pl. IV).
+Heterotypic synonyms: Abelia speciosa Decaisne (1846: sub pl. IV), Vesalea hirsuta Martens & Galeotti (1844: 242).
+Distribution: Mexico (Chiapas, Oaxaca, Puebla, Veracruz)
+
+8. Linnaea forrestii Diels (1912: 178).
+Type: CHINA. Yunnan: Salwin valley between Shichi-Ti and Xia-ku-ti, dry, scrubby hillsides, 6000–7000 ft, November
+1905, Forrest 867 (holotype E-00265299!, isotype P-00482062!)
+Homotypic synonym: Abelia forrestii (Diels) Smith (1916: 76).
+Heterotypic synonyms: Abelia gracilenta Smith (1916: 76), A. microphylla (W.W.Sm.) Golubkova (1973: 241).
+Distribution: south-central China (southwestern Sichuan, northwestern Yunnan)
+
+9. Linnaea × grandiflora (André) Christenh., comb. nov.
+Basionym: Abelia rupestris grandiflora André (1886: 488), without rank
+Type: none cited, based on living plants cultivated by M. Rovelli [as ‘Rivelli’] in Pallanza, Italy.
+Homotypic synonym: Abelia × grandiflora (André) Rehder in Bailey (1900: 1).
+Note: A garden hybrid of L. chinensis and L. uniflora, only known from cultivation.
+
+10. Linnaea grandifolia (Villareal) Christenh., comb. nov.
+Basionym: Abelia grandifolia Villareal in Villareal & De la Rosa (2000: 174)
+Type: MEXICO. Querétaro: Mun. Jalpan, 9–10 km al S de San Juan de Durán, Cerro Grande, laderas de bosque de
+pinoencino, 2600–2700 m, 13 June 1991, Servín 1101 (holotype IEB, isotype CAS).
+Distribution: Central Mexico (Querétaro).
+
+11. Linnaea mexicana (Villareal) Christenh., comb. nov.
+Basionym: Abelia mexicana Villareal in Villareal & De la Rosa (2000: 172).
+Type: MEXICO. Oaxaca: Mun. San Sebastián Tecomaxtlahuaca, cerca de 10 km de San Sebastián Yecomaxtlahuaca,
+camino a San Martín Duraznos, 17º18'N, 98º06'W, bosque de Quercus-Juniperus-Brahea, 1755 m, 19 July 1996,
+Calzada 21100 (holotype MEXU, isotypes ANSM, ENCB, L!).
+Distribution: south-central Mexico (Oaxaca).
+
+12. Linnaea occidentalis (Villareal) Christenh., comb. nov.
+
+Basionym: Abelia occidentalis Villareal (1997: 84).
+Type: MEXICO. Durango: Villarreal et al. 8180 (holotype: MEXU, isotypes ANSM, CIIDIR, ENCB, TEX).
+Distribution: Mexico (Durango).
+
+13. Linnaea serrata (Siebold & Zucc.) Graebner (1900: 133)
+Basionym: Abelia serrata Siebold & Zuccarini (1835: 76)
+Type: JAPAN. Honshu: Nagasaki. Mt. Sitsrama, Von Siebold s.n. (L!)
+Homotypic sysnonym: Diabelia serrata (Siebold & Zucc.) Landrein (2010: 37).
+Heterotypic synonyms: Linnaea buchwaldii Graebner (1900: 136), Linnaea gymnocarpa Graebn. & Buchw. ex Graebner
+(1900: 134).
+Distribution: China (Zhejiang), Japan (Honshu, Kyushu, Shikoku).
+
+14. Linnaea spathulata (Siebold & Zucc.) Graebner (1900: 142)
+Basionym: Abelia spathulata Siebold & Zuccarini (1835 [-1839]: 77).
+Type: JAPAN. Kiusiu: Mt. Innio, Von Siebold s.n. (L!)
+Distribution: China (Zhejiang), Japan (Honshu, Kyushu, Shikoku).
+Homotypic synonym: Diabelia spathulata (Siebold & Zucc.) Landrein (2010: 37).
+
+15. Linnaea tetrasepala (Koidz.) Christenh., comb. nov.
+
+Basionym: Abelia spathulata var. tetrasepala Koidzumi (1915: 311)
+Type: JAPAN. Honshu: Saitama-ken (Musashi, Chichibu), Matsumura s.n. (TI).
+
+A RECIRCUMSCRIPTION OF LINNAEA
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+• 29
+
+Distribution: Japan (Honshu, Shikoku).
+Homotypic synonyms: Diabelia tetrasepala (Koidz.) Landrein (2010: 36)
+
+16. Linnaea uniflora (R.Br.) A.Br. & Vatke in Vatke (1872: 291)
+Basionym: Abelia uniflora Brown (1830: 15)
+Type: CHINA. John Reeves.
+Heterotypic synonyms: Abelia deutziifolia (H.Lév.) Léveillé (1914: 60), Abelia engleriana (Graebn.) Rehder (1911: 120),
+A. graebneriana Rehder (1911: 118), A. longituba Rehder (1911: 126), A. macrotera (Graebn. & Buchw.) Rehder
+(1911: 126), A. mairei Léveillé (1915: 26), A. myrtilloides Rehder (1911: 120), A. parvifolia Hemsley in Forbes &
+Hemsley (1888: 358), A. schischkinii Golubkova (1955: 394), A. schumannii (Graebn.) Rehder (1911: 121), A.
+tereticalyx (Graebn. & Buchw.) Rehder (1911: 127), A. verticillata Léveillé (1914: 61), Linnaea engleriana Graebner
+(1900: 132), L. koehneana Graebner (1900: 132), L. macrotera Graebn. & Buchw. in Graebner (1900: 131), L.
+parvifolia (Hemsl.) Graebner (1900: 129), L. schumannii Graebner (1900: 130), L. tereticalyx Graebn. & Buchw. in
+Graebner (1900: 130), Strobilanthopsis deutziifolius Léveillé (1913: 21), S. hypericifolius Léveillé (1913: 20).
+Note: This is a species complex that is not yet well resolved. Some taxa placed here in synonymy may, with further
+research, require recognition.
+Distribution: China (Fujian, Gansu, Guangxi, Guizhou, Henan, Hubei, Hunan, Shaanxi, Sichuan, Yunnan). Frequently
+cultivated.
+
+17. Linnaea yunnanensis (Franch.) Christenh., comb. nov.
+Basionym: Dipelta yunnanensis Franchet (1891: 246, fig. 62).
+Lectotype (designated here): CHINA. Yunnan: Les forêts au col de Yen tze hay (Lan kong), 3000 m, 27 June 1886,
+Delavay 2222 (P-00639763!).
+Heterotypic synonyms: Dipelta ventricosa Hemsley (1908: 101).
+Distribution: China (Gansu, Guizhou, Hubei, Shaanxi, Sichuan, Yunnan), and adjacent Burma.
+
+Unresolved name:
+
+Linnaea pseudoproterantha Pamp., Nuovo Giorn. Bot. Ital. 17: 723 (1910).
+Excluded names:
+Linnaea adenotricha (Hance) Graebn. = Zabelia biflora (Turcz.) Makino
+Linnaea angustifolia (Bureau ex Franch.) Graebn. = Zabelia triflora (R.Br.) Makino
+Linnaea brachystemon Diels = Zabelia dielsii (Graebn.) Makino
+Linnaea corymbosa Regel & Schmalh. ≡ Zabelia corymbosa (Regel & Schmalh.) Makino
+Linnaea dielsii Graebn. ≡ Zabelia dielsii (Graebn.) Makino
+Linnaea onkocarpa Graebn. = Zabelia dielsii (Graebn.) Makino
+Linnaea triflora (R.Br.) A.Braun & Vatke ≡ Zabelia triflora (R.Br.) Makino
+Linnaea umbellata Graebn. & Buchw. = Zabelia dielsii (Graebn. & Buchw) Makino
+Linnaea zanderi Graebn. = Zabelia dielsii (Graebn.) Makino
+
+References
+An, M.-T. & Gou, G.-Q. (2009) Abelia lipoensis, a new species of the genus Abelia from Guizhou, China. Bulletin of
+Botanical Research (North-Eastern Forestry University) 29: 129–130.
+André, E. (1886) Abelia rupestris grandiflora. Revue Horticole 58: 488.
+Batalin, A. (1895) Notae de plantis asiaticis LXXII-LXXXIX. Trudy Imperatorskago S.-Peterburgskago Botanicheskago
+Sada 14: 165–184.
+Bailey, L.H. (1900) Cyclopedia of American Horticulture. The Macmillan Company, New York.
+Bell, C.D., Edwards, E.J., Kim, S.-T. & Donoghue, M.J. (2001) Dipsacales phylogeny based on chloroplast DNA
+sequences. Harvard Papers in Botany 6: 481–499.
+Brenner, M. (1908) Några Linnaea-former i Finland. Meddelanden af Societas pro Fauna et Flora Fennica 34: 89–97.
+Brenner, M. (1910) Nya Linnaea-former från Ingå. Meddelanden af Societas pro Fauna et Flora Fennica 36: 9–13.
+
+30 •
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+CHRISTENHUSZ
+
+Brown, R. (1818) Abelia. In: Clarke, A. (ed.) Narrative of a journey in the interior of China and of a voyage to and from
+that country in the years 1816 and 1817. Longman, Hurst, Rees, Orme & Brown, London. pp. 376–378.
+Brown, R. (1830) Abelia triflora. Plantae Asiaticae Rariores 1: 14–15.
+Christenhusz, M.J.M. (2012) On African violets and Cape primroses—towards a monophyletic Streptocarpus
+(Gesneriaceae). Phytotaxa 46: 3–9.
+Christenhusz, M.J.M. & Väre, H. (2012) New combinations in Potentilla (Rosaceae) for the Nordic Flora. Phytotaxa 57:
+1–5.
+Cubey, J., Armitage, J., Edwards, D., Lancaster, N. & Whitehouse, C. (2013) RHS Plant Finder 2013. Royal
+Horticultural Society, Wisley.
+Decaisne, J. (1846). Abelia floribunda, Abélie a fleurs nombreuses. Flore des serres et des jardins de l’Europe 2: pl. IV.
+Diels, L. (1901) Die Flora von Central-China (Schluss). Botanische Jahrbücher für Systematik, Pflanzengeschichte und
+Pflanzengeographie 29: 577–659.
+http://dx.doi.org/10.1038/023263a0
+Diels, L. (1912) Plantae Chinenses Forrestianae. Plants discovered and collected by George Forrest during his first
+expedition of Yunnan and Eastern Tibet in the years 1904, 1905, and 1905 – New and imperfectly known species.
+Notes from the Royal Botanic Garden, Edinburgh 5: 161–308.
+Fay, M.F., Rudall, P.J. & Chase, M.W. (2006) Molecular studies of subfamily Gilliesioideae (Alliaceae). Aliso 22: 367–
+371.
+Forbes, F.B. & Hemsley, W.B. (1888) An enumeration of all the plants known from China Proper, Formosa, Hainan,
+Corea, the Luchu Archipelago, and the Island of Hongkong, together with their distribution and synonymy. Journal
+of the Linnean Society, Botany 23: 1–521.
+http://dx.doi.org/10.1111/j.1095-8339.1888.tb00535.x
+Forbes, J. (1833) Hortus Woburnensis, a descriptive catalogue of upwards of six thousand ornamental plants cultivated
+at Woburn Abbey. London, James Ridgway.
+http://dx.doi.org/10.5962/bhl.title.59239
+Franchet, A. (1891) Dipelta yunnanensis. Revue Horticole 63: 246–247.
+Friesen, N., Fritsch, R.M., Pollner, S., & Blattner, F.R. (2000) Molecular and morphological evidence for an origin of the
+aberrant genus Milula within Himalayan species of Allium (Alliaceae). Molecular Phylogenetics and Evolution 17:
+209–218.
+http://dx.doi.org/10.1006/mpev.2000.0844
+Golubkova, V.F. (1955) Generis Abeliae R. Br. species nova. Botanicheskie Materialy Gerbariia Botanicheskogo
+Instituta imeni V. L. Komarova Akademii Nauk SSSR 17: 394-398.
+Golubkova, V.F. (1973) De speciebus nonnullis generis Abelia R. Br. (Caprifoliaceae Juss.). Novitates Systematicae
+Plantarum Vascularium (Novosti Sistematiki Vysshchikh Rastenii) 10: 241–248.
+Graebner, P. (1900) Die Gattung Linnaea (einschliefslich Abelia). Botanische Jahrbücher für Systematik,
+Pflanzengeschichte und Pflanzengeographie 29: 120–145.
+http://dx.doi.org/10.1038/023263a0
+Hance, H.F. (1866) Adversaria in stirpes imprimis Asiae orientalis critical minusve notas interjectis novarum plurimarum
+diagnosibus. Annales des Sciences Naturelles, Botanique, sér. 5, 5: 202–261.
+Hayata, B. (1918) Icones plantarum formosanarum nec non et contributiones ad floram formosanam vol. 7.
+http://dx.doi.org/10.5962/bhl.title.1316
+Hemsley, W.B. (1880) Diagnoses Plantarum Novarum vel Minus Cognitarum Mexicanarum et Centrali-Americanarum,
+part 3. Taylor & Francis, London.
+Hemsley, W.B. (1908) New or noteworthy plants – the genus Dipelta. The Gardeners’ Chronicle ser. 3, 44: 101–103.
+Howell, T.J. (1900) A flora of Northwest America vol. 1. [no publisher given], Portland, Oregon.
+Hultén, E. (1937) Flora of the Aleutian Islands and westernmost Alaska Peninsula: with notes on the flora of
+Commander Islands. J. Cramer, New York.
+Jacobs , B., Pyck, N. & Smets, E. (2010) Phylogeny of the Linnaea clade: are Abelia and Zabelia closely related?
+Molecular Phylogenetics and Evolution 57: 741–752.
+http://dx.doi.org/10.1016/j.ympev.2010.08.007
+Jacobs, B., Geuten, K., Pyck, N., Huysmans, S., Jansen, S. & Smets, E. (2011) Unraveling the phylogeny of
+Heptacodium and Zabelia (Caprifoliaceae): an interdisciplinary approach. Systematic Botany 36: 231–252.
+http://dx.doi.org/10.1600/036364411x553306
+Jarvis, C.E., Barrie, F.R., Allan, D.M. & Reveal, J.L. (1993) A list of Linnaean generic names and their types. Regnum
+Vegetabile 127: 1–100.
+Koidzumi, G. (1915) Decades Plantarum Novarum. The Botanical Magazine (Tokyo) 29(348): 311–315.
+Kuntze, O. (1891) Revisio Generum Plantarum vol. 1. A. Felix, Leipzig.
+Landrein, S. (2010a) Abelia and its relatives. The Plantsman (New Series) 9: 40–47.
+Landrein, S. (2010b) Diabelia, a new genus of tripe Linnaeeae subtribe Linnaeinae (Caprifoliaceae). Phytotaxa 3: 34–38.
+
+A RECIRCUMSCRIPTION OF LINNAEA
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+• 31
+
+http://dx.doi.org/10.11646/phytotaxa.3.1.4
+Landrein, S., Prenner, G., Chase, M.W. & Clarkson, J.J. (2012) Abelia and relatives: phylogenetics of Linnaeeae
+(Dipsacales–Caprifoliaceae s.l.) and a new interpretation of their inflorescence morphology. Botanical Journal of
+the Linnean Society 169: 692–713.
+http://dx.doi.org/10.1111/j.1095-8339.2012.01257.x
+Landrein, S. & Prenner, G. (2013) Unequal twins? Inflorescence evolution in the twinflower tribe Linnaeeae
+(Caprifoliaceae s.l.). International Journal of Plant Sciences 174: 200–233.
+http://dx.doi.org/10.1086/668251
+Laros, A.J. (2013) Lonicera collection. Royal Boskoop Horticultural Society (KVBC). http:// http://www.lonicera.nl/.
+Accessed online 11 June 2013.
+Léveillé, H. (1913) Decades plantarum novarum. CVI – CVIII. Acanthaceae chinenses et coreanae. Repertorium
+specierum novarum regni vegetabilis 12: 18–23.
+http://dx.doi.org/10.1002/fedr.4870120105
+Léveillé, H. (1914) Flore du Kouy-Tchéou. Published by the author, Le Mans.
+Léveillé, H. (1915) Catalogue des Plantes de Yun-Nan avec renvoi aux diagnoses originales, observations et
+descriptions d’espèces nouvelles. Published by the author, Le Mans.
+Lindley, J. (1846) New plants, etc., from the Society’s garden. Journal of the Horticultural Society of London 1: 61–77.
+Linnaeus, C. (1737) Genera plantarum, ed. 1. Wishoff, Leiden.
+Linnaeus, C. (1753) Species plantarum. L. Salvius, Stockholm.
+Makino, T. (1948) Makinoa, sive plantae notae miscellaneae vol. 9. Published by the author, Tokyo.
+Martens, M. & Galeotti H. (1843) Enumeratio synoptica plantarum phanerogamicarum ab Henrico Galeotti in regionibus
+Mexicanis collectarum, Lonicerae. Bulletin de l’Academie Royale de Bruxelles 10: 241–242.
+Martens, M. & Galeotti H. (1844) Enumeratio synoptica plantarum phanerogamicarum in regionibus Mexicanis ab
+Henrico Galeotti collectarum (continuatio). Bulletin de l’Académie Royale des Sciences et Belles-Lettres de
+Bruxelles 11(1): 227–243.
+Maximowicz, C.J. (1878) Diagnoses plantarum novarum asiaticarum. Bulletin de l’Academie Imperiale des Sciences de
+Saint-Pétersbourg Ser. 3, 24: 50–51.
+Ohwi, M. (1965) Flora of Japan (in English). Smithsonian Institution, Washington, D.C.
+Piper, C.V. & Beattie, R.K. (1915) Flora of the Northwest Coast. The New Era Printing Company, Lancaster,
+Pennsylvania.
+Prain, D. (1895) On Milula, a new genus of Liliaceae from the Eastern Himalaya. Scientific Memoirs by Officers of the
+Medical and Sanitary Department of the Government of India 9: 55–58.
+Pyck, N. (2001) Phylogenetic relations within Dipsacales: a combined molecular and morphological approach. Thesis,
+Katholieke Universiteit Leuven, Louvain.
+Rafinesque, C.S. (1830) Medical flora vol. 2. Atkinson & Alexander, Philadelphia.
+Rehder, A. (1911) Caprifoliaceae, Abelia, in Sargent, C.S. (ed.) Plantae Wilsonianae 1: 118 - 129.
+Rehder, A. (1916) Caprifoliaceae, Heptacodium, in Sargent, C.S. (ed.) Plantae Wilsononianae 2: 617–619.
+Rehder, A. (1924) New species, varieties and combinations from the herbarium and the collections of the Arnold
+Arboretum. Journal of the Arnold Arboretum 5: 235–242.
+Ricket, H.W. (1941) Linnaeus’ rules of nomenclature: a chapter in the history of plant names. Torreya 41: 188–191.
+Siebold, P.F. & Zuccarini, J.G. (1835) Flora Japonica vol. 1. Published by the authors, Leiden.
+Smith, W.W. (1916) Diagnoses specierum novarum in herbario Horti Regii Botanici Edinburgensis cognitarum CLICCL. Notes from the Royal Botanic Garden, Edinburgh 9: 71–144.
+Vatke, W. (1872) Ueber die Gattung Abelia R. Br. Oesterreichische botanische Zeitschrift 22: 290–291.
+http://dx.doi.org/10.1007/bf01614741
+Villareal, J.A. (1997) A new species of Abelia (Caprifoliaceae) from western Mexico, Brittonia 49: 84–86.
+http://dx.doi.org/10.2307/2807700
+Villareal, J.A. & De La Rosa I., M. (2000) Two new species of Abelia (Caprifoliaceae) from Mexico, Brittonia 52: 172–
+176.
+http://dx.doi.org/10.2307/2666508
+Winkworth, R.C., Lundberg, J. & Donoghue, M.J. (2008) Toward a resolution of campanulid phylogeny, with special
+reference to the placement of Dipsacales. Taxon 57: 53–65.
+Wittrock, V.B. (1907) Linnaea borealis L. species polymorpha et polychroma. Linnaea borealis L. en mångformig art.
+Acta Horti Bergiani 4(7): 5–178.
+Yang, Q. & Landrein, S. (2011) Linnaeaceae, in: Wu, Z.Y., Raven P.H. & Hong, D.Y. (eds.) Flora of China 19: 642–648.
+
+32 •
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+CHRISTENHUSZ
+
+

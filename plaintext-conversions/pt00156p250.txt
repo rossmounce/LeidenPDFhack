@@ -1,0 +1,48 @@
+Phytotaxa 156 (4): 250–250
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.156.4.7
+
+Hieracium sudetotubulosum (Asteraceae), a new name for the illegitimate H.
+tubulosum (Tausch) Tausch
+ZBIGNIEW SZELĄG
+Institute of Botany, Jagiellonian University, Kopernika 31, PL-31-501 Kraków, Poland, azszelag@wp.pl
+
+Hieracium alpinum var. tubulosum Tausch (1828: 63) was raised to species rank as H. tubulosum (Tausch) Tausch
+(1837: 68), an illegitimate homonym of H. tubulosum Lamarck (1786: 367). The latter is a different, unrelated
+species pertaining to the H. intybaceum aggregate and described from the Alps, whereas Tausch’s taxon is endemic
+to the Sudetes and belongs to the H. alpinum aggregate (Chrtek, 1997). Hieracium tubulosum (Tausch) Tausch
+differs from other central European species of the H. alpinum aggregate by having tubular florets, so that the
+replacement name proposed below is etymologically appropriate.
+In his taxonomic revision of the H. alpinum aggregate in the Sudetes, Chrtek (1997: 88) selected the
+“lectotypus vel neotypus” of the name H. tubulosum (Tausch) Tausch from among Tausch’s specimens stored at
+PRC. I saw that specimen, which obviously is part of the original material and is therefore the lectotype rather than
+neotype.
+Hieracium sudetotubulosum Szeląg, nom. nov.
+Replaced synonym:—Hieracium alpinum var. tubulosum Tausch in Flora 11(1), Ergänzungsbl. 1: 63. 1828 ≡ H.
+tubulosum (Tausch) Tausch (1837: 68), non Lamarck (1786: 367).
+Lectotype (designated by Chrtek, 1997):—[Czech Republic] In Sudetis, Tausch (PRC!).
+Illustrations:—Chrtek (1997: 89, fig. 6; 2004: 553, fig. 4).
+
+References
+Chrtek, J. (1997) Taxonomy of the Hieracium alpinum group in the Sudeten Mts., the West and the Ukrainian East Carpathians.
+Folia Geobotanica et Phytotaxonomica 32: 69−97.
+Chrtek junior, J. (2004) 11. Hieracium L.—jestřábník. In: Slavík, B., Štěpánková, J. & Štěpánek, J. (eds), Květena Česke
+Republiky. 7. Academia, Praha, pp. 540–701.
+Lamarck, J.B.A.P.M. de (1786) Encyclopedié méthodique. Botanique, 2(1). Panckoucke, Paris; Plomteux, Liège; pp. 1–400.
+Tausch, I.F. (1828) Bemerkungen über Hieracium und einige verwandte Gattungen. Flora 11, Ergänzungsblätter 1: 49−81.
+Tausch I.F. (1837) Bemerkungen über einige Hieracien des Riesengebirges. Flora 20, Beiblätter 1: 67–71.
+
+250 Accepted by Werner Greuter: 17 Dec. 2013; published: 21 Jan. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+

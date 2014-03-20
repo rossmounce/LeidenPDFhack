@@ -1,0 +1,882 @@
+Phytotaxa 162 (4): 181–197
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.162.4.1
+
+First record of the critically endangered Hydrangea steyermarkii Standl.
+(Hydrangeaceae) in Mexico, and description of a new widespread Hydrangea
+species of Mesoamerica
+MARIE-STÉPHANIE SAMAIN 1 ,2 , FRANCISCO HERNÁNDEZ NAJARRO 3 & ESTEBAN MANUEL
+MARTÍNEZ SALAS4
+1
+
+Instituto de Ecología, A.C., Centro Regional del Bajío, Avenida Lázaro Cárdenas 253, 61600 Pátzcuaro, Michoacán, Mexico; e-mail:
+MarieStephanie.Samain@gmail.com
+2
+Ghent University, Department of Biology, Research Group Spermatophytes, 9000 Gent, Belgium
+3
+Herbario CHIP, Dirección de Botánica Dr. Faustino Miranda, Secretaria de Medio Ambiente e Historia Natural, Apartado Postal 6,
+29000 Tuxtla Gutiérrez, Chiapas, Mexico
+4
+Herbario Nacional de México, Departamento de Botánica, Instituto de Biología, Universidad Nacional Autónoma de México, 04510
+Mexico City, Distrito Federal, Mexico
+
+Abstract
+Based on our detailed observations in the field, completed with herbarium material of representatives of Hydrangea
+section Cornidia in southeastern Mexico and Central America, we found that Hydrangea steyermarkii Standley, in
+contrast to what has been assumed up to now, is restricted to the Tacaná Volcano on the border of Mexico and Guatemala.
+The majority of the specimens with reddish or whitish indument on their branches in South East Mexico and Central
+America, belonging to this nearly exclusively Neotropical Hydrangea clade, had been identified as such, but the
+characters of these collections do not coincide with the single type specimen of H. steyermarkii, neither with other
+individuals of this species growing in the type locality area. In fact, nearly all specimens of Mesoamerica that had been
+identified as this species belong to a new species with a relatively wide distribution, which we describe here. This new
+species is illustrated and compared with H. steyermarkii, of which we also provide an amended description and
+illustrations. Finally, on the basis of these two species we document previously suggested dioecism in this plant group,
+which not only has consequences for systematics and nomenclature in this clade, but also for conservation.
+Key words: Hortensia, taxonomy, Neotropics, functional dioecism, conservation
+
+Introduction
+The genus Hydrangea Linnaeus (1753a: 397) (Hydrangeaceae) is with more than 1,000 cultivars and hybrids
+already since centuries a very popular ornamental plant group. These ornamentals with inflorescences with
+attractive marginal flowers are commonly known as hortensias, and descend from Asian shrubby species such as
+H. macrophylla (Thunb.) Ser. in de Candolle (1830: 15) and H. aspera D. Don (1825: 211). The Asian
+representatives of Hydrangea have been relatively well studied although the species boundaries and relationships
+continue to be disputed (Wei & Bartholomew 2001). Contrarily, the nearly exclusively American section Cornidia
+Ruiz & Pavón (1794: 53) is very poorly known from any point of view, be it taxonomical, biological or ecological,
+mainly because the available taxonomical and floristic studies are entirely based on the observation of fragmentary
+herbarium material. All representatives are evergreen root climbers growing up to 30–40 meter high in the canopy
+of mostly primary forests, with coriaceous leaves and hortensia-like whitish, greenish, yellowish or purplish
+inflorescences, with our without marginal so-called “sterile” flowers. Their distribution area extends from northern
+Mexico to southern Chile and Argentina with one species, Hydrangea integrifolia Hayata in Matsumura & Hayata
+(1906: 131), in China, Taiwan and the Philippines.
+Accepted by Federico Luebert: 19 Feb 2014; published: 17 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+181
+
+According to several recent molecular studies, Hydrangea section Cornidia (hereafter shortened as Cornidia)
+is monophyletic, including the single Asian species (Samain et al. 2010, Granados Mendoza et al. 2013a, b).
+However, it is currently unknown how many species belong to this section as our recent field work across the
+Neotropics has yielded new morphospecies which cannot be assigned to any known taxon (ongoing unpublished
+studies). Since the description of Cornidia as a genus by Ruiz & Pavón (1794: 53) – later included as a section in
+Hydrangea by Engler (1891: 76) – more than 40 taxa have been described in this group. The monograph of the
+genus Hydrangea s.s. by McClintock (1957), which is entirely based on the study of herbarium specimens, is the
+only available recent revision of this section and includes 12 accepted species, classified in two subsections,
+Monosegia Briquet (1919: 396) and Polysegia Briquet (1919: 396). Although McClintock (1957) revised many
+collections from the whole distribution area, it is obvious that this work oversimplifies the rather astonishing
+diversity of climbing Hydrangeas in the Neotropics. Subsequent publications have largely taken over the
+viewpoints of McClintock (1957) and also have been mainly or entirely based on herbarium material. Currently, 11
+species and one variety are accepted in section Cornidia.
+According to Christenhusz (2009) in the Flora Mesoamericana, the most widespread species in southeastern
+Mexico and Central America is Hydrangea steyermarkii Standley (1940: 233), based on a single collection from
+Julian Steyermark on the Guatemalan side of the Volcano Tacaná near the border with Mexico. However, our recent
+field observations demonstrated that the collections made in Chiapas by Dennis Breedlove and his collaborators in
+the framework of the project “Flora of Chiapas” (Breedlove, 1986) do not belong to Hydrangea steyermarkii, but
+to a yet undescribed relatively widespread species instead. After detailed comparison with the type specimen, we
+conclude that only our collections on the Mexican side of the Volcano Tacaná near the type locality of H.
+steyermarkii effectively belong to this species.
+Throughout its distribution area, Cornidia not only seems to be undercollected but also highly endangered
+because of its occurrence in hyper-conserved primary forests, which are becoming rarer every day. For instance in
+Mexico, our intensive exploring field work since 2009 revealed the presence of new populations which had never
+been noticed before and which are already at risk. Moreover, the fact that these remarkable plants remained
+undiscovered up to now is especially striking because of their growth form and size. As a consequence of their
+exceptional dimensions, sufficient material for further study generally can only be collected using mountaineering
+equipment, a technique which is rarely applied in botanical field work (Fig. 1A). Previous collections often seem to
+be fallen branches where some floral parts have been shed already. As a result, the diversity in this clade has been
+underestimated. To date, the last new species in Cornidia has been described 45 years ago by Nevling and GómezPompa (1968).
+The aims of this paper are twofold: 1) presenting a description of the new Hydrangea species which has been
+confused with H. steyermarkii and had not been recognized before, and 2) providing an amended description of H.
+steyermarkii. Additionally, we discuss shortly the consequences for taxonomy and conservation of the functional
+dioecism observed in this Hydrangea clade.
+
+Material and Methods
+Extensive field work has been carried out in the state of Chiapas in southeastern Mexico and in Costa Rica during
+summer and winter seasons of 2011, 2012 and 2013, coinciding with the flowering seasons of both species.
+Individuals were carefully observed and herbarium material and flowers and fruits were collected for further study.
+Additionally, herbarium material of Hydrangea section Cornidia of the herbaria CAS, DUKE, F, INB, MEXU,
+MICH, MO and US has been studied and compared with our own collections (deposited in CHIP, GENT and
+MEXU, with the exception of the types which are deposited in more herbaria).
+Material for Scanning Electron Microscopy (SEM) was taken from herbarium material and fixed to aluminium
+stubs (especially made for the Instituto de Biología, UNAM) using standard carbon adhesive tapes (Electron
+Microscopy Sciences), sputter-coated with carbon (20 nm) and gold (20 nm) under argon atmosphere using a
+Quorum Q150R ES sputter-coater. Images were obtained with a Hitachi SU1510 scanning electron microscope at
+acceleration voltage of 10 kV.
+
+182 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+SAMAIN ET AL.
+
+Hydrangea albostellata Samain, Najarro & E.Martínez, spec. nov., Figs. 1, 2, 3, 4
+Mesoamerican functionally dioecious species which has been confused with Hydrangea steyermarkii Standl., from which it can
+be distinguished by the following characters: leaves with slightly undulate, spoon-shaped lamina with apiculate apex,
+abaxially densely white pubescent, especially in young stage, inflorescence axis densely pubescent with adnate, whitish,
+stellate hairs, calyx lobes of reduced flowers triangular, very small, sometimes nearly invisible, petals membranous,
+margin revolute.
+TYPE:ͶMEXICO. Chiapas: Pueblo Nuevo Solistahuacan, along the road Pueblo Nuevo Solistahuacan–Rayón,
+17°12'41.52"N, 92°57'50.61"W, 1827 m, 19 January 2012, M.S. Samain et al. 2012-023 (holotype: MEXU!, isotypes:
+CHIP!, GENT!, IEB!, K!, MEXU!, MO!, US!) [functionally female].
+
+FIGURE 1. Field pictures. A. Climbing a Hydrangea host tree with specific equipment (Tapalapa, Chiapas, Mexico). B. Branch of
+Hydrangea albostellata with four inflorescences, all inflorescence bracts already shed in lower right one where the flower buds are
+visible, lower left inflorescence partially opened, apical inflorescences still covered by all inflorescence bracts (M.S. Samain & E.
+Martínez S. 2012-090).
+
+Root-climbing liana of up to 35 m high, funtionally dioecious. Main stem clinging to the host tree with many
+adventitious roots, up to 20 cm diameter, bark dark brown, with lenticels. Runner shoots (stolons) reddish, with
+adventitious roots and stellate hairs, with small kataphylls. Branches many-ribbed, slightly angular, with many
+kataphyll scars, branches attached to host tree with adventitious roots, these roots fibrous, slightly flattened, with
+caducous stellate indument, free-growing branches terete, slightly fissured and exfoliant. Petiole sulcate adaxially,
+terete and corchy abaxially, this corchy line sometimes continuing in the abaxial midvein for approximately 1 cm,
+cortex fragmenting in mature ones, colour brownish grey, when young with whitish penicellate hairs, when mature
+(nearly) glabrous, 1–3 cm long, leaving a triangular scar on the branch when leaves fall (scar sometimes with
+slightly rounded borders). Leaves decussate, lanceolate-obovate to elliptic, lamina slightly undulated/spoonshaped, 9–14 cm long , 4–8 cm broad, base cuneate, apex apiculate, leaf margin smooth, venation
+brochidodromous, veins 6–9, adaxial leaf side with only slightly visible midvein, secondary and tertiary veins very
+lightly marked, secondary veins join to form submarginal or intramarginal vein, glabrous with few simple, short,
+white hairs along the basal half of the midvein, abaxially with protruding veins, sparsely pubescent in mature
+leaves (caducous) and even less hairy on primary and secondary veins, opaque whitish-green, young leaves densely
+pubescent, slightly reddish, indument caducous except on the midvein, acarodomatia absent, but much indument
+
+HYDRANGEA STEYERMARKII (HYDRANGEACEAE) IN MEXICO
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 183
+
+present in vein axils. Inflorescence axis densely pubescent with adnate, whitish, stellate hairs, 4–15–(25) cm long,
+robust in functionally female plants, delicate in functionally male plants, with 2–5 opposite or decussate leaf pairs
+below the inflorescence, the upper two pairs inserted at the base of the inflorescence below the inflorescence bracts,
+caducous, petiole 2–4 mm long, 3 mm broad, petioles of upper leaf pairs nearly sessile, lamina 0.8–3.5 cm long,
+0.7–1.1cm broad, starting from the base of the floral axis, each leaf pair with gradually diminishing size towards the
+inflorescence, apex of the floral axis woody, cone-shaped, elongated bract scars visible, thickening at the top, 6–8
+mm broad, 3–4 mm high in functionally female plants, 5 mm broad, 2 mm high in functionally male plants,
+inflorescence bracts cucullate, reddish, coriaceous, border membranous, adaxially slightly pubescent, abaxially
+densely pubescent with whitish stellate hairs, veins nearly invisible because of pubescence, bracts increasing in
+size, lowermost bract 1.5 cm large, 2 cm broad, higher bracts up to 3.5 cm large, 3 cm broad, consecutively and
+rapidly caducous during inflorescence development, bracts of partial inflorescences linear, reddish, 8 mm long, 1
+mm broad at the base, gradually tapering towards a pointed apex, caducous, inflorescences lateral, opposite, 1–3
+pairs of inflorescences per flowering branch, sometimes only 1 inflorescence developing, flowering branch only
+continues growing vegetatively very slowly during inflorescence development, with maximum two leaf pairs above
+the inflorescences, or kataphylls only, up to eight pairs, linear, with whitish stellate hairs and a corchy abaxial line,
+inflorescence axes with basal lignified parts of inflorescences of previous years visible in robust well-collected
+specimens, allowing to observe growth and flower periodicity, these rests 9–22 cm apart (but relatively constant
+within one specimen), with 4–9 decussate leaf pairs (or the scars of these leaves, this number constant within one
+specimen), medulla central in the branch, disappearing in older branches, leaving a hole only, leaves at the base of
+the inflorescence absent, inflorescence umbellate, buds up to 3.5 cm broad and 3 cm high before opening (Figs. 1B,
+4A), in flowering stage 5–14 cm diameter, 4–8 cm high, with 3–4 main axes in functionally male plants, 6–9 main
+axes in functionally female plants, partial inflorescences cymes (when enlarged marginal flowers are present, these
+terminally placed in each cyme), secondary and tertiary inflorescence axes with whitish stellate hairs, pubescence
+gradually decreasing towards flower insertion where there are some scarce hairs only. Enlarged marginal flowers
+sometimes present (Figs. 3A, 4A, B), flower pedicel 0.8–1(–1.8) cm long, receptacle rectangular, with 4 lateral ribs,
+1.5 mm high, 2.5–3 mm broad, 2 mm diameter, ovary inferior, sepals 4, yellowish to greenish, coriaceous with
+marked veins, quadrangular with rounded margins to orbicular, sometimes spoon-shaped, margin inwards revolute,
+(2.5–)4–8 mm long, (2.5–)4–7(–9) mm broad, petals reduced and caducous, stamens (3–)6, filaments reduced and
+flattened, 0.3 mm long, 0.2 mm broad, anthers 0.3 mm long, pistils 2, style 1–2 mm long, stigma spathulate to
+rounded, very shortly penicillate, sometimes with seeds. Flower pedicel of reduced flowers 1.5–2 mm long in
+functionally male flowers, (2–)3–4(–5) mm long in functionally female flowers, receptacle broadly campanulate in
+functionally male flowers (Figs. 3B, 4C), semiglobose in functionally female flowers (Figs. 3C, 4D), ovary inferior,
+calyx lobes 4, triangular, in some specimens nearly invisible, 0.1–0.3 mm long, seemingly pushing downwards the
+border of the receptable, petals 4, valvate, cucullate, margin revolute, membranous, 1.8–2.5 mm long, 1.5 mm
+broad, white; functionally male flowers (Fig. 3D): hypanthium 1.5–2 mm diameter to completely round or even
+quadrangular, stamens up to 9, well-developed, filaments 2.5–4 mm long, anthers 0.7–1 mm long, 0.3–0.5 mm
+broad, pistils 2, reduced, 0.5–0.6 mm long, stigmas not penicellate; functionally female flowers: stamens 7–9 (if 9:
+7 reduced and 2 rudimentary), reduced, filaments 0.1–0.5 mm long, anthers 0.2–0.7 mm long, 0.3 mm broad, pistils
+2, 1.2–1.5 mm long, enlarging up to 3 mm during fruit maturation, stigmas apically clavate and shortly penicellate,
+fruit a semiglobose capsule with 8 lateral ribs (Figs. 3C, 4D), apically with a conspicuous border, brownish, (2–)3(–
+4) mm high, 3.5 mm broad above, 2–3 mm diameter, opening between the two pistils to release seeds, seeds
+reddish, elongated, with pointed apices, 0.7–1 mm long, 0.2 mm thick.
+Habitat:ͶThis species is restricted to cloud forest (“selva mediana perennifolia” according to Miranda &
+Hernández X. (1963), “bosque mesófilo de montaña” according to Rzedowski (1978)) with permanent high
+humidity, up to 5000 mm rainfall, and high nubosity, on strong to moderate slopes of different geological
+substrates, metamorphic and sedimentary rocks. It occurs mainly on northeast-facing slopes, where the trade winds
+strike, in conserved places or on disturbed localities near water streams.
+Distribution:ͶHydrangea albostellata is characterized by a wide geographical and altitudinal distribution. In
+Mexico it occurs in the north and northeast of the state of Chiapas, wherever the required habitat is present,
+between 1200 and 2300 m above sea level. Interestingly, all recent collections are located between 1800 and 1900
+m altitude. Furthermore, this species has been collected in Honduras, El Salvador, Nicaragua and Costa Rica. It is
+not known from South America.
+
+184 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+SAMAIN ET AL.
+
+FIGURE 2. Field pictures. A–B, Hydrangea albostellata, C–D, Hydrangea steyermarkii (M.S. Samain et al. 2012-010). A. Branch
+with one mature green inflorescence with old male flowers and inflorescence axes with the basal lignified parts of inflorescences of
+previous years (M.S. Samain et al. 2012-005). B. Abaxial leaf side with dense pubescence consisting of whitish stellate hairs, note the
+typical spoon-shape and broadly revolute margin (M.S. Samain & E. Martínez S. 2012-090). C. Young branch, many-ribbed, with
+typical brownish-reddish cortex which contracts and forms corchy patches. D. Abaxial side of young leaf with whitish stellate
+indument, the leaf surface typically red-brown, the margin crenate with the marked bright green glandular teeth.
+
+Phenology:ͶIn Mexico, this species has been observed flowering from September to January and fruiting in
+January only. In Central America, plants seems to flower and fruit throughout the year.
+Etymology:ͶThis species can be easily distinguished from all other Mexican and Central American species
+because of the stellate white pubescence on leaves and inflorescence branches (Figs. 2B, 4E). These stellate hairs
+are partially caducous, which sometimes results in less notoriously pubescent leaves in dried specimens.
+Observations:ͶHydrangea albostellata has a larger distribution area than the majority of other species of
+section Cornidia. This is the only species of southeastern Mexico which had been collected by Dennis Breedlove
+and his collaborators from the California Academy of Sciences in the framework of the project Flora of Chiapas
+(Breedlove, 1986). Nearly all Mexican and Central American collections listed among the additional specimens
+here studied had been identified on the specimen labels as H. steyermarkii. Three of the five specimens mentioned
+as H. steyermarkii in the Flora Mesoamericana (Christenhusz 2009) in fact belong to H. albostellata. See Table 1
+for a summary of differentiating characters between both species.
+The different duplicates of Breedlove 29829 (see additional specimens examined for details) are functionally
+female or male, with one specimen (CAS) being mixed. It is highly doubtful that they belong to one and the same
+individual; leaves of functionally male branches of this collection are narrower and smaller than those of
+functionally female branches.This is congruent with the 1994 notes on the CAS specimen of Elizabeth McClintock,
+who worked in the same institute as Breedlove.
+As can be seen from the description, the enlarged marginal flowers are not sterile as has been generally
+assumed, but which we already questioned earlier (Samain et al. 2010). The description of the marginal flower in
+HYDRANGEA STEYERMARKII (HYDRANGEACEAE) IN MEXICO
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 185
+
+this case is from a functionally female plant. The functionally male plants we observed did not have enlarged
+marginal flowers, showing the intraspecific variability of the presence or absence of this structure in this species, in
+contrast to e.g. H. seemannii from northern Mexico and H. asterolasia in Costa Rica and northern South America,
+which always have whitish marginal flowers. Interestingly, we have also observed one enlarged marginal flower in
+a functionally female plant of H. nebulicola in the Mexican state of Veracruz (M.S. Samain & E. Martinez S. 2011215), whereas this was not documented for the functionally male plants in the original description by Nevling &
+Gómez-Pompa (1968).
+TABLE 1. Comparison of differentiating characters of H. albostellata and H. steyermarkii.
+H. albostellata
+
+H. steyermarkii
+
+dark brown, with lenticels
+
+dark brown to black, with reddish lenticels
+
+Runner shoots
+
+reddish, with small kataphylls
+
+dark brown, fibrous, with small leaves
+
+Lamina
+
+lanceolate-obovate to elliptic, slightly
+undulate, spoon-shaped
+
+lanceolate-obovate
+
+Leaf margin
+
+smooth
+
+crenate with marked glandular teeth, especially
+notorious in leaves of young branches and of
+stolons
+
+Leaf base
+
+cuneate
+
+cuneate to slightly rounded, sometimes slightly
+asymmetric
+
+Leaf apex
+
+apiculate
+
+acute to acuminate
+
+Number of leaf veins
+
+6 to 9
+
+8 to 9
+
+Venation adaxial leaf side
+
+only slightly visible midvein
+
+secondary veins end in the glandular teeth,
+tertiary veins protruding, forming areole
+
+Venation abaxial leaf side
+
+veins protruding
+
+primary and secondary veins protruding in
+young leaves, sunken in mature leaves, tertiary
+veins well defined in young leaves, invisible in
+mature leaves
+
+Indument adaxial leaf side
+
+glabrous with few simple, short, white hairs
+along the basal half of the midvein; young
+leaves densely pubescent
+
+glabrous
+
+Indument abaxial leaf side
+
+abaxially densely white pubescent, especially
+in young stage
+
+sparsely whitish pubescent on midvein to
+pubescent allover; densely pubescent in young
+leaves
+
+Leaf colour
+
+opaque whitish-green; young leaves slightly
+reddish
+
+shiny dark green; young leaves red-brown, but
+glands green
+
+Acarodomatia abaxial leaf side
+
+absent
+
+present
+
+Number of leaf pairs above the
+node where the uppermost
+inflorescences originate
+
+maximum 2 leaf pairs (or kataphylls only)
+
+up to four
+
+Indument inflorescence axis
+
+densely pubescent with adnate, whitish,
+stellate hairs
+
+reddish stellate hairs
+
+Number of leaf pairs on the
+inflorescence axis below the
+inflorescence
+
+2–5
+
+2
+
+Inflorescence type
+
+umbellate
+
+corymbous
+
+Enlarged marginal fertile
+flowers
+
+sometimes present
+
+always absent
+
+Calyx reduced flowers
+
+triangular, very small, sometimes nearly
+invisible
+
+triangular with rounded apex
+
+Corolla reduced flowers
+
+membranous, margin revolute
+
+coriaceous, smooth adaxially and abaxially
+
+Distribution
+
+relatively widespread, known from SE Mexico
+to Costa Rica
+
+currently known only from the Volcano
+Tacaná on the border of Mexico and
+Guatemala
+
+Bark main stem
+
+186 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+SAMAIN ET AL.
+
+FIGURE 3. SEM pictures of flowers of Hydrangea albostellata (A–D; A, C, M.S. Samain et al. 2012-023. B, D–E: M.S. Samain & E.
+Martínez S. 2012-088) and Hydrangea steyermarkii (E–F, M.S. Samain et al. 2012-078). A. Central parts of marginal female flower,
+with two large pistils and 3 small stamens visible. B. Flower bud of male flower; note the campanulate hypanthium and the valvate
+petals. C. Mature fruit opened between the pistils to release the seeds. D. Male flower; note the extreme difference in size between the
+long stamens and the diminute pistils. E. Lateral view of male flower. F. Apical view of male flower.
+
+The specimen Breedlove 24174 from Solosuchiapa, Chiapas (CAS) belongs to an unidentified species of the
+family Malpighiaceae, of which juvenile forms have been confused with Hydrangea also in other countries than
+Mexico, e.g. Salick & Stijfhoorn 8265 (MO!) from Boca de Sábalo, Nicaragua. Nevertheless, even in very young
+stages, they can be easily distinguished from each other, as leaves of Hydrangea are coriaceous with a dentate to
+serrate margin, whereas leaves of Malpighiaceae are membranous with a smooth margin. In addition, the specimen
+from Nicaragua occurs at a very low altitude (± 45 m asl), whereas to our knowledge none of the Hydrangea
+species in Mesoamerica occurs below 900 m above sea level.
+
+HYDRANGEA STEYERMARKII (HYDRANGEACEAE) IN MEXICO
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 187
+
+FIGURE 4. Hydrangea albostellata. A. Habitus of branch with inflorescences in different developmental stages (inflorescence buds,
+inflorescence with flower buds and infructescence). B. Enlarged marginal flower with two pistils with fertile stigmas. C. Functionally
+male flower with 8 fertile stamens and 2 reduced pistils. D. Maturing capsule, fertile stigmas still visible, seeds are released through
+the opening between the 2 pistils. E. Detail of abaxial leaf surface with stellate indument. Drawn by Ramiro Cruz Durán from the
+holotype M.S. Samain et al. 2012-023 (MEXU; A, B), and from the specimens M.S. Samain et al. 2012-021 (MEXU; A, D, E) and
+M.S. Samain & E. Martínez S. 2012-088 (MEXU; C).
+
+188 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+SAMAIN ET AL.
+
+The basal lignified parts of inflorescences and the inflorescence axes of previous years are only visible in
+robust well-collected specimens, e.g. M.S. Samain & E. Martínez S. 2012-088, 2012-090 (Fig. 2A).
+Enlarged marginal flowers are sometimes present, e.g. M.S. Samain et al. 2012-021, 2012-023.
+Additional specimens examined:ͶCOSTA RICA. Alajuela: San Ramón, R. B. Monteverde, Cordillera de
+Tilarán, bosque primario en la Fila Cerros Centinela, 10°17'55"N, 84°47'23"W, 1600 m, 6 June 1994, J.F. Morales
+3366 & G. Carnevalli (INB!) [functionally male]. Cartago: Cartago, al lado del camino Copatchi–San Rafaël
+Arriba, en la fila del cerro, 9°49'35.34"N, 84°2'3.93"W, 1890 m, 27 July 2012, M.S. Samain & E. Martínez S. 2012033 (CR!, GENT!, INB!, MEXU!) [dry inflorescences]; loc. cit., 1781 m, 9°49'34.81"N, 84°2'9.27"W, 16 January
+2013, M.S. Samain & E. Martínez S. 2013-002 (GENT!, INB!) [dry inflorescences]. Guanacaste: Tilarán, al lado
+del camino de Santa Elena al Mirador Lodge, 1.01 km desde la desviación hacia la Reserva Bosque Nuboso Santa
+Elena, 10°21'10.11"N, 84°48'6.81"W, 1592 m, 31 July 2012, M.S. Samain & E. Martínez S. 2012-049 (CR!,
+GENT!, INB!, MEXU!) [inflorescence buds]; San Gerardo Abajo, Río Caño Negro, Fincas Quesada y Arce,
+10°18'40"N, 84°50'2"W, 1100–1200 m, 05 December 1991, E. Bello 4286 & E. Cruz (CR!, INB!, MO!)
+[functionally female, fruits]. Puntarenas: Puntarenas, Ojo de Agua, Monteverde, Finca Méndez, Río Aranjuez,
+10°17', 84°46', 1550 m, 14 November 1987, W. Haber 7728 & E. Bello (CR!) [functionally female, fruits];
+Monteverde, Pacific slope above Quebrada Máquina, 10°18'N, 84°48'W, 1400 m, 26 September 1991, W. Haber
+10885 (CR!, INB!, MO!) [flower buds]; Monteverde, Quebrada Máquina upstream from Hotel Belmar, 10°18'N,
+84°48'W, 1400 m, 17 December 1991, W. Haber 10935 & W. Zuchowski (CR!, MO!) [functionally female, fruits];
+upper San Luis River Valley on Pacific slope below Monteverde, 10°20'N, 84°50'W, 1300–1400 m, 26 August
+1986, W.A. Haber ex E. Bello C., A. Clagget & M. Powell 5398 (INB!) [functionally male]; San Luis, Monteverde,
+camino a Veracruz, 10°16'35"N, 84°47'45"W, 1040–1060 m, 16 October 1992, A. Fernández 438 (INB!) [flower
+buds]; R.B. Monteverde, Cordillera de Tilarán, San Luis, Finca Juan Ramón Fuentes, Buen Amigo, 10°16'33"N,
+84°47'45"W, 1220 m, 10 December 1993, Z. Fuentes 445 & E. Fuentes (CR!, INB!) [functionally male]; R.B.
+Monteverde, Cordillera de Tilarán, San Luis de Monteverde, bosque en la cuenca de San Luis, 10°16'33"N,
+84°47'45"W, 1100 m, 15 August 1993, K. Taylor 112 (CR!, INB!, MO!) [inflorescence buds]; Monteverde Reserve,
+high peaks near TV towers, 10°20'N, 84°50'W, 1775 m, 11 October 1985, W.A. Haber ex E. Bello 3070 (CR!, MO!;
+label on MO specimen only mentions E. Bello 3070) [functionally male]. San José, Escazú, ZP Cerros de Escazú,
+Cuenca del Tárcoles, San Antonio, Bebedero, Cercanías de las antenas, La Ventolera, a orilla del camino,
+9°53'27"N, 84°9'22"W, 1784–1800 m, 10 September 2005, D. Santamaria 3001 & R. Aguilar (INB!)
+[inflorescence buds]. HONDURAS. Lempira: alrededor de el Río Naranjo y bajo el Campamento Don Tómas.
+Parque Nacional de Celaque, 14°33'N, 88°40'W, 2000 m, 27 May 1991, P. House 996 (CAS!, EAP, HEH, MO!,
+TEFH) [functionally female, fruits]; loc. cit., 13 November 1991, P. House 1105 (EAP, HEH, MEXU!, MO(2)!,
+TEFH) [functionally male]. Yoro: Río Pijol Valley, 7 km south east of Nueva Esperanza, along forested Quebrada
+that flows into Río Pijol, adjacent slopes, and coffee finca above, 15°12'N, 87°35'W, 1300–1500 m, 30 May 1993,
+R.L. Liesner 26699 (MO) [functionally female, fruits]. EL SALVADOR. Volcán de San Salvador, 1000–1800 m, 7
+April 1922, P.C. Standley 22966 (US(2)!) [juvenile]. MEXICO. Chiapas: La Trinitaria, 4 km east of Laguna
+Tsiskaw [Tziscao] near Dos Lagos, 1300 m, 19 October 1974, D.E. Breedlove 38792 (CAS!, DUKE!, MO!, NY!)
+[functionally male]; loc. cit., between Lago Tziscao and Dos Lagos, Lagos de Montebello National Park, 1372 m,
+13 October 1981, D.E. Breedlove 53460 (CAS!, MO!) [functionally male]; slopes east of Laguna Tzikaw
+[Tziscao], Monte Bello National Park, 1300 m, 23 January 1973, D.E. Breedlove 32250 & A.R. Smith (CAS!)
+[functionally female, mature fruits]; Rayón, steep slope in the Selva Negra 10 km above Rayón Mezcalapa along
+road to Jitotol, 1700 m, 25 November 1972, D.E. Breedlove 29829 & R.L. Dressler (CAS! Mixed functionally male
+and female) , DUKE! [294758-♂, 294765-♀], MEXU! ♀ (immature fruits), MICH! ♂, MO! [3884984-♂,
+3884985-♀], US! ♀ (flowers (buds) + immature fruits) [different duplicates are functionally female or male]; loc.
+cit., 9 miles northwest of Pueblo Nuevo Solistahuacan along road between Rincon Chamula and Rayón, 5800 feet,
+September 1971, R.F. Thorne & E. Lathrop 41591-A (CAS!) [inflorescence buds]; Tenejapa, Paraje Shohleh, 8400
+feet, 12 January 1966, A. Shilom Ton 573 (MO!) [functionally female, immature fruits]; La Independencia, third
+ridge along road from Las Margaritas to Campo Alegre, 2300 m, 5 November 1984, D.E. Breedlove 62118 (CAS!)
+[functionally male]; loc. cit., 5 November 1984, D.E. Breedlove 62117 (CAS!, MICH!) [functionally female,
+flowers + immature fruits]; Jitotol, about 12 km north of Jitotol along a side road to an oil well, 2000 m, 28
+September 1971, D.E. Breedlove 19944 (CAS!) [juvenile]; Pueblo Nuevo Solistahuacan, along the road Pueblo
+Nuevo Solistahuacan–Rayón, 17°12'40.88"N, 92°57'49.71"W, 1848 m, 19 January 2012, M.S. Samain et al. 2012-
+
+HYDRANGEA STEYERMARKII (HYDRANGEACEAE) IN MEXICO
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 189
+
+022 (CHIP!, GENT!, IEB!, MEXU!) [functionally female, young fruits]; loc. cit., 17°12'40.55"N, 92°57'48.53"W,
+1850 m, 19 January 2012, M.S. Samain et al. 2012-024 (CHIP!, GENT!, MEXU!) [fallen bracts only]; Arroyo
+Grande–Pueblo Nuevo Solistahuacan, 17°10'53.64"N, 92°52'34.94"W, 1878 m, 19 January 2012, M.S. Samain et
+al. 2012-021 (CHIP!, GENT!, IEB!, MEXU!) [functionally female, immature fruits]; loc. cit., 9 September 2012,
+M.S. Samain & E. Martínez S. 2012-089 (CHIP!, GENT!, IEB!, MEXU!) [functionally female]; Tapalapa, camino
+Coapilla–Ocotepec, near Río Quachi, 17°11'35.91"N, 93°7'51.81"W, 1862 m, 3 January 2012, M.S. Samain et al.
+2012-005 (CHIP!, CR!, GENT!, GUAT!, IEB!, MEXU!, MO!, UAMIZ!, US!) [functionally male]; loc. cit., 9
+September 2012, M.S. Samain & E. Martínez S. 2012-090 (CHIP!, GENT!, IEB!, MEXU!) [functionally male];
+loc. cit., 17°11' 36.37"N, 93°7'56.74"W, 1736 m, 3 January 2012, M.S. Samain et al. 2012-006 (CHIP!, GENT!,
+IEB!, MEXU!, QMEX!) [functionally female, mature fruits]; Yajalón, La Ventana, 17°9'59.17"N, 92°23'50.90"W,
+1843 m, 6 September 2012, M.S. Samain et al. 2012-085 (CHIP!, GENT!, MEXU!) [sterile depauperated
+individual]; loc. cit., 17°9'24.36"N, 92°22'42.01"W, 1823 m, 6 September 2012, M.S. Samain et al. 2012-088
+(CHIP!, GENT!, MEXU!) [functionally male]; Tapalapa, Cerro de la Bandera, 17°12'37.41"N, 93°5'49.94"W, 1937
+m, 19 August 2011, M.S. Samain et al. 2011-201 (CHIP!, GENT!, MEXU!) (juvenile). NICARAGUA: Matagalpa,
+Cordillera Central of Nicaragua between Aranjuez and Peor es Nada, 1500 m, 1 November 1968, A. Molina R.
+22965 (MO!) [functionally male]; Mountain El Arenal, road to Aranjuez, 1300 m, 7 January 1977, A. Molina R.
+31589 (MO!) [functionally male]. Jinotega, road between Jinotega and Matagalpa, La Galia, 1600 m, 6 December
+1958, J.G. Hawkes, J.P. Hjerting & R.N. Lester 2183 (K!) [juvenile].
+Conservation:ͶAccording to the criteria and categories of IUCN (2012), H. albostellata should be
+considered as endangered, but the current intrinsic threats of its habitat will soon drive it to be critically
+endangered, especially as a consequence of habitat destruction. The population in the municipality of La Trinitaria
+is probably extinct as a consequence of fires during the El Niño in 1997 and 1998. It had not rained since October
+1997 for 8 months, when in May 1998 fires allover the state of Chiapas destroyed 250,000 hectares of primary
+forest (Martínez, 2003). The annual precipitation in La Trinitaria then averaged 5000 mm, with daily rains, so it is
+even quite probable that all plants died before the fires, as was observed in the region of the Chimalapas in eastern
+Chiapas and in western Oaxaca (Silvia Salas, pers. comm.). The population in the municipality of La
+Independencia could not yet be found, but it is highly probably that some individuals still survive in the remaining
+patches of primary cloud forest. The population in the municipality of Pueblo Nuevo Solistahuacan has been
+detected and seems viable, despite the fact that many mature individuals grow in primary forest areas near the
+roads. During our exploring expeditions, new populations have been discovered in the municipalities of Tapalapa
+and Yajalón, both in local reserves, guaranteeing their survival for at least some time. Taking into consideration its
+current extensive but fragmented distribution area, it was probably once a relatively common species in humid
+cloud forest from southeastern Mexico to Costa Rica.
+
+Hydrangea steyermarkii Standl., amended description, Figs. 2, 3, 5
+TYPE:ͶGUATEMALA. San Marcos: Along Quebrada Canjulá, between Sibinal and Canjulá, Volcán de Tacaná, 2200–2500
+m, 18 February 1940, J.A. Steyermark 36044 (F!, GH! (photo)) [functionally female, immature fruits].
+
+Root-climbing liana of up to 30 m high, functionally dioecious. Main stem clinging to the host tree with many large
+adventitious roots, up to 12 cm diameter, bark dark brown to black, with reddish lenticels. Runner shoots (stolons)
+dark brown, fibrous, with adventitious roots and stellate hairs, with small leaves. Branches many-ribbed, with
+reddish pubescence and adventitious roots, cortex brownish-reddish, contracting, forming corchy patches (Fig.
+2C), notorious line between petioles of opposite leaves. Petiole sulcate adaxially, terete abaxially, reddish
+pubescent, sparsely pubescent with short hairs in young stage, glabrous in mature stage, 1.5–3 cm long, leaving a
+semicircular scar on the branch when leaves fall. Leaves decussate, lanceolate-obovate, base cuneate to slightly
+rounded, sometimes slightly asymmetric, 10–18 cm long, 4.5–6 cm broad, apex acute to acuminate, leaf margin
+crenate with marked glandular teeth, especially notorious in leaves of young branches and of stolons, venation
+brochidodromous, veins 8–9, adaxial leaf side with protruding tertiary veins forming areole, secondary veins end in
+the glandular teeth, abaxially with protruding primary and secondary veins in young leaves, sunken in mature
+leaves, tertiary veins well defined in young leaves, invisible in mature leaves, glabrous, abaxial leaf side sparsely
+whitish pubescent on midvein to pubescent allover the surface, with whitish stellate adnate hairs, shiny dark green,
+young leaves red-brown, but glands green, with whitish indument (Fig. 2D), all veins reddish-brownish,
+
+190 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+SAMAIN ET AL.
+
+acarodomatia form cavities between midvein and primary veins, sometimes even in between primary and
+secondary veins. Inflorescence axis with reddish stellate hairs, 7 cm long, with two small decussate leaf pairs below
+the inflorescence, petiole 1 cm long, lamina 2–3.5 cm long, apex of the floral axis not visible, inflorescence bracts
+rapidly deciduous, decussate, about 8, of different sizes, consecutively and rapidly caducous during inflorescence
+development, with whitish to reddish, adnate, stellate hairs, including margin, inflorescences lateral, opposite, two
+per flowering branch which continues growing vegetatively during inflorescence development, with up to four leaf
+pairs above the node where the inflorescences originate in the axil of a leaf pair with reduced petiole (0.6–1.5 cm)
+and without lamina, these ‘leaves’ caducous, only present at the base of inflorescence buds, leaving a scar at the
+base of mature inflorescences, corymbous, 5 cm diameter, 2–3 cm high, with 5–6 partial inflorescences (corymbs)
+which on their turn again consist of several corymbs, secondary and tertiary inflorescence axes with reddish stellate
+hairs. Flower pedicel 0.8–2 mm long, receptacle campanulate in functionally male flowers, broadly semiglobose in
+functionally female flowers, 2 mm long, ovary inferior, calyx lobes 4, triangular with rounded apex, 1 mm long,
+petals 4, white, valvate, cucullate, coriaceous, smooth adaxially and abaxially, 1.2–2 mm long, 1,2 mm broad,
+functionally male flowers (Figs. 3 D, E, F, 5 B): hypanthium 2–2.5 mm diameter, stamens (6–)8(–9), welldeveloped, filaments 1.5–2 mm long, anthers 0.7–0.8 mm long, 0.5 mm broad, pistils 2, reduced, 1–1.2 mm long,
+remnants of ovules present, functionally female flowers (Fig. 5 C): stamens in the only available female specimen
+shriveled as this specimen has only nearly mature fruits, pistils 2, not seen in fertile stage, enlarging up to 3–4 mm
+in mature fruits, stigmas apically clavate and shortly penicellate, fruit a broadly semiglobose capsule, lateral ribs
+cannot be distinguished because of the shriveled state of the fruits, dark brown, 3–4 mm high, 4–5 mm broad
+above, 3–4 mm diameter, opening between the two pistils to release seeds, seeds not seen.
+Habitat:ͶVery deep valleys in cloud forest (“selva mediana perennifolia” according to Miranda & Hernández
+X., 1963, “bosque mesófilo de montaña” according to Rzedowski, 1978) dominated by Hedyosmum mexicanum.
+This species gets easily established in primary forest on very steep slopes in ravines where there are recurrent
+disturbances as a consequence of very strong winds which cause treefall. This species occurs in conserved
+localities, as well as on disturbed places with very strong succession dynamics, protected from the humid winds
+from the south, on igneous rocks, with approximately 3000 mm rainfall.
+Distribution:ͶSouth-facing slopes of the volcano Tacaná in México and Guatemala, between 2200 and 3000
+m.
+Phenology:ͶThis species has been observed flowering in September and fruiting in February.
+Observations:ͶThe population on the Mexican side of the volcano Tacaná near the village of Chiquihuite, 5–
+6 km in straight line from the type locality, is the first record of this species in Mexico. Interestingly, the type
+specimen belongs to a functionally female individual, whereas our collection is a male specimen. Despite extensive
+explorations on the Mexican side of the volcano Tacaná, it has not been possible to encounter a female specimen.
+In contrast to the description, which mentions as habit a climbing epiphytic shrub (‘frutex scandens epiphyticus’;
+Standley 1940: 233), this species is a root-climbing liana.
+Standley (1940), in the description of H. steyermarkii, mentions a dense reddish pubescence for the branches
+(‘quoque pilis stellatis brunnescentibus laxe tomentosis’). Nevertheless, this reddish ‘indument’ is a mixture of
+young adventitious roots and penicellate, stellate hairs. In contrast, the indument on the lamina is whitish on the
+type specimen and all other studied collections.
+The marginal vein is closer to the leaf margin than in H. albostellata. The apex of the leaves on the terminal
+branch of M.S. Samain et al. 2012-009 and M.S. Samain et al. 2012-010) is acuminate.
+The majority of the available herbarium specimens of Guatemala, Honduras, El Salvador and Nicaragua as
+well as a few collections of Costa Rica bear the identification of H. steyermarkii. However, only the specimens
+mentioned below coincide with the type of this species and nearly all other specimens belong to H. albostellata.
+The number of stamens in the observed functionally female flowers is variable although the average number is
+8 with 6 large stamens and 2 smaller stamens. When there are only 6 stamens, they are all of the same size.
+
+HYDRANGEA STEYERMARKII (HYDRANGEACEAE) IN MEXICO
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 191
+
+FIGURE 5. Hydrangea steyermarkii. A. Habitus of branch with inflorescences. B. Functionally male flower with 8 fertile stamens
+and 2 reduced pistils. C. Maturing capsule, fertile stigmas still visible, seeds are released through the opening between the 2 pistils. D.
+Inflorescence branch with inflorescence bud, inflorescence bracts and leaf pair visible. E. Detail of inflorescence branch with stellate
+indument. Drawn by Ramiro Cruz Durán from the specimen M.S. Samain et al. 2012-078 (MEXU; A, B, D, E), and from the holotype
+J.A. Steyermark 36044 (F; C).
+
+192 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+SAMAIN ET AL.
+
+Additional specimens examined:ͶGUATEMALA. San Marcos: Río Vega, near San Rafael and GuatemalaMexico boundary, Volcán de Tacaná, 2500–3000 m, J.A. Steyermark 36250 (F) [sterile]; between Canjulá and La
+Unión Juárez, near southeast portion of Volcán de Tacaná, 2000–3000 m, slopes of Río Tonaná, J.A. Steyermark
+36411 (F) [sterile]; El Progreso: between Finca Piamonte and top of Montaña Piamonte, along Joya Pacayal, 2500–
+3000 m, J.A. Steyermark 43635 (US!); Quezaltenango: western slopes of Volcán Zunil, opposite Santa María de
+Jesús, 1500 m, 21 January 1940, J.A. Steyermark 35109 (GH! (photo of F specimen)); Huehuetenango, Cerro
+Huitz, between Barillas and Mimanhuitz, Sierra de los Cuchumatanes, 1600–2600 m, 14 July 1942, J.A.
+Steyermark 48536 (US!) [sterile]; wet cloud forest at Cruz de Limón, between San Mateo Ixtatán and Nucá, Sierra
+de los Cuchumatanes; 2600–3000 m, 31 July 1942, J.A. Steyermark 49826 (US!) [sterile]. MEXICO. Chiapas:
+Cacahoatán, Volcan Tacaná, Chiquihuite, 15°6'23.07"N, 92°6'9.13"W, 2362 m, 3 September 2012, M.S. Samain et
+al. 2012-078 (CHIP!, GENT!, MEXU!) [functionally male]; loc. cit., 15°6'24.83"N, 92°6'4.25"W, 2476 m, 4
+January 2012, M.S. Samain et al. 2012-008 (GENT!, MEXU!) [sterile]; loc. cit., 15°6'25.1"N, 92°6'4.11"W, 2481
+m, 4 January 2012, M.S. Samain et al. 2012-009 (GENT!, MEXU!) [sterile]; loc. cit., 15°6'23.23"N, 92°6'7.26"W,
+2426 m, 4 January 2012, M.S. Samain et al. 2012-010 (GENT!, MEXU!) [sterile]; loc. cit., 15°6'22.28"N,
+92°6'11.11"W, 2423 m, 5 January 2012, M.S. Samain et al. 2012-011 (GENT!, MEXU!) [sterile], M.S. Samain et
+al. 2012-012 (GENT!, MEXU!) [sterile].
+Conservation:ͶCritically Endangered; known from one population with adult flowering and juvenile runner
+shoots on the Volcano Tacaná on the border of Mexico and Guatemala, and five sterile, mostly juvenile collections
+by Julian Steyermark from Guatemala, none of them recent. Monitoring of remaining populations in Guatemala
+would be important for evaluation of the conservation status of H. steyermarkii in that country. On the Mexican
+side of the volcano ascending from the village of Chiquihuite, several flowering individuals have been observed,
+although only one functionally male individual could be sampled up to now, as a consequence of the quite
+inaccessible extremely steep slopes. There are many runner shoots on this locality, showing that this population
+most probably reproduces vegetatively. This area is located at approximately 5–6 km in straight line from the type
+locality on the Guatemalan side which could not yet be visited. The Mexican (sub)population is suffering as a
+consequence of habitat destruction and land use change, such as floriculture of Zantedeschia aethiopica (‘alcatraz’)
+and Hydrangea macrophylla cultivars.
+
+Discussion
+Hydrangea section Cornidia in Mexico
+Two endemic species of Hydrangea section Cornidia were known up to now for Mexico, not taking into
+account the erroneous identifications mentioned above: Hydrangea seemannii L. Riley (1924: 207) from temperate
+coniferous forests in the northern states of Chihuahua, Durango, Nayarit, Sinaloa and Sonora, and Hydrangea
+nebulicola Nevling & Gómez Pompa (1968: 231) from cloud forests and oak-Liquidambar Linnaeus (1753b: 999)
+forests in the states of Querétaro and Veracruz, central and eastern Mexico respectively (Nevling & Gómez-Pompa
+1968, Durán-Espinosa 1999, Pérez-Calix 2004). The current contribution doubles the number of Cornidia species
+for Mexico, although it does not alter the number of endemic species. Hydrangea steyermarkii Standl. is a new
+record for the country. The majority of the specimens of H. albostellata have been collected in Mexico. In contrast
+to Central and South American Cornidia species (south of Nicaragua) where both species with whitish-greenishyellowish or reddish-purple flowers occur, all currently known Mexican species have whitish flowers.
+Up to now, only one Mexican Hydrangea species, H. nebulicola, has been considered as threatened or
+endangered since more than 35 years in one of the first ever contributions on plant extinction (Vovides & GómezPompa, 1976). Later on, the species was listed by the Mexican authorities as endangered in 1994 (NORMA Oficial
+Mexicana NOM-059-ECOL-1994) and as threatened with extinction since 2001 (NOM-059-SEMARNAT-2001
+(SEMARNAT, 2002) and NOM-059-SEMARNAT-2010 (SEMARNAT, 2010). A Red List of Hydrangea sensu
+stricto (see Samain et al. 2010) worldwide is in preparation in cooperation with Botanic Gardens Conservation
+International, based on our field observations throughout their distribution area.
+Circumscription of Hydrangea steyermarkii and growth form of Cornidia species
+Hydrangea steyermarkii has been confused with Hydrangea albostellata and even with a repent Malpighiaceae
+species from tropical rainforest. From our ongoing revision in Cornidia, it is obvious that the confusion around
+HYDRANGEA STEYERMARKII (HYDRANGEACEAE) IN MEXICO
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 193
+
+species circumscriptions especially originated as a consequence of the annotations of McClintock on most
+herbarium specimens, which have been used as the basis for the majority of subsequent floristic contributions (e.g.
+Christenhusz 2009). Two additional factors that have led to this confusion are the fragmentary Latin description of
+H. steyermarkii and the availability of only one (functionally female) flowering type specimen.
+During our field work focussed on Hydrangea throughout the Neotropics, it has become clear that observation
+of living plants throughout the distribution area of each species is essential to understand the full range of intra- and
+interspecific variation in this clade. Obviously, a herbarium specimen can only grasp a fraction of the characters of
+plants measuring up to 40 m high, generally flowering just below or above the host tree canopy. This size hampers
+not only the collection of complete flowering structures, but also correct observation of growth form.
+Indeed, previous studies and notes on herbarium specimen labels of the Neotropical Hydrangeas often mention
+a shrubby or epiphytic form (e.g. Standley 1940, Christenhusz 2009). However, our field observations without any
+exception show root climbing and lianous individuals rooting near the base of its host tree. Nevertheless, in some
+cases the apical portion of the plant, protruding above the canopy of its host tree, or rarely above the rock wall on
+which the plant grows, does show affinities to a “shrubby” growth form (Granados Mendoza et al., unpublished
+data). We consider the root climbing growth form as potential synapomorphy for Hydrangea section Cornidia.
+However, taking into account this character within the whole genus Hydrangea sensu lato (see Samain et al. 2010),
+it is potentially apomorphic considering that several Asian species of Hydrangea section Hydrangea (e.g. H.
+anomala D. Don (1825: 211)) and of the satellite genera of the tribe Hydrangeeae (e.g. Pileostegia J.D. Hooker &
+Thomson (1858: 57) also are root climbers (see also Nevling 1964).
+Sexual dimorphism in Hydrangea section Cornidia
+McClintock (1957) proposed the hypothesis that Cornidia species might be dimorphic, showing specimens
+either with undeveloped anthers or undeveloped styles. This hypothesis has been taken over by Nevling & GómezPompa (1968) who suggest such specimens to be respectively female and male plants, as in their description of
+Hydrangea nebulicola Nevl. & Gómez-Pompa from the state of Veracruz, Mexico. Freire-Fierro (2004) in the
+Flora of Ecuador also mentions functional dioecism for Cornidia species H. peruviana Moric. ex A.P. de Candolle
+(1830: 14) , H. preslii Briquet (1919: 409), H. jelskii Szyszyłowicz (1895: 218) and H. tarapotensis Briquet (1919:
+415). In the early nineties of the twentieth century, McClintock also has made new annotations on a large amount
+of specimens of this group, not only changing identifications (without any further explanation), but also with more
+detailed observation on this dimorphism. To our knowledge, these new insights have not been published anywhere.
+During our extensive field work throughout the Neotropics, we have observed sexual dimorphism, although never
+as extreme as suggested by McClintock (1957), because both anthers and styles are always present, but either
+androecium or gynoecium is less developed and smaller than the other structure. In some species the stamens of
+functionally female flowers are shed relatively rapidly; this might lead to the erroneous observation that stamens
+are absent. Hence, our observations rather suggest functional dimorphism as observed by Freire-Fierro (2004),
+although further studies to investigate this in detail are needed. As can be seen from figures 3 C, 4 D and 5 C, and
+the descriptions above, functionally female flowers have a semiglobose receptacle which often enlarges during
+seed development, large pistils with a penicillate stigma and anthers with short filaments with very small,
+rudimentary anthers without pollen. The pistils also increase in size during seed development. In contrast,
+functionally male flowers are characterized by a campanulate hypanthium, stamens with remarkably long filaments
+and globose tetrasporangiate anthers full of pollen, and small pistils without receptive surface (see figures 3 F, 4 C
+and 5 B). We have observed a few intermediate examples, although not in the species discussed above.
+Consequences of sexual dimorphism for taxonomy and conservation
+The often remarkable different size in receptacle between functionally female and male flowers has caused
+some authors to consider both forms as representatives of different species and other authors to synonymize species
+or to rank them as subspecies or varieties. In contrast, Nevling & Gómez-Pompa (1968) in their publication of H.
+nebulicola describe the existence of functional unisexual flowers, although they merely encountered functionally
+male plants. They mention a similar case for H. oerstedii Briquet (1919: 407) and H. peruviana based on
+McClintock’s (1957) identification key. Hydrangea oerstedii has been considered as a variety of H. peruviana by
+Freire-Fierro (2004: 34), and more recently has been synonymized with H. peruviana by Christenhusz (2009).
+However, like McClintock’s (1957) revision, these contributions oversimplify the enormous morphological
+
+194 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+SAMAIN ET AL.
+
+variation in Hydrangea s.s. and it seems that the two taxa mentioned above belong to a group with many different
+morphospecies distributed in Central and South America.
+The presence of this sexual dimorphism, the lack of insight in its ecology and evolution and the overall gap in
+knowledge about the biology of this group challenge our ongoing conservation work of these species in Mexico
+and other Latin American countries. In their recent review of sexual dimorphism in flowering plants, Barret &
+Hough (2013) discuss niche differences and spatial segregation of female and male plants, which we also have
+observed in Cornidia. Additionally, Vamosi & Vamosi (2005) mention that tropical dioecious woody plants might
+be more prone to extinction. Nevertheless, vegetative reproduction seems to be the rule in the majority of the
+Cornidia localities, and despite the massive seed production, we rarely observe juvenile plants, even not in large
+populations. In contrast, it is quite common to observe stolons, or runner shoots according to Nevling & GómezPompa (1968), on the forest floor between several host trees. It is generally impossible to follow these runner
+shoots, but as already noted by these authors for H. nebulicola in the Mexican state of Veracruz, one individual
+might climb several trees. As a consequence, it is not evident to define individual plants versus populations.
+Although the two species described above as well other species we are studying might be locally relatively
+abundant, they are restricted to the higher or even highest elevations in their respective distribution areas in cloud
+forest. The pristine habitat with very specific topographical conditions and the mycorrhiza (own observations) they
+require make them not only promising bio-indicators for this kind of habitat, but also highly endangered as these
+forests become rarer by the day, because they are highly appreciated by local people for agriculture and cattle.
+Additionally, logging for appreciated woods is also frequent in these habitats. However, the most dramatic cause
+that might bring several of these long-lived species to extinction in the near future is the current and future
+predicted climate change which is driving cloud forest species in eastern and southern Mexico towards upward
+migration to higher elevation (Rojas-Soto et al. 2012).
+To conclude, although in recent years our knowledge of the morphology, biology and evolution of this group
+based on wild-collected plants has increased, much additional research in various disciplines is needed to build the
+basis for saving some of these botanical “Lonesome Georges” from extinction.
+
+Acknowledgements
+We are very grateful to the Mohammed Bin Zayed Species Conservation Fund (project number 11251854) and Rita
+Carron (Gent, Belgium) for financial support of our Hydrangea conservation work and research in Mexico. We
+thank the Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT; permit number SGPA/DGGFS/712/
+3804/10) for permission to collect material; Francisco Javier Jiménez González, Regional Director Frontera Sur,
+Istmo y Pacifico Sur of the Comisión Nacional de Áreas Naturales Protegidas (CONANP), for permission to
+collect within Natural Protected Areas as well as the local CONANP staff members for help with logistics and
+support in the field; the staff of the Herbario Nacional de México of the Universidad Nacional Autónoma de
+México and of the herbarium CHIP, Dirección de Botánica Dr. Faustino Miranda in Tuxtla Gutiérrez, Chiapas for
+support with field and herbarium work; the curators of the herbaria CAS, CR, DUKE, EAP, F, GENT, HEH, INB,
+MEXU, MICH, MO, NY, TEFH and US for permission to study material, the numerous local people in each area
+for assistance with field work and logistics; and Sara Oldfield, Secretary-General of Botanic Gardens Conservation
+International (Kew, UK) for her invaluable support. Ramiro Cruz Durán (Facultad de Ciencias, Universidad
+Nacional Autónoma de México), María Berenit Mendoza Garfias (Laboratorio de microscopía electrónica y
+fotografía de la biodiversidad (I), Instituto de Biología, Universidad Nacional Autónoma de México) and Edgar
+Aguilar are greatly acknowledged for the fast work on the splendid drawings, the SEM pictures, and the
+compilation of the figures, respectively.
+
+References
+Barret, S.C.H. & Hough, J. (2013) Sexual dimorphism in flowering plants. Journal of Experimental Botany 64: 67–82.
+http://dx.doi.org/10.1093/jxb/ers308
+Breedlove, D.E. (1986) Listados florísticos de México. IV Flora de Chiapas. Instituto de Biología, Universidad Nacional
+Autónoma de México, Distrito Federal, Mexico, 246 pp.
+
+HYDRANGEA STEYERMARKII (HYDRANGEACEAE) IN MEXICO
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 195
+
+Briquet, J.I. (1919) Saxifragaceae. Annuaire Conservatoire et Jardin Botanique de Genève 20: 393–421.
+Christenhusz, M.J.M. (2009) Hydrangeaceae. In: Davidse, G., Sousa, M. & Knapp, S. (eds.). Flora Mesoamericana 3(2).
+Universidad Nacional Autónoma de México, Ciudad Universitaria, México D.F., pp. 1–9.
+de Candolle, A.P. (1830) Saxifragaceae. Prodromus systematis naturalis regni vegetabilis 4. Treuttel & Würts, Paris, pp. 1–54.
+http://dx.doi.org/10.5962/bhl.title.286
+Don, D. (1825) Prodromus Florae Nepalensis. J. Gale, London, xii + 256 pp.
+http://dx.doi.org/10.5962/bhl.title.86
+Durán-Espinosa, C. (1999) Hydrangeaceae. In: Sosa, V. (ed.), Flora de Veracruz 109. Instituto de Ecología, A.C., Xalapa,
+Veracruz, Mexico & University of California, Riverside, CA, pp. 1–22.
+Engler, A. (1891) Saxifragaceae. In: Engler, A. & Prantl, K. (eds.), Die natürlichen Pflanzenfamilien III(2a). W. Engelmann,
+Leipzig, pp. 41–93.
+http://dx.doi.org/10.5962/bhl.title.4635
+Freire-Fierro, A. (2004) Hydrangeaceae. In: Harling, G. & Andersson, L. (eds) Flora of Ecuador 73. Botanical Institute,
+Göteborg University, Sweden, pp. 25–40.
+Granados Mendoza, C., Wanke, S., Salomo, K., Goetghebeur, P. & Samain, M.S. (2013a) First application of the phylogenetic
+informativeness method to chloroplast markers: A test case of closely related species in tribe Hydrangeeae
+(Hydrangeaceae). Molecular Phylogenetics and Evolution 66: 233–242.
+http://dx.doi.org/10.1016/j.ympev.2012.09.029
+Granados Mendoza, C., Wanke, S., Goetghebeur, P. & Samain, M.S. (2013b) Facilitating wide hybridization in Hortensia
+cultivars: a phylogenetic and marker-assisted approach. Molecular Breeding 32: 233–239.
+http://dx.doi.org/10.1007/s11032-012-9822-8
+Hooker, J.D. & Thomson, T. (1858) Precursores ad Floram Indicam: being Sketches of the Natural Families of Indian Plants,
+with Remarks on their Distribution, Structure and Affinities. Journal of the Linnean Society, Botany 2: 1–29 and 57–103.
+http://dx.doi.org/10.1111/j.1095-8339.1857.tb02465.x
+Instituto Nacional de Ecología (1994) NORMA Oficial Mexicana NOM-059-ECOL-1994, que determina las especies y
+subespecies de flora y fauna silvestres terrestres y acuáticas en peligro de extinción, amenazadas, raras y las sujetas a
+protección especial, y que establece especificaciones para su protección. Diario Oficial de la Federación. 28 April 1994.
+Segunda Sección. pp. 1–66.
+IUCN (2012) IUCN Red List Categories and Criteria: Version 3.1. Second edition. Gland, Switzerland and Cambridge, UK:
+IUCN. iv + 32pp.
+Linnaeus, C. (1753a) Species Plantarum 1. Imprensis Laurentii Salvii, Holmiae, Sweden, pp. 1–560.
+http://dx.doi.org/10.5962/bhl.title.669
+Linnaeus, C. (1753b) Species Plantarum 2. Imprensis Laurentii Salvii, Holmiae, Sweden, pp. 561–1200.
+http://dx.doi.org/10.5962/bhl.title.669
+Martínez, E. (2003) Comunidad Lacandona. La Deforestación en 24 regiones PRODERS. Comisión Nacional de Áreas
+Naturales Protegidas, SEMARNAT, México, pp. 52–61.
+Matsumura, J. & Hayata, B. (1906) Enumeratio Plantarum in Insula Formosa sponte crescentium hucusque rite cognitarum
+adjectis descriptionibus et figuris Specierum pro regione novarum. The Journal of the College of Science, Imperial
+University of Tokyo, Japan 22: 1–702.
+McClintock, E. (1957) A monograph of the genus Hydrangea. Proceedings of the California Academy of Sciences 29: 147–
+256.
+Miranda, F. & Hernández X., E. (1963) Los tipos de vegetación de México y su clasificación. Boletín de la Sociedad Botánica
+de México 28:29–179.
+Nevling, L.I. Jr. (1964) Climbing Hydrangeas and their relatives. Arnoldia 24: 17–39.
+Nevling, L.I. Jr. & Gómez-Pompa, A. (1968) A new Hydrangea of Mexico. Journal of the Arnold Arboretum 49: 225–232.
+Pérez-Calix, E. (2004) Hydrangeaceae. In: Rzedowski Rotter, J. & Calderón de Rzedowski, G. (eds.), Flora del Bajío y de
+Regiones Adyacentes 126. Instituto de Ecología A.C., Centro Regional del Bajío, Pátzcuaro, Michoacán, pp. 1–15.
+Riley, L.A.M. (1924) Contributions to the flora of Sinaloa. Bulletin of Miscellaneous Information Kew 1924 5: 206–222.
+http://dx.doi.org/10.2307/4111748
+Rojas-Soto, O.R., Sosa, V. & Ornelas J.F. (2012) Forecasting cloud forest in eastern and southern Mexico: conservation
+insights under future climate change scenarios. Biodiversity and Conservation 21: 2671–2690.
+http://dx.doi.org/10.1007/s10531-012-0327-x
+Ruiz, H. & Pavón, J. (1794) Florae Peruvianae et Chilensis Prodromus. Sancha, Madrid, xxii + 154 pp. + xxxvi lam.
+Rzedowski, J. (1978) La vegetación de México. Limusa, Distrito Federal, Mexico, 432 pp.
+Samain, M.S., Wanke, S. & Goetghebeur, P. (2010) Unraveling extensive paraphyly in the genus Hydrangea s.l. with
+implications for the systematics of tribe Hydrangeeae. Systematic Botany 35: 593–600.
+http://dx.doi.org/10.1600/036364410792495827
+SEMARNAT (2002) Norma Oficial Mexicana NOM-059-SEMARNAT-2001, Protección ambiental-Especies nativas de México
+de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista de especies
+en riesgo. Diario Oficial de la Federación. 6 March 2002. Segunda Sección, pp. 1–153.
+SEMARNAT (2010) Norma Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas de México
+
+196 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+SAMAIN ET AL.
+
+de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista de especies
+en riesgo. Diario Oficial de la Federación. 30 December 2010. Segunda Sección, pp. 1–77.
+Standley, P.C. (1940) Studies of Central American plants-I, Saxifragaceae. Publications of the Field Museum of Natural
+History, Botanical Series 22(4): 233–234.
+Szyszyłowicz, I. von (1895) Diagnoses plantarum novarum a Cl. D. Const. Jelski in Peruvia lectarum. Pars prima. Rozprawy
+Akademii Umiejetnosci: Wydzial Matematyczno-Przyrodniczy 29: 215-239.
+Vovides, A.P. & Gómez-Pompa, A. (1976) The problems of threatened and endangered plant species of Mexico. pp. 77–88. In:
+Prance, G.T. & Elias, T.S. (eds.). Extinction is Forever: The Status of Threatened and Endangered Plants of the Americas.
+The New York Botanical Garden, New York, 437 pp.
+Vamosi, J.C. & Vamosi, S.M. (2005) Present day risk of extinction may exacerbate the lower species richness of dioecious
+clades. Diversity and Distributions 11: 25–32.
+http://dx.doi.org/10.1111/j.1366-9516.2005.00119.x
+Wei, W. & Bartholomew, B. (2001) Hydrangea. In: Zhengyi, W. & Raven, P.H. (eds.) Flora of China 8. Missouri Botanical
+Garden Press, St. Louis and Science Press, Beijing, pp. 411–422.
+
+HYDRANGEA STEYERMARKII (HYDRANGEACEAE) IN MEXICO
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 197
+
+

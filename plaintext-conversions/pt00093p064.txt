@@ -1,0 +1,191 @@
+Phytotaxa 93 (2): 61–64 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.93.2.2
+
+A new freshwater chrysophyte, Chrysomorula cohaerens gen. et sp. nov.
+(Chrysophyceae, Chrysocapsaceae) from North America
+DANIEL E. WUJEK
+Department of Biology, Central Michigan University, Mt. Pleasant, MI 48859. e-mail: wujek1de@cmich.edu
+
+Abstract
+A new freshwater chrysophyte genus and species, Chrysomorula cohaerens, is described from the United States.
+Chrysomorula cohaerens is a distinct taxon of non-motile heterokont chrysophyte. It forms macroscopic mucilaginous
+colonies attached to aquatic macrophytes, filamentous algae, and other substrata. Each colony is initially held together
+forming a hollow sphere by the confluence of its cell walls. The colony is at first a sphere, becoming ovoid to irregular
+with growth in size. Thus, it differs from other similar chrysophyte genera such as Heimiochrysis and Chalkopyxis. Cells
+bear pseudocilia.
+
+Introduction
+There are numerous genera of golden-brown algae (Chrysophyta, Chrysophyceae) living in freshwater
+habitats. Reports of their distribution had been scattered throughout the algal literature for a long time, but
+only recently have these been summarized for North America (Nicholls & Wujek 2003). Several more genera
+have recently been added: Wujek (2006), Andrews and Wujek (2009), and Nicholls (2013).
+This paper reports and describes a new chrysophycean alga Chrysomorula cohaerens from Maryland,
+Kansas and Michigan.
+
+Material and methods
+Samples containing Chrysomorula cohaerens were collected from the following sites: Maryland (Harford
+County, ephemeral pond, Belcamp), Kansas (Douglas County, an I-70 turnpike marsh, west of Lawrence), and
+Michigan (Charlevoix County, Greene’s Lake, a Sphagnum-dominated lake on Beaver Island). All collections
+were taken in mid-February or May.
+Light microscope observations were made with an AO Spencer or Zeiss Photoscope II microscope.
+Observations were made both from freshly collected material and from stock cultures grown in Petri dishes
+containing soil water extract or Bold’s Basal Medium (Bold 1967) supplemented with additional soil water
+extract. Cultures were established by micropipetting portions of epiphytes with the alga remaining attached to
+them or by “teasing” the colonies from their substrata and placing them into the culture medium. Cultures
+were placed in a north facing window and illuminated using natural light. Material was abundant enough to
+permit the observation of a number of characteristics but nothing of the alga’s reproduction, during periods up
+to three weeks. Some material was stained with methylene blue or iodine. Culture materials no longer survive.
+A sample from the type locality preserved with a 2% acid Lugol’s solution has since evaporated.
+
+Accepted by Saúl Blanco Lanza: 26 Mar. 2013; published online in PDF: 15 Apr. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+61
+
+Results
+Class Chrysophyceae Pascher 1914
+Order Chromulinales Pascher 1910 sensu Kristiansen & Preisig 2001
+Family Chrysocapsaceae Pascher 1912 sensu Kristiansen & Preisig 2001
+Chrysomorula Wujek, gen. nov. (Figs. 1–4)
+The cells of each colony are layered up to three deep at the periphery forming a hollow ball. As the colony
+grows it forms a jumbled and irregular shape. Colony is within a gelatinous matrix which is of some definition
+at the periphery, but arising from it are numerous very fine pseudocilia (faint lines) through a stiff gel.
+Pseudocilia are 92–136 µm long. Colonies are initially sessile but may become planktonic after which they
+become fragmented. They are up to 250 µm in diameter not including the pseudocilia. Cells are spherical to
+irregular. Each possesses one or two chloroplasts yellow-green to a more prevalent golden-brown color. Cells
+possess a few to many refractive granules. Zoospores or statospores were not observed.
+Type: Chrysomorula cohaerens Wujek.
+Etymology:—The genus name Chrysomorula is from the Greek “Chryso” meaning “golden colored” and
+the Latin “morula” meaning “hollow sphere of cells”.
+
+Chrysomorula cohaerens Wujek sp. nov. (Figs. 1–4)
+Cells are spherical to irregular (somewhat square) by mutual compression, 5.8–6.2 µm in diameter in face view, up to 7
+µm long, somewhat in groups of four. Cells possess 1–4 pseudocilia 92–136 µm long. There are one or two goldenbrown (or less commonly yellow-green) parietal chloroplasts per cell. A chrysolaminarin vesicle, median nucleus
+and anterior contractile vacuole are prominent cell features. Pseudocilia are stationary and extend to the periphery of
+the gelatinous matrix. Reproduction or statospore formation was not observed.
+Type:—UNITED STATES. Maryland: under the ice in an ephemeral pond, east of Belcamp, Harford County, 39.4697°
+N, 76.2569° W. Sample collected by R.H. Thompson, February 1944. Fig. 1. Typification of the new species is
+based on the illustrations hereby published, as it was impossible to preserve specimens showing the features
+attributed to the taxon (McNeill et al. 2011, ICN art. 40.5).
+
+Etymology:—The species name cohaerens is from the Latin, meaning “adhering together”.
+Remarks:—The genus is distinctive by the nature of its macroscopic colonial habit, with cells forming a
+hollow sphere embedded in a matrix, and with pseudocilia extending from each cell to the periphery of the
+matrix. New colonies are formed by the fragmentation of the parent colony, often producing plankton forms.
+Cell reproduction appears to occur by binary division. Although quite rare, I have observed it primarily
+epiphytic on Oedogonium, Microspora, Rhizoclonium, and occasionally Utricularia. Additional USA sites in
+which Chrysomorula was observed: An I-70 turnpike marsh, west of Lawrence, Douglas County, Kansas,
+May 1966 and Green’s Lake, Beaver Island, Charlevoix County, Michigan, May 1999.
+
+Discussion
+The unique generic characters of Chrysomorula separate it from other known chrysophytes that form
+gelatinous colonies. When observed with a stereo microscope, the colony appears as a golden nebula. Cells
+adhere to one another forming a hollow ball. Compound microscopy shows the cells bearing pseudocilia. The
+pseudocilia are also found in a closely related genus Heimiochrysis Bourrelly (1949: 272). However in
+Bourrelly’s genus the cells in the colonies form cylindrical, sometimes branched colonies. Cells in the
+colonies of Heimiochrysis are arranged in groups of four or eight forming a cylindrical, gelatinous, sometimes
+
+62 •
+
+Phytotaxa 93 (2) © 2013 Magnolia Press
+
+WUJEK
+
+branched tubal-shaped colony. In Chrysomorula, the alga forms a colony held together in the form of a hollow
+ball by confluence of cell walls.
+Chrysomorula also is excluded from Chalkopyxis Pascher (1931: 102). This genus lacks pseudocilia, the
+cells comprising its colony are arranged in groups of two or four, and the outer matrix of the colonies bizoned
+mucilage is radially striated.
+Chrysomorula’s morphology closely resembles several pseudocilian members of the green algae order
+Tetrasporales (e.g. Schizochlamys Braun ex Kützing (1849: 891) and Octosporiella Kugrens (1984: 88)),
+aggregate colonies that are nonmotile and often enclosed in a gelatinous matrix. Their most distinctive
+character is the presence of long pseudocilia that extend beyond the mucilage. Pseudocilia do not beat and
+lack the central pair of microtubules found in normal flagella axonemes (Wujek & Chamber 1965, Lembi &
+Herdon 1966). Placed in the Chrysocapsaceae, Chrysomorula is included with those chrysophytes in which
+the vegetative cells are without flagella and are united with one another in palmelloid colonies as in the
+Tetrasporaceae sensu lato, the homologous family of the Chlorophyceae.
+I have no data on the life history of Chrysomorula but from its ephemeral and sporadic appearances in
+habitats likely to dry up, I suspect it produces a resting stage such as a stomatocyst. No evidence of
+phagotrophy was observed, unlike many other chrysophytes. It is quite possible Chrysomorula may be a
+palmella stage of another chrysophyte. One has only to examine the life history of the green alga
+Schizochlamys (Thompson 1956: 671) to find several “genera” that were once considered distinct. This
+possibility has also been suggested between the chrysophytes Cyclonexis Stokes (1886: 564) and Chrysostephanosphaera Scherffel (1911: 307) as being distinct “genera” within the same taxon (Thompson & Wujek
+1998).
+
+FIGURES 1–4. Diagrammatic representation of Chrysomorula cohaerens colonies. Fig. 1: Mature colony within the gelatinous
+matrix. Fig. 2: Early stage of ball adhering cells. Fig. 3: Cells at periphery of a maturing colony. Fig. 4: A portion of adhering cells
+from a developing hollow colony. Scale bars: Figs. 1–2: 25 m; Figs. 3–4: 10 m
+
+μ
+
+μ
+
+CHRYSOMORULA COHAERENS GEN. ET SP. NOV.
+
+Phytotaxa 93 (2) © 2013 Magnolia Press
+
+• 63
+
+Acknowledgements
+I thank B. Roberts for assistance in the preparation of the illustrations and the late Dr. R.H. Thompson for
+making available his observational notes on this organism. I would also like to thank two anonymous
+reviewers and the associate editor for comments in improving this manuscript.
+
+References
+Andrews, H.T. & Wujek, D.E. (2009) The first report of the chrysophyte alga Ochrostylon (Chromulinales:
+Chromulinaceae) from North America and a description of a new species, O. thompsonii. Transactions of the Kansas
+Academy of Science 112: 187–190.
+http://dx.doi.org/10.1660/062.112.0405
+Bold, H.C. (1967) A laboratory manual for plant morphology. Harper & Row, New York, 123 pp.
+Bourrelly, P. (1949) Un nouveau cas de convergence morphologique entre Chrysophycées et Chlorophycées. Comptes
+Rendus Hebdomadaires des Séances de l'Académie des Sciences 228: 272–273.
+Kristiansen, J. & Preisig, H.R. (2001) Encyclopedia of chrysophyte genera. Bibliotheca Phycologica 110: 1–260.
+Kugrens, P. (1988) Octosporiella coloradoensis gen. et sp. nov., a new tetrasporalean green alga from two Colorado
+mountain lakes. Journal of Phycology 20: 88–94.
+http://dx.doi.org/10.1111/j.0022-3646.1984.00088.x
+Kützing, F.T. (1849) Species Algarum. F.A Brockhaus, Leipzig, 922 pp.
+Lembi, C.A. & Herdon, W.R. (1966) Fine structure of the pseudocilia of Tetraspora. Canadian Journal of Botany 44:
+710–712.
+http://dx.doi.org/10.1139/b66-084
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme Van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (eds.) (2011)
+International Code of Nomenclature for algae, fungi and Plants (Melbourne Code). Regnum Vegetabile 154: 1–232.
+Nicholls, K.H. (2013) On some new and little-known freshwater chrysophytes, including a description of Randersenia
+wujeki gen. et sp. nov. (Chrysophyceae). Algological Studies (in press).
+http://dx.doi.org/10.1127/1864-1318/2013/0108
+Nicholls, K.H. & Wujek, D.E. (2003) Chrysophycean Algae. In: J.D. Wehr & Sheath, R.G. (eds.) Freshwater Algae of
+North America. Academic Press, New York, pp. 471–509.
+Pascher, A. (1931) ber eigenartige zweischalige Dauerstadien bei zwei tetrasporalen Chrysophyceen (Chrysocapsalen).
+Archiv für Protistenkunde 73: 73–103.
+Scherffel, A. (1911) Beitrag zur Kenntnis der Chrysomonadien. Archiv für Protistenkunde 22: 299–344.
+Stokes, A.C. (1886) Notices of new fresh-water infusoria. Proceedings of the American Philosophical Society 23: 562–
+568.
+Thompson, R.H. (1956) Schizochlamys gelatinosa and Placosphaera opaca. American Journal of Botany 43: 665–672.
+http://dx.doi.org/10.2307/2438831
+Thompson, R.H. & Wujek, D.E. (1998) The genera Cyclonexis and Chrysostephanosphaera (Chrysophyceae). Nordic
+Journal of Botany 18: 617–632.
+Wujek, D.E. (2006) The first occurrence of the chrysophyte alga Amphirhiza epizootica from North America. Michigan
+Botanist 45: 197–200.
+Wujek, D.E. & Chambers, J.C. (1965) Microstructure of pseudocilia of Tetraspora gelatinosa (Vaucher) Desv.
+Transactions of the Kansas Academy of Science 68: 563–564.
+http://dx.doi.org/10.2307/3627470
+
+Ǖ
+
+64 •
+
+Phytotaxa 93 (2) © 2013 Magnolia Press
+
+WUJEK
+
+

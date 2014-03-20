@@ -1,0 +1,90 @@
+Phytotaxa 162 (4): 232 – 233
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.162.4.6
+
+Notes on Early Land Plants Today. 47. Transfer of Iwatsukia to Odontoschisma
+(Cephaloziaceae, Marchantiophyta)
+S. ROBBERT GRADSTEIN1, SILVIA CALVO ARANDA2 & ALAIN VANDERPOORTEN3
+1
+
+Muséum National d'Histoire Naturelle, Dept. Systématique et Evolution, Case Postale 39, 57 rue Cuvier, 75231 Paris cedex 05,
+France; gradstein@mnhn.fr
+2
+Dept. Biogeografía y Cambio Global, Museo Nacional de Ciencias Naturales, Calle José Gutiérrez Abascal, 228006 Madrid, Spain;
+silviac@mncn.csic.es
+3
+Institute of Botany, University of Liège, B22 Sart Tilman, 4000 Liège, Belgium; a.vanderpoorten@ulg.ac.be
+
+The genus Iwatsukia (Cephaloziaceae) is a small tropical liverwort genus of 4 species, Iwatsukia exigua from
+Sabah and New Guinea, Iwatsukia bifida from Venezuela and Costa Rica, the pantropical Iwatsukia jishibae, and
+Iwatsukia spinosa from Venezuela (Schuster 1968, 2002). Vilnet et al. (2012) showed that Iwatsukia jishibae is
+nested in Odontoschisma (Dumortier 1831: 68) Dumortier (1835: 19) and Váňa et al. (2013) made the necessary
+nomenclatural transfer. In the framework of a phylogenetic and taxonomic study of Odontoschisma and related
+genera which is in preparation, we were able to confirm the position of Iwatsukia jishibae in Odontoschisma. In
+addition, we found that Iwatsukia bifida is nested in Odontoschisma, forming a separate lineage within the genus
+together with Iwatsukia jishibae. We also found that Iwatsukia exigua, the type species of Iwatsukia, is a synonym
+of Iwatsukia jishibae. We therefore transfer the genus Iwatsukia to Odontoschisma.
+
+Formal treatment
+Odontoschisma (Dumort.) Dumort. sect. Iwatsukia (N.Kitag.) Gradst., Aranda & Vanderp., comb. nov.
+Basionym:—Iwatsukia N.Kitag., J. Hattori Bot. Lab. 27: 178, 1964 (Kitagawa 1964). Type:—Iwatsukia exigua
+N.Kitag.
+Odontoschisma jishibae (Steph.) L.Söderstr. et Váňa, Phytotaxa 112: 13, 2013 (Váňa et al. 2013). Basionym:—
+Cephalozia jishibae Steph., Sp. Hepat. (Stephani) 6: 437, 1924 (Stephani 1924). Type:—JAPAN. Shinano, Mt.
+Yaku, Jishiba 203 (lectotype [designated by Grolle 1965] G-00061127, isolectotype JE!) ≡ Iwatsukia jishibae
+(Steph.) N.Kitag., Acta Phytotax. Geobot. 21: 114, 1965 (Kitagawa 1965).
+= Iwatsukia exigua N.Kitag., J. Hattori Bot. Lab. 27: 178, 1964 (Kitagawa 1964), syn. nov. Type:—SABAH. S slope of Mt.
+Kinabalu below Paca Cave, Iwatsuki 1070 (holotype NICH!; isotype JE!).
+
+Odontoschisma bifidum (Fulford) Gradst., Aranda & Vanderp., comb. nov. Basionym:—Cladomastigum bifidum
+Fulford, Acta Bot. Venez. 2: 80, 1967 (Fulford 1967). Type:—VENEZUELA. Bolivar, Auyan-tepui, along Río
+Churún, Steyermark 93300 (holotype NY 713605!) ≡ Iwatsukia bifida (Fulford) R.M.Schust., Bull. Nat. Sci. Mus.
+Tokyo 11: 314,1968 (Schuster 1968).
+Odontoschisma spinosum (Fulford) Gradst., Aranda & Vanderp., comb. nov. Basionym: —Cladomastigum
+spinosum Fulford, Mem. N.Y. Bot. Gard. 23: 840, 1972 (Fulford 1972). Type:—VENEZUELA. Bolivar, summit of
+Meseta de Jáua, Steyermark 98009 (holotype CINC) ≡ Iwatsukia spinosa (Fulford) R.M.Schust., Trop. Bryol. 2:
+249, 1990 (Schuster 1990).
+
+232 Accepted by Lars Söderström: 19 Jan. 2014; published: 17 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+References
+Dumortier, B.C. (1831) Sylloge Jungermannidearum Europae Indigenarum. J. Casterman, Tournay, 100 pp.
+http://dx.doi.org/10.5962/bhl.title.22343
+Dumortier, B.C. (1835) Receuil d'Observations sur les Jungermanniacées. I. Révision des genres. J.A. Blanquart, Tournay, 27
+pp.
+Fulford, M.H. (1967) Hepaticae. (In: J.A. Steyermark, Flora del Auyan-tepui). Acta Botanica Venezuelica 2: 72–99.
+Fulford, M.H. (1972) Hepaticae. (In: J.A. Steyermark & B. Maguire, The Flora of the Meseta del Cerro Jaua). Memoirs of the
+New York Botanical Garden 23: 838–845.
+Grolle, R. (1965) Miscellanea Hepaticologica 31-40. Journal of the Hattori Botanical Laboratory 28: 101–106.
+Kitagawa, N. (1964) A new genus of Hepaticae from North Borneo. Journal of the Hattori Botanical Laboratory 27: 178–182.
+Kitagawa, N. (1965) Cephaloziellaceae of Japan. Acta Phytotaxonomica et Geobotanica 21: 107–116.
+Schuster, R.M. (1968) Studies on Hepaticae XLV. On Iwatsukia Kitagawa. Bulletin of the National Science Museum 11: 309–
+317.
+Schuster, R.M. (1990) Origins of neotropical leafy Hepaticae. Tropical Bryology 2: 239–264.
+Schuster, R.M. (2002) Austral Hepaticae Part II. Nova Hedwigia Beiheft 119: 1–606.
+Stephani, F. (1924) Species Hepaticarum 6. George &Cie, Genève & Bale, pp. 433–622.
+Váňa, J., Söderström, L., Hagborg, A. & von Konrat, M. (2013) New combinations and synonyms in Cephaloziaceae
+(Marchantiophyta). Phytotaxa 112: 7–15.
+http://dx.doi.org/10.11646/phytotaxa.112.1.2
+Vilnet, A.A., Konstantinova, N.A. & Troitsky, A.V. (1912) Molecular phylogeny and systematics of the suborder
+Cephaloziineae with special attention to the family Cephaloziaceae s.l. (Jungermanniales, Marchantiophyta). Arctoa 21:
+113–132.
+
+233 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+GRADSTEIN ET AL.
+
+

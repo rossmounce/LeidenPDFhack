@@ -1,0 +1,669 @@
+Phytotaxa 127 (1): 10–21 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.5
+
+Minnesota diatomists: The first 150 years
+MARK B. EDLUND1 & EUGENE F. STOERMER2
+1
+
+St. Croix Watershed Research Station, Science Museum of Minnesota, 16910 152nd St. N., Marine on St. Croix, Minnesota 55047 USA
+Email: mbedlund@smm.org (corresponding author)
+2
+University of Michigan (deceased), 4392 Dexter Rd., Ann Arbor, Michigan 48103 USA
+
+Abstract
+Minnesota boasts over 12,000 lakes, most of glacial origin, three major continental drainage systems (Mississippi River
+to the Gulf of Mexico, Lake Superior via the other Great Lakes to the Atlantic Ocean, and the Red River of the North via
+the Nelson River, to Hudson Bay), and a diversity of landforms comprising seven major ecological regions. Such
+landscape and aquatic variability hosts a high diversity of diatoms, which have been studied for over 150 years. Diatom
+communities range from saline and eutrophic in the southwest agricultural lands, to oligotrophic and endemic forms in
+the cold waters of Lake Superior. Early diatom collections were distributed to reknowned diatomists such as C.G.
+Ehrenberg and H.L. Smith. Other botanists and phycologists, including Tilden, Eddy, and Drouet, were active in
+Minnesota but only rarely included diatoms in their studies. Interest in Minnesota diatoms increased in the latter half of
+the 20th century with taxonomic and floristic surveys (e.g., Czarnecki, Koppen, and Kingston) and the inclusion of
+diatoms in applied research efforts that set the groundwork for understanding post-glacial ecology, effects of
+Euroamerican settlement, impacts of climate, and the effects of acid precipitation. Important to these latter developments
+were the efforts of Dr. Herb Wright Jr., who invited several European diatomists (e.g., Florin, Battarbee, and Haworth) to
+work on paleoecological projects in and near Minnesota. Although not a diatomist per se, Wright's subsequent efforts to
+promote diatom research included the appointment of Platt Bradbury as a research associate and later John Kingston,
+Dick Brugam, and Brian Cumming. Students Sheri Fritz, Kate Laird, and Virginia Card completed diatom research for
+their doctoral degrees. These workers and others have left a legacy that continues to fuel several active labs in Minnesota
+that have used diatoms to develop water quality standards, assess and restore impaired waters, and understand the
+impacts of climate, management, and landuse change across the state.
+Key words: science history, diatoms, Minnesota
+
+Introduction
+The state of Minnesota lies in the north-central continental United States, encompasses over 225,000 km 2 (12th
+largest state), and is home to nearly 5 million people (21st most populous state). Minnesota can be separated
+into seven major ecoregions, including: the Northern Minnesota Wetlands, Lake Agassiz Plain (Red River
+Valley), Northern Lakes and Forests, North Central Hardwood Forests, Northern Glaciated Plains, Western
+Corn Belt Plains, and the Paleozoic Plateau or Driftless Area (Omernik 1987). Most of the state was glaciated
+during the last (Wisconsin) Pleistocene glaciation. As a result of its glacial history, Minnesota has over 12,000
+lakes (Wright 1989). The lakes are unevenly distributed in the state, with over 98% occurring in a NE-SW
+transect across the Northern Lakes and Forests, North Central Hardwood Forests, Northern Glaciated Plains,
+and Western Corn Belt Plains ecoregions. The lakes form a natural gradient along this transect: low pH, low
+salinity, low nutrient, and low alkalinity lakes in the Northern Lakes and Forests; higher pH, low salinity,
+intermediate nutrient levels, and higher alkalinity lakes in the North Central Hardwood Forests; and higher
+salinity, high alkalinity, high pH, and often elevated nutrients in the Northern Glaciated Plains, and Western
+
+10
+
+Accepted by M.L. Julius: 25 Jan. 2012; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Corn Belt Plains ecoregions (Bright 1968). The Northern Minnesota Wetlands boast the Red Lake Peatlands,
+the largest US peat deposit outside of Alaska. Minnesota also has over 148,000 km of rivers and streams
+(Renwick and Eden 1999). Water in Minnesota follows three major drainages: Hudson Bay via the Red and
+Rainy rivers, Lake Superior via the St. Louis River and other North Shore streams, and the Gulf of Mexico via
+the Mississippi, Minnesota, St. Croix, and Missouri river basins (Tester 1995).
+With such diversity of aquatic resources, Minnesota also boasts a rich diatom flora. Bright (1968) reports
+350 species from 18 lakes, Koivo (1978) lists 346 taxa from 46 lakes, Pienkowski and Wujek (1987/88) report
+102 taxa from the Red Lake Peatlands, Edlund (2009a) reports over 350 taxa from Lake St. Croix, and Florin
+(1970) reports about 230 taxa from Kirchner Marsh. Oligotrophic Lake Superior contains native populations
+of Didymosphenia geminata (Lyngbye) M. Schmidt in Schmidt et al. (1899: pl. 214, fig. 7–9), members of the
+Cymbella cistula-complex, diverse gomphonemoids, and several endemics (Stephanodiscus superiorensis
+Theriot & Stoermer (1984: 48), Hannaea superiorensis Bixby & Edlund in Bixby et al. (2005: 231). Lakes in
+northern Minnesota have rich Aulacoseira Thwaites (1848: 167), Tabellaria Ehrenberg ex F.T. Kutzing (1844:
+127), cyclotelloid, and soft-water floras (Bright 1968, Koppen 1975, Camburn and Kingston 1986, Edlund
+and Stoermer 1993, Camburn and Charles 2000). The southern and western parts of the state have more
+productive, saline, and alkaline lakes with diatom floras dominated by Aulacoseira granulata (Ehrenberg)
+Simonsen (1979: 58) and A. ambigua (Grunow) Simonsen (1979: 56), small Stephanodiscus Ehrenberg (1845:
+72) and Cyclostephanos Round ex Theriot, Hakansson, Kociolek, Round & Stoermer (1987: 346) spp.,
+benthic Fragilaria Lyngbye (1819: 182), and alkaliphilous Anomoeoneis Pfitzer (1871: 77), Epithemia
+Kützing (1844: 33), and Rhopalodia Müller (1895: 57) spp. A few lakes are saline and can be dominated by
+Chaetoceras elmorei Boyer (1914: 219).
+The diatom flora of Minnesota has attracted researchers for over 150 years. Here we present a history of
+the study of diatoms in Minnesota.
+
+Minnesota diatomists
+The study of diatoms in Minnesota began before statehood was granted in 1858. In the 1840s and 1850s, the
+famous German microscopist, C.G. Ehrenberg, was actively corresponding with the American diatomist and
+microscopist Jacob Whitman Bailey, a professor in the Department of Chemistry, Mineralogy, and Geology at
+the United States Military Academy at West Point (Edgar 1977, Patrick 1986, Wynne 2003), and other
+American microscopists. Aware of the unique opportunities for sampling in the unexplored U.S. West,
+Ehrenberg coordinated with the director of the United States Naval Observatory, Lt. Matthew Fontaine Maury,
+who requested that the assistant surgeons at the frontier forts sample sediments and river water using
+standardized methods during 1852 and 1853 (Ehrenberg 1854). Samples collected at Fort Ripley along the
+Mississippi River in the central Territory of Minnesota were sent to Washington DC, where the Prussian
+Minister in Residence to the United States (ambassador), Mr. Friedrich von Gerolt, arranged for their transport
+to Ehrenberg (Ehrenberg 1854). The samples from Fort Ripley represented sediment samples and material
+from filtered river water collected monthly from June 1852 to May 1853 (Ehrenberg 1854). Ehrenberg
+analyzed the samples and published observations in his Mikrogeologie (1854), reporting 115 microscopic
+forms, including the first 73 diatoms (as Polygastern) collected in Minnesota. No new species were
+recognized, but Ehrenberg provided seasonal species richness data showing obvious spring and fall peaks in
+phytoplankton diversity on the Mississippi River.
+Except for one small publication (Wyman 1883), nearly forty years passed before the next major report on
+the diatoms of Minnesota. The state geologist N.H. Winchell sent an interglacial peat from Blue Earth County
+to B.W. Thomas, who was better known for his early work on diatoms of Lake Michigan (Thomas and Chase
+1886). Thomas collaborated with Prof. Hamilton L. Smith (who was trained by Bailey in his early years) to
+report 100 species of freshwater diatoms. One new species was recognized in the collection, Navicula
+winchelliana H.L. Smith in B.W. Thomas (1893: 296, 305–306), although its validity is questionable.
+MINNESOTA DIATOMISTS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 11
+
+In 1895, the University of Minnesota hired its first female professor, Dr. Josephine Elizabeth Tilden
+(Hansen 1996), a phycologist well known for her studies of Pacific Ocean algae, cyanobacteria (Tilden 1910)
+and for the first phycology textbook (Algae and its Life Relations; Tilden 1935). Although diatoms were not
+Dr. Tilden's primary study organisms, her distribution of the exsiccata American Algae (several centuries were
+released while she was still an undergraduate!) included about 20 collections of Minnesota diatoms from the
+Minneapolis-St. Paul and the Duluth area (Tilden 1894–1909). Tilden partnered with the New York
+microscopist Arthur Meade Edwards to assist in her determinations. She also published several lists of algae,
+including diatoms from central and north-central Minnesota (Tilden 1894, 1895, 1896).
+The first half of the 20th century saw few efforts to study the diatoms of Minnesota. Although other
+phycologists were working in the region, they rarely included diatoms in their research (Eddy 1930, Drouet
+1954). A study of the St. Paul city water supply by Fanning (1901) had the first illustrated diatoms from
+Minnesota, ten common plankters. Survey work on the Mississippi River explored the ecology and increasing
+effects of pollution on this major commercial waterway (Galtsoff 1923–24, Wiebe 1928, Reinhard 1931).
+Other studies began to explore the ecological role of diatoms and algae in lakes and fisheries in the state
+(Nurnberger 1929, 1930; Reif 1940; Surber 1930, Surber and Olson 1937, Phillips 1969).
+It was during the 1960s that the study of diatoms really took hold in Minnesota. Perhaps the most
+important person in that effort was Dr. Herb Wright, Jr. (Fig. 1), who was ironically never a diatomist. Wright
+led the formation of the Limnological Research Center (LRC) at the University of Minnesota, a research
+group that was an early leader in the field of paleolimnology. Through knowledge of European research,
+Wright had seen how diatoms were providing new lines of evidence in paleoecological studies on water-level
+changes in the Baltic region and post-glacial ecology, and he eventually invited European diatomists to work
+at the LRC. The first research associates were Maj-Britt Florin (1905–1993) from Sweden and Elizabeth
+Haworth (Fig. 2) from England. Rick Battarbee came from England in the 1980s to assist in the Northern
+Great Plains projects (Battarbee et al. 1984, Fritz et al. 1991, 1993). Florin focused her research efforts on the
+post-glacial record in Kirchner Marsh in central Minnesota, producing an illustrated flora and stratigraphy
+including the description of Navicula kirchneriana Florin (1970: 679). Based on the ecological preferences of
+the diatoms, Florin formulated with Wright an important model explaining the layer of plant detritus with
+terrestrial diatoms that is found at the bottom of many post-glacial lake stratigraphies (Florin and Wright
+1969). Haworth's research looked at Holocene lake history of a site at the prairie border (Haworth 1972).
+The influence of the European diatom researchers prompted other LRC associates and students to begin
+studying diatoms and other aquatic microfossils. Bob Bright (Fig. 2), who had spent time in Sweden studying
+under Maj-Britt Florin and Astrid Cleve-Euler, acknowledged the assistance of Florin and Haworth in his
+statewide survey of the relationship of diatoms to microhabitats and lake chemistry (Bright 1968). Donna
+Stark produced one of the first (and underappreciated) multiproxy paleolimnological studies of Elk Lake
+(Clearwater County), involving analysis of the modern distribution of aquatic plants, ostracods, molluscs, and
+chironomids at different depths, as well as their stratigraphic distribution in a transect of cores, all in the
+context of landscape history as recorded by pollen stratigraphy (Stark 1971, 1976). She was also involved
+with others in pollution history of three Minnesota lakes (Birks et al. 1976). Koivo (1978) studied the impacts
+of pollution on ecoregional patterns in plankton diversity across Minnesota.
+In the late 1960s, Wright brought John Platt Bradbury (1936–2005; Fig. 3) to Minnesota as a research
+associate in the LRC. Bradbury's efforts targeted the impact of Euroamerican settlement on lakes using both
+paired lake studies and regional assessments. His classic study of Shagawa and Burntside lakes near Ely
+showed the differing impacts of cultural activities on two contrasting lakes (Bradbury 1978), and his synthesis
+of sediment records from nine lakes across Minnesota and South Dakota identified common patterns of
+changes in the diatom communities as a result of land clearance, erosion, and settlement around the lakes
+(Bradbury 1975). Bradbury left the LRC for a position with the U.S. Geological Survey in the mid-1970s but
+continued his study on the varved sediment record in Minnesota's Elk Lake (see below). One of Platt's lasting
+contributions to the broader community of diatomists was the first North American Diatom Symposium
+(called the "First Symposium. Ecology of Freshwater Diatoms"), that he co-organized with Ryan Drum in
+
+12 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+EDLUND & STOERMER
+
+1970 and held at the Cedar Creek Natural History Area (Bradbury 1973). The North American Diatom
+Symposium (NADS) has returned twice to Minnesota, with the 10th NADS hosted by Dave Czarnecki at Lake
+Itasca and the 16th NADS hosted by John Kingston near Ely.
+
+FIGURES 1–8. Minnesota diatomists. Fig. 1: Herb Wright, Jr. in the Boundary Waters Canoe Area Wilderness, 2006
+(photo Brigitt Amman). Fig. 2: Elizabeth Haworth and Bob Bright (photo Roger Woo). Fig. 3: J. Platt Bradbury, 1974
+North American Diatom Symposium (NADS), Hocking Hills, Ohio (photo E.F. Stoermer). Fig. 4: Dick Brugam, 2005
+NADS, Mobile, Alabama (photo M. Edlund). Fig. 5: John Kingston, 2003 NADS, Isle Morada, Florida (photo M.
+Edlund). Fig. 6: Sheri Fritz, Nebraska Sand Hills (photo J. Schmieder). Fig. 7: John Koppen, 1976 NADS, Philadelphia,
+Pennsylvania (photo E.F. Stoermer). Fig. 8: David Czarnecki, 1997 NADS, Douglas Lake, Michigan (photo M. Edlund).
+
+MINNESOTA DIATOMISTS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 13
+
+Wright's next diatomist incumbent at LRC was Richard Brugam (Fig. 4). Brugam worked on diatom
+stratigraphy from several Holocene lake and bog records (Brugam 1980, Brugam et al. 1988, Brugam and
+Swain 2000). He also made early inroads into quantitative environmental reconstruction through the use of
+indices (Brugam 1979, Brugam and Patterson 1983) and surface-sediment analogues (Brugam 1983, 1993).
+John Kingston (1949–2004; Fig. 5) came to LRC in the early 1980s as a post-doctoral research associate.
+Kingston's research focused on the Red Lake peatlands of northern Minnesota and whether diatoms could be
+used as paleoecological indicators. Kingston found poor preservation of diatoms in the silica-poor bogs but
+published an ecological study of the peatland diatom assemblages (Kingston 1982). When diatoms became
+increasingly important in paleoecological studies, Kingston left for Duluth, where he headed up the PIRLA
+project (Paleolimnoligcal Investigations of Recent Lake Acidification; Kingston et al. 1990) to determine the
+extent and severity of recent lake acidification across the United States. Several of the study sites were located
+in Minnesota and resulted in taxonomic treatments of the diatom floras (Camburn and Kingston 1986,
+Camburn and Charles 2000; the latter included the description of Pinnularia microstauron var. lunicus
+Camburn & Charles (2000: 28) from Dunnigan Lake). With multiple labs working on PIRLA, taxonomic
+consistency was a key element of their quality control, and many Minnesota diatoms were reported in the
+"PIRLA Iconograph" (Camburn et al. 1984–1986). Kingston left to work in Canada and Colorado but returned
+to Minnesota in 1999 to head up the Ely Field Station for NRRI's Center for Water and the Environment where
+he established an active lab with multiple diatomists. Kingston's lab (now headed by Euan Reavie) continued
+work on Minnesota lakes and diatoms (Kingston 2001, Reavie and Baratono 2007) and helped initiate new
+efforts to use diatoms as ecological indicators in the Great Lakes (see below) and Great Rivers (Reavie et al.
+2010), before John's untimely passing in 2004.
+Several of Wright's graduate students, including Sheri Fritz (Fig. 6), Dan Engstrom, and Virginia Card,
+also used diatoms as paleo-indicators in their research. They continue to build on the study of diatoms in
+Minnesota. Fritz worked on Great Plains drought records (Fritz et al. 1991, 1993) and also trained both
+students and postdocs as a research associate at LRC (Laird et al. 1998). Fritz left Minnesota for Lehigh
+University and eventually the University of Nebraska; however, she and her graduate students and post-docs
+continued to work in the region (Saros et al. 2000, Ramstack et al. 2003, 2004). Jeannine-Marie St. Jacques, a
+student of Brian Cumming, who was a post-doc with Sheri Fritz, analyzed diatoms from a short core of varved
+sediments from Lake Mina in western Minnesota (St. Jacques et al. 2009). Engstrom initially partnered with
+John Kingston to work on Harvey's Lake in Vermont (Engstrom et al. 1985). He later became head of the St.
+Croix Watershed Research Station, where he established an active diatom group (Mark Edlund, Joy Ramstack
+Hobbs, Will Hobbs), where training of students continues and whose work has been crucial in setting state
+water quality standards (Ramstack et al. 2004, Heiskary and Wilson 2008) and remediation policies (Edlund
+et al. 2009b). Virginia Card worked on varved sediment records from central Minnesota (Tracey et al. 1996,
+Card 1997), and took a position at Metropolitan State University in St. Paul where diatoms are well-integrated
+into her teaching and research agenda.
+Herb Wright's vision to bring the study of diatoms to Minnesota has shaped many research programs in
+the state. Several diatomists, however, came independently to work in Minnesota on taxonomic, systematic,
+ecological, and floristic diatom studies. John Koppen (Fig. 7) used collections from throughout Minnesota for
+his monographic treatment of the genus Tabellaria, in which he studied both the ecology and taxonomy of the
+group, identifying morphological "strains" whose names are still widely used (Koppen 1975, 1978).
+Pienkowski and Wujek (1987/88) reported 102 diatom taxa from sites in the Red Lake Peatlands. Dave
+Czarnecki (1947–2006; Fig. 8) taught phycology for many years at the Lake Itasca Biological Station, where
+he and his students used the area diatom flora as culture sources (Czarnecki 1987; Czarnecki and Ross 1987/
+1988; Czarnecki 1994) and explored the diatom assemblages in specialized habitats in the region (Ngô et al.
+1987, Edlund 1994, Czarnecki 1995). Czarnecki sadly passed away in 2006, and his diatom cultures were
+transferred to the UTEX culture collection (http://web.biosci.utexas.edu/utex/). Matthew Julius replaced Keith
+Knutson at St. Cloud State University and runs an active laboratory working on systematics, toxicology, and
+functional ecology of diatoms.
+
+14 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+EDLUND & STOERMER
+
+Several regions or lakes in Minnesota have been the focal points of research using diatoms and deserve
+special mention. Perhaps the best-studied lake in Minnesota is Elk Lake in Itasca State Park (Clearwater
+County). The deep hole in Elk Lake preserves an 11,000 year varved record that has attracted the attention of
+paleolimnologists and climatologists for four decades. From Stark's (1971, 1976) initial multiproxy study on
+the lake to the synthesis by Bradbury and Dean (1993), the diatoms have played a critical role for
+understanding lake response to climate change. Bradbury's "climatic-limnological model" of diatom
+succession (Bradbury 1988) was an early example of marrying neo- and paleolimnological approaches, and it
+is still often cited in the interpretation of recent climatic-change records in temperate lakes (Bradbury and
+Dieterich-Rurup 1993, Bradbury et al. 2002).
+Along Minnesota's northeastern border lies the world's largest freshwater lake (by surface area), Lake
+Superior. The nearshore diatom flora of Lake Superior has been increasingly used for study of systematic,
+ecological, and environmental-assessment problems. Early diatom work dealt with survey and fisheries
+management (Smith and Moyle 1944). The partnering of efforts by Ted Olson and Ted Odlaug, head of the
+University of Minnesota's School of Public Health and the University of Minnesota-Duluth's Biology
+Department, respectively, led to the study of the ecology of Lake Superior periphyton and its response to
+nutrient enrichment (Fox et al. 1967, 1969, Nelson et al. 1973). Other workers have studied the diatoms of
+Lake Superior to better understand their taxonomic and systematic relationships (Stoermer et al. 1986),
+including the description of several taxa (Gomphoneis geitleri Kociolek & Stoermer (1991: 1570–1571);
+Hannaea superiorensis Bixby et al. 2005). More recently, diatom assemblages in nearshore and wetland
+habitats in the Great Lakes including Lake Superior are being used to assess water quality and coastal
+conditions (Reavie 2007, Reavie et al. 2006, 2008, Kireta et al. 2007, Sgro et al. 2007).
+The large river systems in Minnesota, especially the Upper Mississippi River and its tributaries
+(Minnesota and St. Croix rivers), have experienced dramatic changes in hydrology, morphology, navigation,
+and nutrient and sediment loading since Euroamerican settlement. As a result, much research effort has been
+directed at their algae, phytoplankton, and environmental histories. The earliest work documented water
+quality degradation as a burgeoning population and industrial base used the rivers as open sewers (Galtsoff
+1923–24, Wiebe 1928, Reinhard 1931). Later work concentrated on algal seasonality and ecology and the
+response of algae to nutrient additions (Kaddatz and Knutson 1980, Kromer-Baker and Baker 1981, Huff
+1986, Luttenton et al. 1986, Kutka and Richards 1997). Large federal projects, such as the National Water
+Quality Network, have included the large Minnesota rivers in their sampling design. Diatoms are a major
+player in the phytoplankon biomass of rivers, and their abundance and diversity have been reported in the
+major project syntheses (e.g., Williams and Scott 1962, Williams 1964, 1972). Most recently has been large
+scale sampling of US Great Rivers to develop algal and diatom metrics of ecosystem health (Reavie et al.
+2010, Kireta et al. 2012, Sgro et al. 2012).
+Perhaps the most interesting application of diatom analysis on Minnesota's large rivers has been for
+historical environmental reconstructions. Because of delta formation at the mouth of Wisconsin's Chippewa
+River as it enters the Mississippi River, Lake Pepin was formed. Pepin originally extended far up the
+Mississippi River above the mouth of the St. Croix River. The delta at the head of Lake Pepin eventually
+prograded across the mouth of the St. Croix River, forming Lake St. Croix. The Lake Pepin and Lake St.
+Croix sections of the Mississippi drainage system function as lakes with short residence times, and they have
+preserved unique lacustrine sediment record of the river and watershed history for over 10000 years. Using
+ecological preferences, diatom-inferred phosphorus reconstructions, and whole-lake mass balance techniques,
+Edlund et al. (2009a) and Engstrom et al. (2009) showed that both rivers had experienced dramatic ecological
+shifts to planktonic dominance, increases in total phosphorus levels, and increased phosphorus loading. These
+changes were most notable after World War II in response to a growing population and increased loading from
+point and non-point sources. Sedimentation histories showed differences between the two rivers; infilling
+rates in Lake Pepin continue to increase whereas sedimentation in Lake St. Croix peaked in the 1960s
+(Engstrom et al. 2009, Triplett et al. 2009). Results from these studies have been used to develop nutrient and
+sedimentation targets for remediation after both rivers were shown to be impaired because of nutrients and the
+MINNESOTA DIATOMISTS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 15
+
+Mississippi also because of turbidity (Edlund et al. 2009b). Lastly, these results show a clear temporal linkage
+between environmental degradation in the Upper Mississippi Basin and coastal eutrophication and hypoxia in
+the Gulf of Mexico (Edlund et al. 2009a).
+After 150 years of diatom study in Minnesota, opportunities to use diatom analysis to address
+environmental problems continue to dominate the research arena. With its wealth and diversity of aquatic
+resources that are threatened by development, the introduction of exotic species, land-use, recreation,
+eutrophication, atmospheric deposition, and climate change, Minnesota boasts a strong foundation of diatombased research and an unusual abundance of active laboratories to help address these issues, guaranteeing that
+the study of diatoms will continue in this region for many years.
+
+Acknowledgements
+This paper is dedicated first to Dr. David Czarnecki for showing MBE the wonder of Minnesota's diatoms
+through his teaching, advice, and friendship, and second to Dr. Herb Wright, Jr. for having the vision and
+leadership to foster the study of diatoms and their application to paleoecology in Minnesota. I specially thank
+Herb Wright, Jr., Bob Edgar, Sarah Kingston, Dan Engstrom, Don Charles, Jim Almendinger, Huan Ngô,
+Mike Wynne, Regine Jahn, Elizabeth Haworth, Jason Zimmerman, and Will Hobbs for help, discussions and
+material used to prepare this historiography. Dr. Eugene Stoermer sadly passed before this manuscript went to
+press.
+
+References
+Battarbee, R.W., Keister, C.M., & Bradbury, J.P. (1984) The frustular morphology and taxonomic relationships of
+Cyclotella quillensis Bailey. In: Mann, D.G. (Ed), Proceedings of the Seventh International Diatom Symposium.
+Koeltz, Koenigstein, pp. 173–184.
+Birks, H.H., Whiteside, M.C., Stark, D.M. & Bright, R.C. (1976) Recent paleolimnology of three lakes in northwestern
+Minnesota. Quaternary Research 6: 249–272.
+http://dx.doi.org/10.1016/0033-5894(76)90053-3
+Bixby, R.J., Edlund, M.B. & Stoermer, E.F. (2005) Hannaea superiorensis sp. nov., an endemic diatom from the
+Laurentian Great Lakes. Diatom Research 20: 227–240.
+http://dx.doi.org/10.1080/0269249x.2005.9705633
+Boyer, C.S. (1914) A new diatom. Proceedings of the Academy of Natural Sciences of Philadelphia 66: 219–221.
+Bradbury, J.P. (1973) Ecology of freshwater diatoms. Nova Hedwigia 24: 145–168.
+Bradbury, J.P. (1975) Diatom stratigraphy and human settlement in Minnesota. Geological Society of America, Special
+Paper No.171. The Geological Society of America, Inc. Boulder, Colorado.
+Bradbury, J. P. (1988) A climatic-limnologic model of diatom succession for paleolimnological interpretation of varved
+sediments at Elk Lake, Minnesota. Journal of Paleolimnology 1: 115–131.
+http://dx.doi.org/10.1007/bf00196068
+Bradbury, J. P. & Dean, W. E. (Eds) (1993) Elk Lake, Minnesota: Evidence for Rapid Climate Change in the NorthCentral United States. Geological Society of America, Special Paper No. 276. Boulder, Colorado.
+Bradbury, J.P. & Waddington, J.C.B. (1978) A Paleolimnological comparison of Burntside and Shagawa Lakes,
+Northeastern Minnesota. Environmental Protection Agency, Ecological Research Series. EPA-600/3-78-004. 50 pp.
+Bradbury, J.P. & Dieterich-Rurup, K.V. (1993) Holocene diatom paleolimnology of Elk Lake, Minnesota. In: Bradbury,
+J.P. & Dean, W.E. (Eds), Elk Lake, Minnesota: Evidence for Rapid Climate Change in the North-Central United
+States. Geological Society of America, Special Paper No. 276. Boulder, Colorado, pp. 215–237.
+Bradbury, J.P., Cumming, B. & Laird, K. (2002) A 1500-year record of climatic and environmental change in Elk Lake,
+Minnesota III. measures of past primary productivity. Journal of Paleolimnology 27: 321–340.
+Bright, R.C. (1968) Surface water chemistry of some Minnesota lakes, with preliminary notes on diatoms. Minneapolis,
+Minnesota. University of Minnesota Limnological Research Center, Interim Report #3, 58 pp.
+Brugam, R.B. (1979) A re-evaluation of the A/C index as an indicator of lake trophic status. Freshwater Biology 9: 451–
+460.
+http://dx.doi.org/10.1111/j.1365-2427.1979.tb01529.x
+
+16 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+EDLUND & STOERMER
+
+Brugam, R.B. (1980) Postglacial diatom stratigraphy of Kirchner Marsh, Minnesota. Quaternary Research 13: 133–146.
+http://dx.doi.org/10.1016/0033-5894(80)90087-3
+Brugam, R.B. (1983) The relation between fossil diatom assemblages and limnological conditions. Hydrobiologia 98:
+223–235.
+Brugam, R.B. (1993) Surface sample analogues of Elk Lake fossil diatom assemblages. pp 189–214. In: Bradbury, J. P.
+& Dean, W. E. (Eds.) Elk Lake, Minnesota: Evidence for Rapid Climate Change in the North-Central United States.
+Geological Society of America, Special Paper No. 276. Boulder, Colorado. pp 309–328.
+Brugam, R.B. & Patterson, C. (1983) The A/C ratio in high and low alkalinity lakes in eastern Minnesota. Freshwater
+Biology 13: 47–55.
+Brugam, R.B. & Swain, P. (2000) Diatom indicators of peatland development at Pogonia Bog Pond, Minnesota, USA.
+The Holocene 10: 453–464.
+http://dx.doi.org/10.1191/095968300668251084
+Brugam, R.B., Grimm, E.C. & Eyster-Smith, N.M. (1988) Holocene environmental changes in Lily Lake, Minnesota
+inferred from fossil diatom and pollen assemblages. Quaternary Research 30: 53–66.
+http://dx.doi.org/10.1016/0033-5894(88)90087-7
+Camburn, K.E. & Kingston, J.C. (1986) The genus Melosira from soft-water lakes with special reference to northern
+Michigan, Wisconsin and Minnesota. In: Smol, J.P., Battarbee, R.W., Davis, R.B., & Meriläinen, J. (Eds). Diatoms
+and Lake Acidity. Dr. W. Junk Publishers, Dordrecht. p 17–34.
+Camburn, K.E. & Charles, D.F. (2000) Diatoms of Low-Alkalinity Lakes in the Northeastern United States. Academy of
+Natural Sciences of Philadelphia, Special Publication 18, 152 pp.
+Camburn, K.E., Kingston, J.C. & Charles, D.F. (Eds) (1984–1986) PIRLA Diatom Iconograph. PIRLA Unpublished
+Report Series, Report 3. Electric Power Research Institute and Department of Biology, Queen's University.
+Card, V.M. (1997) Varve-counting by the annual pattern of diatoms accumulated in the sediment of Big Watab Lake,
+Minnesota, AD 1837–1990. Boreas 26: 103–112.
+http://dx.doi.org/10.1111/j.1502-3885.1997.tb00657.x
+Czarnecki, D.B. (1987) The freshwater diatom culture collection at Loras College, Dubuque, Iowa. Notulae Naturae of
+the Academy of Natural Sciences of Philadelphia No. 465: 1–16.
+Czarnecki, D.B. (1994) The freshwater diatom culture collection at Loras College, Dubuque, Iowa. In: Kociolek, J.P.
+(Ed) Proceedings of the Eleventh International Diatom Symposium. Memoirs of the California Academy of Sciences,
+Number 17, California Academy of Sciences, San Francisco, pp. 155–173.
+Czarnecki, D.B. & Ross, M.J. (1987/88) The Itasca State Park algal culture collection. Journal of the Minnesota
+Academy of Sciences 53: 27–32.
+Czarnecki, D.B. (1995) Additions and confirmations to the algal flora of Lake Itasca (MN) State Park. III. The
+intramucilaginous diatom flora of the colonial peritrich ciliate, Ophrydium versatile (Ophrydiidae). In: Kociolek,
+J.P. & Sullivan, M.J. (Eds) A Century of Diatom Research in North America: A Tribute to the Distinguished Careers
+of Charles W. Reimer and Ruth Patrick. Koeltz Scientific Books, Champaign, Illinois, pp 183–194.
+Drouet, F. (1954) A preliminary study of the algae of northwestern Minnesota. Proceedings of the Minnesota Academy of
+Sciences 22: 116–138.
+Eddy, S. (1930) The freshwater armored or thecate dinoflagellates. Transactions of the American Microscopical Society
+49: 277–321.
+http://dx.doi.org/10.2307/3222160
+Edgar, R.K. (1977) An annotated bibliography of the American microscopist and diatomist Jacob Whitman Bailey
+(1811–1857). Occasional Papers of the Farlow Herbarium, Harvard University No. 11: 1–26.
+Edlund, M.B. (1994) Additions and confirmations to the algal flora of Itasca State Park. II. Diatoms from Chambers
+Creek. Journal of the Minnesota Academy of Sciences 57(2): 10–21.
+Edlund, M.B. & Stoermer, E.F. (1993) Resting spores of the freshwater diatoms Acanthoceras and Urosolenia. Journal
+of Paleolimnology 9: 55–61.
+http://dx.doi.org/10.1007/bf00680035
+Edlund, M.B., Engstrom, D.R., Triplett, L., Lafrancois, B.M. & Leavitt, P.R. (2009a) Twentieth-century eutrophication
+of the St. Croix River (Minnesota-Wisconsin, USA) reconstructed from the sediments of its natural impoundment.
+Journal of Paleolimnology 41: 641–657.
+http://dx.doi.org/10.1007/s10933-008-9296-1
+Edlund, M.B., Triplett, L.D., Tomasek, M. & Bartilson, K. (2009b) From paleo to policy: partitioning of historical point
+and nonpoint phosphorus loads to the St. Croix River, Minnesota-Wisconsin, USA. Journal of Paleolimnology 41:
+679–689.
+http://dx.doi.org/10.1007/s10933-008-9288-1
+Ehrenberg, C.G. (1845) Neue Untersuchungen über das kleinste Leben als geologisches Moment. Bericht über die zur
+Bekanntmachung geeigneten Verhandlungen der Königlich-Preussischen Akademie der Wissenschaften zu Berlin
+1845: 53–87.
+
+MINNESOTA DIATOMISTS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 17
+
+Ehrenberg, C.G. (1854) Mikrogeologie. Das Erden und felsen schaffende Wirken des unsichtbar kleinen selbstständigen
+Lebens auf der Erde. Leopold Voss, Leipzig. 374 pp., 40 plates.
+Engstrom, D.R, Swain, E.B. & Kingston, J.C. (1985) A palaeolimnological record of human disturbance from Harvey's
+Lake, Vermont: geochemistry, pigments and diatoms. Freshwater Biology 15: 261–288.
+http://dx.doi.org/10.1111/j.1365-2427.1985.tb00200.x
+Engstrom, D.R, Almendinger, J.E. & Wolin, J.A. (2009) Historical changes in sediment and phosphorus loading to the
+upper Mississippi River: mass-balance reconstructions from the sediments of Lake Pepin. Journal of
+Paleolimnology 41: 563–588.
+http://dx.doi.org/10.1007/s10933-008-9292-5
+Fanning, M.G. (1901) Observations on the algae of the St. Paul city water. Minnesota Botanical Studies 2:609–617.
+Florin, M.-B., &. Wright, H.E. Jr. (1969) Diatom evidence for the persistance of stagnant glacial ice in Minnesota.
+Geological Society of America Bulletin 80: 695–709.
+http://dx.doi.org/10.1130/0016-7606(1969)80[695:deftpo]2.0.co;2
+Florin, M.-B. (1970) Late-glacial diatoms of Kirchner Marsh, Southwestern Minnesota. Nova Hedwigia, Biehefte 31:
+667–756.
+Fox, J.L., Olson, T.A., & Odlaug, T.O. (1967) The collection, identification, and quantitation of epilithic periphyton in
+Lake Superior. Proceedings, Tenth Conference on Great Lakes Research, pp 12–19.
+Fox, J.L., Odlaug, T.O. & Olson, T.A. (1969) The ecology of periphyton in western Lake Superior. Part 1. Taxonomy and
+distribution. Water Resources Research Center, University of Minnesota, Bulletin 14, 127 pp.
+Fritz, S.C., Juggins, S. & Battarbee, R.W. (1993) Diatom assemblages and ionic characterization of lakes of the Northern
+Great Plains, North America: A tool for reconstructing past salinity and climate fluctuations. Canadian Journal of
+Fisheries and Aquatic Sciences 50: 1844–1856.
+http://dx.doi.org/10.1139/f93-207
+Fritz, S.C., Juggins, S. Battarbee, R.W. & Engstrom, D.R. (1991) Reconstruction of past changes in salinity and climate
+using a diatom-based transfer function. Nature 352: 706–708.
+http://dx.doi.org/10.1038/352706a0
+Galtsoff, P.S. (1923–24) Limnological observations in the Upper Mississippi, 1921. Bulletin of the Bureau of Fisheries
+39: 347–438.
+Hansen, G.I. (1996) Josephine Elizabeth Tilden (1869–1957). In: Garbary, D.J. & Wynne, M.J. (Eds), Prominent
+Phycologists of the 20th Century. Phycological Society of America, Lancelot Press, Hantsport, Nova Scotia. pp 184–
+193.
+Haworth, E.Y. (1972) Diatom succession in a core from Pickerel Lake, northeastern South Dakota. Geological Society
+America Bulletin 83: 157–172.
+http://dx.doi.org/10.1130/0016-7606(1972)83[157:dsiacf]2.0.co;2
+Heiskary, S.A. & Wilson, C.B. (2008) Minnesota’s approach to lake nutrient criteria development. Lake and Reservoir
+Management 24: 282–297.
+http://dx.doi.org/10.1080/07438140809354068
+Huff, D. 1986. Phytoplankton communities in Navigation Pool 7 of the Upper Mississippi River. Hydrobiologia 136: 47–
+56.
+Kaddatz, D.G. &. Knutson, K.M. (1980) Observations of diatom populations in the Snake River, Minnesota. Journal of
+the Minnesota Academy of Sciences 46(1): 18–20.
+Kingston, J.C. (1982) Association and distribution of common diatoms in surface samples from northern Minnesota
+peatlands. Nova Hedwigia, Biehefte 73: 333–346.
+Kingston, J.C., Cook, R.B., Kreis, R.G. Jr., Camburn, K.E., Norton, S.A., Sweets, P.R., Binford, M.W., Mitchell, M.J.,
+Schindler, S.C., Shane, L.C.K. & King, G.A. (1990) Paleoecological investigation of recent lake acidification in the
+northern Great Lakes states. Journal of Paleolimnology 4: 153–201.
+http://dx.doi.org/10.1007/bf00226322
+Kingston, J.C., Sherwood, A.R. & Bengtsson, R. (2001) Morphology and taxonomy of several Fragilariforma taxa from
+Fennoscandia and North America. In: Economou-Amilli, A. (Ed), Proceedings of the XVIth International Diatom
+Symposium. Amvrosiou Press, Athens. pp 73–88.
+Kireta, A.R., Reavie, E.D., Axler, R.P., Sgro, G.V., Kingston, J.C., Brown, T.N., Danz, N.P. & Hollenhorst, T. (2007)
+Coastal geomorphic variability in the Laurentian Great Lakes: implications for a diatom-based monitoring tool.
+Journal of Great Lakes Research 33: 136–153.
+http://dx.doi.org/10.3394/0380-1330(2007)33[136:cgalvi]2.0.co;2
+Kireta, A.R., Reavie, E.D., Sgro, G.V., Angradi, T.R., Bolgrien, D.W., Hill, B.H. & Jicha, T.M. (2012) Planktonic and
+periphytic diatoms as indicators of stress on great rivers of the United States: Testing water quality and disturbance
+models. Ecological Indicators 13: 222–231.
+http://dx.doi.org/10.1016/j.ecolind.2011.06.006
+Koivo, L. (1978) Species diversity in net diatom plankton of some lakes of prairie, deciduous forest and coniferous-
+
+18 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+EDLUND & STOERMER
+
+deciduous forest regions of central North America. Annales Botanici Fennici 15: 138–146.
+Koppen, J.D. (1975) A morphological and taxonomic consideration of Tabellaria (Bacillariophyceae) from the
+northcentral United States. Journal of Phycology 11: 236–244.
+http://dx.doi.org/10.1111/j.1529-8817.1975.tb02774.x
+Koppen, J.D. (1978) Distribution and aspects of the ecology of the genus Tabellaria Ehr. (Bacillariophyceae) in the
+northcentral United States. American Midland Naturalist 99: 383–397.
+http://dx.doi.org/10.2307/2424815
+Kociolek, J.P. & Stoermer, E.F. (1991) Taxonomy and ultrastructure of some Gomphonema Ehrenberg and Gomphoneis
+Cleve taxa from the upper Laurentian Great Lakes. Canadian Journal Botany 69: 1557–1576.
+http://dx.doi.org/10.1139/b91-200
+Kromer-Baker, K. & Baker, A. (1981) Seasonal succession of the phytoplankton of the Upper Mississippi.
+Hydrobiologia 83: 295–301.
+http://dx.doi.org/10.1007/bf00008280
+Kutka, F.J. & Richards, C. 1997. Short-term nutrient influences on algal assemblages in three rivers of the Minnesota
+River Basin. Journal of Freshwater Ecology 12: 411–419.
+http://dx.doi.org/10.1080/02705060.1997.9663551
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+Laird, K.R., Fritz, S.C. & Cumming, B.F. (1998) A diatom-based reconstruction of drought intensity, duration, and
+fequency from Moon Lake, North Dakota: A sub-decadal record of the last 2,300 years. Journal of Paleolimnology
+19: 161–179.
+Luttenton, M., Vansteenberg, J. & Rada, R. 1986. Periphyton in selected reaches of the Upper Mississippi: community
+composition, architecture and productivity. Hydrobiologia 136: 31–45.
+Lyngbye, H.C. (1819) Tentamen Hydrophytologiae Danicae Continens omnia Hydrophyta Cryptogama Daniae,
+Holsatiae, Faeroae, Islandiae, Groenlandiae hucusque cognita, Systematice Disposita, Descripta et iconibus
+illustrata, Adjectis Simul Speciebus Norvegicis. Hafniae. 248 pp., 70 pls.
+Müller, O. (1895) Rhopalodia ein neues Genus der Bacillariaceen. (Engler's) Botanische Jahrbucher fur Systematik,
+Pflanzengeschichte, und Pflanzengeographie, Volume 22. Leipzig, pp. 54–71, 2 pl.
+Nelson, R.R., Odlaug, T.O. Krogstad, B.O. Ruschmeyer, O.R. & Olson, T.A. (1973) The effects of enrichment on Lake
+Superior periphyton. Water Resources Research Center Bulletin 59.
+Ngô, H M., G.W. Prescott, G.W. & Czarnecki, D.B. (1987) Additions and confirmations to the algal flora of Itasca State
+Park. I. Desmids and Diatoms from North Deming Pond. Journal of the Minnesota Academy of Sciences 52: 14–26.
+Nurnberger, P.K. (1929) Plant and animal associations in a lake. Transactions of the American Fisheries Society 59: 174–
+177.
+http://dx.doi.org/10.1577/1548-8659(1929)59[174:paaaia]2.0.co;2
+Nurnberger, P.K. (1930) The plant and animal food of the fishes of Big Sandy Lake. Transactions of the American
+Fisheries Society 60: 253–259.
+http://dx.doi.org/10.1577/1548-8659(1930)60[253:tpaafo]2.0.co;2
+Omerick, J.M. (1987) Ecoregions of the conterminous United States. Annals of the Association of American
+Geographers 77: 118–125.
+http://dx.doi.org/10.1111/j.1467-8306.1987.tb00149.x
+Patrick, R.M. (1986) The history of the science of diatoms in the United States of America. In: Mann, D.G. (Ed),
+Proceedings of the Seventh International Diatom Symposium, Koeltz, Koenigstein, pp. 11–20.
+Pfitzer, E. (1871) Untersuchungen uber Bau und Entwickelung der Bacillariaceen (Diatomaceen). Botanische
+Abhandlungen aus dem Gebiet der Morphologie und Physiologie. Herausg. von J. Hanstein, Bonn. Heft 2: 189 pp.,
+6 pls.
+Phillips, G. L. (1969) Diet of minnow Chrosomus erythrogaster (Cyprinidae) in a Minnesota stream. American Midland
+Naturalist 82: 99–109.
+http://dx.doi.org/10.2307/2423820
+Pienkowski, T.P. & Wujek, D.E. (1987/88) The diatom flora of the Red Lake Peatland, Minnesota. Journal of the
+Minnesota Academy of Sciences 53: 7–13.
+Ramstack, J.M., Fritz, S.C. & Engstrom, D.R. (2004) Twentieth century water quality trends in Minnesota lakes
+compared with presettlement variability. Canadian Journal of Fisheries and Aquatic Sciences 61: 561–576.
+http://dx.doi.org/10.1139/f04-015
+Ramstack, J.M., Fritz, S.C., Engstrom, D.R. & Heiskary, S.A. (2003) The application of a diatom-based transfer function
+to evaluate regional water-quality trends in Minnesota since 1970. Journal of Paleolimnology 29: 79–94.
+http://dx.doi.org/10.1023/a:1022869205291
+Reavie, E.D. (2007) A diatom-based water quality index for Great Lakes coastlines. Journal of Great Lakes Research 33:
+86–92.
+http://dx.doi.org/10.3394/0380-1330(2007)33[86:adwqmf]2.0.co;2
+
+MINNESOTA DIATOMISTS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 19
+
+Reavie, E.D. & Baratono, N.G. (2007) Multi-core investigation of a lotic bay of Lake of the Woods (Minnesota, USA)
+impacted by cultural development. Journal of Paleolimnology 38: 137–156.
+http://dx.doi.org/10.1007/s10933-006-9069-7
+Reavie, E.D., Sgro, G.V., Danz, N.P., Axler, R.P., Kireta, A.R., Kingston, J.C. & Hollenhorst, T.P. (2008) Comparison of
+simple and multimetric diatom-based indices for Great Lakes coastline disturbance. Journal of Phycology 44: 787–
+802.
+http://dx.doi.org/10.1111/j.1529-8817.2008.00523.x
+Reavie, E.D., Axler, R.P., Sgro, G.V., Danz, N.P., Kingston, J.C., Kireta, A.R., Brown, T.N., Hollenhorst, T.P. &
+Ferguson, M.J. (2006) Diatom-based weighted-averaging transfer functions for Great Lakes coastal water quality:
+relationships to watershed characteristics. Journal of Great Lakes Research 32: 321–347.
+http://dx.doi.org/10.3394/0380-1330(2006)32[321:dwtffg]2.0.co;2
+Reavie, E.D., Jicha, T.M., Angradi, T.R., Bolgrien, D.W. & Hill, B.H. (2010) Algal assemblages for large river
+monitoring: comparison among biovolume, absolute and relative abundance metrics. Ecological Indicators 10: 167–
+177.
+http://dx.doi.org/10.1016/j.ecolind.2009.04.009
+Reif, C.B. (1940) Regional planktonic studies in Minnesota. Proceedings of the Minnesota Academy of Sciences 8: 19–
+24.
+Reinhard, E.G. (1931) The plankton ecology of the Upper Mississippi-Minneapolis to Winona. Ecological Monographs
+1: 395–464.
+http://dx.doi.org/10.2307/1943079
+Renwick, M.E. & Eden, S. (1999) Minnesota Rivers: a primer. Water Resources Center, Public Report Series #13,
+University of Minnesota, 69 pp.
+Saros, J.E., Fritz, S.C. & Smith, A.J. (2000) Shifts in mid- to late-Holocene anion composition in Elk Lake (Grant
+County, Minnesota): Comparison of diatom and ostracode inferences. Quaternary International 67: 37–46.
+http://dx.doi.org/10.1016/s1040-6182(00)00007-0
+Schmidt, A. (1899) Atlas der Diatomaceen-kunde. Series V(Heft 54): pls. 213–216. O.R. Reisland, Leipzig.
+Sgro, G.V., Reavie, E.D., Kingston, J.C., Kireta, A.R., Ferguson, M.J., Danz, N.P. & Johansen, J.R. (2007) A diatom
+quality index from a diatom-based total phosphorus inference model. Environmental Bioindicators 2: 15–34.
+http://dx.doi.org/10.1080/15555270701263234
+Sgro, G.V., Reavie, E.D., Kireta, A.R., Angradi, T.R., Jicha, T.M., Bolgrien, D.W. & Hill, B.H. (2012) Comparison of
+diatom-based indices of water quality for mid-continent (USA) Great Rivers. Journal of Environmental Indicators
+5(1): 48–67.
+http://dx.doi.org/10.1007/s10750-012-1067-3
+Simonsen, R. (1979) The diatom system: ideas on phylogeny. Bacillaria 2: 9–71.
+Smith, L.L. & Moyle, J.B. (1944) A biological survey and fishery management plan for the streams of the Lake Superior
+North Shore Watershed. Minnesota Department of Conservation Technical Bulletin 1: 104–128.
+St. Jacques, J.-M., Cumming, B.F. & Smol, J.P. (2009) A 900-yr diatom and chrysophyte record of spring mixing and
+summer stratification from varved Lake Mina, west-central Minnesota, USA. The Holocene 19: 537–547.
+http://dx.doi.org/10.1177/0959683609104030
+Stark, D.M. (1971) A paleolimnological study of Elk Lake in Itasca State Park, Clearwater Co., Minnesota. Ph.D.
+dissertation. Minneapolis, University of Minnesota, 178 pp.
+Stark, D.M. (1976) Paleolimnology of Elk Lake, Itasca State Park, northwestern Minnesota. Archiv fur Hydrobiologie,
+Supplement 50: 208–274.
+Stoermer, E.F., Qi, Y.-z. & Ladewski, T.B. (1986) A quantitative investigations of shape variation in Didymosphenia
+(Lyngbye) M. Schmidt (Bacillariophyta). Phycologia 25: 494–502.
+http://dx.doi.org/10.2216/i0031-8884-25-4-494.1
+Surber, E.W. (1930) A quantitative method of studying the food of small fishes. Transactions of the American Fisheries
+Society 60: 158–163.
+http://dx.doi.org/10.1577/1548-8659(1930)60[158:aqmost]2.0.co;2
+Surber, T. & Olson, T.A. (1937) Some observations on Minnesota fish ponds. Transactions of the American Fisheries
+Society 66: 104–127.
+http://dx.doi.org/10.1577/1548-8659(1936)66[104:soomfp]2.0.co;2
+Tester, J.R. (1995) Minnesota's Natural Heritage: An Ecological Perspective. University of Minnesota Press,
+Minneapolis, 332 pp.
+Theriot, E. & Stoermer, E.F. (1984) Principal component analysis of Stephanodiscus: observations on two new species
+from the Stephanodiscus niagare complex. Bacillaria 7: 37–58.
+Theriot, E. & Håkansson, H., Kociolek, J.P., Round, F.E. & Stoermer, E.F. (1987) Validation of the centric diatom genus
+name Cyclostephanos. British Phycological Journal 22: 345–347.
+http://dx.doi.org/10.1080/00071618700650411
+
+20 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+EDLUND & STOERMER
+
+Thomas, B.W. & Chase, H.H. (1886) Diatomaceae of Lake Michigan as collected during the last 16 years from the water
+supply of the City of Chicago. Chicago. 3 pp.
+http://dx.doi.org/10.5962/bhl.title.62329
+Thomas, B.W. (1893) Diatomaceae of Minnesota interglacial peat with a list of species and notes upon them by Prof.
+Hamilton L. Smith, M.A., L.L.D., also directions for the preparation and mounting of Diatomaceae, by Dr.
+Christopher Johnston and Prof. H.L. Smith. Minnesota Geological Survey Annual Report 20: 290–306.
+Thwaites, G.H.K. (1848) Further observations on the Diatomaceae with descriptions of new genera and species. Annals
+and Magazine of Natural History, 2nd series, 1: 161–172.
+http://dx.doi.org/10.1080/03745485809496091
+Tilden, J.E. (1894) List of freshwater algae collected in Minnesota during 1893. Minnesota Botanical Studies 1: 25–31.
+Tilden, J.E. (1895) List of freshwater algae collected in Minnesota during 1894. Minnesota Botanical Studies 1: 228–
+237.
+Tilden, J.E. (1896) List of freshwater algae collected in Minnesota during 1895. Minnesota Botanical Studies 1: 597–
+600.
+Tilden, J.E. (1910) Minnesota Algae I. The Myxophyceae of North America and adjacent regions including Central
+America, Greenland, Bermuda, West Indies and Hawaii. University of Minnesota, Minneapolis, Minnesota.
+Tilden, J.E. (1894–1909) American Algae. Centuries I-VII, numbers 1–850. Minneapolis, Minnesota.
+Tilden, J.E. (1935) The Algae and Their Life Relations: Fundamentals of Phycology, 1st Ed. University of Minnesota
+Press, Minneapolis.
+Tracey, B., Lee, N. & Card, V. (1996) Sediment indicators of meromixis:comparison of laminations, diatoms, and
+sediment chemistry in Brownie Lake, Minneapolis, USA. Journal of Paleolimnology 15: 129–132.
+http://dx.doi.org/10.1007/bf00196776
+Triplett, L.D., Engstrom, D.R. & Edlund, M.B. (2009) A whole-basin stratigraphic record of sediment and phosphorus
+loading to the St. Croix River, USA. Journal of Paleolimnology 41: 659–677.
+http://dx.doi.org/10.1007/s10933-008-9290-7
+Wiebe, A.H. (1928) Biological survey of the upper Mississippi River, with special reference to pollution. Bulletin of the
+Bureau of Fisheries 43: 137–167.
+Williams L.G. (1964) Possible relationships between plankton-diatom species numbers and water-quality estimates.
+Ecology 45: 809–823.
+http://dx.doi.org/10.2307/1934927
+Williams L.G. (1972) Plankton diatom species biomasses and the quality of American rivers and the Great Lakes.
+Ecology 53: 1038–1050.
+http://dx.doi.org/10.2307/1935416
+Williams L. G. & Scott, C. (1962) Principal diatoms of major waterways of the United States. Limnology and
+Oceanography 7: 365–379.
+http://dx.doi.org/10.4319/lo.1962.7.3.0363
+Wright, H.E., Jr. (1989) Origin and development of Minnesota lakes. Journal of the Minnesota Academy of Sciences 55:
+26–31.
+Wyman, J. (1883) Fresh-water algae and Diatomaceae of Minneapolis, Minn. American Monthly Microscopical Journal
+4: 18.
+Wynne, M.J. (2003) Phycological Trailblazer No. 18: Jacob W. Bailey. Phycological Newletter 39(1): 2–5.
+
+MINNESOTA DIATOMISTS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 21
+
+

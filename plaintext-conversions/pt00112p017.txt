@@ -1,0 +1,92 @@
+Phytotaxa 112 (1): 16–17 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.112.1.3
+
+Notes on Early Land Plants Today. 42. Validation of Nanomarsupella
+(Gymnomitraceae, Marchantiophyta)
+ANDERS HAGBORG1, LARS SÖDERSTRÖM2 & MATT VON KONRAT1
+1
+
+Department of Botany, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+
+Schuster (1978) described Marsupella xenophylla together with his new subgenus Nanomarsupella stating
+they were valid as generico-specific descriptions (ICN Art. 38.5; McNeill et al. 2012). However, as it was not
+described with a new genus but instead with new subgenus it is not validly described. However, the species is
+regarded as validly described here. Schuster (1996) then intended to elevate the subgenus to a genus but as the
+proposed basionym is not valid and no description was provided, his new genus is invalid as well as his
+proposed new combination of type species.
+
+Formal treatment
+The format of this note follows Söderström et al. (2012) except that we use the Melbourne International Code
+of Nomenclature for algae, fungi, and plants (ICN; McNeill et al. 2012) instead of the Vienna International
+Botanical Code of Nomenclature (ICBN; McNeill et al. 2006).
+Nanomarsupella R.M.Schust. ex A.Hagborg, L.Söderstr. et von Konrat, gen. nov.
+Based on:—Marsupella subgen. Nanomarsupella R.M.Schust., Phytologia 39: 248, 1978 (Schuster 1978), nom. inval.
+(ICN Art. 40.1; type not valid).
+Type (and only species):—Nanomarsupella xenophylla R.M.Schust. ex A.Hagborg, L.Söderstr. et von Konrat
+Nanomarsupella R.M.Schust., J. Hattori Bot. Lab. 80: 128, 1996 (Schuster 1996), nom. inval. (ICN Art. 41.5;
+basionym not valid).
+
+≡
+
+Description:—Leaves covered with contiguous, prominent, hyaline lenticular or mamilliform projections, one
+over each cell; leafy shoots running out into long, rhizoidous microphyllous axes and bearing similar, lateralintercalary, whiplike branches. Leaves imbricate, small and scale like. Gynoecia apical, abruptly capitate.
+Nanomarsupella xenophylla (R.M.Schust.) R.M.Schust. ex A.Hagborg, L.Söderstr. et von Konrat, sp. nov.
+Basionym:—Marsupella xenophylla R.M.Schust., Phytologia 39: 248, 1978 (Schuster 1978).
+Type:—VENEZUELA: Mérida: Sierra de Mérida, 4150 m, R.M.Schuster & L. Ruiz-Teran 76-1449 (holotype MERF,
+isotype in F).
+Nanomarsupella xenophylla (R.M.Schust.) R.M.Schust., J. Hattori Bot Lab. 80: 132, 1996 (Schuster 1996), nom.
+inval. (ICN Art. 35.1; genus not valid)
+
+≡
+
+For further description and illustration, see Schuster (1996: 128–132).
+
+Acknowledgement
+We thank Ray Stotler, Ji í Vá a and John McNeill for advice on complex nomenclatural issues. The Early
+Land Plants Today project (ELPT) has been generously supported in part by the Global Biological
+ň
+
+ř
+
+16 Accepted by Jon Shaw: 24 May 2013; published online in PDF: 17 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Information Facility (GBIF) Seed Money Award No.2007-41, activities facilitated in part by funding from the
+Biodiversity Synthesis Center of the Encyclopedia of Life (BioSynC), partial funding from the National
+Science Foundation (Award No's 0749762, 1115002), the Warwick Foundation, and the Negaunee
+Foundation.
+
+References
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+146: 1–260.
+Schuster, R.M. (1978) Studies on Venezuelan Hepaticae. I. Phytologia 39: 239–251.
+Schuster, R.M. (1996) Studies on Antipodal Hepaticae. XII. Gymnomitriaceae. Journal of the Hattori Botanical
+Laboratory 80: 1–147.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+
+VALIDATION OF NANOMARSUPELLA
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 17
+
+

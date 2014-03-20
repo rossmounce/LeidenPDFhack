@@ -1,0 +1,199 @@
+Phytotaxa 100 (1): 57–60 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.100.1.6
+
+Nepenthes alzapan (Nepenthaceae), a new species from Luzon, Philippines
+MARTIN CHEEK¹ & MATTHEW JEBB²
+1 Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AE, UK; e-mail m.cheek@kew.org
+2 National Botanic Gardens, Glasnevin, Dublin 9, Ireland
+*
+author for correspondence
+
+This paper forms a part of the studies towards a World Monograph of Nepenthes Linnaeus (1753: 955)
+building on a Skeletal Revision of Nepenthes (Jebb & Cheek 1997) and the Flora Malesiana account (Cheek
+& Jebb 2001). In the course of studying previously unseen specimens from the Philippines, four sheets
+(Ramos & Edanõ 45690, K, NY, UC, US), of a species previously unknown came to light from Mt Alzapan.
+The oblong, glabrous, ligulate, sessile leaf-blades with 5–7 pairs of nearly evenly spaced longitudinal nerves
+placed the species unambiguously in the Insignes group of Danser (1928) which is restricted to the Philippines
+apart from one species, N. insignis Danser (1928: 314), in New Guinea and, more ambiguously, N. northiana
+Hooker, J.D. (1881: 717) in Borneo (Cheek & Jebb 2001).
+The Insignes group are also characterised by more or less broadly cylindrical upper pitchers with a length:
+breadth ratio of 3 or 4:1 (constricted at the waist in N. ventricosa Blanco (1837: 807) which bear a broad
+peristome, semi-circular in section, the inner edge of which is prominently toothed, the outer attenuating in
+thickness until it is membranous. The lower surface of the pitcher lid lacks an appendage. The nectar glands
+are usually transversely elliptic, non-perithecoidal and are absent from the midline, being restricted to two
+incurved lateral bands.
+In the key to Philippine species of Nepenthes, Cheek & Jebb (2001) the species described below as N.
+alzapan, keys out as the small-pitchered N. bellii K.Kondo (1969: 653) of Mindanao. The two taxa appear
+similar in terms of overall dimensions of the pitchers. However, the upper pitchers of N. bellii, while broadly
+similar to those of N. alzapan, differ significantly in their finer peristome, and sparse lid glands (Table 1). In
+practice N. alzapan being restricted to Luzon, is unlikely to be confused with N. bellii, which is restricted to
+Mindanao. It is more likely that its leaves, stems and inflorescences might be identified as N. ventricosa, the
+only other species of this group in Luzon. However the upper pitchers of N. ventricosa are much larger and
+longer than in N. alzapan, 9–16 × 3–8cm and hour-glass shaped, lacking fringed wings, and the lid is narrowly
+elliptic 4–6 × 1.8–2.25 cm.
+TABLE 1. The major characters separating N. alzapan and N. bellii
+N. bellii
+
+N. alzapan
+
+Stems
+
+Terete, or slightly angular, 3–5 mm diam.
+Not winged
+
+Sharply triangular, 5–7 mm diam. Winged
+
+Leaf width
+
+1–1.8 cm
+
+1.5–2.5(–3.4) cm
+
+Upper pitchers
+
+Infundibuliform 7.3–7.5 × 2–2.5 cm
+
+Subglobose to globose–infundibuliform, 6.5–
+6.8 × 4.2–5 cm
+
+Peristome ribs
+
+0.7 mm apart
+
+1.5 mm apart
+
+Pitcher lid nectar glands
+
+<10
+
+70–200+
+
+Male inflorescence size
+
+10–15 × 1 cm
+
+31.5–42 × 1.5–2 cm
+
+Flowers per inflorescence
+
+ca. 40
+
+80–110
+
+Pedicel length
+
+3–4 mm
+
+7–8(–10) mm
+
+Staminal column
+
+ca. 1.5 mm long, glabrous
+
+2–2.5 mm long, hairy
+
+Accepted by Duilio Iamonico: 17 Apr. 2013; published online in PDF: 23 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+57
+
+FIGURE 1. Nepenthes alzapan A habit, with upper pitcher and male inflorescence; B transverse section of stem at base of leaf
+insertion; C hairs on outer pitcher wall; D lid of upper pitcher, lower surface; E nectar glands from lower surface of lid; F peristome,
+view from above; G peristome, inner edge, showing teeth; H peristome, transverse section, inner edge to right; I detail of fringed
+wings of upper pitchers; J male flower; K rhachis indumentum; L tepal indumentum, outer surface.A–E & J–L from Ramos & Edanõ
+in BS 45690 (NY); F–I from Ramos & Edanõ in BS 45690 (K). Scale bars: single=1 mm; graduated single bar = 2 mm and 3 mm;
+double = 1 cm; graduated = 5cm. All drawn by ANDREW BROWN.
+
+58 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+CHEEK & JEBB
+
+Nepenthes alzapan Jebb & Cheek, sp. nov. Type:—PHILIPPINES. Luzon, “Tayabas Prov., Mt Alzapan”, male
+fl. 7 June 1925, Ramos & Edanõ 45690 (holotype K!; isotypes NY!, UC!, US!) (Fig. 1).
+Diagnosis:—A Nepenthes bellio caulibus acute trigonis atque conspicue alatis (nec teretibus nec leviter
+angularibus, nec alatis), ascidiis superioribus globosis, 6.5-6.8 x 4.2-5cm, (nec infundibuliformis, 7.3–7.5 ×
+2–2.5cm); inflorescentia masculi 31.5–42 × 1.5–2cm (nec 10–15 x 1 cm) differt.
+Description:—Terrestrial climber (probably) to at least 0.4 m tall. Stems alabaster to pale browncoloured, acutely triangular in transverse section, 5(–7) mm diam., two of three angles extended into wings up
+to 3–4 mm wide, decurrent from the leaves, internodes 1.3–2 cm long, glabrous but with scattered sessile red
+-coloured glands. Leaves coriaceous, sessile, ligulate–oblong, (7–)8–13.5 × 1.5–2.5(–3.4) cm, apex acute,
+base clasping the stem for 2/3 its circumference, decurrent almost to the node below as a wing up to 4mm
+wide. Longitudinal nerves 5–7 on each side of the midrib, almost evenly scattered. Pennate nerves irregular,
+oblique. Indumentum as stem. Lower pitchers not recorded. Upper pitchers subglobose to globoseinfundibuliform, 6.5–6.8 × 4.2–5 cm, with moderately sparse appressed simple hairs 0.2–0.5 mm long; wings
+present only for 5–17 mm of the pitcher length, at the midpoint or apex, 1–2 mm wide, with fringed elements
+1.5 mm apart, 3–4mm long with moderately sparse simple or basally 2–3-branched hairs 0.1–0.15 mm long;
+mouth suborbicular, forming the broadest part of the pitcher; peristome subcylindrical to flattened, 6–10(–
+14)mm broad, ribs 1.5 mm apart, about 0.25 mm high, outer margin entire, revolute, inner margin dentate,
+teeth curved, 0.5–0.75 mm; lid elliptic, 2.5–2.7 × 2.2–2.3 cm, apex rounded, base truncate; lower surface
+lacking appendages, midline thickened and lacking nectar glands which occur only in two curved lateral
+bands, each with 35–110 glands, densest at base of the lid, where 3 per mm²; nectar glands slightly
+transversely elliptic or suborbicular 0.3–0.5 × 0.3–0.5mm, with a thin marginal rim 0.05 mm thick; sessile
+red-coloured glands 0.05–0.07 mm in diameter, about 4 per mm², spur not recorded. Male inflorescence 31.5–
+42 × 1.5–2.5 cm, indumentum dense, completely covering the surface, hairs simple, bronze-coloured, 0.15–
+0.35 mm long; peduncle 20–22.5 cm long, 3–4.5 mm diam.; rhachis 11.5–20 cm long, with partial-peduncles
+80–110, 1-flowered; bracts inconspicuous, at apex of inflorescence only, about 0.2 mm long, inserted 0.3–1.5
+mm from junction with rhachis; pedicels 7–8(–10) mm long; tepals red, narrowly elliptic, 3.5 × 1.5–1.8 mm,
+lower surface and margins completely covered in sinuous thin-walled bronze-coloured hairs about 0.1 mm
+long, apices round; staminal column 2–2.5 mm long, with thinly scattered ± patent copper-coloured hairs
+0.25–0.35 mm long; anther-head globose, about 1.5 mm diam. Female inflorescences, infructescences and
+seed unknown.
+Etymology:—The epithet alzapan refers to Mt. Alzapan, the type locality.
+Distribution & ecology:—Philippines, Luzon, Sierra Madre Mts., Mt Alzapan, submontane mossy
+forest, 1800 m a.s.l.
+Conservation:—Nepenthes alzapan is known only from three individuals at most, at a single location on
+an island which has seen high-levels of habitat-loss in the twentieth century (Sohmer & Davis 2007). The
+species appears not to have been seen alive since 1925, and may already be extinct as is thought to be the case
+with N. robcantleyi Cheek (2011: 678). Nepenthes alzapan is here assessed as Critically Endangered under
+IUCN (2001), Criterion D. It is to be hoped that the species will be rediscovered at the type location and
+perhaps additional locations and that it will not prove to be so rare or as threatened as existing data suggest.
+However Sohmer & Davis (2007) document two other species, Psychotria alzapaniensis Sohmer & A. Davis
+(2007: 123) and Psychotria longissima Quisumbing & Merrill (1928: 206) which are also known only from
+Ramos & Edanõ type specimens made in 1925 at the same location. Both species they assess as Critically
+Endangered, if not extinct (Sohmer & Davis 2007).
+
+NEPENTHES ALZAPAN SP. NOV.
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 59
+
+References
+Blanco, M. (1837) Flora de Filipinas. En la Inprenta de Sto. Thomas por D. Candido Lopez, Manila, 887pp.
+Cheek, M. (2011) Nepenthes robcantleyi sp. nov. (Nepenthaceae) from Mindanao, Philippines. Nordic Journal of Botany
+29: 677–681.
+http://dx.doi.org/10.1111/j.1756-1051.2011.01449.x
+Cheek, M. & Jebb, M. (2001) Nepenthaceae. In: Nooteboom, H.P.(ed.) Flora Malesiana 15. Nationaal Herbarium
+Nederland, Leiden, 157pp.
+Danser, B.H. (1928). The Nepenthaceae of the Netherlands Indies. Bulletin du Jardin Botanique de Buitenzorg III 9:
+249–438.
+Hooker, J.D. (1881) Nepenthes northiana sp. nov. Gardeners’ Chronicle II: 717.
+IUCN (2001) IUCN Red List Categories and Criteria: Version 3.1. Prepared by the IUCN Species Survival Commission.
+IUCN, Gland, Switzerland and Cambridge, 22 pp.
+Jebb, M. & Cheek, M. (1997) A Skeletal Revision of Nepenthes. Blumea 42: 1–106.
+Kondo, K. (1969) A new species of Nepenthes from the Philippines. Bulletin of the Torrey Botanical Club 96 (6): 653–
+655.
+http://dx.doi.org/10.2307/2483544
+Linnaeus, C. (1753) Species Plantarum 2. Lauentii Salvii, Stockholmiae, 1200 pp.
+Quisumbing, E. & Merrill, E.D. (1928). New Philippine Plants. Philippine Journal of Science 37: 133–213.
+Sohmer, S.H. & Davis, A.P. (2007). The Genus Psychotria (Rubiaceae) in the Philippine Archipelago. Sida, Botanical
+Miscellany 27: 1–247.
+
+60 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+CHEEK & JEBB
+
+

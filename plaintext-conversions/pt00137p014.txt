@@ -1,0 +1,672 @@
+Phytotaxa 137 (1): 1–14 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.137.1.1
+
+Phylogenetic position and taxonomy of the enigmatic Orobanche krylowii
+(Orobanchaceae), a predominatly Asian species newly found in Albania (SE
+Europe)
+BOŽO FRAJMAN1, LUIS CARLÓN2, PETR KOSACHEV3, ÓSCAR SÁNCHEZ PEDRAJA4, GERALD M.
+SCHNEEWEISS5 & PETER SCHÖNSWETTER1
+1
+
+Institute of Botany, University of Innsbruck, Sternwartestraße 15, A-6020 Innsbruck, Austria; bozo.frajman@uibk.ac.at,
+peter.schoenswetter@uibk.ac.at
+2
+Jardín Botánico Atlántico, Avenida del Jardín Botánico 2230, E-33394 Gijón (Asturias), Spain; lcarlon@hotmail.com
+3
+Altai State University, Barnaul, Lenina 61, Russia; pakosachev@yandex.ru
+4
+E-39722 Liérganes (Cantabria), Spain; osanchez@farmalierganes.com
+5
+Department of Systematic and Evolutionary Botany, University of Vienna, Rennweg 14, A-1030 Vienna, Austria;
+gerald.schneeweiss@univie.ac.at
+
+Abstract
+We report on the occurrence of Orobanche krylowii in the Alpet Shqiptare (Prokletije, Albanian Alps) mountain range in
+northern Albania (Balkan Peninsula). The species was previously known only from eastern-most Europe (Volga-Kama
+River in Russia), more than 2500 km away, and from adjacent Siberia and Central Asia. We used morphological evidence
+as well as nuclear ribosomal ITS sequences to show that the Albanian population indeed belongs to O. krylowii and that
+its closest relative is the European O. lycoctoni, but not O. elatior as assumed in the past. Both Orobanche krylowii and
+O. lycoctoni parasitize Ranunculaceae (Thalictrum spp. and Aconitum lycoctonum, respectively). We provide an
+identification key and a taxonomic treatment for O. krylowii, and suggest the IUCN category CE (critically endangered)
+for the highly disjunct Albanian population.
+Key words: Orobanche, taxonomy, critically endangered, Albania
+
+Introduction
+In spite of the peculiarity of its rich flora and its importance for European phytogeography (Markgraf 1932)
+Albania is one of the botanically least explored regions of Europe. After the last editions of the national flora
+(Paparisto et al. 1988, Qosja et al. 1992, 1996, Vangjeli et al. 2000) including 3758 taxa (3250 species) of
+vascular plants a multitude of species new for Albania were published (e.g., Barina & Pifko 2008, Rakaj 2009,
+Ball 2011, Barina et al. 2011, Meyer 2011, Barina et al. 2013). For instance, Meyer (2011), based on his
+botanical explorations of Albania during four months in 1959–1961, described 37 new taxa for science (28
+species and 9 subspecies).
+The holoparasitic broomrapes (Orobanche L., Orobanchaceae) belong to the taxonomically most difficult
+non-apomictic genera. This is due to the, compared to other plants, strongly reduced number of potentially
+useful characters, especially vegetative ones, the high phenotypic variability and the uniform darkening
+during desiccation resulting in the loss of potentially useful coloration characters in herbarium specimens
+(Kreutz 1995, Schneeweiss et al. 2009). Consequently, our knowledge on taxonomy and distribution of many
+broomrape species is still insufficient, even in botanically well-explored regions, such as the Iberian Peninsula
+or Central Europe. New species of Orobanche s. str. and Phelipanche Pomel (syn. O. sect. Trionychon Wallr.)
+have been described (Foley 1998, 2004, Carlón et al. 2005, 2008, Pujadas-Salvà & Crespo 2004, PujadasAccepted by Z.-Q. Zhang: 1 Aug. 2013; published: 11 Oct. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+Salvà 2008), previously neglected species resurrected (Zázvorka 2010, Frajman et al. 2011), and new
+localities, sometimes far outside the previously known distribution range, (re)discovered (Pusch 2000, Carlón
+et al. 2005, 2008, Frajman & Schönswetter 2008, Pusch & Günther 2009, Schneeweiss et al. 2009,
+Dakskobler et al. 2010, Schaupp 2011, Schönswetter et al. 2011, in press, Uhlich 2013).
+Application of molecular data greatly advanced our understanding of phylogenetic relationships among
+major clades of broomrapes (Manen et al. 2004, Schneeweiss et al. 2004, Park et al. 2007, 2008) and of
+species-level relationships (Carlón et al. 2005, 2008). Carlón et al. (2005, 2008) successfully combined
+traditional morphological systematic approaches supplemented by thorough photographic documentation with
+analyses of nuclear ITS data and allowed recognition of new species and clarification of the taxonomic status
+of poorly known and often neglected taxa. The ITS sequences were, in a fashion similar to barcoding, also
+used to confirm the identity of broomrapes parasitizing on Aconitum lycoctonum L. in the Alps, namely O.
+lycoctoni Rhiner (Schneeweiss et al. 2009).
+Orobanche taxa parasitize flowering plants from various families. Whereas some families, such as
+Asteraceae or Fabaceae, contain host species for numerous broomrape species, other families, such as
+Ranunculaceae, are only rarely attacked. Three Orobanche species are reliably known to parasitize on
+Ranunculaceae (Carlón et al. 2013a), i.e., O. lycoctoni exclusively on Aconitum lycoctonum (Carlón et al.
+2008), O. haenseleri (=O. hellebori Miégev.) mainly on Helleborus L. (Beck Mannagetta 1930), and O.
+krylowii exclusively on Thalictrum (minus L.) (Beck 1881, Uhlich 2013). Whereas O. haenseleri and O.
+lycoctoni were shown not to be closely related (Schneeweiss et al. 2009), nothing is known about the
+phylogenetic position of O. krylowii.
+Orobanche krylowii was described by Beck (1881) based on a specimen collected by Krylov on the banks
+of Chusovaya River in the Perm Region in the Central Ural Mts. (Kynowski sawod). Beck (1881) considered
+it most similar to O. major L. (syn. O. elatior Sutton) and O. libanotidis Rupr. (syn. O. alsatica var. libanotidis
+(Rupr.) Beck, O. bartlingii Griseb.) and later he treated it as form of O. major (Beck Mannagetta 1890).
+Similarly, Nyman (1890) considered it a subspecies of O. major. Krylov (1907), based on different
+indumentum (pubescent vs. glabrous) described two forms, O. k. f. puberula Krylov and O. k. f. glaberrima
+Krylov, which were not recognized by Beck Mannagetta (1930). Up to now, O. krylowii was only known from
+Asia (Siberia, Central Asia: Tien Shan, Dzungaria, Tarbagatai, Balkhash, Kashgaria) and eastern-most Europe
+(Volga-Kama river region) (Novopokrovskii & Tzvelev 1958, Kurbatskij 2007).
+Here we report on the occurrence of Orobanche krylowii Beck in the Alpet Shqiptare (=Prokletije,
+“Albanian Alps”) in northern Albania, more than 2500 km away from its currently known distribution area.
+We use morphological evidence as well as nuclear ribosomal ITS sequences from Albanian as well as
+northern Central Asian populations to test the taxonomic assignment of the Albanian population to O. krylowii
+and to determine the phylogenetic position of O. krylowii. Specifically, we test whether O. krylowii is more
+closely related to O. elatior as proposed by previous taxonomic treatments or to any other Orobanche species
+parasitizing Ranunculaceae. We provide a taxonomic treatment of O. krylowii including a comprehensive
+description accompanied by an illustration plate as well as diagnostic characters, along with an identification
+key to differentiate it from taxa that are closely related, morphologically similar or otherwise have been
+brought in connection with O. krylowii. Finally, we propose an IUCN conservation status.
+
+Material & Methods
+Plant material
+Plant material of O. krylowii from one locality in Northern Albania and from several localities in Russia
+and Kazakhstan was investigated and is listed in the Appendix. The accessions with GenBank numbers were
+analyzed molecularly and all (along with the types, cited below) were examined morphologically.
+
+2 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+FRAJMAN ET AL.
+
+Lab work and phylogenetic analyses
+DNA was extracted from herbarium material using the 2 × cetyl trimethyl ammonium bromide (CTAB)
+method of Doyle & Doyle (1987). Amplification and sequencing of the nuclear ITS region followed methods
+described in Schneeweiss et al. (2004). The newly obtained sequences (GenBank accession numbers
+KF359499 to KF359504) were manually aligned to the data set of Schneeweiss et al. (2009). The
+determination of the following taxa from Schneeweiss et al. (2009) was revised based on the most recent
+taxonomic and nomenclatural knowledge: O. crinita Viv. (AY209244) was revised as O. sanguinea, O. elatior
+(EU655618, EU655619) as O. leptantha Pomel, O. ozanonis F.W. Schultz (AY960723) as O. serbica Beck &
+Petrovic, O. cf. raddeana (AY209259) and O. elatior (EU655621, EU655622, EU655623) as O. kochii, and
+O. macrolepis Coss. (AY209286, AY209287, AY209288) as Boulardia latisquama F.W. Schultz. There are
+different opinions on the circumscription of O. ritro Gren. We here follow Zazvorka (2010) in considering O.
+loscosii Carlón, M. Laínz, Moreno Mor. & Ó. Sánchez (EU655617) a separate taxon, while O. ritro Gren.
+should be synonymized with O. kochii (but see Pujadas Salvà 2012).
+Tree searching and bootstrapping (with 1000 replicates; MLB) relied on maximum likelihood (ML) under
+the GTRCAT model of substitution, using RAxML 7.2.0 (Stamatakis 2006, Stamatakis et al. 2008) on Cipres
+Portal (Miller et al. 2010). Maximum parsimony (MP) and MP bootstrap (MPB) analyses were performed
+using PAUP 4.0b10 (Swofford 2002). The most parsimonious trees were searched heuristically with 1000
+replicates of random sequence addition, TBR swapping, and MulTrees on. The swapping was performed on a
+maximum of 1000 trees (nchuck=1000). All characters were equally weighted and unordered. The data set
+was bootstrapped using full heuristics, 1000 replicates, TBR branch swapping, MulTrees option off, and
+random addition sequence with five replicates. Diphelypaea tournefortii (Desf.) Nicolson and D. coccinea
+(M. Bieb.) Nicolson were used as outgroups, based on previous studies (Schneeweiss et al. 2004).
+
+Results & Discussion
+Taxonomic treatment
+Orobanche krylowii Beck in Oesterr. Bot. Z. 31: 309. 1881 ["krylovii" (orthographic variant)] ≡ O. krylowii
+Beck in Krylov, Mater. Fl. Perm. Gouv. 2: 202. 1881, nom. nud. (cf. Beck 1890: 171 "sine descript.") ≡ O.
+major subsp. krylowii (Beck) Nyman, Consp. Fl. Eur., Suppl. 2: 243. 1890 ≡ O. major f. krylowii (Beck) Beck in
+Biblioth. Bot. 19: 171 t. 3 f. 45(3). 1890.—Type: "514. Orob. major L. / f. O. Krylowi G. Beck / Leg. Porph.
+Krylow. / Gubern. Perm.- Kynowski sawod / Beck / 130 [m. Beck]" (holotype, LE!). Iconography: Beck (1890):
+t. 3. f. 45(3).
+= Orobanche krylowii f. puberula Krylov, Fl. Alt.: 997. 1907 (Krylov 1907).—Type: "Na tayozhnyh lugah, okolo
+Pesczanogo / ozera, - v Temerchinskoj dache. / 20 ijunja 90 g. Sobr. P. Krylov" [on taiga clearings of the Temerchinski
+forest around lake Pesczanoe, leg. P. Krylov, 20.6.1890] (TK!), lectotype, designated here. "Okolo Pesczanogo ozera v
+Temerchinskoj / dache. 23 ijunja 1902 g. Sobr. P. Krylov" [around the lake Pesczanoe in the Temerchinski forest, leg.
+P. Krylov, 23.6.1902] (syntype, TK!). The locality is in the vicinity of Tomsk, village Golownino (N56.461258,
+E84.880857).
+Note: it is not clear if the second specimen (syntype) actually belongs to O. krylowii, as the erect flowers with
+straight dorsal line and rather long calyx teeth are no typical for O. krylowii.
+= Orobanche krylowii f. glaberrima Krylov, Fl. Alt.: 997. 1907 (Krylov 1907)—Type: "Okr. Salairskogo rudn. i dr m.
+Tomsk. gub. / Sobral F. E. Zass / Posl. B Eks. №2" [vicinity of Salair mines in gubernija Tomsk (N54.286473,
+E85.928078) / Leg. F. E. Zass / exs. №2 sent to B—probably Beck]—two herbarium sheets (TK!), lectotype,
+designated here. "Okr. Tomska, blis rechki Maloj Kirgizki, smeschanny les. / 1 avg. 1899 g. Wydrin / Posl. G.
+Beck'u, №3" [vicinity of Tomsk, near the river Malaja Kirgizka (N56.55778, E85.072231), mixed forest / leg.
+Wydrin, 1.8.1899 / exs. №2 sent to G. Beck] (syntype, TK!).
+– Orobanhe flava auct. [p.p. min.], non Orobanche flava Mart. ex F.W. Schultz., Beitr. Kenntn. Deutsch. Orob.: 9. 1829
+(cf. Teryokhin et al. 1993, Schlauer et al. 2012)
+Several authors (e.g., Chater & Webb 1972, Pignatti 1982, Domina & Raab-Straube 2010) reported O. elatior Sutton
+as parasitizing on "Thalictrum", which was likely based on the fact that O. krylowii was considered conspecific with O.
+elatior.
+ENIGMATIC OROBANCHE KRYLOWII (OROBANCHACEAE)
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 3
+
+≠ Orobanche krylowii var. mirabilis Serg. in Krylov, Fl. Zapadnoi Sibiri 10: 2545. 1939 (Krylov 1939).– Type:
+"Semipalatinskaja gubernija, Buchtarminskii uesd, okrestnosti Katon-Karagaja, podnozhie Narymskogo chrebta,
+utschel'e ruczja Sernoj, 49 1/6ºN 55 1/10ºE, tschebnistye sklony. 22 ijulja 1928. P. Krylow and L. Sergievskaya"
+[Republic Kazachstan, Vostochno-Kazachstanskaya oblast: Semipalatinskaja gubernija, Buchtarminskii region,
+surroundings of Katon-Karagaja, foot of Mts. Narymskogo, gorge of the stream Sernoj, 49 1/6ºN 55 1/10ºE, cliffs.
+Leg. P. Krylow & L. Sergievskaya, 22.7.1928] (holotype, TK!)
+
+Taxonomic remarks: as forms with (f. glaberrima) and without (f. puberula) glandular hairs in the
+inflorescence were only recognized by Krylov (1907) and later neglected, and as all plants seen by us are
+glandular, we consider the glabrous form an exception known only from its type locality and of no taxonomic
+value. The current taxonomic status of O. krylowii var. mirabilis, allegedly parasitic on Iris ruthenica, is
+unclear. As the type specimen of O. krylowii var. mirabilis has almost glabrous filaments lacking the dense
+and almost evenly distributed indumentum characteristic for O. krylowii, the bracts and scales are shorter and
+the inflorescence laxer, the corolla has a different, narrowly tubular shape and exhibits strongly irregularly
+toothed corolla lobes, we believe that it does not belong to O. krylowii but likely to the O. minor group. It
+should also be noted that the specimen most likely was not parasitic on Iris, as no clear connections between
+the roots of Iris and Orobanche are visible.
+Description: Plant light yellow or whitish, with an evenly distributed indumentum of short glandular and
+eglandular hairs; stems slender, up to 45 cm high, less than 7 mm in diameter; scale leaves elongated
+triangular-lanceolate, more abundant towards the almost unswollen stem base; inflorescence with usually
+fewer than 20 erecto-patent flowers forming a spike that is not very dense and is limited to the upper third of
+the stem; bracts narrow lanceolate, approximately equaling the flowers in length, early withering to brown
+and then vividly contrasting the rest of the plant; calyx about ½ as long as the corolla, segments free, often
+entire, with one pair of shortly subulated teeth strongly reduced or absent; corolla up to 20 mm long, tubular,
+strongly constricted below the insertion of the stamens, with short light glandular hairs, its dorsal line
+regularly curved (but straight near the apex), its tube about 5 mm wide and about 3 times as long as the lips;
+upper lip slightly emarginate, porrect (continuing the dorsal line of the corolla tube); lower lip 3-lobed, with
+divergent, spathulate, somewhat concave and finely irregularly denticulate margin; stamens inserted at about
+¼ of the total corolla length, the 10 mm long filaments beset with abundant, long, eglandular white hairs
+almost to the apex and scant short glandular hairs below the anthers; anthers light brown to pinkish-brown,
+with short hairs along the sutures of thecae; ovary whitish, with a yellow nectary at its base, glabrous or
+glabrescent with scant hairs at the apex; style whitish, with very sparse (more abundant on the upper part)
+short glandular hairs; stigma bright yellow, very slightly 2-lobed, with a flat or widely concave distal surface,
+crowning the style in an almost reniform to disciform funnel-like structure. Iconography and photos of
+Orobanche krylowii from Albania are shown in Figs. 2 and 3.
+Host and habitat: Parasitic exclusively on Thalictrum L. species [on Thalictrum minus L., s.l. (cf. Krylov
+et al. 1939: 2545, Tzvelev 1981: 334)] (Carlón et al. 2013b). Forest clearings, sparse mixed and coniferous
+forests, in Albania also slightly above the timberline.
+Distribution: Europe: Alpet Shqiptare in Albania, southern and eastern Volga-Kama (Republic Tatarstan)
+and Trans-Volga region in Russia. Asia: Western (southern Ob, upper Tobol and Irtysh rivers systems as well
+as Altai mountains: Altai Krai, Kemerovo Oblast, Tomsk Oblast, Tyumen Oblast) and Eastern Siberia
+(Krasnoyarsk Krai, Republic of Khakassia, Tyva Republic, Angara-Sayan river system: Buryatia Republic
+and Irkutsk Oblast) in Russia, Central Asia (Tien Shan, Tarbagatai Mountains) in Kazakhstan, Kyrgyzstan and
+Mongolia (Novopokrovskii & Tzvelev 1958, Tzvelev 1981, Grubov et al. 2006, Kurbatskij 2007, Kosachev
+2013). It has also been reported for Dzungaria (Xinjiang) in China, but no material has been found in Chinese
+herbaria (cf. Zhang & Tzvelev 1998). The distribution map presented in Fig. 4 is based on our own as well as
+the literature data (see Appendix).
+Nature conservation: The species is uncommon in the major part of its distribution area and is included
+in the red data lists of the Baikal region and Irkutsk (Ivanova 1999, 2010). Any categorization of threat of the
+Albanian population of O. krylowii following the IUCN (2013) categories is strongly dependent on the size of
+
+4 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+FRAJMAN ET AL.
+
+the species' regional distribution and/or the number of populations. As currently only a single, albeit
+individual-rich and not endangered population is known, we here provisionally suggest the category CE
+(critically endangered). Future field research will show if more populations will be found, which should
+translate into a change of categorization. We have recorded O. krylowii on two localities along the path from
+the village Dragobi to Mt. Maja Hekuraves in the Alpet Shqiptare. These localities are about 500 m apart and
+it is likely that additional populations thrive in this remote side valley of the Valbona valley.
+
+Identification key
+In the following, O. krylowii is keyed out against species previously considered conspecific (O. elatior) or
+similar (O. alsatica). In addition, we included O. haenseleri and O. lycoctoni parasitising on Ranunculaceae.
+We have also included O. kochii F.W. Schultz, as it resembles O. krylowii (mainly the straight dorsal segment
+of the corolla), which might explain Beck’s (1930) ultimate decision to include O. krylowii into O. major,
+which has been convincingly shown to actually correspond to at least two species, O. elatior and O. kochii
+(Zázvorka 2010).
+1
+2
+
+-
+
+3
+4
+
+-
+
+5
+
+-
+
+Plant always pale yellow or whitish; stigma flattened, widely concave, reniform to disciform, very shallowly 2lobed; upper lip porrect (continuing the dorsal line of the corolla tube) ..................................................................... 2
+Plant usually strongly pigmented, rarely yellowish; stigma deeply divided into distinct subspherical lobes; upper lip
+erect or recurved .......................................................................................................................................................... 3
+Stems short and stout, up to 40×1.2 cm; inflorescence usually dense, club-like; flowers patent; calyx-segments
+usually unequally bidentate; corolla with a regularly and strongly arched-curved dorsal line (straight in the apical
+third); corolla lips with coarsly eroded-denticulate margin; on Aconitum ................................................ O. lycoctoni
+Stems more slender, up to 45×0.7 cm; inflorescence laxer; flowers erecto-patent; calyx-segments often entire or
+more unequally bidentate; corolla with an almost regularly curved dorsal line (straight only near the apex); corolla
+lips with finely eroded-denticulate margin; on Thalictrum ........................................................................ O. krylowii
+Corolla with distally straight dorsal line, with a distinctly flattened subapical area; lower lip cruciform, with
+concave, spathulate, very divergent lobes; on Centaurea and Echinops ....................................................... O. kochii
+Corolla with regularly curved dorsal line; lower lip with less divergent, elliptic or rounded and flat to convex lobes
+..................................................................................................................................................................................... 4
+Apex of the inflorescence acute, due to the appressed bracts with a comose appearance; flowers erecto-patent,
+tubular-infundibuliform; corolla variably (pink, reddish, yellow), but always vividly pigmented; filaments hairy
+almost to the apex; on Ranunculaceae (Helleborus) and Lamiaceae (Phlomis, Sideritis) ..................... O. haenseleri
+Apex of the inflorescence rounded, with no crown of bracts; flowers patent, tubular to wide-tubular; corolla
+brownish, purple or reddish to yellowish brown, rarely yellow, but usually feebly pigmented; filaments hairy at most
+in its lower two thirds ................................................................................................................................................. 5
+Plants up to 85 cm, tall and stout; inflorescences long, cylindrical, often covering the upper two thirds of the stem;
+corolla with dorsal line regularly curved, sometimes more or less deflexed at the apex; upper corolla lip shallowly
+emarginate; mainly on Centaurea ........................................................................................................ O. elatior s. str.
+Plants up to 60 cm, usually shorter and more slender, with relatively narrower stems; oval inflorescences, dense, at
+most covering the upper half of the stem; corolla with regularly and strongly curved dorsal line, but somewhat
+straight at the apex; upper corolla lip more deeply and distinctly emarginate; on Apiaceae (mainly on Peucedanum)
+..................................................................................................................................................................... O. alsatica
+
+Both, phylogenetic analyses (Fig. 1) and comparison of morphological characters confirm that the Albanian
+population indeed belongs to O. krylowii. Whereas samples of O. krylowii from across most of its Asian
+distribution had identical ITS sequences, the population from Albania, separated from the main distribution
+area in easternmost Europe and adjacent Asia (Novopokrovskii & Tzvelev 1958) by more than 2500 km,
+differs by a single substitution and two polymorphic sites, which may be due to geographic isolation.
+Orobanche krylowii is not the only species in Albania with biogeographic connections to the East. Other wellknown examples, albeit on the genus level, include the ornamentals Forsythia europaea Degen & Bald. with
+East Asian relatives and Aesculus hippocastanum L., whose congeners are restricted to East Asia and eastern
+North America (Meusel et al. 1965, 1978).
+ENIGMATIC OROBANCHE KRYLOWII (OROBANCHACEAE)
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 5
+
+FIGURE 1. Maximum likelihood tree of nuclear ITS sequences of Orobanche, using the genus Diphelypaea as outgroup. Some clades
+with more sequences per species and/or several closely related species are collapsed to aid legibility. Orobanche krylowii is indicated
+in bold larger font. Numbers above branches are maximum likelihood, those below maximum parsimony bootstrap support values
+above 60%.
+
+6 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+FRAJMAN ET AL.
+
+FIGURE 2. Iconography of Orobanche krylowii from Albania.
+
+ENIGMATIC OROBANCHE KRYLOWII (OROBANCHACEAE)
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 7
+
+Morphological inspection did not reveal any significant differences between O. krylowii from Albania on
+one hand and the type material (LE) and other inspected specimens from Asia (see Appendix) on the other
+hand. The Albanian specimens have distinctly woolly bracts, which can, however, also be observed in Asian
+specimens (e.g., specimen (3) cited in Appendix as well as the type material of f. puberula cited below).
+Moreover, the Albanian population (Figs. 2–3) corresponds perfectly to the descriptions of Russian authors
+(Novopokrovskii & Tzvelev 1958, Tzvelev 1981, Kubatskij 2007). We therefore refrain from describing it as
+separate subspecies despite the slightly different ITS sequence and the strongly disjunct occurrence.
+
+FIGURE 3. Photos of Orobanche krylowii from Albania with its host Thalictrum minus.
+
+The closest relative of O. krylowii is the European O. lycoctoni (Fig. 1) distributed from the Cantabrian
+Mountains in northern Spain to the Eastern Alps (Schneeweiss et al. 2009). The sister relationship is strongly
+supported by MLB and MPB (100%), but the relationship of this clade to other Orobanche species remains
+unclear. Orobanche krylowii and O. lycoctoni are morphologically similar and share, for instance, a uniquely
+enlarged, flattened yellow stigma. However, O. lycoctoni is more robust in all parts, has stouter stems, denser
+club-shaped inflorescences and patent and widely tubular flowers with a more marked dorsal geniculation
+(Figs. 2–3). Even if O. krylowii and O. lycoctoni are morphologically similar, we found no transitional forms
+in the extensive herbarium material investigated. This together with the consistent genetic differentiation
+suggests that both entities deserve taxonomic recognition, most conveniently at the specific level. In contrast,
+O. krylowii differs strongly from O. elatior, with which it was sometimes considered conspecific (Beck
+Managetta 1890, Nyman 1890, Chater & Webb 1972), and from O. alsatica var. libanotidis, which was
+deemed similar by Beck (1881). Characters that differentiate both O. krylowii and O. lycoctoni from O.
+alsatica and O. elatior are the deeply bilobed stigma with subspherical lobes, the calyx, which is much longer
+in relation to the corolla, the filaments, which are hairy only in their lower half, and the regularly curved, not
+geniculate corolla. Many of these characters (e.g., the distinctively flattened stigma) are either not at all or at
+least not unambiguously detectable on herbarium specimens, and therefore should be recorded on fresh
+material and photographically documented.
+
+8 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+FRAJMAN ET AL.
+
+FIGURE 4. Distribution of Orobanche krylowii based on the examined herbarium material and photos (big dots) as well as literature
+data (small dots). The locality in Albania is marked with a triangle.
+
+To our knowledge, O. krylowii is restricted to Thalictrum minus (Ranunculaceae) as a host, which may
+serve as an additional diagnostic feature. Its sister species O. lycoctoni parasitizes Aconitum lycoctonum,
+suggesting that adaptation to that family already occurred in the ancestor of O. krylowii and O. lycoctoni.
+Our discovery of another species new for the flora of Albania and the Balkan Peninsula adds to the
+growing body of evidence (e.g., Barina & Pifko 2008, Rakaj 2009, Barina et al. 2011, Meyer 2011, Frajman et
+al. submitted) that botanical exploration of this part of Europe is still very rewarding. In the future, floristic
+mapping activities should accompany molecular phylogenetic studies, thereby enhancing both our knowledge
+about species diversity as well as of the evolutionary mechanisms and patterns involved in the origin of this
+high diversity. Hopefully, as was in the case of O. lycoctoni, it will stimulate botanists to search for O.
+krylowii also in the areas between the Albanian Alps and the Volga River in Russia.
+
+Acknowledgements
+We are grateful to Dr. Jiří Zázvorka for providing the photos of the type material from LE, and Dr. Alexandr
+Ebel for providing the herbarium material and photos of the types from the herbarium TK. The work was
+supported by the Austrian Science Fund (FWF, project P19404 to G. M. Schneeweiss).
+
+References
+Alekseev, J.E., Galeeva, A.H., Gubanov, I.A., Gufranova, I.B., Zhirnova, T.V., Knjazev, M.V., Kulagin, J.Z.,
+Kulakovskaja, L.A., Kultiasov, I.M., Kucherov, E.V., Michajlova, T.P., Muldaschev, A.A., Skvortzov, A.K.,
+Tichomirov, V.N. & Schurova, E.A. (1989) Opredelitel' vysshikh rastenii Bashkirskoi ASSR [Identification key to
+Higher plants of the Bashkir Republic]. Nauka, Moscow, 375 pp.
+
+ENIGMATIC OROBANCHE KRYLOWII (OROBANCHACEAE)
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 9
+
+Artemov, I.A. (2012) Opredelitel’ rastenij Katunskogo biosphernogo zapovednika [The key to the plants of the Katunskiy
+biosphere reserve]. Pjat’-Pljus, Barnaul, 320 pp.
+Ball, P.W. (2011) Source of Records for Albania in Flora Europaea, TRTE Herbarium. University of Toronto,
+Mississauga. Available from: http://www.erin.utoronto.ca/~trteherb/resources_assets/Albania_V1.pdf (accessed 7
+March 2013).
+Barina, Z. & Pifko, D. (2008) Additions and amendments to the flora of Albania. Wildenowia 38: 455–464.
+http://dx.doi.org/10.3372/wi.38.38206
+Barina, Z., Pifkó, D. & Mesterházy, A. (2011) Contributions to the flora of Albania, 3. Wildenowia 41: 329–339.
+http://dx.doi.org/10.3372/wi.41.41214
+Barina, Z., Rakaj, M. & Pifkó, D. (2013) Contributions to the flora of Albania, 4. Willdenowia 43: 165–184.
+http://dx.doi.org/10.3372/wi.43.43119
+Beck Mannagetta, G. von (1890) Monographie der Gattung Orobanche. Bibliotheca Botanica 19: 1–275.
+Beck Mannagetta, G. von (1930). Orobanchaceae. In: Engler, A. (ed.) Das Pflanzenreich. Regni vegetabilis
+conspectus.W. Engelmann, Leipzig, pp. 1–348.
+Beck, G. (1881) Plantae novae. Oesterreichische Botanische Zeitschrift 31: 309–313.
+http://dx.doi.org/10.1007/bf01647094
+Carlón, L., Gómez Casares, G., Laínz, M., Moreno Moral, G., Sánchez Pedraja, Ó. & Schneeweiss, G.M. (2005) Más, a
+propósito de algunas Orobanche L. y Phelipanche Pomel (Orobanchaceae) del oeste del Paleártico. Documentos del
+Jardín Botánico Atlántico (Gijón) 3: 1–71.
+Carlón, L., Gómez Casares, G., Laínz, M., Moreno Moral, G., Sánchez Pedraja, Ó. & Schneeweiss, G.M. (2008) Más, a
+propósito de algunas Phelipanche Pomel, Boulardia F. W. Schultz y Orobanche L. (Orobanchaceae) del oeste del
+Paleártico. Documentos del Jardín Botánico Atlántico (Gijón) 6: 1–127.
+Carlón, L., Gómez Casares, G., Laínz, M., Moreno Moral, G., Sánchez Pedraja, Ó. & Schneeweiss, G.M. (2013a) Index of
+Orobanchaceae. Liérganes, Cantabria, Spain. Available from: http://www.farmalierganes.com/Otrospdf/publica/
+Orobanchaceae%20Index.htm (accessed: 1 February 2013).
+Carlón, L., Gómez Casares, G., Laínz, M., Moreno Moral, G., Sánchez Pedraja, Ó. & Schneeweiss, G.M. (2013b)
+Annotated checklist of host plants of Orobanchaceae. Liérganes, Cantabria, Spain. Available from: http://
+www.farmalierganes.com/flora/angiospermae/orobanchaceae/Host_Orobanchaceae_Checklist.htm (accessed: 1
+February 2013).
+Chater, A.O. & Webb, D.A. (1972) Orobanche L. In: Tutin, T.G., Heywood, V.H., Burges, N.A., Moore, D.M., Valentine,
+D.H., Walters, S.M. & Webb, D.A. (eds.) Flora Europaea 3. CUP, Cambridge, pp. 286–293.
+Dakskobler, I., Vreš, B. & Pusch, J. (2010) Orobanche pancicii Beck, a new species to the flora of Slovenia. Hacquetia
+(Ljubljana) 9: 171–176.
+http://dx.doi.org/10.2478/v10028-010-0008-9
+Domina, G. & Raab-Straube, E. von (2010) Orobanchaceae. In: Euro+Med Plantbase—the information resource for
+Euro-Mediterranean plant diversity. Available from: http://www.emplantbase.org/home.html (accessed: 20 March
+2013).
+Doyle, J.J. & Doyle, J.L. (1987) A rapid DNA isolation procedure for small amounts of fresh leaf tissue. Phytochemical
+Bulletin 19: 11–15.
+Foley, M.J.Y. (1998) Two new Orobanche species from the Arabian Peninsula. Edinburgh Journal of Botany 55: 229–
+234.
+http://dx.doi.org/10.1017/s0960428600002158
+Foley, M.J.Y. (2004) Orobanchaceae of the Arabian Peninsula. Candollea 59: 231–254.
+Frajman, B. & Schönswetter, P. (2008) Notes on some rare Orobanche and Phelipanche species (Orobanchaceae) in
+Croatia. Acta Botanica Croatica 67: 103–107.
+Frajman, B., Pachschwöll, C. & Schönswetter, P. (submitted to Phyton) Contributions to the flora of the Dinarides
+(Balkan Peninsula).
+Frajman, B., Strgulc Krajšek, S. & Dakskobler, I. (2011) Orobanche kochii F. W. Schultz in Orobanche elatior Sutton
+(Orobanchaceae)—novi vrsti za floro Slovenije.—Orobanche kochii F. W. Schultz and Orobanche elatior Sutton
+(Orobanchaceae)—new species for the flora of Slovenia. Hladnikia (Ljubljana) 27: 57–65.
+Gorchakovskij, P.L., Schurova, E.A., Knyazev, M.S., Marina, L.V., Morozova, L.M., Nikonova, N.N., Prjamonosova,
+S.A., Salmina, N.P., Schlykova, N.A., Beljaeva, I.V., Balandin, S.V., Vasfilova, E.S., Famelis, T.V., Trotcenko, G.V.,
+Zueva, V.N. & Meling, E.A. (1994) Opredelitel’ sosudistych rastenij Ctentralnogo Urala [Key to the vascular plants
+of the Central Ural]. Nauka, Moscow, 525 pp.
+Grubov, V.I., Borodina-Grabovskaja, A.J., Illarionova, I.D., Krestovskaja, T.V. & Tzvelev, N.N. (2006) Rastenija
+Central’noj Azii, vol. 15. Akad. nauk SSSR, Moskva, 142 pp.
+Ivanova, M.M. (1999) Orobanche krylovii G. Beck. In: Hmelnov, A. (ed.) Krasnaja kniga rastenij Baikalskogo regiona
+[Red List of Plants of the Lake Baikal Region]. Botanic Garden of the Irkutsk State University, Irkutsk. Available
+
+10 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+FRAJMAN ET AL.
+
+from: http://bg.isu.ru/ru/science/kkrbr/ (accessed: 20 March 2013).
+Ivanova, M.M. (2010) Orobanche krylovii G. Beck. In: Gajkova, O.J. (ed.) Krasnaja kniga Irkutskoj oblasti [Red List of
+Plants of the Irkutsk Region]. Vremja stranstvij, Irkutsk, p. 168.
+IUCN (2013) IUCN Red List Categories and Criteria: Version 3.1, 2nd edition. Gland, Switzerland and Cambridge.
+Available from: http://www.iucnredlist.org/ (accessed: 20 March 2013).
+Kosachev, P.A. (2009) Dopolnenije k sem. Scrophulariaceae Juss. s. l. i Orobanchaceae Vent. flory Sibiri i Kazachstana
+[Addition to the families Scrophulariaceae Juss. s. l. and Orobanchaceae Vent of the flora of Siberia and Kazakhstan].
+Turczaninowia 12: 40–47.
+Kosachev, P.A. (2013) Orobanche krylowii. In: Vaganov, A. (ed.) Bioraznoobrazie Altae-Sajanskogo Ecoregiona [Biodiversity
+of Altai-Sayan Ecoregion]. Available from: http://bioaltai-sayan.ru (accessed: 20 March 2013).
+Krasnoborov, I.M. (2000) Orobanchaceae. In: Krasnoborov, I.M., Lomonosova, M.N., Schaulo, D.N., Vibe, E.I.,
+Zhirova, O.S., Koroljuk, E.A., Krasnikov, A.A., Snytko, O.N. & Tupitzyna, N.N. Opredelitel' rastenii Novosibirskoi
+oblasti [Key to the plants of Novosibirskaya oblast]. Nauka, Novosibirsk, p. 492.
+Kreutz, C.A.J. (1995) Orobanche. Die Sommerwurzarten Europas. Band 1: Mittel- und Nordeuropa. Sichting
+Natuurpublikaties Limburg, Maastricht, 159 pp.
+Krylov, P. (1907) Flora Altaya i Tomskoi gubernii [Flora of Altai and Tomsk Province], vol. 4. Typo-lithography K. Ya.
+Zelenevskago, Tomsk, pp. 865–1088.
+Krylov, P., Schischkin, B.K., Sergievskaja, L.P. & Steinberg, E.I. (1939) Flora Zapadnoi Sibiri [Flora of Western
+Siberia], vol. 10. Krasnoe Znamja, Tomsk, pp. 2544–2545.
+Kulikov, P.V. (2005). Konspekt flory Cheljabinskoj oblasti (sosudistye rastenija) [Chek-list of flora of the Chelyabinsk
+region (vascular plants)]. Geotur, Yekaterinburg-Miass, 537 pp.
+Kurbatskij V.I. (1979) Orobanchaceae. In: Polozhij, A.V. (ed.) Flora Krasnojarskogo kraja [Flora of Krasnojarskii krai]
+9(2). Isdatel’stvo Tomskogo universiteta, Tomsk, p. 38.
+Kurbatskij, V.I. (2007) Orobanchaceae. In: Polozhij, A.V. & Peschkova, G.A. (eds.) Flora of Siberia, vol. 12. English
+translation from Russian, Enfield, USA, 221 pp.
+Malyschev, L.I. & Peschkova, G.A. (1979) Flora tsentral'noj Sibiri [Flora of the Central Siberia]. Nauka, Novosibirsk,
+1048 pp.
+Chepinoga, V.V., Stepantzova, N.V., Grebenjuk, A.V., Verchosina, A.V., Vin’kovskaja, O.P., Gnutikov, A.A., Dulepova,
+N.A., Enutschenko, I.V., Zarubin, A.M., Kazanovskij, S.G., Konovalov, A.S., Korobkov, A.A., Luferov, A.N. &
+Rosbah, S.A. (2008) Orobanchaceae. Vent. In: Malyschev, L.I. (ed.) Konspekt flory Irkutskoj oblasti (sosudistye
+rastenija) [Check-list of the vascular flora of the Irkutsk region]. Isdatel’stvo Irkutskogo universiteta, Irkutsk, 327
+pp.
+Manen, J.F., Habashi, C. Jeanmonod, D., Park, J.M. & Schneeweiss, G.M. (2004) Phylogeny and intraspecific variability
+of holoparasitic Orobanche (Orobanchaceae) inferred from plastid rbcL sequences. Molecular Phylogenetics and
+Evolution 33: 482–500.
+http://dx.doi.org/10.1016/j.ympev.2004.06.010
+Markgraf, F. (1932) Pflanzengeographie von Albanien. E. Schweizerbart’sche Verlagsbuchhandlung, Stuttgart, 132 pp.
+Meusel, H., Jäger, E. & Weinert, E. (1965) Vergleichende Chorologie der Zentraleuropäischen Flora. Gustav Fischer
+Verlag, Jena, 583 pp.
+Meusel, H., Jäger, E., Rauschert, S. & Weinert, E. (1978) Vergleichende Chorologie der Zentraleuropäischen Flora, vol.
+2. Gustav Fischer Verlag, Jena, 418 pp.
+Meyer, F.K. (2011) Beiträge zur Flora von Albanien. Haussknechtia Beiheft 15: 1–220.
+Miller, M.A., Pfeiffer, W. & Schwartz, T. (2010) Creating the CIPRES Science Gateway for inference of large
+phylogenetic trees. In: Proceedings of the Gateway Computing Environments Workshop (GCE), 14 Nov. 2010, New
+Orleans, LA, pp. 1–8.
+http://dx.doi.org/10.1109/gce.2010.5676129
+Naumenko, N.I. (2008) Flora i rastitelnost’Juzhnogo Urala [Flora and vegetation of Southern Urals]. Kurgan
+University, Kurgan, 512 pp.
+Novopokrovskii, I.V. & Tzvelev, N.N. (1958) Orobanchaceae Vent. In: Komarov, V.L. (ed.) Flora of the USSR, vol. 23.
+Akademiia Nauk SSSR, Moskva-Leningrad [translation published by Israel Program for Scientific Translations,
+Jerusalem], pp. 18–127.
+Nyman, C.F. (1890) Conspectus florae Europaeae, Suppl. 2(2). Typis officinae Bohlinianae, Örebro.
+http://dx.doi.org/10.5962/bhl.title.11052
+Paparisto, K, Demiri, M, Mitrushi, I & Qosja, X.H. (1988) Flora e Shqiperise, vol. 1. Akademia e Shkencave e RPS te
+Shqiperise, Qendra e Kerkimeve Biologjike, Tirana, 457 pp.
+Park, J.M., Manen, J.F. & Schneeweiss, G.M. (2007) Horizontal gene transfer of a plastid gene in the non-photosynthetic
+flowering plants Orobanche and Phelipanche (Orobanchaceae). Molecular Phylogenetics and Evolution 43: 974–
+985.
+http://dx.doi.org/10.1016/j.ympev.2006.10.011
+
+ENIGMATIC OROBANCHE KRYLOWII (OROBANCHACEAE)
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 11
+
+Park, J.M., Manen, J.F., Colwell, A.E. & Schneeweiss, G.M. (2008) A plastid gene phylogeny of the non-photosynthetic
+parasitic Orobanche (Orobanchaceae) and related genera. Journal of Plant Research 121: 365–376.
+http://dx.doi.org/10.1007/s10265-008-0169-5
+Pignatti, S. (1982) Flora d'Italia, vol. 2. Edagricole, Bologna, 732 pp.
+Popov, M.G. & Busik, V.V. (1966). Konspekt flory poberezhij ozera Baikal [Check-list of the flora of coasts of Lake
+Baikal]. Nauka, Moskau-Leningrad, 157 pp.
+Pujadas-Salvà, A. & Crespo, M.B. (2004) A new species of Orobanche (Orobanchaceae) from south-eastern Spain.
+Botanical Journal of the Linnaean Society 146: 97–102.
+Pujadas-Salvà, A. (2008) Orobanche mariana A. Pujadas (Orobanchaceae) sp. nov. para el sur de la Península Ibérica.
+Acta Bot. Malacitana 32: 269–274.
+Pujadas Salvà, A. (2012) Typification and characterization of Orobanche ritro Gren. & Godr. (Orobanchaceae) of central
+and southern Europe. Acta Botanica Gallica 159: 67–72.
+http://dx.doi.org/10.1080/12538078.2012.671644
+Pusch, J. & Günther, K.-F. (2009) Familie Orobanchaceae s. str. Sommerwurzgewächse. In: Wagenitz, G.W. (ed.)
+Illustrierte Flora von Mitteleuropa VI(1A), ed. 2. Weissdorn-Verlag, Jena, pp. 1–99.
+Pusch, J. (2000) Orobanche pancicii—Neu für Österreich und für ganz Mitteleuropa. Floristische Rundbriefe 34: 27–42.
+Qosja, X., Paparisto, K., Demiri, M. & Vangjeli, J. (1992) Flora e Shqiperise, vol. 2. Akademia e Shkencave e RPS te
+Shqiperise, Qendra e Kerkimeve Biologjike, Tirana, 446 pp.
+Qosja, X., Paparisto, K., Vangjeli, J. & Ruci, B. (1996) Flore e Shqiperise, vol. 3. Akademia e Shkencave e RPS te
+Shqiperise, Qendra e Kerkimeve Biologjike, Tirana, 331 pp.
+Rakaj, M. (2009) Floristic and chorological news from north Albania. Botanica Serbica 33: 177–183.
+Schaulo, D.N. (2006) Flora of West Sajan. Turczaninowia 9: 5–336.
+Schaupp, J. (2011) Orobanche pancicii. In: Fischer, M.A. & Niklfeld, H. (eds.) Floristische Neufunde (99–123).
+Neilreichia 6: 385.
+Schlauer, J., Meijer, W. & Hansen, B. (2012). Parasitic Plants Database. Available from: http://www.omnisterra.com/
+bot/pp_home.cgi (accessed: 4 October 2012).
+Schneeweiss, G.M., Colwell, A., Park, J.M., Jang, C.G. & Stuessy, T.F. (2004) Phylogeny of holoparasitic Orobanche
+(Orobanchaceae) inferred from nuclear ITS-sequences. Molecular Phylogenetics and Evolution 30: 465–478.
+http://dx.doi.org/10.1016/s1055-7903(03)00210-0
+Schneeweiss, G.M., Frajman, B. & Dakskobler, I. (2009) Orobanche lycoctoni Rhiner (Orobanchaceae), a poorly known
+species of the Central European flora. Candollea 64: 91–99.
+Schönswetter, P., Gribl, N. & Frajman, B. (in press) Orobanche lycoctoni - (fast) neu für Österreich. Neilreichia 7.
+Schönswetter, P., Schneeweiss, G.M., Gutermann, W., Schratt-Ehrendorfer, L., Tribsch, A., Frajman, B., Köckinger, K.,
+Latzin, S., Starlinger, F., Greimler, J., Hülber, K., Sinn, E., Niklfeld, H. (2011) Floristische Neufunde aus den
+Ostalpen. Neilreichia 6: 81–98.
+Stamatakis, A. 2006. RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and
+mixed models. Bioinformatics 22: 2688–2690.
+http://dx.doi.org/10.1093/bioinformatics/btl446
+Stamatakis, A., Hoover, P. & Rougemont, J. (2008) A fast bootstrapping algorithm for the RAxML web-servers.
+Systematic Biology 57: 758–771.
+http://dx.doi.org/10.1080/10635150802429642
+Swofford, D.L. (2002) PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods), ver. 4.0 beta 10. Sinauer
+Associates, Sunderland.
+Teryokhin, E.S., Schibakina, G.B., Serafimovitsch, N.B. & Kravtzova, T.I. (1993) Opredelitel Sarasychovych Flory SSSR
+[Key to the broomrapes of the Flora of the USSR]. Nauka, St. Petersburg, 123 pp.
+Tzvelev, N.N. (1981) Orobanchaceae Vent. In: Fedorov, A.A. (ed.). Flora Evropeiskoi Chasti SSSR [Flora of Russia: The
+European Part and Bordering Regions], vol. 5. Nauka, Leningrad, pp. 434–461 [English translation: Balkema. A.A.,
+India, 2001].
+Uhlich, H. (2013) OroWiki. Available from: http://orowiki.org/wiki/ (accessed: 20 March 2013).
+Vangjeli, J., Ruci, B., Mullaj, A., Paparisto, K. & Qosja, X.H. (2000) Flora e Shqiperise, vol. 4. Akademia e Shkencave
+e Republikes se Shqiperise, Instituti i Kerkimeve Biologjike, Tirane, 502 pp.
+Zázvorka, J. (2010) Orobanche kochii and O. elatior (Orobanchaceae) in central Europe. Acta Musei Moraviae,
+Scientiae biologicae (Brno) 95: 77–119.
+Zhang, Z. & Tzvelev, N.N. (1998) Orobanchaceae. In: Wu Zhengyi & Raven, P.H. (eds.) Flora of China, vol. 18.
+Missouri Botanical Garden Press, St. Louis (USA), pp. 229–243.
+
+12 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+FRAJMAN ET AL.
+
+Appendix: Plant material of O. krylowii used in our study.
+Plant material studied morphologically (the accessions with GenBank number were analyzed molecularly).
+ALBANIA: (1) Tropojë, Alpet Shqiptare, valley Valbona, along the path from Dragobi (alp Stanet e Droces)
+to the saddle W of Maja Hekuraves (Qaf' e Droces/ Qafa Droces), at the timberline, 1611 m; clearings in
+beech forest, forest margins, extending slightly above timberline into lower alpine meadows, limestone;
+parasitizing exclusively on Thalictrum minus; N42.39972, E19.93861. Leg. P. Schönswetter, D. Kutnjak & B.
+Frajman 16.8.2010, No. 12981 (WU, JBAG, herb. Sánchez Pedraja), KF359500.
+RUSSIA: (2) Irkutsk Oblast, Lake Baikal, southern vicinity of the city of Slyudyanka (above the factory
+of mosaic plates) [N51.66, E103.7002778]. Mixed forest with a grassy understory. Leg. M. Ivanovа,
+22.07.2000 (ALTB), KF359504; (3) Altaisky krai, Charyshsky district, Bashchelaksky ridge, river valley Big
+Maraliha at a mouth of a stream of Beketnyj; N51.67, E83.633. Leg. R.V. Kamelin, A.I. Shmakov et al.,
+6.7.2000 (ALTB), KF359503; (4) Altaisky krai, Altaisky district, near Nikolskoye (N51.85, E85.0833), in a
+mine dump. Leg. T. A. Terekhina & N. V. Elekova, 21.7.1997 (JBAG, herb. Sánchez Pedraja), KF359501; (5)
+Krasnoyarsky krai, Mayna river valley, Mayninskoye artificial lake S of the village Sizaya, right bank,
+N52.95, E91.5. Leg. A. I. Shmakov, M. G. Kuczev, A. V. Vaganov & S. A. Kostyukov, 28.7.2005 (ALTB),
+KF359502; (6) Sverdlovskaya oblast, Nevjanskij Rayon, road from railway station Mursinka to village
+Taraskovo [N57.15389, E60.081944] (photos at http://www.plantarium.ru/page/view/item/25938.html); (7)
+Republic Altai, Central Altai, Sema river basin, surroundings of the village Shebalino, 1200 m, grassland.
+Leg. Voronina, 10.7.[19]47 (MW); (8) Krasnoyarsky krai, lake Mayninskoye, 3 km upper Mayna, right bank,
+N52.986684, E91.507874. Leg. A.I. Shmakov, M.G. Kursev, A.V. Vaganov & S.A. Kostyukov, 28.7.2005
+(ALTB); (9) 7 km SW of the village Altai, deciduous forest on the slopes of the NW exposed slope in the
+valley Ushkungoy, 1700 m. Leg. Voronov, 10.8.1932 (MW №623); (10) Altai, Biyskii distr., System of the
+Katun River, neighborhood of the village of the Altajskoe, on the river bank Kamenka, at the road
+[N52.013627, E85.34729] Leg. E. Klemenz, 23.6.1904 (MW); (11) Krasnoshchekovskii distr., security zone
+of the reserve Tigiretskii, 0,5 km south of the Mt. Czerny Kamen [51.138863,83.086166], forest of Betula and
+Larix sibirica. Leg. S.A. Usik & M.A. Shirshov, 26.7.2002 (ALTB); (12) Charyshskii distr., neighborhood of
+the village of Ust-Tulatink, southern macroslope of the Mt. Mochnataja, N51.407344, E83.513603. Leg. A.I.
+Shmakov, S.V. Smirnov, M.G. Kutsev, I.N. Chubarov & I. Naumov, 21.6.2002 (ALTB); (13) Charyshskii
+distr., river valley Charysh, Mt. Mochnataja, NW exposition, N51.4167, E83.467. Leg. A.I. Shmakov, R.A.
+Zubov, A.V. Vaganov, 25.6.2004 (ALTB); (14) Altaiskii krai, Charyshskii distr., N of the village Pokrovka,
+877.3 m, N51.158677, E83.577118. Leg. A.I. Shmakov, S.V. Smirnov, M.G. Kutsev, M.M. Silantjeva, A.A.
+Kechajkin & A.V. Gal‘kin, 23.6.2008 (ALTB); (15) Tigiretsky ridge, between the rivers Bol. and
+Chesnokovka, flood plain, N51.08, E82.57. Leg. A.I. Shmakov, S.V. Smirnov, P.A. Kosachev, I.N. Chubarov
+& A.V. Vaganov, 10.7.2005 (ALTB).
+KAZAKHSTAN: (16) Semipalatinsk [Semey] region, Altai Mts., Zaysan county, valley of the stream
+Baubek-Bulak [N48.24167, E83.9533]. Leg. V. Reznichenko, 24.7.1908 (LE 519).
+Additional field observations from Russia by P. Kosachev: (1) Krasnojarsk (N55.776573, E93.010254),
+(2) Uzhur (N55.304138, E89.758301), (3) river Kija (N55.21649, E88.066406), (4) Schyra lake (N54.686534,
+E90), (5) city of Minusinsk (N53.730842, E91.634216), (6) village Ak-Dovurak (N51.883273, E90.43396),
+(7) lake Kara-Chol (N51.378638, E89.472656), (8) village Abasa (N52.897306, E90.653687 & N52.78117,
+E89.648438), (9) Kemerovo (N55.002826, E86.352539), (10) village Solton (N52.821023, E86.558533), (11)
+village Chemal (N51.42062, E85.999603), (12) village Aktasch (50.338449, 87.451172).
+
+ENIGMATIC OROBANCHE KRYLOWII (OROBANCHACEAE)
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+• 13
+
+Literature data used for the distribution map (Fig. 4). The coordinates are only approximations for the
+localities given in the literature. All data with one exception (from Kazakhstan; indicated) are from Russia.
+Krylov (1907): vicinity of Tomsk: village Golownino (“Zhukovka” is written by Krylov et al. 1939!) in the
+vicinity of the lake Dal‘nee Peschanoe (N56.461258, E84.880857)—sub f. puberula; vicinity of Tomsk:
+Malaja Kirgizka (N56.55778, E85.072231); pine forest Gavrilovski in the vicinity of Salair mines
+(N54.286473, E85.928078)—both sub f. glaberrima. Krylov et al. (1939): village Voronovo (N56.045966,
+E83.806); between the rivers Malyi Hysas and Otkyl (Mal. Abakan; N51.96701, E88.871126); village
+Usnesja (N51.548043, E85.943069); between villages Kebesen‘ and Troizkoe on the river Pyzha
+(N51.823578, E87.096319); between the rivers Malyi Chili and Ajuchekpes (N51.483521, E87.692814); river
+Ischtaru (N51.560638, E87.645779); city Tobol’sk (N58.236911, E68.270302); Kynovski zavod (now village
+Kyn; N57.868132, E58.517761); Werch-Isetski area (now city Ekaterinburg; N56.932987, E60.4953); village
+Il’inskoe (N56.343946, E62.582703); village Katon-Karagai on river Sarymsak (N49.146008, E85.664463);
+village N. Pichtovka (N49.793677, E84.538994); Kazakhstan: village Ust‘ Karabolka (N56.127184,
+E61.681824). Popov & Busik (1966): Arschan (N52.281602, E102.392578); Baikal on the rivers Osinovka
+(N51.446946, E104.735756) and Snezhnaja (N51.398563, E104.647865). Kurbatskij (1979): all Russia, first
+four from Krasnojarskii krai: village Najdenovo, right bank of Upper Enisej (N57.30611667, E94.39195);
+surroundings of the city Krasnojarsk (N55.976872, E92.866516); zapovednik "Stolby" (N55.883333,
+E92.766667); village Krasnogor'evka (N55.575195, E94.821619); Republic of Khakassia, Bejskii district,
+village Iudino [nowadays Bondarevo], river Sos (52.941914, 90.5057). Malyschev & Peschkova (1979):
+region Tajschetski (N55.584555, E97.646484); village Kujtun (N54.508327, E101.480713); city Irkutsk, St.
+Olcha, village Kiselek (N52.365118, E104.108505); village Bazhenovskoe and river Tojsuk (N53.435719,
+E102.744141). Alekseev et al. (1989): Baschkirski zapovednik (N53.363665, E57.788086); village
+Mesjagutovo (N55.696164, E58.238525). Gorchakovskij et al. (1994): Sem‘ Brat’ev cliffs (N57.350237,
+E60.144653); Zakasnik „Zaural’e“ on the river Sylva (N57.363016, E57.154312). Ivanova (1999): Republic
+of Buryatia: village Arschan (N52.281602, E102.392578); rivers Bulu and Mojgoty in Tunkinski valley
+(N51.861109, E102.163224); Mts. Chamar-Daban, river Ossinowka (N51.446946, E104.735756); Bol.
+Mamaj (N51.417817, E104.815114); Baikal Lake, Tschiwyrkujski gulf (N53.357109, E107.356567); Irkutsk
+region: village Bazhej (Baschejewski; N53.435719, E102.744141); village Kujtun (N54.508327,
+E101.480713); village Kiselek on the river Oka (N52.365118, E104.108505); between Listwjanka and
+village Bol. Koty on the SW coast of the Baikal sea (52.113252, 104.412231). Krasnoborov (2000): village
+Egor’evski (N54.422126, E84.210205); village Kotorovo (N54.43331, E84.830933). Kulikov (2005): city
+Zlatoust (N55.186709, E59.668121); upper valley of the river Kizil (N55.928914, E60.367126); Mt.
+Iljmenski (N55.269728, E60.207825); village Nizhni Atljan (N55.009126, E59.874115); Bazhukovo
+(N56.34699, E59.282227); Mt. Mal. Irendyk (N54.870285, E59.845276); Mt. Kurkak (N53.946388,
+E58.952637); river Kamyschenka (N55.472627, E60.759888). Schaulo (2006): Mt. Kulumys (N52.940363,
+E92.828979); Mt. Kirsa (N52.558821, E89.833832). Chepinoga et al. (2008): river Angasolka and village
+Bol. Lug (N51.956961, E104.772491); city Sljudjanka (N51.663186, E103.690338); St. Kunerma
+(N55.76769, E108.451195). Naumenko (2008): city Stchuch’e (N55.211251, E62.75322); village Jalanskoe
+(N55.017001, E62.701721); village Zyrjanka (N56.216966, E62.133436). Artemov (2012): between the
+rivers Turgen and Zajchicha (N49.675627, E86.014709).
+
+14 •
+
+Phytotaxa 137 (1) © 2013 Magnolia Press
+
+FRAJMAN ET AL.
+
+

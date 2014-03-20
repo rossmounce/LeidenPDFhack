@@ -1,0 +1,156 @@
+Phytotaxa 146 (1): 32–34 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.146.1.2
+
+Valid publication of the name Carex henryi (Cyperaceae) from Asia
+YUNFEI DENG
+Key Laboratory of Plant Resources Conservation and Sustainable Utilization, South China Botanical Garden, Chinese Academy of
+Sciences, Guangzhou, 510650, People’s Republic of China. E-mail: yfdeng@scbg.ac.cn
+
+Carex Linnaeus (1753: 972) is one of the largest genera of seed plants (Frodin 2004). It comprises about 2,000
+species worldwide and is easily distinguished from other genera of Cyperaceae by having perigynia enclosing
+the nutlets (Reznicek 1990, Goetghebeur 1998, Govaerts et al. 2007, Mabberley 2008, Dai et al. 2010). There
+are 535 species in three subgenera and 57 sections recognized in China (Dai et al. 2010, Wang et al. 2012).
+Carex sect. Graciles Kükenthal (1899: 516) is characterized by the sheathed involucral bracts, two to
+numerous spikes, usually one to several spikes borne in an involucral bract sheath, rarely arranged in a
+compound inflorescence, the female spikes sparsely flowered, rarely slightly more densely flowered, two
+stigmas, and plano-convex or biconvex utricles (Dai et al. 2010). It consists of about thirty species distributed
+in tropical and subtropical regions of Asia, Australia and the Pacific islands. Twenty-one species, with thirteen
+of them endemic, were recorded in China (Dai et al. 2010).
+Carex henryi belongs to sect. Graciles and was reported from China and Nepal (Dai et al. 2010, Yano et
+al. 2013). The name Carex henryi was originally used on herbarium specimens by Clarke in the 1880s–1890s,
+but it was not formally published then. Later, it was mentioned by Franchet (1896) under the name C.
+bodinieri Franchet (1896: 243). The name Carex henryi was however not accepted by Franchet, and no
+description was provided. Therefore, this name was not validly published then, and the authorship should not
+be attributed to “C. B. Clarke ex Franchet” as cited by the later authors (Clarke 1903, Kükenthal 1909,
+Koyama 1956, Zhongguo Kexueyuan Xibei Zhiwu Yanjiusuo 1970, Instituto Botanico Boreali-Occidentali
+Academiae Sinicae 1976, Institute of Botany Chinese Academy of Sciences 1976, Wang 1988, Su 1992,
+Zheng 1993, Li 1994, Liang 1995, Ding & Wang 1998, Dai 2000, 2009, Fu 2002, Dai et al. 2003).
+In 1903, Clarke himself validly published the name Carex longicruris Nees in Wight (1834: 124) var.
+henryi Clarke (1903: 295) for this taxon and cited “C. henryi C. B. Clarke ex Franchet” as synonym. Clarke’s
+treatment was accepted by some later authors (Kükenthal 1909, Handel-Mazzetti 1936, Wu 1984). But his var.
+henryi differs from typical C. longicruris, which is distributed in the west Himalayan regions, in its smaller
+perigynia with the less scabrous beak and looser panicles (Koyama 1956), and was recognized as a separate
+species independent from C. longicruris in the recently published Chinese floras (Zhongguo Kexueyuan Xibei
+Zhiwu Yanjiusuo 1970, Instituto Botanico Boreali-Occidentali Academiae Siniacae 1976, Institute of Botany
+Chinese Academy of Sciences 1976, Wang 1988, Su 1992, Zheng 1993, Li 1994, Liang 1995, Ding & Wang
+1998, Dai 2000, 2009, Fu 2002, Dai et al. 2003, 2010).
+Dai et al. (2010) noticed for the first time that the name C. henryi was not validated by Franchet (1896),
+and they treated it as being validated by Dai (2000) through full and direct reference to Clarke’s C. longicruris
+var. henryi. When Yano et al. (2013) reported the new record of Carex henryi for Nepal, they were aware of
+that the first use of the name C. henryi in Chinese floras was in the Flora Tsinlingensis (Zhongguo Kexueyuan
+Xibei Zhiwu Yanjiusuo 1970, Instituto Botanico Boreali-Occidentali Academiae Sinicae 1976), where the
+authorship of Carex henryi was also cited as “C. B. Clarke ex Franch.” with full and direct reference to C.
+longicruris var. henryi, and they therefore presumed that the name C. henryi was validated in this publication.
+Though no author of Cyperaceae was indicated in the flora, Yano et al. (2013) ascribed the authorship to “K.
+T. Fu” who is the author of the new species of Carex described in Flora Tsinlingensis.
+
+32 Accepted by Hans-Joachim Esser: 26 Oct. 2013; published: 12 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+However, both Dai et al. (2010) and Yano et al. (2013) overlooked that Koyama (1956) was the first to
+validly publish the name Carex henryi when he recognized it as an independent species. It is true that Koyama
+(1956) did not cite the correct publication of the basionym and cited “Carex longicruris Nees var. henryi (C.
+B. Clarke ex Franch.) Kükenth. in Engl., Pflanzenr. 4–20: 603 (1909)” as basionym, but Koyama provided a
+Latin description for the name C. henryi that fulfilled the conditions of valid publication of names of new taxa
+(ICN Art. 38–40, McNeill et al. 2012). According to Article 41.8(d) of the ICN (McNeill et al. 2012), the
+citation errors of Koyama can be corrected, and accordingly, a new combination Carex henryi (C. B. Clarke)
+Koyama was validly published by Koyama (1956), otherwise a new species was validly published by him.
+The correct author and the place of valid publication of Carex henryi are corrected below.
+
+Carex henryi (C. B. Clarke) Koyama (1956: 175)
+Basionym: Carex longicruris var. henryi Clarke (1903: 295). Lectotype (designated by Yano et al. 2013: 144):—CHINA.
+Hubei: Yichang, A. Henry 4266 (K!, isolectotypes BM, E!, GH!, K!, US!).
+
+Acknowledgements
+This work was supported by the National Natural Science Foundation of China (grant no. 31110103911), and
+Main Direction Program of Knowledge Innovation of Chinese Academy of Sciences (grant no. KSCX2-EWZ-1). I am grateful to the curators of E, K, GH and US for their support of my studies.
+
+References
+Clarke, C.B. (1903) Cyperaceae. In: Forbes, F. B. & Hemsley, W. B. (eds.) An enumeration of all the plants known from
+China Proper, Formosa, Hainan, Corea, the Luchu Archipelago, and the Island of Hongkong, together with their
+distribution and synonymy, part XVII. Journal of the Linnean Society, Botany 36: 217–296.
+http://dx.doi.org/10.1111/j.1095-8339.1903.tb00652.x
+Dai, L.K. (2000) Carex sect. Graciles. In: Dai, L.K. & Liang, S.Y. (eds.) Flora Reipublicae Popularis Sinicae 12.
+Science Press, Beijing, pp. 434–453.
+Dai, L.K. (2009) Carex sect. Graciles. In: Lin, Q. & Fu, L. K. (eds.) Higher Plants of China 12. Qingdao Publishing
+House, Qingdao, pp. 518–525.
+Dai, L.K., Liang, S. Y. & Zhang, S. R. (2003) Cyperaceae. In: Wu, Z. Y. (ed.) Flora of Yunnan 15. Science Press, Beijing,
+pp. 567–803.
+Dai, L.K., Liang, S.Y., Zhang, S.R., Tang, Y.C., Koyama, T. & Tucker, G.C. (2010) Carex Linnaeus. In: Wu, Z. Y.,
+Raven, P. H. & Hong, D. Y. (eds.) Flora of China 23. Science Press, Beijing & Missouri Botanical Garden Press, St.
+Louis, pp. 285–461.
+Ding, B.Z. & Wang, S.Y. (1998) Henan Zhiwuzhi 4. Henan Science and Technology Press, Zhengzhou, 581 pp.
+Franchet, A. (1896) Les Carex de l’Asie orientale. Nouvelles Archives du Muséum d'Histoire Naturelle sér. 3, 8: 179–
+259.
+Frodin, D.G. (2004) History and concepts of big plant genera. Taxon 53: 753–776.
+http://dx.doi.org/10.2307/4135449
+Fu, S.H. (2002) Flora Hubeiensis 4. Hubei Kexue Chubanshe, Wuhan, 692 pp.
+Goetghebeur, P. (1998) Cyperaceae. In: Kubitzki, K., Huber, H., Rudall, P. J., Stevens, P. S. & Stützel, T. (eds.) The
+families and genera of vascular plants 4. Springer, Berlin, pp. 141–190.
+Govaerts, R., Simpson, D.A., Bruhl, J., Egorova, T., Goetghebeur, P. &Wilson, K. (2007) World checklist of Cyperaceae.
+Royal Botanic Gardens, Kew, 760 pp.
+Handel-Mazzetti, H. (1936) Symbolae Sinicae 7(5). Julius Springer, Wien, pp. 1187–1450.
+Institute of Botany Chinese Academy of Sciences (1976) Iconographia Cormophytorum Sinicorum 5. Science Press,
+Beijing, 1144 pp.
+Instituto Botanico Boreali-Occidentali Academiae Sinicae (1976) Flora Tsinlingensis 1(1). Typis Academiae
+Scientiarum Sinicae, Peking. 476 pp.
+Koyama, T. (1956) New or noteworthy species of Cyperaceae from China. Japanese Journal of Botany 15: 164–185.
+Kükenthal, G. (1899) Die Carexvegetation des außertropischen Südamerika (ausgenommen Paraguay und Südbrasilien).
+
+VALID PUBLICATION OF THE NAME CAREX HENRYI (CYPERACEAE)
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 33
+
+Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie 27: 485–563.
+Kükenthal, G. (1909) Cyperaceae—Caricoideae. In: Engler, A. (ed.) Das Pflanzenreich IV.20 (Heft 38). Engelmann,
+Leipzig, 824 pp.
+Li, P.C. (1994) Cyperaceae. In: Wang, W. T. (ed.) Vascular plants of the Hengduan Mountains 2. Science Press, Beijing,
+pp. 2321–2387.
+Liang, S.Y. (1995) Cyperaceae. In: Wang, W. T. (ed.) Keys to the vascular plants of the Wuling Mountains. Science Press,
+Beijing, pp. 508–514.
+Linnaeus, C. (1753) Species Plantarum. Impensis Laurentii Salvii, Stockholm, 1200 pp.
+Mabberley, D.J. (2008) Mabberley’s Plant-book: a portable dictionary of plants, their classification and uses. Third
+edition. Cambridge University Press, Cambridge, 1021 pp.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'Homme Van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi, and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011 [Regnum Vegetabile 154]. Gantner, Ruggell, 240
+pp.
+Reznicek, A.A. (1990) Evolution in sedges (Carex, Cyperaceae). Canadian Journal of Botany 68: 1409–1432.
+http://dx.doi.org/10.1139/b90-180
+Su, S.W. (1992) Cyperaceae. In: Qian, X. H. (ed.) Flora of Anhui 5. Anhui Science and Technology Publishing House,
+Hefei, pp. 380–516.
+Wang, Q.L., Yang, H.B., Deng, Y.F., Wang, Z.N., & Liu, G.D. (2012) Carex longipetiolata (Cyperaceae), a new sedge
+from Hainan, China. Phytotaxa 75: 65–69.
+http://dx.doi.org/10.11646/phytotaxa.75.1.6
+Wang, X.M. (1988) Caricoideae. In: Li, Y. K. (ed.) Flora Guizhouenis 8. Sichuan Nationality Press, Chengdu, pp. 620–
+667.
+Wight, R. (1834) Contributions to the Botany of India. Parbury, Allen & Co., London, 136 pp.
+Wu, C.Y. (1984) Index Florae Yunnanensis 2. Yunnan People’s Publishing House, Kunming, pp. 1071–2259.
+Yano, O., Katsuyama, T., Ikeda, H., Watson, M. F. & Rajibhandari, K. R. (2013) Nomenclature and lectotypification of
+Carex henryi (Cyperaceae) with a new record from Nepal. Acta Phytotaxonomica et Geobotanica 63: 143–148.
+Zheng, C.Z. (1993) Cyperaceae. In: Lin, Q. (ed.) Flora of Zhejiang 7. Zhejiang Science and Technology Publishing
+House, Hangzhou, pp. 233–322.
+Zhongguo Kexueyuan Xibei Zhiwu Yanjiusuo (1970) Qinling Zhiwuzhi 1(1). Zhongguo Kexueyuan Xibei Zhiwu
+Yanjiusuo, Xian, 456 pp.
+
+34 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+DENG
+
+

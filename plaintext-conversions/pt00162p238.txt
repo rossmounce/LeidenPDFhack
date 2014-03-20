@@ -1,0 +1,187 @@
+Phytotaxa 162 (4): 236 – 238
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.162.4.8
+
+Notes on Early Land Plants Today. 49. On Lejeunea huctumalcensis Lindenb. &
+Gottsche and the resurrection of Otigoniolejeunea (Spruce) Schiffn., an older
+name for Physantholejeunea R.M.Schust. (Marchantiophyta, Lejeuneaceae)
+YU-MEI WEI1,2, RUI-LIANG ZHU1,3,* & S. ROBBERT GRADSTEIN4
+1
+
+Department of Biology, School of Life Sciences, East China Normal University, 3663 Zhong Shan North Road, Shanghai 200062,
+China
+2
+Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and the Chinese Academy of Sciences, Guilin, Guangxi 541006,
+China
+3
+Shanghai Key Lab for Urban Ecological Processes and Eco-Restoration, East China Normal University, 500 Dongchuan Road,
+Shanghai, China
+4
+Muséum National d'Histoire Naturelle, Dept. Systématique et Evolution, Case Postale 39, 57 rue Cuvier, 75231 Paris cedex 05,
+France
+*
+Author for correspondence
+
+Lejeunea huctumalcensis Lindenb. & Gottsche in Gottsche et al. (1847: 762), a widespread neotropical species, is
+one of the most unusual taxa in Lejeunea Libert (1820: 372) owing to the variable gynoecial innovation type which
+may be lejeuneoid or pycnolejeuneoid, the presence of ocelli in leaf lobes and the perianth keels usually with bifid
+or more ramified laciniae (Reiner-Drehwald & Ilkiu-Borges 2007). In other species of this large genus, innovations
+are invariably lejeuneoid, ocelli are lacking and perianth keels do not produce bifid or more ramified laciniae. The
+generic position of Lejeunea huctumalcensis has long been controversial and the species has been assigned to at
+least six different genera, including Ceratolejeunea (Spruce 1884: 77) Jack & Stephani (1892: 16), Hygrolejeunea
+(Spruce 1884: 77) Schiffner (1893: 124), Lejeunea, Otigoniolejeunea (Spruce 1884: 77) Schiffner (1893: 125),
+Pycnolejeunea (Spruce 1884: 246) Schiffner (1893: 124), and Trachylejeunea (Spruce 1884: 180) Schiffner (1893:
+126) (Reiner-Drehwald & Ilkiu-Borges 2007). The latter authors showed that L. huctumalcensis is an older name
+for L. xiphotis Spruce (1884: 227), the type species of Lejeunea subg. Otigoniolejeunea Spruce (≡
+Otigoniolejeunea (Spruce) Schiffn.), and thus L. huctumalcensis automatically becomes a member of this group.
+Otigoniolejeunea was provisionally accepted by Reiner-Drehwald & Ilkiu-Borges (2007) as a subgenus of
+Lejeunea, with L. huctumalcensis as its only species. Other recent authors, however, have treated Otigoniolejeunea
+as a mere synonym of Lejeunea (e.g., Grolle 1983; Singh 2013).
+Recent molecular studies by Wei (2013) and Czumay et al. (2013) have independently recovered Lejeunea
+huctumalcensis in a small and robust clade outside the genus Lejeunea, together with Physantholejeunea
+portoricensis (Hampe & Gottsche 1853: 352) Schuster (1978: 429). The latter taxon is a rare species from the West
+Indies which shares with Lejeunea huctumalcensis the occurrence of ocelli in the leaves, and the presence of
+pycnolejeuneoid type innovations (Gradstein et al. 2001). Although the two species differ in several important
+morphological respects (see key below), they may be considered congeneric based on the results of the molecular
+analysis. The results clearly confirm the importance of presence/absence of ocelli and gynoecial innovation type as
+stable and reliable generic characters in Lejeunea (Wei 2013). Moreover, the circumscription of Lejeunea has
+become much improved by the removal of Lejeunea huctumalcensis and other taxa with ocelli (Dong et al. 2013;
+Wei & Zhu 2013).
+Based on the molecular results, Czumay et al. (2013) transferred Lejeunea huctumalcensis to
+Physantholejeunea. However, Otigoniolejeunea (Spruce) Schiffn. is a much older name than Physantholejeunea
+and has priority. Therefore, the generic Otigoniolejeunea has to be resurrected and the following treatment is
+necessary.
+
+236 Accepted by Lars Söderström: 30 Jan. 2014; published: 17 Mar. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Formal treatment
+The format of this note follows Söderström et al. (2012).
+Otigoniolejeunea (Spruce) Schiffn. in Engler & Prantl, Nat. Pflanzenfam. 1(3): 118, 125, 1893 (Schiffner 1893).
+Basionym: —Lejeunea subgenus Otigoniolejeunea Spruce, Trans. Proc. Bot. Soc. Edinburgh 15: 77, 226, 1884 (Spruce 1884).
+Lectotype [designated by Vanden Berghen (1948)]:—Otigoniolejeunea xiphotis (Spruce) Schiffn. [= Otigoniolejeunea
+huctumalcensis (Lindenb. & Gottsche) Y.M.Wei, R.L.Zhu & Gradst.].
+= Physantholejeunea R.M.Schust., Phytologia 39: 429. 1978 (Schuster 1978), syn. nov.
+Type:—Physantholejeunea portoricensis (Hampe & Gottsche) R.M.Schust. [≡ Lejeunea portoricensis Hampe & Gottsche
+(1853)].
+
+Otigoniolejeunea huctumalcensis (Lindenb. & Gottsche) Y.M.Wei, R.L.Zhu & Gradst., comb. nov.
+Basionym:—Lejeunea huctumalcensis Lindenb. & Gottsche, Syn. Hepat.: 762. 1847 (Gottsche et al. 1847).
+Lectotype [designated by Reiner-Drehwald & Ilkiu-Borges (2007)]: MEXICO. “ad Huctumalco”, Mai 1841, Liebmann 458b
+(W (Lindenberg Hepat. 6489); isolectotypes C, G-21590).
+≡ Physantholejeunea huctumalcensis (Lindenb. & Gottsche) Heinrichs & Schäf.-Verw., Austral. Syst. Bot. 26: 389. 2013
+(Czumay et al. 2013), syn. nov.
+= Lejeunea xiphotis Spruce, Trans. & Proc. Bot. Soc. Edinburgh 15: 227, 1884 (Spruce 1884) ≡Otigoniolejeunea xiphotis
+(Spruce) Schiffn. in Engler & Prantl, Nat. Pflanzenfam. 1(3): 125, 1893 (Schiffner 1893).
+Type:—BRAZIL. Tanaú, prope Pará, Aug 1849, Spruce L302 (holotype MANCH CC 18494; isotypes MANCH CC 18495,
+NY).
+
+For further synonyms see Reiner-Drehwald & Ilkiu-Borges (2007) and Reiner-Drehwald (2011).
+Otigoniolejeunea portoricensis (Hampe & Gottsche) Y.M.Wei, R.L.Zhu & Gradst., comb. nov.
+Basionym:—Lejeunea portoricensis Hampe & Gottsche, Linnaea 25: 352, 1853 (Hampe & Gottsche 1853).
+Type:—PUERTO RICO. Schwanecke 32 (holotype G).
+≡ Neurolejeunea portoricensis (Hampe & Gottsche) Schiffn., in Engler & Prantl, Nat. Pflanzenfam. 1(3): 131, 1893 (Schiffner
+1893) ≡ Ceratolejeunea portoricensis (Hampe & Gottsche) A.Evans, Bull. Torrey Bot. Club 34: 15, 1907 (Evans 1907) ≡
+Physantholejeunea portoricensis (Hampe & Gottsche) R.M.Schust., Phytologia 39: 429, 1978 (Schuster 1978).
+
+Notes:—Otigoniolejeunea was originally described by Spruce as one of 38 subgenera in the broadly defined genus
+Lejeunea (Reiner-Drehwald 1999). Of 12 valid taxa (11 species, one variety) assigned to the genus
+Otigoniolejeunea by various authors (Singh 2013), ten have been moved to Lejeunea or were reduced to
+synonymy. Two species names, i.e., O. crenulata Stephani (1923: 408) and O. ledermannii Stephani (1923: 409),
+remain in the genus Otigoniolejeunea and are of doubtful status owing to the loss of the type specimens during the
+Second World War and the incomplete morphological descriptions (Grolle & Piippo 1984; Singh 2013). Schuster
+(1992) also placed Lejeunea lopezii Schuster (1992: 264) (nom. inval.) in L. subg. Otigoniolejeunea but the latter
+species lacks ocelli and therefore does not fit in this group. Thus, at present only two species are assigned to
+Otigoniolejeunea with certainty. They may be separated by the following key:
+1.
+
+1.
+
+Underleaves bifid. Ocelli at leaf base only. Oil bodies present in green cells. Leaf apex without finger-like hyaline cells, occasionally hyaline rhizoids present on leaf margins. Lobular tooth short, obtuse. Perianth keels with laciniate extensions
+........................................................................................................................................................Otigoniolejeunea huctumalcensis
+Underleaves undivided. Ocelli at leaf base (in a cluster or row) and scattered in the leaf lamina. Oil bodies absent in green cells.
+Leaf apex in creeping plants with finger-like hyaline cells (lacking on ascending branches). Lobular tooth long, acuminate-falcate. Perianth keels with short horn-like extensions.......................................................................... Otigoniolejeunea portoricensis
+
+Based on the recent molecular studies (Wei 2013; Czumay et al. 2013) Otigoniolejeunea is a member of the
+subtribe Ceratolejeuneinae Gradstein (2013: 14) together with Ceratolejeunea and Luteolejeunea Piippo (1986:
+56).
+
+ON LEJEUNEA HUCTUMALCENSIS AND RESURRECTION OF OTIGONIOLEJEUNEA Phytotaxa 162 (4) © 2014 Magnolia Press
+
+• 237
+
+Acknowledgements
+This research was sponsored by the National Natural Science Foundation of China (nos. 31170190, 31370238), the
+Special Prog ram for the National Basic Work of the Ministry of Science and Technology, China
+(No. 2012FY110600), and 211 Project for the East China Normal University.
+
+References
+Czumay, A., Dong, S.S., Scheben, A., Schäfer-Verwimp, A., Feldberg, K. & Heinrichs, J. (2013) Transfer of Lejeunea
+huctumalcensis to Physantholejeunea (Lejeuneaceae, Porellales). Australian Systematic Botany 26: 386–392.
+http://dx.doi.org/10.1071/sb13039
+Dong, S.S., Schäfer-Verwimp, A., Pócs, T., Feldberg, K., Czumay, A., Schmidt, A.R., Schneider, H. & Heinrichs, J. (2013) Size
+doesn’t matter-recircumscription of Microlejeunea (Lejeuneaceae, Porellales) based on molecular and morphological
+evidence. Phytotaxa 85: 41–45.
+http://dx.doi.org/10.11646/phytotaxa.85.2.2
+Evans, A.W. (1907) Hepaticae of Puerto Rico VII. Bulletin of the Torrey Botanical Club 34: 1–34.
+http://dx.doi.org/10.2307/2479163
+Gottsche, C.M., Lindenberg, J.B.W. & Nees von Esenbeck, C.G. (1847) Synopsis Hepaticarum, fasc. 5. Meissner, Hamburg,
+pp. 625–834.
+http://dx.doi.org/10.5962/bhl.title.15221
+Gradstein, S.R. (2013) A classification of Lejeuneaceae (Marchantiophyta) based on molecular and morphological evidence.
+Phytotaxa 100: 6–20.
+http://dx.doi.org/10.11646/phytotaxa.100.1.2
+Gradstein, S.R., Churchill, S.P. & Salazar-Allen, N. (2001) Guide to the bryophytes of tropical America. Memoirs of the New
+York Botanical Garden 86: 1–577.
+Grolle, R. (1983) Nomina generica Hepaticarum; references, types and synonyms. Acta Botanica Fennica 121: 1–62.
+Grolle, R. & Piippo, S. (1984) Annotated catalogue of Western Melanesian bryophytes. I. Hepaticae and Anthocerotae. Acta
+Botanica Fennica 125: 1–86.
+Hampe, E. & Gottsche, C.M. (1853 [1852]) Expositio hepaticarum Portoricensium, quas collegit Schwanecke, hortulanus.
+Linnaea 25: 337–358.
+Jack, J.B. & Stephani, F. (1892) Hepaticae Wallisianae. Hedwigia 31: 11–27.
+Libert, M.-L. (1820) Sur un genre nouveau d'hépatiques, Lejeunia. Annales générales des sciences physiques 6: 372–374.
+Piippo, S. (1986) A monograph of Lepidolejeunea and Luteolejeunea (Lejeuneaceae: Hepaticae). Acta Botanica Fennica 132:
+1–69.
+Reiner-Drehwald, R.E.(1999) Catalogue of the genus Lejeunea Lib.(Hepaticae) of Latin America. Bryophytorum Bibliotheca
+54 : 1–101.
+Reiner-Drehwald, M.E. (2011) Studies on Neotropical Lejeuneaceae (Jungermanniopsida). New Synonyms and
+Ceratolejeunea temnantha (Spruce) comb. nov. Cryptogamie Bryologie 32: 95–100.
+http://dx.doi.org/10.7872/cryb.v32.iss1.2011.095
+Reiner-Drehwald, M.E. & Ilkiu-Borges, A.L. (2007) Lejeunea huctumalcensis, a widely distributed Lejeuneaceae from the
+Neotropics, and its relation to Ceratolejeunea. The Bryologist 110: 465–474.
+http://dx.doi.org/10.1639/0007-2745(2007)110[465:lhawdl]2.0.co;2
+Schiffner, V. (1893) Hepaticae (Lebermoose). In: Engler, A. & Prantl, K. (Ed) Die Natürlichen Pflanzenfamilien 1: 1–141.
+Leipzig.
+Schuster, R.M. (1978) Studies on Venezuelan Hepaticae. II. Phytologia 39: 425–432.
+Schuster, R.M. (1992) The oil-bodies of the Hepaticae. II. Lejeuneaceae (part 2). Journal of the Hattori Botanical Laboratory
+72: 163–359.
+Singh, S.K. (2013) New combinations in Lejeunea with a new name to Otigoniolejeunea indica. Phytotaxa 96: 63–64.
+http://dx.doi.org/10.11646/phytotaxa.96.1.3
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+http://dx.doi.org/10.11646/phytotaxa.112.1.3
+Spruce, R. (1884) Hepaticae of the Amazon and Andes of Peru and Ecuador. Transactions and Proceedings of the Botanical
+Society of Edinburgh 15: 1–308.
+Stephani, F. (1923) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 369–432.
+Vanden Berghen, C. (1948) Genera des Lejeuneaceae. Lejeunia 6: 1–59.
+Wei, Y.-M. (2013) Molecular phylogeny of Lejeunea (Lejeuneaceae). PhD thesis, East China Normal Uinversity, Shanghai.
+Wei, Y.-M. & Zhu, R.-L. (2013) Transfer of two Asiatic taxa from Lejeunea to Microlejeunea (Lejeuneaceae,
+Marchantiophyta). Cryptogamie Bryologie 34: 307–311.
+http://dx.doi.org/10.7872/cryb.v34.iss3.2013.307
+
+238 •
+
+Phytotaxa 162 (4) © 2014 Magnolia Press
+
+WEI ET AL.
+
+

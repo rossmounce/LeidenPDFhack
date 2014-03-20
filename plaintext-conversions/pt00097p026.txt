@@ -1,0 +1,70 @@
+Phytotaxa 97 (2): 26
+(2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.97.2.1
+
+Notes on Early Land Plants Today. 34. Validation of Scapania gaochii
+(Scapaniaceae, Marchantiophyta)
+TONG CAO1, JI Í VÁ A2, LARS SÖDERSTRÖM3, ANDERS HAGBORG4 & MATT VON KONRAT4
+
+Ň
+
+Ř
+
+1
+
+College of Life & Environment Sciences, Shanghai Normal University, Shanghai 200234, China; email: ct1946@263.net
+Department of Botany, Charles University, Benátská 2, CZ-12801 Praha 2, Czech Republic; email: vana@natur.cuni.cz
+3
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+4
+Department of Botany, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Scapania gaochii was described from Yunnan without indication of the herbarium where the type was conserved.
+Therefore, this name was invalidly published (ICN Art. 37.7; McNeill et al. 2012) and needs validation.
+The format of this note follows Söderström et al. (2012) except that we use the Melbourne International Code
+of Nomenclature for algae, fungi, and plants (ICN; McNeill et al. 2012) instead of the Vienna International
+Botanical Code of Nomenclature (ICBN; McNeill et al. 2006).
+
+Scapania gaochii X.Fu ex T.Cao, sp. nov.
+Based on:—Scapania gaochii X.Fu ex T.Cao, Acta Bot. Yunnanica 25: 541, 2003 (Cao et al. 2003) nom. inval. (ICN Art.
+37.7; herbarium not indicated).
+Type:—CHINA. Yunnan: Bijiang, Gaoligong Shan, alt. 3 150–3 400m, under forest of Sinarundinaria sp., Zang Mu
+5462 (holotype HKAS, isotype IFSBH)
+Note:—The description in Cao et al. (2003: 541) validates the taxon together with the current citation of the
+holotype.
+
+Acknowledgement
+The Early Land Plants Today project (ELPT) has been generously supported in part by the Global Biological
+Information Facility (GBIF) Seed Money Award No.2007-41, activities facilitated in part by funding from the
+Biodiversity Synthesis Center of the Encyclopedia of Life (BioSynC), partial funding from the National Science
+Foundation (Award No's 0749762, 1115002), the Warwick Foundation, and the Negaunee Foundation.
+
+References
+Cao, T., Sun, J., Yu, J. & Song, G.-Y. (2003) Scapania gaochii, a new species of Hepaticae from Yunnan, China. Acta
+Botanica Yunnanica 25: 541–543.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+146: 1–260.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+
+26 Accepted by Jon Shaw: 10 Apr. 2013; published online in PDF: 1 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+

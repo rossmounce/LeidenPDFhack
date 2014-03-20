@@ -1,0 +1,676 @@
+Phytotaxa 127 (1): 49–57 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.8
+
+Three new Psammothidium species from lakes of Olympic and Cascade
+Mountains in Washington State, USA
+MIHAELA D. ENACHE1, MARINA POTAPOVA1, RICH SHEIBLEY2 & PATRICK MORAN2
+1
+
+Academy of Natural Sciences, 1900 Benjamin Franklin Parkway, Philadelphia, PA, 19103
+Email: mihaela.enache@dep.state.nj.us (corresponding author)
+2
+U.S. Geological Survey, Washington Water Science Center, 934 Broadway, Suite 300, Tacoma, WA 98402
+
+Abstract
+Populations of several Psammothidium species were found in core sediments from nine remote, high elevation,
+ultraoligotrophic and oligotrophic, Olympic and Cascade Mountain lakes. Three of these species, P. lacustre, P. alpinum,
+and P. nivale, are described here as new. The morphology of the silica frustules of these species was documented using
+light and scanning electron microscopy. We discuss the similarities and differences with previously described
+Psammothidium species.
+Key words: diatom, lake sediments, alpine lakes, LM, SEM
+
+Introduction
+Diatom assemblages were analyzed in core sediments from nine Washington Cascade Mountains lakes. These
+lakes were selected by the U.S. Geological Survey (USGS) for a paleolimnological investigation of the impact
+of inorganic nitrogen atmospheric deposition on lake biogeochemistry. However, these lakes are still generally
+considered oligotrophic systems.
+Species of Psammothidium Bukhtiyarova & Round (1996: 3) are very abundant (up to 28% relative abundance) and
+diverse in study lakes and they were investigated with both light (LM) and scanning electron microscopy (SEM).
+Psammothidium was separated from Achnanthidium Kützing (1844: 75) by Bukhtiyarova & Round (1996) to designate
+adnate taxa commonly attached to sand grains by the raphe valve face, as opposed to Achnanthidium species, which are
+more common on stable surfaces such as rocks and plants and found attached via short mucilaginous stalks.
+Bukhtiyarova & Round (1996) pointed out that the major morphological differences between Psammothidium and
+Achnanthidium are (1) the shape of the valve, oval-elliptic as opposed to linear/linear-capitate; (2) the convex flexure of
+the raphe valve as opposed to concave in Achnanthidium; (3) striae reaching the sternum as opposed to marginal in
+Achnanthidium; and (4) raphe fissures located in a central channel (or near the valve center) as opposed to non-channeled
+with pin-hole central endings in Achnanthidium (Bukhtiyarova & Round 1996).
+
+Among Psammothidium species occurring in the study lakes, based on silica frustule morphological
+characteristics, three species are new to science. Here we describe those new species using light (LM) and
+scanning electron microscopy (SEM) observations.
+
+Material and Methods
+Sediment cores were collected by USGS crews in the summer of 2009 from nine lakes in Olympic, North
+Cascades, and Mt. Rainier national parks, located at a minimum elevation of 1335 m. A summary of lake
+physical characteristics is given in Table 1. Cores were collected by boat from the deepest portion of each lake
+using a Uwitec gravity corer (http://www.uwitec.at/).
+Accepted by M.B. Edlund: 21 Mar. 2011; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+49
+
+TABLE 1: Physical properties of study lakes. OLYM—Olympic National Park, NOCA—North Cascades National Park,
+MORA—Mt. Rainier National Park.
+Study Lake
+Eunice Lake
+Snow Lake
+Copper Lake
+Hidden Lake
+Stiletto Lake
+Thornton Lake
+Heather Lake
+Hoh Lake
+Milk Lake
+
+Park
+MORA
+MORA
+NOCA
+NOCA
+NOCA
+NOCA
+OLYM
+OLYM
+OLYM
+
+Elevation (m)
+1640
+1438
+1600
+1835
+2066
+1384
+1589
+1335
+1435
+
+Area (ha)
+5.32
+2.39
+5.14
+24.98
+0.03
+22.65
+0.40
+7.40
+1.10
+
+Max. Depth (m)
+10.05
+9.75
+21.03
+61.56
+25.9
+31.69
+7.01
+14.93
+11.88
+
+Diatom slides were prepared using strong acid digestions in a microwave (CEM model MDS-21 00) with
+enclosed vessels, and temperature and pressure monitoring and control systems. Diatom-coated coverslips
+were mounted on glass slides using Naphrax R mounting medium (http://diatom.ansp.org/nawqa/
+protocols.asp). Diatom species were investigated in core top (0–0.5-cm depth) and bottom sediments, and in
+an additional interval from Snow Lake (2–2.5 cm).
+A Zeiss Axio Imager microscope equipped with AxioCam MRm digital camera was used for LM. For
+SEM, cleaned material was dried on aluminum stubs, which were sputter-coated with Pt-Pd and observed with
+a Zeiss Supra 50 VP FE SEM (Carl Zeiss, Jena, Germany) at an accelerating voltage of 10 kV. Terminology
+used to describe valve structure follows Anonymous (1975), Bukhtiyarova & Round (1996) and Round et al.
+(1990).
+Water samples for nutrient analysis were collected and processed according to methods outlined in the
+USGS National Field Manual (US Geological Survey, 2006; Wilde et al., 2004). Water chemistry
+measurements indicated that the study lakes are ultraoligotrophic or oligotrophic (Table 2).
+TABLE 2: Water chemistry of study lakes from surface water collections, 2009. *Sample date also represents sediment
+core collection date.
+LAKE NAME
+Snow Lake
+Eunice Lake
+Hoh Lake
+Heather Lake
+Milk Lake
+Stiletto Lake
+Copper Lake
+Lower Thornton Lake
+Hidden Lake NOCA
+
+Sample
+Date*
+10/7/2009
+11/4/2009
+9/8/2009
+9/10/2009
+9/11/2009
+8/26/2009
+9/22/2009
+9/23/2009
+9/24/2009
+
+Total-N
+(mgL-1)
+<0.01
+0.25
+0.16
+0.06
+0.04
+0.27
+0.07
+0.10
+0.05
+
+Total-P
+(mgL-1)
+<0.003
+0.012
+0.007
+0.005
+0.004
+0.007
+0.004
+0.003
+0.002
+
+PO4-P
+(mgL-1)
+<0.003
+<0.003
+<0.003
+<0.003
+<0.003
+<0.003
+<0.003
+<0.003
+<0.003
+
+NO3-N+NO2-N
+(mgL-1)
+<0.003
+0.002
+<0.003
+0.007
+<0.003
+0.006
+<0.003
+0.004
+<0.003
+
+NH3-N
+(mgL-1)
+<0.01
+<0.01
+<0.01
+<0.01
+<0.01
+<0.01
+<0.01
+<0.01
+<0.01
+
+Results and Discussion
+The following Psammothidium species were identified in core sediments from study lakes: P. marginulatum
+(Grunow in Cleve & Grunow) Bukhtiyarova et Round (1996: 5), P. helveticum (Hustedt) Bukhtiyarova et
+Round (1996: 8), P. subatomoides (Hustedt in Schmidt et al.) Bukhtiyarova et Round (1996: 13–14), P.
+scoticum (Flower et Jones) Bukhtiyarova et Round (1996: 22), P. curtissimum (Carter) Aboal in Aboal,
+Alvarez-Cobelas, Cambra & Ector (2003:171), P. altaicum Bukhtiyarova in Bukhtiyarova et Round (1996: 5),
+P. lacustre sp. nov., P. alpinum sp. nov., and P. nivale sp. nov.
+
+50 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+ENACHE ET AL.
+
+The number of Psammothidium species in core top sediments was higher than in bottom sediments. For
+example, P. marginulatum was observed in bottom sediments from four lakes versus top sediments from
+seven lakes, while P. helveticum was observed in bottom sediments from five lakes versus top sediments from
+seven lakes (Table 3). The most abundant species across all study sites were P. curtissimum (maximum
+relative abundance 28%) and P. scoticum (maximum relative abundance 22%). The new species (P. lacustre
+sp. nov., P. alpinum sp. nov., and P. nivale sp. nov) were found in core material from six lakes: Hidden Lake
+NOCA, Eunice, Snow, Stiletto, Hoh, and Copper lakes.
+TABLE 3: Relative abundance (%) of Psammothidium species identified in lake sediment samples from the Olympic
+and Cascade Mountains. P. cur = P. curtissimum; P. hel = P. helveticum; P. mar = P. marginulatum; P. scot = P. scoticum;
+P. sub = P. subatomoides; P. lac = P. lacustre sp. nov.; P. alp = P. alpinum sp. nov.; P. niv = P. nivale sp. nov.
+Snow L.
+Snow L.
+Snow L.
+Eunice L.
+Eunice L.
+Hoh L.
+Hoh L.
+Heather L.
+Heather L.
+Milk L.
+Milk L.
+Stiletto L.
+Stiletto L.
+Copper L.
+Copper L.
+Lower Thornton L.
+Lower Thornton L.
+Hidden L.
+Hidden L.
+
+ANSP Code
+WACA001
+WACA002
+WACA019
+WACA003
+WACA004
+WACA005
+WACA006
+WACA007
+WACA008
+WACA009
+WACA010
+WACA011
+WACA012
+WACA013
+WACA014
+WACA015
+WACA016
+WACA017
+WACA018
+
+Interval (cm)
+0–0.5
+28–29
+2–2.5
+0–0.5
+39–40
+0–0.5
+37–38
+0–0.5
+17–18.5
+0–0.5
+37–38
+0–0.5
+30–31
+0–0.5
+38–39
+0–0.5
+15–16
+0–0.5
+34–35
+
+P. cur
+5.4
+4.8
+11.4
+7.2
+2.4
+0
+0
+0
+0
+0
+0
+11.8
+28.2
+4.4
+5.8
+0.6
+0.8
+11.6
+6.8
+
+P. hel
+0.6
+2
+1
+0.6
+0
+0
+0
+0
+0
+0.2
+0
+0.2
+1
+6
+2
+5.8
+5.6
+6.4
+13.6
+
+P. mar
+0.8
+0
+2.2
+0.8
+0.4
+0.4
+0
+0
+0
+0
+0
+0.8
+0.2
+0.4
+1.2
+0.8
+0
+4.4
+4.8
+
+P. scot
+1
+15
+2.6
+11.6
+8.4
+0
+0
+0
+0
+0
+0
+2.6
+4
+6.6
+8.8
+7.8
+9.4
+9.8
+21.8
+
+P. sub
+2.2
+1
+3.6
+5
+2
+0
+0
+0
+0
+0
+0
+2.4
+0.8
+9
+3.6
+1.4
+0.8
+4.6
+7.2
+
+P. lac
+0.4
+1
+1.2
+1
+2.2
+0
+0
+0
+0
+0
+0
+0.6
+0
+0
+0.8
+0
+0
+0
+2
+
+P. alp
+0
+0
+0.1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1.2
+2.8
+
+P. niv
+0
+0
+0.1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.1
+0
+
+New species description
+Division Bacillariophyta
+Class Bacillariophyceae Haeckel 1878 emend. D.G. Mann in Round et al. 1990
+Order Achnanthales Silva 1962
+Genus Psammothidium Bukhtiyarova & Round (1996: 3)
+Psammothidium lacustre Enache & Potapova sp. nov. (Figs 1–8, 35–39)
+Valvae lanceolate, 8.4–11.2 µm latae, 16.7–28 µm longae. Raphovalva cum area axialis linearis versus centro expanso,
+area centralis rectangularis, ½ vel 2/3 valvae lata. Raphe recta poris centralibus simples cum cristae et sulci,
+interne paulo curvatae. Fissuris terminalibus simplex, longae, ad versum curvatae. Araphovalva cum area axialis
+angusta, area centralis circulare, 2/3 valvae lata. Striae transapicales radiatae 22–26 in 10 µm; areolae cum
+foramina externae circulares, foramina internae transapicalem elongatae, 40–60 in 10 µm.
+
+THREE NEW PSAMMOTHIDIUM SPECIES FROM WASHINGTON
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 51
+
+Valves lanceolate, 8.4–11.2 µm wide, 16.7–28 µm long. Raphe valve with linear axial area, rectangular central area,
+occupying ½ to 2/3 of valve breadth (Figs 2, 3, 6, 7). Proximal raphe endings slightly deflected internally (Fig. 36).
+Terminal raphe fissures simple, long, deflected in opposite directions (Figs 2, 3, 6). Rapheless valve with narrow
+axial area, round central area occupying 2/3 of the valve breadth (Figs 1, 4, 5, 8). Striae radiate, 22–26 in 10 µm;
+areolae 40–60 in 10 µm, with round external foramina, and internal openings elongated transapically on both valves
+(Figs 35–39).
+Type:—USA. Washington: Cascade Mountains, Snow Lake, 46.7576° N, 121.6982468° W, lake sediment (2–2.5-cm
+depth core interval; lake maximum depth 9.75 m), collected 07 October 2009, collection WACA019, (Circled
+specimen (Figs 1, 2) on slide GC64860, accession #GC64860 (ANSP!), holotype, designated here; circled
+specimens on slide GC64861 (ANSP!) and slide 84222 (CANA!), isotypes, designated here).
+
+FIGURES 1–21: LM micrographs of Psammothidium species from Snow Lake, Washington Cascades. Figs 1–8. Psammothidium
+lacustre sp. nov. Figs 1–2. Holotype specimen, slide ANSP GC64860. Figs 9–21. Psammothidium alpinum sp. nov. Figs 9–10.
+Holotype specimen, slide ANSP GC64862. Scale bar = 10 µm.
+
+52 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+ENACHE ET AL.
+
+Etymology:—specific epithet refers to the occurrence of the new species in a lacustrine environment.
+The species with the closest morphological features to Psammothidium lacustre is P. helveticum (Figs 32–
+34). Psammothidium lacustre has much larger size, with valve width greather than 8 µm, and more acute valve
+ends compared to P. helveticum. SEM investigations (Figs 35–39) revealed that the proximal raphe endings
+are internally slightly deflected in opposite directions (Fig. 36), similarly to P. helveticum (see Bukhtiyarova
+& Round 1996, figure 23). The striae extend uninterrupted onto the mantle, and short striae are present near
+the central area and occasionally in other parts of valve margin (Fig. 38). Areolae have round external
+foramina and transapically elongated internal openings (Figs 37, 39).
+The shape of the axial and central areas on rapheless valves is similar in Psammothidium lacustre and P.
+helveticum, except that the central area is narrower in P. helveticum. Internally, the shape of areolae is also
+different: elongated with rims and grooves in P. lacustre versus round or rectangular in P. helveticum (see
+Bukhtiyarova & Round 1996, figure 23). In LM, P. lacustre is relatively easy to separate from P. helveticum;
+P. lacustre is larger, has more lanceolate shape, and coarser striae (22 –24 versus 23 – 28) and areolae.
+Psammothidium lacustre was rare in study lakes (<1% relative abundance).
+Psammothidium alpinum Potapova & Enache sp. nov. (Figs 9–21, 40–44)
+Valvae linearae ellipticae, ovalis, 6.3–9.1 µm latae, 14.6–30 µm longae. Raphovalva cum area axialis angusta linearis
+versus, area centralis rectagularis. Raphe recta poris centralibus unciformis, termini distale punctiformis.
+Araphovalva cum area axialis angusta, area centralis circularis, irregularis, 1/2 valvae lata. Striae transapicales
+paulo radiatae, 22–25 in 10 µm cum striae breviores intercalares. Areolae rotundae, grossae, 25 in 10 µm.
+Valves linear-elliptic to oval, 6.3–9.1 µm wide, 14.6–30 µm long. Raphe valve with narrow linear axial area and
+rectangular-irregular central area. Raphe straight with hook-like proximal pores, drop-shaped distal endings (Figs
+10, 11, 13, 15, 16, 20). Rapheless valve with narrow axial area, irregular, rounded central area, occupying about ½ of
+valve breadth (Figs 9, 12, 14, 17–19, 21). Transapical striae slightly radiate, 22–25 in 10 µm, with shortened
+marginal striae present (figs 41, 43). Areolae coarse, round, 25 in 10 µm (Fig. 44).
+Type:—USA. Washington: Cascade Mountains, Snow Lake, 46.7576° N, 121.6982468° W, lake sediment (2–2.5-cm
+depth core interval; lake maximum depth 9.75 m), collected 07 October 2009, collection WACA019, (Circled
+specimen (Figs 9, 10) on slide GC64862, accession #GC64862 (ANSP!), holotype, designated here; circled
+specimens on slide GC64863 (ANSP!) and slide 84223 (CANA!), isotypes, designated here).
+
+Etymology:—specific epithet refers to the occurrence of the new species in alpine, high elevation lakes.
+Psammothidium alpinum is similar to P. bioretii (Germain 1957: 85) Bukhtiyarova et Round (1996: 9) in
+valve size and possession of relatively coarse areolae. It differs from P. bioretii by having more elongate,
+linear-elliptical valve shape with nearly parallel sides, and a straight central sternum (versus diagonal in P.
+bioretii). In SEM (Figs 40–44), P. alpinum displays a characteristic doublet of smaller areolae at the valve/
+mantle junction and around the mantle (Figs 40, 42). On raphe valves, the central area nearly reaches the valve
+margin and is bounded by 4–8 short striae. The raphe has characteristic hook-like widely spaced proximal
+endings (Fig 40) that deflect in the same direction externally (Fig. 40) and opposite internally (Fig. 41). While
+P. bioretii has terminal raphe fissures curved to opposite sides, P. alpinum lacks terminal fissures, and distal
+external raphe endings are drop-shaped and do not expand beyond the last stria (Fig. 41). Similar to P. bioretii,
+P. alpinum has coarse, round areolae visible in LM; a row of coarser areolae border the sternum and central
+area in LM (Figs 10, 11) and a double row of finer areolae bordering the valve face-mantle junction is visible
+in SEM (Figs 40, 42). Short intercalary striae are present along the valve margin and expand on the mantle
+(Figs 41, 43). Psammothidium alpinum has similar valve shape as P. chlidanos (Hohn et Hellerman 1963: 273)
+Lange-Bertalot (1999: 285) but it can be easily distinguished by its coarser striae and areolae visible in LM.
+P. alpinum was present in Hidden Lake NOCA (bottom sample, 2% relative abundance) and very rare in
+top samples from Snow and Stiletto lakes.
+
+THREE NEW PSAMMOTHIDIUM SPECIES FROM WASHINGTON
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 53
+
+Psammothidium nivale Potapova & Enache sp. nov. (Figs 22–31, 45–48)
+Valvae ellipticae, 5.6–6 µm latae, 11.7–15 µm longae. Raphovalva cum area axialis linearis, area centralis
+transapicalem rectagularis vel ovalis, 2/3 valvae lata. Raphe recta cum poris proximales paene expansae, in sulci,
+cum terminis distales simplices. Araphovalva cum area axialis ad apicem angusta, versus centro expansa,
+rhombico-lanceolata, 2/3 valvae lata. Striae transapicales paulo radiatae, 26–28 in 10 µm in araphovalva, 30–32 in
+10 µm in raphovalva.
+Valves elliptical, 5.6–6 µm wide and 11.7–15 µm long. Raphe valve with linear axial area, central area transapically
+rectangular to oval occupying 2/3 of the valve breadth. Raphe with proximal pores slightly expanded, located in
+grooves, and with simple distal endings (Figs 23, 25, 27, 28). Rapheless valve with axial area narrow at apices and
+widening towards valve centre in a rhombic-lanceolate shape, occupying 2/3 of the valve breadth (Figs 22, 24, 26,
+29, 30). Striae slightly radiate, 26–28 in 10 µm on rapheless valve, 30–32 on raphe valve.
+Type:— USA. Washington: Cascade Mountains, Snow Lake, 46.7576° N, 121.6982468° W, lake sediment (2–2.5-cm
+depth core interval; lake maximum depth 9.75 m), collected 07 October 2009, collection WACA019, (Circled
+specimen (Figs 22, 23) on slide GC64864, accession #GC64864 (ANSP!), holotype, designated here; circled
+specimens on slide GC64865 (ANSP!) and slide 84224 (CANA!), isotypes, designated here).
+
+Etymology:—specific epithet refers to the name of the lake (Snow Lake) from where the species was found
+and described.
+Psammothidium nivale is distinguished from other Psammothidium species by characteristic coarser striae
+and areolae on rapheless valve compared to raphe valve. The linear axial area on raphe valves widens slightly
+near the valve center, and the transapically rectangular to oval central area is bounded by 4–5 shortened striae.
+External proximal raphe endings are located in grooves, which gradually widen toward valve center. External
+distal raphe endings are drop-shaped and do not extend beyond the last stria (Fig. 45). Characteristic coarse
+areolae on rapheless valves have the appearance of transapically elongated slits in SEM (Figs 47–48).
+In the SEM, the shape of the areolae—transapically elongate—resemble those of P. subatomoides in
+SEM. However, P. nivale is distinguished from the latter species by all other valve characteristics: more
+elongated shape of the valve and larger size, shape of central area on both raphe and rapheless valve and clear
+dimorphism of raphe and rapheless valve in striae density and areolae size. P. nivale was found in Snow Lake
+and Hidden Lake NOCA in very low abundance (< 0.25% relative abundance).
+
+FIGURES 22–34: LM micrographs of Psammothidium species from Snow Lake, Washington Cascades. Figs 22–31. Psammothidium
+nivale sp. nov. Figs 22–23. Holotype specimen, slide ANSP GC64684. Figs 32–34. Psammothidium helveticum. Scale bar = 10 µm.
+
+54 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+ENACHE ET AL.
+
+FIGURES 35–39: Psammothidium lacustre sp. nov., SEM. Fig. 35. External view of raphe valve, Hidden Lake NOCA, sample ANSP
+WACA017. Fig. 36. Internal view of raphe valve, type material, sample ANSP WACA019. Fig. 37. Areolae on internal surface of
+raphe valve, type material, sample ANSP WACA019. Fig. 38. Internal view of rapheless valve, Hidden Lake NOCA, sample ANSP
+WACA017. Fig. 39. External view of rapheless valve, type material, sample ANSP WACA019. Scale bars = 1 µm
+
+FIGURES 40–44: Psammothidium alpinum sp. nov., SEM. Figs 40–42. Type material, Snow Lake, sample ANSP WACA019 Fig. 40.
+External view of raphe valve. Fig. 41. Internal view of raphe valve. Fig. 42. External view of rapheless valve. Fig. 43. Internal view of
+rapheless valve, Hidden Lake NOCA, sample ANSP WACA018. Fig. 44. Areolae on the internal surface of the valve, Snow Lake,
+sample ANSP WACA001. Scale bars = 1 µm.
+
+THREE NEW PSAMMOTHIDIUM SPECIES FROM WASHINGTON
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 55
+
+FIGURES 45–48: Psammothidium nivale sp. nov., SEM. Figs 45–47. Type material, sample ANSP WACA019, Snow Lake. Fig. 45.
+External view of raphe valve. Fig. 46. Internal view of raphe valve. Fig. 47. External view of rapheless valve. Fig. 48. External view of
+rapheless valve, Hidden Lake NOCA, sample ANSP WACA018. Scale bars = 1 µm.
+
+Acknowledgements
+Funding for the Washington Cascades project was provided by the United States Geological Survey. Donald
+Charles and the Ruth Patrick Endowment at the Academy of Natural Sciences provided partial funding to M.
+Enache for working on the manuscript. We acknowledge the use of the Centralized Research facilities in the
+College of Engineering at Drexel University, Philadelphia. Use of trade names is for descriptive purposes only
+and does not imply endorsement by the U.S. Government.
+
+References
+Anonymous (1975) Proposals for a standardization of diatom terminology and diagnoses. Nova Hedwigia, Beih. 53:
+323–354.
+Aboal, M., Alvarez-Cobelas, M., Cambra, J. & Ector, L. (2003) Floristic list of non marine diatoms (Bacillariophyceae)
+of Iberian Peninsula, Balearic Islands, and Canary Islands. Updated taxonomy and bibliography. In: A. Witkowski
+(ed.), Diatom Monographs. A.R.G. Gantner Verlag K.G., 4: 639 pp.
+Bukhtiyarova, L. & Round, F.E. (1996) Revision of the genus Achnanthes sensu lato section Marginulatae Bukht. Sect.
+nov. of Achnanthidium Kütz. Diatom Research 11:1–30.
+http://dx.doi.org/10.1080/0269249X.1996.9705361
+Carter, J.R. (1963) Some new diatoms from British waters. Journal of the Quekett Microscopical Club 29(8): 199–203.
+Cleve, P.T. & Grunow, A. (1880) Beiträge zur Kenntnis der arktischen Diatomeen. Kungliga Svenska
+Vetenskapsakademiens Handlingar 17(2): 1–121.
+Flower, R.J. & Jones, V.J. (1989) Taxonomic descriptions and occurrences of new Achnanthes taxa in acid lakes in UK.
+
+56 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+ENACHE ET AL.
+
+Diatom Research 4(2): 227–239.
+http://dx.doi.org/10.1080/0269249X.1989.9705072
+Germain, H. (1957) Achnanthes bioreti n.sp., diatomée nouvelle. Bulletin de la Société Botanique de France 104
+(suppl.): 85–86.
+Hohn, M.H. & Hellerman, J. (1963) Taxonomy and structure of diatom populations from three eastern North American
+rivers. Transactions of the American Microscopical Society 82: 250–329.
+http://dx.doi.org/10.2307/3223932
+Hustedt, F. (1933) Die Diatomeenflora von Poggenpohls Moor bei Dötlingen in Oldenburg. Abhandlungen und Vorträge
+der Bremen Wissenschaftliche Gesellschaft 8/9: 362–403.
+Lange-Bertalot, H. (1999) Neue Kombinationen von Taxa aus Achnanthes Bory (sensu lato). Iconographia
+Diatomologica 6: 276–289.
+Round, F.E., Crawford, R.M. & Mann, D.G. (1990) The Diatoms. Biology and morphology of the genera. Cambridge
+University Press, Cambridge, 747 pp.
+Schmidt, A. (1936) Atlas der Diatomaceen-kunde. Leipzig. O.R. Reisland Series VIII (Heft 101–102): pls. 401–408.
+U.S. Geological Survey (2006) Collection of water samples (ver. 2.0): U.S. Geological Survey Techniques of WaterResources Investigations. Book 9, chap. A4. September. Available from: http://pubs.water.usgs.gov/twri9A4/
+(Accessed 15 January 2010)
+Wilde, F.D., Radtke, D.B., Gibs, J. & Iwatsubo, R.T. (eds.) (2004) Processing of water samples (version 2.1): U.S.
+Geological Survey Techniques of Water-Resources Investigations. Book 9, chap. A5. April. Available from: http://
+pubs.water.usgs.gov/twri9A5/ (accessed 15 January 2010).
+
+THREE NEW PSAMMOTHIDIUM SPECIES FROM WASHINGTON
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 57
+
+

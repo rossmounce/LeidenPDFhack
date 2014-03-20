@@ -1,0 +1,1104 @@
+Phytotaxa 127 (1): 113–127 (2013)
+www.mapress.com / phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.13
+
+Why is Synedra berolinensis so hard to classify? More on monotypic taxa
+DAVID M. WILLIAMS
+Department of Life Sciences, The Natural History Museum, Cromwell Road, London SW7 5BD, UK
+Email: d.m.williams@nhm.ac.uk (corresponding author)
+
+Abstract
+The diatom species Synedra berolinensis has been placed in the genus Synedra, Fragilaria, Staurosira, Staurosirella as
+well as its own monotypic genus, Belanostrum. It is recently returned to Staurosirella. This prompts a pertinent question:
+Why is Synedra berolinensis so hard to classify? One answer may be the inappropriateness of the evidence (data).
+Another may be the approach to classifying the organism, especially the use of monotypic taxa for problematic groups. I
+will address both aspects, concentrating more on the latter: How do we classify?
+Key words: Synedra berolinensis, evidence (data), classification, monotypic taxa
+
+Introduction
+In the relatively short space of just over 20 years (1989–2003), the freshwater planktonic diatom species
+named Synedra berolinensis Lemmerm. (1900a: 31) has been shifted from Synedra Ehrenb. to Fragilaria
+Lyngb. (Lange-Bertalot 1989; Krammer & Lange-Bertalot 1991; Lange-Bertalot 1993), Staurosira Ehrenb.
+(Krammer & Lange-Bertalot 2000), Staurosirella D.M. Williams & Round (Bukhityarova 1995) and its own
+genus, Belanostrum Round & Maidiana (Round & Madiana 2001), before returning to Staurosirella (Morales
+2003) (summarised in Table 1).
+TABLE 1: Generic assignments for Synedra berolinensis (1989–2003).
+Name
+
+Author
+
+Reference
+
+Fragilaria berolinensis
+
+Lange-Bertalot
+
+1989: 82, Taf. 1, figs 49–53, nom. nud.
+
+Fragilaria berolinensis
+
+Lange-Bertalot in Krammer & Lange-Bertalot
+
+1991: 161, Fig. 134: 21–25, nom. nud.
+
+Fragilaria berolinensis
+
+Lange-Bertalot
+
+1991: 43
+
+Staurosirella berolinensis
+
+Bukhityarova
+
+1995: 418
+
+Morales
+
+2003: 288
+
+Staurosira berolinensis
+
+Lange-Bertalot in Krammer & Lange-Bertalot
+
+2000: 587
+
+Belonastrum berolinensis
+
+Round & Madiana
+
+2001: 22, Figs 1–10
+
+Synedra berolinensis is by no means the only species related to the many old fragilarioid taxa that has
+shifted generic position frequently: Fragilaria shiloi J.J. Lee, Reimer & McEnery (1980: 43), for example,
+has been in four genera since its discovery in 1980, including its own genus (Table 2a), and Opephora martyi
+Hérib. (1902: 43) has been in three genera including its own, with a fourth suggested (Table 2b).
+Given the frequently shifting position of Synedra berolinensis, it seems appropriate to ask the following
+question: Why does it seem so hard to classify? Relevant to that question is the role of monotypic taxa, a
+subject I touched upon previously (Williams 2009).
+Accepted by M.L. Julius: 20 Nov. 2012; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+113
+
+First, I want to summarise the history of Synedra berolinensis and what we know of it before I tackle the
+problem of its classification.
+TABLE 2: Recent generic assignments for a) Fragilaria shiloi (1980–2000) and b) Opephora martyi (1902–2006).
+Name
+
+Author
+
+Reference
+
+Fragilaria shiloi
+
+Lee, Reimer & McEnery
+
+1980: 43, 47; fig. 2, pl. 2, fig. 12, 13, pl. 3,
+fig. 20
+
+Pseudostaurosira shiloi
+
+Hallegraeff & Burford
+
+1996: 335; fig. 5a–j
+
+Nanofrustulum shiloi
+
+F.E. Round, H. Hallsteinsen, & E. Paasche
+
+1999: 346
+
+“Opephora” shiloi
+
+Witkowski et al. “…this species should be
+removed from Fragilaria. Most of the features
+indicate its closest relationships with Opephora”
+
+2000: 54
+
+Opephora martyi
+
+Héribaud
+
+1902: 43, Pl. 8, fig. 20
+
+Martyana martyi
+
+(Héribaud) Round in Round, Crawford & Mann
+
+1990: 673
+
+Fragilaria martyi
+
+(Héribaud) Lange-Bertalot
+
+1993: 46–48; 1991: 2/3, fig. 133: 28–31
+
+Staurosirella martyi
+
+E.A. Morales & K.M. Manoylov
+
+2006: 354
+
+Synedra berolinensis Lemmerm.
+Taxonomic history: the first 50 years
+In a series of papers on planktonic algae (“Beiträge zur Kenntnis der Planktonalgen”), Ernst Lemmermann
+(1867–1915, for biographical data on Lemmermann see Bitter 1919) described a number of new taxa from
+European Lakes, some assigned to the genus Synedra (Lemmermann 1900a; 1900b; 1904; 1906). Synedra
+berolinensis was one of these, first presented with just a short description and no illustrations (Lemmermann
+1900a). Lemmermann’s description is succinct enough to quote in full:
+“Zellen 25–34µ lang, zu 4–24µ zu büschelförmigen, strahligen, freischwimmenden Colonien
+vereinigt. Valvarseite gerade, in der Mitte etwas bauchig erweitert, an den Enden 1,3µ, in der
+Mitte 2, 5µ breit. Querstreifen kurz, die Mitte nicht erreichend.”
+But Lemmermann did more than simply describe new taxa. He created an additional hierarchical level in
+the classification of Synedra by placing some species—Synedra ulna (Nitzsch 1817: 99) Ehrenb. (1832: 87), S.
+delicatissima W. Sm. (1853: 72) and S. acus Kütz. (1844: 68)—in the Section (‘Sectio’ I.) Eusynedra, and his
+new taxa—S. actinastroides Lemmerm. (1900a: 30), and their varieties, and S. berolinensis—in a new section
+(‘Sectio’ II.), Belonastrum1. Thus, Lemmermann determined what might be called two different ‘kinds’ (subgroups) of Synedra, captured by his division into Sections (‘Sectio’). Of significance is not just the creation of
+two sections but his reasons for doing so (the evidence). Lemmermann described his two sections thus:
+“I. Sectio: Eunsynedra Schütt: Zellen einzeln, freischwimmend oder testsitzend” [Cells
+individually, free-swimming or attached]…
+“II. Section: Belonastrum nob.: Zellen zur freischwimmenden, büschelförmigen, strahligen
+Colonien vereinigt” [Cells free-swimming, in star-shaped colonies]. (Lemmermann 1900a: 31,
+my translation).
+
+1.
+
+While Mills (1933: 265–266) lists several species in this section, it is clear that he understands Lemmermann’s taxon
+as a section.
+
+114 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WILLIAMS
+
+Lemmermann’s sections were thus separated on the basis of the character ‘colony formation’. That some
+species were found in the plankton (pelagic), an unusual (at that time) habitat for species in the genus
+Synedra, was the reason Lemmermann created his classification (summarised in Figure 1a).
+
+(a) Lemmermann 1900a
+Synedra
+
+I. Sectio: Eusynedra
+II. Sectio: Belonastrum
+
+(b) Gemeinhardt 1926
+a. Schalen mit falschen
+Mittelknoten (Pseudonodulus)
+
+Eusynedra
+
+b. Schalen ohre
+falschen Mittelknoten
+(Pseudonodulus)
+
+a. Pseudoraphe schmal
+b. Pseudoraphe breit
+
+FIGURE 1. (a) Branching diagram representing the classification of Synedra in Lemmermann 1900a, identifying the new section
+(‘sectio’) Belanastrum. (b) Branching diagram representing the classification of Synedra in Gemeinhardt (1926).
+
+In 1926 Konrad Gemeinhardt undertook a revision of Synedra (Gemeinhardt 1926). He placed Synedra
+berolinensis, S. actinastroides and S. limnetica Lemmerm. (1900b: 275) (all members of Lemmermann’s
+Section Belonastrum) in his “Pseudoraphe breit” (pseudoraphe broad) sub-group, alongside S. affinis Kütz.
+(1844: 68), S. affinis f. typica Hust. (in A. Schmidt et al. 1914: pl. 304, figs 6–12), S. affinis var. obtusa Hust.
+(in A. Schmidt et al. 1914: pl. 304, figs 13–16) and S. affinis var. fasciculata (C. Agardh 1812: 35) Grun. in
+Van Heurck (1885: 153). In the “Pseudoraphe schmal” (pseudoraphe narrow) sub-group, the other half of the
+pair within the larger group (“Schalen ohre falschen Mittelknoten (Pseudonodulus)”—valves with ‘false’
+central area, pseudonodulus)—Gemeinhardt placed S. ulna alongside species usually associated with the more
+‘typical’ members of Eusynedra (Synedra biceps Kütz. (1844: 66), S. goulardii Bréb. (ex Cleve & Grun. 1880:
+107), etc., species now understood as part of Ulnaria Kütz., see Williams 2011). Gemeinhardt added more
+characters (properties of the ‘pseudoraphe’ and central area) and more (un-named) divisions and subdivisions, presenting the whole as a classification with species names appended to each sub-division
+(Gemeinhardt 1926: 37, see Figure 1b)2.
+Hustedt subsequently presented two different classifications for the sub-groups of Synedra. In 1930, he
+offered a rather complex series of sub-divisions in the form of a key (Hustedt 1930: 149–151). One of
+Hustedt’s main sub-divisions was based on ‘Apikalasche gerade…’ (apical axis straight) which in turn was
+sub-divided into ‘Zellen büschelig-mehrstrahlige, freischwimmende Kolonien bildend’ and ‘Zellen nicht
+derartige Kolonien bilden’ (similar to Lemmermann’s divisions). The former sub-group contained Synedra
+berolinensis, S. actinastroides and S. acus, while the latter contained all other freshwater species of Synedra
+(Figure 2a).
+Yet in 1932, Hustedt presented what might be referred to as a proper classification (as opposed to his 1930
+key), in which he recognised three sub-genera, Eusynedra, Belanostrum and Ardissonia (Figure 2b). By
+implication, none of Hustedt’s three groups is considered to be more closely related to any other (there is no
+hierarchical structure to the classification beyond recognising three sub-genera). Interestingly enough, of the
+2.
+
+Gemeinhardt also noted the potential of cytoplasmic characters for future classification data
+
+SYNEDRA BEROLINENSIS AND MONOTYPIC TAXA
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 115
+
+sub-genus Belanostrum, Hustedt wrote that it “…stimmt sowohl im Bau der Zellwand als auch in der
+Zellform völlig mit Eusy nedra überein, ein wesentlicher Unterschied besteht jedoch in der
+Koloniebildung…under der damit zusammenhängenden pelagischen Lebensweise” (Hustedt 1932: 183;
+“Belanostrum fully agrees with Eusynedra conforming in the structure of its valves as well as its cell.
+However, there exists a substantial difference in colony formation which is associated with a pelagic mode of
+life”, translation adapted from Jensen 1985: 170). Therefore, Hustedt explicitly agreed with Lemmermann’s
+viewpoint, believing that the ‘mode of life’ is sufficient grounds for recognising a sub-group, in spite of the
+fact that he sees ‘full’ agreement in valve structure between Eusynedra and Belonastrum. Nevertheless, he
+goes on to stress that the sub-genera Belanostrum and Ardissonia “…von sehr ungleichem Wert sind”
+(Hustedt 1932: 183, “are of very unequal merit [value]”, translation adapted from Jensen 1985: 170) without
+explaining the nature of that inequality.
+It might be argued, with some justification, that Lemmermann, Gemeinhardt and Hustedt were simply
+trying to clarify how one might identify the various species thought to belong to Synedra rather than
+attempting to create a ‘natural’ classification (one that expresses their relationships), and their use of sections
+and sub-genera (as well as the many un-named subdivisions) were designed to facilitate ease of identification
+—as in a continually modified and updated key.
+
+(a) Hustedt 1930
+Synedra
+
+Apikalasche gebogen, Schalen schwach
+sichelförmig
+Apikalasche
+gerade...
+
+Zellen büschelig-mehrstrahlige,
+freischwimmende Kolonien bildend
+
+Zellen nicht derartige Kolonien
+bilden
+
+(b) Hustedt 1932
+Eusynedra
+Ardissonia
+Belonastrum
+FIGURE 2. (a) Branching diagram representing the classification of Synedra in Hustedt (1930) and (b) Hustedt (1932).
+
+Taxonomy and light microscope (LM) images—the data
+It is worth considering for a moment just what data were available for diatomists to make their judgements.
+Although described in 1900, no illustrations of Synedra berolinensis appeared until 1904, when Lemmermann
+described and named a new variety of S. berolinensis—S. berolinensis var. gracilis Lemmerm. (1904: 310)—
+and offered a further brief description accompanied with some simple line drawings of both Synedra
+berolinensis (Lemmermann 1904: fig. 16, Fig. 3) and the new variety (Lemmermann 1904: fig. 17). Two years
+later, along with the description of Synedra revaliensis Lemmerm.3, Lemmermann provided a key for all of
+
+3.
+
+This taxon was described in two different places. The exact dates of each have yet to be established.
+
+116 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WILLIAMS
+
+the eight planktonic taxa he had described in the past few years that were included in his ‘Sectio’ Belonastrum
+(Lemmermann 1906; see below and the first eight entries in Table 3). But even after Lemmermann’s series of
+papers it appears that very few illustrations of S. berolinensis were published. Hustedt (in Schmidt et al. 1914:
+pl. 306, figs 17, 18), for example, illustrated two partial colonies from “Holstein” (some details of the valve
+structure can be appreciated from his figure 18). Hustedt reproduced these illustrations in three European
+floras (Hustedt 1930: 164, fig. 200; Hustedt 1932: 184, fig. 686; Hustedt 1942: 457, fig. 533, also reproduced
+by Cleve-Euler 1953: fig. 377a–c and Zabelina et al. 1951: 141, fig. 1a; the original images were derived from
+Hustedt’s contribution to Schmidt Atlas for 1914: Hustedt in A. Schmidt et al. 1914). Subsequently, Krieger
+(1927: figs 28a–h, j, k) presented some new illustrations, which Cleve-Euler reproduced in her flora (CleveEuler 1953: fig. 377d, e). In short, up until the mid-1950s even though Synedra berolinensis had been
+recognised for nearly half a century, it appears to have been known from only a handful of drawings, many of
+them being copied from one source to another as illustrations for commonly used floras.
+Taxonomy and the scanning electron microscope (SEM)
+One might argue that the history of Belanostrum above, and its interpretation, is now largely irrelevant, as
+many of the species thought to be Synedra-like (and members of the group Belanostrum) by Lemmermann
+have subsequently been placed elsewhere, such as in the very different genus Nitzschia Hassall, or else are
+now synonyms of S. berolinensis itself (Table 3). Nevertheless, further data became available with the
+introduction of scanning electron microscopy.
+TABLE 3: Species described that are or have been in Section Belanostrum of Synedra. Their current name is placed in
+the final column, although revision might be necessary in some cases to establish the synonymy with greater certainty
+(indicated by double quotes).
+Name
+
+Author
+
+Reference
+
+Type Material
+
+Current Name
+
+Synedra actinastroides
+
+Lemmermann
+
+1900a:30
+
+Not known
+
+Nitzschia fruticosa
+(=N. actinastriodes)
+
+Synedra actinastroides
+var. opoliensis
+
+Lemmermann
+
+1900a:30
+
+Not known
+
+Nitzschia?
+
+Synedra actinastroides
+var. lata
+
+Lemmermann
+
+1900a:30
+
+Not known
+
+Nitzschia?
+
+Synedra actinastroides
+var. curvata
+
+Lemmermann
+
+1900a:31
+
+Not known
+
+Nitzschia?
+
+Synedra berolinensis
+
+Lemmermann
+
+1900a:31, 1904: 310, Not known
+Fig. 16
+
+“S.” berolinensis
+
+Synedra limnetica
+
+Lemmermann
+
+1900b:275
+
+Not known
+
+“S.” berolinensis
+
+Synedra? asterionelloides O. Müller in
+Schmidle
+
+1902:8
+
+B 2.0004, 2.0015, 2.0019 (Jahn
+2002)
+
+Nitzschia asterionellides
+
+Synedra berolinensis var.
+gracilis
+
+Lemmermann
+
+1904: 310, Fig. 17
+
+Not known
+
+“S.” berolinensis
+
+Synedra revaliensis
+
+Lemmermann
+
+1906:536
+
+Not known
+
+“S.” acus?
+
+Synedra revaliensis
+
+Lemmermann in
+W. and G.S. West
+
+1906: 110
+
+Not known
+
+“S.” acus?
+
+Synedra victoriae
+
+Woloszynska
+
+1914: 190, Pl. 3, fig.
+10
+
+Not known
+
+“S.” berolinensis
+
+Synedra utermoehlii
+
+Hustedt
+
+1932: 185, Fig. 687
+
+BRM K1/10: Simonsen 1987:
+Fragilaria utermoehlii
+132, Pl. 217, Figs 1, 2; Krammer
+& Lange-Bertalot 1991: 452,
+Taf. 111, Figs 23–24
+
+SYNEDRA BEROLINENSIS AND MONOTYPIC TAXA
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 117
+
+According to Gaul et al. (1993), Cronberg (1982: Figs 164–5) provided the first SEM image of Synedra
+berolinensis, although two images presented in Round (1979: figs 1, 2) predate that paper by 3 years (it should
+be noted that Round did not name his taxon, writing in the plate legend “a species of the section Belonastrum,
+but not in the Synedra complex”). These were followed a few years later with three images published by
+Lange-Bertalot (1989). More recently, there have been two detailed studies, the first by Round & Maidana
+(2001) the other by Morales (2003), both authors coming to different conclusions. In spite of the new
+morphological data, Round & Maidana (2001) made their decision to place Synedra berolinensis in its own
+genus based on, among other things, its ‘habitat’ (like Hustedt earlier), while Morales (2003), after reviewing
+the morphological evidence, found it convincing enough to retain the species in Staurosirella (Round &
+Maidana did not present girdle band data but refer to their number), following Bukhityarova (1995: 418).
+With respect to classification, this kind of approach has continued in diatom systematics up to the present,
+regardless of the source of data: the continual updating and modifying of generic descriptions, often discussed
+in terms of ‘limits’, as if definitions of taxa were like the borders of a country, occasionally expanding,
+occasionally contracting, depending on who was waging war (and who was ‘winning’) but retaining the same
+name to give the illusion of stability (or conquest).
+When in doubt, or when presented with a number of apparently ‘key’ features, the taxon is often placed in
+a monotypic group. This process is akin to the construction of an artificial classification (keys) rather than
+natural classification, as a monotypic group, in this sense, is simply the sum of a set of unusual characters.
+Current knowledge of Synedra berolinensis
+Estimates of our current knowledge concerning Synedra berolinensis are hard to make and somewhat
+dependant on an understanding of what knowledge might mean. A rough guide can be gained from the
+number of citations, given that an unknown percentage of those citations might be misidentifications.
+One way to ascertain citations is to use an Internet search engine where the numbers of hits may indicate a
+rough estimate of knowledge or applied knowledge attributed to this species. Using Google
+(www.google.com), roughly 16 to 17,000 hits were recovered, with considerably fewer using Bing
+(www.bing.com) (c. 50). With respect to searches for images, only two were found, relative to the 48
+published drawings and light microscope images and 25 scanning electron microscope images (Table 4).
+Thus, very little actually appears to be known about Synedra berolinensis although, given the 17,000 records,
+it appears to be well known.
+TABLE 4: Web search hits for the various names of Synedra berolinensis. Two search engines were examined, Google
+and Bing, hits for the latter are given in round brackets. Bing is a more conservative search engine. For the ‘Images’
+column, a ‘1*’ indicates the selection of pictures from the College of Biological Sciences, University of Tsukuba website
+(http://www.biol.tsukuba.ac.jp/~algae/PoK/Bacillariophyceae/Belonastrum/index.html); the figure in square brackets is
+the total number of pages reported, most of which do not recover an image of Synedra berolinensis. In summary, only
+two images were found: that from College of Biological Sciences, University of Tsukuba and one other.
+Name
+
+Pages
+
+Images
+Google (Bing)
+
+Synedra berolinensis
+
+17,500 (54)
+
+1* [156] (1* + 1)
+
+Fragilaria berolinensis
+
+16,600 (57)
+
+0 [16] (0)
+
+Staurosirella berolinensis
+
+16,800 (20)
+
+0 (1*)
+
+Staurosira berolinensis
+
+29 (21)
+
+0 (0)
+
+Belonastrum berolinensis
+
+18 (5)
+
+1* (1)
+
+118 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WILLIAMS
+
+Classification
+“Is it not extraordinary that young taxonomists are trained like performing monkeys, almost
+wholly by imitation, and that in only the rarest cases are they given any instruction in taxonomic
+theory?” (Cain 1959: 243)
+Cain’s viewpoint should now be considered anachronistic, gone forever. We have since learnt that there are
+two aspects to natural classification: groups (taxa) and evidence (characters). More precisely, evidence is
+required to support proposals of groups (taxa). Re-phrased as a scientific problem, the task is to establish what
+evidence there is for the groups we wish to recognise and what is the relationship of the evidence to the
+group? What data imply particular relationships (groups) so that various organisms can be collected together
+in species, genera, families, etc. and named? Formulated as such, the naming is no longer an art but guided by
+scientific principles. First I consider the relationship of evidence to the names.
+Investigation of characters usually leads to the conclusion that data apply to some species in varying
+degrees. If Figure 3, for example, is the result of an analysis (either molecular or morphological data) a
+conclusion might be that there is evidence to suggest a group E–L to the exclusion of A–D (Figure 3, node 1);
+evidence to suggest a group E–H to the exclusion of A–D and I–L (Figure 3, node 2); evidence to suggest
+there is a group E–F to the exclusion of A–D and G–L (Figure 3, node 3); and so on (Figure 3, nodes 4–6).
+Support for nodes 1–6 can be any number of characters from 1 upwards—the number is not significant. It
+should be obvious that only those groups supported by evidence deserve names, so in the diagram in Figure 3
+there are 7 potential groups that could be named, those that correspond to nodes 0–6. The taxonomic level is
+also not particularly important. For example, node 0 might be a named a Class, node 1 an Order, nodes 2 and
+4 Families, and nodes 3 and 5 genera (node 6 remains unnamed): data, relationships and the classification
+hierarchy are isomorphic—they all speak to the same thing (Table 5). The important thing—the ‘absolute
+standard’ (Williams 2009) if you like—is to name only the nodes, christening the evidence, as it were (Table
+5). There is no fixed amount of evidence, or type of group, that corresponds to a genus: it is assigned to a
+particular taxonomic level, not discovered by some measure of similarity (Sato et al. 2008). That applies to all
+taxonomic levels. Therefore evidence (data) requires not simply collecting and enumerating but interpretation
+so that nodes may be discovered. The only significant method of character interpretation for natural
+classifications is cladistics, a theory of systematics outlined many years ago for diatomists that recognises
+synapomorphies (shared, derived characters) as support for nodes (groups, taxa) (see Kociolek et al. 1987 and
+Williams & Kociolek 2010; Williams & Ebach 2007).
+TABLE 5: Classification and groups relevant to Figs 1–4.
+Class
+
+0
+
+A–L
+A?
+B?
+C?
+D?
+
+Order
+
+1
+2
+Genus
+Family
+Genus
+
+SYNEDRA BEROLINENSIS AND MONOTYPIC TAXA
+
+E–I
+
+3
+
+E–F (G?, H?)
+
+4
+
+Family
+
+E–L
+
+I–L
+
+5
+
+J–L
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 119
+
+The Problem of Monotypic Taxa
+Among the species in Figure 3, A–D may be understood as unusual as there is no evidence to suggest their
+relationships to any other taxon beyond their inclusion in the entire group, as defined by node 0 (Figure 3). As
+taxonomic (Linnaean) convention demands that all species have a generic name, a question may arise as to
+what genus A–D belong? One might be tempted to put all four together and call them a genus, basal to all
+other taxa. However, that would name a group for which there is no evidence—by evidence I mean characters
+(synapomorphies) unique to A–D. One solution would be for species A–D to each have their own monotypic
+generic name, which would indicate only their unknown relationships within the larger group. This may seem
+an excessive use of generic names but it is the only way the four species (A–D) can be recognised as distinct
+entities, separate from each other as well as the rest of the group, without implying relationships not supported
+by data. The same logic applies to taxon G and H (Figure 3; an alternative could be to assign a generic name
+to species E–H leaving node 3 unnamed). This appears to be the only logical use of monotypic taxa: indicators
+of unknown relationships.
+
+A
+B
+C
+
+0
+
+D
+1
+
+2
+
+E
+F
+G
+H
+I
+
+3
+
+4
+5
+
+6
+
+J
+K
+L
+
+FIGURE 3. Hypothetical tree (classification) of 12 species with 7 nodes (0–6). See Table 5 and text. Node 1 suggests there is
+evidence to support a group E–L to the exclusion of A–D; that there is evidence to support a group E–H to the exclusion of A–D and
+I–L; that there is evidence to support a group E–F to the exclusion of A–D and G–L, etc., through all nodes 4–6. The assignment of
+taxonomic level is not particularly important (see Table 5, for an example), only the monophyly of each: data, relationships and the
+classification hierarchy are isomorphic.
+
+This is not how the concept is applied generally, especially among ‘protist’ systematics (including
+diatoms). It is usually adopted to indicate a certain level of (unknown) measurable distinction, such that there
+are a number of characters (or percentage of difference) that ‘qualify’ a particular species for special
+treatment. A recent ‘protist’ example is worth examining in detail. In a paper published in the journal Protist
+describing some new taxa in the heterotrophic flagellate group Bicosoecida (an order of colourless, free-living
+protozoans), three new monotypic genera were named (Kim et al. 2010). Detailed morphological
+(ultrastructural) data was recorded but DNA sequence data was used as the primary source of evidence to
+determine the relationships of the three new genera relative to all other Bicosoecids. The results of their
+analysis were presented in a series of tree diagrams (Kim et al. 2010, figs 11–13). Of general interest is the
+relationships of Filos Kim, Yakubi, Leander & Graham and Nanos Kim, Yakubi, Leander & Graham, two of
+the three monotypic genera described for the first time (Kim et al. 2010: fig. 11 simplified here as Fig. 4). In
+one tree there are 13 species related to one another in varying degrees (Fig. 4); the tree is fully resolved – it
+
+120 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WILLIAMS
+
+has 12 nodes (Fig. 4, nodes 0–11). Nine of the 13 species are placed in monotypic genera (Fig. 4; taxon names
+are followed by a figure that indicates the number of included species). What is the justification? Kim et al.
+write: “SSU rDNA gene sequence differences among these flagellates are over 8%...providing a rationale for
+describing them as three separate genera” (Kim et al. 2010: 187); and “These genetic differences are greater
+than those between some morphologically and ecologically distinct species of
+Chrysophyceae+Synurophyceae” (Kim et al. 2010: 187, my italics). One might, then, ask why 8% gene
+difference – why not 9%, or 10%, or 7%? Medlin (1997: 20) offers further guidance: “…values of less than
+80% similarity are generally taken to indicate that separate species are involved…”. But, again, why 80%?
+And “generally taken”? By whom?
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Nanos (1)
+Filos (1)
+Paramonas (1)
+
+6
+7
+
+Siluania (1)
+Adriamonas (1)
+
+Nerada (1)
+8
+
+Bicosoeca vacillans
+(12)
+Bicosoeca petiolata
+Halocafeteria (1)
+
+9
+10
+11
+
+Caecitellus (2+)
+Cafeteria (2+)
+
+Pseudobodo (1)
+Wobblia (1)
+FIGURE 4. Tree representing the results of Kim et al. (2010: fig. 11). In this tree, there are 13 species related to one another in
+varying degrees; the tree is fully resolved with 12 nodes; 9 of the 13 species are monotypic genera (taxon names are followed by a
+figure to indicate numbers of included species).
+
+One might contrast that effort with a recent diatom study, one already commented upon (Williams 2009).
+For the monotypic genus Pseudostriatella, Sato et al. suggested there were “many morphological and
+ecological similarities between P. oceanica and S. [Striatella] unipunctata…”, which they regarded as
+“sufficient to differentiate these taxa at the rank of genus” (Sato et al. 2008: 383). Sufficient remains
+undefined. They continue: “…there is no absolute standard for the amount of sequence difference that
+justifies generic status” (Sato et al. 2008: 386, italics mine). So, somehow, and somewhat oddly in this case,
+sufficiency can be estimated from morphology, whereas no such estimate can be made for the molecular data.
+In contrast, Kim et al. suggested that “Filos agilis and Nanos amicus were similar in morphology…”( Kim et
+al. 2010: 181) and “similar in morphology to Siluania monomastiga” (Kim et al. 2010: 187), but “Although
+Filos, Nanos, and Siluania share many morphological features, SSU rDNA gene sequence differences among
+these flagellates are over 8%...” (Kim et al. 2010: 187). In this case, sharing of “many morphological
+features” is trumped by the 8% sequence difference. None of these arguments possess any logic whatsoever –
+they are merely arbitrary choices plucked, as it were, from thin air.
+For Kim et al., as well as various diatomists, the abundance of monotypic genera is (positively) misleading
+with respect to classification, obscuring rather than clarifying relationships. Monotypic genera (and higher
+taxa) are reflections of ignorance (unknown relationships) rather than knowledge (Williams 2009).
+
+SYNEDRA BEROLINENSIS AND MONOTYPIC TAXA
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 121
+
+Evidence for Classification of Synedra berolinensis
+For evidence, I present an analysis of available molecular data relevant to the taxonomic position of Synedra
+berolinensis. This should not be taken as an exhaustive study but one undertaken simply to demonstrate some
+points about classification and evidence. In brief, 170 diatom SSU rRNA sequences were obtained from
+GenBank and aligned using BioEdit (1997–2004) from ClustalW’s accessory applications (ClustalW was
+implemented using BioEdit’s default options, Larkin et al. 2007). As in a previous analysis (Williams 2009), 7
+species were used as outgroups: Arcocellulus mammifer Hasle, Stosch & Syvertsen (1983: 55), Cymatosira
+belgica Grun. in Van Heurck (1881: pl. 45, fig. 38–41), Extubocellulus spinifer (Hargraves & Guillard 1974:
+168) Hasle, Stosch & Syvertsen (1983: 70), Minutocellus polymorphus (Hargraves & Guillard 1974: 166)
+Hasle, Stosch & Syvertsen (1983: 43), Minutocellus sp. CCMP1701?, Papiliocellulus elegans Hasle, Stosch
+& Syvertsen (1983: 64) and Talaroneis posidoniae Kooistra & Stefano (in Kooistra et al. 2004: 60). The final
+alignment yielded 2929 bases of which 2365 were uninformative, leaving 564 bases (19%) useful for
+determining relationships (the ‘pack’ option in the computer program NONA, designed to remove
+uninformative characters from any alignment, yielded a final matrix of 561 characters, discarding 2368, three
+more than Winclada for reasons that were not apparent, Nixon 1999–2002). Parsimony analysis of the 561
+characters (using NONA from within Winclada, Goloboff 1999) yielded 58 trees of length 3069, a
+consistency index (ci) of 47 and a retention index (ri) of 84. The consensus tree of the 58 most parsimonious
+trees has a length of 3123, ci 46 and ri of 83, 54 steps longer than each most parsimonious tree but with nearly
+identical ci and ri values (alignments and Nexus files available).
+
+0
+
+1
+
+Staurosira elliptica
+Opephora gunter-grassei
+
+2
+
+α
+
+3
+
+Nanofrustulum#1
+Nanofrustulum#2
+Fragilaria pinnata
+Nanofrustulum#3
+Nanofrustulum#4
+4
+Pseudostaurosiropsis sp. D-79
+Pseudostaurosiropsis sp. D-07
+5
+Staurosira sp. I-141
+Pseudostaurosiropsis medlini
+Pseudostaurosiropsis sp. F-03
+Pseudostaurosiropsis sp. I-01
+Punctastriata sp. E-05
+
+FIGURE 5. First part of one section of the consensus tree from the analysis undertaken herein, showing only taxa that related to the
+Staurosira-like groups, e.g. Staurosira, Martyana, Staurosirella, Punctastriata and Pseudostaurosira. The total tree (Figures 5, 6a and
+b) has 17 nodes (0–16). Figure 5 has nodes 0–5; this part of the tree connects to Figure 6a via the branch that terminates with the
+Greek letter alpha (α). Note the monophyly of Nanofrustulum (plus Fragilaria pinnata).
+
+Only one section of the resulting consensus tree is illustrated here (the complete tree is available on
+request), showing only those taxa related to or thought to be related to Staurosira-like taxa: Staurosira,
+Martyana Round, Staurosirella, Punctastriata D.M. Williams & Round and Pseudostaurosira D.M. Williams
+& Round, among others. That section of the tree has 16 nodes (excluding basal node 0). For ease of
+
+122 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WILLIAMS
+
+presentation, the section has been split into three parts: Fig. 5, nodes 0–5, Fig. 6a, nodes 6–10, and 6b, nodes
+11–16. The tree in Fig. 5 connects to Fig. 6a via the branch that terminates with the Greek letter alpha (α); Fig.
+6a joins to Fig. 6b via the branch that terminates with the Greek letter beta (β). I only briefly discuss these
+topologies to highlight a few general conclusions. The most obvious point to make is that with respect to the
+entire tree, generic names are scattered throughout the topology making its understanding less than intuitive.
+Clearly either current names do not reflect molecular relationships or molecular data do not reflect taxon
+relationships as represented by their names. Given that the morphological data remain unanalysed, it is, as yet,
+impossible to learn if there is any real conflict between the morphological and molecular data.
+
+&
+
+Figure 6a
+6
+
+Staurosira sp. D-20
+Staurosira sp. D-10
+
+7
+8
+
+Synedra berolinensis
+9
+
+10
+
+Staurosira cf. mutabilis (1)
+Staurosira cf. mutabilis (2)
+Staurosira cf. mutabilis (3)
+
+β
+β
+
+11
+
+Figure 6b
+
+Staurosira construens (1)
+Punctastriata sp. D-05
+12
+Staurosirella sp. D-108
+13
+14
+15
+Punctastriata sp. AT194gel4
+Punctastriata sp. C-07
+Pseudostaurosiropsis sp. D-79
+16
+
+Staurosira construens (2)
+Staurosirella pinnata
+
+FIGURE 6. Second part of one section of the consensus tree from the analysis undertaken herein, split into two: a and b. Figure 6a
+joins to Figure 6b via the branch that terminates with the Greek letter beta (β). Figure 6a has nodes 6–10, Figure 6b has nodes 11–16.
+Note position of Synedra berolinensis as basal to all species from node 9.
+
+Figure 6 has two items of interest. First, node 3 groups all the specimens named Nanofrustulum Round,
+Hallsteinsen & Paasche alongside specimens named Fragilaria pinnata Ehrenb. (1843: 127) (these group
+together in Rampen et al. 2007: figure 2). This offers a prediction. Investigation of the specimens named
+Fragilaria pinnata will show them to have the characters of Nanofrustulum—which, of course, depends on
+knowing the characters of Nanofrustulum (Witkowski et al. 2010; also Sar & Sunesen 2003, Li et al. 2008 and
+Morales 2001: 115). Second, node 4 groups seven species, of which 5 are named Pseudostaurosiropsis E.
+Morales (2001: 116). This provides a second prediction. The specimens named Staurosira sp. I-141 and
+Punctastriata sp. E-05 will be found to have the characters of Pseudostaurosiropsis—which also depends
+upon knowing the characters of Pseudostaurosiropsis.
+Figure 7b appears to be a jumble of taxon names and few generalities can be drawn from this assemblage
+of species except to note that, somewhere, there is, obviously, a problem. That problem may be related to
+sampling, method of analysis, identification of specimens, previous characterisation of species and so on, but
+one must assume the problem is empirical: it can be investigated. From the perspective of the question
+addressed in this paper, Fig. 6a includes Synedra berolinensis as sister to Staurosira cf. mutabilis plus all taxa
+
+SYNEDRA BEROLINENSIS AND MONOTYPIC TAXA
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 123
+
+in Fig. 6b. So: How can we classify Synedra berolinensis from this result?
+There are a number of options all based on identifying monophyletic groups, those circumscribed by
+particular nodes (Williams 2009). On might be tempted to name all species from node 9 onwards as members
+of one genus. That would leave three basal to that group: Synedra berolinensis, Staurosira sp. D-10 and
+Staurosira sp. D-20. Assuming that the latter two names are provisional, a sensible option for the moment,
+would be to simply ignore them, leaving Synedra berolinensis basal to node 9 and the possibility of naming it
+as a monotypic group as its relationships beyond node 8 are unknown. Yet this seems to be unsatisfactory as
+the scattering of names from node 6 onwards suggests that nothing is yet really known of these relationships
+and, for pragmatic purposes, all the species should be in the same genus, including Synedra berolinensis. But
+this too depends on knowing the characters of the included species.
+
+Discussion
+These molecular data do not unequivocally resolve the problem of the classification of Synedra berolinensis.
+It is, of course, possible to classify the resulting tree but as can be seen above, that too is imprecise, even if
+proper attention is given to monotypic groups (Williams 2009).
+The imprecision of these results to one side, this highlights a major drawback to molecular data: there is,
+as yet, no real evidence presented to support any of the nodes. In morphological systematics, when data are
+analysed, evidence (synapomorphies) is presented to support each node and subsequent work might focus on
+whether those characters are indeed synapomorphies or not: in short, the matter can be investigated. But with
+molecular data, there is no real evidence to support any of the nodes, or at least the evidence is not specified.
+With molecular studies any subsequent analyses are seen as superior simply (or usually) because there are
+more data and more taxa and therefore somehow must be better (Mooi and Gill 2010 and Mooi et al. 2011,
+present some general arguments critical to these matters). Thus, if node 9 was supported by some tangible data
+(rather than a vague statistic) one might then thereby determine whether Synedra berolinensis does or does not
+have the relevant characters.
+Why is Synedra berolinensis so hard to classify? From the point of view of principles, it is not—just that
+these data, so far, are insufficient to determine its relationships. One might think, for Synedra berolinensis at
+least, it is time to return to morphology, data which, as noted above, have barely accumulated in any
+meaningful way. Morphology, and its analysis (the identification of synapomorphies), seems just too
+important to dismiss in spite of those who misunderstand its role (e.g. Mann et al. 2008: 66: “However,
+sampling for molecular analysis is still too meagre and patchy to allow us to test fully the subjective,
+morphology-based classification of British Sellaphora that we have given here and it will probably be several
+years before enough isolates of all the demes are available”, italics mine). Morphology could only be
+understood as ‘subjective’ as long as it remains unanalysed.
+
+References
+Agardh, C.A. (1812) Dispositio Algarum Suecae. Litteris Berlingianis, Lundae, 45 pp.
+http://dx.doi.org/10.5962/bhl.title.45472
+Bitter, F.A.G. (1919) Ernst Lemmermann. Abhandlungen herausgegben vom Naturwissenschaftlichen Verein zu Bremen
+24: 273–291.
+Bukhtiyarova, L.N. (1995) New taxonomical combinations of diatoms (Bacillariophyta). Algologia 5: 396–403.
+Cain, A.J. (1959) The post-Linnaean development of taxonomy. Proceedings of the Linnean Society of London 170:
+234–244.
+http://dx.doi.org/10.1111/j.1095-8312.1959.tb00857.x
+Cleve, P.T. & Grunow, A. (1880) Beiträge zur Kenntniss der Arctischen Diatomeen. Kongliga Svenska-Vetenskaps
+Akademiens Handlingar 17(2):121 pp., 7 pls.
+
+124 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WILLIAMS
+
+Cleve-Euler, A. (1953) Die Diatomeen von Schweden und Finnland. Part II, Arraphideae, Brachyraphideae. Kongliga
+Svenska Vetenskaps-Akademiens Handligar ser. 4, 4 (1): 1–158.
+Cronberg, G. (1982) Phytoplankton changes in Lake Trummen induced by restoration. Folia Limnologica Scandinavica
+18: 1–119.
+Ehrenberg, C.G. (1832) Über die Entwickelung und Lebensdauer der Infusionsthiere; nebst ferneren Beiträgen zu einer
+Vergleichung ihrer organischen Systeme. Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin
+1831: 1–154, 4 pls.
+Ehrenberg, C.G. (1843) Verbreitung und Einfluſs des mikroskopischen Lebens in Süd- und Nord-Amerika.
+Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin 1841: 291–445, 4 pls.
+Gaul, U., Geissler, U., Henderson, M., Mahoney, R. & Reimer, C.W. (1993) Bibliography on the fine-structure of diatom
+frustules (Bacillariophyceae). Proceedings of the Academy of Natural Sciences, Philadelphia 144: 69–238.
+http://www.jstor.org/stable/4065006
+Gemeinhardt, K. (1926) Die Gattung Synedra in systematischer, zytologischer und ökoloischer Beziehung.
+Pflanzenforschung 6: 1–88.
+Goloboff, P. (1999) NONA (NO NAME) ver. 2. Published by the author, Tucumán, Argentina.
+Hallegraeff, G.M. & Burford, M.A. (1996) Some new or little known nanoplankton diatom cultured from tropical and
+subtropical Australian shelf waters. Nova Hedwigia, Beiheft 112: 329–342.
+Hargraves, P.E. & Guillard, R.R.L. (1974) Structural and physiological observations on some small marine diatoms.
+Phycologia 13:163–172.
+http://dx.doi.org/10.2216/i0031-8884-13-2-163.1
+Hasle, G.R., Stosch, H.A. von and Syvertsen, E.E. (1983) Cymatosiraceae, a new diatom family. Bacillaria 6: 9–156.
+Héribaud, J. (1902) Les Diatomées Fossiles d'Auvergne. Librairie des Sciences Naturelles, Paris.
+Héribaud, J. (1903) Les Diatomées Fossiles d'Auvergne. [Second Mémoire] Librairie des Sciences Naturelles, Paris.
+Hustedt, F. (1930) Bacillariophyta (Diatomeae), in: Pascher, A. (ed.) Die Susswasser-Flora Mitteleuropas, Zweite
+Auflage, vol. 10, 1–466, Jena, Gustav Fischer.
+Hustedt, F. (1932) Die Kieselalgen Deutschlands, Osterreichs und der Schweiz unter Berüchsichtigung der übrigen
+Länder Europas sowie der angrenzenden Meeresgebite, in Rabenhorst, L. (ed.), Krypogamen-Flora von
+Deutschland, Osterreich und der Schweiz, Band 7(2), 177–320, Leipzig, R. Reisland.
+Hustedt, F. (1942) Diatomeen, in: Thienemann, A. (ed.), Die Binnengewässer, Einzeldarstellungen aus der Limnologie
+und ihren Nachbargebieten von G. Huber-Pestalozzi, Das Phytoplankton des Süßwassers, Systematik und Biologie,
+volume 16, 367–549, Stuttgart, E. Schweizerbart'sche Verlagsbuchhandlung.
+Jahn, R. (2002) Otto Müller’s names of diatoms (Bacillariophyceae) and extant original material at the Botanical
+Museum Berlin-Dahlem (B). Willdenowia 32: 155–173.
+Jensen, N.G. (1985) The Pennate diatoms: A translation of Hustedt’s “Die Kieselalgen, 2. Teil”, with a supplement by
+Norman G. Jensen. Koenigstein, Koeltz Scientific Books.
+Kim, E., Yubukib, N., Leander, B.S. & Graham, L. E. (2010) Ultrastructure and 18S rDNA Phylogeny of Apoikia
+lindahlii comb. nov. (Chrysophyceae) and its epibiontic protists, Filos agilis gen. et sp. nov. (Bicosoecida)and Nanos
+amicus gen. et sp. nov.(Bicosoecida). Protist 161: 177–196.
+http://dx.doi.org/10.1016/j.protis.2009.09.003
+Kociolek, J.P., Theriot, E.C. & Williams, D.M. (1987) Inferring diatom phylogeny: A cladistic perspective. Diatom
+Research 4: 289–300.
+http://dx.doi.org/10.1080/0269249X.1989.9705077
+Kooistra, W., Forlani, G., Sterrenburg, F.A.S. and De Stefano, M. (2004). Molecular phylogeny and morphology of the
+marine diatom Talaroneis posidoniae gen. sp. nov. (Bacillariophyta) advocate the return of the Plagiogrammaceae to
+the pennate diatoms. Phycologia 43: 58–67.
+http://dx.doi.org/10.2216/i0031-8884-43-1-58.1
+Krammer, K. & Lange-Bertalot, H. (1991) Susswasserflora von Mitteleuropa. Bacillariophyceae 3. Teil: Centrales,
+Fragilariaceae, Eunotiaceae, In: Ettl, H, Gerloff, J., Heynig, H. & Mollenhauer, D. (eds), Süßwasserflora von
+Mitteleuropa, 2 (3), Stuttgart & Jena, G. Fischer.
+Krammer, K. & Lange-Bertalot, H. (2000) Susswasserflora von Mitteleuropa. Bacillariophyceae 3 [2nd edition]. Teil:
+Centrales, Fragilariaceae, Eunotiaceae, in: Süßwasserflora von Mitteleuropa Ettl, H, Gerloff, J., Heynig, H. &
+Mollenhauer, D. (eds), 2 (3), Spektrum Akademischer Verlag, Heidelberg & Berlin.
+Krieger, W. (1927) Zur Biologie des Flussplanktons. Untersuchungen über das Potamoplankton des Havelgebietes.
+Pflanzenforschung 10: 1–61.
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls
+Lange-Bertalot, H. (1989) Können Staurosirella, Punctastriata und weitere Taxa sensu Williams & Round als Gattungen
+der Fragilariaceae kritischer Prüfung standhalten? Nova Hedwigia 49: 79–106.
+Lange-Bertalot, H. (1993) 85 neue taxa und über 100 weitere neu definierte Taxa ergänzend zur Süβwasserflora von
+
+SYNEDRA BEROLINENSIS AND MONOTYPIC TAXA
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 125
+
+Mitteleuropa Vol. 2/1-4. Bibliotheca Diatomologica 27.
+Larkin, M.A., Blackshields, G., Brown, N.P., Chenna, R., McGettigan, P.A., McWilliam, H., Valentin, F., Wallace, I.M.,
+Wilm, A., Lopez, R., Thompson, J.D., Gibson, T.J., & Higgins, D.G. (2007) Clustal W and Clustal X version 2.0.
+Bioinformatics 23:2947–2948.
+http://dx.doi.org/10.1093/bioinformatics/btm404
+Lee, J.J., Reimer, C.W. & McEnery, M.E. (1980) The identification of diatoms isolated as endosymbionts from larger
+Foraminifera from the Gulf of Eilat (Red Sea) and the description of 2 new species, Fragilaria shiloi sp. nov. and
+Navicula reisii sp. nov. Botanica marina 23: 41–48.
+Lemmermann, E. (1900a) Beiträge zur Kenntnis der Planktonalgen. III. Neue Schwebalgen aus der Umgegend von
+Berlin. Bericht der Deutschen Botanischen Gessellschaft 18: 24–32.
+Lemmermann, E. (1900b) Beiträge zur Kenntnis der Planktonalgen. IX. Lagerheimia marssonii nov. spec., Centratractus
+belonophora (Schmidle) nov. gen. et spec., Synedra limnetica nov. spec., Marssoniella elegans nov. gen. et spec.
+Bericht der Deutschen Botanischen Gessellschaft 18: 272–275.
+Lemmermann, E. (1904) Beiträge zur Kenntnis der Planktonalgen. XIX. Das Phytoplankton der Ausgrabenseen bei Plön.
+Forschungsberichte aus der Biologischen Station zu Plön 11: 289–311.
+Lemmermann, E. (1906) Belonastrum-Gruppe: Synedra revalensis. Bericht der Deutschen Botanischen Gessellschaft 24:
+537–538.
+Li, Y., Gao, Y.-H. & Lü, S.-H. (2008) Nanofrustulum, a new record of nanodiatom genus in China. Journal of
+Systematics & Evolution 46: 750–753.
+Mann, D.G., Thomas, S.J. & Evans, K.M. (2008) Revision of the diatom genus Sellaphora: a first account of the larger
+species in the British Isles. Fottea 8: 15–78.
+Medlin, L.K. (1997) Can molecular techniques help define species limits? Diatom 13: 19–23.
+Mooi, R.D. & Gill, A.C. (2010) Phylogenies without synapomorphies—A crisis in fish systematics: Time to show some
+character. Zootaxa 2450: 26–40.
+Mooi, R.D., Williams, D.M. & Gill, A.C. (2011) Numerical cladistics, an unintentional refuge for phenetics – a reply to
+Wiley et al. Zootaxa 2946: 17–28
+Morales, E.A. (2001) Morphological studies in selected fragilaroid diatoms (Bacillariophyceae) from Connecticut waters
+(U.S.A.). Proceedings of the Academy of Natural Sciences, Philadelphia 151: 105–120.
+http://dx.doi.org/10.1635/0097-3157(2001)151[0105:MSISFD]2.0.CO;2
+Morales, E.A. (2003) On the taxonomic status of the genera Belonastrum and Synedrella proposed by Round and
+Maidana (2001). Cryptogamie Algologie 24: 277–288.
+Morales, E.A. & Manoylov, K.M. (2006) Staurosirella incognita Morales et Monoylov sp. nov., a non-spiny species
+from North America, with an emended description of Staurosirella Williams et Round (Bacillariophyceae), in:
+Witkowski, A. (ed.), Proceedings of the 18th International Diatom Symposium, pp. 325–326.
+Nitzsch, C.L. (1817) Beitrag zur Infusorienkunde oder Naturbeschreibung der Zerkarien und Bazillarien. Neue Schriften
+der naturforschenden Gesellschaft zu Halle 3(1):128 pp., 6 pls.
+Nixon, K.C. (1999–2002) WinClada ver. 1.0000. Published by the author, Ithaca, NY, USA.
+Round, F.E. (1979) The classification of the genus Synedra. Nova Hedwigia, Beiheft 64: 135–146.
+Round, F. E., Crawford, R.M. & Mann, D.G. (1990) The Diatoms - Biology and morphology of the genera. Cambridge,
+Cambridge University Press.
+Round, F.E., Hallsteinsen, H. & Paasche, E. (1999) On a previously controversial “fragilarioid” diatom now placed in a
+new genus Nanofrustulum. Diatom Research 14: 343–356.
+http://dx.doi.org/10.1080/0269249X.1999.9705476
+Round, F.E. & Maidana, N.I. (2001) Two problematic freshwater araphid taxa re-classified in new genera. Diatom 17:
+21–28.
+Sar, E.A. & Sunesen, I. (2003) Nanofrustulum shiloi (Bacillariophyceae from the Gulf of San Matías (Argentina):
+Morphology, distribution and comments about nomenclature. Nova Hedwigia 77: 399–406.
+http://dx.doi.org/10.1127/0029-5035/2003/0077-0399
+Sato, S., Mann, D.G., Matsumoto, S. & Medlin, L.K. (2008) Pseudostriatella (Bacillariophyta): a description of a new
+araphid diatom genus based on observations of frustule and auxospore structure and 18S rDNA phylogeny.
+Phycologia 47: 371–391.
+http://dx.doi.org/10.2216/08-02.1
+Schmidt, A. et al. (1914) (eds) Atlas der Diatomaceenkunde Leipzig, R. Reisland, Series VII (Heft 76):pls. 301–304.
+Simonsen, R. (1987) Atlas and catalogue of the diatom types of Friedrich Hustedt. Berlin & Stuttgart, J. Cramer.
+Smith, W. (1853) Synopsis of British Diatomaceae, volume 1. John Van Voorst, London.
+Van Heurck, H. (1881) Synopsis des Diatomées de Belgique. Atlas. Ducaju & Cie., Anvers. pls 31–77.
+Van Heurck, H. (1885) Synopsis des Diatomées de Belgique. Texte. Martin Brouwers & Co., Anvers. 235 pp.
+Williams, D.M. (2009) ‘Araphid’ diatom classification and the ‘Absolute Standard’. Acta Botanica Croatica 68: 455–
+
+126 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+WILLIAMS
+
+463.
+Williams, D.M. (2011) Synedra, Ulnaria: definitions and descriptions – a partial resolution. Diatom Research 26: 149–
+153.
+http://dx.doi.org/10.1080/0269249X.2011.587646
+Williams, D.M. & Ebach, M.C. (2007) The Foundations of Systematics & Biogeography. Springer.
+Williams, D.M. & Kociolek, J.P. (2011) An overview of diatom classification with some prospects for the future, in:
+Seckbach, J. & Kociolek, J.P. (Eds), The Diatom World, Dordrecht, The Netherlands, Springer, pp. 47–91.
+http://dx.doi.org/10.1007/978-94-007-1327-7_3
+Witkowski, A., Lange-Bertalot, H. & Metzeltin, D. (2000) Diatom flora of marine coasts I. Iconographia Diatomologica 7.
+Witkowski, A., Riaux-Gobin, C. & Daniszewska-Kowalczyk, G. (2010) New marine littoral diatom species
+(Bacillariophyta) from Kerguelen Islands. II. Heteropolar species of Fragilariaceae. Vie et Milieu—Life &
+Environment 60: 265–281.
+Zabelina, M., Kiselev, M., Proschkina-Lavrenko, I.A. & Sheshukova, V.S. (1951) Diatomovie Vodorosli. Opredelitel’
+Presnovodnyh Vodoroslej SSSR, 4, Moskwa, Nauka.
+
+SYNEDRA BEROLINENSIS AND MONOTYPIC TAXA
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 127
+
+

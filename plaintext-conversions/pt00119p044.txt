@@ -1,0 +1,512 @@
+Phytotaxa 119 (1): 33–44 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.119.1.3
+
+A revision of Welfia (Arecaceae)
+ANDREW HENDERSON1 & ISABEL VILLALBA2
+1
+
+The New York Botanical Garden, Bronx, NY 10458–5126, U.S.A.
+Email: ahenderson@nybg.org
+2
+Jardín Botánico de Missouri, Prolongación Bolognesi 399, Oxapampa, Pasco, Perú & Instituto Científico Michael Owen Dillon,
+Arequipa, Perú
+Email: i.villalba.v@gmail.com
+
+Abstract
+A taxonomic revision of the neotropical palm genus Welfia based on morphological data and morphometric methods was
+carried out. One hundred and five herbarium specimens were scored for one qualitative variable and 19 quantitative
+variables. Based on the qualitative variable, fruit shape, two species are recognized. One (W. regia) is widely distributed
+in Central America and northwestern South America from Nicaragua to Colombia and Ecuador; the second, described
+here (W. alfredii) is restricted to a small area of central Peru. Nomenclature, descriptions, and distribution maps are
+provided for each species, and images of the type specimen of the new species are also provided.
+Key words: Neotropics, geonomoid palms, Palmae
+
+Introduction
+In establishing the genus Welfia, Wendland (1869: 242) wrote that he knew of two species, W. georgii from
+Costa Rica and W. regia from Colombia. Neither species was described nor specimens cited. André (1871) gave
+a description and illustration of W. regia and also described W. georgii (in the form of a quotation from a letter
+from Wendland). Hence two species are validly published and usually recognized: W. regia Wendland ex André
+(1871: 93) and W. georgii Wendland in André (1871: 94). A third species, W. microcarpa Burret (1930: 129)
+was added later, but this is poorly known and was placed as a synonym of W. georgii by Wessels Boer (1968).
+Welfia is a member of the geonomoid group of palms, formally named the Geonomateae Luerssen (1882:
+342) (Dransfield et al. 2008). The geonomoids are characterized by their flowers sunken in pits along the
+rachillae, with each pit covered before anthesis by a proximal lip. Although there have been disagreements
+over generic boundaries within the group (e.g., Moore 1966; Wessels Boer 1968), these are now mostly
+resolved (Dransfield et al. 2008). The group comprises six genera and 103 species: Asterogyne Wendland ex
+Hooker (1883: 914; 5 species, Stauffer et al. 2003), Calyptrogyne Wendland (1859: 72; 18 species, Henderson
+2005), Calyptronoma Grisebach (1864: 518; 3 species, Zona 1995), Geonoma Willdenow (1805: 174; 68
+species, Henderson 2011), Pholidostachys Wendland ex Hooker (1883: 915; 7 species, Henderson 2012), and
+Welfia (2 species, this revision). Roncal et al. (2010) placed Welfia and Pholidostachys as sister genera, and
+these two as sister to the remaining four genera (Asterogyne, Calyptronoma, Calyptrogyne, and Geonoma).
+Welfia has always been considered as a small and uncomplicated genus, comprising two (e.g., Wessels
+Boer 1968) or one (e.g., Henderson et al. 1995) species. However, the most recent monographer (Wessels
+Boer 1968) used only eight specimens on which to base his revision, all from either Costa Rica or Colombia
+and none from Nicaragua, Panama, Ecuador, or Peru, where the genus also occurs. In the present revision, 105
+specimens were examined from throughout the range of the genus. Welfia, as revised here, comprises two
+species.
+Accepted by Maximilian Weigend: 3 July 2013; published: 1 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+33
+
+Materials and Methods
+Data matrix construction
+One hundred and five specimens from the following herbaria were examined and scored: AAU, BH, BM,
+COL, F, FTG, HOXA, K, MO, NY, and US (herbarium abbreviations from Thiers, continuously updated).
+Specimens from AAU and FTG were not examined, but images used from institutional websites. Sometimes,
+more than one duplicate of a collection was used in scoring. Morphological attributes that could be scored or
+measured from specimens were divided into qualitative (binary or multistate) or quantitative (continuous,
+meristic) variables. A search was made for qualitative variables in which two or more states of the variable
+were present among the specimens and could be scored unequivocally. This search was based on a survey of
+specimens. A dissecting microscope was used to survey floral variables. One qualitative variable was found
+and scored (Appendix I).
+A search was made for quantitative variables that could be taken from specimen labels (where, in case of
+ranges, median values were used) or measured from specimens. Variables were counted or measured with a
+ruler, digital calipers, or protractor. Nineteen quantitative variables were found and scored (Appendix II).
+Three are from stems, five from leaves, and eleven from reproductive structures. Fifteen are continuous and
+four are meristic.
+A data matrix was constructed with specimens as rows and variables as columns (http://sciweb.nybg.org/
+Science2/res/Henderson/Welfia.xls.zip). Additional columns recorded a specimen identification number,
+collector, collector’s number, herbarium, country, latitude, longitude, and elevation. Latitude and longitude
+were taken from the specimen label, when available. On specimens lacking coordinates, these were estimated
+from the collection locality using either maps or electronic gazetteers.
+For each of the 105 specimens in the matrix, three spatial variables and 19 morphological variables were
+recorded, giving a potential total of 2,200 data points. However, approximately 65% of these potential data is
+missing in the matrix. Welfia has particularly high levels of missing data compared to other genera (e.g., 40%
+missing data in Geonoma; Henderson 2011) because the plants are so large that available collections are
+usually fragmentary. Because of this, data for most quantitative variables were taken from specimen labels,
+and these are recorded with varying degrees of accuracy.
+Taxonomic treatment
+A detailed description of Welfia was recently given by Dransfield et al. (2008) and is not repeated here.
+Only a description based on variables from the matrix is given in the Taxonomic Treatment section. However,
+this is preceded by a discussion of morphology of the genus.
+For each species, complete synonymy is given. Most types of names of Welfia were examined for this
+study and these are followed by a “!”. Those which were not examined are followed by “n.v.”. Excluded
+Names are listed in Appendix III. Images of types of the new taxon deposited at NY are available at the
+website http://www.nybg.org/bsci/herbarium_imaging/. A numerical list of taxa and a list of specimens
+examined, ordered by collector, are given in Appendix IV.
+
+Results
+Morphology
+The genus description given below in the Taxonomic Treatment section is based on the list of characters
+and quantitative variables used in this study (Appendices I and II). In the following discussion, morphology is
+treated in more detail, and the morphology of several attributes of Welfia not used in delimiting species is
+discussed.
+Stems are always solitary. Stem height ranges from 4.4–22.5 m and diameter from 10.0–25.0 cm. Leaf
+number ranges from 7–26 per stem, with a mean of 15.
+
+34 •
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+HENDERSON & VILLALBA
+
+Leaves consist of sheaths, petioles, rachises, and pinnae. Sheaths are open and do not form crownshafts,
+and are usually rather fibrous along the margins. They are large and woody and range from 23.0–165.0 cm in
+length. Petioles are not well–developed. They range in length from 5.0–83.0 cm, but the higher figure given
+here may include part of the sheath. In general, petioles are rather short in Welfia and there may be some
+confusion between the sheath and petiole, leading collectors to over–estimate petiole length. Rachises are
+well-developed and elongate, ranging in length from 279.0–570.0 cm. Leaves are pinnate and never
+undivided. There are 33–90, regularly arranged, lanceolate pinnae per side of the rachis.
+Inflorescences of Welfia are infrafoliar. They can be branched to one or two orders and are pendulous at
+anthesis. Rachillae number ranges from 7–16 and these are rather long and thick, ranging from 46.5–110.0 cm
+long and 12.2–31.9 mm wide. Flower pits are covered by proximal lips before anthesis. Flowers are arranged
+in triads, at least on the proximal parts of the rachillae. Commonly distal parts of the rachillae bear staminate
+flowers only. Staminate flowers have three, free, narrow sepals; three, valvate petals that are slightly connate
+at the bases; and 33–46 stamens. The filaments are connate for most of their length into a tube, but are free at
+the apices. Pistillate flowers have similar sepals and petals to those of staminate flowers. There is a
+staminodial tube with lobed apices, and these lobes are exerted at anthesis and spread in a star–shaped
+fashion. There is an elongate style with three, spreading stigmas. Inflorescences of all species appear to be
+protandrous, judged from specimens.
+Fruits are either globose, not or scarcely dorsiventrally compressed, scarcely ridged laterally and blunt
+apically, and with a contracted base; or almond-shaped, dorsiventrally compressed, ridged laterally especially
+toward the apex, pointed apically, without a contracted base. Eophylls are bifid.
+
+Taxonomic Treatment
+Welfia Wendland (1869: 242). Type:—Welfia regia Wendland ex André
+Plants 13.9(6.0–25.0) m tall. Stems 9.8(4.4–22.5) m tall, 17.1(10.0–25.0) cm in diameter. Leaves 15(7–26)
+per stem; sheaths 93.2(23.0–165.0) cm long; petioles 36.7(5.0–83.0) cm long; rachises 446.7(279.0–570.0)
+cm long; pinnae 73(33–90) per side of rachis. Inflorescences prophylls 99.2(83.0–113.0) cm long; peduncular
+bracts 88.8(65.0–105.0) cm long, inserted 2.4(1.5–4.5) cm above the prophyll; peduncles 17.3(8.0–30.0) cm
+long, 44.9(27.6–59.1) mm diameter; rachillae 10(7–16), 71.3(46.5–110.0) cm long, 22.2(12.2–31.9) mm
+diameter; stamens 40(33–46); fruits globose, not or scarcely dorsiventrally compressed, scarcely ridged
+laterally and blunt apically, with a contracted base, or almond-shaped, dorsiventrally compressed, ridged
+laterally especially toward the apex, pointed apically, without a contracted base, 34.2(28.6–40.8) mm long,
+15.8(10.8–28.0) mm diameter.
+Key to the species of Welfia
+1
+-
+
+Fruits globose, not or scarcely dorsiventrally compressed, scarcely ridged laterally and blunt apically, with a contracted base, 25.9(24.8–28.0) mm diameter; central Peru ............................................................................ W. alfredii
+Fruits almond–shaped, dorsiventrally compressed, ridged laterally especially toward the apex, pointed apically,
+without a contracted base, 15.2(10.8–18.2) mm diameter; Honduras, Nicaragua, Costa Rica, Panama, western
+Colombia, western Ecuador ...............................................................................................................................W. regia
+
+1. Welfia alfredii Henderson & Villalba, sp. nov. (Figs. 1 & 2)
+It differs from Welfia regia in its fruits which are globose, not or scarcely dorsiventrally compressed, and scarcely ridged
+laterally.
+Type:—PERU. Pasco: 18 km NE of Villa Rica on carretera marginal, 1550 m, 8 September 1998, A. Henderson, E.
+Ferreira & M. Arakaki 3001 (holotype USM!, isotype NY!).
+
+A REVISION OF WELFIA (PALMAE)
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+• 35
+
+FIGURE 1. Welfia alfredii A. Habit. B. Seedling. C–D. Infructescence. E. Fruit in frontal view. F. Fruit in dorsiventral view. G.
+Staminate flower in frontal view. H. Staminate flower dorsal view. I. Stamen. (drawings by I. Villalba; C–F from Vásquez
+35870, G, H, I from Valenzuela 19375).
+
+36 •
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+HENDERSON & VILLALBA
+
+FIGURE 2. Welfia alfredii. A Habitat in montane forest at Bosque de Protección Pui–Pui. B. Habit. C. Stem with leaf scars. D.
+Infructescence. E. Peduncle. F. Fruits. (Images by I. Villalba, L. Valenzuela and R. Vásquez).
+
+Plants 14.7(9.0–19.0) m tall. Stems 7.5(5.0–12.0) m tall, 17.7(14.0–20.0) cm in diameter. Leaves 8(7–9) per
+stem; sheaths 74.1(64.0–90.0) cm long; petioles 35.1(34.4–36.0) cm long; rachises 463.5(360.0–570.0) cm
+long; pinnae 76(65–85) per side of rachis. Inflorescences prophylls 83.0 cm long; peduncular bracts 65.0 cm
+long; peduncles 22.2(18.0–24.5) cm long; rachillae 12(8–16), 72.1(55.0–100.0) cm long, 25.4(19.4–28.1) mm
+diameter; stamens 45(44–46); fruits globose, not or scarcely dorsiventrally compressed, scarcely ridged
+laterally and blunt apically, with a contracted base, 34.3(33.1–35.9) mm long, 25.9(24.8–28.0) mm diameter.
+
+FIGURE 3. Distribution maps of Welfia regia and W. alfredii.
+
+A REVISION OF WELFIA (PALMAE)
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+• 37
+
+Distribution and habitat. From 9°25’–10°40’S and 74°35’–75°19’W in central Peru (Huánuco, Pasco,
+Ucayali) on the Cordillera Oriental, Cordillera El Sira, and the eastern flank of the Cordillera Yanachaga at
+1502(1391–1725) m elevation in montane rainforest or cloud forest (Fig. 3).
+On Yanachaga Welfia alfredii is found growing in wet pre–montane forest and prefers slightly clayey
+sandy soils, where it forms gregarious populations. It occurs in a forest dominated by large trees of Croton
+matourensis (Euphorbiaceae) and also other palms such as Socratea exorrhiza, Dictyocaryum lamarckianum,
+and Euterpe luminosa. The undergrowth is sparse, with Melastomataceae shrubs, ferns (Cyathea sp.), palm
+shrubs as Geonoma longepedunculata and juveniles of S. exorrhiza and W. alfredii.
+Taxonomic notes. Only eight specimens of Welfia alfredii were examined in this study. It was first collected
+by Gentry (Gentry 63540) in 1988. A second collection (Rainer 11231188) was made in the same year, and
+briefly described by Rainer (1995) as Welfia sp. The third collection, the type, was made by Henderson
+(Henderson et al. 3001) in 1998. All three collectors realized that these Peruvian plants were somehow different
+(Gentry, unpublished report to USAID; Rainer 1995; Henderson et al. 1995) but did not pursue the problem.
+The most recent specimens collected come from the Parque Nacional Yanachaga Chemillén.
+The most obvious difference between Welfia alfredii and W. regia is the shape of the fruits (Fig. 4). Only
+three of the specimens examined have mature fruits (Graham 6031, Vásquez 35870, Valenzuela 19375). Label
+data from Rainer 11231188 describes fresh fruits as “globose, 4–5 cm diameter”. Quantitatively, Welfia alfredii
+differs significantly from W. regia in five variables (lower leaf number, higher number of rachillae, greater
+rachillae width, higher stamen number, larger fruit diameter)(t–test, P <0.05). The new species is also
+geographically separate from W. regia, and the nearest populations of the two are more than 1,100 km apart and
+on opposite sides of the Andes. Habitat also differs, with W. regia occurring in lowland to montane rainforests
+at 295(0–1300) m elevation and W. alfredii occurring in montane forests at 1502(1391–1725) m elevation.
+
+FIGURE 4. A. Fruits of Welfia alfredii showing the globose shape and contracted base, without dorsiventral compression and
+lateral ridges (from Graham 6031). B. Fruits of W. regia showing the almond shape and non-contracted base, with dorsiventral
+compression and lateral ridges (image by G. Galeano, from Chocó, Colombia).
+
+Dr. James Graham (pers. comm.) monitored several populations of Welfia alfredii in the Cordillera El Sira
+in Peru over the last few years. Here the palms occur from 1550 m to 1800 m elevation in cloud forest,
+growing with another large palm, Dictyocaryum lamarckianum. Stems remain acaulescent for a number of
+years. Even as aerial stems emerge, up to about 5 m tall, they remain covered with the woody leaf sheaths.
+
+38 •
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+HENDERSON & VILLALBA
+
+These sheaths persist on the stem until sexual maturity is reached, when they shed en masse. After the sheaths
+are shed, the stems can be seen to have irregular internodes and inflorescence scars. The abaxial surface of the
+prophyll is rounded and the adaxial surface is planar, with a woody ridge at its margins. Both surfaces are
+fissured; although not exactly accordion–like, they do split to expand the bracts until they fall. After the bracts
+fall the rachillae turn from yellow to greenish. Within a few weeks the floral pits begin to open to reveal the
+very fragrant staminate flowers. Flowers attract numerous insects, including bees, flies, and thrips. Fruits take
+from 18–20 months to mature. Seeds are extremely hard and dense. No predation was observed of seeds on
+the ground below the parent tree, and no dispersers were observed either from the tree or from the ground.
+Mature fruits are globose, but immature fruits become somewhat almond–shaped upon drying.
+Luis Valenzuela (pers. comm.) also collected sterile individuals of the new species in the Cordillera El
+Sira (Valenzuela et al. 17649, 17505) at 1391 m, however he reported their presence up to an elevation of
+1800 m. Another population of 12 individuals was evaluated by Villalba et al. in 2012 at the Cordillera of
+Yanachaga under the Jardín Botánico de Missouri and the TEAM Network logistics. Here, Welfia alfredii
+occurs at elevations of 1401–1451 m and grows with several other large palms: Euterpe luminosa, Socratea
+exorrhiza and Dictyocaryum lamarckianum.
+Welfia alfredii is named after Alfred Henderson.
+2. Welfia regia Wendland ex André (1871: 93). Type:—COLOMBIA. “Nouvelle–Grenade”, 1200 m, 1868, G.
+Wallis s. n. (holotype, BR, not localized). Lectotype (here designated):—André, 1871: Pl. LXII.
+Welfia georgii Wendland in André (1871: 94). Type:—COSTA RICA. Heredia: “flum. Sarapiquí”, 1857, H. Wendland s
+n. (holotype HBG n.v., isotype K!).
+(Fig. 5)
+
+FIGURE 5. Welfia regia. A. Habit (image by G. Galeano from Chocó, Colombia). B. Inflorescence (image by A. Henderson
+from Antioquia, Colombia).
+
+A REVISION OF WELFIA (PALMAE)
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+• 39
+
+Plants 13.8(6.0–25.0) m tall. Stems 10.4(4.4–22.5) m tall, 17.0(10.0–25.0) cm in diameter. Leaves 17(9–26)
+per stem; sheaths 100.8(23.0–165.0) cm long; petioles 37.3(5.0–83.0) cm long; rachises 440.6(279.0–540.0)
+cm long; pinnae 73(33–90) per side of rachis. Inflorescences prophylls 103.3(97.0–113.0) cm long;
+peduncular bracts 94.8(80.0–105.0) cm long, inserted 2.4(1.5–4.5) cm above the prophyll; peduncles
+16.1(8.0–30.0) cm long, 44.9(27.6–59.1) mm diameter; rachillae 9(7–15), 71.2(46.5–110.0) cm long,
+21.9(12.2–31.9) mm diameter; stamens 38(33–43); fruits almond-shaped, dorsiventrally compressed, ridged
+laterally especially toward the apex, pointed apically, without a contracted base, 34.2(28.6–40.8) mm long,
+15.2(10.8–18.2) mm diameter.
+Distribution and habitat. From 11°49’N–0°16’S and 73°40’–84°48’W in Nicaragua, Costa Rica,
+Panama, western Colombia, and western Ecuador at 314(0–1325) m elevation in lowland or montane
+rainforest (Fig. 3). Welfia is reported to occur in Honduras (probably based on Welfia microcarpa—see
+Excluded Names), but no specimens from there have been seen. However, Dr. Paul House (pers. comm.)
+reports that it occurs in Honduras on the Patuca River in the Patuca National Park (open circle on Fig. 3).
+Taxonomic notes. Wendland, in a letter quoted by André (1871), stated that the Colombian Welfia regia
+differed from the Costa Rican W. georgii in its larger fruits. In the present study, no significant differences in
+fruit size between the two countries are found (Colombia fruits—34.2(28.6–40.8) mm long, 15.7(10.8–18.2)
+mm diameter; Costa Rica fruits—35.4(32.7–37.7) mm long, 14.8(14.0–16.1) mm diameter), and they are here
+regarded as belonging to the same species.
+Of the two available names for this species, neither Welfia regia nor W. georgii have priority based on
+their original publication. Apparently the first publication in which one was placed in synonymy of the other
+was that of Henderson et al. (1995) who placed W. georgii as a synonym of W. regia. The correct name for the
+species is therefore W. regia.
+A specimen of Welfia regia (G. Wallis s. n.) was cited by André (1871) and was said to be in Linden’s
+herbarium and to come from “Nouvelle–Grenade, à 1,200 mètres d’altitude”. Linden’s herbarium was
+dispersed (Stafleu & Cowan 1981), but the Wallis specimen is presumed to be the same specimen as the one
+seen by Burret (1930). However, Burret wrote that the specimen, consisting at least of fruits, came from
+“Colombia: Cauca–Tal” [Cauca valley], etwa 1650 m”. The differences in elevation are unexplained (all other
+specimens examined from Valle del Cauca in Colombia are from lower elevations—30–795 m), and the
+specimen has not been located and is presumed destroyed. The syntype, the plate in André is therefore
+designated as lectotype.
+Intraspecific variation. Welfia regia is not continuously distributed but occurs in several separate
+populations. It is not clear if these populations are real or artifacts of uneven collecting. The northernmost
+population, in southeastern Nicaragua and northeastern Costa Rica occurs at low elevations of 172(50–750)
+m. A second population occurs in southwestern Costa Rica on the Osa Peninsula at 218(100–350) m
+elevation. There are no significant morphological differences between these two populations.
+The population in central and western Panama occurs at slightly higher elevations, at 363(30–1000) m.
+There are no significant morphological differences between this and the southeastern Nicaragua and
+northeastern Costa Rican population except for plant height: Panamanian plants are significantly taller.
+In Colombia plants occur all along the Pacific coast except for the most southerly part, but this is likely to
+be a collecting artifact. However, there are three outlying, Andean populations. A single specimen (Alverson
+78) comes from an elevation of 550 m in the northern Cauca valley. Four specimens (Cardenas 2478, Henao
+298, Hernández 444, Ramirez 858) are from the eastern slopes of the Cordillera Central at 772(525–1000) m
+elevation; and four specimens (Fassett 25210, Jaramillo 135, Lozano 7188, Pesca 2) are from the western
+slopes of the Cordillera Oriental at 1070(800–1300) m. Although there are few specimens of each population,
+plants from the Cordillera Central have thinner rachillae and smaller fruits than others. There is also a slight
+difference in fruit shape; the two Cordilleran populations have almond–shaped, dorsiventrally compressed
+fruits, as in other specimens, but they are not so markedly ridged laterally and are apically blunter. More
+specimens are needed to determine the taxonomic status of these Cordilleran populations.
+
+40 •
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+HENDERSON & VILLALBA
+
+The most southerly population in southern Colombian and Ecuador does not differ morphologically from
+other Colombian populations.
+
+Acknowledgements
+We thank the many people who helped with this work. The staff of the herbarium of the New York Botanical
+Garden processed the many loans requested, particularly Dr. Tom Zanoni, Lucy Klebieko, and Wilson Ramos.
+The curators of the following herbaria sent these loans, or allowed us to study specimens in their care: AAU,
+BH, BM, COL, F, FTG, HOXA, K, MO, NY, and US. We thank Dr. James Reveal of Cornell University for his
+help on nomenclatural matters; Dr. Paul House for information on Honduran Welfia; Dr. James Graham of the
+Field Museum in Chicago for the information on Peruvian Welfia; Dr. Gloria Galeano of the Universidad
+Nacional in Colombia for providing images and reviewing the manuscript. Villalba thanks the Missouri
+Botanical Garden and the TEAM Network for supporting the collection of Welfia alfredii and the HOXA
+Herbarium for allowing the review of herbarium specimens. She also thanks Rodolfo Vásquez and Luis
+Valenzuela for their suggestions on the illustration of the type and their generous contribution of images.
+
+References
+André, E. (1871) Welfia regia, H. Wendland. Pl. LXII. L’Illustration Horticole 18: 92–94.
+Burret, M. (1930) Geonomeae americanae. Botanische Jahrbücher für Systematik, Pflanzengeschichte und
+Pflanzengeographie 63: 123–270.
+Dransfield, J., Uhl, N., Asmussen, C., Baker, W., Harley, M. & Lewis, C. (2008) Genera Palmarum. The Evolution and
+Classification of Palms. Kew Publishing, Royal Botanic Gardens, Kew, London, U.K., pp. 1–732.
+http://dx.doi.org/10.5962/bhl.title.143
+Grisebach, A. (1864) Flora of the British West Indian Islands. Lovell Reeve & Co., London, pp. 1–789.
+Henderson, A. (2005) A multivariate study of Calyptrognye (Palmae). Systematic Botany 30: 60–83.
+http://dx.doi.org/10.1600/0363644053661913
+Henderson, A. (2011) A revision of Geonoma (Arecaceae). Phytotaxa 17: 1–271.
+Henderson, A. (2012) A revision of Pholidostachys (Arecaceae). Phytotaxa.
+Henderson, A., Galeano, G. & Bernal, R. (1995) A field guide to the palms of the Americas. Princeton University Press,
+Princeton, New Jersey, pp. 1–352.
+Hooker, J. (1883) Palmae. Pages 870–948 in Bentham G. & Hooker, J. Genera Plantarum. Volume 3. Reeve, London,
+U.K.
+Luerssen, C. (1882) Handbuch der systematischen Botanik. Band II. Familie Palmae. H. Haessel, Leipzig, pp. 326–344.
+Moore, H. (1966) Aristeyera, a new genus of geonomoid palms. Journal of the Arnold Arboretum 47: 1–8.
+Rainer, H. (1995) Die Palmen des Siragebirges und angrenzenden Tieflandes im östlichen Perú. Biosystematics and
+Ecology Series No. 8: 1–247.
+Roncal, J., Borchsenius, F., Asmussen–Lange C. & Balslev H. (2010) Divergence times in the tribe Geonomateae
+(Arecaceae) coincide with Tertiary geological events. In: Seberg O., Petersen G., Barfod A., & Davis J. (eds.),
+Diversity, phylogeny, and evolution in the Monocotyledons. Aarhus University Press, Aarhus, pp. 245–264.
+Stafleu, F. & Cowan, R. (1981) Taxonomic Literature. Volume III: Lh–O. Second Edition. W. Junk b.v., Publishers, The
+Hague, pp. 1–980.
+Stauffer, F., Asmussen, C., Henderson, A. & Endress, P. (2003) A revision of Asterogyne (Arecaceae: Arecoideae:
+Geonomeae). Brittonia 55: 327–356.
+http://dx.doi.org/10.1663/0007-196X(2003)055[0326:AROAAA]2.0.CO;2
+Thiers, B. (continuously updated) Index Herbariorum: A global directory of public herbaria and associated staff. New
+York Botanical Garden's Virtual Herbarium. http://sweetgum.nybg.org/ih/
+Wendland, H. (1859) Beschreibungen neuer Palmen. Botanische Zeitung 17: 72–73.
+Wendland, H. (1869) Sammlung von 25 Arten Palmen in gut cultivirten Exemplaren. Garten Flora 18: 241–242.
+Wessels Boer, J. (1968) The geonomoid palms. Verhandelingen der Koninklijke Nederlandsche Akademie Van
+Wetenschappen, Afdeeling Natuurkunde. Tweede Sectie 58: 1–202.
+Willdenow, C. (1805) Species Plantarum. Vol. 4, part 1. G. C. Nauk, Berlin, Germany, pp. 1–629.
+Zona, S. (1995) A revision of Calyptronoma (Arecaceae). Principes 39: 140–151.
+
+A REVISION OF WELFIA (PALMAE)
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+• 41
+
+Appendix I. Qualitative Variables
+Characters
+The abbreviation in parentheses at the end of the character is the column label in the Data Matrix (http://
+sciweb.nybg.org/Science2/res/Henderson/Welfia.xls.zip). The states of the characters here are scored as ‘(1)’
+or ‘(2)’ and correspond with the states in the Data Matrix.
+1. Fruits globose, not or scarcely dorsiventrally compressed, scarcely ridged laterally and blunt apically, with
+a contracted base (1); fruits almond-shaped, dorsiventrally compressed, ridged laterally especially toward the
+apex, pointed apically, without a contracted base (2). (fruit)
+
+Appendix II. Quantitative variables
+Abbreviations in parentheses at the end of each variable are the column labels in the Data Matrix.
+1. Plant height (m); data taken from specimen labels. (plheight)
+2. Stem height (m); data taken from specimen labels. (stemheight)
+3. Stem diameter (cm); data taken from specimen labels. (stemdiameter)
+4. Number of leaves per stem; data taken from specimen labels. (leafnumber)
+5. Sheath length (cm); data taken from specimen labels. The distinction between sheath and petiole is not
+clear. (sheath)
+6. Petiole length (cm); data taken from specimen labels. (petiole)
+7. Rachis length (cm); data taken from specimen labels. (rachislen)
+8. Number of pinnae per side of rachis; data taken from specimen labels. (nodivisions)
+9. Prophyll length (cm); data taken from specimen labels. (prophyll)
+10. Peduncular bract length (cm) data taken from specimen labels. (pedbract)
+11. Distance between peduncular bract and prophyll insertion (cm); data taken from specimens. (distance)
+12. Peduncle length (cm); data taken from specimens. (pedunclelen)
+13. Peduncle width (mm); data taken from specimens. (pedunclelen)
+14. Number of rachillae; data taken from specimen labels or from specimens. (norachillae)
+15. Rachilla length (cm); data taken from specimen labels or from specimens. (rachilllen)
+16. Rachilla diameter (mm); data taken from specimens, measured at middle of rachilla. (rachillwid)
+17. Number of stamens; data from specimens. (stamen)
+18. Fruit length (mm); data taken from specimens. (fruitlen)
+19. Fruit diameter (mm); data taken from specimens, narrowest side measured. (fruitdiam)
+
+Appendix III. Excluded Names
+Welfia microcarpa Burret (1930: 129). Type: Honduras. No locality, no date, unknown collector (holotype, B,
+destroyed?).
+Burret (1930) did not cite a specimen of W. microcarpa, for unknown reasons, but must have had at least some
+fruits at his disposal. He described the fruit as 3 cm long and 1.5 cm wide, and considered this smaller than
+those of other species in the genus. This size does, however, fit within the fruit size range recorded here,
+although at the lower end of the range. It seems unlikely that Burret would have made a mistake in his generic
+identification, and Welfia does occur in Honduras. However, no specimens from that country could be
+localized, and the name is thus considered an Excluded Name.
+
+42 •
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+HENDERSON & VILLALBA
+
+Appendix IV. Numerical List of Taxa and Specimens Examined
+Numerical List of Taxa
+1. Welfia alfredii
+2. Welfia regia
+Specimens Examined
+Specimens are arranged by collector (with first initial) in alphabetical order, followed by collector’s number in
+increasing order, followed by species number in parentheses.
+Acevedo, P. 73 (2)
+Aguilar, R. 2234 (2)
+Allen, P. 2112 (2), 2565 (2)
+Alverson, W. 78 (2)
+Balick, M. 1698 (2)
+Barfod, A. 60026 (2), 60050 (2)
+Bernal, R. 111 (2), 691 (2), 1528 (2), 3022 (2)
+Betancur, J. 4305 (2)
+Borchsenius, F. 262 (2), 279 (2)
+Boyle, B. 5584 (2)
+Burger, W. 4274 (2), 7261 (2)
+Calderón, M. 18 (2)
+Carballo, G. 103 (2)
+Cardenas, M. 2478 (2)
+Churchill, H. 5963 (2)
+Clark, J. 4605 (2)
+Cook, O. 94 (2), 636 (2)
+Croat, T. 15085 (2), 17319 (2), 44237 (2)
+Cuatrecasas, J. 13967 (2), 16314 (2), 16932 (2), 17365 (2)
+Davidse, G. 23538 (2)
+de Nevers, G. 5958 (2), 5974 (2), 8549 (2)
+Devia, W. 5095 (2)
+Dodson, C. 14605 (2)
+Dransfield, J. 4907 (2)
+Duke, J. 8025 (2), 15030 (2)
+Faber–Langendoen, D. 434 (2)
+Fassett, N. 25210 (2)
+Folsom, J. 9921 (2), 9931 (2)
+Fuchs, H. 22211 (2)
+Galeano, G. 391 (2), 7994 (2), 8104 (2),
+Gentry, A. 63540 (1), 7234 (2), 41012 (2), 41077 (2), 48267 (2), 53737 (2), 53770 (2), 68579 (2), 34889 (2)
+Gómez, L. 19509 (2)
+Gordon, B. 16 (2)
+Graham, J. 6031 (2)
+Guteniez, D. 8 (2)
+Hammel, B. 10703 (2)
+Henao, J. 298 (2)
+A REVISION OF WELFIA (PALMAE)
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+• 43
+
+Henderson, A. 711 (2), 3001 (1)
+Hernández, J. 444 (2)
+Holm, R. 928 (2)
+Jaramillo, R. 135 (2)
+Knudsen, J. 607 (2)
+Lozano, G. 7188 (2)
+McPherson, G. 19628 (2)
+Moore, H., 6557 (2), 6573 (2), 9457 (2), 10183 (2)
+Morales, J. 1501 (2)
+Mowbray, T. 1405 (2)
+Nee, M. 6595 (2)
+Pesca, A. 2 (2)
+Porter, D. 4742 (2)
+Rainer, H. 11231188 (1)
+Ramírez, J. 858 (2)
+Read, R. 8148 (2)
+Rueda, R. 7482 (2), 8711 (2), 9129 (2), 10222 (2), 10423 (2)
+Salick, J. 7904 (2), 8079 (2)
+Siefke, R. 11 (2)
+Stevens, W. 9029 (2)
+Sugden, A. 532 (2)
+Sytsma, K. 2034 (2)
+Thomsen, K. 110 (2), 1189 (2)
+Tomlinson, P. (2)
+Valenzuela, L. 17505 (1), 17649(1), 19375 (1)
+Vásquez, R. 35870 (1)
+Wendland, H. 74 (2)
+Whitefoord, C. 168 (2)
+Zuluaga, R. 623 (2)
+
+44 •
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+HENDERSON & VILLALBA
+
+

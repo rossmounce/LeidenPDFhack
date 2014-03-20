@@ -1,0 +1,238 @@
+Phytotaxa 126 (1): 31–36 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.126.1.3
+
+A New Species of Pleurostachys (Cyperaceae) from Atlantic coastal Brazil
+W. WAYT THOMAS1, MARCCUS V. ALVES2 & RAFAEL TREVISAN3
+1
+
+The New York Botanical Garden, Bronx, NY 10458-5126, USA. Email: wthomas@nybg.org
+Departamento de Botânica, CCB, Universidade Federal de Pernambuco, Av. Moraes Rego s/n, 50940-000 Recife, PE, Brazil.
+Email: alves.marccus@gmail.com
+3
+Departamento de Botânica, CCB, Universidade Federal de Santa Catarina, Av. R. Eng. Agrônomo Andrey Cristian Ferreira, 88040970 Florianópolis, SC, Brazil. Email: rftrevisan@yahoo.com.br
+2
+
+Abstract
+Pleurostachys arcuata is described as a new species endemic to the Atlantic forest of Brazil. It is illustrated and is
+compared to other species of Pleurostachys. It has the large achenes of P. macrantha but has small, axillary
+synflorescences similar to those of P. gaudichaudii.
+
+Resumo
+Pleurostachys arcuata é descrita como uma espécie nova da Mata Atlântica do Brasil. Está ilustrada e comparada com
+outras espécies de Pleurostachys. Tem os aquênios grandes de P. macrantha mas as sinflorescências pequenas e axilares
+semelhantes às de P. gaudichaudii.
+Key words: Pleurostachys, Cyperaceae, Brazil, Atlantic forest, taxonomy
+
+Introduction
+Pleurostachys Brongn. is a small genus found exclusively in neotropical forests. Kükenthal’s monograph of
+1952 treated 30 species. Thomas and Alves (2008) recognized 23 species, 21 of which are endemic to
+Brazil’s Atlantic coastal forest. Modern collections have greatly increased the number of specimens available
+for study, revealing several undescribed species, one of which is described here.
+Most authors have maintained Pleurostachys as a separate genus closely allied to Rhynchospora Vahl
+(Boeckler, 1875; Clarke, 1908; Pfeiffer, 1925; Koyama, 1961; Kükenthal, 1952; Eiten, 1976; Bruhl, 1995;
+Goetghebeur, 1986, 1998; Soros & Bruhl, 2000). Recent molecular studies (Thomas et al. 2009a) confirm
+this relationship and raise the question as to whether or not Rhynchospora is paraphyletic with respect to
+Pleurostachys. Because the phylogenetic relationship of Pleurostachys and Rhynchospora is still unclear, and
+because they are morphologically distinct, we are describing this new species as a member of the genus
+Pleurostachys.
+Features that unite Rhynchospora and Pleurostachys in the tribe Rhynchosporeae include simple
+spikelets, bisexual flowers, lenticular achenes subtended by perianth bristles, and a persistent style base.
+Characters that distinguish Pleurostachys from Rhynchospora include an inflorescence comprising a series of
+axillary synflorescences, distichously (or subdistichously) arranged spikelet scales, distally plumose perianth
+bristles, and decurrent style bases (these are discussed at length in Thomas & Alves, 2008).
+
+Accepted by Timothy M. Jones: 23 July 2013; published: 26 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+31
+
+Taxonomy
+Pleurostachys arcuata W. W. Thomas, M. Alves & R. Trevis., spec. nov. (Fig. 1)
+Pleurostachys arcuata is unique in having basal leaves which are long and wide, small synflorescences of clustered
+spikelets, and large achenes. It has the large achenes of P. macrantha but has the small, axillary synflorescences of
+P. gaudichaudii.
+Type:—Brazil. Bahia: Mun. Santa Luzia, Serra da Onça, 10.8 km NE of Santa Luzia (30 km SW of Una) on Una-Santa
+Luzia road, then 4.2 km N on road to Serra da Onça. 39°30’S, 15°20’W. Southern Bahian Wet Forest. Reddish clay
+and many rocks. Rare in forest, leaves shiny dark green, inflorescence arching to scandent. 21 Nov 1996. W. W.
+Thomas, A. Carvalho, A. Amorim, S. Sant’Ana & J. L. Paixão 11367 (holotype CEPEC, isotypes K, NY).
+
+Description
+Perennial, cespitose or with short woody rhizomes. Culms arching, (30.5–) 58–212 cm long, (1–) 1.8–3
+mm wide at lowest synflorescence, tapering to 0.8 –1 mm below distal-most synflorescence, glabrous,
+triangular in cross-section. Leaves basal and cauline; basal leaves ca. 5 –7 with open sheaths; sheaths
+gradually widening into the blade, paler than blade, plicate, 12–15 × 1.4–1.8 cm; blade lanceolate to linear, 15–
+90 × 2–2.4 cm, dark green, usually shiny, the apex acuminate, the margins slightly antrorsely scabrous; cauline
+leaves (bracts) each subtending an axillary synflorescence and diminishing in size distally along the culm;
+sheaths closed, the basal ones 2–4 cm long. Synflorescences 4–8, each a condensed raceme of 3–6 clusters of
+2–3 spikelets each, mature basal one 1.4–3.5 × 1.5–3 cm, the peduncles decreasing in length at each more
+distal node, the basal one 6.5–8 cm long. Spikelets 10–20 per synflorescence; 3.7 × 2.9 mm at anthesis,
+lenticular, ovate in outline, pale brown; scales ca. 8 visible, distichously or subdistichously arranged, carinate,
+shiny, cartilaginous, the lowest 2–3 sterile, the lower ones mucronate, the intermediate ones largest, shallowly
+triangular, 2.8 × 3.5 mm. Perianth bristles persistent, 5, flattened basally, antrorsely scabrous to shortplumose, unequal, (1–) 1.5–2.4 mm long, usually one half to two thirds the length of the achene. Achenes 2.4–
+3.2 × (1.7–) 2.2–2.9 mm, deeply biconvex, broadly obovate to circular in outline, shiny, lightly wrinkled to
+obscurely rugulose; style base inserted in a shallow depressed area at apex of achene and decurrent along
+lateral margins, the depressed area transversely rhombic, 0.9–1.2 × (1.7–) 2–2.5 mm, the raised central portion
+0.6–1.2 × 0.8–1.0 mm, deltate.
+Distribution and ecology:—Known from the Atlantic forest region of Brazil, from the state of Bahia south
+to the state of Santa Catarina (Fig. 2). The known collections are from tropical submontane moist forest (Thomas
+& Barbosa 2008) above 300 m in Bahia and Espírito Santo and below 300 m in Rio de Janeiro and Santa
+Catarina, usually among rocks. The flora of one locality, the Serra do Teimoso (Fig. 3), has been well-studied
+(Amorim et al. 2005) and a study of the species composition shows that the forest near the top of the mountain,
+where Pleurostachys arcuata was collected, is distinct from that of the lower forests (Thomas et al. 2009b).
+Etymology:—The species is named for its characteristic arched culms.
+Conservation Status:—Pleurostachys arcuata is restricted to intact, rocky, submontane moist forests,
+and is never common. Furthermore, the Atlantic forest of Brazil has been identified as one of the World’s
+biodiversity “hotspots” (Myers et al. 2000), in part, because of continuing deforestation. Overall, the Atlantic
+forest has been reduced to less than 11 percent of its original extent (Ribeiro et al. 2009).
+Calculating “area of occupancy” (AOO; IUCN 2012) using grid cells of 3 × 3 km (9 km2) following the
+methodology developed by Callmander et al. (2007) and Miller & Porter Morgan (2011) results in an AOO
+for P. arcuata of 126 km2. Calculating “extent of occurrence” (EOO; IUCN 2012) results in an EOO of ca.
+160,000 km2 (the 1600 km between the northernmost and southernmost known localities multiplied by the
+average width of the Atlantic forest, ca. 100 km). The AOO estimate is probably too restrictive and does not
+take into account areas where the species probably occurs but has never been collected. The EOO estimate,
+on the other hand, is too broad and does not factor in range discontinuity, habitat specificity, or deforestation.
+We believe the most accurate reflection of its conservation status would be an IUCN Red List category of
+Vulnerable (VU). More collections would probably increase the AOO of P. arcuata significantly, but to less
+than 2000 km 2 . Furthermore, it occurs in a severely fragmented biome, one that continues to suffer
+deforestation that will diminish the number and location of its subpopulations.
+
+32 •
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+THOMAS ET AL.
+
+FIGURE 1. A–G. Pleurostachys arcuata. A. Plant habit. B. Synflorescence in fruit. C. Detail of one branch of synflorescence. D.
+Synflorescence in flower. E. Spikelet prior to anthesis. F. Spikelet scale. G. Achene, side view, top view, and detail of bristle. A–C, F,
+G from W. W. Thomas et al. 11367 (NY); D and E from W. W. Thomas et al. 14182 (NY). Drawn by Bobbi Angell.
+
+A NEW SPECIES OF PLEUROSTACHYS
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+• 33
+
+Paratypes:—BRAZIL. Bahia: Mun. Almadina, Serra Corcovado, 9.9 km SW of Coarci on road to
+Almadina, then N into Fazenda São José, 14°42’21”S, 39°36’12”W, 650–750 m, submontane/montane
+tropical moist forest with disturbed areas, herb in forest, culms arching, 19 Sep 2004, W. W. Thomas et al.
+14812 (CEPEC, NY); Serra do Corcovado, accesso pela Estação da EMBASA, 14°42’09”S, 39°36’14”W, 4
+Nov 2011, M. M. Coelho et al. 486 (CEPEC); Serra do Sete-Paus, Rodovia de Almadina para Ibitupã,
+14°44’06”S, 39°41’46”W, P. Fiaschi et al. 2730 (CEPEC); Mun. Arataca, Caminho das Pedras, 15°10’25”S,
+39°20’30”W, 1000 m, 12 Oct 2005, A. M. Amorim et al. 5266 (CEPEC), 15 Jun 2006, A. M. Amorim et al.
+6065 (CEPEC); Serra das Lontras, 15°12’10”S, 39°24’29”W, 29 Apr 2006, A. M. Amorim et al. 5949
+(CEPEC); Mun. Jussari, Rod. Jussari/Palmeira, 7.5 km, Fazenda Teimoso, Reserva Serra do Teimoso,
+15°09.37S, 39°31.74’W, 300–640 m, 15 Sep 2001, J. Jardim et al. 3922 (CEPEC, NY); 21 Aug 2003, P.
+Fiaschi, S. C. Sant’Ana & J. L. Paixão 1579 (CEPEC, NY); near top of mountain, 15°05’44”S, 39°32’33”W,
+W. W. Thomas et al. 13370 (CEPEC); Mun. Una [Santa Luzia], Serra da Onça, 23 Mar 2005, J. Paixão, S.
+Sant'Ana & L. Carlos 378 (NY-2 dupls). Espírito Santo: Mun. Santa Teresa, Estação Biologica da Caixa
+D'Agua, 4 Nov 1986, W. Boone 1081 (MBML, MO); Mun. Cariacica: Reserva Biologica de Duas Bocas, 1
+Jun 2000, M. Alves et al. 1945 (MBML, SP). Paraná: Mun. Guaraqueçaba, Rio de Costa. Mata pluvial
+encosta de morro, 50 m. 4 Feb 1971. G. Hatschbach 26270 (NY). Rio de Janeiro: Mun. Mangaratiba, RPPN
+Rio das Pedras, A. M. Amorim et al. 3378 (CEPEC); Mun. [probably Rio Novo], Serra do Henrique, prope Rio
+Novo. Sep 1894. Schwacke 10973 (RB). Santa Catarina: Mun. Blumenau, Parque Natural Municipal São
+Francisco de Assis, em floresta Atlântica, 26º55’19,82”S, 49º04’44,87”W, 87 m, 18 Feb 2011, M. Verdi 5889
+(FLOR, FURB).
+
+FIGURE 2. Distribution map of Pleurostachys arcuata.
+
+34 •
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+THOMAS ET AL.
+
+Observations:—In Kükenthal’s (1952) classification, Pleurostachys arcuata would belong to section
+Millegranae (Thomas & Alves 2008) because of the presence of blades on the basal leaves and the congested
+synflorescences. In their phylogeny of Pleurostachys based on morphological characters, however, Thomas
+and Alves (2008) found that section Millegranae was probably polyphyletic, and that P. arcuata (designated
+as “sp. nov. 1”) was sister to all other species of the genus.
+The only other species with achenes similar in size to those of Pleurostachys arcuata is P. macrantha
+Kunth with achenes 2.8–3.4 × 2.7–3.2 mm. Pleurostachys macrantha, however, has large, open panicles with
+solitary spikelets at the end of each branch. The remaining species of Pleurostachys have achenes
+approximately 1 mm long or less.
+
+FIGURE 3. Forested slope of the Serra do Teimoso Private Reserve (RPPN), Jussari, Bahia.
+
+Acknowledgements
+Financial support for field work resulting in collections of this species was provided by the John D. and
+Catherine T. MacArthur Foundation, the National Science Foundation (DEB 9972116 and DEB 0516233),
+and the Beneficia Foundation. We thank the curators of the herbaria we consulted, especially those of
+CEPEC, MBM, NY, R, and RB.
+
+A NEW SPECIES OF PLEUROSTACHYS
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+• 35
+
+References
+Amorim, A.M., Fiaschi, P., Jardim, J., Thomas, W.W., Clifton, B. & Carvalho, A.M. (2005) The vascular plants of a
+forest fragment in southern Bahia, Brazil. Sida 21(3): 1727–1757.
+Boeckeler, O. (1875) Die Cyperaceen des königlichen Herbariums zu Berlin. Linnaea 9: 1–152.
+Bruhl, J.J. (1995) Sedge genera of the world: relationships and a new classification of the Cyperaceae. Australian
+Journal of Systematic Botany 8: 125–305.
+http://dx.doi.org/10.1071/SB9950125
+Callmander, M.W., Schatz, G.E., Lowry II, P.P., Laivao, M.O., Raharimampoinona, J., Andriambololonera, S. et al.
+(2007) Identification of priority areas for plant conservation in Madagascar using Red List Criteria: rare and
+threatened Pandanaceae indicate sites in need of protection. Oryx 41: 168–176.
+http://dx.doi.org/10.1017/S0030605307001731
+Clarke, C.B. (1908) New Genera and Species of Cyperaceae. Kew Bulletin, Add. Ser. 8: 1–196.
+Eiten, L. (1976) Inflorescence units in the Cyperaceae. Annals of the Missouri Botanical Garden 63: 81–112.
+http://dx.doi.org/10.2307/2395224
+Goetghebeur, P. (1986) Genera Cyperacearum. Een bijdrage tot de kennis van de morfologie, systematiek en fylogenese
+van de Cyperaceae—genera. Doctoral Thesis, Rijkuniversiteit Gent.
+Goetghebeur, P. (1998) Cyperaceae. In: K. Kubitzki, H. Huber, P. Rudall, P. Stevens & T. Stützel, Vascular flowering
+plants. Vol. 4. Springer, Berlin., pp. 141–189
+IUCN (2012) The IUCN Red List of Threatened Species. Version 2012.2. At www.iucnredlist.org. Viewed on 13
+December 2012.
+Koyama, T. (1961) Classification of the family Cyperaceae 1. Journal of the Faculty of Science, University of Tokyo,
+sect. 3, Botany 8: 37–148.
+Kükenthal, G. (1952) Vorarbeiten zu einer Monographie der Rhynchosporoideae. Pleurostachys. Botanische Jahrbücher
+für Systematik, Pflansengeschichte und Pflanzengeographie 75: 451–497.
+Miller, J.S. & Porter Morgan, H.A. (2011) Assessing the effectiveness of Madagascar’s changing protected areas
+system: a case study of threatened Boraginales. Oryx 45: 201–209.
+http://dx.doi.org/10.1017/S0030605310000803
+Myers, N., Mittermeier, R.A., Mittermeier, C.G., da Fonseca, G.A.B. & Kent, J. (2000) Biodiversity hotspots for
+conservation priorities. Nature 403: 853–858.
+http://dx.doi.org/10.1038/35002501
+Pfeiffer, H. (1925) Monographia Pleurostachydearum. I. Pars specialis descriptioque specierum. Botanisches Archhiv 9:
+225–242.
+Ribeiro, M.C., Metzger, J.P., Martensen, A.C., Ponzoni, F.J. & Hirota, M.M. (2009) The Brazilian Atlantic Forest: How
+much is left, and how is the remaining forest distributed? Implications for Conservation. Biological Conservation
+142: 1141–1153.
+http://dx.doi.org/10.1016/j.biocon.2009.02.021
+Soros, C. && Bruhl, J.J. (2000) Multiple evolutionary origins of C4 photosynthesis in the Cyperaceae. Pp. 629–636 in K.
+L. Wilson & D. A. Morrison, Monocots: Systematics and Evolution. CSIRO. Melbourne.
+Thomas, W.W. & Alves, M. (2008) Towards a Revision of the Genus Pleurostachys (Cyperaceae): Preliminary Results,
+In: R. Naczi and B. Ford (eds.) Sedges: Uses, Diversity, and Systematics of the Cyperaceae. Monographs in
+Systematic Botany from the Missouri Botanical Garden 108: 269–278.
+Thomas, W.W., Araújo, A.C. & Alves, M. (2009a) (2008 online) A Preliminary Molecular Phylogeny of the
+Rhynchosporeae (Cyperaceae). In: W. W. Thomas, D. A. Simpson, A. A. Reznicek and J. R. Starr (eds.),
+Cyperaceae – Special Issue. Botanical Review 75: 22–29.
+http://dx.doi.org/10.1007/s12229-008-9023-7
+Thomas, W.W. & Barbosa, M.R.V. ( 2008) Natural Vegetation Types in the Brazilian Atlantic Coastal Forest North of
+the Rio Doce. In: W. Thomas (ed.), The Atlantic Coastal Forest of Northeastern Brazil. Memoirs of the New York
+Botanical Garden 100: 6–20.
+Thomas, W.W., Jardim, J.G., Fiaschi, P., Mariano-Neto, M. & Amorim, A.M. (2009b) Composição Florística e Estrutura
+do Componente Arbóreo de uma Área Transicional de Floresta Atlântica no Sul da Bahia, Brasil. Revista Brasileira
+de Botânica 32 (1): 41–54.
+http://dx.doi.org/10.1590/S0100-84042009000100007
+
+36 •
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+THOMAS ET AL.
+
+

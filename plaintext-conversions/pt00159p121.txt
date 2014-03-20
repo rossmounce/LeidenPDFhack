@@ -1,0 +1,577 @@
+Phytotaxa 159 (2): 111–121
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.159.1.5
+
+A new species of stonecrop (Sedum section Gormania, Crassulaceae) from
+northern California
+PETER F. ZIKA
+WTU Herbarium, Box 355325, University of Washington, Seattle, WA 98195-5325, USA.
+Email: zikap@comcast.net
+
+Abstract
+Sedum citrinum is described as a narrow endemic from three populations on ultramafic bedrock in the Klamath
+Mountains of southern Del Norte County, California, in the United States. It is distinguished from Sedum obtusatum
+subsp. boreale by its flattened inflorescence with elongate lower branches, as well as its deep yellow flowers and yellow
+anthers.
+Key words: serpentine, succulent plants
+
+Introduction
+Sedum Linnaeus (1753: 430) sect. Gormania (Britton in Britton & Rose 1930: 29) R. T. Clausen (1942: 29) is a
+group of six perennial stonecrop species with stout flattened rosette leaves, paniculate inflorescences, and basally
+fused corollas. The section was summarized by Clausen (1975), Denton (1979a, 1979b, 1982, 1993), and more
+recently by Ohba (2007, 2009) and Denton and Boyd (2012). The species of Sedum sect. Gormania are distributed
+in California, western Nevada, and Oregon, and are restricted to western North America. Traditional herbariumbased research can be difficult with fragile dried plants such as stonecrops. Like many succulent genera, when
+handled, dried Sedum falls apart over time, important colors are rarely preserved in the lengthy drying process,
+seldom noted on labels, and the preserved flowers show few useful characters without special preparation.
+Taxonomic study is enriched by examining the fresh flowering plants in the field, and using color photographs to
+show such characters as the glaucous epidermis of sepals, corolla and stamen colors, as well as the aspect of the
+fresh foliage. Other useful morphological features are difficult to examine on dried specimens, such as nectary
+shape, petal fusion, width, or angle. When integrating these features, it is clear that sect. Gormania is in need of
+further research and revision.
+Extensive field work on the perennial stonecrops of Sedum sect. Gormania of northern California was
+instigated by the United States Forest Service in the Shasta-Trinity National Forest, and involved more than a
+dozen botanists. It indirectly led to the discovery of a new stonecrop in the southern mountains of Del Norte
+County, California, described below.
+
+Methods
+Dried specimen preparation is challenging with Sedum because they store so much water in their foliage. The
+succulent tissue must be treated before drying in a press. Use of a microwave for the 2012 gatherings resulted in the
+quick wilting of the specimens, and they were easily, if slowly, dried over low heat. However, the resulting
+specimens were inadequate for DNA testing. Herbarium collections cited below from 2013 were frozen and then
+dried, to accommodate the possibility of subsequent molecular work. Some flowers and leaves were separated from
+the plants for photography, dried separately, and placed in fragment packets, where they can be easily sampled by
+
+Accepted by Federico Luebert: 28 Jan. 2014; published: 11 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+111
+
+molecular biologists. Photographs of the fresh plants were printed and attached to selected herbarium sheets, or
+posted on-line with the collection number, to supplement notes on the herbarium labels.
+
+Taxonomy
+Sedum citrinum Zika, sp. nov. (Figs. 1–2, 3K–L, 4G–H, 5N–O, 6F–H).
+Species nostra Sedo obtusato subsp. boreali affinis, a quo differt inflorescentia superne plana, floribus plus saturate flavis
+necnon antheris luteis.
+Type:—UNITED STATES. California: Del Norte County, ridge 1.4 air km north of South Red Mountain, 1050 m, 9 June 2013,
+P. F. Zika 26185 (holotype: WTU!; isotypes: BH!, CAS!, GH!, MO!, OSC!, RSA!, UC!, US!).
+
+Rhizomatous herbs, rhizomes and stolons 10–260 × 3–6 mm, often branched and terminating in numerous sterile
+leafy rosettes. Rosette leaves often loosely arranged with visible internodes, less commonly dense, slightly
+glaucous, at least when young, green, grey-green, orange to red, or purple, narrowly to broadly obovate, less
+commonly oblanceolate, cuneate, 10–31 × 6–22 mm, apices obtuse or notched. Stem leaves ascending, slightly
+glaucous, at least when young, and colored like the rosette leaves, 8–16 × 4–12.5 mm, truncate at base, often
+narrowly obovate, less commonly oblanceolate or obovate, apices usually obtuse, rarely notched. Flowering stems
+green to reddish, 5–27.5 cm tall, nodding or bent in bud, erect in flower and fruit. Inflorescences 1.5–12 × 2–9 cm,
+usually a flat-topped or slightly domed cymose panicle with narrow base and broad, flat or rounded summit, the
+proximal branches elongated and solitary at the nodes, ascending to spreading or recurving at tips. Inflorescence
+bracts resembling stem leaves, but smaller, 5–7 × 2–3 mm, oblanceolate, tips acute or blunt. Flowers 10–95 per
+inflorescence, fresh flower diameter 8–14 mm, flowers 5–merous (7–merous), erect, calyx green or reddish
+distally, slightly glaucous, at least when young, 2.2–4.5 × 2.7–3.9 mm, sepals fused basally 0.7–1.5 mm, free sepal
+tips 2–4.5 mm long, apex blunt or acute. Fresh petals 6–9 mm long, bright and deep yellow, midvein yellow or
+orange (especially in bud), apices or bases sometimes reddish, especially with age; fused at base 0.5–1.2 mm. Petal
+blade v-shaped in cross section, narrow, spreading or divaricate at 90 degrees to floral axis, apex usually apiculate
+with subterminal mucro 0.15–0.3 mm. Stamens 10, shorter than petals, filaments green or greenish-yellow, aging
+red, anthers oblong, 1.2–1.6 × 0.6–0.7 mm, yellow when fresh, after dehiscence aging brown to red, orange, or
+black. Nectaries nearly rectangular to shallowly crescent-shaped and slightly sunken in middle, dull yellow to
+white, aging red, 0.7–1.0 × 0.3–0.4 mm. Ovaries 4.9–6.5 mm, erect, fused basally 0.5–1.3 mm, maturing into 5
+dark brown erect follicles, 5.2–6.5 mm, with erect to slightly curved style remnant forming a narrow beak 1.2–1.8
+mm, follicles fused basally 1.7–2.5 mm, containing 12–16 seeds. Seeds mid-brown, lanceolate, shiny, striate, 1.2–
+1.5 × 0.4–0.5 mm, including stipe 0.1–0.3 mm.
+Paratypes:—UNITED STATES. California: Del Norte County, ridge 1.6 air km NNW of South Red
+Mountain, 1210 m, 24 June 2012, P. F. Zika 25931 (HSC!, WTU!); same site, 9 June 2013, Zika 26193 (BH!,
+CAS!, OSC!, WTU!); ridge 1.4 air km N of South Red Mountain, 1050 m, 24 June 2012, Zika 25930 (CHSC!,
+JEPS!, OSC!, WTU!); gentle serpentine slope, 2.4 air km NW of South Red Mountain, 1235 m, 9 June 2013, Zika
+26201 (CAS!, GH!, OSC!, RSA!, WTU!).
+Relationships with other taxa:—Sedum citrinum is assigned to sect. Gormania (Denton 1982). The typical
+corollas of species in sect. Gormania fall into three general categories (Table 1). One is a pink-flowered corolla
+with elongate, erect, and narrow-tapering petal tips, displayed by Sedum laxum (Britton in Britton & Rose 1903:
+29) A. Berger (1930: 451) subsp. laxum, S. laxum subsp. heckneri (M. Peck 1937: 121) R. T. Clausen (1942: 39),
+and S. laxum subsp. latifolium R. T. Clausen (1942: 38)(Fig. 3A–C). These subspecies have a distinctive flower
+shape and color, as well as a unique combination of dark red anthers and pink filaments. The corollas age to red or
+dark red. Although S. moranii R. T. Clausen (1942: 40) of southwestern Oregon has a similar corolla shape, the
+flowers are glandular and a different color. A second floral morphology consists of ascending to spreadingascending and rather broad petals, usually pale yellow or white, but sometimes fading to pink with age. Examples
+of these are S. albomarginatum R. T. Clausen (1975: 424), S. laxum subsp. flavidum Denton (1978: 233), S.
+obtusatum A. Gray (1868: 342) subsp. obtusatum, S. obtusatum subsp. paradisum Denton (1978: 236), and S.
+oregonense (S. Watson 1882: 373) M. Peck (1941: 361)(Fig. 3D–J). Strikingly different in the field is a third floral
+morphology, displayed only by S. obtusatum subsp. boreale R. T. Clausen (1942: 32) and S. citrinum. The petals
+are relatively narrow and wide-spreading, with age they are sometimes slightly reflexed (Fig. 3K–R). The pale
+yellow petals and red (less commonly orange or yellow) anthers of S. obtusatum subsp. boreale differ from the
+deep yellow petals and uniformly yellow anthers of S. citrinum.
+
+112 •
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+ZIKA
+
+FIGURE 1. Holotype of Sedum citrinum (Zika 26185 WTU). Scale bar 10 cm.
+
+A NEW SPECIES OF STONECROP (SEDUM SECTION GORMANIA)
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+• 113
+
+FIGURE 2. Sedum citrinum A. Habit and inflorescences, vegetative shoots with elongate distal internodes; B. Bent young
+inflorescence, pre-anthesis; C. Transition from rosette to stem leaves; D. Rosette leaves; E–F. Stem leaves, showing truncate bases; G.
+Flat-topped erect inflorescences at full anthesis; H. Narrow spreading petals, deep yellow anthers and petals (Zika 25930); I.
+Presentation of flowers at anthesis; J. Inflorescence bracts, slightly glaucous, acute-tipped, flower buds deep yellow. (From Zika
+26185, except H). Scale bars 1 cm, except A, 15 cm.
+
+Another useful character on fresh plants is the type of growth on the vigorous vegetative offsets, although this
+can require a bit of experience to interpret correctly. Most species, in sunny situations, display condensed
+vegetative offsets, with inconspicuous distal internodes, crowded and difficult to see between the leaf bases of the
+terminal rosette. Examples include Sedum laxum subsp. flavidum, S. laxum subsp. heckneri, S. oblanceolatum R. T.
+Clausen (1975: 404), and S. obtusatum subsp. obtusatum (Fig. 4A–F). However, any species in a protected or
+shaded location, such as between two sheltering rocks on a talus slope, seems to suffer less water stress and can
+infrequently produce elongate vegetative shoot tips. None-the-less, in sunny and exposed situations a few members
+of sect. Gormania characteristically produce numerous vigorous vegetative shoots, with loose foliage and easily
+visible distal internodes. These are S. citrinum, S. obtusatum subsp. boreale, and S. oregonense (Fig. 4G–N). In the
+
+114 •
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+ZIKA
+
+most exposed and xeric localities, even these taxa can produce relatively dense vegetative shoots, but in general
+most plants of most populations have well-spaced leaves on the shoot tips. Sedum citrinum can be separated from
+vegetatively similar plants of S. obtusatum subsp. boreale, and S. oregonense by floral characters, as discussed
+above and illustrated in Fig. 3.
+
+FIGURE 3. Sedum sect. Gormania corollas. A–C. S. laxum, pink (or white-tipped), elongate, tips erect and gradually tapered, anthers
+red, filaments pink; A. Subsp. laxum (Zika 25655, Josephine Co., Oregon); B. Subsp. latifolium (Zika 25927, Del Norte Co.,
+California); C. Subsp. heckneri (Zika 25641, Siskiyou Co., California, type locality). D–J. Corollas with ascending to spreadingascending and rather broad petals; D. Sedum albomarginatum (Plumas Co., California); E–H. S. obtusatum; E–G. Subsp. obtusatum
+(Zika 26271, Nevada Co., California); H. Subsp. paradisum (Zika 25920, Trinity Co., California); I–J. S. oregonense (Zika 25964,
+Clackamas Co., Oregon). K–R. Corollas with wide-spreading relatively narrow petals. K–L. Sedum citrinum, showing deep yellow
+petals, yellow anthers (Zika 26185); M–P. S. obtusatum subsp. boreale, with pale yellow petals, red anthers; M. Zika 25905, Siskiyou
+Co.; N. Zika 26289, Siskiyou Co.; O–P. Zika 26294, Trinity Co. Scale bars 1 cm.
+TABLE 1. Comparison of Sedum citrinum and related taxa in sect. Gormania in southern Oregon and northern California.
+Sedum taxa
+
+Petal
+angle
+
+Petal shape
+
+Fresh
+petal
+color
+
+Fresh
+anther
+color
+
+Sterile
+shoot leaf
+spacing
+
+Stem leaf shape
+
+Inflorescence shape on
+well-developed plants
+
+divergent,
+rarely
+reflexed
+
+narrowly
+oblong
+
+bright
+yellow
+
+yellow
+
+loose
+
+longer than wide,
+base truncate
+
+cymose panicle with
+narrow base and broad,
+flat or rounded summit
+
+S. laxum
+subsp. laxum
+
+erect
+
+narrow,
+gradually
+tapered to tips
+
+pink,
+fading to
+red
+
+red
+
+usually
+dense
+
+longer than wide,
+base often decurrent
+
+cymose panicle with
+narrow base and broad,
+flat or rounded summit
+
+S. laxum
+subsp.
+heckneri
+
+erect
+
+narrow,
+gradually
+tapered to tips
+
+pink,
+fading to
+red
+
+red
+
+dense
+
+suborbicular, base
+notched
+
+cymose panicle with
+narrow base and broad,
+flat or rounded summit
+
+S. obtusatum
+subsp.
+boreale
+
+divergent,
+rarely
+reflexed
+
+narrowly
+oblong
+
+pale
+yellow
+
+red,
+orange, or
+yellow
+
+loose
+
+longer than wide,
+base truncate
+
+cylindrical
+
+S. obtusatum
+subsp.
+obtusatum
+
+ascending
+
+broad, abruptly
+tapered to tips
+
+pale
+yellow
+
+yellow
+
+dense
+
+longer than wide,
+base truncate
+
+cylindrical to capitate
+
+S.
+oregonense
+
+ascending
+
+broad, abruptly
+tapered to tips
+
+white,
+rarely
+pale
+yellow
+
+yellow
+
+loose
+
+longer than wide,
+base truncate; less
+commonly
+suborbicular, base
+notched
+
+cylindrical
+
+S. citrinum
+
+A NEW SPECIES OF STONECROP (SEDUM SECTION GORMANIA)
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+• 115
+
+FIGURE 4. Sedum sect. Gormania vegetative shoots. A–F. Dense rosettes with abbreviated distal internodes in sunny locations; A–B.
+S. laxum subsp. flavidum, forming a dense, compact clone (Zika 25922, Trinity Co.); C. S. laxum subsp. heckneri (Zika 25640,
+Siskiyou Co.); D. S. oblanceolatum (Zika 25636, Jackson Co., Oregon, type locality); E–F. S. obtusatum subsp. obtusatum; E. Zika
+26024 & Brainerd, El Dorado Co., California; F. Zika 26267, Sierra Co., California. G–N. Loose rosettes with well-spaced distal
+internodes in sunny locations. G–H. Sedum citrinum (Zika 26185); I. S. obtusatum subsp. boreale (Zika 26289, Siskiyou Co.); J–N. S.
+oregonense; J. Typical highly branched vegetative shoots, well-spaced and forming a loose clone (Zika 25647, Siskiyou Co.); K. Zika
+25647; L. Zika 25666, Jackson Co., Oregon; M. Zika 25956, Linn Co., Oregon; N. Zika 25959, Linn Co. Scale bars 1 cm.
+
+When working with living material, early in the flowering season, the stem leaves can provide useful
+taxonomic information when distinctive morphologies are present. However, the stem leaf shape can vary, and
+some shapes are common among different taxa. The stem leaves on blooming shoots seem to serve as water storage
+for the flowering effort. They tend to shrivel, then drop off as the flowers age, and are seldom present on herbarium
+specimens. The most distinctive stem leaves in sect. Gormania have decurrent bases, uniquely found on Sedum
+laxum subsp. laxum (Fig. 5A–B). Two species have oblanceolate and elongate stem leaves, much like their
+oblanceolate and elongate rosette leaves; these are S. albomarginatum and S. oblanceolatum (Fig. 5C–E). A few
+taxa have suborbicular stem leaves with clasping bases, most notably including S. laxum subsp. flavidum, S. laxum
+subsp. heckneri, and some populations of both S. obtusatum subsp. retusum (Rose, in Britton & Rose 1903: 31) R.
+T. Clausen (1975: 375), and S. oregonense (Fig. 5F–M). The remaining taxa in sect. Gormania tend to have stem
+leaves longer than wide, and truncate at the base instead of clasping. This includes S. citrinum, S. laxum subsp.
+
+116 •
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+ZIKA
+
+latifolium, S. obtusatum subsp. boreale, S. obtusatum subsp. obtusatum, and most plants of both S. obtusatum
+subsp. retusum and S. oregonense (Fig. 5N–T).
+
+FIGURE 5. Sedum sect. Gormania foliage, stem leaves arrayed above rosette leaves, except E; A–B. S. laxum subsp. laxum, stem
+leaves with decurrent bases (Zika 25655, Josephine Co.); C–D. S. albomarginatum (Plumas Co.); C. Oblanceolate waxy stem leaves
+on fertile shoot; D. Stem leaves very similar in outline to rosette leaves; E. S. oblanceolatum rosette leaves on left, very similar in
+outline to stem leaves on right (Zika 25650, Siskiyou Co.); F–G. S. laxum subsp. flavidum; F. Suborbicular stem leaves, showing
+clasping base (Zika 25922, Trinity Co.); G. Stem leaves of upper row showing variation in outline (Zika 25928, Del Norte Co.); H–J. S.
+laxum subsp. heckneri (Zika 25652, Jackson Co., Oregon, except I); H. Cliff plants showing fertile stems densely packed with
+suborbicular leaves; I. Clasping bases of stem leaves, variations from sub-orbicular outlines (Zika 25641, Siskiyou Co., type locality);
+J. Zika 25652, Jackson Co., Oregon; K–M. S. oregonense (Zika 25959, Linn Co., except K); K. Suborbicular stem leaves, and
+variations (Zika 25964, Clackamas Co., Oregon); L. Strongly clasping stem leaf; M. Variation in stem leaf shape and clasping base
+(upper row); N–T. Stem leaves longer than wide and truncate at base; N–O. S. citrinum stem leaves, ascending (Zika 26185); P–Q. S.
+laxum subsp. latifolium, ascending stem leaves, plump rosette leaves (Zika 25927, Del Norte Co.); R. S. obtusatum subsp. boreale
+(Zika 26289, Siskiyou Co.); S. S. obtusatum subsp. obtusatum (Zika 26267, Sierra Co.); T. S. oregonense (Zika 25647, Siskiyou Co.).
+Scale bars 1 cm.
+
+The inflorescences can provide useful characters for distinguishing species. Some taxa in sect. Gormania have
+cylindrical inflorescences, with the proximal branches suppressed and short. This includes Sedum obtusatum subsp.
+boreale (Fig. 6A–E), which typically has an inflorescence 1.5–5 cm wide, with up to 54 flowers. In marked
+contrast, S. citrinum has a flat-topped inflorescence (Fig. 6F–H), with elongated lower branches. The inflorescence
+of S. citrinum is usually 2–9 cm wide, and can contain up to 95 flowers. Also noteworthy is the uncommon
+tendency of some plants of S. citrinum to produce more than one fertile shoot from a single rosette, which is less
+frequently seen in other members of sect. Gormania (Figs. 1, 6G–H). Sedum obtusatum subsp. boreale does not
+seem to commonly branch at the base of the fertile shoots (Fig. 6I).
+In summary, Sedum citrinum is most similar morphologically to S. obtusatum subsp. boreale (Table 1). They
+both display widely spaced leaves on their sterile shoots (Fig. 4), and elongate, truncate-based stem leaves (Fig. 5).
+In critical floral features, both exhibit narrow divergent petals not seen in any other taxa in the section Gormania
+
+A NEW SPECIES OF STONECROP (SEDUM SECTION GORMANIA)
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+• 117
+
+(Fig. 3). The two are separable by inflorescence shape and width (Fig. 6), as well as by the intensity of the yellow
+pigment of the corolla and anther color variation (Figs. 2–3). Anthesis ends for S. citrinum in late June as it is
+starting for S. obtusatum subsp. boreale. In addition, S. citrinum is restricted to ultramafic exposures (Fig. 7), while
+S. obtusatum subsp. boreale is found on a wide variety of bedrock, including volcanics, metamorphics, and
+utramafics. Finally, the distribution of S. citrinum is restricted to a tiny portion of Del Norte County, discussed
+below. The distribution of S. obtusatum subsp. boreale is allopatric, and covers a much larger area to the south and
+east, in Siskiyou and Trinity counties, over a broader range of elevations. When compared to other members of the
+group, both S. citrinum and S. obtusatum subsp. boreale differ strongly enough in floral characters to be considered
+separate species. Related taxa, like S. oregonense to the north, and S. obtusatum subsp. obtusatum to the southeast,
+have quite different corollas and distributions. (Fig. 3, Table 1).
+
+FIGURE 6. Inflorescence shape. A–E. Sedum obtusatum subsp. boreale cylindrical flowering shoots, with lower branches
+suppressed; A–B. Zika 26289, Siskiyou Co.; C. Zika 25687, Trinity Co.; D–E. Zika 26294, Shasta Co., California; F–H. S. citrinum
+(Zika 26185); F. Flat-topped flowering shoots, with well-developed lower branches; G–H. Plants with 2–3 fertile shoots from one
+rosette; I. S. obtusatum subsp. boreale several fertile shoots, typically unbranched at base (Zika 26289). Scale bars 1 cm.
+
+Etymology:—The epithet citrinum reflects the color of the petals, which are a bright lemon yellow. A
+proposed common name is Blue Creek stonecrop, as all known records are from within this drainage.
+Distribution and conservation:—Blue Creek stonecrop is restricted to the ridges between Red Mountain and
+South Red Mountain, in southern Del Norte County, California, over a linear distance of less than 4 km, and within
+an area of roughly 4 square km. The slopes are drained by tributaries of Blue Creek, in the lower Klamath River
+basin, part of the Klamath Ranges subregion of the California Floristic Province (Baldwin et al. 2012).
+Geologically the substrate is part of the extensive Josephine Peridotite exposures, which extend for 130 km from
+Josephine County, Oregon south to Humboldt County, California (Evans 1984).
+More field work is needed to determine if there are additional colonies in the immediate area. At present fewer
+than 2000 plants are known, restricted to three populations in a small zone, suggesting some conservation efforts
+may be appropriate. More than 20 regional endemics, restricted to serpentine, are listed as rare in the Klamath
+Ranges by Nakamura and Nelson (2001, Table 3b). Using IUCN criteria (2013), S. citrinum would be vulnerable. It
+faces some risks in its remote stony habitats, including road-widening, road maintenance and off-road vehicles.
+
+118 •
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+ZIKA
+
+Phenology and ecology:—Sedum citrinum flowers have been recorded from 9–24 June. The habitat is
+characterized by sunny dry thin soils of serpentine (ultramafic) exposures, on talus or scree, in crevices or between
+boulders, on flats or ground gently sloping east or west, and on adjacent roadcuts, at elevations of 1050–1235 m
+(Fig. 7). Common or noteworthy associates include: Adiantum aleuticum (Ruprecht 1845: 49) C. A. Paris (1991:
+112), Arctostaphylos nevadensis A. Gray (1878: 27), Aspidotis densa (Brackenridge 1854: 120, pl. 13) Lellinger
+(1968: 141), Berberis aquifolium Pursh (1813: 219, pl. 4), Calochortus tolmiei Hooker & Arnott (1840: 398),
+Carex serpenticola Zika (et al. 1998: 261), Ceanothus pumilus Greene (1893: 149), Elymus glaucus Buckley
+(1862: 99), Horkelia sericata S. Watson (1885: 364), Iris thompsonii R.C. Foster (1936: 199), Juniperus communis
+Linnaeus (1753: 1040), Montia parvifolia (Moc. ex de Candolle 1828: 361) Greene (1891: 181), Phlox diffusa
+Bentham (1849: 325), Pinus attenuata Lemmon (1892: 65), P. contorta Douglas ex Loudon (1838: 2292, f. 2210,
+2211), Pinus monticola Douglas ex D. Don (in Lambert 1832: unnumbered page following Tab. 80), Polystichum
+imbricans (D.C. Eaton 1878: 188, pl. 25, f. 3) D.H. Wagner (1979: 50), Quercus vaccinifolia Kellogg (1870: 52),
+Senecio integerrimus Nuttall (1818: 165), Stipa lemmonii (Vasey 1892: 55) Scribner (1901: 3), Viola lobata
+Bentham (1849: 298) and Whipplea modesta Torrey (1857: 90).
+
+FIGURE 7. Sedum citrinum habitat, showing ultramafic exposures and surrounding forest at the three localities. A–B. Zika 26201; C.
+Zika 26185; D. Zika 25931 .
+
+Acknowledgments
+Among those who generously contributed expertise and field work, it was a pleasure to work with Lowell Ahart,
+Dick Brainerd, Steven Darrington, Lawrence Janeway, Nick Otting, and Barbara Wilson, as part of a much larger
+study of sect. Gormania that began in the Shasta-Trinity National Forest. I am particularly grateful to Julie Nelson
+for initiating and participating in that research. Jan Kirschner graciously translated the diagnosis into Latin. The
+A NEW SPECIES OF STONECROP (SEDUM SECTION GORMANIA)
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+• 119
+
+curators and staff of the following herbaria facilitated loans and access to their collections, including types: BH,
+CAS, CU, DBN, DS, F, GH, JEPS, MO, NY, ORE, OSC, POM, RSA, UC, US, WILLU, and WTU. Finally, I
+would like to thank Curtis Björk and an anonymous reviewer for their suggestions and improvements to the
+manuscript.
+
+References
+Baldwin, B.G., Goldman, D.H., Keil, D.J., Patterson, R., Rosatti, T.J., & Wilkin, D.H. (eds.)(2012) The Jepson manual:
+Vascular plants of California, 2nd ed. University of California Press, Berkeley. 1568 pp.
+Bentham, G. (1849) Plantas Hartwegianas imprimis Mexicanas adjectis nonnullis Grahamianis enumerat novasque describit.
+Gulielmus Pamplin, Londini. 393 pp.
+http://dx.doi.org/10.5962/bhl.title.437
+Berger, A. (1930) Crassulaceae. Die natürlichen Pflanzenfamilien, ed. 2, 18a: 352–483.
+Brackenridge, W.D. (1854) Botany. Cryptogamia. Filices, including Lycopodiaceae and Hydropterides. In: Wilkes, C. United
+States Exploring Expedition. During the years 1838, 1839, 1840, 1841, 1842. Under the command of Charles Wilkes,
+U.S.N. Vol. 16: 1–357.
+Britton, N.L. & Rose, J.N. (1903) New or noteworthy North American Crassulaceae. Bulletin of the New York Botanical
+Garden 3: 1–45.
+Buckley, S.B. (1862) Description of plants. —No. 3. Proceedings of the Academy of Natural Sciences of Philadelphia 14: 88–
+100.
+de Candolle, A.P. (1828) Prodromus Systematis Naturalis Regni Vegetabilis, vol. 3. 494 pp.
+http://dx.doi.org/10.5962/bhl.title.286
+Clausen, R.T. (1942) Studies in the Crassulaceae—III. Sedum, subgenus Gormania, section Eugormania. Bulletin of the Torrey
+Botanical Club 69: 27–40.
+Clausen, R.T. (1975) Sedum of North America North of the Mexican Plateau. Cornell University Press, Ithica. 742 pp.
+Denton, M.F. (1978) Two new taxa of Sedum section Gormania (Crassulaceae) endemic to the Trinity Mountains in California.
+Brittonia 30: 233-238.
+http://dx.doi.org/10.2307/2806658
+Denton, M.F. (1979a) Factors contributing to evolutionary divergence and endemism in Sedum section Gormania
+(Crassulaceae). Taxon 28: 149–155.
+http://dx.doi.org/10.2307/1219570
+Denton, M.F. (1979b) Cytological and reproductive differentiation in Sedum section Gormania (Crassulaceae). Brittonia 31:
+197–211.
+http://dx.doi.org/10.2307/2806176
+Denton, M.F. (1982) Revision of Sedum section Gormania (Crassulaceae). Brittonia 34: 48–77.
+http://dx.doi.org/10.2307/2806401
+Denton, M.F. (1993) Sedum. In: Hickman, J.C. (ed.), The Jepson manual: Higher plants of California. University of California
+Press, Berkeley, pp. 531–534.
+Denton, M.F. & Boyd, S. (2012) Sedum. In: Baldwin, B.G., Goldman, D.H., Keil, D.J., Patterson, R., Rosatti, T.J., & Wilkin,
+D.H., The Jepson manual: Vascular plants of California, 2nd ed. University of California Press, Berkeley, pp. 674–676 .
+Eaton, D.C. (1878) The Ferns of North America, vol. 1. S. E. Cassino, Salem, Massachusetts. 352 pp.
+Evans, J.G. (ed.)(1984) Geological and geophysical studies of chromite deposits in the Josephine Peridotite, northwestern
+California and southwestern Oregon. U. S. Geological Survey Bulletin 1546: 1–86.
+Foster, R.C. (1936) A new Iris from California. Rhodora 38: 199–201.
+Gray, A. (1868) Characters of new plants of California and elsewhere, principally of those collected by H. N. Bolander in the
+State Geological Survey. Proceedings of the American Academy of Arts and Sciences 7: 327–401.
+Gray, A. (1878) Synoptical Flora of North America, vol. 2, part 1. American Book Company, New York. 402 pp.
+http://dx.doi.org/10.5962/bhl.title.10847
+Greene, E.L. (1891) Flora Franciscana: an Attempt to Classify and Describe the Vascular Plants of Middle California, part 2.
+Cubery & Co., San Francisco. Pp. 129–280.
+http://dx.doi.org/10.5962/bhl.title.7689
+Greene, E.L. (1893) Novitates occidentales—IV. Erythea 1: 147 –153.
+Hooker, W.J. & Arnott, G.A.W. (1840) The Botany of Captain Beechey’s Voyage Comprising an Account of the Plants Collected
+by Messrs. Lay and Collie, and Other Officers of the Expedition, During the Voyage to the Pacific and Behring’s Strait,
+Performed in His Majesty’s Ship Blossom, Under the Command of Captain F.W. Beechey ... in the Years 1825, 26, 27, and
+28. H. G. Bohn, London. 485 pp.
+http://dx.doi.org/10.5962/bhl.title.246
+IUCN (2013) The IUCN red list of threatened species, version 2013.1. IUCN Red List Unit, Cambridge U.K. Available from:
+http://www.iucnredlist.org/ (accessed: 3 October 2013).
+
+120 •
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+ZIKA
+
+Kellogg, A. (1870) California Academy of Sciences. Scientific Opinion 3: 52.
+Lambert, A.B. (1832) A description of the genus Pinus, with directions relative to the cultivation, and remarks on the uses of
+the several species: also, descriptions of many other new species of the family of Coniferae, 2nd ed., vol. 2. H. Weddell,
+London. 124 pp.
+Lellinger, D.B. (1968) A note on Aspidotis. American Fern Journal 58: 140–141.
+Lemmon, J.G. (1892) Notes on cone-bearers of North-west America.—1. Garden and Forest 5: 64–65.
+Linnaeus, C. (1753) Species Plantarum. Laurentii Salvii, Stockholm. 1200 pp.
+Loudon, J.C. (1838) Arboretum et fruticetum Britannicum; or, The trees and shrubs of Britain, native and foreign, hardy and
+half-hardy, pictorially and botanically delineated, and scientifically and popularly described; with their propagation,
+culture, management, and uses in the arts, in useful and ornamental plantations, and in landscape-gardening; preceded by
+a historical and geographical outline of the trees and shrubs of temperate climates throughout the world, vol. 4. James
+Ridway and Sons, London. 2694 pp.
+Nakamura, G. & Nelson, J.K. (eds.)(2001) Illustrated field guide to selected rare plants of northern California. University of
+California Division of Agriculture and Natural Resources Publication 3395: 1–370.
+Nuttall, T. (1818) The genera of North American plants, vol. 2. D. Heart, Philadelphia. 254 pp.
+Ohba, H. (2007) Fourteen new combinations in Sedum (Crassulaceae). Journal of the Botanical Research Institute of Texas 1:
+889–890.
+Ohba, H. (2009) Sedum. In: Flora of North America Editorial Committee (eds.), Flora of North America North of Mexico, vol.
+8, Magnoliophyta: Paeoniaceae to Ericaceae. Oxford University Press, New York, pp. 199–222.
+Paris, C. (1991) Adiantum viridimontanum, a new maidenhair fern in eastern North America. Rhodora 93: 105–122.
+Peck, M. 1937. Some new species and varieties of Oregon plants. Proceedings of the Biological Society of Washington 50: 121–
+123.
+Peck, M. (1941) A Manual of the higher plants of Oregon. Binfords and Mort, Portland, Oregon. 866 pp.
+Pursh, F.T. (1813) Flora Americae septentrionalis; or, a systematic arrangement and description of the plants of North
+America, vol. 1. White, Cochrane, and Co., London. 358 pp.
+http://dx.doi.org/10.5962/bhl.title.6122
+Ruprecht, F.J. (1845) Distributio cryptogamarum vascularium in Imperio Rossico. Buchdruckerei der Kaiserlichen Akademie
+der Wissenschaften, St. Petersburg. 56 pp.
+Scribner, F.L. (1901) New or little known grasses. Circular, Division of Agrostology, United States Department of Agriculture
+30: 1–8.
+Torrey, J. (1857) Explorations and surveys for a railroad route from the Mississippi River to the Pacific Ocean, route near the
+thirty-fifth parallel, explored by lieutenant A. W. Whipple, topographical engineers, in 1853 and 1854. Report on the
+botany of the expedition. Pacific Railroad Survey Report 4: 59–182.
+Vasey, G.S. (1892) Monograph of the grasses of the United States and British America. Part 1. Contributions from the United
+States National Herbarium 3: 1–89.
+Wagner, D.H. (1979) Systematics of Polystichum in western North America north of Mexico. Pteridologia 1: 1–64.
+Watson, S. (1882) Contributions to American botany. Proceedings of the American Academy of Arts and Sciences 17: 316–382.
+http://dx.doi.org/10.2307/25138655
+Watson, S. (1885) Descriptions of some new species of plants, chiefly from our western territories. Proceedings of the
+American Academy of Arts and Sciences 20: 352–372.
+http://dx.doi.org/10.2307/25138655
+Zika, P.F., Kuykendall, K. & Wilson, B. (1998) Carex serpenticola (Cyperaceae), a new species from the Klamath Mountains
+of Oregon and California. Madroño 45: 261–270.
+
+A NEW SPECIES OF STONECROP (SEDUM SECTION GORMANIA)
+
+Phytotaxa 159 (2) © 2014 Magnolia Press
+
+• 121
+
+

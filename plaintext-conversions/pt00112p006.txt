@@ -1,0 +1,386 @@
+Phytotaxa 112 (1): 1–6 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.112.1.1
+
+Notes on Early Land Plants Today. 40. Notes on Cephaloziellaceae
+(Marchantiophyta)
+JI Í VÁ A1, LARS SÖDERSTRÖM2, ANDERS HAGBORG3 & MATT VON KONRAT3
+
+Ň
+
+Ř
+
+1
+
+Department of Botany, Charles University, Benátská 2, CZ-12801 Praha 2, Czech Republic; vana@natur.cuni.cz
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+3
+Department of Botany, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+2
+
+Abstract
+The family Cephaloziellaceae is here defined in a very broad sense based mainly on molecular studies and includes
+morphologically diverse elements. Necessary new combinations are made in addition to some transfers and new
+synonyms in Cylindrocolea and Cephaloziella.
+
+Delimitation of Cephaloziellaceae
+A number of genera traditionally included in Scapaniaceae Migula (1904: 479), Lophoziaceae Cavers (1910:
+293), or recently Anastrophyllaceae Söderström et al. (2010: 48), are shown not to be related to those
+families, but rather to an unresolved region including Cephaloziellaceae. Molecular studies are few and in
+most cases the taxa shown to belong here have been used as parts of more general studies, as outgroups or
+believed to be members of the family of interest. The only molecular study dedicated to this group including a
+fair number of taxa is Feldberg et al. (2013), but as it is a study of divergence time and does not include
+confidence values, it is difficult to draw too many conclusions from it.
+Davis (2004) placed Herzogobryum far outside Gymnomitriaceae Klinggräff (1858: 16) in an unresolved
+relation within Cephaloziineae Schljakov (1972: 503). He-Nygrén et. al. (2004) and He & Glenny (2010)
+indicated that Chaetophyllopsis may belong here. De Roo et al. (2007) demonstrated that Gymnocoleopsis is
+closely related to Cephaloziella and placed Oleolophozia, Obtusifolium, Lophonardia and Gottschelia on long
+branches basal to Cephaloziellaceae, but not within Lophoziaceae or Anastrophyllaceae. Vilnet et al. (2010)
+placed Obtusifolium and Protolophozia elongata (Stephani 1902: 41) Schljakov (1979: 204) here although
+their position was not stable across their trees. Recent investigation of abundant material of Anastrophyllopsis
+involutifolia (Gottsche et al. 1844: 81) Vá a & L.Söderstr. in Vá a et al. (2013: 15) by one of us (JV) shows
+that it is morphologically very similar to Gottschelia. That genus should thus also be referred to the
+“Cephaloziellaceae” region.
+As circumscribed here, Cephaloziellaceae is morphologically heterogeneous and is probably best treated
+as a ‘superfamily’. Morphologically it is difficult to defend such a diverse family and it should probably be
+separated into further families. However, this requires more molecular and morphological study. Genera
+preceded by a * in the following list do not belong to the core Cephaloziellaceae.
+
+ň
+
+ň
+
+Cephaloziellaceae Douin, Rév. Gén. Bot. 26: 179, 1914 (Douin 1914a). Type:—Cephaloziella (Spruce)
+Schiffn.
+*
+
+Allisoniella E.A.Hodgs., Trans. & Proc. Roy. Soc. New Zealand, Bot. 3: 80, 1965 (Hodgson 1965).
+Amphicephalozia R.M.Schust., Nova Hedwigia 22: 131, 1971 [1972] (Schuster 1972). *Anastrophyllopsis
+
+Accepted by Jon Shaw: 24 May 2013; published online in PDF: 17 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+(R.M.Schust.) Vá a et L.Söderstr., Phytotaxa 81: 15, 2013 (Vá a et al. 2013). Basionym: Anastrophyllum subgen.
+Anastrophyllopsis R.M.Schust., Beih. Nova Hedwigia 119: 310, 2002 (Schuster 2002). Cephalojonesia Grolle, Rev.
+Bryol. Lichénol. 37: 763, 1971 (Grolle & Vanden Berghen 1971). Cephaloziella (Spruce) Schiffn., Hepat. (Engl.Prantl): 98, 1893 (Schiffner 1893). Basionym: Cephalozia subgen. Cephaloziella Spruce, Cephalozia: 62, 1882
+(Spruce 1882). Cephalomitrion R.M.Schust., Nova Hedwigia 61: 550, 1995 (Schuster 1995). Cephaloziopsis
+(Spruce) Schiffn., Hepat. (Engl.-Prantl): 85, 1893 (Schiffner 1893). Basionym: Jungermannia sect. Cephaloziopsis
+Spruce, Trans. & Proc. Bot. Soc. Edinburgh 15: 511, 1885 (Spruce 1885). *Chaetophyllopsis R.M.Schust., J.
+Hattori Bot. Lab. 23: 69, 1960 [1961] (Schuster 1961). Cylindrocolea R.M.Schust., Bull. Natl. Sci. Mus. Tokyo 12:
+664, 1969 (Schuster 1969). *Gottschelia Grolle, J. Hattori Bot. Lab. 31: 13, 1968 (Grolle 1968). Gymnocoleopsis
+(R.M.Schust.) R.M.Schust., Phytologia 39: 243, 1978 (Schuster 1978). Basionym: Gymnocolea subgen.
+Gymnocoleopsis R.M.Schust., Bryologist 70: 111, 1967 (Schuster 1967). *Herzogobryum Grolle, Rev. Bryol.
+Lichénol. 32: 160, 1963 [1964] (Grolle 1964a). Kymatocalyx Herzog, Memoranda Soc. Fauna Fl. Fenn. 25: 55,
+1950 (Herzog 1950a). *Lophonardia R.M.Schust., Phytologia 39: 244, 1978 (Schuster 1978). *Nothogymnomitrion
+R.M.Schust., J. Hattori Bot. Lab. 80: 43, 1996 (Schuster 1996). *Obtusifolium (H.Buch) S.W.Arnell, Ill. Moss Fl.
+Fennosc. Hep.: 309 (Arnell 1956). Basionym: Barbilophozia subgen. Obtusifolium H.Buch, Memoranda Soc. Fauna
+Fl. Fenn. 17: 289, 1942 (Buch 1942). *Oleolophozia L.Söderstr., De Roo et Hedd., Phytotaxa 3: 50, 2010
+(Söderström et al. 2010). *Protolophozia (R.M.Schust.) Schljakov, Novosti Sist. Nizsh. Rast. 16: 204, 1979
+(Schljakov 1979). Basionym: Lophozia subgen. Protolophozia R.M.Schust., Nova Hedwigia 15: 474, 1968
+(Schuster 1968).
+
+ň
+
+ň
+
+New combinations and synonyms
+A number of taxa originally described under Anthelia, Jungermannia or Cephalozia belong to Cephaloziella
+and are without being transferred or synonymized with any taxon. We make some necessary transfers and new
+synonyms below.
+The format of this note follows Söderström et al. (2012) except that we use the Melbourne International
+Code of Nomenclature for algae, fungi, and plants (ICN; McNeill et al. 2012) instead of the Vienna
+International Botanical Code of Nomenclature (ICBN; McNeill et al. 2006).
+Cylindrocolea abyssinica (Gola) Vá a, comb. nov.
+
+ň
+
+Basionym:—Cephaloziella abyssinica Gola, Ann. di Bot. 13: 68, 1914 (Gola 1914).
+Type:—ETHIOPIA. Amhara-Dembià: a Gondar sui tronchi di Phytolacca e Codia, 6. IX. 1909, Chiovenda 2758
+(holotype FT!).
+= Cephalozia atroviridis Sim, Trans. Roy. Soc. South Africa 15: 84, 1926 (Sim 1926), syn. nov. Type:—SOUTH
+AFRICA. Natal: Hilton Road, Sim 8983 (lectotype [here designated] PRE!) Cephaloziella atroviridis (Sim)
+S.W.Arnell, Bot. Not. 108: 309, 1955 (Arnell 1955). Cylindrocolea atroviridis (Sim) Vá a, Lejeunia, n.s. 98: 7,
+1979 (Vá a et al. 1979).
+≡
+
+ň
+
+≡
+
+ň
+
+Cylindrocolea kiaeri (Austin) Vá a, comb. nov.
+
+ň
+
+Basionym:—Jungermannia kiaeri Austin, Bull. Torrey Bot. Club 6: 18, 1875 (Austin 1875).
+Type:—AFRICA. “with Dicranella Borgeni, Hampe, com. F. Kiaer of Norway” (MANCH).
+Cephalozia kiaeri (Austin) Pearson, Skr. Vidensk.-Selsk. Christiana, Math.-Naturvidensk. Kl. 1887(9): 8, 1887
+(Pearson 1887). Cephaloziella kiaeri (Austin) Douin, Mém. Soc. Bot. France 29, 69 (Douin 1920).
+= Cephalozia minutissima Kiaer et Pearson, Christiania Vidensk.-Selsk. Forh. 1892 (14): 7, 1893 (Pearson 1893), syn.
+fide Vá a (1988).
+= Cephalozia lilae C.M.Cooke, Trans. Connecticut Acad. Arts 12: 36, 1904 (Cooke 1904), syn. nov. Type:—HAWAII.
+Nuuanu Oahu 1000 ft., July 1898, C.M. Cooke Jr. (lectotype [here designated] BISH-500093!) Cephaloziella
+lilae (C.M.Cooke) Douin, Mém. Soc. Bot. France 29: 80, 1920 (Douin 1920).
+= Cephalozia willisana Steph., Bull. Herb. Boissier ser. 2, 8: 430 (Sp. Hepat. [Stephani] 3: 306), 1908 (Stephani 1908a),
+syn. fide Vá a et al. (1979). Cephaloziella willisana (Steph.) N.Kitag., J. Hattori Bot. Lab. 32: 295, 1969
+(Kitagawa 1969).
+= Cephaloziella pentagona Schiffn. ex Douin, Mém. Soc. Bot. France 29, 79 (Douin 1920), syn. fide Kitagawa (1969).
+= Cephalozia andreana Steph., Sp. Hepat. (Stephani) 6: 434 (Stephani 1924), syn. fide Udar & Kumar (1985)
+= Cephalozia aspera Steph., Sp. Hepat. (Stephani) 6: 440 (Stephani 1924), syn. fide Vá a et al. (1979). Cephaloziella
+≡
+
+≡
+
+ň
+
+≡
+
+≡
+
+VÁ A ET AL.
+
+Ň
+
+ň
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+≡
+
+ň
+
+2 •
+
+pentagona var. aspera (Steph.) Douin, Mém. Soc. Bot. France 29: 80, 1920 (Douin 1920).
+= Cephalozia radicans Sim, Trans. Roy. Soc. South Africa 15: 85, 1926 (Sim 1926), syn. fide Vá a (1988).
+= Cephaloziella minutifolia Horik., J. Sci. Hiroshima Univ., Ser. B., Div. 2, Bot. 2: 175, 1934 (Horikawa 1934), syn. fide
+Furuki (1989).
+ň
+
+Cephaloziella granatensis (J.B.Jack ex Steph.) Fulford
+Basionym:—Cephalozia granatensis J.B.Jack ex Steph., Bull. Herb. Boissier ser. 2, 8: 500 (Sp. Hepat. [Stephani] 3:
+330), 1908 (Stephani 1908b).
+Type:—COLOMBIA. Páramo de San Isabel, 12,600’, 1874, Wallis ex herb. Jack, Stephani herb. no. 16442 (lectotype
+[here designated] G-00067742!) (Fig. 1).
+Cephalozia evansioides Douin, Bull. Soc. Bot. France 60: 480, 1913 [1914] (Douin 1914b), nom. inval. (ICN Art.
+52.1; based on the same type).
+Note:—Douin wrote “Dans l’herbier Boissier, grace à l’amabilité de M. Beauverd; elle provident de la NouvelleGrenade, Páramo de San Isabel (leg. Wallis)”. This is the same specimen as Stephani based his Cephalozia
+granatensis on although it is not stated on the package. There is no other specimen in G under Cephalozia collected
+by Wallis from the same locality (M. Price, pers. comm.).
+≡
+
+Cephaloziella tenuissima (Lehm.) Steph., Hedwigia 32: 318, 1893 (Stephani 1893).
+Basionym:—Jungermannia tenuissima Lehm., Linnaea 4: 367, 1829 (Lehmann 1829).
+Type:—SOUTH AFRICA. Western Cape: Cape of Good Hope, Ecklon (lectotype [here designated] S-B29229!).
+= Anthelia africana Steph., Hedwigia 31: 121, 1892 (Stephani 1892), syn. nov. Type:—SOUTH AFRICA. Transvaal:
+near Lydenburg, 1887, Wilms, Stephani herb. no. 3729 (lectotype [here designated] G-00045034!).
+
+FIGURE 1. Label and annotations of the type specimen of Cephaloziella granatensis in G. This specimen was used by Douin
+describing his Cephalozia evansioides. Published with permission from G.
+
+Cephaloziella villaumei (Steph.) Vá a, comb. nov.
+
+ň
+
+Basionym:—Cephalozia villaumei Steph., Sp. Hepat. (Stephani) 6: 437, 1924 (Stephani 1924).
+Type:—MADAGASCAR. Villaume, Stephani herb. no. 18329 (lectotype [here designated] G-00060628!).
+Note:—Probably closely allied to Cephaloziella anthelioides S.W.Arnell (which was also noted by R. Grolle 1994 in an
+annotation to the type specimen).
+
+NOTES ON CEPHALOZIELLACEAE (MARCHANTIOPHYTA)
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 3
+
+Acknowledgement
+We thank Michelle Price (G) for help with type specimens and permission to publish the image. The Early
+Land Plants Today project (ELPT) has been generously supported in part by the Global Biological
+Information Facility (GBIF) Seed Money Award No.2007-41, activities facilitated in part by funding from the
+Biodiversity Synthesis Center of the Encyclopedia of Life (BioSynC), partial funding from the National
+Science Foundation (Award No's 0749762, 1115002), the Warwick Foundation, and the Negaunee
+Foundation.
+
+References
+Arnell, S. (1955) Notes on South African Hepatics II. Botaniska Notiser 108: 309–313.
+Arnell, S. (1956) Illustrated Mossflora of Fennoscandia. I. Hepaticae. Nordic Bryological Society, Lund, 314 pp.
+Austin, C.F. (1875) New Hepaticae. Bulletin of the Torrey Botanical Club 6: 17–21.
+http://dx.doi.org/10.2307/2475861
+Buch, H. (1942) Vorarbeiten zur eine Lebermoosflora Fenno-Scandias. VII. Über die verwandtschaftlichen Beziehungen
+zwischen den Arten der Gattungen Sphenolobus St. sens. lat. und Lophozia Dum. sens. lat. Memoranda societatis
+pro fauna et flora fennica 17: 283–290.
+Caspary, R. (1887) Einige neue Pflanzenreste aus dem samländischen Bernstein. Schriften der Königlichen PhysikalischÖkonomischen Gesellschaft zu Königsberg 27: 1–8.
+Cavers, F. (1910) The interrelationships of the Bryophyta. New Phytologist 9: 269–304.
+http://dx.doi.org/10.1111/j.1469-8137.1910.tb05560.x
+Cooke, C.M. (1904) The Hawaiian Hepaticae of the tribe Trigonantheae. Transactions of the Connecticut Academy of
+Arts and Sciences 12: 1–45.
+Costa, D.P., Santos, N.D. & Vá a, J. (2008) A new species of Cylindrocolea (Cephaloziellaceae) from Brazil. Bryologist
+111: 667–669.
+http://dx.doi.org/10.1639/0007-2745-111.4.667
+Douin, C. (1914a) Le sporogone des Céphaloziellacées. Revue Générale de Botanique 25: 179–195.
+Douin, C. (1914 “1913”) Les propagules des Céphaloziellacées et de quelques autres Hépatiques. Bulletin de la société
+Botanique de France 60: 477–495.
+Douin, C. (1914c) Les melanges d'espèces chez les Céphaloziellacées. Revue Bryologique 41: 1–8.
+Douin, C. (1916) Les variations du gametophyte chez les Céphaloziellacées. Revue Générale de Botanique 28: 300–320.
+Douin, C. (1920) La famille des Céphaloziellacées. Mémoires de la Société Botanique de France 29: 1–90.
+Feldberg, K., Heinrichs, J., Schmidt, A.R., Vá a, J. & Schneider, H. (2013) Exploring the impact of fossil constraints on
+the divergence time estimates of derived liverworts. Plant Systematics and Evolution 299: 585–601.
+http://dx.doi.org/10.1007/s00606-012-0745-y
+Fulford, M. (1976) Manual of the leafy Hepaticae of Latin America IV. Memoirs of the New York Botanical Garden 11:
+395–535.
+Furuki, T. (1989) The status of Cephaloziella minutifolia Horik. (Hepaticae). Journal of Japanese Botany 64: 139–141.
+Gola, G. (1914) Epatiche dell´Abissinia. Annali di Botanica. Roma 13: 59–75.
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, S.G. (1844) Synopsis Hepaticarum, fasc. 1. Meissner,
+Hamburg, pp. 1–144.
+http://dx.doi.org/10.5962/bhl.title.15221
+Gradstein, S.R. & Costa, D.P. (2003) The hepaticae and Anthocerotae of Brazil. Memoirs of the New York Botanical
+Garden 87: 1–316.
+Gradstein, S.R. & Vá a, J. (1999) On the taxonomy of Kymatocalyx and Stenorrhipis (Cephaloziellaceae).
+Haussknechtia, Beiheft 9: 155–170.
+Grolle, R. (1961 “1960”) Notulae hepaticologicae I.-II.-III. Revue Bryologique et Lichénologique 29: 207–211.
+Grolle, R. (1964a “1963”) Notulae hepaticologicae VII-IX. Revue Bryologique et Lichénologique 32: 157–165.
+Grolle, R. (1964b) Miscellanea hepaticologica 1-10. Österreichische Botanische Zeitschrift 111: 185–192.
+http://dx.doi.org/10.1007/bf01373763
+Grolle, R. (1968) Gottschelia – eine neue Jungermanniales-Gattung der Palaeotropis. Journal of the Hattori Botanical
+Laboratory 31: 13–19.
+Grolle, R. (1981 “1980”) Miscellanea Hepaticologica 201-210. Journal of Bryology 11: 325–334.
+Grolle, R. & Meister, K. (2004) The liverworts in Baltic and Bitterfeld amber. Weissdorn-Verlag, Jena, 91 pp.
+ň
+
+ň
+
+ň
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+VÁ A ET AL.
+
+Ň
+
+4 •
+
+Grolle, R. & Vanden Berghen, C. (1971) Une genre nouveau pour la famille Cephaloziellaceae: Cephalojonesia Grolle.
+Revue Bryologique et Lichénologique 37: 763–768.
+Hattori, S. (1944) Contributio as Floram Hepaticarum Austro-Kiushiuensem. Bulletin of the Tokyo science museum 11:
+1–203.
+Hattori, S. (1966) Hepaticae and Anthocerotae of Mt. Chokai, northern Japan. Journal of the Hattori Botanical
+Laboratory 29: 267–278.
+Herzog, T. (1950a) Miscellanea bryologica. I. Neotropica. Memoranda societatis pro fauna et flora fennica 25: 43–72.
+Herzog, T. (1950b) Hepaticae Borneenses. Transactions of the British Bryological Society 1: 275–326.
+http://dx.doi.org/10.1179/006813850804878680
+Hodgson, E.A. (1965) New Zealand Hepaticae (Liverworts) - XVI A miscellany of new genera, new species and notes,
+part I. Transactions of the Royal Society of New Zealand, Botany 3: 67–97.
+Hodgson, E.A. (1972) New Zealand Hepaticae (Liverworts) - XX: A miscellany taxonomic notes, Part 3. Journal of the
+Royal Society of New Zealand 2: 109–118.
+http://dx.doi.org/10.1080/03036758.1972.10423309
+Horikawa, Y. (1934) Monographia Hepaticarum Australi-Japonicarum. Journal of Science of the Hiroshima University:
+Series B, Division 2 (Botany) 2: 101–325.
+Inoue, H. (1972) Miscellaneous notes on hepatics of Japan, part 7. Journal of Japanese Botany 47: 347–350.
+Jones, E.W. (1960) African Hepaticae XIV. Some Cephaloziellas of lowland tropical Africa. Transactions of the British
+Bryological Society 3: 430–440.
+http://dx.doi.org/10.1179/006813858804829398
+Kitagawa, N. (1969) Studies on the Hepaticae of Thailand. II. Cephalozia and Cephaloziella. Journal of the Hattori
+Botanical Laboratory 32: 290–306.
+Klinggräff, H.V. (1858) Die höheren Cryptogamen Preussens. Wilhelm Koch, Königsberg, 220 pp.
+Lehmann, J.G.C. (1829) Hepaticarum Capensium a C.F. Ecklon collectarum brevem recensionem cum Schlechtendalio
+suo. Linnaea 4: 357–371.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012)
+International Code of Nomenclature for Algae, Fungi and Plants (Melbourne Code). Adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–208.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva,
+P.C., Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna
+Code) adopted by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile
+146: 1–260.
+Migula, W. (1904) Kryptogamen-Flora von Deutschland, Deutsch-Österreich und der Schweiz. Band I. Moose. Friedrich
+von Zezschwitz, Berlin, 512 pp.
+http://dx.doi.org/10.5962/bhl.title.35974
+Montagne, J.F.C. (1842) Botanique. Plantes Cellulaires. In: Ramon de la Sagra, M. (Ed), Histoire Physique, Politique et
+Naturelle de l'Ile de Cuba. Arthus Bertrand, Paris, pp. 427–492.
+Pearson, W.H. (1887) Hepaticae Knysnanae. Skrifter udgivne af Videnskabs-Selskabet i Christiana. MathematiskNaturvidenskabelig Klasse 1887(9): 1–16.
+Schiffner, V. (1893) Hepaticae (Lebermoose). In: Engler, A. & Prantl, K. (Eds), Die Natürlichen Pflanzenfamilien, Teil. I,
+Abt. 3. Engelmann, Leipzig, pp. 1–144.
+Schiffner, V. (1955). Die Moose der deutschen limnologischen Sundaexpedition. Archiv für Hydrobiologie, Suppl. 21:
+299-407.
+Schljakov, R.N. (1972) [On the higher taxa of liverworts - class Hepaticae s.str.]. Botanicheskii Zhurnal. Moscow &
+Leningrad 57: 496–508.
+Schljakov, R.N. (1979) Novye dopolneniya k flore pethenochnikov severnykh rayonov SSSR [Addidamenta nova ad
+floram hepaticarum regionum septentrionalium URSS]. Novosti sistematiki nizshikh rastenij 16: 201–208.
+Schuster, R.M. (1961 “1960”) Studies on Hepaticae. II. The new family Chaetophylliopsidaceae. Journal of the Hattori
+Botanical Laboratory 23: 68–76.
+Schuster, R.M. (1967) A note on the genus Gymnocolea Dum. The Bryologist 70: 111–112.
+Schuster, R.M. (1968) Studies on the Hepaticae, XXIX-XLIV. A miscellany of new taxa and new range extensions. Nova
+Hedwigia 15: 437–529.
+Schuster, R.M. (1969) Studies on Hepaticae XLVI-XLVII. On Alobiella (Spr.) Schiffn. and Alobiellopsis Schust. Bulletin
+of the National Science Museum 12: 659–683.
+Schuster, R.M. (1972 “1971”) Studies on Cephaloziellaceae. Nova Hedwigia 22: 121–265.
+Schuster, R.M. (1978) Studies on Venezuelan Hepaticae. I. Phytologia 39: 239–251.
+Schuster, R.M. (1980) The Hepaticae and Anthocerotae of North America. vol. IV. Columbia University Press, New
+York, 1334 pp.
+
+NOTES ON CEPHALOZIELLACEAE (MARCHANTIOPHYTA)
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+• 5
+
+Schuster, R. M. (1995) Studies on Cephaloziellaceae III. On Cephalomitrion Schust., gen. n. Nova Hedwigia 61: 547559.
+Schuster, R.M. (1996) Studies on Antipodal Hepaticae. XII. Gymnomitriaceae. Journal of the Hattori Botanical
+Laboratory 80: 1–147.
+Schuster, R.M. (2002) Austral Hepaticae, part II. Beihefte zur Nova Hedwigia 119: 1–606.
+Sim, T.R. (1926) The bryophyta of South Africa. Transactions of the Royal Society of South Africa 15: 1–475.
+http://dx.doi.org/10.1080/00359192609519311
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+Söderström, L., De Roo, R. & Hedderson, T. (2010) Taxonomic novelties resulting from recent reclassification of the
+Lophoziaceae/Scapaniaceae clade. Phytotaxa 3: 47–53.
+http://dx.doi.org/10.11646/phytotaxa.3.1.7
+Spruce, R. (1882) On Cephalozia, its subgenera and some allied genera. Slater, Malton, 99 pp.
+http://dx.doi.org/10.5962/bhl.title.46289
+Spruce, R. (1885) Hepaticae Amazonica et Andinae. Transactions and Proceedings of the Botanical Society. Edinburgh
+15: 309–588.
+Stephani, F. (1892) Hepaticae africanae. Hedwigia 31: 120–130.
+Stephani, F. (1893) Hepaticarum species novae. Pars IV. Hedwigia 32: 315–327.
+Stephani, F. (1902) Species Hepaticarum 2. Bulletin de l'Herbier Boissier, série 2 2: 35–48.
+Stephani, F. (1906) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 6( 5): 377–392.
+Stephani, F. (1908a) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8( 6): 426–436.
+Stephani, F. (1908b) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8( 7): 483–514.
+Stephani, F. (1908c) Species Hepaticarum 3. Bulletin de l'Herbier Boissier, série 2 8( 8): 561–608.
+Stephani, F. (1917) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 1-128.
+Stephani, F. (1924) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 433–622.
+Trevisan de Saint-Léon, V.B.A. (1877) Schema di una nuova classificazione della Epatiche. Memorie del Reale Istituto
+Lombardo di Scienze e Lettere, Serie 3, Classe de Scienze Matematiche e Naturali 4: 383–451.
+Udar, R. & Kumar. A. (1983 “1982”) A remarkable Cylindrocolea Schust. from India. Lindbergia 8: 181–184.
+Udar, R. & Kumar, A. (1985) The family Cephaloziellaceae in south India. Geophytology 15: 141–145.
+Vá a, J. (1988) Cephalozia (Dum.) Dum. in Africa, with notes on the genus (Notes on some African hepatic genera 10).
+Beihefte zur Nova Hedwigia 90: 179–198.
+Vá a, J., Pócs, T. & de Sloover, J.L. (1979) Hépatiques d'Afrique tropicale. Lejeunia, n.s. 98: 1–23.
+Vá a, J., Söderström, L. Hagborg, A. & von Konrat, M. (2013) Notes on Early Land Plants Today. 30. Transfer of some
+taxa from Anastrophyllum (Anastrophyllaceae, Marchantiophyta). Phytotaxa 81: 15–18.
+http://dx.doi.org/10.11646/phytotaxa.81.1.6
+ň
+ň
+ň
+
+Phytotaxa 112 (1) © 2013 Magnolia Press
+
+VÁ A ET AL.
+
+Ň
+
+6 •
+
+

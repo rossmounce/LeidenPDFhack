@@ -1,0 +1,289 @@
+Phytotaxa 125 (1): 33–39 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.125.1.5
+
+A new species of Thismia (Thismiaceae) from Brunei Darussalam, Borneo
+MARTIN DANČÁK1, MICHAL HRONEŠ2, MICHAL SOCHOR2, LUCIE KOBRLOVÁ2, RADIM HÉDL3,
+ZÁBOJ HRÁZSKÝ3,6, ANNA VILDOMCOVÁ4, RAHAYU SUKMARIA SUKRI5 & FAIZAH METALI5
+1 Department of Ecology & Environmental Sciences, Faculty of Science, Palacký University, Šlechtitelů 11, CZ-78371 Olomouc,
+Czech Republic; email: martin.dancak@upol.cz
+2 Department of Botany, Faculty of Science, Palacký University, Šlechtitelů 11, CZ-78371 Olomouc, Czech Republic
+3 Institute of Botany, Academy of Sciences of the Czech Republic, Lidická 25/27, CZ-60200 Brno, Czech Republic
+4 Department of Forest Botany, Dendrology and Geobiocoenology, Faculty of Forestry and Wood Technology, Mendel University,
+Zemědělská 3, CZ-61300, Brno, Czech Republic
+5 Biology Programme, Faculty of Science, Universiti Brunei Darussalam, Jalan Tungku Link, BE1410, Brunei Darussalam.
+6 DAPHNE CZ – Institute of Applied ecology, Senovážné n. 1736, 37001 České Budějovice
+
+Abstract
+A new species of Thismia (Thismiaceae) from Borneo is described. Thismia hexagona was discovered in 2013 in
+lowland mixed dipterocarp forest in Ulu Temburong, Brunei Darussalam. The species is circumscribed, illustrated and its
+position within the Malesian species of the genus is characterised by insertion into the existing determination key. Its
+most conspicuous feature is bright yellow, sharply hexagonal flower annulus.
+Kew words: tropical rain forest, mycoheterotrophy, Malesia, Burmanniaceae
+
+Introduction
+The Family Thismiaceae (Dioscoreales) is a small group of achlorophyllous mycoheterotrophic herbaceous
+plants, formerly treated as a tribe Thismieae in the family Burmanniaceae (Merckx et al. 2006). It contains
+five genera: Afrothismia Schlechter (1907: 138), Haplothismia Airy Shaw (1952: 277), Oxygyne Schlechter
+(1907: 140), Thismia Griffith (1844: 221) and Tiputinia Berry & Woodward in Woodward et al. (2007: 158).
+Its distribution covers tropical and subtropical zones globally, with a few species extending to temperate
+regions (Maas-van de Kamer 1998, Woodward et al. 2007).
+The genus Thismia, comprising about 50 species, is the most widespread and species-rich genus of the
+family Thismiaceae. It has a pantropical distribution, with two main centres of biodiversity: the Atlantic Rain
+Forest of South America and Southeast Asia (Jonker 1948, Mancinelli et al. 2012). Members of the genus are
+small herbs with reduced, scale-like leaves, actinomorphic or zygomorphic, urceolate to campanulate flowers.
+Perianth lobes are six, free or three inner lobes connivent at the apex forming erect mitre with three holes
+(Jonker 1948). After Jonker (1938), Southeast Asian species with mitre-like flowers are treated as section
+Sarcosiphon (Blume) Jonker (1938: 251) while species with free perianth lobes as section Thismia. The latter
+section is divided into two subsections: Odoardoa Schlechter (1921: 34) including species with all perianth
+lobes that are equal in length and size, and Brunonithismia Jonker (1938: 242) including species with inner
+perianth lobes that are larger than outer lobes.
+Members of the genus Thismia are generally poorly-known, often collected only once or a few times.
+They are easily overlooked in the field because of their small growth form and the ephemeral nature of their
+aboveground parts (Larsen & Averyanov 2007). Many species are also likely extremely rare, with scattered
+distributions. As a result of these factors, it is highly possible that undescribed species can still be found in
+Southeast Asia (Larsen & Averyanov 2007, Chantanaorrapint 2012).
+Accepted by William Baker: 26 July 2013; published: 21 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+33
+
+During our field work at Kuala Belalong Field Studies Centre (KBFSC) in the Temburong District of
+Brunei Darussalam in February 2013, we found a species of Thismia clearly belonging to the sect. Thismia.
+The section is represented by five species on the island of Borneo, but no species has been reported from
+Brunei Darussalam until now (Jonker 1948, Coode et al. 1996, Jarvie 1996, Tsukaya & Okada 2005). In their
+general appearance and coloration, the plants resembled Thismia bifida M. Hotta (1967: 161) from Sarawak,
+but differed in several important morphological characters from other previously described species of the
+genus. We therefore report this as a first record of the family for Brunei Darussalam and describe it here as a
+new species for science.
+
+Description
+Thismia hexagona Dančák, Hroneš, Kobrlová & Sochor, sp. nov., Fig. 1
+Thismia hexagona differs from congeneric species in having the following combination of morphological traits: all
+perianth lobes equal, tapering into long filiform tentacles, stigmas bifid, yellow hexagonal annulus and four anther
+appendages.
+Type:—BRUNEI DARUSSALAM. Temburong Distr.: Kuala Belalong, eastern ridge of Sungai Belalong, near its
+confluence with Sungai Temburong. Coordinates WGS 84: N 04° 32.952’; E 115° 09.792’, elevation ca. 320 m
+a.s.l., 13 February 2013. M. Dančák, M. Hroneš, M. Sochor & L. Kobrlová 2013/17 (holotype BRUN [herbarium
+specimen, accession number 23947], isotype OL [herbarium specimen, accession number 23093]).
+
+Terrestrial, achlorophyllous, mycoheterotrophic herb. Roots thick, hardly branched, vermiform, creeping,
+whitish. Stem erect, simple or poorly branched in upper part, brown, glabrous, 1.7–7.0 cm tall; stem branches
+usually unequal in length. Leaves few, appressed, scale-like, narrowly triangular, ca. 4 mm long, ca. 2 mm
+wide at the base, acute at the apex. Floral bracts one or two, similar in shape to the leaves, ca. 7 mm long, ca.
+2.0 – 2.5 mm wide at the base. Flowers solitary at the top of each branch. Perianth actinomorphic with 6 tepals
+fused into urceolate perianth tube with free, equal apical lobes; perianth tube ca. 1.0–1.5 cm long, pale
+brownish with lower part usually white, with 12 faint brownish longitudinal streaks and brown-purple apical
+stripe, widest at the upper quarter, at the apex with broad bright yellow, clearly hexagonal annulus (Fig. 1B);
+inner surface of the perianth tube with 12 faint longitudinal ribs and densely covered with short horizontal
+bars; perianth lobes brown-yellowish, equally triangular, abruptly ended with long filiform appendages 7–18
+mm long, brown-yellowish at the base, white at the top. Stamens 6, borne on thickened margin of the perianth
+tube; filaments curved downwards, connective broad, connate to form a tube, with two distinct teeth-like
+appendages at the free apical margins and two thick cylindrical finger-shaped appendages positioned slightly
+above the marginal ones (Fig. 1C, D, 2D). Stigma 3-lobed, lobes shortly bifid (Fig. 1E); ovary cup-shaped
+usually with brown- purple stripe at the top. Fruit cup-shaped brown capsule. Seeds ellipsoid.
+Habitat and ecology:—Thismia hexagona grows amongst leaf litter and on rotten logs in the lowland
+mixed dipterocarp forest. It prefers humid places in gullies formed by small episodic streams (Fig. 3). A total
+of 21 flowering individuals were found within the 1-ha permanent forest plot (Plot 1) belonging to Kuala
+Belalong Field Studies Centre of Universiti Brunei Darussalam (Hédl et al. 2009).
+Distribution:—Species is known only from the type locality: eastern ridge of Sungai Belalong, near its
+confluence with Sungai Temburong. It is also the first record of the genus and family from Brunei Darussalam
+(cf. Coode et al. 1996, J. A. Ahmad, pers. comm.).
+Conservation status:—The studied population occurs within the designated research zone of Ulu
+Temburong National Park, to which public access is restricted. The habitat, type locality and its surroundings
+are thus protected from logging and similar destructive anthropogenic activities. However, it is impossible to
+assess the current conservation status of this species because there is no information on its population size and
+dynamics. Therefore, we suggest to evaluate the species as data deficient (DD) according to the IUCN Red
+List Categories and Criteria (IUCN 2012).
+
+34 •
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+DANČÁK ET AL.
+
+FIGURE 1. Thismia hexagona. A. Habit of the plant. B. View of perianth tube mouth with annulus and perianth lobes. C. Connective
+with anther appendages, side view. D. Apical margin of connective with anther appendages, front view. E. Stigma.
+
+Etymology:—Named after the conspicuous shape of flower annulus.
+Variability:—The population as a whole was uniform, with no considerable morphological variation.
+Most of the individuals were one-flowered, only few two-flowered and one individual with three flowers.
+Some variability was observed in the colour of the perianth tube. A typical individual had an almost white
+lower part of the perianth tube, with the upper part brownish and a more or less conspicuous brown-purple
+stripe at the top just beneath the annulus (Fig. 2A). We found two flowering shoots, probably originating from
+the same root system with a yellow stripe instead of the brown-purple one (Fig. 2B), which we suggest is a
+result of mutation. Few individuals had perianth tubes that were brownish throughout with almost no white
+basal portion. Most of the plants also had a brown-purple stripe at the top of ovary, which made an impression
+of two-purple-striped perianth tube.
+
+A NEW SPECIES OF THISMIA
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+• 35
+
+FIGURE 2. Thismia hexagona. A. Plant with typical coloration of perianth tube. B. Plant lacking brown-purple stripe at the top of
+perianth tube. C. Perianth tube mouth with annulus and perianth lobes. D. Longitudinal section of anther tube with anther appendages.
+
+Discussion
+It is believed by several researchers that some members of the genus Thismia could be very rare (Stone 1980,
+Larsen & Averyanov 2007, Chantanaorrapint 2012). However, some of these presumed rare species may
+actually be neglected. The recent discoveries of Thismia alba Holttum ex Jonker (1948: 23) and T. clavigera
+(Beccari) F. Mueller (1891: 235) from Thailand (Chantanaorrapint & Sridith 2007, Chantanaorrapint &
+Chantanaorrapint 2009) indicate that these inconspicuous ephemeral plants tend to be overlooked or undercollected. Most Thismia species do seem to be extremely rare, usually collected only once. If this is a true
+observation and not an artefact of collection effort, this rarity could be caused especially by a combination of
+
+36 •
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+DANČÁK ET AL.
+
+two mechanisms: (1) the tight bond of the plant with its host fungus and, (2) a specific mode of seed
+dispersion. Merckx & Bidartondo (2008) discovered host-specific associations between members of a closely
+related African genus Afrothismia and arbuscular fungi from the genus Glomus Tulasne & C. Tulasne (1845:
+63). A similar pattern could also be expected in Thismia where the scarcity and limited distribution range of
+its fungal host may lead to the rarity of plants in this genus. With respect to seed dispersal, Stone (1980)
+suggested that seeds of Thismia are dispersed out of their capsules by rain-splash, thus implying that the seeds
+are dispersed over very short distances. These hypotheses need further studies and additional observations to
+be eventually accepted as plausible explanations for Thismia rarity.
+From the morphological point of view, Thismia hexagona is clearly distinct from other Thismia species of
+the Malesian region through a combination of following traits: 1. perianth lobes all equally sized, 2.
+conspicuous hexagonal raised annulus, 3. bifid stigmas and 4. four anther appendages. Species that are
+morphologically closest to Thismia hexagona are members of sect. Thismia subsect. Odoardoa with perianth
+lobes triangular at the base and tapering into filiform appendages: Thismia bifida, T. lauriana Jarvie (1996:
+259) and T. mullerensis Tsukaya & Okada (1995: 129) from Borneo, Thismia aseroe Beccari (1877: 252) from
+Peninsular Malaysia and Thismia alba from Peninsular Malaysia and Thailand. Members of this
+morphologically invariable group have a round annulus, thus the hexagonal annulus of T. hexagona is
+unique within the group. Also, the number of anther appendages (four) differs from the other members of
+subsect. Odoardoa varying from 1 (T. alba) to 3 (T. aseroe and T. bifida). As the shape and general appearance
+of anthers provide useful characters for taxonomy of Thismia (Thiele & Jordan 2002), we consider the four
+anther appendages in T. hexagona as an important diagnostic feature. Some species of the subsection could be
+superficially similar to T. hexagona due to the pattern of their coloration (Thismia alba, T. aseroe and T.
+bifida). However, they differ by some further morphological traits: Thismia alba and T. aseroe do not have
+bifid stigmas and have small perianth appendages alternating the perianth lobes while T. bifida lacks
+transverse bars throughout the perianth tube.
+Similarly bright yellow, distinctly raised hexagonal annulus is also observed in Thismia javanica Smith
+(1910: 32) from the Malesian region, Thailand and Vietnam and Thismia tentaculata Larsen & Averyanov
+(2007: 16) from Vietnam and China. However, these two species clearly differ from T. hexagona, being
+members of subsect. Brunonithismia, as the inner perianth lobes are larger than the outer lobes.
+Identification key
+The species position within Malesian species is shown by insertion into the modified key of Malesian species
+published by Tsukaya & Okada (2012):
+7.
+8.
+9.
+
+Perianth lobes triangular at the base, tapering into long, filiform tentacles ................................................................ 7
+Stigmas bifid ................................................................................................................................................................. 8
+Stigmas not bifid.................................................................................................11 (no. 10 in Tsukaya & Okada 2012)
+Transverse bars found only in the basal part of the perianth tube. Anther appendages 3 ......................Thismia bifida
+Transverse bars found throughout the perianth tube inside. Anther appendages 2 or 4 ............................................. 9
+Annulus bright yellow, sharply hexagonal; perianth tube brownish with lower part usually white, with 12 faint
+brownish longitudinal streaks and dark brown-purple apical horizontal stripe; anthers with 4 finger-shaped appendages: 2 upper and 2 lower at the free apical margin of the connective ............................................ Thismia hexagona
+Annulus pale purple, round or weakly hexagonal; perianth tube white with 12 white or brownish purple longitudinal
+streaks; anthers with 2 appendages ............................................................................................................................ 10
+10. Perianth white with brownish purple streaks; lobes with tentacles ca. 17 mm .............................. Thismia mullerensis
+Perianth white with white streaks; lobes with tentacles ca. 70 mm.................................................... Thismia lauriana
+
+A NEW SPECIES OF THISMIA
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+• 37
+
+FIGURE 3. Habitat, Kuala Belalong, Brunei Darussalam.
+
+Acknowledgements
+We would like to thank staff of the Kuala Belalong Field Studies Centre for their excellent service and support
+during our stay at KBFSC. We also thank Universiti Brunei Darussalam for permission to conduct research at
+KBFSC. We are grateful to Filip Kolář who kindly provided a photocopy of relevant part of Jonker’s
+Monograph. Filip Trnka is acknowledged for excellent photograph of anther tube. Finally, we thank to two
+anonymous reviewers for their comments that improved the manuscript. MD was supported by project No.
+CZ.1.07/2.2.00/28.0149. MH, MS and LK were supported by internal grant from Palacký University (IGA
+PřF 2013-003). RH and ZH were supported by the long-term research development Project No. RVO
+67985939.
+
+References
+Beccari, O. (1877) Burmanniaceae. Malesia 1: 240–253.
+Chantanaorrapint, S. (2012) Thismia filiformis, a new species of Thismiaceae (formerly Burmanniaceae) from Thailand.
+Kew Bulletin 67: 69–73.
+http://dx.doi.org/10.1007/s12225-012-9340-1
+Chantanaorrapint, S. & Chantanaorrapint, A. (2009) Thismia clavigera (Thismiaceae), a new record for Thailand. Thai
+Forest Bulletin (Botany) 37: 27–31.
+
+38 •
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+DANČÁK ET AL.
+
+Chantanaorrapint, S. & Sridith, K. (2007) Thismia alba (Thismiaceae), a new record for Thailand. Thai Forest Bulletin
+(Botany) 35: 34–37.
+Coode, M.J.E., Dransfield, J., Forman, L. L., Kirkup, D. W. & Said, I. M. (eds) (1996) A checklist of the flowering plants
+& gymnosperms of Brunei Darussalam. Ministry of Industry and Primary Resources, Brunei Darussalam, 477 pp.
+Griffith, W. (1844) On the root parasites referred by authors to Rhizantheae and their allies. Proceedings of the Linnean
+Society of London 1: 216–221.
+Hédl, R., Svátek, M., Dančák, M., Rodzay, A.W., M. Salleh, A.B. & Kamariah, A.S. (2009) A new technique for
+inventory of permanent plots in tropical forests: a case study from lowland dipterocarp forest in Kuala Belalong,
+Brunei Darussalam. Blumea 54: 124–130.
+http://dx.doi.org/10.3767/000651909x475482
+Hotta, M. (1967) Notes on Bornean plants, II. Acta Phytotaxonomica et Geobotanica 22: 153–162.
+IUCN (2012) IUCN Red List Categories and Criteria: Version 3.1. Second edition. Gland, Switzerland and Cambridge,
+UK, 32 pp.
+Jarvie, J.K. (1996) Thismia lauriana (Burmanniaceae), a new species from central Kalimantan. Blumea 41: 257–259.
+Jonker, F.P. (1938) A monograph of the Burmanniaceae. Mededeelingen van het Botanisch Museum en Herbarium van
+de Rijks Universiteit te Utrecht 51: 1–279.
+Jonker, F.P. (1948) Burmanniaceae. In: van Steenis, C.G.G.J. (ed.) Flora Malesiana I, 4. Noordhoff-Kolf, Leiden, pp. 13–
+26.
+Larsen, K. & Averyanov, L.V. (2007) Thismia annamensis and T. tentaculata, two new species of the family of
+Thismiaceae from central Vietnam. VNU Journal of Science, Natural Sciences and Technology 23: 245–252.
+Maas-van de Kamer, H.M. (1998) Burmanniaceae. In: Kubitzki, K. & Huber, H. (eds.) Families and genera of vascular
+plants. Monocotyledons: Lilianae (except Orchidaceae), Springer, Berlin, pp. 154–164.
+Mancinelli, W.S., Blum, C.T. & Smidt, E.C. (2012) Thismia prataensis (Thismiaceae), a new species from the Brazilian
+Atlantic Rain Forest. Systematic Botany 37: 879–882.
+http://dx.doi.org/10.1600/036364412x656545
+Merckx, V. & Bidartondo, M.I. (2008) Breakdown and delayed cospeciation in the arbuscular mycorrhizal mutualism.
+Proceedings of the Royal Society B 275: 1029–1035.
+http://dx.doi.org/10.1098/rspb.2007.1622
+Merckx, V., Schols, P., Maas-van de Kamer, H.M., Maas, P., Huysmans, S. & Smets, E. (2006) Phylogeny and evolution
+of Burmanniaceae (Dioscoreales) based on nuclear and mitochondrial data. American Journal of Botany 93: 1684–
+1698.
+http://dx.doi.org/10.3732/ajb.93.11.1684
+Mueller, F.J.H. (1891) Notes on a new Tasmanian plant of the Order Burmanniaceae. Papers and Proceedings of the
+Royal Society of Tasmania 1890: 232–235.
+Schlechter, F.R.R. (1907) Burmanniaceae africanae. Botanische Jahrbücher für Systematik, Pflanzengeschichte und
+Pflanzengeographie 38: 137–143.
+Schlechter, F.R.R (1921) Die Thismieae. Notizblatt des Königlichen botanischen Gartens und Museums zu Berlin 8: 31–
+45.
+Smith, J.J. (1910) Beiträge zur Kenntnis der Saprophyten Javas. I. Zur Systematik von Thismia javanica J. J. S. Annales
+du Jardin botanique de Buitenzorg 23: 32–35.
+Stone, B.C. (1980) Rediscovery of Thismia clavigera (Becc.) F. v. M. (Burmanniaceae). Blumea 26: 419–425.
+Thiele, K.R. & Jordan, P. (2002) Thismia clavarioides (Thismiaceae), a new species of Fairy Lantern from New South
+Wales. Telopea 9: 765–771.
+Tsukaya, H. & Okada, H. (2005) Thismia mullerensis (Burmanniaceae), a new species from Muller Range, Central
+Kalimantan. Acta Phytotaxonomica et Geobotanica 56: 129–133.
+Tsukaya, H. & Okada, H. (2012) A new species of Thismia (Thismiaceae) from West Kalimantan, Borneo. Systematic
+Botany 37: 53–57.
+http://dx.doi.org/10.1600/036364412x616639
+Tulasne, L.R. & Tulasne, C. (1845) Fungi nonulli hypogaei, novi v. minus cogniti. Giornale Botanico Italiano 1: 55–63.
+Woodward, C.L., Berry, P.E., Maas-van de Kamer, H.M. & Swing, K. (2007) Tiputinia foetida, a new mycoheterotrophic
+genus of Thismiaceae from Amazonian Ecuador, and a likely case of deceit pollination. Taxon 56: 157–162.
+
+A NEW SPECIES OF THISMIA
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+• 39
+
+

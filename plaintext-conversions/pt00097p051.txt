@@ -1,0 +1,413 @@
+Phytotaxa 97 (2): 44–51 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.97.2.4
+
+Notes on Early Land Plants Today. 37. Towards a stable, informative
+classification of the Lepidoziaceae (Marchantiophyta)
+ENDYMION D. COOPER
+CMNS-Cell Biology and Molecular Genetics, 2107 Bioscience Research Building, University of Maryland, College Park, MD 207424451, USA; endymion.dante.cooper@gmail.com.
+
+Abstract
+Recent molecular phylogenies of the Lepidoziaceae indicate that the current classification is incongruent with
+the phylogeny. Although substantial uncertainties remain, an interim classification is needed. The
+classification proposed includes a broader definition of the Lembidioideae, reinstatement of Neolepidozia and
+Tricholepidozia and the recognition of the new genus Ceramanus. While the Zoopsidoideae are unlikely to
+represent a monophyletic group, it is not yet possible to provide a phylogenetically accurate revision of this
+subfamily.
+
+Introduction
+The Lepidoziaceae are a species-rich cosmopolitan family of leafy liverworts. Although estimates of total
+species number for liverworts are notoriously variable (von Konrat et al. 2010), the number of accepted
+species is c. 860 (ELPT database), perhaps as much as 9–10% of the total liverwort species diversity.
+Taxonomic diversity is highest in cool, wet areas of post-gondwanan land fragments, but the family is
+cosmopolitan in distribution. In addition to being species-rich and exceptionally widespread, the family also
+encompasses a large portion of the total morphological range covered by the liverworts. As well as the typical
+leafy morphology of the type genus, Lepidozia, the family accommodates such disparate morphotypes as, for
+example, Pteropsiella, which is remarkably similar to the simple thalloid morphology of the Metzgeriales, and
+Protocephalozia, which resembles a charophycean alga with its branched filamentous protonema giving rise
+directly to the gynoecial and androecial branches. Unsurprisingly, the Lepidoziaceae have presented a serious
+challenge to students of liverwort classification.
+Since the advent of molecular phylogenetics, liverwort classification has been changing rapidly (CrandallStotler & Stotler 2000, Crandall-Stotler et al. 2009, Vilnet et al. 2009). Molecular phylogenetics provides a
+means of deriving robust hypotheses of relationship where ambiguous morphological characters, convergent
+and parallel morphological evolution, and overall structural simplicity combine to make estimating phylogeny
+from morphology difficult if not impossible (Renner et al. 2011). The value of morphological phylogenetics,
+be it speculative or intuitive (e.g. Evans 1939, Fulford 1965, Schuster 1972, 1984a) or be it explicitly
+analytical (e.g. Engel & Smith Merrill 2004, Renner et al. 2006), in providing an informative and useful set of
+hypotheses is beyond doubt, but a truly phylogenetic classification of liverworts can only be achieved by
+making use of molecular phylogenies. However, the rate at which novel molecular phylogenetic hypotheses
+are appearing is currently faster than the rate at which novel classifications are being proposed. This is
+presumably a result of the widely held belief in biological systematics that classifications, which are simply an
+aid to communication, derive their utility in part from their information content and in part through stability.
+In some cases, however, an emphasis on stability might be counter-productive in encouraging systematists to
+
+44 Accepted by Jon Shaw: 10 Apr. 2013; published online in PDF: 1 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+publish only those classifications they consider final, where, in fact, the lack of an interim classification
+provides a greater taxonomic impediment and leads to less stability overall. The Lepidoziaceae are one such
+case, where an attempt to embody a literal reading of recent molecular phylogenies in a revised classification
+is impossible, but where molecular phylogenetics clearly indicates that the current classification is wholly
+inadequate.
+The taxonomic history of the family begins in 1831 when Dumortier placed most of the, then known,
+species belonging to the Lepidoziaceae into his Tribe Jungermanniaceae under the genus Pleuroschisma sect.
+Lepidozia and sect. Pleuroschismotypus (Dumortier 1831). A few years later he erected the tribe
+Pleuroschismeae and elevated sect. Lepidozia (Lepidozia with 8 species) and sect. Pleuroschismotypus
+(Pleuroschisma with 9 species) to generic status (Dumortier 1835). A broader treatment of liverworts was
+given by Gottsche, Lindenberg and Nees in their pioneering work Synopsis Hepaticarum (Gottsche et al.
+1844-1847). They divided the Hepaticae (=Marchantiophyta) into tribes Jungermannieae (approximately
+corresponding to the leafy and simple thalloid liverworts), Monocleae, Marchantieae, Riccieae (thalloid
+groups) and Anthoceroteae (the hornworts). The Jungermannieae were subdivided into hemicyclum Foliosae
+(leafy) and hemicyclum Frondosae (simple thalloid). In the Foliosae they treated three genera currently
+assigned to the Lepidoziaceae, Lepidozia (38 species), Mastigobryum (=Bazzania, 54 species) and
+Micropterygium (2 species) under subtribus Trichomanoideae along with Calypogeia and Physiotium
+(=Pleurozia). These later two genera did not contain species currently placed in the Lepidoziaceae. A third
+genus now assigned to Lepidoziaceae, Zoopsis (one species), was included in the Frondosae. The family itself
+dates to 1877 when Limpricht, in Cohn’s Kryptogamen-Flora von Schlesien, treated Lepidozia under the
+family Lepidozieae (=Lepidoziaceae) (Limpricht 1877). However, Stephani (1905-1909) who added greatly
+to the number of described species, did not use family level divisions.
+Reviving family concepts, Evans (1939) provided a classification of liverworts that was based on intuitive
+phylogeny. The Lepidoziaceae included Bazzania, Lepidozia, Microlepidozia (=Kurzia), Acromastigum,
+Micropterygium, Mytilopsis, Sprucella, Psiloclada, Mastigopelma and Telaranea, whilst Zoopsis,
+Arachniopsis, Lembidium and Pteropsiella were placed in the Cephaloziaceae. Following Evans, Fulford
+(1965) also provided an explication of her intuitive phylogeny. Her treatment of the leafy hepaticae of Latin
+America (and associated work) included a review of the Lepidoziaceae in which the genera were assigned to
+five families (Fulford 1962, 1963a, b, 1966, 1968; Fulford and Taylor 1959a, b, 1961). Lepidoziaceae was
+comprised of 14 genera (Bazzania, Acromastigum, Paracromastigum, Bonneria, Lepidozia, Sprucella,
+Neolepidozia, Micrisophylla, Microlepidozia, Telaranea, Psiloclada, Lembidium, Micropterygium and
+Mytilopsis), the Regredicaulaceae with three genera (Regredicaulis, Arachniopsis and Odontoseries), the
+Zoopsidaceae with two genera (Zoopsis and Pteropsiella), the Hyalolepidoziaceae with one genus
+(Hyalolepidozia) and the Paracromastigaceae with two genera (Paracromastigum and Leucosarmentum).
+The current classification of the family is largely based on the work of Rudolf Schuster who continued the
+tradition of using intuitive phylogenetic relationships to form classifications (for a statement of Schuster's
+phylogenetic system see Schuster 1972, 1984a). Schuster (1969a) dismissed Fulford's multifamily
+classification in a footnote and circumscribed the broad family we know today. Molecular phylogenies have
+universally supported Schuster’s circumscription of the family (Heslewood & Brown 2007, He-Nygrén et al.
+2006, Hendry et al. 2007, Cooper et al. 2011, 2012), but Schuster himself recognised the substantial challenge
+presented by subfamilial classification:
+“…trying to find some way of splitting this large and admittedly complex family into two or more
+separate, natural units, I am convinced that any such attempt must fail.” [Schuster, 1972]
+Had he anticipated the profound influence that chain terminating DNA sequencing (Sanger et al. 1977) would
+have in systematics, he would perhaps have been a little less pessimistic. The extent to which recent
+phylogenies are incongruent with the existing classification means that substantial changes to the
+classification will be required. Elsewhere I have expressed the opinion that changes to the classification would
+CLASSIFICATION OF THE LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 45
+
+be premature on the basis of the current phylogenetic data (Cooper et al. 2011, Cooper et al. 2012). Whilst this
+is certainly true for parts of the family, several lineages have sufficient support in the molecular phylogenies
+for changes to the classification to be proposed. In the interests of facilitating further phylogenetic, floristic
+and taxonomic study of the family, the present contribution aims to provide a workable, interim classification
+of the Lepidoziaceae. In doing so I emphasise that resolving the phylogeny of the Lepidoziaceae is a work in
+progress and that future changes to this classification are inevitable.
+
+The classification
+The phylogeny of the Lepidoziaceae is summarised in figure 1 and a revised classification is proposed below.
+The Early Land Plants Today project has identified a range of nomenclatural changes and these changes as
+well as the outstanding combinations required by the classification proposed below are made in an
+accompanying paper (Cooper et al. 2013). A global checklist of liverworts is in preparation (von Konrat,
+Söderström and Hagborg pers. comm.) and will include a complete checklist of Lepidoziaceae arranged
+according to the classification below.
+Lepidoziaceae Limpr., Krypt.-Fl. Schlesien 1: 310, 1877 (Limpricht 1877), “Lepidoziae”. Type:—Lepidozia
+(Dumort.) Dumort.
+Zoopsidaceae Nakai, Ord. Fam. Trib. Gen. Sect. nov. ed. 199, 1943 (Nakai 1943). Bazzaniaceae Nakai, Ord. Fam. Trib.
+Gen. Sect. nov. ed. 200, 1943 (Nakai 1943). Hyalolepidoziaceae Fulford, Mem. New York Bot. Gard. 11: 376, 1968
+(Fulford 1968). Regredicaulaceae Fulford, Mem. New York Bot. Gard. 11: 358, 1968 (Fulford 1968).
+Paracromastigaceae Fulford, Mem. New York Bot. Gard. 11: 384, 1968 (Fulford 1968). Neogrolleaceae J.J.Engel &
+Braggins, J. Hattori Bot. Lab. 91: 195, 2001 (Engel & Braggins 2001).
+
+Genera incertae sedis
+Meinungeria Frank Müll. Bryologist 110: 494, 2007 (Müller 2007).
+
+subfam. Bazzanioideae Rodway, Tasman. Bryoph. 2: 23, 1916 (Rodway 1916).
+Acromastigum A.Evans, Bull. Torrey Bot. Club 27: 103, 1900 (Evans 1900). Bazzania Gray, Nat. Arr. Brit. Pl. 1:
+704, 1821 (Gray 1821). Mastigopelma Mitt., Seemann, Fl. Vit.: 406, 1871 [1873] (Mitten 1873).
+
+subfam. Drucelloideae R.M.Schust., Phytologia 56: 69, 1984 (Schuster 1984b).
+Drucella E.A.Hodgs., Trans. & Proc. Roy. Soc. New Zealand, Bot. 2: 45, 1962 (Hodgson 1962).
+
+subfam. Lembidioideae R.M.Schust., Hep. Anthocerotae N. Amer. 2: 11, 1969 (Schuster 1969a).
+Dendrolembidium Herzog, Ark. Bot. n.s. 1: 497, 1951 (Herzog 1951). Hygrolembidium R.M.Schust., J. Hattori
+Bot. Lab. 26: 277, 1963 (Schuster 1963). Isolembidium R.M.Schust., Nova Hedwigia 15: 466, 1968 (Schuster
+1968). Kurzia Mart., Flora 53: 417, 1870 (Martens 1870). Lembidium Mitt., Handb. N. Zeal. Flora 2: 751, 754,
+1867 (Hooker 1867). Megalembidium R.M.Schust., J. Hattori Bot. Lab. 26: 258, 1963 (Schuster 1963).
+Pseudocephalozia R.M.Schust., Nova Hedwigia 10: 21, 1965 (Schuster 1965).
+
+subfam. Lepidozioideae Müll.Frib., Rabenh. Krypt.-Fl., ed. 2, 6 (15): 6, 1912 (Müller 1912).
+Ceramanus E.D.Cooper, Phytotaxa 97 (2): 52, 2013 (Cooper et al. 2013). Lepidozia (Dumort.) Dumort., Receuil
+Observ. Jungerm.: 19, 1835 (Dumortier 1835). Basionym:— Pleuroschisma sect. Lepidozia Dumort., Syll. Jungerm.
+Europ. : 69, 1831 (Dumortier 1831). Neolepidozia Fulford et J.Taylor, Brittonia 11: 81, 1959 (Fulford & Taylor
+1959b). Tricholepidozia (R.M.Schust.) E.D.Cooper, Phytotaxa 97 (2): 57, 2013 (Cooper et al. 2013). Basionym:—
+Telaranea subgen. Tricholepidozia R.M.Schust., J. Hattori Bot. Lab. 26: 256, 1963 (Schuster 1963).
+
+subfam. Micropterygioideae Grolle, Rev. Bryol. Lichénol. 33: 226, 1964 [1965] (Grolle 1965).
+Micropterygium Gottsche, Lindenb. et Nees, Syn. Hepat. 2: 233, 1845 (Gottsche et al. 1845). Mytilopsis Spruce,
+Cephalozia: 90, 1882 (Spruce 1882).
+
+46 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+COOPER
+
+subfam. Protocephalozioideae R.M.Schust., Hepat. Anthocerotae N. Amer. 3: 649, 1974 (Schuster 1974)
+Protocephalozia (Spruce) K.I.Goebel, Flora 77: 83, 1893 (Goebel 1893).
+
+subfam. Zoopsidoideae R.M.Schust., Hepat. Anthocerotae N. Amer. 2: 12, 1969 (Schuster 1969a).
+Amazoopsis J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 242, 2004 (Engel & Smith Merrill 2004).
+Hyalolepidozia S.W.Arnell ex Grolle, Rev. Bryol. Lichénol. 32: 179, 1963 [1964] (Grolle 1964). Neogrollea
+E.A.Hodgs., Trans. & Proc. Roy. Soc. New Zealand, Bot. 3: 70, 1965 (Hodgson 1965). Odontoseries Fulford, Mem.
+New York Bot. Gard. 11: 364, 1968 (Fulford 1968). Paracromastigum Fulford et J.Taylor, Brittonia 13: 336, 1961
+(Fulford & Taylor 1961). Psiloclada Mitt., Hooker, Bot. Antarct. Voy. II (Fl. Nov.-Zel. 2): 143, 1854 (Mitten 1854).
+Pteropsiella Spruce, J. Bot. 14: 161, 1876 (Spruce 1876). Telaranea Spruce ex Schiffn., Nat. Pflanzenfam. [Engler
+& Prantl]: 103, 1893 (Schiffner 1893). Zoopsidella R.M.Schust., Nova Hedwigia 10: 24, 1965 (Schuster 1965).
+Zoopsis Hook.f. ex Gottsche, Lindenb. et Nees, Syn. Hepat. 4: 473, 1846 (Gottsche et al. 1846).
+
+FIGURE 1. Summary of phylogenetic relationships in the Lepidoziaceae. Only those groups strongly supported by molecular
+phylogenetic analyses are shown (Cooper et al. 2011, 2012) and all other relationships are collapsed to polytomies. Taxa that have not
+yet been included in a molecular phylogenetic study are indicated by dotted lines. Only Mastigopelma can be inserted in the phylogeny
+with any confidence. Thick grey bars indicate those groups whose representatives in the molecular phylogeny did not form supported
+monophyletic groups. Boxes are drawn around groups recognised in the interim classification. The uncertain status of Arachniopsis is
+indicated by placing it in parentheses alongside Telaranea. Telaranea and Arachniopsis have been considered synonyms, with
+Telaranea the conserved name (Engel & Smith Merrill 2002), but the types have not been included in phylogenetic analyses and it is
+unclear whether one or more genera will be necessary to accommodate the species here retained in Telaranea.
+
+CLASSIFICATION OF THE LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 47
+
+Discussion
+Several lineages within the Lepidoziaceae are resolved with a high degree of confidence. The Bazzanioideae,
+a rare exception amongst Schuster’s subfamilies, is a monophyletic group whose membership requires no
+revision in a phylogenetically accurate classification. Bazzania and Acromastigum are both well supported
+monophyletic genera. Only the status of Mastigopelma remains in doubt. Although it seems likely that the
+four species represent a group of diminutive Bazzania species that have lost the capacity to form terminal
+branches, there is currently no molecular support for any taxonomic change. Unlike the Bazzanioideae,
+phylogenetic study of the Lepidozioideae indicated that re-circumscription of this subfamily and its
+constituent genera was required (Cooper et al. 2012). These changes are reflected in the classification
+proposed here, in which the subfamily comprises four genera whose boundaries are supported by the
+phylogeny. Based on strong phylogenetic support, the circumscription of the Lembidioideae is here expanded
+to include Kurzia (previously included in the Lepidozioideae) and Pseudocephalozia (previously included in
+the Zoopsidoideae). The Megalembidioideae has already been placed in synonymy with the Lembidioideae
+(Cooper et al. 2011). The delimitation of genera in this subfamily requires additional study. Kurzia, a
+widespread and morphologically varied genus, was not recovered as a monophyletic group and a broader,
+more geographically representative, sampling will be required. The lembidioid clade, in addition to the more
+speciose Hygrolembidium, comprises a diverse group of several monotypic or diatypic genera. The paraphyly
+of Lembidium, here expanded to include L. berggrenii (previously a Chloranthelia), suggests that generic
+delimitation should be revisited in the group.
+The proposed classification leaves the Zoopsidoideae largely unchanged. The subfamily is unlikely to
+represent a monophyletic group, but the depth of taxon sampling and the lack of resolution at the base of the
+phylogeny leaves a phylogenetic revision of the subfamily impossible at this time. Nevertheless, the
+phylogenetic relationships between several taxa provide interesting insights into morphological evolution in
+the Lepidoziaceae. For example, the leaf apical cells in Telaranea major (Herzog 1950) Engel & Smith
+Merrill (2004) are rounded and near isometric and the septa between the apical and penultimate cells is
+constricted. In Zoopsidella caledonica (Stephani 1922) Schuster (1969b) and Z. ceratophylla (Spruce 1882)
+Schuster (1969c) all cells of the lobes have this morphology and fragmentation of the lobes is believed to
+provide a mechanism for asexual reproduction. Although this has not been reported in Telaranea major, the
+close phylogenetic relationship between these species suggests that the unusual apical cell morphology is
+derived from a homologous reproductive strategy in this clade. Similarly, the narrow lobe apical cells in
+Psiloclada are perpendicular to the leaf disc and oriented towards the shoot apex. This character is shared with
+those species of Zoopsis that are resolved with Psiloclada on the molecular phylogeny (Cooper et al. 2011). It
+is likely that molecular phylogenetic analysis with dense taxon sampling and careful morphological study, in
+particular study of leaf ontogeny, will yield well supported clades whose morphological evolution supports
+revised subfamilial and generic groupings.
+Several taxa are yet to be included in the molecular phylogeny; at the subfamily level Micropterygioideae
+and Protocephalozioideae, and at the generic level Odontoseries, Pteropsiella, Meinungeria and
+Mastigopelma. This group of unsampled taxa includes some of the more enigmatic elements of the
+Lepidoziaceae; Meinungeria is unusual in having a largely echlorophyllose stem and greatly reduced leaves,
+Pteropsiella has an extraordinarily broad, winged stem and retains only tiny vestigial leaves, and
+Protocephalozia shows extreme neoteny of the gametophyte in which the reproductive branches arise directly
+from the protonema. Any attempt to revise the position of these taxa without evidence from molecular
+phylogeny would be futile.
+
+Acknowledgements
+I gratefully acknowledge the contributions of Dr Elizabeth Brown (Royal Botanic Gardens, Sydney) in her
+
+48 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+COOPER
+
+role as postgraduate mentor. Although we disagreed on the need for the present contribution, Dr Brown has
+played, and continues to play, an important role in resolving the phylogeny and revising the classification of
+the Lepidoziaceae. The early land plants today (ELPT) team provided the impetus for timely publication of
+this work and provided substantial nomenclatural support. The original research on which the proposed
+classification is primarily based was largely funded by the Australian Biological Resources Study, the
+Linnaean Society of New South Wales and a Commonwealth of Australia, Australian Postgraduate Award.
+The manuscript was prepared whilst I was a postdoctoral associate at the University of Maryland, College
+Park, supported by an NSF-AToL grant to Prof. Charles Delwiche (grant number DEB-1036506).
+
+References
+Cooper, E.D., Shaw, A.J., Shaw, B., Henwood, M.J., Heslewood, M.M. & Brown, E.A. (2011) A multi-locus molecular
+phylogeny of the Lepidoziaceae: Laying the foundations for a stable classification. Molecular Phylogenetics and
+Evolution 59: 489–509.
+http://dx.doi.org/10.1016/j.ympev.2011.02.006
+Cooper, E.D., Henwood, M.J. & Brown, E.A. (2012) A molecular phylogeny of the Lepidozia generic complex supports
+re-circumscription of the Lepidozioideae. Molecular Phylogenetics and Evolution 65: 10–22.
+http://dx.doi.org/10.1016/j.ympev.2012.05.008
+Cooper, E.D., Söderström, L., Hagborg, A. & von Konrat, M.J. (2013) Notes on Early Land Plants. 38. New
+combinations in Lepidoziaceae (Marchantiophyta). Phytotaxa 97 (2): 52–62.
+http://dx.doi.org/10.11646/phytotaxa.97.2.5
+Crandall-Stotler, B., Stotler, R.E. & Long, D.G. (2009) Phylogeny and Classification of the Marchantiophyta. Edinburgh
+Journal of Botany 66: 155–198.
+http://dx.doi.org/10.1017/S0960428609005393
+Crandall-Stotler, B. & Stotler, R.E. (2000) Morphology and classification of the Marchantiophyta. In: Shaw, A.J.,
+Goffinet, B. (Eds.), Bryophyte Biology. Cambridge University Press, Cambridge, pp. 21–70.
+http://dx.doi.org/10.1017/CBO9781139171304.003
+Dumortier, B.C. (1831) Sylloge Jungermannidearum Europae indigenarum, earum genera et species systematice
+complectens. J. Casterman, Tournay, 100 pp.
+http://dx.doi.org/10.5962/bhl.title.22343
+Dumortier, B.C. (1835) Recueil d'Observations sur les Jungermanniacées. I. Révision des genres. J.-A. Blanquart,
+Tournay, 27 pp.
+http://dx.doi.org/10.5962/bhl.title.731
+Engel, J.J. & Braggins, J.E. (2001) Austral Hepaticae 34. The sporophyte of Neogrollea Hodgs. and the taxonomic
+position of Neogrolleaceae (Schust.) Engel & Braggins comb. & stat. nov. Journal of the Hattori Botanical
+Laboratory 91: 173–204.
+Engel, J.J. & Smith Merrill, G.L. (2002) Proposal to Conserve the Name Telaranea against Arachniopsis (Hepaticae).
+Taxon 51: 571–572.
+http://dx.doi.org/10.2307/1554880
+Engel, J.J. & Smith Merrill, G.L. (2004) Austral Hepaticae 35. A taxonomic and phylogenetic study of Telaranea
+(Lepidoziaceae), with a monograph of the genus in temperate Australasia and commentary on extra-Australasian
+taxa. Fieldiana, Botany, n.s. 44: 1–265.
+Evans, A.W. (1900) A new genus of Hepaticae from the Hawaiian Islands. Bulletin of the Torrey Botanical Club 27: 97–
+104.
+http://dx.doi.org/10.2307/2478313
+Evans, A.W. (1939) The classification of Hepaticae. Botanical Review 5: 49–96.
+Fulford, M. (1962) Segregate genera of the Lepidozia complex (Hepaticae) part. 3. Microlepidozia Jörg. and
+Micrisophylla gen. nov. Brittonia 14: 121–136.
+http://dx.doi.org/10.2307/2805325
+Fulford, M. (1963a) Manual of the leafy Hepaticae of Latin America I. Memoirs of the New York Botanical Garden 11:
+1–172.
+Fulford, M. (1963b) Segregate genera of the Lepidozia complex (Hepaticae). Part 4. Telaranea and a review of the
+Lepidoziaceae. Brittonia 15: 65–85.
+http://dx.doi.org/10.2307/2805041
+Fulford, M. (1965) Evolutionary trends and convergence in the Hepaticae. Bryologist 68: 1–31.
+
+CLASSIFICATION OF THE LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 49
+
+Fulford, M. (1966) Manual of the leafy Hepaticae of Latin America II. Memoirs of the New York Botanical Garden 11:
+173–276.
+Fulford, M. (1968) Manual of the leafy Hepaticae of Latin America III. Memoirs of the New York Botanical Garden 11:
+277–392.
+Fulford, M. & Taylor, J. (1959a) Psiloclada and the species of the genus Microlepidozia with succubous leaves. Journal
+of the Hattori Botanical Laboratory 21: 79–84.
+Fulford, M. & Taylor, J. (1959b) The segregate genera of the Lepidozia complex (Hepaticae) part 1. Sprucella Steph. and
+Neolepidozia gen. nov. Brittonia 11: 77–85.
+http://dx.doi.org/10.2307/2805175
+Fulford, M. & Taylor, J. (1961) Segregate genera of the Lepidozia complex (Hepaticae). Part 2. Two new genera,
+Bonneria and Paracromastigum. Brittonia 13: 334–339.
+http://dx.doi.org/10.2307/2805411
+Goebel, K.I. (1893) Archegoniatenstudien. 3. Rudimentäre Lebermoose. Flora 77: 82–103.
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, S.G. (1844-1847) Synopsis Hepaticarum, fasc. 1-5. Meissner,
+Hamburg, pp. 1–834.
+Gray, S.F. (1821) Natural Arrangement of British Plants. Vol. I. London, 824 pp.
+Grolle, R. (1964 “1963”) Über Kurzia v. Martens. Revue Bryologique et Lichénologique 32: 166–180.
+Grolle, R. (1965 “1964”) Notulae hepaticologicae X-XIII. Revue Bryologique et Lichénologique 33: 224–229.
+Hendry, T.A., Wang, B., Yang, Y., Davis, E.C., Braggins, J.E., Schuster, R.M. & Qui, Y.-L. (2007) Evaluating
+phylogenetic positions of four liverworts from New Zealand, Neogrollea notabilis, Jackiella curvata, Goebelobryum
+unguiculatum, and Herzogianthus vaginatus using three chloroplast genes. Bryologist 110: 738–751.
+http://dx.doi.org/10.1639/0007-2745(2007)110[738:EPPOFL]2.0.CO;2
+He-Nygrén, X., Juslén, A., Ahonen, I., Glenny, D. & Piippo, S. (2006) Illuminating the evolutionary history of liverworts
+(Marchantiophyta)—towards a natural classification. Cladistics 22: 1-31.
+Herzog, T. (1950) Hepaticae borneenses (Oxford University expeditions to Sarawak, 1932). Transactions of the British
+Bryological Society 1: 275–326.
+Herzog, T. (1951) Revision der Lebermoosgattung Lembidium Mitt. Arkiv för Botanik, n.s. 1: 471–502.
+Heslewood, M.M. & Brown, E.A. (2007) A molecular phylogeny of the leafy liverwort family Lepidoziaceae Limpr. in
+Australasia. Plant Systematics and Evolution 265: 193–219.
+http://dx.doi.org/10.1007/s00606-006-0512-z
+Hodgson, E.A. (1962) New Zealand Hepaticae (Liverworts). XIV. Drucella, a new genus of the Lepidoziaceae.
+Transactions of the Royal Society of New Zealand, Botany 2: 45–47.
+Hodgson, E.A. (1965) New Zealand Hepaticae (Liverworts) - XVI A miscellany of new genera, new species and notes,
+part I. Transactions of the Royal Society of New Zealand, Botany 3: 67–97.
+Hooker, J.D. (1867) Handbook of the New Zealand Flora vol. 2. Reeve, London, pp. 393–798.
+Limpricht, K.G. (1877) Laubmoose und Lebermoose. In: Cohn, F. (Ed), Kryptogamen-Flora von Schlesien, Vol. 1, Heft
+2. Breslau, pp. 225-352.
+Martens, G. (1870) Kurzia crenacanthoidea, eine neue Alge. Flora 53: 417–418.
+Mitten, W. (1854) Hepaticae. In: Hooker, J.D. (Ed), The Botany of the Antarctic Voyage of H. M. discovery ships Erebus
+and Terror in the years 1839-43. II. Flora Novae Zealandiae 2. Reeve, London, pp. 125–160.
+Mitten, W. (1873 “1871”) Jungermanniae and Marchantiae. In: Seemann, B. (Ed), Flora vitiensis. Reeve, London, pp.
+325-453.
+Müller, F. (2007) Meinungeria mouensis (Lepidoziaceae), a new genus and species from New Caledonia. Bryologist 110:
+494–499.
+http://dx.doi.org/10.1639/0007-2745(2007)110[494:MMLANG]2.0.CO;2
+Nakai, T. (1943) Chosakuronbun Mokuroku: Ordines, familiae, tribi, genera, sectiones, species, varietates, formae et
+combinationes novae edita a Prof. Nakai-Takenosin adhuc ut novis edita. Appendix: Quaestiones characterium
+naturalium plantarum vel extractus ex praelectionibus pro alumnis botanicis Universitatis Imperialis Tokyoensis per
+annos 1926 - 1941. Tokyo, 256 pp.
+Renner, M.A.M., Brown, E.A. & Glenny, D.S. (2006) Two new Zoopsis species and their relationships to other zoopsids
+(Jungermanniopsida: Lepidoziaceae). Journal of Bryology 28: 331–344.
+http://dx.doi.org/10.1179/174328206X136278
+Renner, M.A.M., Brown, E.A. & Wardle, G.M. (2011) The Lejeunea tumida species group is positively polyphyletic
+(Lejeuneaceae: Jungermanniopsida). Australian Systematic Botany 24: 10–18.
+http://dx.doi.org/10.1071/SB10047
+Rodway, L. (1916) Tasmanian Bryophyta. II. Hepatics. Royal Society of Tasmania, Hobart, 93 pp.
+Sanger, F., Nicklen, S. & Coulson, A.R. (1977) DNA Sequencing with Chain-Terminating Inhibitors. Proceedings of the
+National Academy of Science 74: 5463–5467.
+http://dx.doi.org/10.1073/pnas.74.12.5463
+
+50 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+COOPER
+
+Schiffner, V. (1893) Hepaticae (Lebermoose). In: Engler, A. & Prantl, K. (Ed), Die Natürlichen Pflanzenfamilien, Teil. I,
+Abt. 3. Engelmann, Leipzig, pp. 1–144.
+Schuster, R.M. (1963) Studies on antipodal Hepaticae I. Annotated key to the genera of antipodal Hepaticae with special
+reference to New Zealand and Tasmania. Journal of the Hattori Botanical Laboratory 26: 185–309.
+Schuster, R.M. (1964) Studies on Hepaticae. XXII-XXV. Pleurocladopsis Schust., gen. n., Eoisotachis Schust., gen. n.,
+Grollea Schust., gen. n., with critical notes on Anthelia Dumort. Nova Hedwigia 8: 275–296.
+Schuster, R.M. (1965) Studies on Hepaticae. XXVI. The Bonneria-Paracromastigum-PseudocephaloziaHyalolepidozia-Zoopsis-Pteropsidella complex and its allies - a phylogenetic study. Part 1. Nova Hedwigia 10: 19–
+61.
+Schuster, R.M. (1968) Studies on the Hepaticae, XXIX-XLIV. A miscellany of new taxa and new range extensions. Nova
+Hedwigia 15: 437–529.
+Schuster, R.M. (1969a) The Hepaticae and Anthocerotae of North America. vol. II. Columbia University Press, New
+York, 1062 pp.
+Schuster, R.M. (1969b) Problems of the antipodal distribution in lower land plants. Taxon 18: 46–91.
+http://dx.doi.org/10.2307/1218591
+Schuster, R.M. (1969c) Studies on Hepaticae XLVI-XLVII. On Alobiella (Spr.) Schiffn. and Alobiellopsis Schust.
+Bulletin of the National Science Museum 12: 659–683.
+Schuster, R.M. (1972) Phylogenetic and taxonomic studies on Jungermanniidae. Journal of the Hattori Botanical
+Laboratory 36: 321–405.
+Schuster, R.M. (1974) The Hepaticae and Anthocerotae of North America. vol. III. Columbia University Press, New
+York, 880 pp.
+Schuster, R.M. (1984a) Evolution, phylogeny and classification of the Hepaticae. In: Schuster, R.M. (Ed), New Manual
+of Bryology, vol. 2. Hattori Botanical Laboratory, Nichinan, pp. 892–1070.
+Schuster, R.M. (1984b) Diagnoses of some new taxa of Hepaticae. Phytologia 56: 65–74.
+Spruce, R. (1876) On Anomoclada, a new genus of Hepaticae, and on its allied genera, Odontoschisma and Adelanthus.
+Journal of Botany 14: 129–136.
+Spruce, R. (1882) On Cephalozia, its subgenera and some allied genera. Slater, Malton, 99 pp.
+http://dx.doi.org/10.5962/bhl.title.46289
+Stephani, F. (1905-1909) Species Hepaticarum 3. George & Cie, Genève & Bale, 693 pp.
+Stephani, F. (1922) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 241–368.
+Vilnet, A.A., Konstantinova, N.A. & Troitsky, A.V. (2009) Genosystematics and New Insights into the Phylogeny and
+Taxonomy of Liverworts. Molecular Biology 43: 783–793.
+http://dx.doi.org/10.1134/S0026893309050100
+von Konrat, M., Söderström, L., Renner, M.A.M., Hagborg, A.H., Briscoe, L. & Engel, J.J. (2010) Early Land Plants
+Today (ELPT): How many liverwort species are there? Phytotaxa 9: 22–40.
+
+CLASSIFICATION OF THE LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 51
+
+

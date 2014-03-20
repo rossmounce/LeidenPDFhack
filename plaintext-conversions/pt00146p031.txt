@@ -1,0 +1,1695 @@
+Phytotaxa 146 (1): 1–31 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.146.1.1
+
+Revised circumscription of Nothofagus and recognition of the segregate genera
+Fuscospora, Lophozonia, and Trisyngyne (Nothofagaceae)
+PETER B. HEENAN1 & ROB D. SMISSEN
+Allan Herbarium, Landcare Research, PO Box 69040, Lincoln 7640, New Zealand
+1
+E-mail: heenanp@landcareresearch.co.nz
+
+Abstract
+The generic taxonomy of the Nothofagaceae is revised. We present a new phylogenetic analysis of morphological
+characters and map these characters onto a recently published phylogenetic tree obtained from DNA sequence data.
+Results of these and previous analyses strongly support the monophyly of four clades of Nothofagaceae that are currently
+treated as subgenera of Nothofagus. The four clades of Nothofagaceae are robust and well-supported, with deep stem
+divergences, have evolutionary equivalence with other genera of Fagales, and can be circumscribed with morphological
+characters. We argue that these morphological and molecular differences are sufficient for the four clades of
+Nothofagaceae to be recognised at the primary rank of genus, and that this classification will be more informative and
+efficient than the currently circumscribed Nothofagus with four subgenera.
+Nothofagus is recircumscribed to include five species from southern South America, Lophozonia and Trisyngyne are
+reinstated, and the new genus Fuscospora is described. Fuscospora and Lophozonia, with six and seven species
+respectively, occur in New Zealand, southern South America and Australia. Trisyngyne comprises 25 species from New
+Caledonia, Papua New Guinea and Indonesia. New combinations are provided where necessary in each of these genera.
+Key words: DNA sequence data, Fagales, generic names, genus concept, new combinations
+
+Table of contents
+Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Criteria for recognising genera . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Materials and methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Results. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Taxonomy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Acknowledgements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+References. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Appendix 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Appendix 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Appendix 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+Introduction
+The genus Nothofagus Blume (1851: 307) as it is currently circumscribed comprises 42 species of deciduous
+and evergreen forest trees that have a disjunct Southern Hemisphere distribution. Species occur in South
+America (south-western Argentina and Chile), Australia (south-eastern Australia and Tasmania), New
+Zealand, New Guinea (Papua New Guinea, Indonesia, and also New Britain and the D’Entrecasteaux
+Accepted by Hans-Joachim Esser: 28 Oct. 2013; published: 12 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+Archipelago), and New Caledonia. The genus also has an abundant fossil record (e.g. Hill 1991, 2001) and is
+well-represented by pollen that first appeared in the early Campanian of the Late Cretaceous (83.5 mya;
+Dettmann et al. 1990). Pollen and macrofossil records both indicate that Nothofagus occurred throughout
+much of southern Gondwana before the breakup of that continent. The widespread distribution and excellent
+fossil record of Nothofagus have resulted in the genus being a key focus of Southern Hemisphere
+biogeographic research (e.g., Steenis 1971, Humphries 1981, Tanai 1986, Pole 1994, Linder & Crisp 1995,
+McGlone et al. 1996, Ladiges et al. 1997, Manos 1997, Sanmartín & Ronquist 2004, Knapp et al. 2005).
+The current infrageneric taxonomy of Nothofagus is now well-established and was erected by Hill & Read
+(1991). These authors divided the genus into four subgenera: subgenus Brassospora Philipson & Philipson
+(1988: 34), subgenus Fuscospora Hill & Read (1991: 69), subgenus Lophozonia (Turczaninow 1858: 396)
+Krasser (1896: 162), and the autonym subgenus Nothofagus. This infrageneric classification superseded those
+of Steenis (1953a) and Philipson & Philipson (1988), classifications that were primarily based on a deciduous
+or evergreen habit, cupule morphology and leaf vernation and did not incorporate pollen morphology,
+although an informal taxonomic classification of extant and fossil species based on pollen groupings was
+being used by palynologists (Cookson 1952, Cookson & Pike 1955, Stover & Evans 1973). Hill & Read
+(1991) based their subgeneric classification on a thorough synthesis of the morphology of the leaves
+(including hairs and stomata), pollen and fruiting cupules. There have also been additional studies that have
+provided detailed analyses of the floral characters of Nothofagus, including staminate (Rozefelds 1998,
+Rozefelds & Drinnan 1998) and pistillate (Rozefelds & Drinnan 2002) flower morphology. Some of these
+floral characters provide support for the infrageneric taxonomy of Hill & Read (1991), but they need to be
+integrated with the data used by Manos (1997), Hill & Jordan (1993), and Jordan & Hill (1999) in a new
+phylogenetic analysis of morphological characters.
+DNA sequence data have also played an important role in unravelling the evolutionary history and
+taxonomy of Nothofagus. Martin & Dowd (1993) examined the phylogeny of Nothofagus species using the
+chloroplast rbcL gene. They included good sampling of all the Nothofagus subgenera of Hill & Read (1991)
+and recovered clades entirely consistent with their classification, albeit with limited bootstrap support for
+most clades. Both the monophyly of the Nothofagus subgenera and the relationships among them reported by
+Martin & Dowd (1993) were later confirmed for another chloroplast marker (the atpB–rbcL intergenic spacer)
+by Setoguchi et al. (1997) using a similar selection of taxa. More significantly, Manos (1997) recovered
+congruent results using nuclear ribosomal DNA ITS spacer sequences and complementary taxon sampling to
+Martin & Dowd (1993), and provided a combined analysis of ITS data with the rbcL sequences of the earlier
+authors. Further, consistent DNA phylogenetic analyses have been published by Knapp et al. (2005) and
+Premoli et al. (2011), although neither of these studies sampled Nothofagus subgenus Brassospora. Most
+recently, Sauquet et al. (2012) conducted Maximum Likelihood (ML) phylogenetic analysis of available atpB,
+rbcL, atpB–rbcL intergenic spacer, trnL intron, trnL–trnF intergenic spacer and ITS sequences and recovered
+a phylogeny in which 11 clades received 95% or greater bootstrap support. These included clades equivalent
+to each of the Nothofagus subgenera and clades consistent with the relationships among them indicated by
+previous DNA studies: (Lophozonia (Fuscospora (Brassospora, Nothofagus))).
+While the monophyly of each of the Nothofagus subgenera of Hill & Read (1991) and the relationships
+among them are overwhelmingly supported by DNA sequence data, relationships of species within the
+subgenera must be considered with caution. There is incongruence among chloroplast and nuclear DNA data
+sets (Manos 1997), and trans-specific chloroplast DNA polymorphism involving plastid lineages evidently
+older than the radiation of extant species most probably results from chloroplast capture (Acosta & Premoli
+2010, Premoli et al. 2011).
+Molecular clock dating using DNA sequence data is consistent with the fossil history of Nothofagus
+(Cook & Crisp 2005, Sauquet et al. 2012). The Nothofagus subgeneric lineages diverged in the Senonian
+(upper Cretaceous) and Eocene (Tertiary), with stem ages derived from Beast analyses of 72.1 (95%
+confidence intervals of 53.4–93.2) mya for Lophozonia, 52.8 (36.5–70.6) mya for Fuscospora, and 42.2
+(31.5–56.4) mya for Nothofagus and Brassospora (Sauquet et al. 2012, fig. 2). Crown ages date from the
+
+2 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+middle Eocene and Oligocene, with Lophozonia diversifying at 42.0 (31.5–59.3) mya, Fuscospora at 30.0
+(10.9–49.5) mya, Brassospora at 26.1 (13.9–38.9) mya, and Nothofagus at 24.4 (11.1–39.8) mya (Sauquet et
+al. 2012, fig. 2).
+Subsequent to the publication of Hill & Read’s (1991) subgeneric classification, DNA sequence studies
+have also clarified the relationship of Nothofagus to other genera of Fagales. Importantly, a close relationship
+with Fagaceae, and in particular a sister group relationship between Fagus and Nothofagus (Kubitzki 1993),
+has been rejected and Nothofagus has instead been shown to be the sister group of the remaining extant
+Fagales (Manos & Steele 1997, Li et al. 2004, Sauquet et al. 2012), and consequently is now placed in the
+monogeneric Nothofagaceae (Kuprianova 1962, APG 2009). Morphological and anatomical studies (Crepet
+& Daghlian 1980, Nixon 1982, 1989, Jones 1986, Zheng et al. 1999, Li et al. 2004) support the recognition of
+Nothofagaceae. The family Nothofagaceae is therefore used in this paper and a revised family description is
+presented in the Taxonomy section.
+It has now been over 20 years since the widely used Nothofagus subgeneric taxonomy was erected by Hill
+& Read (1991), and given the significant amount of new data from morphology and DNA sequences it is
+timely to reassess the classification and the appropriateness of the subgeneric rank. An alternative
+classification of the Nothofagaceae could recognise well-supported clades at generic rank, most obviously by
+raising the subgenera to generic rank. To evaluate the classification of Nothofagaceae in this paper we provide
+a synthesis of the heterogeneous body of molecular and morphological evidence and undertake a new
+phylogenetic analysis of the morphological data. To provide a measure of evolutionary equivalence for
+interpreting these studies in regard to the generic circumscription of Nothofagus, we undertake a comparative
+study of genetic variation at generic rank in Nothofagaceae and five other families (Betulaceae,
+Casuarinaceae, Fagaceae, Juglandaceae and Myricaceae) of the order Fagales. Furthermore, to provide
+consistency in the application of morphological characters to generic circumscription, we also review the
+characters used in recognising three recently named new genera in the Fagaceae (Nixon & Crepet 1989,
+Manos et al. 2008).
+Criteria for recognising genera
+Linder et al. (2010) identified two categories of criteria for the circumscription of genera. Category 1 consists
+of criteria that pertain to the delimitation of the clades, and category 2 consists of criteria that pertain to the
+ranking of the clades. Like Backlund & Bremer (1998) and many other authors, Linder et al. (2010) explicitly
+place category 1 above category 2, preferring that the criterion of monophyly should first be met by any
+candidate taxon. We concur that monophyly is a desirable characteristic of taxa and that classification systems
+should seek to maximise the recognition of well-supported monophyletic groups. Because many aspects of the
+phylogeny of the Nothofagaceae are well-known and straightforward, the criterion of monophyly can be met
+without unduly sacrificing other criteria. The specific criteria we adopt for category 1 are that: 1—clades
+received bootstrap support 95% or greater in the analysis of Sauquet et al. (2012); 2—clades are able to be
+defined by morphological synapomorphies.
+Considering Linder et al. (2010) and also Backlund & Bremer (1998) we adopt the following criteria for
+the ranking of clades (category 2).
+1. Primary taxonomic ranks (e.g. family, genus, species) as defined in the International Code of
+Nomenclature (ICN; McNeill et al. 2012) should be used first in a classification, and secondary ranks (e.g.
+subgenus) used as required.
+2. Classifications should maximise phylogenetic information and minimise redundancy.
+3. Taxonomic ranks should reflect evolutionarily-equivalent groups. This encompasses clade age, genetic
+distance, and morphological diversity. We acknowledge this can be difficult to achieve and needs to
+consider contemporary use of ranks in related taxa.
+4. Ideally, genera will be morphologically homogeneous.
+5. For the sake of users and nomenclatural stability name changes should be minimised, but consideration
+should also be given to the full taxonomic history of a group and not just the last revision.
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 3
+
+Material and methods
+Morphological phylogeny and character evolution
+We present two phylogenetic analyses of morphological data. In Analysis 1, we reanalyse the morphological
+data of Jordan & Hill (1999), with the addition of characters from other studies (e.g. Hill & Read 1991, Manos
+1997, Rozefelds 1998, Rozefelds & Drinnan 1998, 2002, Jordan & Hill 1999). We also add three characters
+for the presence or absence of three Cyttaria (Berkeley 1842: 40) lineages documented in Peterson et al.
+(2010). Character 10 of Jordan & Hill (1999)—pollen equatorial diameter—was omitted because the coding
+used therein does not agree with the data presented in Praglowski (1982). Character 11 (wood anatomy,
+tracheids present or absent; Jordan & Hill 1999) was also removed due to criticism by Rozefelds (1998) and
+Rozefelds & Drinnan (2002). The characters scored are listed in Appendix 1, and the morphological matrix is
+presented in Appendix 2. Analysis 1 was conducted with the heuristic search option of PAUP* 4.0b10.1
+(Swofford 2002), treating all characters as unordered and using default settings. Bootstrap scores were
+calculated from 100 replicates using full heuristic searches.
+The phylogenetic analysis of Sauquet et al. (2012) is the most thorough undertaken to date and comprises
+a maximum likelihood (ML) analysis of combined sequence data from six regions of the chloroplast and
+nuclear genomes. The tree derived from this ML analysis identified 11 well-supported clades of Nothofagus
+including clades equivalent to the subgenera Brassospora, Fuscospora, Lophozonia and Nothofagus. For
+Analysis 2, we mapped the morphological characters from Analysis 1 onto a tree constrained to match those
+branches supported by ≥ 95% bootstrap in the Sauquet et al. (2012) analysis, with the aim of identifying
+morphological characters supporting those clades, using MacClade 4.03 (Maddison & Maddison 2001).
+For both analyses we used two outgroups—Betulaceae and Fagus Linnaeus (1753: 997–998)—both
+representatives of the sister group to Nothofagaceae (being the clade encompassing the other families of
+Fagales) and each having been used in previous cladistic analyses of the family using morphological
+characters (Hill & Jordan 1993, Manos 1997, Jordan & Hill 1999). Character coding for outgroups was based
+on these previous studies and information from Praglowski (1982), Dengler & MacKay (1975) and Denk
+(2003).
+Evolutionary equivalence
+Comparison of rbcL variation in families of Fagales
+In order to provide a measure of evolutionary equivalence and taxonomic diversity and to be consistent in the
+application of generic circumscription in Nothofagaceae in comparison with genera in other families of the
+Fagales, we undertook an analysis of DNA sequence variation among genera of the Betulaceae,
+Casuarinaceae, Fagaceae, Juglandaceae and Myricaceae. Nothofagaceae are represented in this analysis by (a)
+the genus Nothofagus and (b) the four Nothofagus subgenera. The chloroplast gene rbcL is well-sampled
+across these families and so we used this locus to estimate genetic distances within and among genera. We
+used MEGA 5.05 (Tamura et al. 2011) to align all the rbcL sequences available at the time in GenBank
+(totalling 445) and generated a Neighbour-Joining tree using Jukes-Cantor distances. Using this tree as a
+guide we selected 161 representative sequences covering the phylogenetic diversity of each genus and
+reducing the level of redundancy in taxon coverage. Sequences were then grouped according to family and
+genera and genetic distances computed using the p-distance model. The data were subjected to the ML
+molecular clock test implemented in MEGA. The GenBank accession numbers of the sequences used are
+provided in Appendix 3.
+Morphology of new genera in Fagaceae
+Three new genera in Fagaceae have recently been described. Formanodendron Nixon & Crepet (1989: 840)
+and Colombobalanus Nixon & Crepet (1989: 840–841) are monotypic genera segregated from the now
+monotypic Trigonobalanus Forman (1962: 140). The monotypic Notholithocarpus Manos, Cannon & Oh
+(2008: 188) was segregated from Lithocarpus Blume (1826: 526). We review the morphological characters
+
+4 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+used to circumscribe these genera, and compare these characters and their variation to similar characters in
+Nothofagaceae.
+
+Results
+Category 1 criteria—circumscribing clades
+A heuristic search of the morphological character matrix in PAUP 3.1 (Analysis 1) found 12 most
+parsimonious trees with a length of 84 steps, consistency index 0.679, rescaled consistency index 0.599, and
+retention index of 0.883. These trees featured four main clades (Fig. 1) corresponding to the four Nothofagus
+subgenera and indicating that each of these is monophyletic. Nothofagus subgenus Lophozonia appears as
+sister group to the remainder of the family and Nothofagus subgenus Nothofagus is sister group to a clade
+composed of Nothofagus subgenus Fuscospora and Nothofagus subgenus Brassospora. The strict consensus
+tree along with bootstrap support values is shown in Figure 1.
+
+FIGURE 1. Strict consensus of most-parsimonious trees from heuristic search of morphological character data (Analysis 1) for
+Fuscospora (Nothofagus subgenus Fuscospora), Lophozonia (Nothofagus subgenus Lophozonia), Nothofagus (Nothofagus subgenus
+Nothofagus), and Trisyngyne (Nothofagus subgenus Brassospora). Numbers above branches are bootstrap values from 100 replicates
+where these are > 50.
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 5
+
+We traced morphological character evolution onto a tree constrained by a 95% bootstrap consensus tree
+based on the DNA phylogeny of Sauquet et al. (2012) (Analysis 2; Fig. 2). This identified unique
+morphological synapomorphies for eight of the 11 clades supported by 95% bootstrap or greater as detailed
+below. Our analysis did not identify unique morphological synapomorphies for three clades that were wellsupported in the DNA sequence analysis of Sauquet et al. (2012). These clades were the one combining the
+South American species of Nothofagus subgenus Lophozonia, one combining N. menziesii and N. moorei, and
+a clade comprising the Australian and New Zealand members of Nothofagus subgenus Fuscospora.
+
+FIGURE 2. Morphological characters mapped onto a 95% bootstrap consensus tree, derived from Sauquet et al. (2012) (Analysis 2)
+for Fuscospora (Nothofagus subgenus Fuscospora), Lophozonia (Nothofagus subgenus Lophozonia), Nothofagus (Nothofagus
+subgenus Nothofagus), and Trisyngyne (Nothofagus subgenus Brassospora).
+
+6 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Nothofagus subgenus Brassospora
+Analysis 2 suggested six unique synapomorphies for subgenus Brassospora (Fig. 2). These are character 1,
+state 3: leaf vernation conduplicate; character 9, state 2: pollen aperture rimmed; character 24, state 1:
+filaments connate; character 30, state 2: staminate perianth tubular; character 32, state 2: anther distal
+connective protrusion strongly developed; and character 33, state 2: cupule glabrous.
+For character 2, subgenus Brassospora is unique in presenting character states 1 (valves 2, fruit 3
+dimerous) and 2 (valves 2, fruit 1 dimerous). Manos (1997) interpreted the dimerous flowers as a bicarpellate
+synapomorphy for subgenus Brassospora. Character 18, state 0 (giant stomata present) is also optimised as a
+synapomorphy for subgenus Brassospora, but giant stomata also occur in N. cunninghamii (Hooker 1840:
+152, t. 7) Ørsted (1871: 355) of subgenus Lophozonia and in the outgroups. Character 19, state 0 (stomatal
+size more or less even excluding giant stomata) is also optimised as a synapomorphy for subgenus
+Brassospora, but this condition occurs in N. dombeyi (Mirbel 1827: 467, t. 24) Ørsted (1871: 354) and N.
+nitida (Philippi 1858: 44) Krasser (1896: 163) of subgenus Nothofagus and in Fagus. Character 20, state 2
+(upper epidermal cells over veins thinner than areolar cells) is unique to subgenus Brassospora but in N.
+perryi Steenis (1952a: 146) is reversed to state 1 (upper epidermal cells over veins not distinguishable from
+areolar cells). Within Nothofagus subgenus Brassospora, the New Caledonian species (N. aequilateralis and
+N. balansae) share the unique synapomorphies of character 5, state 0: cupule valves woody, and character 11,
+state 1: phyllotaxy spiral.
+Nothofagus subgenus Fuscospora
+Only one unambiguous and unique synapomorphy for subgenus Fuscospora was suggested by Analysis 2
+(Fig. 2). This is character 9, state 1 (pollen aperture with heavy thickening).
+One additional character is a potential syapomorphy. Character 13, state 1 (unicellular trichome type A
+absent) was optimised as synapomorphic for Fuscospora in Analysis 2 and is unique in Nothofagaceae, but
+also occurs in Fagus.
+Nothofagus subgenus Lophozonia
+Unambiguous and unique synapomorphies supporting the monophyly of subgenus Lophozonia are (Fig. 2):
+character 6, state 1: staminate flowers pseudanthium present; character 9, state 3: pollen aperture unthickened;
+character 25, state 1: usually > 20 stamens (sometimes with < 20 stamens in N. cunninghamii); character 30,
+state 1: perianth open and broadly campanulate; and character 37, state 1: Cyttaria lineage C present.
+Four further characters are potentially synapomorphies of subgenus Lophozonia but because they were
+not scored or are polymorphic in the outgroups they can be optimised equally parsimoniously as
+synapomorphies for the other three subgenera combined. These potential synapomorphies are character 3,
+state 1: cupule with glandular lamellae; character 26, state 1: pollen aperture ends V-shaped; character 28,
+state 1: stamen development pseudocentrifugal; and character 33, state 1: outer surface of valves densely
+covered with simple trichomes.
+Within this clade the evergreen species [N. cunninghamii, N. menziesii (Hooker 1844: t. 652) Ørsted
+(1871: 355), and N. moorei (Mueller 1866: 109) Krasser (1896: 161)] are characterised by the unique
+synapomorphy of broad-based conical trichomes; character 15, state 2.
+Nothofagus subgenus Nothofagus
+Analysis 2 suggested two unambiguous and unique synapomorphies for subgenus Nothofagus (Fig. 2). These
+are character 16, state 1 (stomates with thickened T-pieces of cuticle at the poles) and character 17, state 1
+(stomatal orientation mostly parallel with the midrib).
+One additional character is a potential synapomorphy. Character 35 state 1 (Cyttaria lineage A present)
+was optimised as a unique synapomorphy for subgenus Nothofagus, but has been lost in N. nitida.
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 7
+
+Nothofagus subgenus Fuscospora + subgenus Brassospora + subgenus Nothofagus
+Unambiguous and unique synapomorphies supporting the monophyly of this clade are character 34, state 0:
+pollen aperture length 4–11 µm; character 29, state 0: staminate perianth lobe number 4; character 14, state 1:
+solitary unicellular trichome type C absent; and character 8, state 1: pollen equatorial diameter l/E < 0.3. In
+addition, there are the four ambiguously optimised character state changes described above as possible
+synapomorphies for subgenus Lophozonia that could be synapomorphies for this clade with equal parsimony.
+Nothofagus subgenus Brassospora + subgenus Nothofagus
+A single synapomorphy was identified by Analysis 2 for this clade. This was character 10, state 1: stipule
+attachment peltate.
+
+Category 2 criteria—ranking the clades
+Comparison of rbcL variation in families of Fagales
+DNA-sequence-based genetic distances can provide a useful guide to the range of phylogenetic diversity
+represented by taxa. Although we do not suggest that in isolation genetic distances are an appropriate measure
+for determining taxonomic rank, they can be used to assess evolutionary equivalence and can be considered
+along with other data in the decision-making process. We used genetic distances at the chloroplast rbcL locus
+to compare the level of genetic diversity within Nothofagus and its subgenera with genetic diversity within
+and among genera in other families of the Fagales. While a strict molecular clock can be confidently rejected
+for the Fagales rbcL data we have analysed (P < 0.0001), examination of phylograms suggests that the level
+of variation in substitution rate is not so great as to entirely invalidate such a comparison.
+By far the greatest phylogenetic diversity (as estimated from rbcL sequences) of any family in the order
+Fagales is found in Fagaceae (Table 1). Most of this diversity is captured by the division of the family into two
+clades corresponding with Fagus on the one hand and the remaining genera on the other. Net p-distance
+between Fagus and the other genera ranges from 0.029 to 0.035. Within the non-Fagus clade, Chrysolepis
+Hjelmquist (1948: 117) rbcL sequences differ by p-distances between 0.011 and 0.014 from the other genera.
+P-distances among the sequences of Castanopsis (Don 1825: 56) Spach (1841: 185), Castanea Miller (1754:
+278), Lithocarpus, Quercus Linnaeus (1753: 993–997), and Trigonobalanus are all 0.005 or less. The greatest
+rbcL sequence diversity within a genus in the Fagales (excluding Nothofagus) is found in Fagus (Fagaceae)
+with rbcL p-distances of up to 0.017 between species.
+Sequence diversity of rbcL within Nothofagaceae (with Nothofagus as the sole genus) is nearly twice as
+great as for Fagus at 0.030 (Table 1). Even with the four Nothofagus subgenera treated as four genera as
+proposed in this paper, rbcL p-distances within them would range from 0.015 to 0.018 (ie, from slighly less to
+slightly more than within Fagus). The net rbcL p-distances among the four proposed genera of Nothofagus range
+from 0.006 to 0.011, well above the minimum distances observed among genera in all the other Fagales families.
+
+TABLE 1. Variation in rbcL sequence data for families of the Fagales. Nothofagaceae is included twice to compare the single genus
+concept (Nothofagus sens. lat.) with the four genus concept advocated in this paper.
+Family
+
+# genera
+
+Mean net p-distance between genera (range)
+
+Max p-distance within genus
+
+Fagaceae
+
+7 genera
+
+0.013 (0–0.035)
+
+0.017
+
+Casuarinaceae
+
+4 genera
+
+0.011 (0.002–0.015)
+
+0.009
+
+Myricaceae
+
+4 genera
+
+0.010 (0.002–0.017)
+
+0.007
+
+Juglandaceae
+
+8 genera
+
+0.007 (0–0.018)
+
+0.003
+
+Betulaceae
+
+6 genera
+
+0.007 (0.003–0.015)
+
+0.011
+
+Nothofagaceae
+
+1 genus, 4 subgenera
+
+N/A
+
+0.030
+
+Nothofagaceae
+
+4 genera
+
+0.008 (0.006–0.011)
+
+0.018
+
+8 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Morphology of new genera in Fagaceae
+Three new genera have recently been described in the Fagaceae (Nixon & Crepet 1989, Manos et al. 2008),
+and analysis of these provides a useful comparative framework in which to evaluate generic circumscription
+in Nothofagaceae. Formanodendron and Colombobalanus are monotypic genera segregated from the now
+monotypic Trigonobalanus, and these collectively form a monophyletic clade (Nixon & Crepet 1989). When
+placed in Trigonobalanus, the three species are united by characters such as valved cupules, flowers and fruits
+more than one per cupule, fruit triangular and often winged, and epigeal germination. However, the three
+species were each placed in monotypic genera as they have characters unique in the Fagaceae. These unique
+characters include whorled or alternate leaves; stipules connate in pairs or free, naked or scale-covered buds;
+erect or lax and axillary or terminal inflorescences; variation in pollen morphology; and cupules opposite/
+whorled or alternate.
+The monotypic Notholithocarpus was segregated from Lithocarpus and distinguished on the basis of
+pollen morphology and multiradiate leaf trichomes (Manos et al. 2008). Indeed, as Manos et al. (2008)
+commented, ‘we consider the pollen and multiradiate leaf trichomes and its phylogenetic placement to be
+strong evidence to recognise L. densiflorus as a separate genus’.
+The characters used by Nixon & Crepet (1989) and Manos et al. (2008) for the recognition of
+Colombobalanus, Formanodendron and Notholithocarpus are directly comparable with the range of
+characters that have been used to distinguish the four subgeneric groups in Nothofagus (Hill & Read 1991,
+Manos 1997, Rozefelds 1998, Rozefelds & Drinnan 1998, 2002, Jordan & Hill 1999). Characters used to
+define the subgenera in Nothofagus include those of leaf trichomes, leaf vernation, stomata, inflorescences,
+flowers, pollen, and cupules.
+
+Discussion
+Our new phylogenetic analyses of morphological data support the monophyly of the four subgenera recognised
+by Hill & Read (1991). This is consistent with the results of previous phylogenetic studies of morphological
+and DNA sequence data (e.g. Hill & Jordan 1993, Martin & Dowd 1993, Manos 1997, Jordan & Hill 1999,
+Cook & Crisp 2005, Sauquet et al. 2012). In addition to the four subgenera, four further clades meet the criteria
+we have adopted for delimiting clades for taxonomic recognition in Nothofagaceae (category 1, see
+introduction). That is, they received 95% or greater bootstrap support in the analysis of Sauquet et al. (2012)
+and are diagnosable by morphological synapomorphies. These additional clades are: firstly, a clade including
+the Nothofagus subgenera Fuscospora, Brassospora and Nothofagus; secondly, a clade comprising Nothofagus
+subgenera Brassospora and Nothofagus; thirdly, an evergreen clade within subgenus Lophozonia (N.
+cunninghamii, N. menziesii and N. moorei); and fourthly, the New Caledonian species of Nothofagus subgenus
+Brassospora. However, the second of these additional clades does not appear in the shortest trees from
+parsimony analysis of morphological characters alone (Fig. 1). Our morphological phylogeny has Nothofagus
+subgenus Fuscospora as sister to Nothofagus subgenus Brassospora. However, the morphological phylogenies
+of Manos (1997) and Jordan & Hill (1999) have Nothofagus subgenus Nothofagus as sister to Nothofagus
+subgenus Brassospora; but we note that the species assigned to Nothofagus subgenus Fuscospora do not form
+a clade in the strict consensus tree for morphological data in the study of Manos (1997). In our morphological
+analysis an increase in tree length from 84 steps to 85 is required to make Nothofagus subgenus Brassospora
+sister to Nothofagus subgenus Nothofagus. In our bootstrap analysis of the morphological data, the monophyly
+of all the subgenera, and the sister group relationship between Nothofagus subgenus Lophozonia and the other
+three subgenera, together are supported by moderate to high bootstrap values (between 81% and 100%), but
+there is no support for relationships among the Nothofagus subgenera Brassospora, Fuscospora and
+Nothofagus. The third additional clade, containing the evergreen Lophozonia species, is unambiguously
+supported by our morphological analysis and robustly supported in the analysis of Sauquet et al. (2012), but its
+sister group relationships to the deciduous genera were not robustly resolved in either analysis. Likewise, the
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 9
+
+fourth clade (New Caledonian species of Nothofagus subgenus Brassospora) is unambiguously supported but
+its sister group relationships to New Guinean taxa were not robustly resolved in either analysis.
+Since 1991 support has also accumulated for the recognition of Nothofagaceae (Kuprianova 1962) as a
+family distinct from Fagaceae. A close affinity of these two families within the order Fagales has been
+strongly rejected by phylogenetic analysis of DNA sequences. As a result the family Nothofagaceae and the
+genus Nothofagus currently name the same clade and the rank of subgenus is introduced to name its
+subclades—thereby using three taxonomic ranks (family, genus, and subgenus). The use of the secondary rank
+of subgenus is not necessary and does not conform to our preference (category 2, criterion 1, see Introduction)
+that primary ranks should be first used in a classification and secondary ranks only introduced if required. Our
+preference is to raise the four Nothofagus subgenera of Hill & Read (1991) to generic rank. This maintains the
+phylogenetic information encapsulated in the current taxonomy, but minimises the redundancy inherent in
+names at two ranks referring to identical clades. Moreover, because generic names form part of the binomial
+names of species, the groups they refer to are far more apparent to non-taxonomists than are subgenera. The
+elevation of Hill and Read’s groups to genus rank will have the effect of promoting this important advance in
+the understanding of relationships among species of Nothofagaceae outside taxonomic circles (category2,
+criterion 2).
+The recognition of four genera in Nothofagaceae would greatly increase the consistency of application of
+genus rank across the Fagales in line with our view that genera should reflect evolutionarily-equivalent groups
+(category 2, criterion 3, see Introduction). Specifically: 1—variation in genetic diversity of rbcL within and
+among genera of other families of the Fagales is comparable with that found within and among the four clades
+of Nothofagaceae. 2—morphological characters of recently described genera of the Fagaceae are comparable
+with the characters that diagnose the four clades of the Nothofagaceae. 3—the four clades of the
+Nothofagaceae have deep divergences older than or comparable with genera in other families of the Fagales
+(Sauquet et al. 2012).
+Alternative generic taxonomies for the Nothofagaceae could also recognise two or three genera. Two
+genera could be the Lophozonia clade and another genus comprised of the remaining three Nothofagus
+subgenera. Three genera could be the Lophozonia clade, the Fuscospora clade, and the Nothofagus and
+Brassospora clades together. Either of these options would provide genera that are phylogenetically
+equivalent to each other, but in each case the larger grouping would be morphologically heterogeneous and
+still more diverse than genera in other families of Fagales. The three-genus option would recognise a genus
+composed of the current Nothofagus subgenera Brassospora and Nothofagus. Although this clade is supported
+by 95% or greater bootstrap value in the analysis of Sauquet et al. (2012), and is morphologically diagnosable,
+therefore meeting our category 1 criterion—this clade is not supported by phylogenetic analysis of
+morphological characters alone. This reflects the morphological heterogeneity of a clade combining the
+current Nothofagus subgenera Brassospora and Nothofagus; this would be even more the case if Nothofagus
+subgenus Fuscospora were also included with these latter two subgenera in a two-genus system.
+Our final criterion for ranking clades—that of stability (category 2, criterion 5)—would clearly be best
+achieved by maintaining the status quo; that is, one genus Nothofagus with four subgenera as recognised by
+Hill & Read (1991). The two-, three-, and four-genus options would require successively more name changes.
+However, we note that the genus Trisyngyne Baillon (1874: 136), originally placed by Baillon in
+Euphorbiaceae, has been previously segregated from Nothofagus by Baumann-Bodenheim (1953, 1992) to
+accommodate the members of Nothofagus subgenus Brassospora, although the majority of species require
+new combinations in Trisyngyne. Steenis (1954, 1955, 1971, 1972, 1986) rejected this move, based on his
+view that Nothofagus was certainly allied with Fagaceae—a position no longer tenable. The name Lophozonia
+Turczaninow (1858: 396) is available at genus rank, although new combinations are required for all species.
+In balance, we consider it appropriate in this case to sacrifice nomenclatural stability in the short term, given
+that contemporary knowledge, as discussed above, means that the other category 1 and 2 criteria are best met
+by four genera. Accordingly, in the Taxonomy section that follows we propose a new classification
+recognising four genera in the Nothofagaceae.
+
+10 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Additional evidence for the recognition of four genera in Nothofagaceae comes from three other sources.
+Firstly, naturally occurring wild and cultivated Nothofagus hybrids have been recorded only between species
+that belong to the same subgenus. These hybrids occur between species assigned to subgenus Fuscospora
+[e.g., N. ×eugenananus Gillanders (2008: 56), N. ×apiculata (Colenso 1885: 335) Krasser (1896: 163), and N.
+×blairii (Kirk 1885: 297, t. 16) Cockayne (1911: 172)], subgenus Lophozonia [e.g., N. ×dodecaphleps Grant
+& Clement (2004: 448) and N. ×leonii Espinosa (1928: 187)], and subgenus Nothofagus (Cockayne &
+Atkinson 1926, Wigston 1979, Donoso et al. 1990, Grant & Clement 2004, Stecconi et al. 2004, Gillanders
+2008). This suggests a strong degree of intrinsic reproductive isolation among the different subgenera. This is
+an important observation since species from the subgenera Fuscospora, Lophozonia and Nothofagus often
+have sympatric distributions, and therefore have the opportunity to hybridise but apparently don’t. Subgenus
+Brassospora has an isolated distribution in Papua New Guinea, Indonesia and New Caledonia, and so has no
+opportunity to hybridise with species from other subgenera.
+Secondly, flavonoids provide diagnostic characters in Nothofagus subgenera Fuscospora, Lophozonia and
+Nothofagus (Russell et al. 2000, Wollenweber et al. 2003). In subgenus Fuscospora most species are
+characterized by the presence of pinosylvin, galangin flavonols and methyl ethers; in subgenus Lophozonia
+there are abundant kaempferol-type flavonols and apigenin flavones, but galangin and pinosylvin are absent;
+and in subgenus Nothofagus (N. antarctica only) galangin is present and pinosylvin is absent.
+Thirdly, felt scales of the genera Madarococcus Hoy, Chilecoccus Miller & González, Chilechiton Hodgson
+& Miller, and Intecticoccus Kondo (Eriococcidae) are almost exclusively Nothofagus feeding (Hardy et al.
+2008), with different lineages corresponding to Nothofagus subgenera. Only one species, Madarococcus
+podocarpi (Miller & Gimpel) Hoy has been collected from a host other than Nothofagus, being collected once
+from the New Zealand Dacrycarpus dacrydioides (Richard 1832: 358) Laubenfels (1969: 337) (Hardy et al.
+2008). There are three clades of South American Eriococcidae that occur on Nothofagus. One clade of
+Chilechiton and Intecticoccus and another of Chilecoccus are endemic to South America and occur only on
+Nothofagus subgenus Nothofagus. The third South American clade comprises species of Madarococcus that
+occur on subgenera Nothofagus and Lophozonia. The New Zealand and Australian species of Madarococcus
+form a clade that predominantly occurs on subgenus Lophozonia, but also subgenus Fuscospora.
+Furthermore, a recent New Zealand study has shown greater similarity of the endophytic fungal
+communities between species of subgenus Fuscospora (N. fusca and N. solandri) than between them and N.
+menziesii (subgenus Lophozonia) (Johnston et al. 2012). While this study is restricted to New Zealand
+species, further analyses of endophytic fungi on Nothofagaceae in other geographic regions are warranted.
+
+Taxonomy
+In the classification proposed here, we provide a family description for Nothofagaceae, descriptions for each
+of its four genera, and where needed new combinations at species rank in Fuscospora, Lophozonia and
+Trisyngyne. In addition to the application of subgeneric rank in Nothofagus several authors have proposed
+additional taxonomic ranks utilising section, subsection and/or series (e.g. Steenis 1952a, 1953a, Philipson &
+Philipson 1988, Hill & Read 1991). Here we do not recognise any taxa at infrageneric ranks, instead treating
+the infrageneric taxa of other authors as synonyms or invalid names. We present available information on
+holotype and lectotype specimens, and have undertaken lectotypifications when necessary. A full synonymy
+of homotypic names is presented for the accepted species. We do not present a synonymy of heterotypic
+names, and regional floras and other taxonomic treatments should be consulted for this.
+There are well-preserved and identified fossil species of Nothofagaceae that have confidently been
+identified with a Nothofagus subgenus, and these too should be transferred to the appropriate genus. However,
+a considerable number of the fossil species of Nothofagaceae cannot be confidently placed in the genera
+accepted in this treatment. Therefore, we envisage further nomenclatural papers that deal with the generic
+placement of fossil names.
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 11
+
+Nothofagaceae Kuprianova (1962: 21) ≡ Fagaceae tribe Nothofageae Baumann-Bodenheim (1992: 104) ≡
+Fagaceae subfamily Nothofagoideae Wang & Pu (2004: 116). Type:—Nothofagus Blume.
+When designating the type for the family, Kuprianova (1962) gave the authority for Nothofagus incorrectly as
+Oerst., and incorrectly indicated the type of Nothofagus as N. obliqua Oerst.
+
+Trees or shrubs. Leaves evergreen or deciduous, distichous or spiral; lamina simple, pinnately veined, entire
+or serrate, sometimes doubly serrate; minor leaf veins without phloem transfer cells; cuticle usually with large
+globular glandular trichomes. Stipules attached basally or peltate, point of attachment associated with
+elongate colleters. Inflorescences a dichasium, monoecious; flowers usually trimerous, central flower of the
+female dichasium dimerous or absent. Male flowers sessile to shortly pedunculate 1- to 3-flowered dichasia;
+perianth splitting irregularly; stamens 4–90 per flower, filaments long and flexible; anthers basifixed,
+elongate, with distal connective protrusion, proximal lobes lie above the point of connection. Pollen oblate to
+peroblate; exine thin, with granular bacules, and small, widely spaced projections; regular foot layer and
+tectum; colpi 3–10, short, usually with raised margins. Female flowers (1–)3–7(–15), sessile or shortly
+stalked, involucre persistent; ovary inferior, ovules unitegemic; styles short, erect to reflexed; stigmas
+decurrent. Cupule 1- to 4-valved or valves absent, valves free throughout development; with lamellar
+appendages. Nuts lenticular or triangular, usually winged; endocarp glabrous; cotyledons plicate, with fat
+reserve; endosperm absent; germination epigeal. Chromosome number n = 13.
+Four genera, in New Zealand, Australia, Tasmania, New Caledonia, New Guinea and southern South
+America.
+Key to genera
+1.
+
+-
+
+2.
+
+-
+
+3.
+
+-
+
+Leaves with solitary unicellular trichome type C present; perianth open and broadly campanulate; staminate perianth
+with 6–14 lobes; stamen development pseudocentrifugal, usually > 20 stamens; pollen aperture length >15 µm,
+aperture unthickened and ends V-shaped; cupule appendages glandular ................................................... Lophozonia
+Leaves with solitary unicellular trichome type C absent; perianth narrowly campanulate or tubular; staminate
+perianth with 0–4 lobes; stamen development centripetal, usually < 20 stamens; pollen aperture length 4–11 µm,
+aperture annulate, rimmed or with heavy thickening and ends U-shaped; cupule appendages lamellate ................... 2
+Leaf vernation conduplicate; leaf veins with giant stomata; filaments connate; staminate perianth tubular; anther
+distal connective protrusion weakly or strongly developed; pollen aperture rimmed; cupule glabrous; cupule with 2
+valves ........................................................................................................................................................... Trisyngyne
+Leaf vernation planar or revolute when evergreen and plicate when deciduous; leaf veins without giant stomata;
+filaments free; staminate perianth narrowly campanulate; anther distal connective protrusion absent; pollen aperture
+annulate or with heavy thickening; cupule with simple trichomes; cupule with 2 or 4 valves ................................... 3
+Leaf vernation planar when evergreen or plicate when deciduous; leaves with unicellular trichome type A absent;
+stomata orientation mostly parallel with the midrib and with thickened T-pieces of cuticle at the poles; pollen
+aperture annulate ..........................................................................................................................................Nothofagus
+Leaf vernation revolute when evergreen or plicate when deciduous; leaves with unicellular trichome type A present;
+stomata orientation random and without thickened T-pieces of cuticle at the poles; pollen aperture with heavy
+thickening .................................................................................................................................................... Fuscospora
+
+Fuscospora (R.S.Hill & J.Read) Heenan & Smissen, comb. et stat. nov. ≡ Nothofagus subgenus Fuscospora
+Hill & Read (1991: 69) (as Fuscaspora; orthography corrected by Hill & Jordan 1993). = Nothofagus
+section Sempervirentes Steenis (1952a: 146) ≡ Nothofagus section Planae Steenis (1952b: 306), nom. illeg.
+superfl. = Nothofagus section Sempervirentes subsection Quadripartitae Steenis (1952a: 146) ≡ Nothofagus
+section Calusparassus subsection Quadripartitae (Steenis) Steenis (1953a: 337). Type:—Nothofagus fusca
+(Hook.f.) Oerst. [≡ Fuscospora fusca (Hook.f.) Heenan & Smissen].
+Steenis (1952b) provided the superfluous name of sect. Planae for the previously published Nothofagus
+section Sempervirentes (Steenis 1952a) in an erratum. Steenis (1953a) gives the type of Nothofagus section
+Calusparassus subsection Quadripartitae as N. betuloides, but clearly cites Steenis (1952a) for the basionym
+where N. fusca is given as the type.
+
+12 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+= Nothofagus section Calusparassus subsection Tripartitae Steenis (1953a: 338). Type:—Nothofagus
+solandri (Hook.f.) Oerst. [≡ Fuscospora solandri (Hook.f.) Heenan & Smissen].
+= Nothofagus section Calucechinus subsection Saccofagus Baumann-Bodenheim (1992: 93).
+Type:—Nothofagus gunnii (Hook.f.) Oerst. [≡ Fuscospora gunnii (Hook.f.) Heenan & Smissen].
+= Pleiosyngyne Baumann-Bodenheim (1992: 86), nom. inval.
+Pleiosyngyne is invalid as it was published without a Latin description (McNeill et al. 2012, ICN Art.
+39.1).
+Trees up to 30 m high. Leaves distichous, revolute when evergreen or plicate when deciduous, entire or teeth
+with 1–2 serrations, fimbrial veins incomplete or absent; with or without large globular glandular trichomes
+on cuticle; with solitary unicellular trichome type A with a very small, unthickened base and with a large,
+unicellular, thin-walled trichome emerging; without solitary unicellular trichome type C with a large base
+equal to or greater than the diameter of the trichome and with a large, unicellular, thin-walled trichome
+emerging; with or without conical unicellular trichomes with a heavily thickened foot cell. Stomata randomly
+oriented; without thickened T-pieces of cuticle at the poles separating the two guard cells; without giant
+stomata over the major veins; stomata size within the areoles variable. Upper epidermal cells over veins more
+elongate than areolar cells, with granular cell walls. Stipules not peltate. Dichasia with 1 central dimerous
+flower and 2 lateral trimerous flowers, or 1 or 0 dimerous flower and 1 trimerous flower. Male floral meristem
+round. Staminate flowers with narrowly campanulate, often bell-shaped perianth; lobes 4, rarely 3 or 5,
+prominent, symmetric and regular; stamens <20, centripetal development; anthers 2.5–4.5 mm long, slightly
+curved, distal connective protrusion weakly developed, filament connective free, without epidermal papillae.
+Pollen peritreme, mesocolpia straight to convex; colpi short, spatulate or parallel-sided, with U-shaped ends,
+margins inwardly conspicuously heavily thickened, aperture 4–11 µm long, polar to equatorial lengths ratio ≤
+0.3. Cupule valves 2–4; outer surface of valves with simple trichomes; lamellae membranous, glabrous; fruits
+0–1 dimerous, 1–2 trimerous, or 4–7.
+Six species in New Zealand, southern South America, and Tasmania.
+Fuscospora alessandri (Espinosa) Heenan & Smissen, comb. nov. ≡ Nothofagus alessandri Espinosa (1926:
+268). Lectotype (designated here):—CHILE. Tapar prope Empedrado, 27 February 1921, M. Espinosa s.n.
+(SGO47510, image!).
+F. M. Vásquez (in sched., 20 September 1995) annotated SGO47510 as lectotype. We are unaware of any
+other published lectotypification and as we concur with this assessment we formally designate this specimen
+as lectotype.
+= Pleiosyngyne alessandri (Espinosa) Baumann-Bodenheim (1992: 86), nom. inval. This name is not validly
+published as it lacks a full and direct reference to the basionym (McNeill et al. 2012, ICN Art. 41.5).
+Fuscospora cliffortioides (Hook.f.) Heenan & Smissen, comb. nov. ≡ Fagus cliffortioides Hooker (1844: 673) ≡
+Nothofagus cliffortioides (Hook.f.) Ørsted (1871: 355) ≡ Nothofagus solandri var. cliffortioides (Hook.f.)
+Poole (1958: 563). Type:—NEW ZEALAND. Dusky Bay, no date, ‘Mr. Menzies’ (holotype K, image!).
+This taxon was treated as N. solandri var. cliffortioides (Poole 1958; Allan 1961), having been accepted at
+species rank as Fagus cliffortioides (Hooker 1844, 1864, Cheeseman 1906) and Nothofagus cliffortioides
+(Cheeseman 1925, Cockayne 1926, Cockayne & Atkinson 1926, Poole 1950). Placement at the taxonomic
+rank of variety has not been universally accepted in New Zealand (e.g., Molloy et al. 1999, Meurk & Hall
+2006, McGlone et al. 2011), and as we concur with these latter authors that this taxon is morphologically and
+ecologically distinct from Fuscospora solandri it is here accepted at species rank.
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 13
+
+Fuscospora fusca (Hook.f.) Heenan & Smissen, comb. nov. ≡ Fagus fusca Hooker (1844: t. 630, 631) ≡
+Nothofagus fusca (Hook.f.) Ørsted (1871: 355). Lectotype (designated by Allan 1961):—NEW
+ZEALAND. Without locality, no date, W. Colenso 1767 (K, image!).
+Fuscospora gunnii (Hook.f.) Heenan & Smissen, comb. nov. ≡ Fagus gunnii Hooker (1851: t. 881) ≡
+Nothofagus gunnii (Hook.f.) Ørsted (1871: 354). Lectotype (designated here):—AUSTRALIA. Near
+summit of Mt. Olympus, 5 January 1847, R. C. Gunn 2034 (K, image!).
+Fuscospora solandri (Hook.f.) Heenan & Smissen, comb. nov. ≡ Fagus solandri Hooker (1844: t. 639) ≡
+Nothofagus solandri (Hook.f.) Ørsted (1871: 355). Lectotype (designated by Allan 1961):—NEW
+ZEALAND. Without locality, no date, W. Colenso 36 (K, image!).
+Fuscospora truncata (Colenso) Heenan & Smissen, comb. nov. ≡ Fagus truncata Colenso (1898: 280) ≡
+Nothofagus truncata (Colenso) Cockayne (1926: 21). Lectotype (designated by Allan 1961):—NEW
+ZEALAND. Ruahine Mountain-range, October 1898, H. Hill s.n. (WELT SP035538!).
+Govaerts & Frodin (1999) placed N. truncata in synonymy of Nothofagus fusca var. colensoi (Hooker
+1853: 229) Cheeseman (1906: 641). This treatment is incomprehensible and contradicts the available
+ecological, morphological and genetic evidence on the distinctiveness of F. fusca and F. truncata and is
+therefore not accepted here or elsewhere (e.g., Allan 1961, Wardle 1984, Mark & Lee 1985, Haase 1990,
+1992, Dawson & Lucas 2011).
+Fuscospora ×apiculata (Colenso) Heenan & Smissen, comb. nov. ≡ Fagus apiculata Colenso (1885: 335–
+336) ≡ Nothofagus ×apiculata (Colenso) Krasser (1896: 163). Lectotype (designated here):—NEW
+ZEALAND. Matamau and Dannevirke, County of Waipawa, 1883, W. Colenso s.n. (WELT SP036833a!).
+Hybrid parentage:—Fuscospora solandri (Hook.f.) Heenan & Smissen × F. truncata (Colenso) Heenan &
+Smissen (Cockayne & Allan 1934).
+Fuscospora ×blairii (Kirk) Heenan & Smissen, comb. nov. ≡ Fagus ×blairii Kirk (1885: 297, t. 16) ≡
+Nothofagus ×blairii (Kirk) Cockayne (1911: 172) ≡ Nothofagus apiculata nothovar. blairii (Kirk)
+Govaerts (in Govaerts & Frodin 1999: 193). Lectotype (designated here):—NEW ZEALAND. Valley of
+the Dart, January 1877, T. Kirk s.n. (WELT SPO36861!).
+Hybrid parentage:—Fuscospora fusca (Hook.f.) Heenan & Smissen × F. cliffortioides (Hook.f.) Heenan
+& Smissen (Cockayne & Allan 1934).
+Fuscospora ×dubia (Kirk) Heenan & Smissen, comb. nov. ≡ Fagus fusca var. dubia Kirk (1889: 182, t. 91
+figs. 1–3) ≡ Fagus ×apiculata var. dubia (Kirk) Cheeseman (1906: 642) ≡ Nothofagus ×apiculata var.
+dubia (Kirk) Cheeseman (1925: 375) ≡ Nothofagus apiculata nothovar. dubia (Kirk) Govaerts (in
+Govaerts & Frodin 1999: 193), nom. superfl. Lectotype (designated here):—NEW ZEALAND. Hutt
+Valley, no date, T. Kirk s.n. (WELT SP036893!).
+= Fagus fusca var. obsoleta Kirk (1889: 182, t. 91 fig. 4). Lectotype (designated here):—NEW ZEALAND.
+Illustration (t. 91 fig. 4!) in Kirk (1889).
+Hybrid parentage:—Fuscospora solandri (Hook.f.) Heenan & Smissen × F. fusca (Hook.f.) Heenan &
+Smissen. This interspecific hybrid often occurs when the two parent species are sympatric (Cockayne &
+Atkinson 1926; Allan 1929). Nothofagus ×solfusca was proposed by Allan (1929) for this interspecific
+hybrid, but this was not validly published and was preceeded by the combination Fagus fusca var. dubia (Kirk
+1889: 182).
+Fuscospora ×eugenananus (Gilland.) Heenan & Smissen, comb. nov. ≡ Nothofagus ×eugenananus
+Gillanders (2008: 56). Type:—AUSTRALIA. Woodbank gardens, Longley, Tasmania, May 2007, K. D.
+Gillanders s.n. (holotype HO544640).
+
+14 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Hybrid parentage:—Fuscospora fusca (Hook.f.) Heenan & Smissen × F. alessandri (Espinosa) Heenan &
+Smissen (Gillanders 2008).
+
+Lophozonia Turczaninow (1858: 396) ≡ Nothofagus subgenus Lophozonia (Turcz.) Krasser (1896: 162).
+Type:—Lophozonia heterocarpa Turczaninow (1858: 396) [= Lophozonia obliqua (Mirb.) Heenan &
+Smissen subsp. obliqua].
+= Nothofagus subgenus Nothofagus section Calusparassus subsection Menziesiae Philipson & Philipson
+(1988: 34). = Nothofagus subgenus Menziesospora Hill & Read (1991: 69). Type:—Nothofagus menziesii
+(Hook.f.) Oerst. [≡ Lophozonia menziesii (Hook.f.) Heenan & Smissen].
+= Nothofagus subgenus Nothofagus section Adenofagus Baumann-Bodenheim (1992: 94, 114), nom. nud.
+Trees up to 40 m high. Leaves distichous, planar when evergreen or plicate when deciduous, teeth with 1–2 or
+2-or-more serrations, fimbrial veins incomplete or absent; with large globular glandular trichomes on cuticle;
+without solitary unicellular trichome type A with a very small, unthickened base and with a large, unicellular,
+thin-walled trichome emerging; with solitary unicellular trichome type C with a large base equal to or greater
+than the diameter of the trichome and with a large, unicellular, thin-walled trichome emerging; with conical
+unicellular trichomes with a heavily thickened foot cell and broad base. Stomata randomly oriented; without
+thickened T-pieces of cuticle at the poles separating the two guard cells; usually without or one species with
+giant stomata over the major veins; stomata size within the areoles variable. Upper epidermal cells over veins
+more elongate than areolar cells or not distinguishable from areolar cells, with or without granular cell walls.
+Stipules not peltate. Dichasia with 1 central dimerous flower and 2 lateral trimerous flowers. Male floral
+meristem broadly oval, relatively flat topped. Staminate flowers with an open and broadly campanulate
+pseudanthium; lobes 6–14, prominent, asymmetric and irregular; stamens usually >20, centrifugal
+development; anthers 1.5–3.0 mm long, often curved, distal connective protrusion weakly developed, filament
+connective free, without epidermal papillae or with isomorphic rounded papillae. Pollen peritreme or
+goniotreme, mesocolpia straight to convex; colpi long, tenuimarginate, with V-shaped ends, margins not
+thickened, aperture > 15.0 µm long, polar to equatorial lengths ratio 0.35–0.4. Cupule valves 4; outer surface
+of valves with densely pubescent simple trichomes; lamellae glandular; fruits 1 dimerous or 2 trimerous.
+Seven species in New Zealand, southern South America, and Australia.
+Lophozonia alpina (Poepp. & Endl.) Heenan & Smissen, comb. nov. ≡ Fagus alpina Poeppig & Endlicher
+(1838: 69) ≡ Nothofagus alpina (Poepp. & Endl.) Ørsted (1871: 354). Lectotype (designated here):—
+CHILE. Illustration (tab. 198, A, 1–10) in Poeppig & Endlicher (1838).
+Vázquez & Rodríguez (1999) selected as lectotype two illustrations (tab. 196 and tab. 198, A, 1–10) in
+Poeppig & Endlicher (1838). The lectotypification proposed here is a second step lectotypification (McNeill
+et al. 2012, ICN Art. 9.17), whereby we have designated a single figure (tab. 198, A, 1–10) as the lectotype.
+Lophozonia cunninghamii (Hook.f.) Heenan & Smissen, comb. nov. ≡ Fagus cunninghamii Hooker (1840:
+152, t. 7) ≡ Nothofagus cunninghamii (Hook.f.) Ørsted (1871: 355). Lectotype (designated here):—
+AUSTRALIA. Without locality, 1833, R. C. Gunn 178 ex J. B. L. (K000741836, image!).
+Lophozonia glauca (Phil.) Heenan & Smissen, comb. nov. ≡ Fagus glauca Philippi (1858: 43) ≡ Nothofagus
+glauca (Phil.) Krasser (1896: 163). Lectotype (designated here):—CHILE. Without locality, January
+1856, P. Germain s.n. (SGO63396, image!).
+F. M. Vásquez (in sched., 20 September 1995) annotated SGO63396 as lectotype. We are unaware of any
+other published lectotypification and as we concur with this assessment we formally designate this specimen
+as lectotype.
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 15
+
+Lophozonia macrocarpa (A.DC.) Heenan & Smissen, comb. nov. ≡ Fagus obliqua var. macrocarpa Candolle
+(1864: 120) ≡ Nothofagus macrocarpa (A.DC.) Vazquez & Rodríguez (1999: 81). Lectotype (designated
+by Vásquez & Rodíguez 1999):—CHILE. Aculeo, 1861, F. Philippi s.n. (G-DC, image!).
+Lophozonia menziesii (Hook.f.) Heenan & Smissen, comb. nov. ≡ Fagus menziesii Hooker (1844: t. 652) ≡
+Nothofagus menziesii (Hook.f.) Ørsted (1871: 355). Lectotype (designated by Allan 1961):—NEW
+ZEALAND. Dusky Bay, 1781, A. Menzies s.n. (K, image!).
+Lophozonia moorei (F.Muell.) Heenan & Smissen, comb. nov. ≡ Fagus moorei Mueller (1866: 109–110) ≡
+Nothofagus moorei (F.Muell.) Krasser (1896: 161). Lectotype (designated here):—AUSTRALIA.
+Bellinger River, no date, C. Moore s.n. (K000741834, image!).
+Lophozonia obliqua (Mirb.) Heenan & Smissen, comb. nov. ≡ Fagus obliqua Mirbel (1827: 465. t. 23) ≡
+Nothofagus obliqua (Mirb.) Ørsted (1871: 354). Lectotype (designated by Vásquez & Rodíguez 1999):—
+CHILE. Without locality, no date, J. Dombey s.n. (P, image!).
+Autonym:—Lophozonia obliqua (Mirb.) Heenan & Smissen subsp. obliqua.
+= Lophozonia heterocarpa Turczaninow (1858: 396). Lectotype (designated here):—CHILE, Valdivia, 1844,
+T. C. Bridges s.n. (LE, image!).
+Vazquez & Rodriguez (1999) treated Lophozonia heterocarpa Turcz. as a synonym of N. obliqua subsp.
+obliqua, although they did not see the type specimen. Having seen a digital image of the type specimen at LE
+we concur with this taxonomic assessment.
+Lophozonia obliqua subsp. andina (F.M.Vazquez & R.A.Rodr.) Heenan & Smissen, comb. nov.
+≡ Nothofagus obliqua subsp. andina Vázquez & Rodríguez (1999: 80). Type:—CHILE. Arauco, Puente
+Quelén-Quelén, 6 January 1977, C. Marticorena, M. Quezada & R. Rodriquez s.n. (holotype CONC
+45625, image!).
+Lophozonia obliqua subsp. valdiviana (Phil.) Heenan & Smissen, comb. nov. ≡ Fagus valdiviana Philippi
+(1864: 236) ≡ Nothofagus obliqua subsp. valdiviana (Phil.) Vazquez & Rodríguez (1999: 79). Lectotype
+(designated by Vásquez & Rodíguez 1999):—CHILE. Valdivia, 1864, F. Philippi s.n. (SGO 47528,
+image!).
+Lophozonia ×dodecaphleps (Mike L.Grant & E.J.Clement) Heenan & Smissen, comb. nov. ≡ Nothofagus
+×dodecaphleps Grant & Clement (2004: 448). Type:—ENGLAND. Surrey, Alice Holt Lodge,
+Wrecclesham, Farnham, 11 October 1999, Jinks s.n. (holotype WSY).
+Hybrid parentage:—Lophozonia obliqua (Mirb.) Heenan & Smissen × L. alpina (Poepp. & Endl.) Heenan
+& Smissen (Grant & Clement 2004: 448).
+
+Nothofagus Blume (1851: 307), nom. cons. (see Steenis 1953b: 329, Lanjouw et al. 1961: 251) ≡ Fagus
+section Nothofagus (Blume) Candolle (1864: 121). = Nothofagus section Calucechinus subsection
+Antarcticae Steenis (1953a: 334), nom. inval. = Nothofagus subgenus Molischia Krasser (1896: 162),
+nom. inval. Conserved type (designated by Lanjouw et al. 1961: 251):—Nothofagus antarctica (G.Forst.)
+Oerst.
+In proposing the conservation of Nothofagus, Steenis (1953b) did not nominate a type, but the proposal
+was nonetheless recommended by the Committee for Spermatophyta with the provision that this deficiency
+was remedied (Rickett 1958). When the conservation of the name was published, N. antarctica was given as
+the type (Lanjouw et al. 1961, Appendix 3). This was an unfortunate choice as Blume (1851) did not include
+N. antarctica among the species he placed in Nothofagus. Nothofagus subgenus Molischia and Nothofagus
+
+16 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+section Calucechinus subsection Antarcticae each include the type of Nothofagus (N. antarctica) and are
+therefore invalid (McNeill et al. 2012, ICN Art. 22.2).
+= Fagaster Spach (1841: 142), nom. rejic. (see Steenis 1953b: 329, Lanjouw et al. 1961: 251). Type:—Fagus
+dombeyi Mirb. [≡ Nothofagus dombeyi (Mirb.) Oerst.].
+= Calucechinus Hombr. & Jacquinot (in Dumont d'Urville 1843: t. 6), nom. rejic. (see Steenis 1953b: 329,
+Lanjouw et al. 1961: 251) ≡ Nothofagus subgenus Molischia section Calucechinus (Hombr. & Jacquinot)
+Krasser (1896: 162), nom. inval. Type:—Calucechinus antarctica (G.Forst.) Hombr. & Jacquinot [≡
+Nothofagus antarctica (G.Forst.) Oerst.].
+= Calusparassus Hombr. & Jacquinot (in Dumont d’Urville 1843: t. 6), nom. rejic. (see Steenis 1953b: 329,
+Lanjouw et al. 1961: 251) ≡ Nothofagus subgenus Molischia section Calusparassus (Hombr. & Jacquinot)
+Krasser (1896: 163). Type:—Calusparassus forsteri Hombr. & Jacquinot [=Nothofagus betuloides (Mirb.)
+Oerst.].
+= Fagus section Eufagus Candolle (1864: 118) pro parte, nom. inval.
+Candolle divided Fagus into a section for evergreen species (section Nothofagus, see above) and a section
+for deciduous species (section Eufagus). Fagus section Eufagus is treated here as invalid (McNeil et al. 2012,
+ICN Art. 21.3).
+= Nothofagus section Deciduae Steenis (1952a: 146) ≡ Nothofagus section Plicatae Steenis (1952b: 306),
+nom. illeg. superfl. Type:—Nothofagus betuloides (Mirb.) Blume.
+= Nothofagus section Calucechinus subsection Pumiliae Steenis (1953a: 336) ≡ Nothofagus subgenus
+Nothofagus section Pumiliae (Steenis) Hill & Read (1991: 69). Type:—Nothofagus pumilio (Poepp. &
+Endl.) Krasser.
+= Nothofagus subgenus Pumiliae (Steenis) Baumann-Bodenheim (1992: 93), nom. inval.
+This name does not include a full and direct reference to the basionym (McNeill et al. 2012, ICN Art.
+41.5).
+Autonyms:—Nothofagus Blume subgenus Nothofagus, in Philipson & Philipson (1988: 33); Nothofagus
+Blume subgenus Nothofagus section Nothofagus, in Philipson & Philipson (1988: 33).
+Trees up to 45 m high. Leaves distichous, planar when evergreen or plicate when deciduous, teeth with 1–2 or
+2-or-more serrations, fimbrial veins incomplete or absent; with large globular glandular trichomes on cuticle;
+without solitary unicellular trichome type A with a very small, unthickened base and with a large, unicellular,
+thin-walled trichome emerging; without solitary unicellular trichome type C with a large base equal to or
+greater than the diameter of the trichome and with a large, unicellular, thin-walled trichome emerging; with or
+without conical unicellular trichomes with a heavily thickened foot cell. Stomata parallel to long axis of leaf;
+with thickened T-pieces of cuticle at the poles separating the two guard cells; without giant stomata over the
+major veins; stomata size within the areoles variable or more-or-less even. Upper epidermal cells over veins
+more elongate than areolar cells or not distinguishable from areolar cells, with or without granular cell walls.
+Stipules peltate. Dichasia with 1 central dimerous flower and 2 lateral trimerous flowers, or 1 trimerous
+flower. Male floral meristem round. Staminate flowers with narrowly campanulate, often bell-shaped
+perianth; lobes 4, rarely 3 or 5, prominent, symmetric and regular; stamens <20, centripetal development;
+anthers 2.5–4.0 mm long, slightly curved, distal connective protrusion weakly developed, filament connective
+free, without epidermal papillae. Pollen peritreme, mesocolpia straight to convex; colpi short, spatulate or
+parallel-sided, with U-shaped ends, margins conspicuously thickened, annulate, aperture 4–11 µm long, polar
+to equatorial lengths ratio ≤ 0.3. Cupule valves (2–)4(–8), or 2 asymmetrical; outer surface of valves with
+simple trichomes; lamellae membranous, usually glabrous, or sometimes glandular; fruits 1 dimerous or 1–2
+trimerous.
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 17
+
+Five species in southern South America.
+Nothofagus antarctica (G.Forst.) Ørsted (1871: 354) ≡ Fagus antarctica Forster (1789: 42, as 24). Lectotype
+(designated here):—CHILE. Terra del Fuego, Christmas Harbour, 1774, W. Anderson (BM000949987,
+image!).
+The description provided by Forster (1789) includes male and female flowers, and we have designated a
+specimen with male flowers as the lectotype.
+Nothofagus betuloides (Mirb.) Ørsted (1871: 354) ≡ Fagus betuloides Mirbel (1827: 469, t. 25). Lectoype
+(designated here):—CHILE. Magellan, October 1767, P. Commerson s.n. (P744727, image!).
+Nothofagus dombeyi (Mirb.) Ørsted (1871: 354) ≡ Fagus dombeyi Mirbel (1827: 467, t. 24). Lectotype
+(designated here):—CHILE. Without locality, no date, J. Dombey 931 (P744730, image!).
+Nothofagus nitida (Phil.) Krasser (1896: 163) ≡ Fagus nitida Philippi (1858: 44). Lectotype (designated
+here):—CHILE. Huaitecas y Chonos, January 1857, F. Fonck 159 (SGO63009, image!).
+C. Muñoz (in sched., February 1960) annotated SGO63009 as type specimen. We are unaware of any
+other published lectotypification and as we concur with this assessment we formally designate this specimen
+as lectotype.
+Nothofagus pumilio (Poepp. & Endl.) Krasser (1896: 161) ≡ Fagus pumilio Poeppig & Endlicher (1838: 68,
+t. 195). Type:—CHILE. (none cited).
+A lectotypification is not undertaken as we have been unable to locate original material.
+
+Trisyngyne Baillon (1874: 136). Lectotype (designated by Baumann-Bodenheim 1953):—Trisyngyne
+codonandra Baill.
+= Nothofagus section Sempervirentes subsection Bipartitae Steenis (1952a: 146) ≡ Nothofagus section
+Calusparassus subsection Bipartitae (Steenis) Steenis (1953a: 338). = Nothofagus section Sempervirentes
+subsection Bipartitae series Triflorae Steenis (1952a: 146) ≡ Nothofagus section Calusparassus
+subsection Bipartitae series Triflorae (Steenis) Steenis (1953a: 338). = Nothofagus subgenus Brassospora
+Philipson & Philipson (1988: 34). Type:—Nothofagus brassii Steenis [≡ Trisyngyne brassii (Steenis)
+Heenan & Smissen].
+= Nothofagus section Sempervirentes subsection Bipartitae series Uniflorae Steenis (1952a: 146) ≡
+Nothofagus section Calusparassus subsection Bipartitae series Uniflorae (Steenis) Steenis (1953a: 338).
+Type:—N. pullei Steenis [≡ Trisyngyne pullei (Steenis) Heenan & Smissen].
+= Trisyngyne subgenus Papuofagus Baumann-Bodenheim (1992: 111–112), nom. inval.
+This name is invalid as Baumann-Bodenheim (1992) included six species in this subgenus but he did not
+indicate a type (McNeill et al. 2012, ICN Art. 40.1).
+= Trisyngyne subgenus Papuofagus section Papuofagus Baumann-Bodenheim (1992: 112), nom. inval.
+Baumann-Bodenheim (1992) indicated the type of this taxon as T. pullei, itself not a validly published
+name because it lacked a full and direct reference to the basionym (McNeill et al. 2012, ICN Art. 41.5).
+= Trisyngyne subgenus Papuofagus section Papuofagus subsection Papuofagus Baumann-Bodenheim (1992:
+112), nom. inval.
+Baumann-Bodenheim (1992) indicated the type of this taxon as T. pullei, itself not validly published at the
+time because it lacked a full and direct reference to the basionym (McNeill et al. 2012, ICN Art. 41.5).
+= Trisyngyne subgenus Papuofagus section Papuofagus subsection carri Baumann-Bodenheim (1992: 112),
+nom. inval.
+
+18 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Baumann-Bodenheim (1992) indicated the type of this taxon as T. carri, itself not validly published at the
+time because it lacked a full and direct reference to the basionym (McNeill et al. 2012, ICN Art. 41.5).
+= Trisyngyne subgenus Papuofagus section Trysyngynopsis Baumann-Bodenheim (1992: 113), nom. inval.
+Baumann-Bodenheim (1992) indicated the type of this taxon as T. brassi, itself not validly published at
+the time because it lacked a full and direct reference to the basionym (McNeill et al. 2012, ICN Art. 41.5).
+= Trisyngyne subgenus Trisyngyne section Trisyngyne series Balansae Baumann-Bodenheim (1992: 110–
+111), nom. inval.
+This name is invalid as Baumann-Bodenheim (1992) included three species in this taxon but did not
+indicate a type (McNeill et al. 2012, ICN Art. 40.1).
+= Trisyngyne subgenus Trisyngyne section Trisyngyne series Baumanniae Baumann-Bodenheim (1992: 110).
+Type:—Trisyngyne baumanniae Baum.-Bod.
+Baumann-Bodenheim (1992) did not explicitly indicate a type for this taxon but included only T.
+baumanniae which is acceptable as an indication of the type (McNeill et al. 2012, ICN Art. 40.3).
+Trees up to 40 m high, or sometime shrubs. Leaves distichous or spiralled, conduplicate, evergreen, entire or
+teeth with 1–2 serrations, fimbrial veins incomplete or absent; with large globular glandular trichomes on
+cuticle; without solitary unicellular trichome type A with a very small, unthickened base and with a large,
+unicellular, thin-walled trichome emerging; without solitary unicellular trichome type C with a large base
+equal to or greater than the diameter of the trichome and with a large, unicellular, thin-walled trichome
+emerging; with or without conical unicellular trichomes with a heavily thickened foot cell. Stomata randomly
+oriented; without thickened T-pieces of cuticle at the poles separating the two guard cells; with giant stomata
+over the major veins; stomata size within the areoles more-or-less even. Upper epidermal cells over veins
+thinner than areolar cells or not distinguishable from areolar cells, without granular cell walls. Stipules peltate.
+Dichasia 1- or 3-dimerous. Male floral meristem round. Staminate flowers with a tubular strongly connate
+perianth; lobes 4, rarely 2, 3 or 5, reduced, symmetric and regular; stamens <20, centripetal development;
+anthers 2.0–8.0 mm long, straight with only the apex slightly curved, distal connective protrusion pronounced
+and strongly developed, filament connective connate, with epidermal cells consisting of longitudinal ridges of
+striated papillae, often with papillose ornamentation on the distal connective protrusion and weakly
+ornamented cells on the lateral, dorsal and ventral sides. Pollen goniotreme, mesocolpia straight to concave;
+colpi parallel-sided with U-shaped ends, margins inwardly thickened and/or inflexed; aperture 4–11 µm long,
+polar to equatorial lengths ratio > 0.3. Cupule valves 2 or absent; outer surface of valves glabrous; lamellae
+membranous or woody, glabrous, entire; fruits 1 or 3 dimerous.
+Twenty-five species from Papua New Guinea, Indonesian Papua and New Caledonia.
+Notes:—Baumann-Bodenheim (1992) proposed the transfer of a number of names in Nothofagus to
+Trisyngyne. However, he did not provide a full and direct reference to the basionym and place of publication
+and therefore his combinations are not validly published (McNeill et al. 2012, ICN Art. 41.5). It is therefore
+necessary to make new combinations in Trisyngyne for names published in Nothofagus, and this action is
+taken below.
+Trisyngyne aequilateralis Baumann-Bodenheim (1953: 421) ≡ Nothofagus aequilateralis (Baum.-Bod.)
+Steenis (1954: 266). Type:—NEW CALEDONIA. Grande Terre, zwischen Vallée Riv. Blanche und Riv. Bleu,
+16 August 1951, M. Baumann-Bodenheim 15273 (holotype Z, image!).
+Trisyngyne balansae Baillon (1874: 137) ≡ Nothofagus balansae (Baill.) Steenis (1954: 266). Type:—NEW
+CALEDONIA. Forêts au dessus de Téné près Bourail, 19 March 1869, B. Balansa 1377 (holotype P,
+image!).
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 19
+
+Trisyngyne baumanniae Baumann-Bodenheim (1953: 420) ≡ Nothofagus baumanniae (Baum.-Bod.) Steenis
+(1954: 266). Type:—NEW CALEDONIA. Grande Terre, Mt. Mou Gipfel am Übergang zum Nebelwald,
+13 March 1951, M. Baumann-Bodenheim 11277 (holotype Z, image!).
+Trisyngyne bernhardii (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus bernhardii Steenis (1952a:
+147). Type:—INDONESIA. Papua, 18 km SW of Bernhard Camp, Idenburg River, February 1939, L. J.
+Brass 12453 (holotype L, image!).
+Trisyngyne brassii (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus brassii Steenis (1952a: 146).
+Type:—INDONESIA. Papua, Bele River camp, 18 km NE of Lake Habbema, November 1938, L. J. Brass
+& C. Versteegh 11115 (holotype L, image!).
+Trisyngyne carrii (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus carrii Steenis (1952a: 147). Type:—
+PAPUA NEW GUINEA. Below The Gap, 8 January 1936, C. E. Carr 15028 (holotype L, image!).
+Trisyngyne codonandra Baillon (1874: 136–137) ≡ Nothofagus codonandra (Baill.) Steenis (1954: 266).
+Lectotype (designated by Baumann-Bodenheim 1953):—NEW CALEDONIA. Mt. Mou, 14 April 1870,
+B. Balansa 2749 (P, image!).
+Trisyngyne cornuta (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus cornuta Steenis (1952a: 147).
+Type:—INDONESIA. Papua, Wissel Lake region, base of Bubeiro and Enarotali, August 1939, P. J.
+Eyma 5122 (holotype L, image!).
+Trisyngyne crenata (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus crenata Steenis (1952a: 147).
+Type:—INDONESIA. Papua, Bele River camp, 18 km NE of Lake Habbema, November 1938, L. J. Brass
+11335 (holotype L, image!).
+Trisyngyne decipiens (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus decipiens Steenis (1952a: 147).
+Type:—INDONESIA. Papua, 18 km SW of Bernhard Camp, Idenburg, February 1939, L. J. Brass 12675
+(holotype L, image!).
+Trisyngyne discoidea Baumann-Bodenheim (1953: 420) ≡ Nothofagus discoidea (Baum.-Bod.) Steenis
+(1954: 266). Type:—NEW CALEDONIA. Grande Terre, Mois de Mai, Vallée de la River Blance, 4
+August 1951, M. Baumann-Bodenheim 15000 (holotype Z, image!).
+Trisyngyne dura (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus dura Steenis (1952a: 147). Type:—
+INDONESIA. Papua, 9 km NE of Lake Habbema, October 1938, L. J. Brass & C. Versteegh 10443
+(holotype L, image!).
+Trisyngyne eymae (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus eymae Steenis (1952a: 147).
+Type:—INDONESIA. Papua, Wissel Lake, 29 March 1939, P. J. Eyma 4800 (holotype L, image!).
+Trisyngyne flaviramea (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus flaviramea Steenis (1955:
+281). Type:—PAPUA NEW GUINEA. Finschaffen [Finschhafen], Ngadua–Yunzain, 25 April 1953, J. S.
+Womersley NGF 5139 (holotype L, image!).
+Trisyngyne grandis (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus grandis Steenis (1952a: 147).
+Type:—PAPUA NEW GUINEA. Aiyura, near Kuminankira, October 1944, L. S. Smith NGF 1098
+(holotype A, image!).
+
+20 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Trisyngyne nuda (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus nuda Steenis (1972: 285). Type:—
+PAPUA NEW GUINEA. Upper Wenna Creek branch of the Tauri River near Paina Village, Gulf District,
+15 March 1966, R. Pullen 6582 (holotype CANB 162512, image!).
+Trisyngyne perryi (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus perryi Steenis (1952a: 146).
+Type:—PAPUA NEW GUINEA. East Mt. Taffa, near Nemodi, July 1935, L. J. Brass 5057a (holotype A,
+image!).
+Trisyngyne pseudoresinosa (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus pseudoresinosa Steenis
+(1952a: 147). Type:—PAPUA NEW GUINEA. Sattelberg, Mt. Sarawaket, 24 March 1937, M. S. Clemens
+5849 (holotype A, image!).
+Trisyngyne pullei (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus pullei Steenis (1952a: 146–147).
+Type:—PAPUA NEW GUINEA. Mt. Hellwig, 4 January 1913, A. A. Pulle 909 (holotype L, image!).
+Trisyngyne recurva (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus recurva Steenis (1952a: 146).
+Type:—INDONESIA. Papua, Mt. Arfak, Angi Gita Lake, 9–22 October 1948, A. J. G. H. Kostermans
+2384 (holotype L, image!).
+Trisyngyne resinosa (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus resinosa Steenis (1952a: 147).
+Type:—INDONESIA. Papua, 9 km NE of Lake Habbema, 22 October 1938, L. J. Brass 10479 (holotype
+L, image!).
+Trisyngyne rubra (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus rubra Steenis (1952a: 147). Type:—
+INDONESIA. Papua, 18 km SW of Bernhard Camp, Idenburg River, 03 February 1939, L. J. Brass & C.
+Versteegh 11997 (holotype A, image!).
+Trisyngyne starkenborghii (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus starkenborghii Steenis
+(1952a: 146). Type:—INDONESIA. Papua, Camp at Bele River, 18 km NE of Lake Habbema, November
+1938, L. J. Brass 11369 (holotype L, image!).
+Trisyngyne stylosa (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus stylosa Steenis (1986: 732).
+Type:—INDONESIA. Papua, Mt. Trikora, September 1982, J. M. Mangen 229 (holotype L, image!).
+Trisyngyne womersleyi (Steenis) Heenan & Smissen, comb. nov. ≡ Nothofagus womersleyi Steenis (1972:
+294). Type:—INDONESIA. Papua, Watjetoni Mt., Kebar valley, BW (C. Versteegh) 10320 (holotype L,
+image!).
+
+Acknowledgements
+We thank Edward Doonerwind of the Landcare Research Library, Lincoln, for assistance with literature; Ilse
+Breitwieser, Phil Novis and Christine Bezar for reviewing the draft manuscript; Matt McGlone for discussion;
+Hans-Joachim Esser for his editorial expertise and assistance; Kanchi Gandi for nomenclatural advice; and
+Ivan Tatanov (LE), Leon Perrie (WELT) and Ines Schoenberger (CHR) for assistance with type material. This
+research was supported by Core funding for Crown Research Institutes from the New Zealand Ministry of
+Business, Innovation and Employment’s Science and Innovation Group.
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 21
+
+References
+Acosta, M.C. & Premoli, A.C. (2010) Evidence of chloroplast capture in South American Nothofagus (subgenus Nothofagus,
+Nothofagaceae). Molecular Phylogenetics and Evolution 54: 235–242.
+http://dx.doi.org/10.1016/j.ympev.2009.08.008
+Allan, H.H. (1929) Illustrations of wild hybrids in the New Zealand flora. VI. Genetica 11: 491–508.
+http://dx.doi.org/10.1007/bf01718904
+Allan, H.H. (1961) Flora of New Zealand. Government Printer, Wellington, 1085 pp.
+APG (2009) An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG
+III. Botanical Journal of the Linnean Society 161: 105–121.
+http://dx.doi.org/10.1111/j.1095-8339.2009.00996.x
+Backlund, A. & Bremer, K. (1998) To be or not to be—principles of classification and monotypic plant families. Taxon 47:
+391–400.
+http://dx.doi.org/10.2307/1223768
+Baillon, H.E. (1874) Nouvelles observations sur les Euphorbiacées. Adansonia 11: 72–138.
+Baumann-Bodenheim, M.G. (1953) Fagacées de la Nouvelle Caledonie. Bulletin du Muséum National d'Histoire Naturelle,
+series 2, 25: 419–421.
+Baumann-Bodenheim, M.G. (1992) Trisyngyne. Systematik der Flora von Neu-Caledonien (Melanesien-Südpazifik). Mrs A. L.
+Baumann, Herrliberg, 153 pp.
+Berkeley, M.J. (1842) On an edible fungus from Tierra del Fuego and allied Chilean species. Transactions of the Linnean
+Society of London 19: 37–43.
+http://dx.doi.org/10.1111/j.1096-3642.1842.tb00073.x
+Blume, C.L. von (1826) Bijdragen tot de flora van Nederlandsch Indie 10. Ter Lands Drukkerij, Batavia, pp. 485–526.
+Blume, C.L. von (1851) Ord. Cupulifereae. Museum Botanicum Lugduno-Batavum 1: 305–320.
+Candolle, A.L.P.P. de (1864) Prodromus Systematis Naturalis Regni Vegetabilis 16(2). Victoris Masson et fillii, Paris, 691 pp.
+Cheeseman, T.F. (1906) Manual of the New Zealand flora. 1st edition. Government Printer, Wellington, 1198 pp.
+Cheeseman, T.F. (1925) Manual of the New Zealand flora. 2nd edition. Government Printer, Wellington, 1163 pp.
+Cockayne, L. (1911) Some hitherto-unrecorded plant-habitats (VI). Transactions and Proceedings of the New Zealand Institute
+43: 169–174.
+Cockayne, L. (1926) Monograph on the New Zealand beech forests. Part 1. The ecology of the forests and taxonomy of the
+beeches. New Zealand State Forest Bulletin No. 4. Government Printer, Wellington, 71 pp.
+Cockayne, L. & Allan, H.H. (1934) An annotated list of groups of wild hybrids in the New Zealand flora. Annals of Botany 48:
+1–55.
+Cockayne, L. & Atkinson, E. (1926) On the New Zealand wild hybrids of Nothofagus. Genetica 8: 1–43.
+http://dx.doi.org/10.1007/bf01481819
+Colenso, W. (1885) A description of some newly-discovered and rare indigenous plants; being a further contribution towards
+the making known the botany of New Zealand. Transactions and Proceedings of the New Zealand Institute 17: 237–265.
+Colenso, W. (1898) Phaenogams [sic]: a description of a few more newly discovered indigenous plants; being a further
+contribution towards the making known the botany of New Zealand. Transactions and Proceedings of the New Zealand
+Institute 31: 266–281.
+Cook, L. & Crisp, M. (2005) Not so ancient: the extant crown group of Nothofagus represents a post-Gondwanan radiation.
+Proceedings of the Royal Society London, series B, Biological Sciences 272: 2535–2544.
+http://dx.doi.org/10.1098/rspb.2005.3219
+Cookson, I.C. (1952) Identification of Tertiary pollen grains with those of New Guinea and New Caledonian beeches. Nature
+170: 127.
+http://dx.doi.org/10.1038/170127a0
+Cookson, I.C. & Pike, K.M. (1955) The pollen morphology of Nothofagus Bl. sub-section Bipartitae Steen. Australian Journal
+of Botany 3: 197–206.
+http://dx.doi.org/10.1071/bt9550197
+Crepet, W.L. & Daghlian, C.P. (1980) Castaneoid inflorescences from the Middle Eocene of Tennessee and the diagnostic value
+of pollen (at the subfamily level) in the Fagaceae. American Journal of Botany 67: 739–757.
+http://dx.doi.org/10.2307/2442667
+Dawson, J & Lucas, R. (2011) New Zealand’s native trees. Craig Potton Publishing, Nelson, 576 pp.
+Dengler, N.G. & MacKay, L.B. (1975) The leaf anatomy of beech, Fagus grandifolia. Canadian Journal of Botany 53: 2202–
+2211.
+http://dx.doi.org/10.1139/b75-244
+Denk, T. (2003) Phylogeny of Fagus L. (Fagaceae) based on morphological data. Plant Systematics and Evolution 240: 55–81.
+http://dx.doi.org/10.1007/s00606-003-0018-x
+Dettmann, M.E., Pocknall, D.T., Romero, E.J. & Zamaloa, M.C. (1990) Nothofagidites Erdtman ex Potonie, 1960; a catalogue
+of species with notes on the palaeogeographic distribution of Nothofagus Bl. (Southern Beech). New Zealand Geological
+Survey Paleontology Bulletin 60: 1–79.
+
+22 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Don, D. (1825) Prodromus Florae Nepalensis. J. Gale, London, 256 pp.
+Donoso, C., Morales, J. & Romero, M. (1990) Natural hybridisation between Nothofagus obliqua (Mirb.) Oerst. and N. alpina
+(Poepp. & Endl.) Oerst. in forests of southern Chile. Revista Chilena Historia de Natural 63: 49–60.
+http://dx.doi.org/10.1079/9781780640266.0119
+Dumont d’Urville, J.S.C. (1843) Voyage au Pôole sud et dans l'Océanie sur les corvettes l'Astrolabe et la Zélée. Botanique,
+Atlas part 6. Gide, Paris, t. 6.
+Espinosa, M.R. (1926) Nota preliminar sobre dos especies nuevas chilenas del género Nothofagus Blume. Revista Chilena
+Historia de Natural 30: 268.
+Espinosa, M.R. (1928) Dos especies nuevas de Nothofagus. Revista Chilena Historia de Natural 32: 171–197.
+Forman, L.L. (1962) A new genus in the Fagaceae. Taxon 11: 139–140.
+Forster, G. (1789) Fasciculus Plantarum Magellanicum. Commentationes Societatis Regiae Scientiarum Gottingensis 9: 13–45.
+Gillanders, K. (2008) A new hybrid Nothofagus. The Plantsman 7: 55–57.
+Govaerts, R. & Frodin, D.G. (1999) World Checklist and Bibliography of Fagales. Royal Botanic Gardens, Kew, 408 pp.
+Grant, M.L. & Clement, E.J. (2004) Clarification of the name Nothofagus alpina and a new epithet for a Nothofagus hybrid.
+Botanical Journal of the Linnean Society 146: 447–451.
+http://dx.doi.org/10.1111/j.1095-8339.2004.00346.x
+Haase, P. (1990) Nothofagus truncata (hard beech) in the upper Taramakau catchment, South Island, New Zealand. New
+Zealand Journal of Ecology 14: 31–35.
+Haase, P. (1992) Isozyme variability and biogeography of Nothofagus truncata (Fagaceae). New Zealand Journal of Botany 30:
+315–328.
+http://dx.doi.org/10.1080/0028825x.1992.10412910
+Hardy, N.B., Penny, A.E., Gullan, J., Henderson, R.C. & Cook, L.G. (2008) Relationships among felt scale insects (Hemiptera:
+Coccoidea: Eriococcidae) of southern beech, Nothofagus (Nothofagaceae), with the first descriptions of Australian species
+of the Nothofagus-feeding genus Madarococcus Hoy. Invertebrate Systematics 22: 365–405.
+http://dx.doi.org/10.1071/is07032
+Hill, R.S. (1991) Tertiary Nothofagus (Fagaceae) macrofossils from Tasmania and Antarctica and their bearing on the evolution
+of the genus. Botanical Journal of the Linnean Society 105: 73–112.
+http://dx.doi.org/10.1111/j.1095-8339.1991.tb00200.x
+Hill, R.S. (2001) Biogeography, evolution and palaeoecology of Nothofagus (Nothofagaceae): The contribution of the fossil
+record. Australian Journal of Botany 49: 321–332.
+Hill, R.S. & Jordan, G.J. (1993) The evolutionary history of Nothofagus (Nothofagaceae). Australian Systematic Botany 6: 111–
+126.
+http://dx.doi.org/10.1071/sb9930111
+Hill, R.S. & Read, J. (1991) A revised infrageneric classification of Nothofagus (Fagaceae). Botanical Journal of the Linnean
+Society 105: 37–72.
+http://dx.doi.org/10.1111/j.1095-8339.1991.tb00199.x
+Hjelmquist, H. (1948) Studies on the floral morphology and phylogeny of the Amentiferae. Botaniska Notiser Supplement 2: 1–
+171.
+Hooker, W.J. (1840) On the Fagus antarctica of Forster, and some other species of beech of the Southern Hemisphere. Journal
+of Botany: being a second series of the botanical miscellany 2: 147–157.
+Hooker, J.D. (1844) Fagus fusca, Hook. fil. Icones plantarum; or figures, with brief descriptive characters and remarks, of new
+or rare plants, selected from the authors herbarium 7: t. 630–631.
+Hooker, J.D. (1851) Fagus gunnii, Hook. fil. Icones plantarum; or figures, with brief descriptive characters and remarks, of
+new or rare plants, selected from the authors herbarium 9: t. 881.
+Hooker, J.D. (1853) The Botany of the Antarctic Voyage of H.M. Discovery Ships Erebus and Terror in the Years 1839-1843.
+Vol. 2. Flora Novae-Zelandiae Part I. Flowering Plants. Lovell Reeve & Co., London, 312 pp.
+Hooker, J.D. (1964) Handbook of the New Zealand flora. Lovell Reeve & Co., London, 392 pp.
+Humphries, C.J. (1981) Biogeographical methods and the southern beeches (Fagaceae: Nothofagus). In: Forey, P.L. (ed.) The
+evolving biosphere: chance, change and challenge. Cambridge University Press, London, pp. 283–297.
+Johnston, P.R., Johansen, R.B., Williams, A.F.R., Wikie, J.P. & Park, D. (2012) Patterns of fungal diversity in New Zealand
+Nothofagus forests. Fungal Biology 116: 401–412.
+http://dx.doi.org/10.1016/j.funbio.2011.12.010
+Jones, J.H. (1986) Evolution of the Fagaceae: the implications of foliar features. Annals of the Missouri Botanical Garden 73:
+228–275.
+http://dx.doi.org/10.2307/2399112
+Jordan, G.J. & Hill, R.S. (1999) The phylogenetic affinities of Nothofagus (Nothofagaceae) leaf fossils based on combined
+molecular and morphological data. International Journal of Plant Science 160: 1177–1188.
+http://dx.doi.org/10.1086/314207
+Kirk, T. (1885) Description of a new species of Fagus. Transactions and Proceedings of the New Zealand Institute 17: 297–
+298.
+Kirk, T. (1889) The forest flora of New Zealand. Government Printer, Wellington, 345 pp.
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 23
+
+Knapp, M., Stockler, K., Havell, D., Delsuc, F., Sebastiani, F. & Lockhart, P.J. (2005) Relaxed molecular clock provides
+evidence for long-distance dispersal of Nothofagus (southern beech). PLoS Biology 3: 38–43.
+http://dx.doi.org/10.1371/journal.pbio.0030014
+Krasser, F. (1896) Bemerkungen zur Systematik der Buchen. Annalen des Naturhístoríschen Hofmuseums Wien 11: 155–163.
+Kubitzki, K. (1993) Fagaceae. In: Kubitzki, K., Rohwer, J.G. & Bittrich, V. (eds.) The Families and Genera of Vascular Plants
+2: Flowering Plants, Dicotyledons, Magnoliid, Hamamelid and Caryophyllid Families. Springer-Verlag, Berlin, pp. 301–
+309.
+Kuprianova, A.L. (1962) Palinological data and the systematics of the Fagales and Urticales. In: Sladkov, A.N. (ed.) For the
+first international conference on Palinology: Reports of Soviet Palinologists (extended theses). U.S.S.R. Academy of
+Sciences, Moscow, pp. 17–25.
+Ladiges, P.Y., Nelson, G. & Grimes, J. (1997) Subtree analysis, Nothofagus, and Pacific biogeography. Cladistics 13: 125–129.
+http://dx.doi.org/10.1111/j.1096-0031.1997.tb00246.x
+Lanjouw, J., Baehni, C., Robyns, W., Ross, R., Rousseau, J.M., Schopf, J.M., Schulze, G.M., Smith, A.C., de Vilmorin, R. &
+Stafleu, F.A. (1961) International Code of Botanical Nomenclature (Montreal). Regnum Vegetabile 23. International
+Bureau for Plant Taxonomy and Nomenclature of the International Association for Plant Taxonomy, Utrecht, 372 pp.
+Laubenfels, D.J. de (1969) A revision of the Malesian and Pacific rainforest conifers, I. Podocarpaceae, in part. Journal of the
+Arnold Arboretum 50: 315–369.
+Li, R.Q., Chen, Z.D., Lu, A.M., Soltis, D.E., Soltis, P.S. & Manos, P.S. (2004) Phylogenetic relationships in Fagales based on
+DNA sequences from three genomes. International Journal of Plant Science 165: 311–324.
+http://dx.doi.org/10.1086/381920
+Linder, H.P., Baeza, M., Barker, N.P., Galley, C., Humphreys, A.M., Lloyd, K.M., Orlovich, D.A., Pirie, M.D., Simon, B.K.,
+Walsh, N. & Verboom, G.A. (2010) A generic classification of the Danthonioideae (Poaceae). Annals of the Missouri
+Botanical Garden 97: 306–364.
+http://dx.doi.org/10.3417/2009006
+Linder, H.P. & Crisp, M.D. (1995) Nothofagus and Pacific biogeography. Cladistics 11: 5–32.
+http://dx.doi.org/10.1111/j.1096-0031.1995.tb00002.x
+Linnaeus, C. (1753) Species Plantarum. Salvius, Stockholm,1200 pp.
+Maddison, D.R. & Maddison W.P. (2001) MacClade 4. Sinauer Associates Inc. Sunderland, Massachusetts.
+Manos, P.S. (1997) Systematics of Nothofagus (Nothofagaceae) based on rDNA spacer sequences (ITS): taxonomic
+congruence with morphology and plastid sequences. American Journal of Botany 84: 1137–1155.
+http://dx.doi.org/10.2307/2446156
+Manos, P.S., Cannon, C.H. & Oh, S.-H. (2008) Phylogenetic relationships and taxonomic status of the paleoendemic Fagaceae
+of western North America: recognition of a new genus, Notholithocarpus. Madroño 55: 181–190.
+http://dx.doi.org/10.3120/0024-9637-55.3.181
+Manos, P.S. & Steele, K.P. (1997) Phylogenetic analyses of “higher” Hamamelididae based on plastid sequence data. American
+Journal of Botany 84: 1407–1419.
+http://dx.doi.org/10.2307/2446139
+Mark, A.F. & Lee, W.G. (1985) Ecology of hard beech (Nothofagus truncata) in southern outlier stands in the Haast ecological
+district, South Island, New Zealand. New Zealand Journal of Ecology 8: 97–121.
+Martin, P.G. & Dowd, J.M. (1993) Using sequences of rbcL to study phylogeny and biogeography of Nothofagus species.
+Australian Systematic Botany 6: 441–447.
+http://dx.doi.org/10.1071/sb9930441
+McGlone, M.S., Hall, M.J. & Wilmshurst, J. (2011) Seasonality in the early Holocene: extending fossil-based estimates with a
+forest ecosystem model. The Holocene 21: 517–526.
+http://dx.doi.org/10.1177/0959683610385717
+McGlone, M.S., Mildenhall, D.C. & Pole, M.S. (1996) History and paleoecology of New Zealand Nothofagus forests. In:
+Veblen, T.T., Hill, R.S. & Read, J. (eds.) The ecology and biogeography of Nothofagus forests. Yale University Press, New
+Haven, pp. 83–125.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D., Herendeen, P.S., Knapp, S., Marhold, K.,
+Prado, J., Prud-Homme van Reine, W.F., Smith, G.F., Wiersema, J.H., Turland, N.J. (2012) International Code of
+Nomenclature for algae, fungi and plants (Melbourne Code). Regnum Vegetabile 154. Koeltz Scientific Books,
+Koenigstein, 240 pp.
+Meurk, C.D. & Hall, G.M.J. (2006) Options for enhancing forest biodiversity across New Zealand’s managed landscapes based
+on ecosystem modelling and spatial design. New Zealand Journal of Ecology 30: 131–146.
+Miller, D. (1754) The Gardeners Dictionary. Abridged 4th ed. John and James Rivington, London, 1582 pp.
+Mirbel, C.F.B. (1827) Recherches sur la distribution géographique des Végétaux phanérogames de l'Ancien-Monde, depuis
+l'équateur jusqu'au pôle arctique; suivies de la description de neuf espèces de la famille des Amentacées. Mémoires du
+Museum d'histoire naturelle de Paris 14: 349–474.
+Molloy, B.P.J., de Lange, P.J. & Clarkson, B.D. (1999) Coprosma pedicellata (Rubiaceae), a new species from New Zealand.
+New Zealand Journal of Botany 37: 383–397.
+http://dx.doi.org/10.1080/0028825x.1999.9512643
+
+24 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Mueller, F.J.H. von (1866) Fragmenta Phytographiae Australiae 5. Auctoritate Gubern. Coloniae Victoriae, ex officina Joannis
+Ferres, Melbourne, 240 pp.
+Nicolson, D.D. & Fosberg, F.R. (2004) The Forsters and the botany of the second Cook Expedition (1772–1775). Regnum
+Vegetabile 139, 759 pp.
+Nixon, K.C. (1982) In support of the Nothofagaceae Kuprianova. Botanical Society of America Miscellaneous Series 162: 102.
+Nixon, K.C. (1989) Origins of Fagaceae. In: Crane, P.R. & Blackmore, S. (eds.) Evolution, systematics, and fossil history of the
+Hamamelidae. Clarendon Press, Oxford, pp. 23–43.
+Nixon, C. & Crepet, W.L. (1989) Trigonobalanus (Fagaceae): taxonomic status and phylogenetic relationships. American
+Journal of Botany 76: 828–841.
+http://dx.doi.org/10.2307/2444539
+Ørsted, A.S. (1871) Bidrag til Kundskab om Egefamilien i Nutid og Fortid. Kongelige Danske Videnskabernes Selskabs
+Skrifter 9: 331–538.
+Peterson, K.R., Pfister, D.H. & Bell, C.D. (2010) Cophylogeny and biogeography of the fungal parasite Cyttaria and its host
+Nothofagus, southern beech. Mycologia 102: 1417–1425.
+http://dx.doi.org/10.3852/10-048
+Philipson, W.R. & Philipson, M.N. (1979) Leaf vernation in Nothofagus. New Zealand Journal of Botany 17: 417–421.
+http://dx.doi.org/10.1080/0028825x.1979.10426911
+Philipson, W.R. & Philipson, M.N. (1988) A classification of the genus Nothofagus (Fagaceae). Botanical Journal of the
+Linnean Society 98: 27–36.
+http://dx.doi.org/10.1111/j.1095-8339.1988.tb01692.x
+Phillipi, R.A. (1858) Plantarum novarum Chilensium: Centuria quarta. Linnaea 29: 1–47.
+Phillipi, R.A. (1864) Plantarum novarum Chilensium centuriae, inclusis quibusdam Mendocinus et Patagonicis. Linnaea 33: 1–
+308.
+Poeppig, E.F. & Endlicher, S.F.L. (1838) Nova Genera ac Species Plantarum quas in Regno Chilensi Peruviano et in terra
+Amazonica 2 (9–10). Sumptibus F. Hofmeister, Leipzig, pp. 61–74.
+Pole, M. (1994) The New Zealand flora—entirely longdistance dispersal? Journal of Biogeography 21: 625–635.
+http://dx.doi.org/10.2307/2846036
+Poole, A.L. (1950) Studies of New Zealand Nothofagus species. 1. Taxonomy and floral morphology. Transactions of the Royal
+Society of New Zealand 78: 363–380.
+Poole, A.L. (1958) Studies of New Zealand Nothofagus species. 3. The entire-leaved species. Transactions of the Royal Society
+of New Zealand 85: 551–564.
+Praglowski, J. (1982) Fagaceae L.: Fagoideae. World Pollen and Spore Flora 11. Scandinavian University Press, Oslo, pp. 1–
+28.
+Premoli, A.C., Mathiasen, P., Acosta, M.C. & Ramos, V.A. (2011) Phylogeographically concordant chloroplast DNA
+divergence in sympatric Nothofagus s.s. How deep can it be? New Phytologist 193: 261–275.
+http://dx.doi.org/10.1111/j.1469-8137.2011.03861.x
+Richard, A. (1832) Essai d’une Flore de la Nouvelle-Zélande. J.Tastu, Paris, 376 pp.
+Rickett, H.W. (1958) Reports of the Committee for Spermatophyta: conservation of generic names I (continued). Taxon 7: 184–
+193.
+http://dx.doi.org/10.2307/1218445
+Rozefelds, A.C. (1998) Stamen morphology in Nothofagus (Nothofagaceae). International Journal of Plant Science 159: 655–
+667.
+http://dx.doi.org/10.1086/297584
+Rozefelds, A.C. & Drinnan, A.N. (1998) Ontogeny and diversity in staminate flowers of Nothofagus (Nothofagaceae).
+International Journal of Plant Science 159: 906–922.
+http://dx.doi.org/10.1086/314090
+Rozefelds, A.C. & Drinnan, A.N. (2002) Ontogeny of pistillate flowers and inflorescences in Nothofagus subgenus Lophozonia
+(Nothofagaceae). Plant Systematics and Evolution 233: 105–126.
+http://dx.doi.org/10.1007/s00606-002-0214-0
+Russell, G.B., Bowers, W.S., Keesing, V., Niemeyer, H.M., Svenet, T., Vasanthaverni, S. & Wratten, S.D. (2000) Patterns of
+bioactivity and herbivory on Nothofagus species from Chile and New Zealand. Journal of Chemical Ecology 26: 41–56.
+Sanmartín, I. & Ronquist, F. (2004) Southern Hemisphere biogeography inferred by event-based models: plant versus animal
+patterns. Systematic Biology 53: 216–243.
+http://dx.doi.org/10.1080/10635150490423430
+Sauquet, H.E., Ho, S.Y.W., Gandolfo, M.A., Jordan, G.J., Wilf, P., Cantrill, D.J., Bayly, M.J., Bromham, L., Brown, G.K.,
+Carpenter, R.J., Lee, D.M., Murphy, D.J., Sniderman, J.M.K. & Udovicic, F. (2012) Testing the impact of calibration on
+molecular divergence times using a fossil-rich group: the case of Nothofagus (Fagales). Systematic Biology 61: 289–313.
+doi:10.1093/sysbio/syr116
+Setoguchi, H., Ono, M., Doi, Y., Koyama, H. & Tsuda, M. (1997) Molecular phylogeny of Nothofagus (Nothofagaceae) based
+on the atpB-rbcL intergenic spacer of the chloroplast DNA. Journal of Plant Research 110: 469–484.
+http://dx.doi.org/10.1007/bf02506808
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 25
+
+Spach, E. (1841) Végétaux Phanérogames Dicotylédones. Histoire Naturelle des Végétaux 11. Librairie encyclopédique de
+Roret, Paris, 444 pp.
+Stecconi, M., Marchelli, P., Puntieri, J., Picca, P. & Gallo, L. (2004) Natural hybridization between a deciduous (Nothofagus
+antarctica, Nothofagaceae) and an evergreen (N. dombeyi) forest tree species: evidence from morphological and
+isoenzymatic traits. Annals of Botany 94: 775–786.
+http://dx.doi.org/10.1093/aob/mch205
+Steenis, C.G.G.J. van (1952a) Preliminary account of Papuan Nothofagus. Blumea 7: 146–147.
+Steenis, C.G.G.J. van (1952b) Errata. Blumea 7: 306.
+Steenis, C.G.G.J. van (1953a) Results of the Archbold expeditions: Papuan Nothofagus. Journal of the Arnold Arboretum 34:
+301–374.
+Steenis, C.G.G.J. van (1953b) Propositions pour le Congrès de Paris. Proposal no. 39. Taxon 2: 177–179.
+Steenis, C.G.G.J. van (1954) Additional note on Nothofagus. Journal of the Arnold Arboretum 35: 266–267.
+Steenis, C.G.G.J. van (1955) Miscellaneous notes on New Guinea plants II. Nova Guinea, new series 6: 279–282.
+Steenis, C.G.G.J. van (1971) Nothofagus, key genus of plant geography, in time and space, living and fossil, ecology and
+phylogeny. Blumea 19: 65–98.
+Steenis, C.G.G.J. van (1972) Nothofagus. In: Steenis, C.G.G.J. van (ed.) Flora Malesiana, series 1, 7 (2). Noordhoff-Kolff,
+Djakarta, pp. 277–294.
+Steenis, C.G.G.J. van (1986) An interesting new species of Nothofagus from New Guinea (Fagaceae). Kew Bulletin 41: 732.
+http://dx.doi.org/10.2307/4103125
+Swofford, D.L. (2002) PAUP*: Phylogenetic Analysis Using Parsimony (and other methods). Sinauer Associates, Sunderland,
+Massachusetts.
+Stover, L.E. & Evans, P.R. (1973) Upper Cretaceous-Eocene spore-pollen zonation, offshore Gippsland Basin, Australia.
+Special Publications, Geological Society of Australia 4: 55–72.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M. & Kumar, S. (2011) MEGA 5: Molecular Evolutionary Genetics
+Analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Molecular Biology and
+Evolution 28: 2731–2739.
+http://dx.doi.org/10.1093/molbev/msr121
+Tanai, T. (1986) Phytogeographic and phylogenetic history of the genus Nothofagus Bl. (Fagaceae) in the southern hemisphere.
+Journal of the Faculty of Science, Hokkaido University, series 4, 21: 505–582.
+Turczaninow, C.G.J. (1858) Animadversiones in secundam partem herbarii Turczaninowiani, nunc Universitatis Caesareae
+Charkowiensis. Bulletin de la Société Imperiale des Naturalistes de Moscou 31: 380–500.
+Vazquez, F.M. & Rodriguez, R.A. (1999) A new subspecies and two new combinations of Nothofagus Blume (Nothofagaceae)
+from Chile. Botanical Journal of the Linnean Society 129: 75–83.
+http://dx.doi.org/10.1111/j.1095-8339.1999.tb00491.x
+Wang, P.L. & Pu, F.D. (2004) Pollen morphology and biogeography of Fagaceae. Guangdong Science and Technology Press,
+Guangzhou, 158 pp.
+Wardle, J. (1984) The New Zealand beeches. Ecology, utilization and management. New Zealand Forest Service, Christchurch,
+447 pp.
+Wigston, D.L. (1979) Nothofagus (Blume) in Britain. Watsonia 12: 344–345.
+Wollenweber, E., Stevens, J.F., Dörr, M. & Rozefelds, A.C. (2003) Taxonomic significance of flavonoid variation in temperate
+species of Nothofagus. Phytochemistry 62: 1125–1131.
+http://dx.doi.org/10.1016/s0031-9422(02)00666-0
+Zheng, Z.H., Wang, P.L. & Pu, F.D. (1999) A comparative study on pollen exine ultrastructure of Nothofagus and the other
+genera of Fagaceae. Acta Phytotaxonomica Sinica 37: 253–258.
+
+26 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Appendix 1. Morphological characters used in the phylogenetic analyses. Characters 1–22 from
+Jordan & Hill (1999), excluding their characters 10 and 11 (see text); characters 12–24 of Jordan
+& Hill (1999) were renumbered here as 10–22. Characters 23–37 were obtained from other
+literature.
+1. Leaf vernation. 0 = plicate; 1 = planar; 2 = revolute; 3 = conduplicate. For illustrations of this character
+see Philipson (1979, figs. 3–6).
+2. Cupule valves and fruit. 0 = valves 4, fruit 2 trimerous, 1 dimerous; 1 = valves 2, fruit 3 dimerous; 2 =
+valves 2, fruit 1 dimerous; 3 = valves 2, fruit 1 trimerous; 4 = valves 2–4, fruit 1 trimerous, 0–1 dimerous;
+5 = valves 4, fruit 4–7. For illustrations of this character see Hill & Read (1991, figs. 1–34).
+3. Cupule appendage type. 0 = glandular; 1 = lamellate. For illustrations of this character see Hill & Read
+(1991, figs. 1–34).
+4. Peduncle length. 0 = sessile or short; 1 = long.
+5. Cupule valves. 0 = woody; 1 = thin; 2 = thin and much shorter than the fruit.
+6. Staminate flowers. 0 = perianth present; 1 = perianth absent, pseudanthium present. For illustrations of
+this character see Rozefelds & Drinnan (1998, figs. 1b–c, fig. 2e–f) and Langdon 1940, fig. 11).
+7. Pollen shape in polar view. 0 = peritreme; 1 = goniotreme. For illustrations of this character see Dettmann
+et al. (1990, table 2).
+8. Pollen polar to equatorial lengths (l/E). 0 = l/E > 0.35; 1 = l/E < 0.3. For illustrations of this character see
+Dettmann et al. (1990, table 2).
+9. Pollen aperture thickening. 0 = annulate; 1 = heavy thickening; 2 = rimmed; 3 = unthickened. For
+illustrations of this character see Dettmann et al. (1990, table 2).
+10. Stipule attachment. 0 = not peltate; 1 = peltate. For illustrations of this character see Steenis (1953, figs. 2,
+4–22).
+11. Phyllotaxy. 0 = distichous; 1 = spiral.
+12. Glandular trichomes on cuticle. 0 = present; 1 = absent. For illustrations of this character see Hill & Read
+(1991, figs. 76–78).
+13. Solitary unicellular trichome type A. 0 = present; 1 = absent. For illustrations of this character see Hill &
+Read (1991, figs. 83–84).
+14. Solitary unicellular trichome type C. 0 = present; 1 = absent. For an illustration of this character see Hill &
+Read (1991, fig. 86).
+15. Conical trichomes. 0 = present; 1 = absent; 2 = broad-based form; 3 = SUTTB or SUTTD. For an
+illustration of this character see Jordon & Hill (1999, fig. 1a).
+16. T pieces at stomatal poles. 0 = absent; 1 = present. For illustrations of this character see Hill & Read
+(1991, figs. 93–96).
+17. Stomatal orientation. 0 = random; 1 = mostly parallel with the midrib. For illustrations of this character see
+Hill & Read (1991, figs. 90–92).
+18. Giant stomata on veins. 0 = present; 1 = absent. For illustrations of this character see Hill & Read (1991,
+fig. 78) and Jordon & Hill (1999, fig. 1b).
+19. Stomatal size excluding giant stomata. 0 = more or less even; 1 = variable.
+20. Upper epidermal cells over veins. 0 = more elongate than areolar cells; 1 = not distinguishable from
+areolar cells; 2 = thinner than areolar cells.
+21. Complete fimbrial vein. 0 = absent; 1 = type 1; 2 = type 2. For illustrations of this character see Jordon &
+Hill (1999, figs. 1f–1h).
+22. Serrations. 0 = often associated with more than two teeth; 1 = associated with one or two teeth; 2 = entire
+margined leaf. For illustrations of this character see Jordon & Hill (1999, figs. 1i–j).
+23. Anther ornamentation. 0 = type a, non-ornamented; 1 = type b, isomorphic, and consisting of a single
+papilla on each epidermal cell; 2 = type c1, heteromorphic, with striated papillae in ridges and/or on the
+apex, weakly defined papillose ridges along sides of anthers and lacking prominently striated cells on the
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 27
+
+distal connective protrusion; 3 = type c2, heteromorphic, with striated papillae in ridges and/or on the
+apex, papillose ridges along sides of anthers and epidermal papillae on the distal connective protrusion are
+larger and strongly differentiated from other epidermal cells; 4 = type c3, heteromorphic, with striated
+papillae in ridges and/or on the apex, prominent lateral papillose ridges, and epidermal cells on distal
+connective protrusion are not strongly differentiated from other epidermal cells; 5 = type c4,
+heteromorphic, with striated papillae in ridges and/or on the apex, papillose ridges along sides of anthers
+and epidermal papillae on distal connective protrusion smaller than other epidermal cells. Data from
+Rozefelds (1998). For illustrations of this character see Rozefelds (1998, figs. 1–4).
+24. Filaments free or connate. 0 = free; 1 = connate. Data from Rozefelds (1998) and Rozefelds & Drinnan
+(2002). For illustrations of this character see Rozefelds & Drinnan (1998, fig. 9g).
+25. Stamen number. 0 = <20; 1 = usually >20. Data from Rozefelds (1998).
+26. Pollen aperture ends. 0 = U-shaped; 1 = V-shaped. Data from Manos (1997) character 10. For illustrations
+of this character see Dettmann et al. (1990, table 2).
+27. Epidermal cell walls. 0 = not granular; 1 = granular. Data from Hill & Read (1991) character 16.
+28. Stamen development. 0 = centripetal; 1 = pseudocentrifugal. Data from Rozefelds & Drinnan (1998). For
+illustrations of this character see Rozefelds & Drinnan (1998, figs. 1–2).
+29. Staminate perianth lobe number. 0 = 4; 1= 6–14. Data from Rozefelds & Drinnan (1998). For illustrations
+of this character see Rozefelds & Drinnan (1998, figs. 1–2).
+30. Staminate perianth shape. 0 = narrowly campanulate; 1 = broadly campanulate; 2 = tubular. Data from
+Rozefelds & Drinnan (1998). For illustrations of this character see Rozefelds & Drinnan (1998, figs. 1–2).
+31. Staminate perianth lobes. 0 = prominent; 1 = reduced. Data from Rozefelds & Drinnan (1998). For
+illustrations of this character see Rozefelds & Drinnan (1998, figs. 1–2).
+32. Anther distal connective protrusion. 0 = absent; 1 = present, weakly or strongly developed. Data from
+Rozefelds (1998) and Rozefelds & Drinnan (1998).
+33. Cupule vestiture. 0 = simple trichomes; 1 = densely covered with simple trichomes; 2 = glabrous. Data
+from Hill & Read (1991).
+34. Pollen aperture length. 0 = 4–11 µm; 1 = >15 µm. Data from Manos (1997).
+35. Cyttaria (Ascomycota, Leotiomycetes) lineage A of Peterson et al. (2010). 0 = absent; 1 = present.
+36. Cyttaria (Ascomycota, Leotiomycetes) lineage B of Peterson et al. (2010). 0 = absent; 1 = present.
+37. Cyttaria (Ascomycota, Leotiomycetes) lineage C of Peterson et al. (2010). 0 = absent; 1 = present.
+
+28 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Appendix 2. Morphological matrix for phylogenetic analysis of Fuscospora, Lophozonia, Nothofagus,
+and Trisyngyne.
+Fagus
+
+03?010000000000000000???0???1000?1000
+
+Betulaceae
+
+0????????0001000001000?00?????????000
+
+N. antarctica
+
+0010100101001101111000000010000000110
+
+N. nitida
+
+1010100101001101110100000000000000010
+
+N. pumilio
+
+03?0100101001131111000000010000000110
+
+N. betuloides
+
+10?0100101001101111000000000000000110
+
+N. dombeyi
+
+1010100101001101110000000000000000110
+
+F. alessandri
+
+0510100110000110011001000010001000000
+
+F. gunnii
+
+0010100110010100011001000010001000000
+
+F. solandri
+
+2410100110010110011012000010001000000
+
+F. fusca
+
+2010100110000100011011000010001000000
+
+F. truncata
+
+2010100110000110011011000010001000000
+
+T. grandis
+
+3210101121001110000202310000021120000
+
+T. brassii
+
+3111101121001110000202410000021120000
+
+T. perryi
+
+3111101121001110000101310000021120000
+
+T. resinosa
+
+3210201121001100000211210000021120000
+
+T. balansae
+
+3110001121101110000211510000021120000
+
+T. aequilateralis
+
+3110001121101100000202?10000021120000
+
+L. alpina
+
+0000111030001000011000101111110011001
+
+L. glauca
+
+0000111030001000011000001101110011011
+
+L. obliqua
+
+0000111030001000011000101111110011011
+
+L. cunninghamii
+
+1000111030001020001101001101110011001
+
+L. menziesii
+
+1000111030001020011120001101110011001
+
+L. moorei
+
+1000111030001020011120101101110011001
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 29
+
+Appendix 3. Taxa and GenBank numbers for rbcL sequences used for analysis of between- and
+within-genus genetic variation. Taxon names are as they appear in GenBank records except for
+genera of Nothofagaceae. Some species have sequence variation and we have included this in the
+analysis and so some species are represented by more than one accession.
+Allocasuarina muelleriana (Miq.) L.A.S.Johnson, U06839; Allocasuarina torulosa (Aiton) L.A.S.Johnson,
+AY033850; Allocasuarina verticillata (Lam.) L.A.S.Johnson, X69527; Alnus cremastogyne Burkill,
+JF940705; Alnus ferdinandi-coburgii C.K.Schneid., FJ844570; Alnus glutinosa, FN689372; Alnus glutinosa
+(L.) Gaertn., HE574600; Alnus incana (L.) Moench, HM849757; Alnus japonica Siebold & Zucc., FJ844577;
+Alnus nepalensis D.Don, FJ844581; Annamocarya sinensis (Dode) J.-F.Leroy, AY263935; Betula
+alleghaniensis Britton, GU373373; Betula ermanii Cham., GU373374; Canacomyrica monticola Guillaumin,
+DQ310504; Carpinus betulus L., JN893226; Carpinus viminea Wall. ex Lindl., HQ427161; Carya
+cordiformis (Wangenh.) K.Koch, HQ590020; Carya cordiformis (Wangenh.) K.Koch, HQ590021; Carya
+ovate (Mill.) K.Koch, AY263931; Castanea sativa Mill., AY548965; Castanea sativa Mill., HM849869;
+Castanea sativa Mill., JN891651; Castanea sativa Mill., M94936; Castanea seguinii Dode, AY263937;
+Castanopsis carlesii (Hemsl.) Hayata, HQ427175; Castanopsis cuspidata Schottky var. cuspidata,
+AB060563; Castanopsis fargesii Franch., JF941175; Castanopsis fissa Rehder & E.H.Wilson, JF941176;
+Castanopsis hystrix Miq., JF941182; Castanopsis hystrix Miq., JF941183; Castanopsis hystrix Miq.,
+JF941184; Castanopsis indica A.DC., JF941185; Castanopsis inermis Benth. & Hook.f., AB125011;
+Castanopsis lamontii Hance, JF941191; Castanopsis remotidenticulata Hu, JF941204; Castanopsis rockii
+A.Camus, JF941207; Castanopsis sclerophylla (Lindl. & Paxton) Schottky, JF941212; Castanopsis sieboldii
+(Makino) Hatus, AB060564; Castanopsis tibetana Hance, AY147096; Casuarina collina J.Poiss. ex Pancher
+& Sebert, AY033856; Casuarina equisetifolia L., GU135200; Casuarina glauca Spreng., GU135181;
+Casuarina littorea Oken L01893; Casuarina obesa Miq., AY033853; Ceuthostoma terminale L.A.S.Johnson,
+AY033860; Chrysolepis sempervirens (Kellogg) Hjelmq., AF206750; Comptonia peregrina (L.) J.M.Coult.,
+AJ626756; Comptonia peregrina (L.) J.M.Coult., DQ310505; Comptonia peregrine (L.) J.M.Coult., X69529;
+Corylus avellana L., FN689371; Corylus avellana L., HM849918; Corylus avellana L., JN890946; Corylus
+avellana L., JN891389; Corylus cornuta Marshall, X56619; Cyclocarya paliurus (Batal.) Iljinsk., AY263942;
+Engelhardia fenzelii Merr., AY147095; Fagus Americana Sweet, L13338; Fagus crenata Blume, AB060567;
+Fagus grandifolia Ehrh. AY935745; Fagus grandifolia subsp. mexicana Martinez) A.E.Murray, FJ348713;
+Fagus hayatae Palib., JF941503; Fagus hayatae Palib., JF941505; Fagus japonica Maxim., AB060566;
+Fagus longipetiolata Seemen, JF941508; Fagus lucida Rehder & E.H.Wilson, JF941510; Fagus sylvatica L.,
+JN641795; Fagus sylvatica L., JN891396; Fuscospora alessandri (Espinosa) Heenan & Smissen, AY605489;
+Fuscospora alessandri (Espinosa) Heenan & Smissen, L13341; Fuscospora fusca (Hook.f.) Heenan &
+Smissen, L13351; Fuscospora gunnii (Hook.f.) Heenan & Smissen, AY605493; Fuscospora gunnii (Hook.f.)
+Heenan & Smissen, L13354; Fuscospora solandri (Hook.f.) Heenan & Smissen, AY605497; Fuscospora
+solandri (Hook.f.) Heenan & Smissen, L13362; Fuscospora truncata (Colenso) Heenan & Smissen,
+AY605498; Fuscospora truncata (Colenso) Heenan & Smissen, L13363; Gymnostoma leucodon (J.Poiss.)
+L.A.S.Johnson, AY033865; Gymnostoma nobile (Whitmore) L.A.S.Johnson, AY033866; Gymnostoma
+sumatranum (Jungh. ex de Vriese) L.A.S.Johnson, AY033870; Hamamelis mollis Oliv. ex Forb. & Hemsl.,
+L01922; Juglans cinerea L., HQ590142; Juglans nigra L., AF206785; Juglans nigra L., HQ590143; Juglans
+nigra L., U00437; Juglans regia L., GQ436392; Lithocarpus glaber Nakai, AB060568; Lithocarpus glaber
+Nakai, HQ427174; Lithocarpus henryi Rehder & E.H.Wilson, AY147097; Lithocarpus lucidus (Roxb.)
+Rehder, AB125014; Lithocarpus wallichianus (Lindl. ex Hance) Rehder, AB125015; Lophozonia alpina
+(Poepp. & Endl.) Heenan & Smissen, L13342; Lophozonia cunninghamii (Hook.f.) Heenan & Smissen,
+AY605490; Lophozonia cunninghamii (Hook.f.) Heenan & Smissen, L13348; Lophozonia glauca (Phil.)
+Heenan & Smissen, AY605492; Lophozonia glauca (Phil.) Heenan & Smissen, L13352; Lophozonia
+menziesii (Hook.f.) Heenan & Smissen, AY605494; Lophozonia menziesii (Hook.f.) Heenan & Smissen,
+AY605495; Lophozonia menziesii (Hook.f.) Heenan & Smissen, L13355; Lophozonia menziesii (Hook.f.)
+
+30 •
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+HEENAN & SMISSEN
+
+Heenan & Smissen, L13356; Lophozonia obliqua (Mirb.) Heenan & Smissen, AY605496; Lophozonia
+obliqua (Mirb.) Heenan & Smissen, L13358; Morella caroliniensis (Mill.) Small, GQ248648; Morella
+cerifera (L.) Small, AJ626759; Morella faya (Aiton) Wilbur, HM850183; Morella quercifolia (L.) Killick,
+AJ626760; Myrica gale L., JN890811; Myrica gale L., JN893091; Myrica gale L., X69530; Myrica hartwegii
+S.Watson, DQ310503; Nothofagus antarctica (G.Forst.) Oerst., AY263939; Nothofagus antarctica (G.Forst.)
+Oerst., L13343; Nothofagus betuloides (Mirb.) Oerst., L13345; Nothofagus dombeyi (Mirb.) Oerst., L13350;
+Nothofagus nitida (Phil.) Krasser, AY745881; Nothofagus nitida (Phil.) Krasser, L13357; Nothofagus pumilio
+(Poepp. & Endl.) Krasser, L13360; Ostrya virginiana K.Koch, HQ590197; Ostrya virginiana K.Koch,
+X56620; Ostryopsis davidiana Decne., AF081515; Ostryopsis intermedia B.Tian & J.Q.Liu, JF942745;
+Ostryopsis nobilis Balf.f. & W.W.Sm., JF942747; Ostryopsis nobilis Balf.f. & W.W.Sm., JF942749;
+Platycarya strobilacea Siebold & Zucc., AY263933; Platycarya strobilacea Siebold & Zucc., HQ427158;
+Pterocarya fraxinifolia (Poir.) Spach, AJ235790; Pterocarya rhoifolia Siebold & Zucc., U00439; Quercus
+acutissima Carruth., AB060578; Quercus alba L., EU676966; Quercus alba L., EU676967; Quercus cerris
+L., AB125017; Quercus crenata Lam., FN675732; Quercus dentata Thunb., AB060579; Quercus garryana
+Douglas ex Hook., HQ184325; Quercus gemelliflora Blume, AB125019; Quercus hemisphaerica Bartram ex
+Willd., AF119176; Quercus hondae Makino, B060583; Quercus macrocarpa Michx., EU676971; Quercus
+macrocarpa Michx., HQ590229; Quercus ngira L., EU002284; Quercus phillyraeoides A.Gray., HQ427176;
+Quercus pubescens Willd., FN675720; Quercus robur L., FN675733; Quercus rubra L., AB125026; Quercus
+rubra L., EU676973; Quercus rubra L., N689354; Quercus serrata var. brevipetiolata (A.DC.) Nakai,
+HQ427171; Quercus suber L., AB125027; Quercus variabilis Blume, AB060574; Quercus virginiana Mill.,
+AF119175; Rhoiptelea chiliantha Diels & Hand.-Mazz., AF017687; Ticodendron incognitum Gómez-Laur. &
+L.D.Gómez, AB015455; Ticodendron incognitum Gómez-Laur. & L.D.Gómez, AF061197; Trigonobalanus
+verticillata Forman, AB084767; Trigonobalanus verticillata Forman, AJ235812; Trisyngyne balansae
+Baillon, L13344; Trisyngyne brassii (Steenis) Heenan & Smissen, L13346; Trisyngyne codonandra Baillon ,
+L13347; Trisyngyne discoidea Baum.-Bod., L13349; Trisyngyne grandis (Steenis) Heenan & Smissen,
+L13353; Trisyngyne perryi (Steenis) Heenan & Smissen, L13359; Trisyngyne resinosa (Steenis) Heenan &
+Smissen, L13361.
+
+REVISED CIRCUMSCRIPTION OF NOTHOFAGUS
+
+Phytotaxa 146 (1) © 2013 Magnolia Press
+
+• 31
+
+

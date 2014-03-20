@@ -1,0 +1,825 @@
+Phytotaxa 104 (1): 35–42 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.104.1.5
+
+Cyclotella iranica sp. nov. (Bacillariophyta: Coscinodiscophyceae), a new diatom
+from the Karaj River, Iran
+SOMAYYEH KHEIRI1*, TAHER NEJADSATTARI1, YOUNES ASRI2, SEYED MOHAMMAD MEHDI
+HAMDI3, SARAH SPAULDING4 & MARK B. EDLUND5
+1
+
+Department of biology, Science and Research Branch, Islamic Azad University, Tehran, Iran
+Research Institute of Forests and Rangelands, P.O. Box 13185–116, Tehran, Iran
+3
+Department of biology, Faculty of science, Roudehen Branch, Islamic Azad University, Roudehen, Iran
+4
+INSTAAR, University of Colorado, Boulder, Colorado, USA
+5
+St. Croix Watershed Research Station, Marine on St. Croix, Minnesota, 55047 USA
+*Corresponding author: E-mail: Somayyeh.kh@gmail.com
+2
+
+Abstract
+Cyclotella iranica sp. nov. is described from the Karaj River, Iran. The morphology of Cyclotella iranica is documented
+with light and scanning electron micrographs and discussed in comparison with several related species: Cyclotella fottii,
+C. delicatula, C. andancensis var. adnanensis, C. andancensis var. bauzilensis and C. andancensis var. bipolaira.
+Cyclotella iranica shares with these related Cyclotella species the following features: unequal stria pattern, one sessile
+rimoportula and several marginal fultoportulae. It is distinguished from them by the position of central fultoportula(e),
+which is (are) situated at the central end of the striae. It is known only from the type locality; the autecology of Cyclotella
+iranica shows that it is tolerant of nutrient and organic enrichment.
+Key words: Cyclotella, centric diatom, new species, Iran, Karaj River
+
+Introduction
+The Karaj River is one of the longest rivers of the Central Iranian Plateau (245 km; Bakhtiari 2008). Its water
+is used for agriculture, gardening and drinking by the residents of the Karaj River valley (and subcatchments); it also meets the industrial and agricultural demands of the cities of Karaj, Tehran, Shahriar and
+Varamin (Rahmati 2007). This area of Iran is little studied for its diatom flora (Jamalou et al. 2007); the
+diatom flora of the Karaj River has not been investigated. The river suffers from heavy pollution due to
+unregulated releases of rural waste, primarily from the restaurants along the river and surrounding villages.
+Because of the Karaj River's primary importance to the province of Tehran, this study was undertaken to
+explore the diatom diversity of the river and to evaluate the relationship of the diatom communities to water
+quality.
+The river starts in the north-western region of the plateau on the southern slope of the Albourz range. Its
+main tributaries are Welayat Rud, located in the north of Tehran, and Warange Rud beginning in the central
+Albourz ranges and located in the north-west of Karaj. These streams join at Gachsar to form the Karaj River.
+The catchment area of the Karaj River is 840 km2. This terrain is delimited to the north by the central Albourz
+mountain ranges, the south by the city of Karaj, the east by the mountainous terrain of Tehran, and the west by
+the north end of Karaj (Rahmati 2007).
+Epipelic samples were taken from the margins of the river monthly from March 2011 to April 2012.
+During this research, a new species of Cyclotella was discovered near the Aderan Village, downstream of the
+Amir Kabir Dam about 12 km along the road from Karaj to Chalous (35°53´N, 51°4´ E, elevation 1555 m).
+Accepted by David Williams: 30 Apr. 2013; published online in PDF: 29 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+35
+
+The new species, named here as Cyclotella iranica sp. nov, is described using light (LM) and scanning
+electron microscopy (SEM). Its relationship to allied Cyclotella species is discussed.
+
+Material and methods
+Epipelic and epilithic samples were collected from six sites (Fig. 1) along the Karaj River:
+Site 1. Downstream of the Amir Kabir Dam, 35°50´N, 51°4´ E, elevation 1405 m, near the village of
+Kondor at Sarvdar Path.
+Site 2. Downstream of the Amir Kabir Dam, 35°53´N, 51°4´ E, elevation 1555 m, near the village of
+Aderan.
+Sites 3. Upstream of the Amir Kabir Dam, 36°01´N, 51°8´ E, elevation 1802 m, near the village of Khab
+bridge.
+Site 4. Upstream of the Amir Kabir Dam, 36°0 2´N, 51°14´ E, elevation 1887 m, near the village of
+Kiasar.
+Site 5. Upstream of the Amir Kabir Dam, 36°02´N, 51°18´ E, elevation 2036 m, near the village of Kasil.
+Site 6. Upstream of the Amir Kabir Dam, 36°07´N, 51°18´ E, elevation 2222 m, between the Gachsar and
+Welayat Rud villages.
+
+FIGURE 1. Map of Karaj River, sampling sites marked with numbered black dots, adapted from geological map of the terrain of
+Marzan Abad and Tehran. Marzan Abad is a region located along the road from Karaj to Chalous, 30 km from Kandovan Tunnel.
+
+36 •
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+KHEIRI ET AL.
+
+For collecting epipelic samples, a plastic syringe (with a capacity of 60 ml and diameter of 29.1 mm) with
+the barrel cut off at the needle adapter end was inserted into the substrate. The plunger was pulled along the
+barrel to admit 25 ml of the epipelic sample to flow in. The cut end of the syringe was then shut by means of a
+spatula to transfer the sample into the preservative solution (4% formaldehyde, CH2O) in a 30 ml bottle.
+Epilithic samples were collected from a rock by brushing 100 cm 2 of the rock surface. Material was
+transferred into a 30 ml bottle containing the preservative solution and transported to the laboratory of Islamic
+Azad University of Tehran. The samples were treated with 25–30 ml 30% hydrogen peroxide (H 2O2) (1.5
+hours at 100 °C) and then 10 ml hydrochloric acid (HCl) (2 hours at 120 °C) for the removal of organic matter
+and carbonates. Excess acid was removed by repeated rinsing and settling with distilled water.
+Coverslips were prepared with the diatom suspension and mounted on slides in Zrax. For LM images,
+slides were examined using a Leica DMRB microscope under a 100x oil immersion objective (1.4 NA) with
+differential interference contrast (DIC). Images were gathered and analyzed with a Qimaging 3.3 M camera
+and software at the Iowa Lakeside Laboratory (Milford, Iowa, U.S.A.).
+Cleaned material for SEM was placed on aluminum stubs and air dried. These stubs were coated with gold
+(Emitech K550, 20 mA, 1.5 min) before being viewed using an LEO 440i scanning electron microscope
+operated at 15 kV in the SEM center of the Islamic Azad University of Tehran Branch of Science and
+Research. Additional SEM images were taken at the Wartburg College SEM Center (Waverly, Iowa, U.S.A)
+using a Hitachi S-2460N SEM.
+Comparison with Cyclotella delicatula Hustedt (1952: 376) was based on type material (BRM AC1/87,
+holotype, AC1/88, AC1/89; see Simonsen 1987: 381 and Houk et al. 2010: 32, 292-299); comparison with C.
+fotti Hustedt (in Huber-Pestalozzi 1942: 400) was based on Levkov et al. (2007) and Houk et al. (2010: 25,
+224–229); comparison with C. krammeri Håkansson (1990: 263) was based on Håkansson (1990);
+comparison with C. andancensis var. andancensis Ehrlich (1966: 316) was based on Ehrlich (1966) and
+Serieyssol (1981); comparison with C. andancensis var. bauzilensis Serieyssol (1981: 29) and C. andancensis
+var. bipolaira Serieyssol (1981: 31) was based on Serieyssol (1981). Additional taxonomic comparisons were
+made using Krammer and Lange-Bertalot (1991).
+Valve terminology follows Theriot & Serieyssol (1994) and Houk et al. (2010: 6). Stria density in 10 µm
+was measured by counting the total striae on the disc face, dividing it by the circumference of the valve and
+then multiplying that by 10.
+Environmental factors, including dissolved oxygen (DO) and electrical conductivity (EC) of the water of
+the river, were measured in situ with a portable DO meter (WTW Oxical-SL Model CellO×3205) and an EC
+meter (Crison Model CM 35) respectively. Water samples were transported to the laboratory for further
+analysis, with the results summarized in Table 3.
+
+New species description
+Cyclotella iranica Nejadsattari, Kheiri, Spauld., & Edlund sp. nov. (Figs 2–14)
+Frustules cylindrical, valves disc-shaped, valve face smooth, flat with alveolate multiseriate striae on margin; 5.5–15.8
+m in diameter. Striae vary in length, extending to mantle, 18–23 in 10 m. Mantle fultoportulae located every 3-6
+costae, central fultoportula(e) (1–3) mostly at proximal end of shorter striae. One rimoportula located on a costa, in
+larger valves within striae, in smaller valves near valve face-mantle junction.
+Type:—IRAN. Albourz, Karaj, Karaj River, downstream of the Amir Kabir Dam, near the village of Aderan, elevation
+1555 m, 35°53´N, 51°4´E, epipelon, collected 17 October 2011, M. M. Hamdi (ANSP GC38094, circled specimen,
+holotype! designated here (= Fig. 4), prepared from material ANSP GCM22001; IAUGH slide 5892, ANSP
+GC38095, prepared from material ANSP GCM22002, isotypes! designated here).
+
+μ
+
+μ
+
+Valve face ornamented with two distinct parts: a hyaline central area and a marginal striated region; central
+area roughly 1/4–1/7 of total valve diameter. Striae alveolate and multiseriate, with 3–4 rows of fine porelli
+
+CYCLOTELLA IRANICA SP. NOV. FROM IRAN
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+• 37
+
+(not readily seen in LM); alveolar openings very short and small in relation to striae length (Figs 13–14). Stria
+density 18–23 in 10 m; valve diameter varies from 5.5–15.8 m (Figs 2–10). Striae differ in length, arranged
+in pseudo-sectored groups of branching striae around whole valve (Figs 11–12). 1–3 central fultoportulae
+present, arranged randomly, mostly at proximal end of shorter striae (Fig. 4) or rarely at central end of a longer
+stria (Figs 10, 5, 9). Central fultoportulae have two satellite pores and no ornamentation on external opening
+of central tube. Marginal fultoportulae present on every third to sixth costae, near junction of valve face/
+mantle (Figs 13–14). Marginal fultoportulae have two satellite pores, open to valve exterior through
+unornamented central pore. One rimoportula situated on a costa between two adjacent foramina or, in larger
+valves, slightly advalvar to a foramen (within the striated valve part); rimoportula observed only under SEM,
+it is a sessile labium internally and variously oriented from radially to tangentially; external opening is a
+simple unornamented pore (Figs 12–14).
+
+μ
+
+μ
+
+FIGURES 2–10. Cyclotella iranica, ANSP GC38094, Fig. 4 is holotype specimen. All images are LM and in valve view. Scale bar: 5
+m.
+
+μ
+
+Observations:—Among the many known species of Cyclotella, C. iranica is most similar to C.
+delicatula (see Scheffler et al. 2003, Houk et al. 2010). Like C. iranica, C. delicatula has an irregular central
+area with a similar valve diameter size range (Table 1). However, the central area in C. delicatula is more or
+less transversally undulate and colliculate with pori or hollows. In contrast, C. iranica has a flat central area
+without colliculae, pori or hollows (when seen in SEM). Moreover, granules are concentrically arranged in
+rows on the costae of the valve view in C. delicatula, a feature that differentiates it from C. iranica (also in
+SEM). The most distinctive difference between C. delicatula and C. iranica is that C. delicatula possesses 1-2
+fultoportulae near the valve center, opposite the rimoportula (Houk et al. 2010, Scheffler et al. 2003, Kiss et
+al. 2012). In C. iranica, there is one, or in larger valves, up to three, central fultoportulae situated near the
+central end of a stria along the edge of the central area. Furthermore, the central area/valve diameter ratio in C.
+iranica is less than that of C. delicatula.
+Cyclotella iranica shares a similar stria pattern, central area and approximately similar central area/
+diameter ratio with C. fottii (as in Levkov et al. 2007 and Houk et al. 2010) but Cyclotella iranica differs in
+having a smaller, flat central area, stria density (in 10 m), valve diameter range and the presence of a central
+fultoportula. C. iranica does not have marginal spines and its marginal fultoportulae are not visible in LM,
+both of which are characters of C. fottii (Houk et al. 2010).
+
+μ
+
+38 •
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+KHEIRI ET AL.
+
+FIGURES 11–14. SEM images of Cyclotella iranica, Karaj River, Iran. Figs 11–12, 14. Isotype material IAUGH. Fig. 13. Holotype
+material ANSP GCM22001. Fig. 11. External view showing central fultoportulae (black arrowheads) and the single rimoportula on the
+valve face (white arrowhead). Fig. 12. External view showing areolae within striae and the marginal fultoportulae (white arrowhead).
+Fig. 13. Internal view of the valve face. The single rimoportula on the valve face has an oblique orientation (white arrowhead.
+Numerous marginal fultoportulae are present). Fig. 14. Internal view of a small valve with a single central fultoportula and two
+satellite pores. Scale bars = 5 m (Figs 11–13); 2 m (Fig. 14).
+
+μ
+
+μ
+
+Cyclotella iranica can be compared to some Miocene fossil species such as C. andancensis, C.
+andancensis var. bauzilensis and C. andancensis var. bipolaira (Ehrlich 1966, Serieyssol 1981). All of these
+taxa share features with C. iranica, such as the unequal striated pattern of the valve, the presence of one
+rimoportula, and its orientation, and the nearly similar central area/diameter. However, they all differ from C.
+iranica by the absence of a central fultoportula and the colliculate ornamentation of central area. The alveolar
+openings in C. andancensis var. andancensis are the same size as those found in C. iranica, but are different in
+size when C. andancensis var. bauzilensis and C. andancensis var. bipolaira are compared with C. iranica.
+Cyclotella krammeri (Håkansson 1990) is also similar to C. iranica in having an unequal striation to the
+valve face, the presence of central fultoportulae and the size of alveolar openings. However, it has a larger
+central area than C. iranica, with pori and papillae, and more central fultoportulae, which are located in the
+center of the valve in contrast to C. iranica where the central fultoportulae are located at central end of striae.
+Ecology and biogeography:—Habitat, Epipelic or epilithic. There is limited ecological and
+biogeographical information on Cyclotella iranica as it is described here for the first time. From a
+biogeographical standpoint, the distribution of Cyclotella iranica currently limited to the Karaj River basin in
+Iran, its type locality. No other illustrations of this taxon have been located in the literature. Further efforts are
+needed to determine if this taxon is indeed limited to just the Karaj Basin or if additional populations are to be
+found throughout the Middle East.
+
+CYCLOTELLA IRANICA SP. NOV. FROM IRAN
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+• 39
+
+40 •
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+KHEIRI ET AL.
+
+18–23
+
+1/4–1/7
+
+Striae LQ  ȝP
+
+Central area/diameter
+
+Absent
+
+Absent
+
+Orientation of
+rimoportula(e)
+Marginal spines
+
+Colliculate costae
+
+Granules
+
+1/2–1/3
+
+32–46 (12–18)
+
+18.8–26 (8–40)
+
+C. krammeri5
+
+1/5–1/8
+
+25–40 (14–20)
+
+C. andancensis var.
+andancensis 6,7
+13–18 (8–16–20)
+
+Round, papilla? and Round, pori
+pori
+
+1/2–1/3
+
+20-22 (17–22)
+
+5.9–7.4 (5.9–15.7)
+
+C. delicatula1,3,4
+
+Absent
+
+Present
+
+Absent
+
+Absent
+
+Absent
+
+On costae
+
+Absent
+
+Radial or oblique
+
+Striated part of
+valve?
+
+Every third to sixth
+costa
+Very short in
+relation to stria
+length
+1?
+
+On a costa, at
+margin of face in
+small valves, more
+advalvar in large
+valves
+Radial or oblique Radial or oblique
+
+Striated part of
+valve
+
+Every fourth to
+eighth costa
+Very short to 1/3
+length of stria
+
+Every second to
+forth costa
+Very short in
+relation to stria
+length
+3–8
+1
+
+Center valve
+
+-
+
+Center valve
+
+0–2
+
+0
+
+1
+
+Every sixth to eighth
+costa
+1/2 length of stria to
+almost as long as stria
+
+-
+
+0
+
+Round, papilla and
+pori
+
+1/3–1/4
+
+(18–20)
+
+C. andancensis var.
+bauzilensiis7
+(4–10)
+
+Absent
+
+Absent
+
+Tangential
+
+Absent
+
+Absent
+
+Radial
+
+Inner end of a costa,
+On a costa, at valve
+(Striated part of valve)? margin
+
+1
+
+Every third to eighth
+costa
+Very short in relations
+to stria length
+
+-
+
+0
+
+3–5
+
+Round, papilla
+Round, papilla and
+and pori or blank pori or blank
+
+1/4–1/6
+
+9–14
+
+16.7–55.0
+
+C. fottii1,2
+
+Absent
+
+Absent
+
+Radial
+
+On a costa, at valve
+margin
+
+Every fourth to sixth
+costa
+1/3 to 1/2 length of
+stria to almost as
+long as stria
+1
+
+-
+
+0
+
+Oval, papilla and
+pori
+
+1/3–1/4
+
+(16)
+
+C. andancensis var.
+bipolaira7
+(5–10)
+
+On costae, in
+If present, on
+Absent
+Absent
+Absent
+concentric rows
+costae
+Valve face
+Flat
+Transversally
+Flat to transversally Slightly undulate to Transversally undulate Transversally undulate Transversally
+undulate
+undulate
+flat
+undulate
+1
+Houk et al. (2010), 2Levkov et al. (2007), 5 Håkansson (1990), 7Serieyssol (1981), 3 Scheffler et al. (2003), 4Black et al. (2012), 6Ehrlich (1966)
+
+Position of
+rimoportula(e)
+
+On a costa, at
+margin of face in
+small valves,
+more advalvar in
+large valves
+Radial or oblique,
+rarely tangential
+Absent
+
+Shape of central area and Round to star
+ornamentation
+like, no
+ornamentation
+Number of central
+0–3
+fultoportulae
+Position of central
+Central end of a
+fultoportulae
+stria
+Position of marginal
+Every third to
+fultoportulae
+sixth costa
+Alveolar opening length Very short in
+relation to stria
+length
+Rimoportula(e)
+1
+
+5.5–15.8
+
+Valve diameter
+
+C. iranica
+
+TABLE 1. Comparison of morphological features for selected species of Cyclotella.
+
+TABLE 2. Cyclotella iranica from sites (1-6) along Karaj River chronologically (10.4.2011—11.3.2012).
+10.4.
+2011
+
+11.5.
+2011
+
+7.6.
+2011
+
+17.7.
+2011
+
+15.8.
+2011
+
+20.9.
+2011
+
+17.10.
+2011
+
+20.11.
+2011
+
+18.12.
+2011
+
+15.1.
+2012
+
+21.2.
+2012
+
+11.3.
+2012
+
+Site 1
+
+ND
+
+ND
+
+-
+
+ND
+
+-
+
+-
+
+*
+
+-
+
+-
+
+*
+
+-
+
+*
+
+Site 2
+
+ND
+
+ND
+
+rare
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+Site 3
+
+rare
+
+rare
+
+rare
+
+rare
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Site 4
+
+-
+
+rare
+
+-
+
+rare
+
+rare
+
+-
+
+-
+
+rare
+
+-
+
+-
+
+-
+
+-
+
+Site 5
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+*
+
+rare
+
+-
+
+-
+
+-
+
+-
+
+Site 6
+
+-
+
+-
+
+-
+
+-
+
+rare
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+ND: No diatoms present, high amount of inorganic sediment
+Rare: Abundance very low, with 1–2 specimens from among c. 100 valves
+-: Absent
+*: Present at >2% relative abundance
+
+Physicochemical factors taken in the field and laboratory (Table 3) suggest that Cyclotella iranica is
+found in epipelic and epilithic collections from alkaline rivers, and that it is tolerant of nutrient and organic
+enrichment as evidenced from the low dissolved oxygen and high BOD and COD of the type locality (Table
+3). Among the sampling sites, C. iranica was found commonly only at Karaj River Sites 1 and 2 (Table 2).
+There was no strong seasonality in the abundance of C. iranica as it was found at any time of the year; it was
+most prevalent during the summer and fall months.
+TABLE 3. Physical and chemical parameters recorded from Karaj River at the type locality (17 October 2011).
+Parameter
+
+Units
+
+Parameter
+
+Units
+
+Temperature
+
+13.7±5 °C
+
+Cl
+
+276.53 mg l-1
+
+Specific conductance
+
+302 S cm-1
+
+SiO2
+
+12.5 mg l-1
+
+pH
+
+8.41
+
+COD
+
+32.6 mg l-1
+
+Ca
+
+30 mg l-1
+
+BOD
+
+17 mg l-1
+
+Mg
+
+6.5 mg l-1
+
+DO
+
+7.1 mg l-1
+
+Na
+
+9.26 mg l-1
+
+SO4
+
+32.8 mg l-1
+
+K
+
+0.1 mg l-1
+
+NO3
+
+4.26 mg l-1
+
+μ
+
+Acknowledgements
+This study was supported in part by a summer study grant to SK from the Friends of Lakeside Laboratory to
+attend the Ecology and Systematics of Diatoms field course at Iowa Lakeside Laboratory. Additional advice
+and assistance was provided by Steve Main, Wartburg College, Iowa. SK especially thanks Elena Jovanovska,
+the student of Faculty of Natural Sciences, University St Cyril and Methodius, Skopje, Macedonia for
+valuable comments during the initial stages of this research.
+
+References
+Bakhtiari, S. (2008) Atlase Jamee Gitashenasi. Entesharate moasseseye jographiaye va Kartography, Gitashenasi, Iran,
+34 pp.
+
+CYCLOTELLA IRANICA SP. NOV. FROM IRAN
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+• 41
+
+Black, J.L., Edlund, M.B., Hausmann, S. & Pienitz, R. (2012) Small freshwater thalassiosiroid diatoms from Pleistocene
+sediments of Pingualuit Crater Lake, northern Québec (Canada), including description of Cyclotella pingualuitii sp.
+nov. Diatom Research 27: 53–63.
+http://dx.doi.org/10.1080/0269249X.2012.654825
+Ehrlich, A. (1966) Contribution à l'étude des gisements volcano-lacustres à diatomées de la région de Rochessauve et de
+Saint-Bauzile (Ardèche). Bulletin de la société Géologique de France 7 (8): 311–321.
+Håkansson, H. (1990) A comparison of Cyclotella krammeri sp. nov. and C. schumannii Håkansson stat. nov. with
+similar species. Diatom Research 5: 261–271.
+http://dx.doi.org/10.1080/0269249X.1990.9705118
+Houk, V., Klee, R. & Tanaka, H. (2010) Atlas of freshwater centric diatoms with a brief key and descriptions, Part III,
+Stephanodiscaceae A: Cyclotella, Tertiarius, Discotella. Fottea (Supplement) 10: 1–498.
+Huber-Pestalozzi, G. (1942) Das Phytoplankton des Süsswässers. In: Thienemann, A. (ed.), Die Binnengewässer
+Einzeldarstellungen aus der Limnologie und ihren Nachbargebieten 16 (2: 2), Schweizerbart'sche
+Verlagsbuchandlung, Stuttgart, pp. 367–549.
+Hustedt, F. (1952) Neue und wenig bekannte Diatomeen. IV. Botaniska Notiser 1952: 366-410.
+Jamalou, F., Nejadsattari, T. & Falahian, F. (2007) Diatomhaye epilithone roodkhaneye Jajroud. Pajouhesh-VaSazandegi dar Omore Daam va Abzian 73: 2–10.
+Kiss, K.T., Klee, R., Ector, L. & Ács, É. (2012) Centric diatoms of large rivers and tributaries in Hungary: morphology
+and biogeographic distribution. Acta Botanica Croatica 71: 311–363.
+http://dx.doi.org/10.2478/v10184-011-0067-0
+Krammer, K. & Lange-Bertalot, H. (1991a) Bacillariophyceae 3.Teil: Centrales, Fragilariaceae, Eunotiaceae. In: Ettl, H.,
+Gerloff, J., Heynig, H. & Mollenhauer, D. (eds), Süsswasser flora von Mitteleuropa, Band 2(3), G. Fisher Verlag,
+Stuttgart & New York, 576 pp.
+Levkov, Z., Krstic, S., Metzeltin, D. & Nakov, T. (2007) Diatoms of lakes Prespa and Ohrid. Iconographia
+Diatomologica 16: 1–649.
+Rahmati, M. (2007) Tarhe sazmandehiye bastar va harim roodkhane Karaj. Sazmane Ab va Fazelabe Tehran, Iran, 48
+pp.
+Scheffler, W., Houk, V. & Klee, R. (2003) Morphology, morphological variability and ultrastructure of Cyclotella
+delicatula Hustedt (Bacillariaphyceae) from Hustedt material. Diatom Research 18: 107–121.
+http://dx.doi.org/10.1080/0269249X.2003.9705576
+Serieyssol, K.K. (1981) Cyclotella species of Late Miocene age from St. Bauzile, France. In: Ross, R. (ed.), Proceedings
+of the Sixth Symposium on Recent and Fossil Diatoms, Koeltz, Koenigstein, pp. 27–42.
+Simonsen, R. (1987) Atlas and Catalogue of the Diatom Types of Friedrich Hustedt. J. Cramer, Berlin & Stuttgart,
+volume 1, 525 pp.
+Theriot, E. & Serieyssol, K. (1994) Phylogenetic systematics as a guide to understanding features and potential
+morphological characters of the centric diatom family Thalassiosiraceae. Diatom Research 9: 429–450.
+http://dx.doi.org/10.1080/0269249X.1994.9705318
+
+42 •
+
+Phytotaxa 104 (1) © 2013 Magnolia Press
+
+KHEIRI ET AL.
+
+

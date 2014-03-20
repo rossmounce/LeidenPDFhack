@@ -1,0 +1,575 @@
+Phytotaxa 94 (2): 41–48 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.94.2.2
+
+A note on the typification of Hechtia galeottii (Hechtioideae, Bromeliaceae)
+ADOLFO ESPEJO-SERNA 1 , ANA ROSA LÓPEZ-FERRARI 1 , NANCY MARTÍNEZ-CORREA 2 &
+WALTER TILL3
+1
+
+Herbario Metropolitano UAMIZ, Departamento de Biología, División de Ciencias Biológicas y de la Salud, Universidad Autónoma
+Metropolitana, Unidad Iztapalapa. Apdo. Postal 55-535, 09340 MÉXICO, D.F., aes@xanum.uam.mx
+2
+Doctorado en Ciencias Biológicas y de la Salud, Universidad Autónoma Metropolitana, Unidades Iztapalapa, Xochimilco y
+Cuajimalpa
+3
+Botanical Institute of the University of Vienna, Rennweg 14, A-1030, Wien, Austria
+
+Abstract
+We explain why the lectotypification of Hechtia galeottii proposed by Smith & Downs is inaccurate and in serious
+conflict with the protologue and should be discarded. Accordingly, we propose a new lectotype and include a more
+detailed description of the species.
+
+Resumen
+Se explica porque la lectotipificación de Hechtia glaeotti propuesta por Smith & Downs es inadecuada y está en serio
+conflicto con el protólogo, por lo cual debe ser deshechada. Se propone, por lo tanto, un nuevo lectotipo y se incluye una
+descripción detallada de la especie.
+
+When Mez (1919: 71) described Hechtia galeottii, he cited two collections: Galeotti 5440 from Oaxaca, and
+Pringle 6703 from Tomelin Canyon [Cañón de Tomellín] (see Appendix 1) in the protologue. These two
+gatherings are therefore the syntypes and are deposited in the Berlin herbarium (B) where there are three
+specimens, one of Galeotti´s number and two of Pringle´s number.
+Smith & Downs (1974: 587) selected as lectotype (as holotype, see McNeill et al., 2012, Art 9.9) of
+Hechtia galeottii the Galeotti´s specimen deposited at B [B 10 0144795] (Fig. 1, [Röpert, 2000−]).
+It should be noted that the Galeotti specimen (Fig. 1) is very incomplete as it comprises only three
+fragmentary spikes from a staminate inflorescence, one 3 cm long and the other two 7.5 and 12 cm long
+respectively, and has neither leaves nor pistillate flowers or inflorescence parts. Obviously, the description
+provided by Mez in the protologue (see Appendix 1) can not be based alone on this incomplete gathering.
+Moreover, the only known duplicate of this collection in Geneva (G–DEL) is equally incomplete (Fig. 2). It is
+important to mention that Carl Mez´s herbarium was added to the Berlin herbarium during the year 1933
+(Hiepko, 1987: 245), and that the Königsberg University herbarium, which contained much of Mez´s material,
+was destroyed during an air-attack in September 1944, shortly after Mez´s death. Therefore, many of the Mez
+types may be found at B, M, and G (Stafleu & Cowan, 1981).
+On the other hand, the Pringle specimens are more complete and comprises each a portion of a leaf, a
+staminate twice divided spike, a simple pistillate spike, as well as a fruiting simple spike (Fig. 3, [Röpert,
+2000−]). Moreover, of this gathering there are at least 15 duplicates in several herbaria. A careful comparison
+(Table 1) of the syntypes with the original description (Appendix 1) allows us to conclude that for making the
+description Mez used mainly the Pringle specimens.
+
+Accepted by Eric Gouda: 11 Apr. 2013; published online in PDF: 22 Apr. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+41
+
+42 •
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+ESPEJO-SERNA ET AL.
+
+Folia ad 0.4 m longa, supra glabra subtus in
+valleculis densissime lepidota pallida, spinis
+hamatis, vix ultra 4 mm longis, in axillis haud
+barbigeris horrida
+
+Inflorescentia myriantha, laxe 3 pinnatim
+panniculata [twice branched], valde elongata,
+subcylindrica; ramis elongatissimis usque ad
+0.3 m longis mihi visis, fere e basi flores
+innumeros densissime cylindrice gerentibus,
+per anthesin vix ultra 8 mm diam. metientibus
+
+Bracteolis florigeris ad 2 mm longis, cum
+sepalis dorso lepidotulis, sepala superantibus,
+e late ovato late acutis, margine dentatis,
+suberectis.
+
+Flores subsessiles, virentes, utriusque sexus
+subpatentes, 2–2.5 mm longi
+
+Sepalis ad 1.5 mm longis, squamiformitriangularibus, lepidotulis
+
+Petala ex elliptico foeminea breviter, mascula
+brevissime acutiuscula, libera
+
+Ovarium glabrum
+
+Leaves
+
+Inflorescence
+
+Floral bracts
+
+Flowers
+
+Sepals
+
+Petals
+
+Ovary
+
+Protologue
+
+ABSENT
+
+Staminate petals, elliptic, 2.5–2.8 mm
+long, acute [IN AGREEMENT WITH
+PROTOLOGUE]
+
+Pistillate petals ABSENT
+
+Sepals 1.6–1.7, oblong (staminate only)
+
+Flowers white, fragrant [see label at G
+specimen] (staminate only present)
+
+Floral bracts 2.3-2.9 mm long,
+longer than sepals [IN AGREEMENT WITH
+PROTOLOGUE]
+ovate-triangular,acute, erose [IN
+AGREEMENT WITH PROTOLOGUE]
+
+PROTOLOGUE]
+
+Present, glabrous [IN AGREEMENT WITH
+
+Pistillate petals elliptic, 3.3–3.4 mm long,
+acute
+Staminate petals elliptic to ovate elliptic, 2.5–
+2.8 mm long, acute [IN AGREEMENT WITH
+PROTOLOGUE]
+
+Sepals ca.1.5 mm, broadly ovate-triangulares,
+sparsely lepidote (staminate & pistillate) [IN
+AGREEMENT WITH PROTOLOGUE]
+
+Pistillate flowers greenish, ca. 2.5 mm long
+
+Staminate flowers greenish, densely black
+punctate, ca. 2.5 mm long [IN AGREEMENT WITH
+PROTOLOGUE]
+
+Floral bracts ca. 2 mm long, sparsely lepidote
+[IN AGREEMENT WITH PROTOLOGUE]
+shorter or equaling the sepals
+ovate-triangular, acute, erose [IN AGREEMENT
+WITH PROTOLOGUE]
+
+Pistillate inflorescence 2 pinnate [once
+branched]; longest primary branches 15 cm
+long
+
+Pistillate inflorescence ABSENT
+
+present, 30–40 cm long, glabrous adaxially,
+finely appressed white lepidote abaxially;
+spines hamate, +-4 mm long, basally densely
+lepidote [IN AGREEMENT WITH PROTOLOGUE]
+
+Pringle 6703
+
+Staminate Inflorescence 3 pinnate [twice
+branched]; longest primary branches 28 cm
+long [IN AGREEMENT WITH PROTOLOGUE]
+
+Galeotti 5440
+
+Staminate Inflorescence only present, 2
+pinnate [once branched]; longest primary
+branches 14 cm long
+
+ABSENT
+
+TABLE 1. A careful comparison of these syntypes with the original description
+
+Additionally, the herbarium sheet labels are much more complete and have more data in the Pringle
+specimens (Fig.1–3, [Röpert, 2000–]) and a detailed travel diary (Burns Davis, 1936) of this important
+collector exists. According to Burns Davis (op. cit., p. 159), Pringle gathered this Hechtia near the train
+station of El Parián (17°24'48.59"N; 97°00'49.74"W) in the Cañón de Tomellín:
+“Friday, July 9
+I [Pringle] try again to reach Santa Catarina but our train can get no further than El Parián and thereabouts I
+collect 6703 Hechtia stenopetala Klotzsch, ... ”
+
+There is also an account of Galeotti´s botanical work in Mexico (McVaugh, 1978). But the itinerary there
+presented is partial and incomplete.
+Because of the above facts we conclude that the type selection of Smith & Downs is inaccurate and in
+serious conflict with the protologue, and therefore, according to the article 9.19b of the ICNAFP (McNeill et
+al., 2012), should be discarded.
+Accordingly, we present here an updated description of Hechtia galeottii and a new proposal for a
+lectotype.
+Hechtia galeotti Mez, Repert Spec. Nov. Regni Veg. 16: 71 –72. 1919. Lectotype:—MEXICO. Oaxaca,
+municipality of San Jerónimo Sosola: in dry slopes Tomelin Canyon, ca. 1520 m, 9 july 1897, C.G. Pringle
+6703 (Lectotype designated here: B! [B 10 0144921]!; Isolectotypes: B! [B 10 0144796], BR!, ENCB!, G!,
+GH!, HBG!, M!, MEXU(x2)!, P(x2)!, UC!, VT!, WU!, Z!); Oaxaca, cordillera, ca. 1980 m, H. G. Galeotti 5440
+(Syntypes: B!, G!).
+Terrestrial rosette forming plants, flowering to 2 m high. Leaves numerous; sheaths light brown, oblong to
+semiorbicular, 5.2–6 x 5–5.5 cm, glabrous and lustrous basally, becoming densely white-lepidote distally on
+both surfaces; blades green, linear-triangular to narrowly triangular, 30–40 x 3.5–4.5 cm, glabrous adaxially,
+finely appressed white-lepidote abaxially, attenuate, pungent, margin spinose; spines stout, dark to light
+brown or green, curved, antrorse, with a conspicuous triangular base, ca. 4 mm long, 2 – 4 cm apart.
+Inforescence terminal, erect, very sparsely floccose-lepidote or/to glabrescent; peduncle dark brown,
+cylindric, ca. 2 cm in diameter basally; peduncle bracts light brown, linear-triangular to triangular, pungent.
+Staminate inflorescence twice branched, with numerous, divaricate to ascending, 16–35 cm long primary
+branches, with two short, 2.5–13 cm long secondary branches at the base; floral bracts light brown, ovatetriangular, ca. 1 mm long, sparsely lepidote, acute, margin erose, shorter than the sepals; flowers ascending,
+sometimes appearing verticillate, subsessile or very short pedicellate; pedicel stout, conical, ca. 1.5 mm long;
+sepals broadly ovate, ca. 1.5 x 1.4–1.6 mm, obtuse; petals densely black-punctate, elliptic to ovate-elliptic,
+2.5–2.8 x 1.9–2 mm, rounded; stamens longer than the petals; filaments greenish, linear-triangular, 2.5–2.8
+mm long; anthers greenish, oblong, ca. 1 mm long; ovary vestigial, inconspicuous. Pistillate inflorescence
+once-branched, with numerous, divaricate to ascending, 12.5–28 cm long primary branches; floral bracts light
+brown, dark brown toward the base, ovate-triangular, ca. 1.5 mm long, lepidote, margin erose, shorter than the
+sepals; flowers ascending, densely to laxly disposed, sometimes appearing verticillate, subsessile; sepals
+ovate to triangular, 1.8–2 x 1.4–15 mm, acute; petals narrowly triangular, 3.3 –3.4 x 1.4–1.5 mm, acute;
+staminodes with linear triangular filaments, flattened, ca. 2 mm long; anthers absent; ovary ellipsoid, ca. 2.5
+long, ca. 1 mm in diameter, glabrous; stigma lobes linear, recurved. Capsule dark brown, ovoid, 7.5–8 mm
+long, acute, with a stout 2.5–3 mm long pedicel. Seeds reddish brown, oblong, ca. 3.5 mm long, with a
+circumferential wing.
+Specimens examined:—MEXICO. Oaxaca, municipio de San Jerónimo Sosola: 20 km al SE de
+Asunción Nochixtlán, autopista Oaxaca -Tehuacán, 17°21'26"N, 97°04'20"W, 1830 m, bosque de encino con
+burseras, en cañada, 11 septiembre 1995, A. Espejo, A. R. López-Ferrari & J. Ceja 5319 (IEB[x2],
+UAMIZ[x2]); municipio de Asunción Nochixtlán: arroyo Tinú, carretera de cuota Oaxaca - Nochixtlán,
+
+A NOTE ON THE TYPIFICATION OF HECHTIA GALEOTTII
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+• 43
+
+17°22'14"N, 97°05'51"W, 1859 m, selva baja en cañada, 10 noviembre 2005, A. Espejo, A. R. López-Ferrari,
+J. Ceja, A. Mendoza & G. Carnevali 6843 (UAMIZ[x5]).
+Distribution and habitat:—Hechtia galeotti is an endemic species known until now only from a relative
+small region in the north-central part of the Mexican state of Oaxaca, in the municipalities of Asunción
+Nochixtlán and San Jerónimo Sosola, between 1500 and 1860 m elevation (Fig. 4). The species grows in
+deciduous tropical forests (selvas bajas caducifolias) or dry Quercus forests (bosques de encino) with Bursera
+and other tropical trees.
+
+FIGURE 1. Galeotti´s 5440 specimen at B.
+
+44 •
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+ESPEJO-SERNA ET AL.
+
+FIGURE 2. Galeotti´s 5440 specimen at G.
+
+A NOTE ON THE TYPIFICATION OF HECHTIA GALEOTTII
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+• 45
+
+FIGURE 3. Pringle´s 6703 specimen at B.
+
+46 •
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+ESPEJO-SERNA ET AL.
+
+97°10'W
+
+97°5'W
+
+97°W
+
+96°55'W
+
+S a n
+S a n
+
+17°30'N
+
+S a n
+S a n
+
+P e d r o
+P e d r o
+
+C a n tt a r o s
+C a n a r o s
+
+96°50'W
+
+J u a n
+J u a n
+
+C o x c a ll tt e p e c
+C o x c a
+e p e c
+S a n tt ii a g o
+S a n
+a g o
+
+Asuncion Nochixtlan
+
+S a n tt ii a g o
+S a n
+a g o
+
+(
+!
+!
+
+N a c a ll tt e p e c
+N a c a
+e p e c
+
+H u a u c ll ii ll ll a
+H u a u c
+a
+
+S a n
+S a n
+A s u n c ii o n
+A s u n c o n
+
+B a u tt ii s tt a
+B a u
+s a
+
+J u a n
+J u a n
+
+B a u tt ii s tt a
+B a u
+s a
+
+N o c h ii x tt ll a n
+N o c h x
+a n
+
+S a n
+S a n
+
+J e r o n ii m o
+J e r o n m o
+
+S o s o ll a
+S o s o a
+F r a n c ii s c o
+F r a n c s c o
+
+T e ll ii x c a h u a c a
+T e
+x c a h u a c a
+
+Y
+X
+S a n tt ii a g o
+S a n
+a g o
+
+17°20'N
+
+M a g d a ll e n a
+M a g d a e n a
+
+J a y a c a tt ll a n
+J a y a c a
+a n
+
+17°25'N
+
+S a n
+S a n
+
+Y
+X
+
+17°30'N
+
+San Juan Bautista Jayacatlan
+"
+"
+
+Y
+X
+
+17°25'N
+
+-
+
+A tt a tt ll a h u c a
+A a
+a h u c a
+
+T e n a n g o
+T e n a n g o
+
+17°20'N
+
+J a ll tt e p e c
+J a
+e p e c
+
+S a n
+S a n
+S a n
+S a n
+
+J u a n
+J u a n
+
+D e ll
+D e
+
+P a b ll o
+P a b o
+
+E s tt a d o
+E s a d o
+
+H u ii tt z o
+H u
+z o
+
+San Francisco Telixtlahuaca
+
+(
+!
+!
+S a n
+S a n
+
+II n e s
+n e s
+
+D e
+D e
+
+San Pablo Huitzo
+"
+"
+
+Z a r a g o z a
+Z a r a g o z a
+
+Santiago Suchilquitongo
+(
+!
+!
+
+17°15'N
+
+Y
+X
+S a n
+S a n
+
+Hechtia galeottii Mez
+
+S a n
+S a n
+
+A n d r e s
+A n d r e s
+
+S a n tt ii a g o
+S a n
+a g o
+
+N u x ii n o
+N u x n o
+
+S u q u ii ll c h ii tt o n g o
+S u q u
+c h
+o n g o
+
+17°15'N
+
+Magdalena Apasco
+"
+"
+
+Santa Cruz Lachixolana
+"
+"
+
+J u a n T a m a o a
+J
+T a
+o
+0u a n 2.5 m a zz5 ll a
+
+S a n
+S a n
+
+10
+N u x a a
+N u x
+Kilometersa a
+
+D o m ii n g o
+D o m n g o
+
+S a n
+S a n
+
+A n d r e s
+A n d r e s
+
+Z a u tt ll a
+Z a u
+a
+"
+"
+
+97°10'W
+
+97°5'W
+
+97°W
+
+96°55'W
+
+96°50'W
+
+FIGURE 4. Map of known distribution of Hechtia galeottii Mez.
+
+Acknowledgments
+We would like to express our gratitude to Eric Gouda and Bruce Holst for reviewing the manuscript, and to
+Ivonne Nayeli Gómez Escamilla for the elaboration of the map. We are also grateful to the herbaria cited for
+providing access to their collections.
+
+Literature Cited
+Burns Davis, H. (1936) Life and work of Cyrus Guernsey Pringle. University of Vermont. Burlington. 756 pp.
+Hiepko, P. (1987) The collections of the Botanical Museum Berlin-Dahlem (B) and their history. Englera 7: 219–252.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K., Prado,
+J., Prud'Homme van Reine, W.F., Smith, G. F., Wiersema, J.H. & Turland, N.J. (eds.) (2012) International Code of Nomenclature
+for algae, fungi, and plants (Melbourne Code). Regnum Vegetabile 154. 2240 pp. Koeltz Scientific Books.
+McVaugh, R. (1978) Galeotti´s botanical work in Mexico: The numbering of his collections and a brief itinerary. Contr. Univ. Mich.
+Herb. 11: 291–297.
+Mez, C. (1919) Additamenta Monographica 1919. Repert Spec. Nov. Regni Veg. 16: 65–79.
+http://dx.doi.org/10.1002/fedr.19190160502
+Röpert, D. (Ed.) (2000—[continuously updated]): Digital specimen images at the Herbarium Berolinense. − Published on the Internet
+http://ww2.bgbm.org/herbarium/ (Barcode: B 10 0144795 / ImageId: 254486) / (Barcode: B 10 0144796 / ImageId: 254487) /
+(Barcode: B 10 0144921 / ImageId: 254488) / [accessed 11-Mar-13].
+Smith, L.B. & Downs, R.J. (1974) Pitcairnioideae (Bromeliaceae). Flora Neotropica Monograph 14(1): 1–658. Hafner Press, New York.
+Stafleu, F.A. & Cowan, R.S. (1981) Taxonomic Literature. A selective guide to botanical publications and collections with dates,
+commentaries and types. Ed. 2, vol. III. Regnum Vegetabile 105. 980 pp.
+
+A NOTE ON THE TYPIFICATION OF HECHTIA GALEOTTII
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+• 47
+
+Appendix 1
+Original description (protologue) of Hechtia galeottii
+Folia ad 0.4 m longa, supra glabra subtus in valleculis densissime lepidota pallida, spinis hamatis, vix ultra 4
+mm longis, in axillis haud barbigeris horrida. Inflorescentia myriantha, laxe 3 pinnatim panniculata, valde
+elongata, subcylindrica; ramis elongatissimis usque ad 0.3 m longis mihi visis, fere e basi flores innumeros
+densissime cylindrice gerentibus, per anthesin vix ultra 8 mm diam. metientibus; bracteolis florigeris ad 2 mm
+longis, cum sepalis dorso lepidotulis, sepala superantibus, e late ovato late acutis, margine dentatis,
+suberectis. Flores subsessiles, virentes, utriusque sexus subpatentes, 2-2.5 mm longi; sepalis ad 1.5 mm
+longis, squamiformi-triangularibus, lepidotulis. Petala ex elliptico foeminea breviter, mascula brevissime
+acutiuscula, libera. Ovarium glabrum.
+Mexico, Oaxaca (Galeotti no. 5440), im Tomelin Canyon (Pringle no. 6703).
+
+48 •
+
+Phytotaxa 94 (2) © 2013 Magnolia Press
+
+ESPEJO-SERNA ET AL.
+
+

@@ -1,0 +1,225 @@
+Phytotaxa 100 (1): 1–5 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Editorial
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.100.1.1
+
+Phytotaxa 100: The rise of a major journal in systematic and taxonomic botany
+ZHI-QIANG ZHANG1, HANS-JOACHIM ESSER2 & MAARTEN J.M. CHRISTENHUSZ3
+1
+
+Landcare Research, 231 Morrin Road, Auckland, New Zealand; E-mail: ZhangZ@landcareresearch.co.nz
+Botanische Staatssammlung München, Menzinger Str. 67, 80638 München, Germany; E-mail: esser@bsm.mwn.de
+3
+Jodrell Laboratory, Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3DS, United Kingdom; E-mail: m.christenhusz@kew.org
+2
+
+Today, the 23 rd of May, is the 305th birthday of Carl Linnaeus—father of plant taxonomy and founder of the modern
+scheme of binomial nomenclature. To join international celebrations of his birthday, we publish Phytotaxa 100, at the
+same time marking an important milestone in the history of this journal of botanical taxonomy. It is timely that we review
+its development in the past, especially against the objectives that we set for Phytotaxa (Christenhusz et al. 2009, 2011a),
+and to assess its current position among journals of systematic botany.
+
+Growth and performance
+Based on the successful model of Zootaxa (Zhang 2008), Phytotaxa began its journey on 28 October 2009, with the
+aim to accelerate the description of plant, algal and fungal biodiversity and to enhance the availability and accessibility
+of descriptive taxonomic papers (Christenhusz et al. 2009). The number of volumes increased steadily over the last four
+years (Fig. 1), with one volume every other month in 2009, one volume every month in 2010, two volumes every month
+in 2011 and over three volumes every month in 2012. During the last four months in 2013, an average of 5.5 volumes per
+month was published. The number of published papers increased at a faster rate (Fig. 1): from fewer than 20 papers in
+2009 to over 200 papers in 2012. The rate of increase in terms of the number of papers jumped after 2011; this is
+probably due to the fact that Phytotaxa had gained the visibility, acceptance and respect in the taxonomic community as
+we hoped (Christenhusz et al. 2011a). Another important factor is that Phytotaxa was accepted and indexed by Science
+Citation Index Expanded (Esser & Zhang 2012) because most authors preferred to publish in SCIE-indexed journals.
+According to data indexed in SCIE (as of 15 May 2013), Phytotaxa has published over 500 papers for 937 authors from
+69 countries, with the top 10 countries being USA (133 papers), Brazil 105 papers), UK (83 papers), China (45 papers),
+Norway (41 papers), Germany (40 papers), Finland (36 papers), India (24 papers), Czech Republic (20 papers) and
+Mexico (19 papers).
+One of the primary objectives of Phytotaxa is to speed up the publication of taxonomic papers (Christenhusz et al.
+2009). During 2009 and 2010, delay in publication after acceptance was on average 50 days (Christenhusz et al. 2011a);
+in 2012, this was reduced to 13 days on average; the fastest papers were published one day after acceptance (Cicuzza &
+Kessler 2012, Deng & Huang 2012, Doucette 2012, Gouda & Fernández 2012, Karger et al. 2012, Moon 2012, Turner
+2012, Zhang 2012). This increased speed of publication was possible because of the novel set-up and structures of
+Phytotaxa allowing for easy e-publication, especially after the new International Code of Nomenclature for algae, fungi,
+and plants (Melbourne Code) allowed for electronic-only publication of botanical names from 1 January 2012 (ICN,
+McNeill et al. 2012; see also Knapp et al. 2011). Phytotaxa became the first journal to embrace e-publication of new taxa
+(Esser & Zhang 2012), with five articles describing a new diatom (Bahls, 2012), four species and three genera of algae
+(Novis & Visnovski, 2012) and two new vascular plant species (Grings & Boldrini, 2012).
+Another primary objective of Phytotaxa is to facilitate the descriptions of new taxa/names (Christenhusz et al.
+2009). Phytotaxa certainly had made significant contributions: 27 new taxa (names) in 2009, 60 in 2010; 385 in 20111
+and 257 in 2012. In addition to new taxa, Phytotaxa embraced the APG III system (APG 2009, Christenhusz et al.
+2011b) and published a linear sequence and bibliography expanding APG to include all vascular plants (Christenhusz et
+al. 2011c, 2011d, Reveal & Chase 2011), systems that are now being adopted as the standard for classification of ferns
+1.
+
+Based on counts reported in Christenhusz & Zhang (2011); the large number of new taxa this year was strongly affected by a
+monograph describing one hundred new species of lichenized fungi (Lumbsch et al. 2011), the type of papers Phytotaxa
+encourages. New combinations are not counted as new names in this paper.
+
+Published online in PDF: 23 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+and gymnosperms. Phytotaxa also published one of the two plants listed in the ‘top 10 new species 2012’ compiled
+annually by the International Institute for Species Exploration (http://species.asu.edu/Top10)— Meconopsis autumnalis
+Egan, 2011. Editors and authors are strongly encouraged to submit their new species to this panel. It broadens the profile
+of the journal and shows the world that many interesting species are yet to be discovered.
+Phytotaxa encourages open access of taxonomic literature to increase the accessibility of descriptive taxonomic
+papers (Christenhusz et al. 2009) and managed to publish about 38% of the papers (Fig. 1) and also pages (Fig. 2) for
+free access during 2009 to 2012.
+
+FIGURE 1. Growth of Phytotaxa in terms of numbers of volumes and papers (including open access papers) published during 2009
+and 2012.
+
+FIGURE 2. Growth of Phytotaxa in terms of numbers of pages (including open access pages) published during 2009 and 2012.
+
+Position among journals of systematic botany
+The most recent edition of Journal Citation Reports released in June 2012 showed that Phytotaxa was the third
+among the top 10 systematic botany journals based on impact factor (Table 1). Its impact factor (1.797) was very close to
+what was estimated by Esser and Zhang (2012) in February 2012: “1.6 or slightly higher”. Among these high-ranking
+journals Phytotaxa certainly allows for the fastest publication, and the top journal—Botanical Journal of the Linnean
+Society—no longer publishes new species accounts and is therefore not comparable to Phytotaxa.
+
+2 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ZHANG ET AL.
+
+TABLE 1. Top 10 journals of systematic botany based on impact factors according to Journal Citation Reports released
+in June 2012.
+2.821
+2.703
+1.797
+1.639
+1.596
+1.517
+1.418
+1.335
+1.034
+0.195
+
+Botanical Journal of the Linnean Society
+Taxon
+Phytotaxa
+Flora
+Journal of Systematics and Evolution
+Systematic Botany
+Plant Biosystematics
+Plant Systematics and Evolution
+Australian Systematic Botany
+Novon
+
+The total number of recent papers (2011–2013) indexed by the Web of Science was higher in Phytotaxa than Taxon,
+although in 2011 there were more indexed papers of Taxon than of Phytotaxa (Fig. 4). Likewise, there are now more
+citations to Phytotaxa papers published in 2012–2013 than to those published in Taxon during the same period (Fig. 4).
+These data all show the rapid rise of a major journal in systematic botany—a tribute to the hard work of all the editors,
+reviewers and authors who supported Phytotaxa during the last three and half years.
+
+Important changes in 2013
+From the first volume in 2013, all Phytotaxa papers are assigned DOIs and archived simutaneously in PDF/A2 on
+Biotaxa.org—an online library for taxonomic journals; papers published on the same day are grouped into an issue. Hajo
+Esser stepped down from his role as Chief Editor in February 2013, because it became impossible for a single Chief
+Editor to handle the increasing number of manuscripts. The journal is now edited by a large team of subject editors,
+resulting in a more variable quality of editing, but certainly speeding up the publication process. An online manuscript
+submission and tracking system hosted on Biotaxa.org is now operational, although not all manuscripts are yet handled
+that way. The implementation of this will also speed up the process by allowing reminders to be sent directly to authors,
+editors and reviewers. By this celebratory editorial we hope to encourage the reviewers and editors to continue their
+invaluable task to voluntarily spend their time making Phytotaxa a success, and encourage authors to continue to submit
+articles describing the wonders of our blue and green planet.
+
+FIGURE 3. Phytotaxa versus Taxon in recent years: numbers of papers indexed in Science Citation Index Expanded during 2011 and
+2013 (data as of 15 May 2013 from Web of Science).
+2.
+
+DOI is Digital Object Identifer. PDF/A is an ISO-standardized version of the Portable Document Format (PDF) specialized for
+the digital preservation of electronic documents. Phytotaxa files were converted to PDF/A-1b.
+
+THE RISE OF A MAJOR JOURNAL IN SYSTEMATIC AND TAXONOMIC BOTANY
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 3
+
+FIGURE 4. Phytotaxa versus Taxon in recent years: numbers of total SCIE citations to papers published in 2011, 2012 and 2013 (data
+as of 15 May 2013 from Web of Science).
+
+References
+APG (2009) An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III.
+Botanical Journal of the Linnean Society 161: 105–121.
+http://dx.doi.org/10.1111/j.1095-8339.2009.00996.x
+Bahls, L. (2012) Staurophora brantii, a new diatom (Bacillariophyta, Anomoeoneidaceae) from the northwestern Great Plains, USA.
+Phytotaxa 39: 31–37.
+Cicuzza, D. & Kessler, M. (2012) Lindsaea linduensis (Lindsaeaceae, Polypodiales), a new fern species from Sulawesi, Indonesia.
+Phytotaxa 65: 36–40.
+Christenhusz, M.J.M., Baker, W., Chase, M.W., Fay, M.F., Lehtonen, S., Van Ee, B., Von Konrat, M, Lumbsch, T., Renzaglia, K.S.,
+Shaw, J., Williams, D.M. & Zhang, Z.-Q. (2011a) The first anniversary of Phytotaxa in the International Year of Biodiversity.
+Phytotaxa 15: 1–8.
+Christenhusz, M.J.M., Chase, M.W., Fay, M.F. (2011b) Preface to "Linear sequence, classification, synonymy, and bibliography of
+vascular plants: Lycophytes, ferns, gymnosperms and angiosperms". Phytotaxa 19: 4–6.
+Christenhusz, M.J.M., Chase, M.W., Fay, M.F., Lumbsch, T., Monro, A., Vorontsova, M. & Zhang, Z.-Q. (2009) A new international
+journal for rapid publication of botanical taxonomy. Phytotaxa 1: 1–2.
+http://dx.doi.org/10.11646/phytotaxa.1.1.1
+Christenhusz, M.J.M., Reveal, J.L., Farjon, A., Gardner, M.F., Mill, R.R., Chase, M.W. (2011d) A new classification and linear
+sequence of extant gymnosperms. Phytotaxa 19: 55–70.
+Christenhusz, M.J.M., Zhang, X.-C. & Schneider, H. (2011c) A linear sequence of extant lycophytes and ferns. Phytotaxa 19: 7–54.
+Christenhusz, M.J.M. & Zhang, Z.-Q. (2011) Ave atque vale. Phytotaxa 38: 61–64.
+Deng, Y. & Huang, Y. (2012) Ophiorrhiza loana, a new name for Ophiorrhiza longipes H.S.Lo (Rubiaceae). Phytotaxa 49: 34.
+Doucette, A. (2012) Dracula agnosia (Orchidaceae: Pleurothallidinae), a long confused undescribed species. Phytotaxa 56: 23–27.
+Egan, P.A. (2011). Meconopsis autumnalis and M. manasluensis (Papaveraceae), two new species of Himalayan poppy endemic to
+central Nepal with sympatric congeners. Phytotaxa 20: 47–56.
+Esser, H.-J.& Zhang, Z.-Q. (2012) A new year for Phytotaxa and some changes. Phytotaxa 46: 1–2.
+Gouda, E.J. & Fernández , R. (2012) A remarkable new Pitcairnia (Bromeliaceae) species from Peru. Phytotaxa 49: 29–33.
+Grings, M. & Boldrini, I.I. (2012) Two new species of Pavonia section Lebretonia subsection Hastifoliae (Malvaceae: Malvoideae)
+from southern Brazil. Phytotaxa 39: 38–46.
+Karger, D.N., Lehtonen, S., Amoroso, V.B. & Kessler, M. (2012) A new species of Lindsaea (Lindsaeaceae, Polypodiopsida) from Mt.
+Hamiguitan, Mindanao, Philippines. Phytotaxa 56: 15–20.
+Lumbsch, H.T., Ahti, T., Altermann, S., Amo de Paz, G., Aptroot, A., Arup, U, Barcenas Peña, A., Bawingan, P.A., Benatti, M.N.,
+Betancourt, L., Björk, C.R., Boonpragob, K., Brand, M., Bungartz, F., Caceres, M.E.S., Candan, M., Chaves, J.L., Clerc, P.,
+Common, R., Coppins, B.J., Crespo, A., Dal Forno, M., Divakar, P.K., Duya, M.V., Elix, J.A., Elvebakk, A., Fankhauser, J.,
+Farkas, E., Ferraro, L.I., Fischer, E., Galloway, D.J., Gaya, E., Giralt, M., Goward, T., Grube, M., Hafellner, J., Hernandez, J.E.,
+Herrera Campos, M.A., Kalb, K., Kärnefelt, I,, Kantvilas, G., Killmann, D., Kirika, P., Knudesn, K., Komposch, H., Kondratyuk,
+S., Lawrey, J.D., Mangold, A., Marcelli, M.P., McCune, B., Michlig, A., Miranda Gonzalez, R., Moncada, B., Naikatini, A.,
+Nelsen, M.P., Øvstedal, D.O., Palice, Z., Papong, K., Parnmen, S., Pérez-Ortega, S., Printzen, C., Rico, V.J., Rivas Plata, E.,
+Robayo, J., Rosabal, D., Ruprecht, U., Salazar Allen, N., Sancho, L., Santos de Jesus, L., Santos Vieira, T., Schultz, M., Seaward,
+
+4 •
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+ZHANG ET AL.
+
+M.R.D., Sérusiaux, E., Schmitt, I., Sipman, H.J.M., Sohrabi, M., Søchting, U., Søgaard, M.Z., Sparrius, L.B., Spielmann, A.,
+Spribille, T., Sutjaritturakan, J., Thammathaworn, A., Thell, A., Thor, G., Thüs, H., Timdal, E., Truong, C., Türk, R., Umaña
+Tenorio, L., Upreti, D.K., van den Boom, P., Vivas Rebuelta, M., Wedin, M., Will-Wolf, S., Wirth, V., Wirtz, N., Yahr, R.,
+Yeshitela, K., Ziemmeck, F., Wheeler, T. & Lücking, R. (2011) One hundred new species of lichenized fungi: a signature of
+undiscovered global diversity. Phytotaxa 18: 1–127.Knapp, S., McNeill, J. & Turland, N.J. (2011) Changes to publication
+requirements made at the XVIII International Botanical Congress in Melbourne—what does e-publication mean for you?
+Phytotaxa 28: 1–5.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D., Herendeen, P.S., Knapp, S., Marhold, K., Prado, J.,
+Prud'Homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012) International Code of Nomenclature for
+algae, fungi, and plants (Melbourne Code), Adopted by the Eighteenth International Botanical Congress Melbourne, Australia,
+July 2011 (electronic edition), International Association for Plant Taxonomy, Bratislava. Available from http://www.iapttaxon.org/nomen/main.php (accessed 20 May 2013).
+Moon, H.-K. (2012) A new synonym of Lepechinia (Salviinae: Lamiaceae). Phytotaxa 71: 52.
+Novis, P.M. & Visnovsky, G. (2012) Novel alpine algae from New Zealand: Chlorophyta. Phytotaxa 39: 1–30.
+Reveal, J.M. & Chase, M.W. (2011) APG III: Bibliographical information and synonymy of Magnoliidae. Phytotaxa 19: 71–134.
+Turner, I.M. (2012) The Tenasserim Banyan. Phytotaxa 62: 31–32.
+Zhang, L.-B. (2012) Taxonomic and nomenclatural notes on the fern genus Polystichum (Dryopteridaceae) in China. Phytotaxa 60:
+57–60.
+Zhang, Z.-Q. (2008) Contributing to the progress of descriptive taxonomy. Zootaxa 1968: 65–68.
+
+THE RISE OF A MAJOR JOURNAL IN SYSTEMATIC AND TAXONOMIC BOTANY
+
+Phytotaxa 100 (1) © 2013 Magnolia Press
+
+• 5
+
+

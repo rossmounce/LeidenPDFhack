@@ -1,0 +1,371 @@
+Phytotaxa 145 (1): 54–60 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.145.1.6
+
+Studies on the genus Atriplex (Amaranthaceae) in Italy. V. Atriplex tornabenei
+DUILIO IAMONICO1
+1
+
+Laboratory of Phytogeography and Applied Geobotany, Department PDTA, Section Environment and Landscape, University of Rome
+Sapienza, 00196 Roma, Italy. Email: d.iamonico@yahoo.it
+
+Abstract
+The typification of the name Atriplex tornabenei (a nomen novum pro A. arenaria) is discussed. An illustration by
+Cupani is designated as the lectotype, while a specimen from FI is designated as the epitype. Chorological and
+morphological notes in comparison with the related species A. rosea and A. tatarica are also provided. A nomenclatural
+change (Atriplex tornabenei subsp. pedunculata stat. nov.) is proposed.
+Key words: Atriplex tornabenei var. pedunculata, epitype, infraspecific variability, lectotype, Mediterranean,
+nomenclatural change, nomen novum
+
+Introduction
+Atriplex Linnaeus (1753: 1054) is a genus of about 260 species distributed in arid and semiarid regions of
+Eurasia, America and Australia (Sukhorukov & Danin 2009).
+Several names (at species, subspecies, variety and form ranks) were described related to the high
+phenotipic variability of this critical genus (Al-Turki et al. 2000). As conseguence, misapplication of names
+and nomenclatural disorders exist and need clarification.
+In this paper, the identity of the A. tornabenei Tineo ex Gussone (1843: 589) is discussed as part of the
+treatment of the genus Atriplex for the new edition of the Italian Flora (editor, Prof. S. Pignatti) and within the
+initiative “Italian Loci Classici Census” (Domina et al. 2012) launched in 2010 under the auspices of the
+Italian Botanic Society (e.g. Iamonico 2010, 2012a, 2012b, 2013, Iamonico et al. 2011, Di Pietro et al. 2012,
+Gallo et al. 2012, Iamonico & Reveal 2012, Amadei et al. 2013).
+
+Materials and Methods
+The present study was carried out by an extensive analysis of literature (protologues included), personal field
+investigations and the examination of the specimens kept in the Herbaria APP, FI, GZU, HFLA, KUFS,
+LINN, MA, NAP, P, PAL, RO, and W (acronyms according to Thiers 2011). The descriptions are based on
+personal observations.
+
+Typification of the names
+Gussone’ protologue (Gussone 1843: 589) consists of a detailed dignosis and description with two synonyms
+cited from Tineo (1827: 276-277) and Cupani (1696: 27), the first one referred to A. arenaria Tineo (1827:
+276), a later heterotypic synonym of A. arenaria Nuttall (1818: 198) and so, an illegittimate name under the
+art. 53.1 of the ICN (McNeill et al. 2012). Therefore, Gussone (l.c.) proposed a new name pro A. arenaria
+
+54 Accepted by Benjamin van Ee: 21 Oct. 2013; published: 11 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Tin., dedicating it to F. Tornabene (1813−1897), author of importan contributors to the Sicilian flora. The
+habitat and provenance (“In arenosis maritimis; Palermo a Solanto, da Trapani a Catania per la costa
+meridionale et in saline a Maretimo”) and a reference to iconographies [“Atriplex marina, minor, supina,
+lanceolato folio incano, semine tricuspidato alato. Cup. Panph. 2. t. 111 – Bon. t. 75” referred to Cupani
+(1713) and Bonanni (1719), respectively] are also reported. The work by Bonanni (1719) is an incomplete
+second edition of the Cupani's Panphyton Siculum (A. Managlia, in verbis), and the images published are the
+same. In every case, this illustration can be considered original material for the name A. tornabenei.
+In the Gussone collection at NAP there is only one sheet (not numbered) collected in “Ischia, alla marina
+di Casamicciola, Aug 1860”). Although the plants beared in this sheet are identifiable as A. tornabenei
+according to the diagnosis by Gussone (1843), the later date of collection does not allow to consider this
+material as original and the locality (“Ischia...”) is not cited in the protologue, so the exsiccatum is not useful
+for typification purposes (art. 9.3 of the ICB).
+In the Herbarium Panormitanum (PAL) there is one exsiccatum (not numbered) collected in locality
+“Solanto” bearing a plant that matches the diagnosis by Gussone (1843).
+Finally, in the Herbarium Universitatis Florentinae (FI) there is one sheet (Barcode FI002557, image
+available from parlatore.msn.unifi.it/types/search.php) that bears a plant collected by V. Tineo in “Catania
+spiaggia”.
+Both the specimens from PAL and FI do not bear the date of collection, so we cannot sure that the plants
+were collected ante 1843 (year of the original publication). As conseguence these exsiccata cannot be
+considered original material.
+All things stated, the illustration by Cupani (or Bonanni) is the only element available for the
+lectotypification. Fortunately, it matches the diagnosis and agree with the current application of the name A.
+tornabenei (e.g. Pignatti 1982, Castroviejo 1990, Akeroyd 1993). So, it is designated as the lectotype (Fig. 1).
+However, according to Jarvis (2007: 21-22), the exsiccata have potential ability to provide large number of
+additional characters (micromorphological, chemical, molecular, etc.) that cannot be matched by images, so
+we also prefer to designate an epitype, the specimen at FI that appears better preserved than the exsiccatum at
+PAL.
+
+Taxonomic relationships
+On the basis of the original materials and the protologue, A. tornabenei can be included in the sect.
+Obionopsis Lange (1856–1959: 635) (= sect. Sclerocalymma Ascherson 1864: 578), the taxa of which are
+characterized by the presence of hardened fruiting bracts connate at the half of their length (e.g. Aellen 1961,
+Pastor & Juan 1990; Sukhorukov 2006). However, after Kadereit et al. (2010), it is united under C4-group
+distributed worldwide, and the sectional division should be clarified. Although A. tornabenei is currently
+accepted as a distinct species (see e.g. Uotila 2011), the usage of the name changed over time, showing
+disagreement among the authors. Just four years later the publication by Gussone (1843), De Candolle (1849:
+104-105) included A. tornabenei in the list of “Species non satis notæ” and provided a short description plus
+the locality “in Sicilia” and doubtfully proposed the varietal rank under A. laciniata (“An A. laciniatæ Linn.
+varietas?”). Bertoloni (1854: 414) synonymized A. tornabenei with A. laciniata Linnaeus (1753: 1053).
+Caruel (1893) listed only the Chenopodiaceae genera agreeing with Bertoloni (1854). Arcangeli (1882, 1894)
+accepted it as a distinct species, recording it in “Sicilia e ad Ischia” and “Nell’Italia mer., nelle isole maggiori
+e ad Ischia” (“In southern Italy, in the greatest islands and in Ischia island”), respectively, so extending its
+distribution area. Fiori & Paoletti (1986–1898) indicated A. tornabenei as variety of A. laciniatum [“A.
+laciniatum L. β-tornabenei (Tin.)”] in the same locality cited by Arcangeli (1894). Fiori (1923) agrees with
+Fiori & Paoletti (1898). Pignatti (1982: 168) indicates A. tornabenei in note under A. rosea Linnaeus (1763:
+1493). Castroviejo (1987, 1990) accepted it as separate species. Akeroyd (1993) included A. tornabenei in A.
+tatarica Linnaeus (1753: 1053).
+
+ATRIPLEX (AMARANTHACEAE) IN ITALY. V. ATRIPLEX TORNABENEI
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+• 55
+
+FIGURE 1. Lectotype of the name Atriplex tornabenei (Atriplex marina minor supina lanceolato foliola incano semine tricuspide
+alata, T. III from Cupani 1713).
+
+56 •
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+IAMONICO
+
+Atriplex tornabenei appears to be related to A. rosea (neotype designated by McNeill et al. 1983: 553) on
+a Haller’s specimens kept in P) and A. tatarica (lectotype designated by Hedge 1997: 75). On the basis of the
+analysis of the protolugue and the comparison among the types and the herbarium materials, the three taxa can
+be distinguished by the inflorescence and the fruiting bracts-like cover (Table 1, Fig. 2).
+TABLE 1. Morphological diagnostic features in Atriplex tornabenei, A. rosea and A. tatarica.
+Atriplex tornabenei
+
+Atriplex rosea
+
+Atriplex tatarica
+
+Flowers arranged in axillary
+glomerules and in spike-like
+inflorescences (at the end of the
+branches). Lateral spikes leafy, the
+terminal leafless.
+
+Flowers arranged in axillary
+glomerules and in spike-like
+inflorescences (at the end of the
+branches). All spike leafy.
+
+Flowers arranged spike-like or
+panicle-like inflorescences usually
+leafless.
+
+Fruiting bract-like cover slightly
+longer than wider.
+
+Fruiting bract-like cover wider than
+longer (somentimes about longer
+than wider).
+
+Fruiting bract-like cover longer than
+wider.
+
+Fruiting bract-like cover with smooth
+dorsal surface or with 1–2
+appendixes and cup-shaped base.
+
+Fruiting bract-like cover with
+tuberculate dorsal surface
+(appendixes always more than 2) and
+cuneate base.
+
+Fruiting bract-like cover with smooth
+or ± tuberculate dorsal surface and
+usually cuneate base.
+
+FIGURE 2. Fruiting bracts in Atriplex tornabenei (A), A. rosea (B) and A. tartarica (C) (images of A. tornabenei and A. rosea from
+Castroviejo 1990, that of A. tatarica from Zhu et al. 2003). Scale bar: 3 mm.
+
+Atriplex tornabenei Tineo ex Gussone (1843: 589) nom. nov. pro Atriplex arenaria Tineo (1827: 276) nom.
+illeg. non Nuttall (1818: 198).
+Type (lectotype here designated):—ITALY. [Icon]: Atriplex marina minor supina lanceolato foliola incano semine
+tricuspide alata, T. III in Cupani (1713; Fig. 1 image on the right).
+Type (epitype here designated):—ITALY. Sicily: Catania, Spiaggia, sine die, V. Tineo FI002557 (FI!).
+≡ Atriplex laciniata var. tornabenei (Tineo ex Guss.) Fiori & Paol. (1896–1898: 306)
+≡ Atriplex tatarica Tineo ex Guss. subsp. tornabenei (Tineo ex Guss.) C. Blanché, Molero & Rovira (1984: 117)
+
+Description:—Annual herb (therophyte), (1–)3–7(–10) cm tall. Stem erect, branched with diffuse-ascending
+branches. Lower leaves opposite, upper leaves alternate, usually subsessile, grey to silvery the abaxial surface,
+with blade rhomboidal, ovate (0.5–1.5 × 0.7–2.5 cm), margins usually irregularly sinuate-lobed; base cuneate,
+apex acute to obtuse. Floral glomerules arranged in terminal and/or lateral spike-likes (lateral spikes with
+bract-leaves, the terminal one leafless); flowers monomorphic, unisexual, the males with 5 perianth segments
+and 5 stames, the females, with 4–5 tepals and 2 stigmas; fruiting bract-like cover rhombic [(4–)6–8 × (5–)7–
+
+ATRIPLEX (AMARANTHACEAE) IN ITALY. V. ATRIPLEX TORNABENEI
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+• 57
+
+9 mm], slightly longer then the wide, connate to the half-way, with entire margins (or with 1–2 obtuse lateral
+teeth) and dorsal surface smooth or with 1–2 appendages, base rounded cup-shaped; one seed, vertical, black.
+Chromosome number:—2n = 54 (Pastor & Juan 1990, Pastor et al. 1990).
+Ecology:—the species grows on coasts on sandy or gravel substrates, at the sea level. It is a member of
+some psammophilous and halophilous communities and characteristic species of Cakilo aegyptiacaeAtriplicetum tornabenei Géhù 1984, a phytosociological association currently know only for Sardegna and
+Puglia region (Central and Southern Italy). The communities with Salsola soda Linnaeus (1753: 223) was
+described at subassociation level as Cakilo aegyptiacae-Atriplicetum tornabenei Géhù 1984 subass.
+Salsoletosum sodae Géhù 1984.
+Distribution:—A. tornabenei is a western-mediterranean species (Spain, France, Italy, Algeria and
+Tunisia) with a disjuntion in the east (Turkey) (Uotila 2011). As concerns Italy, it is recorded in Lazio, Sicilia,
+Sardegna (Conti et al. 2005, 2007), recently rediscovered in Puglia (Iamonico & Buono 2013) and historically
+recorded in Campania (Iamonico & Del Guacchio 2012).
+Variability:—The var. pedunculata Castroviejo (1987: 475) was described from populations mainly
+observed in the Balearic islands (holotype available from http://plants.jstor.org/specimen/ma29221). The
+taxon differs from the nominal variety in having flowers with peduncles up to 11 mm. Our field surveys and
+examination of herbaria specimens allow to verify that plants collected out of the sites studied by Castroviejo
+(1987) have always flower sessile or nearly so. The distribution area of the two taxa does not overlap. Hence,
+we here propose the subspecies level for the var. pedunculata.
+
+Atriplex tornabenei Tineo ex Guss. subsp. tornabenei
+Atriplex tornabenei Tineo ex Guss. subsp. pedunculata (Castroviejo 1987: 475) Iamonico, stat. nov.
+Bas.: Atriplex tornabenei Tineo ex Guss. var. pedunculata Castrov. (1987: 475).
+Holotype:—SPAIN. Baleares, Arenales marítimos, 06.X.1947, P. Ferrer s.n. (MA!).
+
+Selected specimens examined
+Atriplex tornabenei Tineo ex Guss. subsp. tornabenei:—ITALY. Campania: Napoli al Fusaro, Bagnoli,
+October 1826, sine coll. s.n. (sub A. laciniata) (NAP!); Pozzuoli, August 1844, sine coll. s.n. (sub A.
+tornabeni) (NAP!); Ischia, alla marina di Casamicciola, August 1860, Gussone s.n. (NAP!); tra il Fusaro e
+Torre Gaveta, in arenosis maritimis, June 1912, Guadagno s.n. (NAP!); Campi Flegrei, Coroglio, September
+1919, N. Terracciano s.n. (NAP!); Lazio: Tarquinia, Pian di Spille, spiagge, 1 m s.l.m., 1 October 2004,
+Iocchi et Bartolucci (FI!, APP!); Puglia: Bari, località Fesca a circa 100 m dalla foce del torrente Tiflis,
+sabbie ciottolose, 2 m s.l.m., 8 September 2011, Iamonico et Buono s.n. (HFLA-Herb. Iamonico!); Sicily:
+Catania, Spiaggia, sine die, V. Tineo FI002557 (FI!, lectotype); Palermo, Solanto, sine die, V. Tineo s.n.
+(NAP!).
+Atriplex tornabenei Tineo ex Guss. subsp. pedunculata (Castrov.) Iamonico:—SPAIN. Baleares:
+Arenales marítimos, 6 October 1947, P. Ferrer s.n. (MA!)
+Atriplex tatarica L.:—AFGHANISTAN. Bamyan: Drachental, suedwestlich von Bamian, 25 August
+1970, Podlech 15913a (W!); Syadarrah,3 km E Kalandeh, an der Strasse Behsud, 2900 m s.l.m., 27 July 1970,
+Podlech 17011 (W!); Ghazni: SO-Ufer der Dash-e-Nawa, 13 August 1970, Podlech 19249 (KUFS!); Kabul:
+Kabul, 13 km E, road side near Charkhi, 19 September 1967, Freitag 1977 (W!); Samangan: Westhang des
+Kotal-e-Mirza Atbili, ca. 30 km ostlich von Aybak under road near to Pul-e-Khumri 10 August 1969, Podlech
+17011 (KUFS!); AUSTRIA. Wien III: simmeringer Hauptstraβe/Dampfmühlgasse, 4 October 1991, leg.et
+det. Walter s.n. (W!); ITALY. Friuli-Venezia Giulia: Trieste, salinendamme bei Zaule, 31 July 1886, leg. et
+det. Engelhardt (sub A.laciniatum), rev. Walter 1573e (GZU!); IRAN. Zentral-Erbus: ungebumg von Keredj,
+Odland am Keredj-Fluss, ca. 1330 m, 18 September 1948, Aellen et Aellen s.n. (W!); UNKNOWN ORIGIN:
+Linnaeus 1221.10 (LINN!).
+
+58 •
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+IAMONICO
+
+Atriplex rosea L.:—CYPRUS. Limassol: zypern archäologischen Gelände des Heiligtumsder Aphrodite,
+22 June 1996, Walter 7920 (W!); ITALY. Lazio: Cerenova (Lido di Cerveteri), spiaggia, paludi, ruderi, ecc.,
+23 October 1977, Anzalone (RO!); Ladispoli-Cerenova, loc. Campo di Mare, September 1985, Anzalone
+(RO!); SPAIN. Madrid: Colemar de Oreja prés de Madrid, 19 September 1980, Sag 1007 (P!).
+
+Acknowledgements
+Thank are due to Directors and Curators of all quoted Herbaria for their support during my visits, loan of
+specimens/photographs. Special thanks to A. Managlia (Bologna) for the information about the rare works by
+Cupani and Bonanni and Alexander P. Sukhorukov for the revision of the manuscript.
+
+References
+Aellen, P.L. (1961) Atriplex L. In: Hegi, G. (ed.), Illustrierte Flora von Mitteleuropa 3(2). Carl Hanser Verlag, München,
+pp. 664–693.
+Akeroyd, J.R. (1993) Atriplex L. In: Tutin, T.G. , Burges, N.A., Chater, A.O, Edmondson, J.R., Heywood, V.H., Moore,
+D.M., Valentine, D.H., Walters, S.M., & Webb, D.A. (eds.) Flora Europaea (second edition) 1. Cambridge
+University Press, Cambridge, pp. 115–117.
+Al-Turki, T.A., Omer, S. & Ghafoor, A. (2000) A synopsis of the genus Atriplex L. (Chenopodiaceae) in Saudi Arabia.
+Feddes Repertorium 111: 261–293.
+http://dx.doi.org/10.1002/fedr.20001110503
+Amadei, L., Baldini, R., Maccioni, S. & Peruzzi, L. (2013) Lectotypification of two Origanum names (Lamiaceae)
+described by Gaetano Savi. Atti della Società Toscana di Scienze Naturali, Memorie, serie B 119 (2012): in press.
+Arcangeli, G. (1882) Compendio della flora italiana. Ermanno Loescher, Torino, 889 pp.
+Arcangeli, G. (1884) Flora italiana ed. 2. Tipografia Vincenzo Bona, Torino, 836 pp.
+Ascherson, P. (1864) Flora der Provinz Brandenburg, der Altmark und des Herzogthums Magdeburg. Berlin: Verlag Von
+Huguft Hirschwald, 1034 pp.
+Bertoloni, A. (1854) Flora italica 10. Ex Typographaeo Haeredum Richardi Masii, Bologna, 640 pp.
+Bonanni, A. (ed.) (1719) Panphyton Siculum ed. 2. Panormi, 168 pp.
+Caruel, T. (1893) Flora italiana, ossia descrizione delle piante che crescono spontanee o vegetano come tali in Italia e
+nelle isole ad essa aggiacenti, disposte secondo il metodo naturale 10. Tipografico Fiorentino, Firenze, 234 pp.
+Castroviejo, S. (1987) Notas sobre Atriplex ibérica. Anales del Jardín Botanico de Madrid 43 (1986): 475.
+Castroviejo, S. (1990) Atriplex L. In: Castroviejo, S., Laínz, M., López Gonzáles, G., Montserrat, P., Muñoz Garmendia,
+F., Paiva, J. & Villar, L. (eds.), Flora Iberica 2. Real Jardín Botánico, Madrid, pp. 503–513.
+Conti, F., Abbate, G., Alessandrini, A. & Blasi, C. (eds.) (2005) An annotated checklist of the Italian vascular flora.
+Palombi & Partner, Roma, 420 pp.
+Conti, Alessandrini, A., Bacchetta, G., Banfi, E., Barberis, G., Bartolucci, F., Bernardo, L., Bonacquisti, S., Bouvet, D.,
+Bovio, M., Brusa, G., Del Guacchio, E., Foggi, B., Frattini, S., Galasso, G., Gallo, L., Gangale, C., Gottschlich, G.,
+Grünanger, P., Gubellini, L., Iiriti, G., Lucarini, D., Marchetti, D., Moraldo, B., Peruzzi, L., Poldini, L., Prosser, F.,
+Raffaelli, M., Santangelo, A., Scassellati, E., Scortegagna, S., Selvi, F., Soldano, A., Tinti, D., Ubaldi, D., Uzunov,
+D. & Vidali, M. (2007) Integrazioni alla checklist della flora vascolare italiana. Natura Vicentina 10 (2006): 5–74.
+Cupani, F. (1696) Hortus Catholicus, ed. 2. Ed. Franciscum Benzi, Neapoli, 262 pp.
+Cupani, F. (1713) Pamphyton Siculum. Epiro, Panormi, 1440 pp.
+De Candolle, A. (1849) Prodromus Systematis Regni Vegetabilis 13(1). Sumptibus Victois Masson, Parisiis, 741 pp.
+Di Pietro, R., Viscosi, V., Peruzzi, L. & Fortini, P. (2012) A review of the application of the name Quercus dalechampii.
+Taxon 61: 1311–1316.
+Domina, G., Giusso Del Galdo, G., Gargano, D., Labra, M., Peccenini, S., Peruzzi, L. & Raimondo, F.M. (2012) The
+Italian Loci Classici Census. Taxon 61: 1351–1353.
+Fiori, A. (1923) Nuova Flora Analitica d’Italia 1. Ed. M. Ricci, Firenze, 944 pp.
+Fiori, A. & Paoletti, G. (1898) Flora Analitica Italia 1. Tipografia del Seminario, Padova, 944 pp.
+Gallo, L., Guglielmone, L. & Nardi, E. (2012) Typification of Alyssum argenteum All. (Brassicaceae) and of Sedum
+alsinifolium All. (Crassulaceae), two Italian endemic taxa. Webbia 67: 183–188.
+http://dx.doi.org/10.1080/00837792.2012.10670918
+Gussone, G. (1843) Florae siculae synopsis 2(1). Ex Typis Tramater, Napoli, 920 pp.
+
+ATRIPLEX (AMARANTHACEAE) IN ITALY. V. ATRIPLEX TORNABENEI
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+• 59
+
+Hedge, I. (1997) Atriplex tatarica L. In: Rechinger, K.H.. (ed.) Flora Iranica 172. Akad. Druck, Graz, pp. 63–87.
+Iamonico, D. (2010) Malva subovata subsp. bicolor, comb. & stat. nov. (Malvaceae). Annales Botanici Fennici 47: 312–
+314.
+http://dx.doi.org/10.5735/085.047.0409
+Iamonico, D. (2012a) Amaranthus powellii S.Watson subsp. cacciatoi comb. & stat. nov. (Amaranthaceae). Nordic
+Journal of Botany 30: 12–16.
+http://dx.doi.org/10.1111/j.1756-1051.2011.01080.x
+Iamonico, D. (2012b) Studies on the genus Atriplex L. (Amaranthaceae) in Italy. II. Lectotypification of Atriplex
+elongata Guss. (Amaranthraceae). Candollea 67: 181–185.
+Iamonico, D. (2013) Taxonomical and chorological study on the Central Mediterranean Basin endemic Arenaria
+bertolonii Fiori & Paol. (Caryophyllaceae). Plant Biosystems (in press).
+http://dx.doi.org/10.1080/11263504.2012.753956
+Iamonico, D. & Buono, V. (2013) Rinvenimento di Atriplex tornabenei (Chenopodiaceae) in Puglia a 30 anni circa dalla
+sua prima segnalazione. Thalassia Salentina 35: 37–42.
+http://dx.doi.org/10.1285/i15910725v35p37
+Iamonico, D. & Del Guacchio, E. (2012) Notula 1931. Notulae alla Checklist della flora italiana: 14. Informatore
+Botanico Italiano 44: 391–392.
+Iamonico, D., Giovi, E., Iberite, M. & Abbate, G. (2011) Typification of Trifolium latinum Sebast. (Fabaceae) and
+comparison with related species. Annales Botanici Fennici 48: 459–464.
+http://dx.doi.org/10.5735/085.048.0603
+Iamonico, D. & Reveal, J.L. (2012) Lectotypification of the Linnaean name Carpinus ostrya L. (Betulaceae). Taxon 61:
+866.
+Jarvis, C.E. (2007) Order out of Chaos; Linnaean Plant Names and their Types. Linnean Society of London and the
+Natural History Museum, London, 1016 pp.
+Kadereit, G., Mavrodiev, E.V., Zacharias, E.H. & Sukhorukov A.P. (2010) Molecular phylogeny of Atripliceae
+(Chenopodioideae, Chenopodiaceae): implications for systematics, biogeography, flower and fruit evolution, and the
+origin of C4 photosynthesis. American Journal of Botany 97: 1664–1687.
+http://dx.doi.org/10.3732/ajb.1000169
+Lange, J. (1856–1859) Haandbog i Den Danske Flora. C.A. Reitzels Forlag, Kjøbenhavn, 764 pp.
+Linnaeus, C. (1753) Species Plantarum 2. Laurentii Salvii, Stockholm, 899 pp.
+Linnaeus, C. (1763) Species Plantarum ed. 2 2. Laurentii Salvii, Holmiae, 899 pp.
+McNeill, J., Basset, I.J., Crompton, C.W. & Taschereau, P.M. (1983) Taxonomic and nomenclatural notes on Atriplex L.
+(Chenopodiaceae). Taxon 32: 549–556.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, D.L., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Proud’Homme van Reine, W.F., Smith, J.F. & Wiersema, J.H. (eds.) (2012) International
+Code of Nomenclature for algae, fungi and plants (Melbourne Code): Adopted by the Eichteenth International
+Botanical Congress, Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–274.
+Nuttal, T. (1818) The Genera of North America Plants 1, and a catalogue of the species, to the year 1817. D. Heartt,
+Philadelphia, 312 pp.
+Pastor, J. & Juan, R. (1990) Estudio carologico del genero Atriplex (Chenopodiaceae) en Andalucia occidental.
+Lagascalia 16: 3–14.
+Pastor, J., Diosado, J.C., Santa-Bárbara, C., Vjoque, J. & Pérez, E. (1990) Números cromosómicos para la flora
+espagnola. Lagascalia 15: 269–282.
+Pignatti, S. (1982) Flora d’Italia 1. Edagricole, Bologna, 790 pp.
+Sukhorukov, A.P. (2006) Zur Systematik und Chorologie der in Russland und benachbarten Staaten (in den Grenzen der
+ehemaligen UdSSR) vorkommenden Atriplex-Arten (Chenopodiaceae). Annalen des Naturhistorischen Museums in
+Wien, 108 B: 307–420.
+Sukhorukov, A.P. & Danin, A. (2009) Taxonomic notes on Atriplex sect. Teutliopsis and sect. Atriplex in Israel and Syria.
+Flora Mediterranea 19: 15–23.
+Thiers, B. (2011) Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical
+Garden's Virtual Herbarium. Available from http://sweetgum.nybg.org/ih/ (accessed: 21 April 2012).
+Tineo, V. (1827) Catalogus plantarum Horti Regii Panormitani. Ex Regali Typographia, Panormi, 284 pp.
+Uotila, P. (2011) Atriplex. Euro+Med Plantbase -- the information resource for Euro-Mediterranean plant diversity.
+Available
+from
+http://ww2.bgbm.org/EuroPlusMed/PTaxonDetail.asp?NameId=17754&PTRefFk=7300000
+(accessed: 12 April 2012).
+Zhu, G., Mosyakin, S. L. & Clemants, S. E. (2003). Atriplex L. In: Wu, Z. Y., Raven, P.H. & Hong, D.Y. (eds.), Flora of
+China 5. Science Press, Beijing and Missouri Botanical Garden Press, St. Louis, pp. 360–365.
+
+60 •
+
+Phytotaxa 145 (1) © 2013 Magnolia Press
+
+IAMONICO
+
+

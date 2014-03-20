@@ -1,0 +1,1002 @@
+Phytotaxa 97 (1): 1–16 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.97.1.1
+
+Hidden in the dry woods: Mapping the collection history and distribution of
+Gymnanthes boticario, a well-collected but very recently described species
+restricted to the dry vegetation of South America
+LUCIANA DOS SANTOS D. DE OLIVEIRA 1 , MARCELO FREIRE MORO 2 , EIMEAR M. NIC
+LUGHADHA3, FERNANDO ROBERTO MARTINS2, ANDRÉ LAURÊNIO DE MELO4, HANS-JOACHIM
+ESSER5 & MARGARETH F. SALES1
+1
+
+Programa de Pós-Graduação em Botânica, Universidade Federal Rural de Pernambuco, Av. D. Manuel de Medeiros, s.n., Dois
+Irmãos, CEP 52.171-930, Recife, Pernambuco, Brazil; e-mail: lucianadiasoliveira@hotmail.com
+2
+Programa de Pós-Graduação em Biologia Vegetal, Universidade Estadual de Campinas, Departamento de Botânica, Bloco M, CEP
+13.083-970 Campinas, São Paulo, Brazil; e-mail: bio_moro@yahoo.com.br; fmartins@unicamp.br
+3
+Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AB, United Kingdom; e-mail: el02kg@kew.org
+4
+Universidade Federal Rural de Pernambuco, Unidade Acadêmica de Serra Talhada, Fazenda Saco s/n°, CEP: 56.900-000, Serra
+Talhada, Pernambuco, Brazil; e-mail: andrelaurenio@yahoo.com.br
+5
+Botanische Staatssammlung München, Menzinger Strasse 67, 80638, München, Germany; e-mail: esser@bsm.mwn.de
+
+Abstract
+Botanists estimate that 80 to 90% of existing plant species have already been described and it is expected that most
+undescribed species are rare or narrow endemic ones. Here we map the geographical distribution of Gymnanthes
+boticario, a species described in 2010, and show that the species is not only widespread, but was well-collected in the
+Caatinga semiarid vegetation prior to its description. During a revision of the genus Gymnanthes we also found
+collections of G. boticario in the Brazilian Mato Grosso do Sul state (in Pantanal ecoregion), in Paraguay (in Cerro Léon
+dry forests) and in Bolivia (in Chiquitano dry forest ecoregion) in a pattern that closely resembles the Pleistocenic Arc
+Hypothesis. We map the continental distribution of G. boticario, report the first records of it for Bolivia, Paraguay and
+the Brazilian Pantanal and show the rich data available in herbaria for a plant only recently described.
+Key words: Bolivia, Brazil, Chiquitano, Ecoregions of South America, Hippomaneae, Paraguay
+
+Introduction
+The Pleistocenic Arc Hypothesis
+South America has a large number of different vegetation types and ecosystems, ranging from
+superhumid rainforest such as the Amazonian and Atlantic forests to deserts in Chilean and Peruvian coasts
+(Cabrera & Willink 1973, Olson et al. 2001). Distributed throughout South America, there are also many
+disjunct areas where semiarid conditions prevail, and in which there is a shortage in water availability for
+most of the year (Pennington et al. 2000, 2006a, Prado 2000). Of these, the Caatinga dry formation, a variable
+complex of semiarid vegetation that occupies most of the Northeastern region of Brazil, is the largest area,
+with some 800,000 km2 (Prado 2003, IBGE [Instituto Brasileiro de Geografia e Estatística] 2004).
+During part of the twentieth century, biogeographers assumed that the tropical semiarid Caatinga in Brazil
+and subtropical, frost prone semiarid Chaco in Argentina and Paraguay were ecologically similar and shared
+floristic links (Cabrera & Willink 1973, Rizzini 1979, Prado & Gibbs 1993). In a seminal paper, Prado &
+Gibbs (1993) tested the alleged floristic similarity between Caatinga and Chaco, plotting species distributions
+and showing that the links between Caatinga and Chaco were negligible, but that there were, however, many
+
+Accepted by Maarten Christenhusz: 27 Mar. 2013; published online in PDF: 30 Apr. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+disjunct distributions between Caatinga and other dry formations of South America. While the flora of Chaco
+was almost entirely different, Caatinga shared species with dry formations such as the Chiquitano dry forests
+in Bolivia, the dry valleys of the Andes in Bolivia, Peru, Ecuador and Colombia and the dry coast of
+Venezuela (Prado & Gibbs 1993, Pennington et al. 2000, Prado 2000). Prado & Gibbs (1993) explained the
+large number of disjunct taxa between these widely separated semiarid areas with the following scenario.
+During the Pleistocene glaciations the climate was drier, causing wet forests to reduce in area and dry
+formations to spread to a much larger extent (Werneck et al. 2011). After the glaciations, with a wetter
+climate, dry formations reduced in area and were split into separate nuclei (Pennington et al. 2000; Werneck et
+al. 2011). But as a legacy of their joint history, they now share a number of species, genera and lineages.
+Based on these shared taxa, Prado (2000) and Pennington et al. (2000) suggested that these semiarid disjunct
+areas should be considered a single, large phytogeographical domain called Seasonally Dry Tropical Forest
+(SDTF) or Dry Plant Formations (Sarmiento 1975).
+Sarmiento (1975) had already called attention to the similarities between dry vegetation formations across
+South America. And, based on the many floristic disjunctions recorded by Prado & Gibbs (1993), it was
+proposed that distant dry forests of South America shared floristic links and a common history, leading this
+idea to be the focus of much debate in the last 20 years (Prado & Gibbs 1993, Pennington et al. 2000, 2006b,
+Dirzo et al. 2011). Criticism of the hypothesis has emerged too. Mayle (2006) argued that the pollen data
+available to date are not consistent with the Pleistocenic Arc Scenario and suggested that multiple long
+distance dispersal events between Caatinga and other dry formations could also explain the observed pattern.
+The debate continues and while some prefer to consider the possibility of multiple dispersal events (e.g.
+Mayle 2006), others admit that at least between the dry Caatinga and Chiquitano areas there is support for a
+more widespread occurrence of dry vegetation in the past (e.g. Linares-Palomino et al. 2011). In any case
+there is a striking number of disjunct occurrences of species or lineages known to be present in the Caatinga
+and other dry vegetation of America, but which do not occur in the Cerrado savannas nor in the wet forests
+between them (see examples in Prado & Gibbs 1993, Taylor & Zappi 2004 and Lewis et al. 2006).
+Gymnanthes boticario in Caatinga and beyond
+Historically, the semiarid Caatinga was one of the most scientifically overlooked areas of Brazil.
+Assumed to be poor in species diversity and endemism, few efforts to study its flora and establish nature
+reserves were made up to the 1990s, and even now less than 2% of its area is protected by Nature Reserves
+(Tabarelli & Vicente 2002, Castelletti et al. 2003). Studies in Caatinga intensified sharply in the last decade
+and now show that the Caatinga is a semiarid area rich in plant diversity and with many endemic genera and
+species [e.g. the monotypic genera Holoregmia Nees von Esenbeck (1821: 300) (Harley et al. 2003) and
+various species of Fabaceae (Queiroz 2009), Cactaceae (Taylor & Zappi 2004) and Euphorbiaceae (Lucena &
+Alves 2010)]. In 2002 a first synthesis of the plant biodiversity in the Caatinga was prepared (Sampaio et al.
+2002), and in 2006 a general catalogue of the plant species was published (Giulietti et al. 2006), recognizing
+5344 species in the Brazilian semiarid region and 1511 species in the Caatinga sensu stricto vegetation. A new
+list of species was published in 2010 as part of the List of Plants of Brazil, recording 4320 Angiosperms for
+the semiarid region of Brazil (Caatinga Phytogeographical Domain, or Caatinga sensu lato) (Forzza et al.
+2010). Several new species have been published since this recent comprehensive list, including the subject of
+this paper, G. boticario.
+Gymnanthes boticario Esser, M.F.Lucena & M.Alves (2010: 345) is a Euphorbiaceae species, of the
+Hippomaneae tribe, recently described from the Caatinga vegetation in Northeastern Brazil (Esser et al.
+2010). The plant is easily recognized in the genus by the presence of indumentum, usually serrate (rarely
+entire) margins of the leaves, the short petiole, densely tomentose ovary and subsessile fruits. In the
+protologue, 14 collections from Bahia, Ceará, Pernambuco, Piauí and Rio Grande do Norte states are cited,
+indicating that the plant has a wide distributional range. During a general revision of Gymnanthes Swartz
+(1788: 6) by the first author, dozens of other specimens of this plant were recorded in many herbaria,
+demonstrating a surprising amount of unpublished distributional data available about such a newly recognized
+
+2 •
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+OLIVEIRA ET AL.
+
+plant, and stimulating us to map the occurrences of it. A study visit to G, K and M herbaria revealed new
+records for Mato Grosso do Sul state, Brazil, Bolivia and Paraguay, indicating that this new species is not only
+well collected, but also quite widely distributed in South America, with a pattern that matches closely the
+Pleistocenic Arc proposed by Prado & Gibbs (1993). Our purposes are thus 1) to record the history of
+collections made of G. boticario up to its description, exploring the factors that may cause a widely collected
+plant to remain unrecognized a long time before description; 2) to map the known distribution of the plant,
+revealing its ecological preferences; 3) to report the first records for G. boticario for the dry forests of Pantanal
+ecoregion in Mato Grosso do Sul, Brazil; for Paraguay, in Cerro Léon dry forests; and also for Bolivia, in
+Chiquitano dry forests, also contributing to the Catalogue of Vascular Plants of Bolivia, now in preparation;
+and 4) to discuss the implications of this new disjunct record for the hypothesis of the Pleistocenic Arc.
+
+Material & Methods
+How many years and how many collections are necessary to allow for a new species to be recognized?
+To determine the amount of data available and the geographical distribution for Gymnanthes boticario up
+to the year of the species description, we consulted material deposited in the herbaria ALCB, B, BM, BR,
+CEPEC, EAC, G, GUA, HRB, HUEFS, HVASF, IPA, JPB, K, M, MAC, OXF, P, PEUFR, RB, TEPB, UFP,
+UFRN, Z and also received by loan material from ASE, BA, BHCB, CESJ, CEN, CH, CIB, COR, CRI,
+CTES, ESA, F, FLOR, FURB, HB, HRCB, HUFU, HXBX, HUM, IAC, IBGE, ICN, IAN, INB, INPA, JBSD,
+LD, LIL, LPB, MBM, MBML, MEXU, MICH, PACA, PMG, R, RBR, SMDB, SP, SPF, UB, UEC, UFMT,
+UPCB, VIC, VIES, XAL, WU (acronyms follow Index Herbariorum 2012). As G. boticario was only recently
+recognized, we consulted with special attention material labeled as “undetermined” in Euphorbiaceae, and
+collections under closely related and/or morphologically similar genera and families [especially Actinostemon
+Mart. ex Klotzsch (1841: 184), Microstachys Jussieu (1824: 48), Sebastiania Sprengel (1821: 118), and
+Salicaceae]. Collections labeled under Gymnanthes sp. were always evaluated, as part of a revision of
+Gymnanthes in progress by the first author and we built a database of all recorded sheets with the taxonomic
+and geographical data associated with the collections (herbarium code, collecting locality, names previously
+applied to herbarium sheets etc). The list of consulted material is presented in Appendix 1.
+Mapping the distribution of Gymnanthes boticario
+From each collection in the consulted herbaria we recorded the following geographical data from the
+sheets: GPS coordinates when available, locality and town of collection and Brazilian State or Bolivian/
+Paraguayan department. When GPS coordinates were recorded we plotted the points in a GIS environment
+and checked if the point was within the political borders reported on the sheet. Collections without GPS
+coordinates or for which coordinates were clearly wrong were mapped using the geographical location of the
+town or a more specific locality reported on the specimen label (a known mountain, or a national park).
+To understand the biogeographical pattern of distribution of G. boticario we selected from the Olson et al.
+(2001) map of ecoregions of the world, the dry formations of South America using the definitions and maps
+presented by Sarmiento (1975) and Pennington et al. (2006b). We plotted the dry formations together with the
+Cerrado, Pantanal and Chaco ecoregions and then added to the map the collection locations of G. boticario.
+
+Results
+How many years and how many collections are necessary to allow for a new species to be recognized?
+The first collection of Gymnanthes boticario we are aware was made in 1971, but the species was
+described only in 2010 (Esser et al. 2010). So at least 39 years elapsed from the first collection to the
+description [Fig. 1]. Up to 2010 there were 82 collections of G. boticario available in 18 herbaria [Fig. 2], with
+50 further duplicates distributed to 21 herbaria [Fig. 3], resulting in a total of 132 sheets in 25 herbaria in six
+COLLECTION HISTORY & DISTRIBUTION OF GYMNANTHES BOTICARIO
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+• 3
+
+countries (Bolivia, Brazil, Germany, Switzerland, United Kingdom, United States) up to the year of the
+description of the species. Two further collections (Oliveira & A. Laurênio 211 and Siqueira-Filho et al. 2663,
+not included in the statistics presented here, but listed in the examined material—Appendix 1) were made
+after 2010. Most of the collections were labeled as Gymnanthes sp. (27 sheets) or Sebastiania sp. (25 sheets).
+The other names applied were Euphorbiaceae (15), Actinostemon sp. (8), Sebastiania cf. serrata (3), S. aff.
+brasiliensis (2), S. vestita (1) and Maprounea sp. (1) [Fig. 4]. Up to 2010, when G. boticario was described,
+the 82 collections available already covered five of the eight recognized subregions of Caatinga (called by
+Velloso et al. 2002 “ecorregions” of Caatinga) and seven of the ten Brazilian states where Caatinga vegetation
+occurs (as well as one collection in Cerro Léon, Paraguay; two collections for the Brazilian Pantanal, in Mato
+Grosso do Sul state; and two collections in the Chiquitano dry forests in Bolivia) [Figs. 5–7]. However, only
+17% of these collections had been examined by the authors of G. boticario in the protologue, because they
+were not attempting a monographic approach, but simply citing collections to hand at that time.
+
+EƵŵďĞƌ ŽĨ ĐŽůůĞĐƚŝŽŶƐ ŽĨ '͘ ďŽƚŝĐĂƌŝŽ ƉĞƌ ǇĞĂƌ ƵƉ ƚŽ ϮϬϭϬ
+ϵ
+ϴ
+ϲ
+
+ϲ
+
+ϲ
+
+ϲ
+
+ϱ
+ϰ
+Ϯ
+ϭ
+ϮϬϭϬ
+
+ϮϬϬϵ
+
+ϮϬϬϴ
+
+ϮϬϬϳ
+
+ϮϬϬϲ
+
+ϮϬϬϱ
+
+ϮϬϬϰ
+
+ϮϬϬϯ
+
+ϮϬϬϮ
+
+ϮϬϬϭ
+
+ϮϬϬϬ
+
+ϭϵϴϵ
+
+ϭ
+Ϭ
+
+ϭϵϵϵ
+
+ϭϵϴϴ
+
+ϭ
+Ϭ
+ϭϵϵϳ
+
+ϭϵϴϳ
+
+ϭ
+
+Ϭ
+ϭϵϵϲ
+
+Ϭ
+
+ϭϵϵϰ
+
+Ϭ
+
+ϭ
+ϭϵϵϯ
+
+Ϭ
+
+ϭϵϵϮ
+
+Ϭ
+
+ϭϵϵϬ
+
+Ϭ
+
+ϭϵϴϲ
+
+ϭ
+ϭϵϴϱ
+
+ϭ
+ϭϵϴϯ
+
+ϭϵϴϮ
+
+ϭϵϴϭ
+
+ϭϵϴϬ
+
+ϭϵϳϲ
+
+ϭ
+
+Ϭ
+ϭϵϳϵ
+
+ϭϵϳϱ
+
+Ϯ
+
+ϭ
+
+Ϭ
+
+ϭϵϳϰ
+
+ϭ
+ϭϵϳϴ
+
+Ϭ
+
+ϭϵϳϳ
+
+Ϭ
+ϭϵϳϯ
+
+ϭϵϳϮ
+
+Ŷ͘ŝ͘
+
+Ϭ
+
+ϭ
+
+ϯ
+
+ϭϵϵϴ
+
+Ϯ
+ϭ
+
+ϭϵϴϰ
+
+Ϯ
+
+ϯ
+
+ϭϵϵϱ
+
+ϯ
+
+ϭϵϵϭ
+
+ϯ
+
+ϭϵϳϭ
+
+ϭϬ
+ϵ
+ϴ
+ϳ
+ϲ
+ϱ
+ϰ
+ϯ
+Ϯ
+ϭ
+Ϭ
+
+FIGURE 1. Number of collections per year of Gymnanthes boticario up to 2010, when the species was described.
+
+EƵŵďĞƌ ŽĨ ĂǀĂŝůĂďůĞ ĐŽůůĞĐƚŝŽŶƐ ŽĨ '͘ ďŽƚŝĐĂƌŝŽ ŝŶ ĚŝĨĨĞƌĞŶƚ ŚĞƌďĂƌŝĂ
+ƵƉ ƚŽ ϮϬϭϬ
+Ϯϱ
+
+ϮϮ
+ϮϬ
+
+ϭϱ
+
+ϭϮ
+ϭϬ
+
+ϵ
+ϳ
+
+ϱ
+
+ϱ
+
+ϰ
+ϭ
+
+Ϯ
+
+ϯ
+ϭ
+
+ϭ
+
+ϭ
+
+ϱ
+Ϯ
+
+ϯ
+
+Ϯ
+
+ϭ
+
+ϭ
+
+Ϭ
+
+FIGURE 2. Number of collections of Gymnanthes boticario available in the consulted herbaria up to 2010, when the species was
+described.
+
+4 •
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+OLIVEIRA ET AL.
+
+EƵŵďĞƌ ŽĨ ĂǀĂŝůĂďůĞ ĚƵƉůŝĐĂƚĞƐ ŽĨ '͘ ďŽƚŝĐĂƌŝŽ ŝŶ ĚŝĨĨĞƌĞŶƚ ŚĞƌďĂƌŝĂ
+ƵƉ ƚŽ ϮϬϭϬ
+ϵ
+ϴ
+
+ϴ
+ϳ
+ϲ
+ϱ
+ϰ
+ϯ
+
+ϰ
+
+ϰ
+ϯ
+
+ϰ
+ϯ
+
+ϯ
+Ϯ
+
+Ϯ
+ϭ
+
+Ϯ
+
+ϭ
+
+ϭ
+
+Ϯ
+ϭ
+
+Ϯ
+
+Ϯ
+
+Ϯ
+
+ϭ
+
+ϭ
+
+Ϯ
+ϭ
+
+ϭ
+
+Ϭ
+
+FIGURE 3. Number of duplicates of Gymnanthes boticario available in the consulted herbaria up to 2010, when the species was
+described
+
+EĂŵĞƐ ĂƉƉůŝĞĚ ŝŶ ŚĞƌďĂƌŝƵŵ ƐŚĞĞƚƐ ƚŽ '͘ ďŽƚŝĐĂƌŝŽ ƵƉ ƚŽ ϮϬϭϬ
+
+'ǇŵŶĂŶƚŚĞƐ ƐƉ͘
+
+Ϯϳ
+
+^ĞďĂƐƚŝĂŶŝĂ ƐƉ͘
+
+Ϯϱ
+
+ƵƉŚŽƌďŝĂĐĞĂĞ
+
+ϭϱ
+
+ĐƚŝŶŽƐƚĞŵŽŶ ƐƉ͘
+
+ϴ
+
+^ĞďĂƐƚŝĂŶŝĂ ĐĨ͘ ƐĞƌƌĂƚĂ
+
+ϯ
+
+^ĞďĂƐƚŝĂŶŝĂ ĂĨĨ͘ ďƌĂƐŝůŝĞŶƐŝƐ
+
+Ϯ
+
+^ĞďĂƐƚŝĂŶŝĂ ǀĞƐƚŝƚĂ
+
+ϭ
+
+DĂƉƌŽƵŶĞĂ ƐƉ͘
+
+ϭ
+Ϭ
+
+ϱ
+
+ϭϬ
+
+ϭϱ
+
+ϮϬ
+
+Ϯϱ
+
+ϯϬ
+
+FIGURE 4. Names applied to Gymnanthes boticario on herbarium sheets before recognition as a new species
+
+COLLECTION HISTORY & DISTRIBUTION OF GYMNANTHES BOTICARIO
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+• 5
+
+EƵŵďĞƌ ŽĨ ĐŽůůĞĐƚŝŽŶƐ ŽĨ '͘ ďŽƚŝĐĂƌŝŽ ƉĞƌ ƌĂǌŝůŝĂŶ ƐƚĂƚĞ Žƌ
+WĂƌĂŐƵĂǇĂŶͬ ŽůŝǀŝĂŶ ĚĞƉĂƌƚŵĞŶƚ ƵƉ ƚŽ ϮϬϭϬ
+ϯϬ
+Ϯϲ
+Ϯϰ
+
+Ϯϱ
+ϮϬ
+ϭϱ
+
+ϭϭ
+ϭϬ
+
+ϳ
+ϱ
+
+ϱ
+ϭ
+
+Ϯ
+
+ϭ
+
+Ϯ
+
+Ϯ
+
+ϭ
+
+Ϭ
+
+FIGURE 5. Number of collections of Gymnanthes boticario in each Brazilian state or Paraguayan/Bolivian department
+
+available in herbaria up to 2010, when the species was described.
+
+Mapping the distribution of Gymnanthes boticario
+The distribution of the G. boticario in northeastern Brazil was clearly related to the Dry Caatingas, and not
+to the Cerrado savannas or the Atlantic rainforests which are together the three main Phytogeographical
+Domains of Northeastern Brazil. We found 77 collections of G. boticario in the semiarid region of Brazil, all
+of them related to the Caatinga or at most to the ecotonal areas to Cerrado, but none in Cerrado vegetation or
+Atlantic rainforest itself. One collection was from an ecotonal area between Caatinga and Cerrado (Fernandes
+& Matos s.n., Eliseu Martins, Piauí).
+Piauí, Bahia and Minas Gerais have extensive areas of Cerrado vegetation, but all collections we
+encountered in these states were made in the Caatinga or at most in ecotonal areas, showing the preference of
+G. boticario for dry vegetation [Fig. 6]. This preference is even more evident when we analyze the distribution
+of the plant in the South American continent as a whole [Fig. 7]. The only other points we could locate outside
+the Caatinga were in the Cerro Léon, Alto Paraguay department; in the Bolivian department of Santa Cruz;
+and in the Brazilian state of Mato Grosso do Sul (collections made close to the Bolivian and Paraguayan
+borders). These areas represent respectively the Cerro Léon dry forests of Northern Paraguay; the Chiquitano
+Dry Forest ecoregion; and dry forests of hilly areas of the Pantanal ecoregion (in the case of the collections
+Prance et al. 26151 and Bernardi 20426). The Chiquitano and Caatinga are considered by Pennington et al.
+(2000) as SDTF. The Cerro Léon is a particular vegetation that occurs inside the Chaco ecoregion, but has a
+flora related to dry forest and not to the surrounding Chaco (it is, in a certain sense, an enclave of dry forests
+within the Chaco—Prado & Gibbs 1993, Werneck et al. 2011). In the Pantanal, known primarily as a wetland,
+there are many patches of dry forests (deciduous or semideciduous forests) that occur in hills scattered across
+the landscape and harbor a flora which species come from both the Cerrado and from other dry formations of
+South America (Prance & Schaller 1982, Damasceno Júnior et al. 2009). The distribution of G. boticario
+
+6 •
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+OLIVEIRA ET AL.
+
+FIGURE 6. Distributional map of Gymnanthes boticario in the semiarid Caatinga of Northeastern Brazil, showing that when the
+species was described in 2010 collections were already available for seven of the ten Brazilian states where Caatinga occurs, including
+five of its eight Ecorregions (sensu Velloso et al.2002). States where we recorded the species: PI- Piauí; CE: Ceará; RN: Rio Grande
+do Norte; PB: Paraíba; PE: Pernambuco; BA: Bahia; MG: Minas Gerais (Map elaboration: M.F. Moro).
+
+COLLECTION HISTORY & DISTRIBUTION OF GYMNANTHES BOTICARIO
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+• 7
+
+FIGURE 7. Mapped distribution of Gymnanthes boticario in South America, a species typical of dry forests, including the first
+recorded occurrences to Bolivia, in the Chiquitano dry forests, to Paraguay, in the Cerro Léon, and to Mato Grosso do Sul, in
+the Pantanal (Map elaboration: M.F. Moro).
+
+adheres closely to the distribution expected by the model of the Pleistocenic Arc, which argues that during
+drier glacial times dry formations expanded to a larger extent than the actual one (Werneck et al. 2011) and
+constituted a larger arc of dry vegetation surrounding the wet forests, Cerrado and the Chaco. According to the
+model, these dry formations fragmented again in wetter post glacial times and the dry areas became isolated
+[see actual distribution in Fig. 7], but retained some floristic elements that were separated by this vicariance
+event.
+
+8 •
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+OLIVEIRA ET AL.
+
+Discussion
+How many years and how many collections are necessary to allow for a new species to be recognized?
+Most plant species published as new to science in recent years are described from relatively small ranges,
+often based on just a few herbarium collections (Joppa et al. 2011), leading sometimes to the assumption that
+species remaining to be described are narrow endemics and that most of the “common” plants have been
+already published. But here we have a case of common, widely distributed and well collected newly described
+species. Although widely collected in Brazil, almost four decades elapsed between the time of the earliest
+known collection of G. boticario and the time of its publication. This elapsed time may seem long but is, in
+fact, close to recently published estimates of the mean time that species in general remain undescribed after
+first collected (Bebber et al. 2010), and reinforces the importance of the continuing taxonomic work in Brazil
+as a means of revealing the many new plants waiting to be discovered (Pimm et al. 2010), not all of them
+particularly rare, as shown here.
+Why did Gymanthes boticario lie undiscovered in so many herbaria for so long? Our results show that in
+33% of the collections, it had been correctly identified to genus level [27 collections were deposited in
+herbaria as Gymnanthes sp.—see Fig. 4] and in a similar number of cases it had been assigned to a closely
+related genus (25 collections of Sebastiania sp.) or simply assigned to family level (15 collections as
+Euphorbiaceae) [Fig. 4]. It seems that “generalist” botanists were succeeding in getting the material correctly
+determinated to or close to the genus level. Which factors resulted in a long delay in recognizing G. boticario
+as new to science? Unclear taxonomic boundaries and the dearth of specialists and monographs for the
+Hippomaneae tribe are obvious reasons.
+Bebber et al. (2010) show how continuous intensive taxonomic work in a particular group can increase
+efficiency in recognizing new species. When the first monograph for Neotropical Chrysobalanaceae was
+completed, the mean time for recognizing new species was 35 years, while the mean time for recognizing new
+species in subsequent works on this group was only 10.5 years (Bebber et al. 2010). Hippomaneae is a large
+group in the Euphorbiaceae family (33 genera and 330 species worldwide; 13 genera and about 120 species in
+Brazil; Esser 2012) and lacks much taxonomic input. For the 13 Brazilian genera of Hippomaneae, only five
+have recently published revisions, and Gymnanthes is recognized as one of the critical genera, both in Brazil
+and the world (Esser 2012, Secco et al. 2012), so it is not surprising that new species in this group are a long
+time waiting to be recognized.
+Moreover, before the 1990s Caatinga was poorly studied, but in the last decade the number of publications
+about Caatinga has increased and a large number of syntheses, catalogues, taxonomic treatments and new
+species have been published (Sampaio et al. 2002, Taylor & Zappi 2004, Giulietti et al. 2006, Queiroz 2009,
+Forzza et al. 2010). The discovery of narrow endemic species are happy surprises, but as shown in our
+distribution map and consulted material list [Figs. 5–6; Appendix 1] Gymnanthes boticario is a widespread
+and well collected plant in Caatinga. It is clear that more taxonomic effort is needed in this region of Brazil
+(Pimm et al. 2010). Fortunately this need is beginning to be addressed and not only has more taxonomic work
+been undertaken there in the last two decades, but also many new species have been recognized recently (e.g.
+Carneiro-Torres et al. 2011)
+Mapping the distribution of Gymnanthes boticario
+As our distribution maps make clear, Gymnanthes boticario is widespread in the Caatinga and has a
+marked preference for dry formations. All collections of G. boticario are material coming from SDTF (sensu
+Pennington et al. 2000) or at most from their ecotonal areas to Cerrado or dry forests within Pantanal. But we
+didn’t find evidence of G. boticario occurring in Cerrado vegetation itself. In Piauí, Bahia and Minas Gerais
+states, Cerrado and Caatinga are contiguous and the Cerrado covers large areas (IBGE [Instituto Brasileiro de
+Geografia e Estatística], 2004). If G. boticario was also a characteristic element of Cerrado vegetation we
+would expect at least some collections there. Moreover we didn’t locate any collections from central Brazil.
+The species seems to be absent from Cerrado areas and reappears only in the dry Chiquitano forests in
+COLLECTION HISTORY & DISTRIBUTION OF GYMNANTHES BOTICARIO
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+• 9
+
+Bolivia, in the dry forests of Cerro Léon, in Paraguay, or in dry forests in the Pantanal of Mato Grosso do Sul.
+Both Caatinga and Chiquitano are part of the SDTF that according to the model of Prado & Gibbs (1993) were
+part of the once extensive arc of dry forests of South America (Werneck et al. 2011), which could explain the
+large number of disjunctions observed between these areas.
+The collection Prance et al. 26151 was made in the Pantanal, close to the border with Bolivia, in a site
+now belonging to the Mato Grosso do Sul state, Corumbá municipality (the state of Mato Grosso was split in
+two in 1979 and the place where Prance et al. collected is now Mato Grosso do Sul). Describing the site of this
+collection Prance & Schaller (1982) deemed it a mosaic of vegetation and a confluence of different floras,
+where elements of Cerrado, Amazonia and Chaco flora mix. This area is also on the outskirts of the
+Chiquitano Dry Forest ecoregion (Olson et al. 2001), an area of ecological tension. So it is not surprising that
+the G. boticario was found there. Bernardi made his collection of G. boticario in the “Cerro Pedrera, riacho
+Navileque, Paraguay” (Bernardi 20426). But Navileque river is located in Brazilian territory, in the Pantanal
+ecoregion. Lorenzo Ramella (from herbarium G) kindly provided us with a transcription of Bernardi’s notes
+of his field trips, and it seems clear that he, while collecting in Paraguay, entered many kilometers in Brazilian
+territory without realizing he had done so. So we could locate two collections of G. boticario to the Pantanal
+ecoregion in Mato Grosso do Sul state. Pantanal is one of the largest wetland areas in the world, but within the
+flooded areas there are hills which are never flooded and harbor dry forests (Damasceno Júnior et al. 2009).
+These show a diverse flora, mixing species of Cerrado and dry forests, that are interspersed with swampy
+vegetation and gallery forests (Prance & Schaller 1982, Damasceno Júnior et al. 2009). Prance’s collection is
+recorded as being made from forest on slopes in higher areas and Bernardi’s collection was made in higher
+areas of a hill (cerro, in Spanish). These never-flooded areas have dry forests in the slopes (Prance & Schaller
+1982) and are thus the type of environment where G. boticario could be expected outside Caatinga.
+An interesting collection was made in the Cerro Léon in Paraguay. This mountain supports dry forests, but
+is completely surrounded by the Chaco plains. While the Chaco plains have a flora very different from the dry
+formations of South America, Cerro Léon has different soil types and many plant species shared with other
+dry formations of the continent (Prado & Gibbs 1993). Gymnanthes boticario is a new example of the links of
+Cerro Léon with disjunct dry areas.
+It should be noted that the Cerrado ecoregion is not a homogeneous vegetation type. Within the Cerrado
+one can find the typical cerrado sensu stricto vegetation, which has a savannah physiognomy, but also
+grasslands (campo limpo e campo sujo), arboreous cerrado (cerradão), gallery forests, and a different type of
+dry forest, which is known as deciduous calcareous dry forests (or limestone outcrop vegetation, Mata Seca
+em solo Calcário; Ribeiro & Walter 2008). Floristic and phytosociological studies in these dry deciduous
+forests within the Cerrado have collected many taxa typical of the semiarid Caatinga that do not occur in
+Cerrado sensu stricto. Examples are Aspidosperma pyrifolium Martius (1824: 60), Commiphora leptophloeos
+(Martius 1828: 393) Gillett (1980: 582) and Cavanillesia arborea (Willd.) Schumann (1886: 327) (Felfili et
+al. 2007, Lima et al. 2010, Carvalho & Felfili 2011). If Gymanthes boticario does occur within the Cerrado
+Phytogeographical Domain, we would expect it to be in these calcareous dry forests within the Cerrado, not in
+Cerrado vegetation itself. Collecting G. boticario in the limestone forests would lend even more support to the
+Pleistocenic Arc hypothesis, as these small patches of dry forests within the Cerrado can be seen as the
+remnants of the dry vegetation that once covered much larger areas of South America.
+An alternative hypothesis to the Pleistocenic Arc is that many different taxa made independent long
+distance migrations through the Cerrado to other dry formations of South America. Mayle (2006) concluded
+in favor of this idea because available pollen data were not congruent with the model of the Pleistocenic Arc.
+But he also acknowledged that the palynological data is, as yet, very incomplete and a newer-evaluation is
+desirable once more information is available. Linares-Palomino et al. (2011) compared floristic resemblances
+of many of the dry nuclei in Latin America. They concluded that relatively close areas showed reasonable
+floristic congruence, but that the whole set of South American dry areas cannot be joined in a single floristic
+unit because of large differences among them. They identified four major SDTF regions and one of these four
+comprised the Chiquitano forest, Caatinga and other Brazilian SDTFs.
+
+10 •
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+OLIVEIRA ET AL.
+
+It is striking that disjunct distributions that conform to the Pleistocenic Arc (not only species, but also
+subgeneric level occurrences) are reported in many cases among Cactaceae (Taylor & Zappi 2004),
+Leguminosae (Lewis et al. 2006) and also other families (Prado & Gibbs 1993). G. boticario conforms well to
+this model. Moreover Linares-Palomino et al. (2011) found a reasonable similarity between Chiquitano forest
+and Caatinga, and Lima et al. (2010) and Carvalho & Felfili (2011) report some disjunctions between
+limestone dry forests within Cerrado and Caatinga. Perhaps the true scenario is a much more complex
+dynamic in the past of the continent, with large scale community migrations at some times (maybe not only in
+the Pleistocene) combined with long distance dispersal events. In this case, the limestone dry forests within
+Cerrado could represent either remnants of a former larger dry area or stepping stone environments allowing
+dry forest species to cross the Cerrado. In either case we predict that new records for G. boticario will be
+found in the limestone outcrop forests within the Cerrado.
+It is remarkable for G. boticario to be so specific to dry formations. It occurs in many disjunct SDTF sites
+in South America, including small patches of seasonal forests within the Pantanal and in Cerro Léon hills,
+which is surrounded by Chaco vegetation, but we could find no evidence of it occurring in other vegetation of
+the continent as cerrado sensu stricto, Chaco or rain forests. Probable new sites to collect this plant are the
+limestone outcrop dry forests within Cerrado and Bolivian Andean dry valleys. If this species is collected in
+these sites, it will strengthen even more the plant as a Pleistocenic Arc distribution model.
+
+Conclusion
+Gymnanthes boticario is an example of reasonably common and well collected plant that took a long time to
+be recognized as new. This illustrates the fact that the plants remaining to be described are not necessarily
+narrow endemics or plants from remote and unpopulated areas. The plant occurs is in readily accessible places
+and had been available for many years in different herbaria prior to recognition, showing the need for more
+specialist work on Caatinga plants.
+Regarding the plant’s distribution, it can now be listed among the many cases of dry formation specialists
+recorded separately from distant patches of SDTFs of South America (Prado & Gibbs 1993, Taylor & Zappi
+2004, Lewis et al. 2006). We make the first record of Gymnanthes botcario in Bolivia and Paraguay and bring
+to light collections of it in slope forests of hills (cerros) in Pantanal, also making the first record for the state of
+Mato Grosso do Sul, Brazil. Further collecting in the limestone dry forests within Cerrado and in the Dry
+Andean Bolivian Valleys are predicted to yield new records of the plant.
+Up to date G. boticario conforms well to the model proposed by the Pleistocenic Arc hypothesis, but this,
+of course, does not prove it. As highlighted by Mayle (2006), long distance dispersal could also explain this
+pattern, although many repeated disjunct patterns (Prado & Gibbs 1993) makes this unlikely. Maybe a more
+complex model will be needed for understanding historical vegetation shifts in South America, taking into
+account both vegetational shifts and possible long distance dispersal events. Genetic comparisons between
+populations may be an interesting tool to address these questions and we suggest Gymnanthes boticario as a
+good candidate for future population genetic studies.
+
+Acknowledgements
+Luciana Oliveira thanks the Reflora Project (Historical Rescue and Virtual Herbarium for the Knowledge and
+Conservation of Brazilian Flora) that permitted the data interchange between Royal Botanic Gardens, Kew
+and Brazilian researchers. She also thanks the Conselho Nacional de Desenvolvimento Científico e
+Tecnológico (CNPq) for the PhD. grant and the Coordenação de Aperfeiçoamento de Pessoal de Nível
+Superior (Capes) for the international interchange grant awarded to her. M.F. Moro thanks the Fundação de
+Amparo à Pesquisa do Estado de São Paulo (Fapesp 2009/14266-7 and 2011/22498-5) for providing him a
+COLLECTION HISTORY & DISTRIBUTION OF GYMNANTHES BOTICARIO
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+• 11
+
+PhD. grant and an international interchange grant. We are grateful to Luciano Paganucci de Queiroz (State
+University of Feira de Santana), Domingos Benício Cardoso (State University of Feira de Santana), Ary
+Teixeira de Oliveira-Filho (Federal University of Minas Gerais), Darién E. Prado (National University of
+Rosario/CONICET), R. Toby Pennington (Royal Botanic Gardens, Edinburgh), Gwilym P. Lewis, Gill
+Challen and Raymond M. Harley (Royal Botanic Gardens, Kew), Arnildo Pott (Federal University of Mato
+Grosso do Sul), and Fernanda P.Werneck (Brigham Young University) for their kind attention in discussing
+some of the ideas expressed in this paper and providing more literature references and suggestions for
+improvement; we also thanks Alain Chautems and Lorenzo Ramella (Conservatoire et Jardin Botaniques de la
+Ville de Genève), Arnildo Pott (UFMS) and Maria Pena Chocarro (Natural History Museum, London) for
+helping us to locate collection points in the Bolivian/Paraguayan/Brazilian border. Lorenzo Ramella kindly
+provided us with a transcription of the field notes of Bernardi collections, what allowed us to determine that
+the “Paraguayan” collection made by him was in fact made in Brazil.
+
+References
+Bebber, D.P., Carine, M.A., Wood, J.R.I., Wortley, A.H., Harris, D.J., Prance, G.T., Davidse, G., Paige, J., Pennington,
+T.D., Robson, N.K.B. & Scotland, R.W. (2010) Herbaria are a major frontier for species discovery. Proceedings of
+the National Academy of Sciences of the United States of America 107: 22169–22171.
+http://dx.doi.org/10.1073/pnas.1011841108
+Cabrera, .L. & Willink, A. (1973) Biogeografia de America Latina. Secretaría General de la Organización de los Estados
+Americanos, Programa Regional de Desarrollo Científico y Tecnológico, Washington, pp. 122.
+Carneiro-Torres, D.S., Cordeiro, I., Giulietti, A.M., Berry, P.E. & Riina, R. (2011). Three new species of Croton
+(Euphorbiaceae s.s.) from the Brazilian Caatinga. Brittonia 63: 122–132.
+http://dx.doi.org/10.1007/s12228-010-9145-1
+Carvalho, F.A. & Felfili, J.M. (2011) Variações temporais na comunidade arbórea de uma floresta decidual sobre
+afloramentos calcários no Brasil Central: composição, estrutura e diversidade florística. Acta Botanica Brasilica 25:
+203–214.
+http://dx.doi.org/10.1590/S0102-33062011000100024
+Castelletti, C.H.M., Santos, A.M.M., Tabarelli, M. & Silva, J.M.C. da (2003) Quanto ainda resta da Caatinga? Uma
+estimativa preliminar. In: Leal, I.R., Tabarelli, M. & Silva, J.M.C. da (eds.) Ecologia e Conservação da Caatinga.
+Editora da Universidade Federal de Pernambuco, Recife, pp. 719–734.
+Damasceno Júnior, G. A., Pott, A., Pott, V.J. & Silva, J.S.V. (2009) Florestas estacionais no Pantanal, considerações
+florísticas e subsídios para conservação. Geografia 34: 697–707.
+Dirzo, R., Young, H.S., Mooney, H.A. & Ceballos, G. (2011) Seasonally Dry Tropical Forests: ecology and
+conservation. Island Press, Washington, pp. 408.
+http://dx.doi.org/10.5822/978-1-61091-021-7
+Esser, H.-J. (2012) The tribe Hippomaneae (Euphorbiaceae) in Brazil. Rodriguésia 63(1): 209–225.
+http://dx.doi.org/10.1590/S2175-78602012000100013
+Esser, H.-J., Lucena, M.F. de A. & Alves, M. (2010) A new species of Gymnanthes (Euphorbiaceae) from northeastern
+Brazil. Willdenowia 40: 345–349.
+http://dx.doi.org/10.3372/wi.40.40213
+Felfili, J.M., Nascimento, A.R.T., Fagg, C.W. & Meirelles, E.M. (2007) Floristic composition and community structure
+of a seasonally deciduous forest on limestone outcrops in Central Brazil. Revista Brasileira de Botânica 30: 611–
+621.
+http://dx.doi.org/10.1590/S0100-84042007000400007
+Forzza, R.C., Baumgratz, J.F.A., Bicudo, C.E.M., et al. (2010). Catálogo de plantas e fungos do Brasil - Vols I & II.
+Jardim Botânico do Rio de Janeiro, Rio de Janeiro, pp. 1699.
+Gillet, J.B. (1980) Commiphora (Burseraceae) in South America and its relationship to Bursera. Kew Bulletin 34(3): 582.
+Giulietti, A.M., Conceição, A., & Queiroz, L.P. de (2006) Diversidade e caracterização das fanerógamas do semi-árido
+brasileiro. Associação Plantas do Nordeste, Recife, pp. 488.
+Harley, R.M., Giulietti, A.M., Dos Santos, F.A.R. (2003) Holoregmia Nees, a recently rediscovered genus of
+Martyniaceae from Bahia, Brazil. Kew Bulletin 58: 205–212.
+http://dx.doi.org/10.2307/4119363
+IBGE [Instituto Brasileiro de Geografia e Estatística]. (2004) Mapa de biomas do Brasil: primeira aproximação (scale 1:
+5000000). IBGE, Rio de Janeiro.
+
+12 •
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+OLIVEIRA ET AL.
+
+Index Herbariorum. (2012) Index Herbariorum. New York Botanical Garden. Available at http://sweetgum.nybg.org/ih/
+(accessed 13 December 2012).
+Joppa, L.N., Roberts, D.L. & Pimm, S.L. (2011) How many species of flowering plants are there? Proceedings of The
+Royal Society, series B 278: 554–559.
+http://dx.doi.org/10.1098/rspb.2010.1004
+Lewis, G.P., Klitgaard, B.B. & Schrire, B.D. (2006) Seasonally dry forests of southern Ecuador in a continental context:
+insights from legumes. In: Pennington, R.T., Lewis, G.P. & Ratter, J.A. (eds.), Neotropical Savannas and Seasonally
+Dry Forests: Plant Diversity, Biogeography, and Conservation. CRC Press, Boca Raton, pp. 281–314.
+http://dx.doi.org/10.1201/9781420004496.ch12
+Lima, M.S. De, Damasceno-Júnior, G.A. & Tanaka, M.O. (2010) Aspectos estruturais da comunidade arbórea em
+remanescentes de floresta estacional decidual, em Corumb, MS, Brasil. Revista Brasileira de Botânica 33: 437–453.
+http://dx.doi.org/10.1590/S0100-84042010000300007
+Linares-Palomino, R., Oliveira-Filho, A.T. & Pennington, R.T. (2011) Neotropical seasonally dry forests: diversity,
+endemism, and biogeography of woody plants. In: Seasonally Dry Tropical Forests: Ecology and Conservation.
+Island Press, Washington, pp. 3–21.
+Lucena, M. de F. de A. & Alves, M. (2010) Notas taxonômicas para Euphorbiaceae s.l. do Nordeste do Brasil. Hoehnea
+37: 71–85.
+Martius, C.F.P. von (1824) Euphorbiaceae. In: Nova Genera et Species Plantarum 1. Typis Lindaueri, Munich, pp 60.
+Mayle, F.E. (2006) The Late Quaternary Biogeographical History of South American Seasonally Dry Tropical Forests:
+Insights from Palaeo-Ecological Data. In: Pennington, R.T., Lewis, G.P. & Ratter, J.A. (eds.), Neotropical Savannas
+and Seasonally Dry Forests: Plant Diversity, Biogeography, and Conservation. CRC Press, Boca Raton, pp. 395–
+416.
+http://dx.doi.org/10.1201/9781420004496.ch17
+Olson, D.M., Dinerstein, E., Wikramanayake, E.D., Burgess, N.D., Powell, G.V.N., Underwood, E.C., D’Amico, J.A.,
+Itoua, I., Strand, H.E., Morrison, J.C., Loucks, C.J., Allnutt, T.F., Ricketts, T.H., Kura, Y., Lamoreux, J.F.,
+Wettengel, W.W., Hedao, P. & Kassem, K.R. (2001) Terrestrial ecoregions of the world: a new map of life on Earth.
+BioScience 51: 933–938.
+http://dx.doi.org/10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2
+Pennington, R.T., Lewis, G.P. & Ratter, J.A. (2006a) An overview of the plant diversity, biogeography and conservation
+of neotropical savannas and seasonally dry forests. In: Pennington, R.T., Lewis, G.P. & Ratter, J.A. (eds.),
+Neotropical Savannas and Seasonally Dry Forests: Plant Diversity, Biogeography, and Conservation. CRC Press,
+Boca Raton, pp. 1–29.
+http://dx.doi.org/10.1201/9781420004496.ch1
+Pennington, R.T., Lewis, G.P. & Ratter, J.A. (2006b) Neotropical savannas and seasonally dry forests: plant diversity,
+biogeography, and conservation. CRC Press, Boca Raton, pp. 467.
+http://dx.doi.org/10.1201/9781420004496
+Pennington, R.T., Prado, D.E. & Pendry, C.A. (2000) Neotropical seasonally dry forests and Quaternary vegetation
+changes. Journal of Biogeography 27: 261–273.
+http://dx.doi.org/10.1046/j.1365-2699.2000.00397.x
+Pimm, S.L., Jenkins, C.N., Joppa, L.N., Roberts, D.L. & Russell, G.J. (2010) How Many Endangered Species Remain to
+be Discovered in Brazil? Natureza & Conservação 8: 71–77.
+http://dx.doi.org/10.4322/natcon.00801011
+Prado, D.E. (2000) Seasonally dry forests of tropical South America: from forgotten ecosystems to a new
+phytogeographic unit. Edinburgh Journal of Botany 57: 437–461.
+http://dx.doi.org/10.1017/S096042860000041X
+Prado, D.E. (2003) As caatingas da América do Sul. In: Leal, I.R., Tabarelli, M. & Silva, J.M.C. da (eds.), Ecologia e
+Conservação da Caatinga. Universidade Federal de Pernambuco, Recife, pp. 3–74.
+Prado, D.E. & Gibbs, P.E. (1993) Patterns of species distributions in the Dry Seasonal Forests of South America. Annals
+of the Missouri Botanical Garden 80: 902–927.
+http://dx.doi.org/10.2307/2399937
+Prance, G.T. & Schaller, G.B. (1982) Preliminary Study of Some Vegetation Types of the Pantanal, Mato Grosso, Brazil.
+Brittonia 34: 228–251.
+http://dx.doi.org/10.2307/2806383
+Queiroz, L.P. de (2009) Leguminosas da Caatinga. Editora da Universidade Estadual de Feira de Santana, Feira de
+Santana, pp. 443.
+Ribeiro, J.F. & Walter, B.M.T. (2008) As principais fitofisionomias do bioma cerrado, in: Sano, S.M., Almeida, S.P. de &
+Ribeiro, J.F. (eds.), Cerrado: Ecologia e Flora. Embrapa, Brasília, pp. 151–212.
+Rizzini, C.T. (1979). Tratado de fitogeografia do Brasil - Vol II. Hucitec. Universidade de São Paulo, São Paulo, pp. 374
+
+COLLECTION HISTORY & DISTRIBUTION OF GYMNANTHES BOTICARIO
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+• 13
+
+Sampaio, E.V.S.B., Giulietti, A.M., Virgílio, J. & Gamarra-Rojas, C.F.L. (2002) Vegetação e flora da caatinga.
+Associação Plantas do Nordeste, Recife, pp. 176.
+Sarmiento, G. (1975) The Dry Plant Formations of South America and their floristic connections. Journal of
+Biogeography 2: 233–251.
+http://dx.doi.org/10.2307/3037998
+Schumann, K.M. (1886) Euphorbiaceae. In: Martius, C.F.P. & Eichler, A.W. (eds.) Flora Brasiliensis 12(3). Frid.
+Fleischer, Leipzig, pp. 237.
+Secco, R. de S., Cordeiro, I., Senna-Vale, L., Sales, M.F, Lima, L.R., Medeiros, D., Haiad, B.S., Oliveira, A.S., Caruzo,
+M.B.S, Carneiro-Torres, D. & Bigio, N.C. (2012) An overview of recent taxonomic studies on Euphorbiaceae s.l. in
+Brazil. Rodriguésia 63(1): 227–242.
+http://dx.doi.org/10.1590/S2175-78602012000100014
+Swartz, O. (1788) Nova Genera et Species Plantarum seu Prodromus. Holmiae, Upsaliae & Aboae, Upsala, pp. 6.
+Tabarelli, M. & Vicente, A. (2002) Lacunas de conhecimento sobre as plantas lenhosas da Caatinga. In: Sampaio,
+E.V.D.S.B., Giulietti, A.M., Virgílio, J. & Gamarra-Rojas, C.F.L. (eds.), Vegetação e flora da Caatinga. Associação
+Plantas do Nordeste, Recife, pp. 24–40.
+Taylor, N.P. & Zappi, D. (2004) Cacti of Eastern Brazil. Royal Botanic Gardens, Kew, London, pp. 499.
+Velloso, A.L., Sampaio, E.V.S.B. & Pareyn, F.G.C. (2002) Ecorregiões propostas para o bioma caatinga. Associação
+Plantas do Nordeste, The Nature Conservancy do Brasil, Recife, pp. 75.
+Werneck, F.P., Costa, G.C., Colli, G.R., Prado, D.E. & Sites Jr, J.W. (2011) Revisiting the historical distribution of
+seasonally dry tropical forests: new insights based on palaeodistribution modelling and palynological evidence.
+Global Ecology and Biogeography 20: 272–288.
+http://dx.doi.org/10.1111/j.1466-8238.2010.00596.x
+
+14 •
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+OLIVEIRA ET AL.
+
+Appendix—specimens examined
+Gymnanthes boticario: BOLIVIA. Santa Cruz: Chiquitos, 7 km de San Jose em la salida de Taperas a
+Roboré, 10 November 2007, Wood et al. 23844 (K, USZ); Nascente del río Santo Corazon, 7 km ao N de
+Santo Corazon, 26 April 1997, Fuentes et al. 1811 (MO). BRAZIL. Bahia: Abaíra, Estrada para Catolés, ca
+14,5 Km da rodovia, 3 February 2005, Paula-Souza et al. 5374 (ESA); Mendonça de Daniel Abreu, 12
+January 1994, Ganev 2811 (HUEFS); Estrada Catolés-Ribeirão, próximo ao Mendonça, ca 3 Km de Catolés,
+24 October 1992, Ganev 1336 (HUEFS, K). Barra do Mendes, Povoado São Bento, 25 October 2009, Melo et
+al. 6849 (ALCB, HUEFS); Estrada para Canarina, localidade Carretão, 15 December 2009, Melo et al. 7499
+(ALCB, HUEFS); Serra do Escalavrado, 20 February 2001, Moraes 200 (HUEFS). Brotas de Macaúbas, 3
+October 2005, Melo et al. 4091 (HUEFS). Buritirama, 6 April 1978, Assis 147 (RB). Caetité, São Francisco,
+caminho para Lagoa Real, 8 February 1997, Saar et al. 5245 (ALCB, CEPLAC, IBGE, K, UEFS, USP).
+Formosa do Rio Preto, Fazenda Santa Luzia, 25 February 2005, Xavier & Guedes 330 (ALCB). Gentio do
+Ouro, Cerro, 6 October 2002, Jost et al. 560 (HRB, HUEFS); Cerro, 5 May 2002, Tourinho et al. 23 (HUEFS,
+HRB); Curralinho, Sítio Coqueiro, 26 May 2009, Oliveira et al. 4211 (UNIVASF). Irecê/Barra do Mendes,
+Barra dos Mendes divisa com Ipupiara, 25 October 2009, Guedes et al. 16119 (ALCB, HUEFS). Sento Sé, 29
+April 1981, Orlandi 386 (RB); Alta do tabuleiro, 27 January 2010, Oliveira & Maciel 4684 (UNIVASF).
+Umburanas, Barra dos Alegres, Caminho para riacho da Barra, 28 January 2010, Fontana et al. 6420
+(UNIVASF); Bela Vista, Estrada Delfino/Sento Sé, Morro dos Cactos, 25 March 2004, Moraes 659 (HUEFS);
+Estrada Delfino-Mimoso de Minas, 20 Km de Delfino, 8 March 1997, Giulietti et al. 6127 (ALCB, CEPEC,
+HUEFS, K); Delfino (município de Umburanas), Rio Salitre, 23 May 2008, Melo et al. 5715 (HUEFS);
+encosta e vale do rio dos Morins, afluente do rio Salitre, 23 May 2008, Melo et al. 5711 (HUEFS); Estrada
+Delfino-Mimoso de Minas, 20 Km de Delfino, 8 March 1997, Harley et al. 6123 (ALCB, CEPEC, IBGE, K,
+UEFS, USP); Barra dos Alegres, caminho para o Riacho da Barra, 28 January 2010, Carvalho-Sobrinho et al.
+2619 (UNIVASF). 3 October 2005, Melo et al. 4093 (HUEFS). Ceará: Aiuaba, Estação Ecológica, 25 June
+1982, Viana s.n. (EAC); Estação Ecológica de Aiuaba, 25 January 2005, Lemos & Matias 289 (HUEFS, K)
+Flamengo, 7 January 1997, Andrade et al. 273 (EAC); Flamengo, 11 December 1997, Andrade et al. 250
+(PEUFR). Brejo Santo, Estrada para DNOCS, 3 February 2009, Carvalho-Sobrinho et al. 1870 (UNIVASF,
+UFP); Reservatório Porcos, 27 April 2009, Oliveira et al. 4012 (UNIVASF). Crateús, RPPN Serra das Almas,
+18 July 2001, Bruno & Sobrinho 276 (EAC, PEUFR); Serra das Almas, s.d., Lima-Verde 1199 (EAC); RPPN
+Serra das Almas, 6 April 2001, Bruno & Sobrinho 6 (EAC); RPPN Serra das Almas, 7 May 2003, Costa 118
+(EAC); RPPN Serra das Almas, 5 May 2003, Costa 12 (EAC); RPPN Serra das Almas, 8 March 2003, Costa
+42 (EAC, UFRN); RPPN Serra das Almas, 9 May 2003, Costa 294 (EAC); RPPN Serra das Almas, 6
+September 2001, Bruno & Sobrinho 8 (EAC, UFRN); Serra das Almas, s.d., Lima-Verde 1033 (EAC); Serra
+das Almas, s.d., Lima-Verde 965 (EAC); Serra das Almas, 27 February 1995, Lima 27 (EAC); Serra das
+Almas, sítio Gameleira região Centro-Sul, 8 February 2008, Silveira s.n. (EAC, HUEFS). Independência,
+Chapada do Angical, 13 May 1983, Angélica s.n. (EAC). Mauriti, Povoado Poço, aqueduto do Boi, 19 May
+2010, Oliveira 4901 (UNIVASF); Santo Antônio, 27 April 2009, Oliveira 3998 (UNIVASF). Novo Oriente,
+Baixa Fria, Serra da Ibiapaba, 9 March 1991, Araújo 376 (EAC, PEUFR); Planalto da Ibiapaba, 3 August
+1990, Araújo 150 (EAC, IPA, PEUFR). Ubajara, Planalto da Ibiapaba, 5 January 1995, Araújo 1078 (EAC);
+Miudinho, Planalto da Ibiapaba, 30 July 1990, Araújo 112 (EAC, IPA); Chapada da Ibiapaba, entre Ubajara e
+cachoeira, 29 November 1990, Fernandes et al. s.n. (EAC); Entre São José de Belmonte e Jati, 13 May 1971,
+Heringer et al. 737 (ESA, IPA, RB, UB). Mato Grosso do Sul: Cerro Pedrera, Rio Navileque, 50-60 Km N de
+Fuerte Olimpio, Alto Paraguai, 30 March 1980, Bernadi 20246 (G) [By mistake reported as Paraguay, but
+almost certainly collected in Brazil, as Navileque river in completely inside Brazilian territory, but not so far
+from Paraguay. Apparently the collector entered Brazilian territory without noticing]; Acorizal, Rio Paraguai,
+11 June 1979, Prance et al. 26151 (CEN) [The Mato Grosso was split in two states in 1979. Prance collected
+in Acorizal farm, in Corumbá municipality, in an area now in Mato Grosso do Sul state]. Minas Gerais:
+Januária, 16 November 1980, O. Filho 85 (HRB). Paraíba: Araruna, Parque Estadual da Pedra da Boca,
+COLLECTION HISTORY & DISTRIBUTION OF GYMNANTHES BOTICARIO
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+• 15
+
+subida para a Pedra da Boca, 9 December 2003, Pessoa & Lima 89 (HUEFS, IPA, JPB); Parque Estadual da
+Pedra da Boca, subida para a Pedra da Boca, 9 December 2003, Pessoa & Lima 84 (IPA). Junco do Seridó, 21
+February 1999, Schlindwein 927 (JPB). Monteiro, Serra do Cruzeiro, 21 April 2010, Oliveira & Silva 4843
+(UNIVASF); Fazenda Olho d'água dos Silva, 13 May 2009, Carvalho-Sobrinho et al. 2202 (UNIVASF).
+Pernambuco: Araripina, Chapada do Araripe, Estação Experimental IPA, 8 December 2008, Cardoso et al.
+2366 (HUEFS). Betânia, 4 April 2001, Gomes 811 (PEUFR); Serra do Catolé, Sítio Catolé (08°13'53,4''S
+38°07'07.2'W' 635m) 21 May 2012, Oliveira & Laurênio 211; Serra dos Arrombados, na subida da serra, 24
+May 1971, Heringer et al. 883 (IPA, RB, UB); Betânia/Floresta, Fazenda Rabeca, 8 April 2001, Costa et al.
+241 (PEUFR). Brejo da Madre de Deus, Bituri, Serra da Piedade, 15 June 1973, Andrade-Lima 7395 (IPA).
+Mirandiba, Serrotinho, 9 February 2007, Lucena et al. 1679 (M, UFP); 19 July 2008, Pinheiro 1075 (UFP); 19
+July 2008, Pinheiro 1084 (UFP); Fazenda Areias, 31 May 2006, Lucena et al. 1461 (UFP). São José do
+Belmonte, entre as localidades de Agreste e Mandante, 16 May 2001, Laurênio et al. 1831 (PEUFR); entre as
+localidades de Agreste e Mandante, 16 May 2001, Laurênio et al. 1822 (PEUFR). Piauí: Caracol, Estrada
+para a Serra das Confusões, 19 November 1981, Fernandes & Nunes s.n. (EAC); PARNA Serra das
+Confusões, Sobrado, 9 December 2011, Siqueira-Filho et al. 2663 (UNIVASF); PARNA Serra das Confusões,
+trecho das Andorinhas, 9 April 2009, Martinelli et al. 16323 (RB, SP); Entre as serras das Confusões e
+Caracol, 20 November 1981, Rezende s.n. (TEPB). Coronel José Dias, PARNA Serra da Capivara, 24 April
+2007, Lucena & Silva 1693 (M, UFP); PARNA Serra da Capivara, próximo a entrada principal da guarita, 24
+April 2007, Lucena & Silva 1696 (K, M, MO, SP, UFP). Eliseu Martins, Núcleo Colonial do INCRA, Pico do
+Gurguéia, 14 December 1977, Fernandes & Matos s.n. (EAC, UEC). Pimenteiras, Planalto da Ibiapaba, 24
+May 1996, Araújo 1247 (EAC). Rio Grande do Norte: Cel. João Pessoa, Mata Redonda, 19 July 1991,
+Figueiredo et al. 396 (EAC, TEPB). Venha Ver, Serra de São José, 4 August 2010, Roque 835 (UFRN).
+PARAGUAY. Alto Paraguay: Proposed Biosphere Reserve “Gran Chaco”: Cerro Léon, dwarf forest on
+rocks, 10 February 2002, Zardini & Rivas 58529 (M).
+
+16 •
+
+Phytotaxa 97 (1) © 2013 Magnolia Press
+
+OLIVEIRA ET AL.
+
+

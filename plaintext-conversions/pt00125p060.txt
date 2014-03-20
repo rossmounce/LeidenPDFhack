@@ -1,0 +1,78 @@
+Phytotaxa 125 (1): 59–60 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.125.1.9
+
+Corrections to Phytotaxa 112: Update on the systematics of Benstonea
+(Pandanaceae)
+MARTIN W. CALLMANDER1, 2 & SVEN BUERKI3
+1
+
+Missouri Botanical Garden, P.O. Box 299, St. Louis, MO 63166-0299, U.S.A.
+Conservatoire et Jardin botaniques de la ville de Genève, ch. de l’Impératrice 1, case postale 60, 1292 Chambésy, Switzerland.
+E-mail: martin.callmander@mobot.org
+3
+Jodrell Laboratory, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3DS, U.K.
+2
+
+After the publication of our Update on the systematics of Benstonea (Pandanaceae): When a visionary
+taxonomist foresees phylogenetic relationships (Callmander, Booth, Beentje & Buerki 2013), an error was
+brought to our attention:
+
+Correcting an omission in citing the basionym of a combination made in Benstonea
+On page 59, we attempted to provide a new combination for Pandanus ornithocephalus Stone (1978: 64) in
+Benstonea Callmander & Buerki (in Callmander et al. 2012: 328). When proposing the new combination B.
+ornithocephala (B.C. Stone) Callm. & Buerki, comb. nov., the author of the basionym was omitted from the
+basionym reference and according to Art. 41.5 of the ICN (McNeill et al., 2012), a new combination is not
+validly published: “unless its basionym or replaced synonym is clearly indicated and a full and direct
+reference given to its author and place of valid publication”. In our case, there is only one 1978 reference in
+the bibliography and we can argue that there is no ambiguity because the author of the basionym is cited in the
+protologue and that the combination is therefore validly published. We nevertheless prefer to correct this error
+here by citing a full and complete reference to the basionym to avoid further confusion:
+
+Benstonea ornithocephala (B.C. Stone) Callm. & Buerki, comb. nov.
+Basionym: Pandanus ornithocephalus Stone (1978: 64). Type:—INDONESIA [NEW GUINEA]. West Papua Prov.:
+Vogelkop Peninsula [Kepala Burung], Skendi (N of Teminaboean), c. 100 m, 21 May 1958, fr., Versteegh BW7474
+(holotype, L [L0050607]!)
+
+Acknowledgements
+The authors thanks Irina V. Belyaeva-Chamberlain for bringing this error to our attention and Katherine
+Challis for her help in this Note.
+
+References
+Callmander, M.W., Lowry II, P.P., Forest, F., Devey, D.S., Beentje, H. & Buerki, S. (2012) Benstonea Callm. & Buerki
+(Pandanaceae): characterization, circumscription, and distribution of a new genus of screw-pines, with a synopsis of
+accepted species. Candollea 67: 323–345.
+Callmander, M.W., Booth, T.J., Beentje, H. & Buerki, S. (2013) Update on the systematics of Benstonea (Pandanaceae):
+when a visionary taxonomist foresees phylogenetic relationships. Phytotaxa 112: 57–60.
+
+Accepted by William J. Baker: 29 Jul. 2013; published: 21 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+59
+
+http://dx.doi.org/10.11646/phytotaxa.112.2.4
+Mcneill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S.,
+Marhold, K., Prado, J., Prud’homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (eds.) (2012)
+International Code of Nomenclature for algae, fungi, and plants (Melbourne Code) adopted by the Eighteenth
+International Botanical Congress Melbourne, Australia, July 2011. A.R.G. Gantner Verlag, Ruggell, Liechtenstein
+[Regnum Vegetabile 154].
+Stone, B.C. (1978) Revisio Pandanacearum, Part I. Pandanus subgenera Coronata and Acrostigma. Flora Malesiana
+precursores. Federation Museums Journal, new series 23: 1–74.
+
+60 •
+
+Phytotaxa 125 (1) © 2013 Magnolia Press
+
+CALLMANDER & UERKI
+
+

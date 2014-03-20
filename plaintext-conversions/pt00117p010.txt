@@ -1,0 +1,589 @@
+Phytotaxa 117 (1): 1–10 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.117.1.1
+
+Lectotypification, emended description and distribution of Planothidium
+distinctum (Achnanthidiaceae, Bacillariophyceae)
+KRISZTINA BUCZKÓ1*, AGATA Z. WOJTAL2 & ENIK K. MAGYARI3
+
+Ő
+
+1
+
+Department of Botany, Hungarian Natural History Museum, Könyves Kálmán krt. 40. H-1476 Budapest, Hungary
+(krisztina@buczko.eu)
+2
+Department of Phycology, W. Szafer Institute of Botany, Polish Academy of Sciences Lubicz 46, 31-512 Kraków, Poland
+3
+Research Group for Paleontology, Hungarian Academy of Sciences - Hungarian Natural History Museum, Budapest, Pázmány Péter
+sétány. 1/C Hungary
+*author for correspondence
+
+Abstract
+The rare boreo-alpine, oligotraphenic diatom Planothidium distinctum (= Achnanthes distincta) was first described from
+the western Alps in 1954. Achnanthes hirta, a species described in 1970 from the Pyrenees, is regarded as a heterotypic
+synonym of Planothidium distinctum but almost all morphological details of P. distinctum are known from the type
+material of Achnanthes hirta. On the basis of reinvestigation of original samples typification and emended description of
+P. distinctum were carried out by means of LM and SEM. This study extends the distribution of P. distinctum to the
+Carpathians where occasional valves were found in the lateglacial (ca 15,000–14,000 cal yr BP) lacustrine sediment of a
+mountain lake (Retezat Mts, Southern Carpathians, Romania).
+Key words: Achnanthes, Carpathians, oligotrophy, paleolimnology, Planothidium, Retezat Mountains, taxonomy
+
+Introduction
+Planothidium distinctum (Messikommer) Lange-Bertalot (1999: 281) was first described by Messikommer as
+Achnanthes distincta (Messikommer 1954: 32), who found it in three samples collected in the western part of
+the Alps (Urner Reusstales, Switzerland) at two localities, though not in any abundance. The three samples
+(material squeezed from mosses overgrowing rocks in an outflow from “Lauteren Seeli”) were included in the
+species protologue, along with a Latin diagnosis and two drawings illustrating raphe- and rapheless valves
+(Messikommer 1954: 32, pl. 1, figs 2a, 2b, reproduced here as Figs 1, 2). Since the designation of type
+material was not obligatory before 1958 (Jahn & Kusber 2009, McNeil et al. 2012), the description of
+Achnanthes distincta is valid.
+Achnanthes hirta Carter (1970: 609) was described from material collected by J. Broadhead during the
+summer of 1966 and 1967 in Andorra (Carter 1970, Williams & Reid 2002). A detailed description of the
+“well defined form” (Carter 1970: 609) included drawings of both the raphe and rapheless valves (Carter
+1970: pl. 1, figs 10, 11, reproduced here as Figs 3, 4). A holotype (BM 77780) was designated from “Sample
+No. 2 from a ditch near Llorts” (Carter 1970, Williams & Reid 2002).
+The first micrographs of Achnanthes hirta were published by Lange-Bertalot and Krammer in their
+comprehensive monograph on Achnanthes (Lange-Bertalot & Krammer 1989: Pl. 31, figs 2, 3; pl. 40, figs 10–
+17). The only remark made by Lange-Bertalot and Krammer on the morphology of A. hirta refers to its striae
+structure, which is constructed of three rows of areolae near the valve edge, reducing to two rows towards the
+axial area (Lange-Bertalot & Krammer 1989: 65). Their description of A. hirta is accompanied by twelve light
+microscope (LM) and two scanning electron microscope (SEM) images. Four of the LM pictures were taken
+Accepted by David M. Williams: 21 June 2013; published: 15 July 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+1
+
+from type material (BM 77780, Lange-Bertalot & Krammer 1989: pl. 40, figs 10, 10’, 11, 12); two images are
+of specimens from the USA, appended with a reference to Achnanthes stewartii (Patrick 1945: 169) (LangeBertalot & Krammer 1989: pl. 40, figs 13, 13’); one image is from Iceland (Lange-Bertalot & Krammer 1989:
+pl. 40, fig.14); and four images are from the Alps (Lange-Bertalot & Krammer 1989: pl. 40, figs 15–17). The
+SEM illustrations (Lange-Bertalot & Krammer 1989: pl. 31, figs 3, 4) show only the external view of a
+rapheless valve, which most probably originated from the type material, indicated in caption as “Leg. J.
+Carter”.
+According to Krammer and Lange-Bertalot (1991: 32), Achnanthes hirta is a synonym of A. distincta, the
+latter having priority. Achnanthes distincta was illustrated, however, by type specimens of A. hirta (Krammer
+& Lange-Bertalot 1991: Plate 18: 1–4) and two valves from the Alps, of unknown origin (Krammer & LangeBertalot 1991: 18, figs 5, 6).
+Later, Achnanthes distincta was invalidly transferred to the genus Achnantheiopsis Lange-Bertalot (1997:
+200), but eventually transferred to Planothidium (Lange-Bertalot 1999: 281) where is currently resides.
+Recently, a few valves identified as Planothidium distinctum were found during an on-going
+paleolimnological survey carried out on a sediment core of Lake Lia in the Retezat Mountains, South
+Carpathians, Romania. To clarifying the identity of this diatom, type material of Achnanthes distincta were
+studied by means of LM and SEM that resulted in the emended description herein.
+
+Material and Methods
+Material
+The following material was examined:
+1. Messikommer’s type material of Achnanthes distincta. The species was reported from three samples
+(Messikommer 1954): Nr. 2, Nr. 4 and Nr. 5. For sample Nr. 2 specimens were rare (“spärlich”); for
+samples Nr. 4 and Nr. 5 specimens were not so rare (“nicht selten”).
+Sample Nr. 4: ”Lauteres Seeli. Alt. 2250 m. Gewinnung von Ausquetschmaterial aus ins Gewässer
+hineinragenden Phanerogamenwurzeln am Kliff. Karbonathärte des Seewassers 2,5° (fr. H.), pH 6,9–7,0.
+Entnahmedatum wie oben, aber 14h15“.
+Sample Nr. 5. “Dito. Entnahme von Grundschlammaterial. Entnahmededingungen wie oben“.
+A small, dried quantity of material from sample Nr. 4 and Nr. 5 donated to BP (Hungarian Natural History
+Museum, Budapest) from Z (Universität Zürich, Institut für Systematische Botanik, Messikommer
+collection). Samples numbered: BP 2013/18 and BP 2013/19, slides BP 2208 and BP 2215. a
+2. Lake Lia, core samples between 748 and 721 cm: Material and permanent slides BP 2012/275– 2012/289.
+Site description: Lake Lia is a shallow mountain lake (max. water–depth 4.3 meter, volume ca. 16,000 m3,
+perimeter 512 m) with a surface area of 1.3 ha (Onciu & Radu 2006, Straškrábová et al. 2006) in the Retezat
+Mountains, South Carpathians, Romania (45°35'30"N, 22°87'87"E). The triangle-shaped Lake Lia is the
+lowest (1910 m a.s.l.) amongst the lakes of the Bucura cirque. The lake conductivity is low (13 µS cm-1);
+alkalinity is 36 eq l-1; dissolved organic carbon (DOC) 0.61 mg l-1, dissolved nitrogen 335 g l-1, dissolved
+phosphorous 3.8 g l-1. (Straškrábová et al. 2006). The pH varies between 6.4–6.7 (János Korponai pers.
+com.)
+
+μ
+
+μ
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+μ
+
+2 •
+
+BUCZKÓ ET AL.
+
+FIGURES 1–17: Original drawings of Planothidium distinctum and Achnanthes hirta, LM and SEM images from specimens
+in Messikommer’s sample. Fig 5, designated here as lectotype (BP 2210). Figs 1, 2. Reproduction of Messikommer’s drawings
+(1954: 32, pl. 1, figs 2a, 2b). Figs 3, 4. Reproduction of Carter’s drawings of Achnanthes hirta (Carter 1970: 609, pl. 1, figs 10,
+11). Figs 5, 7–9. Raphe valves in LM. Figs 6, 10. Rapheless valve of Planothidium distinctum in LM. Scale bar = 10 μm. Figs
+5 and 6 are of the same specimen each at a different focus. Fig. 11. External view of raphid valve, note the hardly expanded
+proximal raphe endings. Fig. 12. External view of rapheless valve, note three rows of areolae becoming biseriate towards axial
+area. Fig. 13. Internal view of rapheless valve. Fig. 14. Whole frustule, external view of rapheless valve. Fig. 15. Internal view
+of raphid valve. Fig. 16. Details of internal view of valve with poroids on internal edge of mantle; number is exactly 3 x number
+of striae. Fig. 17. Internal view of rapheless valve with poroids. Note slightly curved valve end. Scale bars = 5 μm for figs 11–
+15, 2 μm for figs 16, 17.
+PLANOTHIDIUM DISTINCTUM
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 3
+
+Methods
+The 875-cm long sediment core was taken from Lake Lia with a modified Livingstone piston corer (7-cm
+diameter) in July 2008. The core was sub-sampled at every 2 cm for diatom analysis. For analyses of the
+siliceous algae, samples were prepared using standard digestion procedures (Battarbee 1986). Approximately
+350 valves were counted from each sample using a light microscope (LEICA DM LB2 with 100 HCX PLAN
+APO objective). The cleaned sample was air-dried on an aluminium stub, sputter-coated with gold-palladium
+and studied in a Hitachi S-26000N scanning electron microscope.
+Morphological terminology follows Hendey (1964), Barber & Haworth (1981) and Round et al. (1990).
+
+Taxonomic results
+Planothidium distinctum (Messik.) Lange-Bert. (1999: 281) emend. Buczkó, Wojtal & Magyari (Figs 5–17;
+Figs 19–32)
+Basionym: Achnanthes distincta Messikommer (1954: 32, plate 1, figs 2a, 2b)
+Synonyms: Achnantheiopsis distincta (Messik.) Lange-Bert. (1997: 206)
+Achnanthes hirta J.R. Carter (1970: 609, plate 1, figs 10, 11)
+Type:—SWITZERLAND: “Lauteres Seeli. Alt. 2250 m. Gewinnung von Ausquetschmaterial aus ins Gewässer
+hineinragenden Phanerogamenwurzeln am Kliff”; (BP slide 2210!, lectotype, designed here, illustrated in fig. 5;
+Messikommer’s original material sample Nr. 4, see above for further details; lectotype specimen located using
+England Finder H30/3 (Fig. 18) or at co-ordinates 30.8 and 108 with a Leica DM LB2 light microscope).
+
+FIGURE 18: Position of lectotype specimen of Planothidium distictum on BP 2210, England Finder H30/3.
+
+4 •
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+BUCZKÓ ET AL.
+
+FIGURES 19–32: Planothidium distinctum LM and SEM images of specimens from Lake Lia lacustrine sediment. Figs 19–
+20. LM of rapheless valves. Figs 21–28. LM of raphid valves. Fig. 29. External view of raphid valve. Note straight, simple
+raphe endings. Fig. 30. Internal view of raphe valve, note central raphe endings deflected in opposite directions. Fig. 31. Whole
+frustule, external view of rapheless valve. Valve and mantle, latter bears row of poroids with number exactly 3 x that of striae.
+Fig. 32. Internal view of rapheless valve. Scale bars = 10 µm for figs 19–28, 5 µm for figs 29–32.
+
+PLANOTHIDIUM DISTINCTUM
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 5
+
+Emended description of type material (Figs 5–17): Valves lanceolate with broadly protracted, rounded apices
+(Figs 5–10); valve length 18.3 ±1.4 μm (min =16.1 μm, max = 20.3 μm), width 7.2 ± 0.3 μm; (min = 5.8 μm
+max = 7.9 μm) (n = 18). Rapheless valve with very narrow with linear axial area. Central area small,
+transversely rectangular, asymmetrical (2–3 central striae usually slightly shortened). Striae radiate
+throughout valve, 12–14 in 10 μm. Raphe straight, filiform, terminal fissures turned in opposite directions.
+Axial area narrow, linear. Central area small, transversely rectangular asymmetrical. Striae radiate throughout
+valve, 15–16 in 10 μm. Areolae not resolvable in LM.
+In SEM: externally, terminal raphe fissures very slightly curved in opposite directions (Fig. 11). Proximal
+raphe endings straight, slightly expanded, (hardly ‘drop-like’) relatively distant from each other (Fig. 11).
+Distance between central pores on outer surface shorter than inner surface, 1.0–1.3 m and 1.5–1.6,
+respectively (Figs 11, 15). Mantle bears a row of poroids, exactly 3 x number of striae (Figs 11, 13, 16, 17).
+Internally, central raphe endings deflected in opposite directions. Transapical striae usually composed of two
+rows of alternating small, round areolae (42–46 in 10 m), sometimes three, becoming biseriate towards axial
+area (Fig. 12). In central area, 1–3 asymmetrically shortened striae present. Rapheless valves with narrow,
+linear axial area and narrow, transversely rectangular, asymmetrical central area of variable size, dependent on
+length shortened striae. Valve slightly curved in girdle view (Figs 11, 12, 15, 17).
+Notes:—Messikommer’s sample Nr. 4 contained a few valves of Planothidium distinctum, while none
+occurred in sample Nr. 5, hence the choice of lectotype. According to Messikommer (1954), the most frequent
+diatoms in this sample were Achnanthes austriaca var. helvetica Hustedt (1933: 385), Achnanthes linearis (W.
+Smith) Grunow in Cleve & Grunow (1880: 23), Cymbella ventricosa Kützing (1844: 80), Gomphonema
+intricatum var. pumilum Grunow (in Van Heurck 1880: pl. 24, figs 35, 36), Navicula schmassmannii Hustedt
+(1943: 400), and Nitzschia fonticola (Grunow) Grunow in Van Heurck (1881: pl. 69, fig.15–20).
+Description of material from Lake Lia, Retezat Mountains (Figs 19–32): Valve length 19.8 ±1.4 μm (min
+= 17.6 μm, max = 22.5 μm), width 7.6 ± 0.1 μm; (min = 7.2 μm, max = 8.3 μm) (n = 27). Striae are radiate
+throughout valve, 13–14 in 10 μm (n =27). In SEM, externally, terminal raphe fissures slightly curved in
+opposite directions (Fig. 29). Proximal raphe endings straight, simple, not expanded, relatively distant from
+each other (Fig. 11). Distance between central pores on outer surface shorter than inner surface, 1.0–1.3 m
+and 1.5–1.6, respectively (Figs 29, 30). Mantle bears a row of poroids, exactly 3 x number of striae (Figs 29–
+32). Internally, central raphe endings deflected in opposite directions (Fig. 30). Transapical striae always
+composed of two rows of alternating small, round areolae (42–46 in 10 m ). In central area, 1–3
+asymmetrically shortened striae present. Rapheless valves narrow, linear axial area and narrow, transversely
+rectangular, asymmetrical central area of variable size, dependent on length of shortened striae. Valve plain,
+not curved in girdle view.
+Notes:—Preservation of the valves was poor with several corroded forms detected. In the Lake Lia,
+Retezat Mountains material Planothidium distinctum co-occurred with Navicula digitulus Hustedt (1943:
+162), Staurosira venter (Ehrenberg) Grunow (1882: 139), Achnanthidium minutissimum (Kützing) Czarnecki
+(1994: 157), Diatoma mesodon (Ehrenberg) Kützing (1844: 47) and Diadesmis perpusilla (Grunow) D.G.
+Mann in Round, Crawford & Mann (1990: 666).
+
+μ
+
+μ
+
+μ
+
+μ
+
+Discussion
+These detailed morphological and morphometric studies reveal differences between the specimens found in
+the populations from type material and specimens found from the Lake Lia material. Namely, (1) dimensions
+(2) striae pattern (3) shape of central raphe endings, and (4) shape of valves in girdle view.
+(1) Dimensions: valves in the type material are noticeably smaller than in material from Lake Lia (Table
+1, fig. 33). In the protologue for Achnanthes disticta, Messikommer (1954) provided dimensions for one valve
+only, which was length 17.5 m , width 7.5 m . Further examination of specimens from type material
+extended these sizes: 16–20 m in length and 5.8–7.9 m in width (Table 1, fig. 33). The dimensions given in
+
+μ
+
+μ
+
+μ
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+μ
+
+6 •
+
+BUCZKÓ ET AL.
+
+Messikommer’s protologue (length 17.5 m , width 7.5 m ) are close to the mean population values.
+Specimens from the Retezat Mts. have larger valves, but the dimensions of the two populations overlap.
+
+μ
+
+μ
+
+FIGURE 33. Boxplots (a) of length and width of valves in type and Lake Lia populations, and length-width scatterplot (b) of
+Planothidium distinctum.
+
+(2) Striae morphology: The striae are always biseriate in the specimens from Lake Lia but, in some cases,
+multiseriate in specimens from type material. Occasionally three rows of areolae can be detected close to the
+valve edge that becomes biseriate towards the axial area. These features can be found in type material and
+were illustrated on valves from Andorra by Lange-Bertalot and Krammer (1989).
+(3) Shape of central raphe endings: The central pores are simple in specimens from Lake Lia, but
+expanded in the type material. Messikommer illustrated a large, symmetrical central area on the raphe valve,
+with well marked central pores, while specimens illustrated by Carter (1970), as well as valves from Lake Lia,
+have a small, asymmetrical central area and the central raphe ends are simple.
+(4) The shapes of valves in girdle view: All specimens from the Lake Lia population have valve that are
+not curved when seen in girdle view, while some slightly curved valves were found in specimens from the
+type population.
+Specimens from type material and from Lake Lia have prominent poroids on valve mantle, with exactly
+three times the number of striae. According to Round and Bukhtiyarova (1996), species in Planothidium have
+a valve mantle with rather an inconspicuous ring of mantle pores.
+Achnanthes stewartii, a species similar to Planothidium distinctum, according to Lange-Bertalot and
+Krammer (1989: 31), was described by Patrick for specimens from Lake Wallenpaupach, USA (Patrick 1945:
+169, Plate 2, figs 1–3). Morphological similarities between Achnanthes stewartii and A. distincta were noted
+by Krammer and Lange-Bertalot (1991, 2004: 32, 33) and A. stewartii was transferred to Planothidium as
+Planothidium stewartii (Patrick) Lange-Bertalot (in Krammer & Lange-Bertalot 2004: 437). Later
+Planothidium stewartii was transferred to Platessa (Potapova et al. 2012: 38) based on its raphe morphology,
+which, along with some other morphological features, clearly distinguishes it from Planothidium distinctum.
+Published records for P. distinctum began with specimens recorded from mountain areas: the Pyrenees,
+the Alps, Scandinavia, and the Rocky Mountains, USA. The specimens recorded in Lake Lia extend its
+occurrence to the Southern Carpathians in the late glacial period. Known records mainly concern lakes
+(Messikommer 1954, Carter 1970, Krammer & Lange-Bertalot 1991, Juggins 2001), although it is known
+from habitats threatened by temporal desiccation, such as ditches (Carter 1970), or rocks overgrown by
+mosses near lake outflow (Messikommer 1954). The tolerance of temporal water deficiency is also suggested
+by the abundant presence of Diadesmis perpusilla in the samples from Lake Lia.
+
+PLANOTHIDIUM DISTINCTUM
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 7
+
+TABLE 1. Morphological characters of Planothidium distinctum and Platessa stewartii RV = raphe valve; RL =
+rapheless valve; (*) = values after original description
+Taxon/
+morphological
+character
+
+Planothidium distinctum
+
+Platessa stewartii
+
+Data source
+
+published data from
+type population
+Alps by Messikommer (present study)
+
+Lake Lia
+(present study)
+
+published data of
+Achnanthes hirta
+
+published data
+
+valve length (µm)
+
+17.5
+
+16–20
+
+18–22
+
+16–22
+
+11–16
+
+valve width (µm)
+
+7.5
+
+5.8–7.9
+
+7.2–8.3
+
+6–8
+
+5.7–7.0
+
+valve outline
+
+rhombic-elliptic
+
+rhombic-elliptic
+
+lanceolate
+
+lanceolate
+
+elliptic
+
+valve apices
+
+rounded
+
+rounded
+
+rounded
+
+rounded
+
+rounded
+
+number of striae (in
+10 µm)
+
+13.0–13.5*
+RV: 14
+RL: 12–16
+
+15
+RV: 13–14
+RL: 14–16
+
+14
+RV: 13–14
+RL: 12–14
+
+14
+RV: 13–14
+RL: 14
+
+14–18*
+
+striation pattern
+
+radiate
+
+radiate
+
+radiate
+
+radiate
+
+radiate
+
+number of areolae
+(in 10 µm)
+
+unknown
+
+42-–46
+
+40
+
+c.a. 38–40
+
+36–44
+
+poroids on mantle
+
+unknown
+
+three poroids per
+striae
+
+three poroids
+per striae
+
+unknown
+
+corresponds to the
+number of striae
+
+striae structure
+
+unknown
+
+three rows of
+areolae becoming
+biseriate towards
+axial area
+
+biseriate
+
+three rows of
+areolae becoming
+biseriate towards
+axial area
+
+biseriate
+
+ecology
+
+*calcium poor,
+circumneutral, coldwater
+
+*calcium poor,
+circumneutral,
+cold-water
+
+weakly acidic
+
+no data
+
+low calcium content
+
+time window
+
+recent
+
+recent
+
+lateglacial
+15–13,000
+cal year BP
+
+recent
+
+recent
+
+distribution
+
+Alps
+Switzerland
+
+Alps
+
+Retezat
+Romania
+
+Andorra
+
+North America
+
+Planothidium distinctum is a rare boreo-alpine diatom with a distribution limited to the least human
+impacted environments. These areas should be protected, since they are inhabited by threatened,
+oligotraphenic species, which may be the best biogeographical markers because of their narrow tolerance
+ranges and peculiar ecological requirements.
+
+Acknowledgements
+David Williams supported our work in all its phases, providing information on the existence of the
+Messikommer collection (Universität Zürich) and contributing comments on various versions of this paper.
+We are very grateful for his help. We thank the support of the Hungarian Scientific Fund (OTKA 83999 and
+NF 101362). This is a Hungarian Academy of Sciences—Hungarian Natural History Museum Paleo
+Contribution No. 181. Thanks to Wolf-Henning Kusber for the missing literature and Lukas Taxböck
+(Universität Zürich) for searching and sending Messikommer samples. This study was partly financed through
+the co-operation between the Hungarian and Polish Academies of Sciences and statutory fund of the Institute
+of Botany of the PAS.
+
+8 •
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+BUCZKÓ ET AL.
+
+References
+Barber, H.G. & Haworth E.Y. (1981) A guide to the morphology of the diatom frustule with a key to the British
+freshwater genera. Freshwater Biological Association Scientific Publication, no. 44, 112 pp.
+Battarbee, R.W. (1986) Diatom analysis. In: Berglund, B.E. (ed.), Handbook of Holocene Palaeoecology and
+Palaeohydrology. John Wiley & Sons, Chichester, New York, Brisbane, Toronto, Singapore, pp. 527–570.
+Carter, J.R. (1970) Diatoms from Andorra. Nova Hedwigia, Beiheft 31: 605–632.
+Cleve, P.T. & Grunow, A. (1880) Beiträge zur kenntniss der arctischen Diatomeen. Kongliga Svenska-Vetenskaps
+Akademiens Handlingar 17: 1–121.
+Czarnecki, D.B. (1994) The freshwater diatoms culture collection at Loras College, Dubuque, Iowa. In: J.P. Kociolek,
+(ed.) Proceedings of the 11th International Diatom Symposium, Memoirs of the California Academy of Sciences. San
+Francisco. pp. 155–174.
+Ehrenberg, C.G. (1839) Über die Bildung der Kreidefelsen und des Kreidemergels durch unsichtbare Organismen.
+Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin 1839: 59–147.
+Grunow, A. (1882) Beiträge zur Kenntnis der fossilen Diatomeen Österreich-Ungarns. In: Mojsisorics, E. & Neumayer,
+N. (eds), Beiträge zur Paläontologie Österreich-Ungarns und des Orients 2: 136–159.
+Hendey, N.I. (1964) An introductory account of the smaller algae of British coastal waters. Part 5: Bacillariophyceae
+(diatoms). Fishery investigations, Ministry of Agriculture, Fisheries and Food ser. 4, pt 5, 317 pp. [Reprinted 1976
+by Otto Koeltz Science Publishers, Koeningstein, West Germany].
+Hustedt, F. (1927–66) Die Kieselalgen Deutschland, Österreich und der Schweiz mit Berücksichtigung der übrigen
+Länder Europas sowie der angrenzenden Meeresgebiete. In: Rabenhorst, G.L. (ed.), Kryptogamenflora Band VII.
+Die Kieselalgen. Teil 2: 1–845 (1931–1959). Leipzig.
+Hustedt, F. (1943) Die Diatomeenflora einiger Hochgebirgseen der Landschaft Davos in den Schweizer Alpen. Archiv
+für Hydrobiology 43: 124–197.
+Jahn, R. & Kusber, W.-H. (2009) A key to diatom nomenclature. Diatom Research 24: 101–111.
+http://dx.doi.org/10.1080/0269249X.2009.9705785
+Juggins, S. (2001) The European Diatom Database. User Guide. http.craticula.ncl.ac.uk/Eddi/jsp (accessed 12.
+November 2012).
+Krammer, K. & Lange-Bertalot, H. (1991) Bacillariophyceae. 4. Teil: Achnanthaceae, Kritische Ergänzungen zu
+Navicula (Lineolatae) und Gomphonema, Gesamtliteraturverzeichnis Teil 1–4. In: Ettl, H., Gärtner, G., Gerloff, J.,
+Heynig, H. & Mollenhauer, D. (eds), Süsswasserflora von Mitteleuropa, Bd 2/4. Gustav Fischer Verlag: Stuttgart,
+Jena. 437 pp.
+Krammer, K. & Lange-Bertalot, H. (2004) Bacillariophyceae 4. Teil: Achnanthaceae, Kritische Erganzungen zu
+Navicula (Lineolatae), Gomphonema Gesamtliteraturverzeichnis Teil 1–4 [second revised edition]. In: Ettl, H.,
+Gärtner, G., Gerloff, J., Heynig, H. & Mollenhauer, D. (eds) Süßswasserflora von Mitteleuropa. Spektrum
+Akademischer Verlag, Heidelberg, 468 pp.
+Kützing, F.T. (1844) Die Kieselschaligen Bacillarien oder Diatomeen. Nordhausen, 152 pp.
+Lange-Bertalot, H. (1997) Zur Revision der Gattung Achnanthes sensu lato (Bacillariophyceae): Achnantheiopsis, eine
+neue Gattung mit dem Typus generis A. lanceolata. Archiv für Protistenkunde 148: 199–208.
+Lange-Bertalot, H. (1999) Neue Kombinationen von Taxa aus Achnanthes Bory (sensu lato). In: Lange-Bertalot, H. &
+Genkal, S. (eds), Iconographia Diatomologica 6: 276–289.
+Lange-Bertalot, H. & Krammer, K. (1989) Achnanthes eine Monographie der Gattung mit Definition der Gattung
+Cocconeis and Nachtragen zu den Naviculaceae. Bibliotheca Diatomologica, Cramer, Berlin–Stuttgart, 18, 393 pp.
+Messikommer, E. (1954) Beiträge zur Kenntnis der Algenflora des Urner Reusstales (Centralschweiz). Hydrobiologia 6:
+1–43.
+http://dx.doi.org/10.1007/BF00039409
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Heredeen, P.S., Knapp, S.,
+Marhold, K., Prado, Prud’homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012) International
+Code of Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth International
+Botanical Congress Melbourne, Australia. Regnum Vegetabile 154: 208 pp.
+Onciu, T.M. & Radu, A. (2006) Retezat Mountains (Romania) Glacial lakes zooplankton biodiversity. Transylvanian
+Review of Systematical and Ecological Research 3: 49–60. http://stiinte.ulbsibiu.ro/trser/trser3/Papers.pdf
+Patrick, R. (1945) A taxonomic and ecological study of some diatoms from the Pocono Plateau and adjacent regions.
+Farlowia 2: 143–221.
+Potapova, M. (2012) New species and combinations in monoraphid diatoms (family Achnanthidiaceae) from North
+America. Diatom Research 27: 29–42.
+http://dx.doi.org/10.1080/0269249X.2011.644636
+Round, F.E. & Bukhtiyarova, L. (1996) Four new genera based on Achnanthes (Achnanthidium) Marginulatae Bukht.
+
+PLANOTHIDIUM DISTINCTUM
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+• 9
+
+sect. nov. of Achnanthidium Kütz. Diatom Research 11: 1–30.
+http://dx.doi.org/10.1080/0269249X.1996.9705389
+Round, F.E., Crawford, R.M. & Mann, D.G. (1990) The diatoms: biology and morphology of the genera. Cambridge
+University Press, Cambridge, 747 pp.
+Smith, W. (1855) Notes of an excursion to the south of France and the Auvergne in search of Diatomaceae. Annals and
+Magazine of Natural History 15: 1–9.
+http://dx.doi.org/10.1080/037454809495381
+Straškrábová, V., Cogalniceanu, D., Nedoma, J., Parpal , L., Postolache, C., Tudorancea, C., V dineanu, A., Vâlcu, C-M.
+& Zinevici, V. (2006) Bacteria and pelagic food webs in pristine alpine lakes (Retezat Mountains, Romania).
+Transylvanian Review of Systematical and Ecological Research 3: 1–10.
+Van Heurck, H. (1880–1885) Synopsis des Diatomées de Belgique Atlas. Ducaju & Cie, Anvers.
+Williams, D.M. & Reid, G. (2002) The diatom type slides and bibliography of John Carter (1908–1993). Bulletin of the
+Natural History Museum, London (Botany) 32: 137–151.
+ă
+
+Phytotaxa 117 (1) © 2013 Magnolia Press
+
+ă
+
+10 •
+
+BUCZKÓ ET AL.
+
+

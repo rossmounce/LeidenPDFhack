@@ -1,0 +1,382 @@
+Phytotaxa 116 (2): 41–50 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.116.2.1
+
+Deprea zamorae (Physalideae, Solanoideae, Solanaceae): a new species from
+southern Ecuador
+GLORIA E. BARBOZA 1,3 , SEGUNDO LEIVA GONZÁLEZ 2 , CAROLINA CARRIZO GARCÍA 3 &
+CLARA INÉS OROZCO4
+1
+
+Facultad de Ciencias Químicas, Universidad Nacional de Córdoba. Haya de la Torre y Medina Allende, Córdoba, Argentina.
+E-mail: gbarboza@imbiv.unc.edu.ar
+2
+Museo de Historia Natural, Universidad Privada Antenor Orrego de Trujillo, Casilla Postal 1075, Trujillo, Perú.
+3
+Instituto Multidisciplinario de Biología Vegetal (IMBIV–CONICET). CC 495, CP 5000. Córdoba, Argentina.
+4
+Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Apartado 7495, Bogotá, D.C. Colombia.
+
+Abstract
+Deprea zamorae Barboza & S. Leiva (Solanaceae), a new species from southern Ecuador (Loja and Zamora–Chinchipe),
+is described and illustrated. It is most similar to D. cyanocarpa, but differs by the presence of minute teeth on the calyx,
+the ratio of the corolla tube length to the lobe length, the orientation of the fruiting pedicels, and the color and shape of
+the fruiting calyx. Its distribution does not overlap with that of any other Deprea species. A key for all Deprea species is
+provided.
+Key words: Endemism, Loja, pollen, taxonomy, seed, Zamora–Chinchipe
+
+Introduction
+Deprea Rafinesque (1838: 57) is a small neotropical genus from South America comprising eight species
+(Garzón–Venegas & Orozco 2007). Based on morphological data, Hunziker (2001) placed the genus in the
+tribe Solaneae subtribe Witheringiinae Reveal, while Sawyer (2005), based on a morphological phylogenetic
+analysis, considered Deprea to be a member of the tribe Physalideae Miers. Recently, in agreement with
+Sawyer, Olmstead et al. (2008) included Deprea in the tribe Physalideae, although the genus was not assigned
+to any subtribe.
+Morphologically, Deprea is considered close to Larnax Miers (1849: 37) (Barboza & Hunziker 1994,
+Sawyer 1998, 2005, Hunziker 2001, Garzón–Venegas & Orozco 2006). Sawyer (2005) redefined Deprea as a
+monophyletic group excluding D. glabra (Standley 1935: 32) Hunziker (1977: 25) and D. sylvarum (Standley
+& C.V. Morton 1938: 1036) Hunziker (1977: 25), which he transferred to Larnax (Sawyer 2001), and
+proposed Brachistus Miers (1849: 262) as its sister group. Deprea species are shrubs with showy colored
+flowers. The corolla is funnel-shaped in the majority of the species, with lobes shorter than the tube or rarely
+as long as the tube. The stamens are equal, with the basal end of the filament slightly expanded, not thickened,
+and fused to the corolla tube forming the so–called stapet. The fruiting calyx is accrescent, tightly or loosely
+enveloping the berry. Deprea species grow mostly in humid Andean forests from Colombia to northern Peru and
+also in central Bolivia, except D. ecuatoriana Hunziker & Barboza (1996: 109) which inhabits drier areas with low
+vegetation in the paramos of Ecuador and Peru (Sawyer 1999).
+Recently, due to explorations in previously inaccessable regions of the Andes, several new species have
+been described (Leiva et al. 2005, Sawyer 2007, Garzón–Venegas & Orozco 2007). In recent field trips (2011–
+2012) to southern Ecuador (Loja and Zamora –Chinchipe), a peculiar Deprea species was found whose
+flowering and fruiting features were different from any other species of this genus. It is described here as a
+Accepted by Maria Vorontsova: 21 June 2013; published: 10 July 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+41
+
+new species; a key to differentiate it from its congeners is also provided. Along with the description, pollen
+and seed information is provided.
+
+Material and Methods
+Taxonomy:—The description is based on measurements of living plants taken during field work in Prov.
+Zamora–Chinchipe and examination of herbarium specimens loaned from or studied at the AAU, COL, CORD,
+F, HAO, MO, NY, QCA, QCNE, S, and U herbaria. Field observations and morphological examinations were
+conducted using a stereomicroscope with dried material or specimens preserved in FAA solution or 70%
+alcohol. Measurements of dried material were made from dissections of flowers rehydrated in hot water.
+Information about flower, fruit, and seed color was taken mainly from our own observations in the field. The
+morphology of the trichomes was analyzed with a Zeiss Axiophot microscope equipped with a a digital camera.
+The map indicates the distribution of the new species as well as the other species of Deprea. The conservation
+status proposed here follows the Red List Categories and Criteria, version 12.1 (IUCN 2012).
+Pollen and seeds:—Pollen was obtained from dry anthers of herbarium specimens or fresh anthers fixed
+in FAA in the field. Samples for light microscope observations were mounted in glycerin. For scanning
+electron microscopy (SEM), non–acetolysed grains were mounted on an SEM stub in a few drops of 70%
+alcohol and allowed to dry. Samples were coated with gold/palladium and examined using a JEOL JSM 35 CF
+SEM (LABMEM, National University of San Luis, Argentina). Measurements are based on 15 pollen grains
+from 5 collections (marked with an asterisk in Additional specimens examined), including the type specimens.
+Descriptive terminology follows Punt et al. (2007) and Hesse et al. (2009).
+Seeds were processed according to Lester & Durrands (1984) for SEM. In brief, seeds were soaked in
+distilled water for 1 h, rinsed 3 times in distilled water and then in 5–10% commercial bleach for 15 minutes.
+The seeds were then washed twice and treated with a driaselase enzyme solution (driaselase 0.5% in
+Sorenson’s phosphate buffer). The seeds were incubated in the enzyme solution for 48 hs at 30ºC under
+discontinuous agitation, washed with distilled water and air dried, and coated with gold/palladium.
+
+Taxonomic Treatment
+Deprea zamorae Barboza & S. Leiva, sp. nov. (Fig. 1, 2 A–D, 3, 4).
+Type:—ECUADOR. Zamora–Chinchipe: Límite del PN Podocarpus, desvío de la ruta principal en el límite entre Prov.
+Zamora–Chinchipe/Loja, a 600 m del desvío, 2750 m, 15 November 2011 (fl, fr), C. I. Orozco, G. Barboza, S. Leiva
+& A. Orejuela 3926 (holotype COL!, isotypes COL!, CORD 00006744!, CORD 00006745!, HAO!, QCA!).
+Deprea zamorae can be distinguished from other Deprea species by the purple indumentum and purple color of the
+young branches and leaves, the narrowly campanulate corolla with the tube as long as or slightly longer than the
+lobes, and the urceolate orange or reddish orange accrescent calyx with minute teeth that tightly invests the berry.
+
+Shrubs (0.5–)1.5–3 m high, much branched; older stems green, terete, hollow, glabrous, longitudinally ridged,
+2–2.3 cm diameter at the base; young stems green with purple nodes, densely covered by simple nonglandular transparent trichomes, the trichomes intense purple at the tips of the branches; sympodial units
+unifoliate. Leaves alternate and in branch forks; blades (5–)7–8(–9.5) cm long, 3–5 cm wide, elliptic, slightly
+fleshy, dark green with purple–lilac colored veins beneath, densely pubescent on both surfaces, mainly on the
+abaxial surface, with patent simple or occasionally branched trichomes on the veins, the margin entire, repand,
+the apex acuminate, the base attenuate and unequal; petioles 1–1.5 cm long, purple with transparent patent
+indumentum. Secondary veins 6–8 pairs, impressed on the adaxial surface and prominent on the abaxial
+surface, forming a strong reticulum with other minor veins. Inflorescence axillary, usually 2 or 3(–5) flowered, the flowers opening asynchronously; flowering pedicels pendent, widening slightly distally, 11–17
+mm long, densely pubescent, the hairs transparent or purple and patent; buds ovoid, purplish green. Calyx
+
+42 •
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+BARBOZA ET AL.
+
+FIGURE 1. Deprea zamorae. A. Flower. B. Calyx. C. Fruit surrounded by accrescent calyx. D. Flowering branch. E. Ovary in cross
+section. F. Seed. G–I: Anthers in lateral, dorsal and ventral views, respectively. J. Gynoecium. K. Corolla, ventral view. From Orozco
+et al. 3926. Drawing by Segundo Leiva González.
+
+DEPREA ZAMORAE SP. NOV.
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+• 43
+
+intensely purple, cup-shaped, 3.2–5 mm long, densely with long uniseriate, glandular trichomes and purple
+non-glandular trichomes, glabrous inside, the main veins prominent, shortly 5-toothed, the teeth triangular,
+mostly obtuse, greenish inside, unequal, 0.3–0.6 mm long, 0.3–0.5 mm wide; tube 2.8–3.5 mm long. Corolla
+almost entirely purple and yellowish cream proximally, narrowly campanulate, (10–)13–14.5 mm long; lobes
+as long as or slightly shorter than the tube, ca. (5–)7.5–8 mm long, 3–3.7 mm wide, triangular, slightly
+reflexed, purple on both surfaces, with glandular and non-glandular trichomes on both surfaces and on
+margins; tube swollen, 5–6.5 mm long, 5–6.1 mm wide, with a ring of relatively short non-glandular
+trichomes half way to the base inside and with the same tube indumentum outside. Filaments cream basally
+and purple distally, glabrous, equal or subequal, (3–)3.9–4.5 mm; anthers exserted, oblong, purple, ca. (2–
+)2.5–2.7 mm long, 1.9–2 mm wide, the connective cream; filament base expansion cream, 1.5–2 mm long.
+Ovary glaucous, pyriform, slightly 5-angled, ca. 1.5–1.8 mm long, 1.5–1.7 mm wide, the nectary yellowish
+cream, inconspicuous; style exerted, cream or sometimes lilac, glabrous, 5.3–6.6 mm, widening distally;
+stigma dark green, capitate, somewhat bilobed, 0.8–1 mm diameter. Berry ovoid or slightly globose, flattened
+at the apex, (8–)10–11 mm long, 9–11(–13) mm diameter, orange or reddish orange at maturity; stone cells
+12–15 per fruit, yellowish white; fruiting pedicels pendent, the fruiting calyx accrescent, urceolate, orange or
+reddish orange, tightly enveloping the berry up to the apex, slightly 5–10-costate. Seeds 75–80 per fruit, ovoid
+to reniform, compressed, yellowish brown, 1.5–1.7 mm long, 1.5–1.6 mm wide; testa reticulate.
+Etymology:—The name refers to the distribution of the species in southern Ecuador in ZamoraChinchipe Province.
+Phenology:— Flowering and fruiting from April to November.
+Distribution and Habitat:—Endemic to southern Ecuador (Prov. Loja and Zamora–Chinchipe, Fig. 3)
+between 2200–2900 m in fragments of primary wet montane forests. It grows in black, clayey, and rich soils
+in association with Baccharis (Asteraceae), Brachyotum (Melastomataceae), Rubus (Rosaceae), Weinmannia
+(Cunoniaceae), Puya (Bromeliaceae), Chusquea (Poaceae), Cortaderia (Poaceae), among others. It is usually
+found along roadsides and on steep slopes.
+Conservation Status:—The conservation status of this species would be vulnerable (VU) under criteria
+B2 (a, b), known at 7 locations and the extent of occurrence below 2,000 km2 (IUCN Red List Criteria 2012).
+Anatomical observations:—Deprea zamorae has purple and whitish cream simple glandular and
+verrucose simple and branched non–glandular trichomes. Long simple eglandular trichomes cover the
+vegetative organs, pedicels, calyx, and corolla; they consist of (2–)4–9 elongate cells, the distal cell acute
+(Fig. 4 A). Branched trichomes are very rare on mature stems and leaves; they appear occasionally in young
+leaves and inside the corolla (Fig. 4B). Papillae (Fig. 4C) and very short trichomes, some of them branched,
+are present on the calyx and apex and margins of the corolla lobes while trichomes of 3–8 rectangular to
+isodiametric cells, the distal one obtuse, cover the basal ½ length of the corolla tube interior (Fig. 4D).
+Glandular trichomes can be short or long; the former have a unicellular stalk and a globose multicellular head
+(Fig. 4E). These are common on both leaf surfaces and on the adaxial calyx surface, and less frequent on the
+corolla. The second type of glandular trichome has a 3–5-celled stalk and a unicellular oblong head (Fig. 4F);
+these occur on most of the outer corolla surface and sometimes also on the calyx and pedicels.
+Pollen grains are small sized (polar diameter 23.012 ± 0.846 m), spheroidal in outline in hydrated
+condition, and tricolporate (Fig. 4G). The pollen surface is irregular (Fig. 4G, I). The exine ornamentation is
+sparsely microechinate (7.643 ± 0.802 microechini per m2), and the aperture membrane is granular (Fig. 4G, I).
+Seeds are ovoid to reniform, compressed, 2.8 ± 0.2 mm long × 2.5 ± 0.2 mm wide (Fig. 4H). Seed coat
+sculpture is reticulate (Fig. 4H). The cells are polygonal with almost straight lateral walls in the seed margin,
+and irregular in shape with sinuate lateral walls in the center of the seed (Fig. 4H, J). All the cell walls, except
+for the outer periclinal walls, are papillate (Fig. 4J, K); pits are present mainly at the base of the anticlinal cell
+walls (Fig. 4K).
+
+μ
+
+μ
+
+44 •
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+BARBOZA ET AL.
+
+FIGURE 2. Deprea species. A–D. D. zamorae. A. Habit. B. Leaf pubescence. C. Flower. D. Fruits. E. D. cyanocarpa, flowers and
+fruits. F. D. ecuatoriana, flower. G. D. nubicola, flowers and fruits. H. D. orinocensis, flowers and fruits. I. D. bitteriana, flowers and
+fruits. J. D. cuyacensis, flower. Photographs. A–D, F, J by S. Leiva González; E by J. Garzón-Venegas; G by J. M. Vélez; H by J. C.
+Murillo; I by M. T. Cosa.
+
+DEPREA ZAMORAE SP. NOV.
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+• 45
+
+FIGURE 3. Schematic distribution of Deprea species. The flowers indicate the area of distribution of each species, except for D.
+orinocensis and D. bitteriana, for which the arrows indicate their distribution range. The flowers are all at the same scale.
+
+46 •
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+BARBOZA ET AL.
+
+FIGURE 4. Trichomes, pollen and seed of Deprea zamorae. A–F. Trichomes. G, I. Pollen grain.H, J, K. Seed. A. Simple, nonglandular trichome with acute apex from the calyx. B. Branched eglandular trichome from the leaf surface. C. Papillae of the corolla
+margin. D. Simple, non-glandular trichome with obtuse apex, from the inner corolla surface. E. Glandular trichome with a multicellular
+head from the outer corolla surface. F. Glandular trichome with a unicellular head from the outer corolla surface. G. Pollen grain in
+polar view. H. Seed (treated with driaselase enzyme). I. Detail of the exine sculpture and the aperture membrane (arrow). J. Detail of
+the seed surface (not treated with driaselase enzyme). K. Inner surface of the seed central cells showing papillae and pits.
+
+DEPREA ZAMORAE SP. NOV.
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+• 47
+
+Additional specimens examined:—ECUADOR. Loja: immediately W of the pass between Loja and
+Zamora, 2800 m, 24 September 1967 (fl, fr), Sparre 18939* (S). Zamora–Chinchipe: at pass between Loja
+and Zamora and along trail toward Zamora, 2360–2800 m, 29 July 1982 (fl, fr), Clemants et al. 2257* (QCA,
+QCNE, NY); a 500 m de desvío de la ruta principal Loja–Zamora, en el límite entre Prov. Zamora–Chinchipe/
+Loja, 2252 m, 79º03’22”W, 3º59’12”S, 16 July 2012 (fl, fr), Deanna & Leiva 9 (CORD); road Loja–Zamora,
+km 17, 2400 m, 79º08’W, 3º59’S, 16 April 1973 (fl, fr), Holm-Nielsen et al. 3549* (AAU, F, MO, NY, S, U);
+límite entre Loja–Zamora–Chinchipe, 2768–2790 m, 79º08’30,7”W, 3º59’10,4”S, 15 November 2011 (fl, fr),
+Leiva et al. 5256 (HAO); Parque Nacional Podocarpus, new road Loja–Zamora, E of Cerro Yanacocha, 2550–
+2650 m, 79º07’’W, 3º59’S, 26 November 1988 (fr), Madsen 75571 (QCA); Parque Nacional Podocarpus,
+around pass on road Loja–Zamora, 2750–2950 m, 79º07’W, 3º58’S, 23 May 1988 (fl, fr), Øllgaard et al.
+74394* (QCA).
+
+Discussion
+Deprea zamorae is unique in the genus by its combination of the showy purple color of young branches and
+leaves (Fig. 2 A, B), the corolla shape and color (Fig. 2 C), the color and shape of the fruiting calyx (Fig. 2 D),
+and the type of trichomes. The corolla is narrowly campanulate with the tube as long as or slightly longer than
+the lobes (Fig. 2 C). The orange or reddish orange accrescent calyx tightly investing the berry with minute
+teeth at the apex is unusual in the genus (Fig. 2 D). Branched hairs (Fig. 4 B) have been thus far known only
+in D. orinocensis (Kunth in Humboldt et al. 1818: 12) Rafinesque (1838: 57) (Sawyer & Benítez de Rojas
+1998), but D. zamorae has some scattered branched hairs on the stems, leaves, and inner corolla surface.
+Deprea zamorae resembles D. cyanocarpa J. Garzón & C.I. Orozco (2007: 220), an endemic species from
+Colombia, in its narrowly campanulate corolla of similar size and the purple trichomes of the calyx and
+corolla (Fig. 2 E). Deprea zamorae differs from D. cyanocarpa mainly by the presence of minute teeth on the
+calyx instead of longer calyx lobes (0.3–0.6 mm long vs. 1–2.5 mm long), the ratio of the corolla tube length
+to the lobe length (tube as long as or slightly longer than the lobes vs. tube two times longer than the lobes),
+the orientation of the fruiting pedicels (pendent vs. erect), the fruiting calyx color and shape (orange or
+reddish orange, urceolate, not invaginated at the base, slightly 5–10-costate and tightly enveloping the berry
+vs. purple, pyriform, invaginated at the base, strongly 5-costate and loosely enveloping the berry). No Deprea
+species are sympatric with D. zamorae. The geographically closest species is D. cuyacensis (N.W. Sawyer &
+S. Leiva in Sawyer 2001: 462) S. Leiva & Lezama (in Leiva et al. 2005: 63), from northern Peru and southern
+Ecuador, differing mainly by its scarce indumentum on the vegetative organs, its pale violet and funnelshaped corolla, and its white with purple veins fruiting calyx that loosely invests the berry.
+The pollen has been described as rugulate or rugulate–reticulate in most Deprea species, except for the
+scabrate pollen in D. cuyacensis (Sawyer 1999). However, from the images shown in that publication, the
+pollen surface surface appears irregular, similar to D. zamorae, instead of rugulate and rugulate-reticulate (cf.
+Hesse et al. 2009). The microechini (pointed ornamentations smaller than 1 µ m; cf. Hesse et al. 2009)
+observed in D. zamorae have not been mentioned in other Deprea species. Since new detailed descriptions for
+each Deprea species are needed to standardize the terminology and make them comparable, a palynological
+analysis of the genus is in progress.
+The seeds of D. zamorae fit the overall generic description (Barboza & Hunziker 1994; Hunziker 2001);
+the seed coat micromorphologycal features of Deprea zamorae are the first records on the subject for the
+genus.
+
+48 •
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+BARBOZA ET AL.
+
+Identification Key
+Based on field observations and examinations of recent herbarium collections, we provide a new key to
+Deprea species with additional previously unpublished characters.
+1.
+2.
+3.
+
+-
+
+4.
+5.
+
+-
+
+6.
+7.
+8.
+-
+
+Corolla urceolate, orange, 9.5–11 mm, the lobes very short, ca. 0.6 mm long. Fruits ellipsoidal. Low shrubs ca. 0.30
+m tall. Paramo. Southern Ecuador and northern Peru ........................................................D. ecuatoriana (Fig. 2F, 3)
+Corolla clearly funnel-shaped or narrowly campanulate, never orange, (7–)9–23 mm, the lobes relatively long, 1.5–
+8 mm long. Fruits subglobose or ovoid. Shrubs 0.5–5 m tall. Montane cloud forests in South America ................... 2
+Corolla narrowly campanulate, purple ......................................................................................................................... 3
+Corolla funnel-shaped, violet, lilac, yellowish cream or creamy white ..................................................................... 4
+Calyx teeth 0.3–0.6 mm long. Corolla tube as long as or slightly longer than the lobes. Fruiting pedicels pendent, the
+fruiting calyx orange or reddish orange, urceolate, not invaginated at the base, slightly 5–10-costate and tightly
+enveloping the berry. Southern Ecuador. ............................................................................ D. zamorae (Fig. 2A-D, 3)
+Calyx lobes 1–2.5 mm long. Corolla tube two times longer than the lobes. Fruiting pedicels erect, the fruiting calyx
+purple, pyriform, invaginated at the base, strongly 5-costate and loosely enveloping the berry. West-Central Colombia.........................................................................................................................................D. cyanocarpa (Fig. 2E, 3)
+Corolla creamy white, glabrous inside. Central Bolivia..........................................................D. cardenasiana (Fig. 3)
+Corolla mostly to entirely violet, lilac or yellowish cream, occasionally yellowish cream with purple traces inside,
+pubescent inside ........................................................................................................................................................... 5
+Pedicels long, 12–20 mm. Filaments 15–20 mm, glabrous. Fruiting calyx not invaginated at the base, tightly enveloping the berry and without conspicuous ribs. Corolla lilac, the lobes 4–5 times shorter than the tube. Plants glabrescent. Northern Colombia...........................................................................................................D. nubicola (Fig. 2G, 3)
+Pedicels relatively short, less than 12 mm. Filaments 4–11 mm, pubescent. Fruiting calyx invaginated or not, loosely
+enveloping the berry and with 5–10 conspicuous ribs. Corolla violet or yellowish cream (exceptionally yellowish
+cream with purple), the lobes equal to 1.5–2.5 times shorter than the tube. Plants pubescent ................................. 6
+Plants dioecious. Filaments 2–3.1 mm. Berry whitish cream. Fruiting calyx subglobse, not invaginated. Corolla
+blue–violet. Northwestern Venezuela ...............................................................................................D. paneroi (Fig. 3)
+Plants hermaphroditic. Filaments 4.6–10 mm. Berry orange or yellowish orange. Fruiting calyx pyriform, usually
+invaginated .................................................................................................................................................................... 7
+Corolla yellowish cream, exceptionally yellowish cream with purple, 10.5–19 mm. Branched trichomes present on
+leaf surfaces and margin. Andes from Venezuela to Ecuador .............................................D. orinocensis (Fig. 2H, 3)
+Corolla entirely violet, 9–13 mm. Branched trichomes absent on leaf surfaces and margin ...................................... 8
+Pedicels 4–6 mm. Calyx 2.5–3 mm. Corolla deep violet, glandular pubescent outside. Anthers 1.1–1.4 mm. Fruiting
+calyx greenish yellow or cream with violet apices. Andes from Venezuela to Ecuador ......... D. bitteriana (Fig. 2I, 3)
+Pedicels 3–12(–15) mm. Calyx 4–5 mm. Corolla pale violet, glabrous or glabrescent outside. Anthers 2–2.7 mm.
+Fruiting calyx white with purple veins. Northern Peru and southern Ecuador ..................... D. cuyacensis (Fig. 2J, 3)
+
+Acknowledgements
+The authors thank the QCA Herbarium (Pontificia Universidad Católica del Ecuador) and Universidad
+Privada Antenor Orrego de Trujillo (Perú) for the facilities and permission to perform field trips, the
+Dirección de Investigaciones de Bogotá (Universidad Nacional de Colombia, DIB 13574), and CONICET
+(PIP 01686), FONCYT (PICT 2775), Secyt–UNC, and MINCyT (Córdoba) from Argentina for funding this
+study. Special thanks are due to A. Orejuela for his invaluable help in field trips and collaboration in the DIB
+project. We also extend our thanks to K. Romoleroux (QCA), and the staff at the herbaria (AAU, COL,
+CORD, F, HAO, MO, NY, QCA, QCNE, S, U) that loaned their collections. The comments of the reviewers
+were very helpful in improving the manuscript.
+
+DEPREA ZAMORAE SP. NOV.
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+• 49
+
+References
+Barboza, G.E. & Hunziker, A.T. (1994) Estudios sobre Solanaceae. XXXVII. Sinopsis taxonómica de Deprea. Kurtziana
+23: 101–124.
+Garzón-Venegas, J. & Orozco, C.I. (2006) Organogénesis floral en Acnistus arborescens, Dunalia solanaceae, Deprea
+bitteriana, Larnax glabra y Larnax hawkesii—tribu Physaleae (Solanaceae). Caldasia 28: 227–242.
+Garzón-Venegas, J. & Orozco, C.I. (2007) Deprea cyanocarpa (Solanaceae, Physaleae): una nueva especie para
+Colombia. Caldasia 29: 219–227.
+Hesse, M., Halbritter, H., Zetter, R., Weber, M., Buchner, R., Frosch-Radivo, A. & Ulrich, S. (2009) Pollen terminology.
+An illustrated handbook. Springer, Vienna, New York. 267 pp.
+Hunziker, A.T. (1977) Estudios sobre Solanaceae. VIII. Novedades varias sobre tribus, géneros, secciones y especies de
+Sud América. Kurtziana 10: 7–50.
+Hunziker, A.T. (2001) Genera Solanacearum. A.R.G. Gantner Verlag K.-G., Ruggell. 500 pp.
+Hunziker, A. T. & Barboza, G. E. (1996) Estudios sobre Solanaceae. XLII. Una nueva especie de Deprea del Ecuador.
+Darwiniana 34: 109–111.
+Humboldt, F. W., Bonpland, A. J. & Kunth, K. S. (1818) Nova genera et species plantarum (quarto ed.) 3: 1–456.
+Lutetiae Parisiorum, Paris.
+IUCN. (2012) The IUCN red list of threatened species, version 2012.1. IUCN Red List Unit, Cambridge U.K. Available
+from: http://www.iucnredlist.org/ (accessed: 4 September 2012).
+Leiva, S., Lezama, P. & Zapata Cruz, M. (2005) Primera especie de Deprea Rafinesque (Solanaceae: Solaneae) en Perú.
+Arnaldoa 12(1–2): 62–66.
+Lester, N. R. & Durrands, P. K. (1984) Enzyme treatment as an aid in the study of seed surface structures of Solanum
+species. Annals of Botany 53: 129–131.
+Miers, J. (1849) Contribution to the botany of South America. Annals and Magazine of Natural History, ser. II, 3: 261–
+269.
+http://dx.doi.org/10.1080/03745485909494760
+Miers, J. (1849) Contribution to the botany of South America. Annals and Magazine of Natural History, ser. II, 4: 31–39.
+http://dx.doi.org/10.1080/03745486009494796
+Olmstead, R., Bohs, L., Migid, H. A., Santiago-Valentín, E., García, V. F. & Collier, S. M. (2008) A molecular phylogeny
+of the Solanaceae. Taxon 57: 1159–1181.
+Punt, W., Hoen, P. P., Blackmore, S., Nilsson, S. & Le Thomas, A. (2007) Glossary of pollen and spore terminology.
+Review of Palaeobotany and Palynology 143: 1–81.
+http://dx.doi.org/10.1016/j.revpalbo.2006.06.008
+Rafinesque, C. S. (1838) Sylva telluriana. Printed for the author and publisher, Philadelphia. 184 pp.
+Standley, P. C. 1935 New trees and shrubs from Panama, Colombia and Ecuador. Tropical Woods 42: 22–33.
+Standley, P. C. & Morton, C.V. 1938 Solanaceae. In: Flora of Costa Rica, Publications of the Field Museum of Natural
+History, Bot. Ser. 18: 1035–1099.
+Sawyer, N. (1998) Two new species of Larnax (Solanaceae) from Ecuador. Novon 8: 72–76.
+http://dx.doi.org/10.2307/3391898
+Sawyer, N. (1999) The systematics of Deprea Raf. and Larnax (Miers) Hunz. (Solanaceae). Ph. Dissertation. University of
+Connecticut, Storrs. 314 pp.
+Sawyer, N. (2001) New species and combination in Larnax (Solanaceae). Novon 11: 460–471.
+Sawyer, N. (2005) Systematics of Deprea and Larnax (Solanaceae) based on morphological evidence. In: Keating, R. C.,
+Hollowell, V. C. & Croat, T. B. (eds.) A festschrift for William G. D´Arcy. Missouri Botanical Garden, Saint Louis,
+pp. 259–285.
+Sawyer, N. (2007) Deprea nubicola (Solanaceae), a new species from northern Colombia. Brittonia 59: 54–56.
+http://dx.doi.org/10.1663/0007-196X(2007)59[54:DNSANS]2.0.CO;2
+Sawyer, N. & Benítez, C. E. (1998) Morphological analysis of three equivocal sibling species of Deprea (Solanaceae).
+Brittonia 50: 524–535.
+http://dx.doi.org/10.2307/2807764
+
+50 •
+
+Phytotaxa 116 (2) © 2013 Magnolia Press
+
+BARBOZA ET AL.
+
+

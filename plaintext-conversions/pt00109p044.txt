@@ -1,0 +1,379 @@
+Phytotaxa 109 (1): 36–44 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.109.1.4
+
+Calochaete gen. nov. (Cyanobacteria, Nostocales), a new cyanobacterial type
+from the “páramo” zone in Costa Rica
+TOMÁŠ HAUER1,2*, MARKÉTA BOHUNICKÁ1,2 & RADKA MÜHLSTEINOVÁ1
+1
+
+Department of Botany, Faculty of Science, University of South Bohemia, Branišovská 31, eské Bud jovice, Czech Republic, CZ-37005.
+Centre for Phycology, Institute of Botany, Czech Academy of Sciences, Dukelská 135, T ebo , Czech Republic, CZ-37982.
+* Corresponding author: hauer@butbn.cas.cz
+
+ě
+
+ň
+
+ř
+Č
+
+2
+
+Abstract
+A new tapered and false branched morphotype of filamentous heterocytous cyanobacterium was isolated from soil
+material collected on a massif of Chirripó Mountain, Costa Rica. The strain was analyzed morphologically and a
+sequence of its 16S rRNA gene was compared with available 16S rDNA sequences of organisms with similar
+morphology, especially those with heteropolar tapering filaments. Phylogenetic analyses revealed that the strain was
+significantly different from Rivulariaceae, but was closely related to several strains designated as Tolypothrix. However,
+according to the original descriptions in the literature, members of the genus Tolypothrix possess only very slightly
+tapering filaments. With regard to all these differences, we decided to describe a new genus—Calochaete gen. nov. with
+type species C. cimrmanii.
+Key words: 16S-23S ITS, 16S rRNA gene, Central America, Cyanoprokaryota, Microchaetaceae, morphology, new
+genus, taxonomy
+
+Introduction
+Mesoamerica and the Caribbean region are listed among the world’s biodiversity hotspots and are known for
+their large number of endemic vertebrates and plant species (Myers et al. 2000). However, there is no reason
+to not extend this biodiversity to organisms much smaller and not so easily visible such as algae and
+Cyanobacteria. In this sense, the monograph by Gardner (1927), or more recent studies (e.g. Komárek &
+Komárková-Legnerová 2007, Kaštovský et al. 2011) that described previously unrecognized cyanobacterial
+diversity in the tropical regions of Central and South America, are very valuable.
+Within the group of filamentous cyanobacteria with heterocytes (order Nostocales sensu Hoffmann et al.
+2005), there are three groups of false branched types. The family Scytonemataceae has isopolar filaments and
+tapering can be found in two of the five genera belonging to this group. The families Rivulariaceae and
+Microchaetaceae are both characterized by heteropolar filaments; tapered types are included in the family
+Rivulariaceae, as tapering was traditionally considered the fundamental difference between these two families
+(Komárek & Anagnostidis 1989). The only known exception to date is Godleya alpina Novis et Visnovsky
+(2011: 14), which is distinctly tapered, but was classed to Microchaetaceae based on molecular markers.
+In the course of a broader study on the floristics of aerophytic cyanobacteria of the San Gerardo de Rivas
+region, San José, Costa Rica (Mühlsteinová 2011), a new morphotype of a heterocytous cyanobacterium was
+found and isolated into a unicyanobacterial strain. The aim of this study was to characterize this unusual type
+using a combination of morphological and molecular data (referred to as the polyphasic approach). By
+recognizing and describing our isolate as a species new to science, our study contributes to knowledge about
+the species richness of one of the planet’s biodiversity hotspots. Concurrently, we discuss the heterogeneity of
+the family Microchaetaceae in the current concept.
+
+36 Accepted by Saúl Blanco Lanza: 23 May 2013; published online in PDF: 10 June 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Material and methods
+A soil crust in the “páramo” ecosystem was collected in March 2010 at 9° 29’ 58” N, W 83° 30’ 24” W along
+the trail from San Gerardo de Rivas to the summit of Chirripó Mountain (3820 m a.s.l.), Costa Rica, at an
+elevation around 3600 m a.s.l. The sample was dried in silicagel in the field and dilution plated on agar
+solidified Bold’s Basal Medium (BBM, Bischoff & Bold 1963) upon return to the laboratory. A single clonal
+colony was then isolated and cultivated on BBM and Z8 (Kotai 1972) agar slants at 16 and 22 °C in a 12:12
+light:dark cycle. To record the phases of the life cycle, the culture was examined at 14 days, 7 months, and 15
+months after inoculation. Observations were performed using an Olympus BX 51 microscope equipped with
+Nomarski DIC optics; photographs were taken using an Olympus DP 71 digital camera.
+Molecular analyses:—For phylogenetic analyses, a gene for the small subunit of ribosomal RNA (16S
+rRNA) was chosen. This marker, traditionally used for prokaryotic organisms, is convenient for comparisons
+on various taxonomic levels due to it containing both highly conserved and variable regions (e.g. Woese &
+Fox 1977, Nelissen et al. 1996, Chakravorty et al. 2007). Moreover, compared to other phylogenetic markers,
+a sufficient number of 16S rDNA sequences of various cyanobacteria are available in public databases,
+providing a good foundation for placement of unusual taxon in the tree of life. Approximately 1 mm3 of the
+strain biomass was dried for 48 hours in silicagel and pulverized with wolfram carbide beads in a Retsch
+MM200 mill (Retsch GmbH, Haan, Germany) for 3 minutes. Total genomic DNA was isolated following the
+protocol of Yilmaz et al. (2009). A ~1600 bp segment of the rRNA operon containing partial SSU rRNA gene
+and the ITS region was amplified using primer 1 (5’-CTC TGT GTG CCT AGG TAT CC-3’) after Wilmotte
+et al. (1993), and primer 2 ( 5’-GGG GAA TTT TCC GCA ATG GG-3’) after Nübel et al. (1997), as
+previously described in detail by Boyer et al. (2001). 10 ng of template DNA were mixed with 6 pmol of each
+primer in a commercial PCR mix with Taq polymerase (Plain PP Master Mix, Top Bio, Czech Republic), and
+amplified with an initial denaturation step (5 minutes at 95 °C) followed by 35 cycles of denaturation (1 min
+at 94 °C), primer annealing (45 s at 55 °C), elongation (2 min at 72 °C), and final extension for 10 min at 72
+°C. The PCR product was cloned using the standard pGEM-T Easy vector system (Promega Corp., WI, USA)
+according to the supplied manual. Plasmids containing insert were purified with Zyppy Plasmid Miniprep kit
+(Zymo Research Corp., CA, USA). The clones were sequenced using standard plasmid primers T7 (5’-TAA
+TAC GAC TCA CTA TAG GG-3’) and SP6r (5’-TAT TTA GGT GAC ACT ATA G-3’) on ABI PRISM 3130
+XL (Applied Biosystems, Life Technologies Corp., CA, USA) in the Laboratory of Genomics, Biology Centre
+of the Academy of Sciences of the Czech Republic. The sequence was deposited in the European Nucleotide
+Archive (EMBL/ENA, https://www.ebi.ac.uk/ena/) under accession number HF912386.
+Phylogenetic analyses:—Obtained sequences were aligned using MAFFT v. 6 (Katoh et al. 2009)
+together with 67 selected OTUs representing the heterocytous cyanobacteria obtained from GenBank
+(February 2013), and two outgroup taxa (Blennothrix sp. AQS and Chroococcidiopsis thermalis Geitler
+(1933: 625) strain PCC 7203). Phylogenetic calculations were run employing Bayesian inference in MrBayes
+3.2 (Ronquist et al. 2011), maximum likelihood analysis, and neighbor-joining BioNJ algorithm in SeaView
+4.4 (Gouy et al. 2010). For the Bayesian analyses, two runs of eight Markov chains were executed for ~1
+million generations with default parameters, sampling every 100 generations (the final average standard
+deviation of split frequencies was lower than 0.01), and the first 25% of sampled trees were discarded as burnin. The maximum likelihood calculation was executed on the generalized time-reversible (GTR) substitution
+model with discrete gamma distribution in six categories. The gamma shape parameter as well as the
+proportion of invariable sites were estimated from the data set (GTR + + I model), and 1000 bootstrap
+replicate searches were conducted to evaluate the relative support of branches. The neighbor-joining analysis
+was run on the Hasegawa, Kishina and Yano (HKY) substitution model with 1000 bootstrap replicates. The
+secondary structures of ITS helices were folded using sFold (Ding et al. 2004).
+
+α
+
+Г
+
+CALOCHAETE GEN. NOV.
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+• 37
+
+Results
+Class Cyanophyceae
+Order Nostocales
+Family Microchaetaceae
+Calochaete Hauer, Bohunická & Mühlsteinová, gen. nov.
+Colony on agar dark green or brown, amorphous. Filaments usually very long with basal heterocyte, swollen
+at the base, then gradually tapering towards the end, without terminal hair, often with false branching, single
+or double. Sheath 0.5–1.5 µm thick, unstructured, colorless. Trichomes notably constricted at cross-walls, 7–9
+µ m wide at the base and 3.0–4.3 µ m wide at well-developed ends. Cells olive green, brown to violet,
+cylindrical or barrel shaped, shorter or longer than wide, 3–8 µm long, basal:apical ratio 1.8–2. Terminal cell
+longer than wide, cylindrical or bluntly conical. Heterocytes basal or intercalary, green to yellowish,
+hemispherical or cylindrical, rarely conical, 4–7 µm wide, 4–8 µm long. Reproduction by hormogonia with
+almost spherical cells. No akinetes were observed.
+Type species: Calochaete cimrmanii Hauer, Bohunická & Mühlsteinová.
+Etymology:—From the Greek Kalos (beatutiful) and chaete (long hair), refers to one of the
+morphological features.
+Calochaete cimrmanii Hauer, Bohunická & Mühlsteinová, sp. nov. (Figs 1A–P)
+The description corresponds to that of the genus.
+
+Type:—COSTA RICA. Chirripó Mountain slope, 9° 29’ 58” N, 83° 30’ 24” W, surface soil in páramo, dried
+specimen from culture of sample, colle. M. Bohunická and J. Mareš, 6 March 2010 (holotype: CBFS! A–015).
+Type strain: CCALA 1012.
+Habitat:—Surface soil in “páramo” (tropical high montane vegetation).
+Etymology:—The species is named after the mythical Czech scientist, dramatist, poet, and writer Jára
+Cimrman.
+Observations:—The life cycle contains several morphologically distinct stages (Fig. 1). One was
+described above, i.e long, gradually tapering, heteropolar filaments (Figs 1A, B, P). The second consists of
+hormogonia composed of short, isodiametric, barrel-shaped to spherical cells resembling in morphology
+Nostoc Vaucher ex Bornet et Flahault (1888: 181) types lacking the sheath (Fig. 1E). Some cells within the
+hormogonia grow in size and change their shape to spherical (Figs 1D, O). Cells may sometimes divide in
+more than one plane (Figs 1L, M, O), but never form a true branch. A new filament then germinates from the
+hormogonia (Fig. 1C). The first cell of the filament becomes a heterocyte. The hormogonia with large
+spherical cells (e.g. Fig. 1D) occur in young cultures only.
+Our strain differs from the morphologically similar genus Calothrix Agardh ex Bornet et Flahault (1886:
+345) by the absence of a terminal hair and frequent false single or double branching (Figs 1G, H, N). As
+notable from Fig. 2, the 16S rRNA sequence of Calochaete cimrmanii is very distant from members of
+Rivulariaceae and is more related to Microchaetaceae. The most similar are sequences of Tolypothix strains
+UAM 332, 334, 337 and PCC 7504, but the degree of tapering is significantly lower in these strains. The low
+degree of tapering itself is one of the key diacritical features of the genus Tolypothrix Kützing ex Bornet et
+Flahault (1887: 118), which is accepted in both the botanical (Komárek & Anagnostidis 1989) and
+bacteriological (Castenholz 2001) literatures. From the above mentioned Tolypothrix strains, Calochaete
+cimrmanii differs also by living in a significantly different –non-aquatic, high mountain– habitat.
+
+38 •
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+HAUER ET AL.
+
+FIGURE 1. Morphological variability of the strain CCALA 1012. A. Mature heteropolar filaments. B. detail of well-developed filament
+with terminal heterocyte. C. A filament germinating from hormogonium with enlarged cells. D, E. Formation of a hormogonium in a
+filament and hormogonia with enlarging cells. F. Middle part of a mature filament with thin colorless sheath. G. Double branching. H.
+Single branching. I. Young filament with distinct tapering. J. Swollen bases of mature filaments. K. Shape of the terminal cells. L, M.
+Enlarged cells in hormogonia dividing in two planes (marked with arrowheads). N. Young growing thallus with single branching. O.
+Hormogonia and their development after release from mother sheath. M. Well-developed filaments. Bar length = 20 µm.
+
+CALOCHAETE GEN. NOV.
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+• 39
+
+FIGURE 2. Phylogenetic analysis based on 16S rDNA sequence with 70 OTUs, using neigbor-joining topology. The support values
+are given for Neighbor-joining, Maximum likelihood, and Bayesian posterior probabilities. The cut-off values for bootstrap and
+probability are 50 (0.5 resp). Our reference strain CCALA 1012 (accession number HF912386) is printed in bold. Clusters A and B
+represent clades with members of the Microchaetaceae family demonstrating heterogeneity of the genus Tolypothrix and the whole
+family Microchaetaceae.
+
+Comparison of the secondary structures of 16S-23S ITS is of taxonomic importance according to
+Johansen et al. (2011). To illustrate specificity and the rate of relatedness of the different morphologically
+similar taxa included in our study, we provide the two most conserved ITS domains, the D1-D1’ and Box-B
+helices for Calochaete cimrmanii, Tolypothrix sp. PCC 7504 from cluster “B”, Spirirestis rafaelensis
+Flechtner et Johansen in Flechtner et al. (2002: 6) WJT-71-NPBG6 from cluster “A”, and Calothrix sp. PCC
+
+40 •
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+HAUER ET AL.
+
+7507 from a cluster phylogenetically distant from Calochaete (Fig. 3). It can be clearly seen that Calochaete
+cimrmanii and Tolypothrix PCC 7504 are significantly similar in both structures, especially in the basal parts
+and the bottom halves of the loops (Figs 3A, B, E, F). Concurrently, there are obvious differences in the top
+portions of the loops, supporting our decision to separate Calochaete from the traditional genus Tolypothix.
+The similarity of the secondary structures decreases when comparing Calochaete with Spirirestis as a
+representative of cluster “A” and the most phylogenetically but supposedly morphologically related
+Calothrix.
+
+FIGURE 3. Secondary structures of the D1- D1’(row one) and Box-B helices (row two) of strain CCALA 1012 and related strains of
+types similar either morphologically (Calothrix) or molecularly (members of Microchaetaceae—Tolypothrix and Spirirestis). A, E.
+Calochaete cimrmanii CCALA 1012. B, F. Tolypothrix sp. PCC 7504. C, G. Spirirestis rafaelensis WJT-71-NPBG6. D, H. Calothrix
+sp. PCC 7507.
+
+CALOCHAETE GEN. NOV.
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+• 41
+
+Discussion
+We performed a detailed study of an unusual strain isolated from a terrestrial habitat at high elevation in Costa
+Rica. Many authors, e.g. Berrendero et al. (2011), pointed out changes in morphology of cyanobacterial
+strains after transfer from nutrient-rich to nutrient-poor cultivation media. To document the variability in the
+strain morphology under different conditions, we used two different cultivation media—BBM and Z8. We
+also observed the culture in different stages of the life cycle from very young colonies 14 days after the
+inoculation growing in high light intensities and 22 °C (exponential growth phase), up to cultures 15 months
+old kept at 16 °C and dim conditions (stationary growth phase). We were not able to detect changes in
+morphology between clones cultivated in different media and the diacritical features remained stable also
+under different environmental conditions (temperature, light) and the age of the culture. As mentioned above,
+a stage of short isopolar hormogonia with several enlarged cells dividing in two planes occurred in young
+cultures of our strain. Similar structures were already reported in Westiellopsis prolifica Janet (1941: 170), and
+later in Rexia erecta Casamatta, Gomez et Johansen (2006: 23).
+Discrepancies between morphological and molecular data, as shown above, were reported before. An
+example of the same phenomenon was noted by Novis & Visnovsky (2011) describing the cyanobacterial
+genus Godleya Novis et Visnovsky (2011: 14). The type strain possesses an important diacritical feature of
+Scytonemataceae—isopolar development of the trichomes, but the 16S rDNA sequence is more similar to
+heteropolar Coleodesmium Geitler (1942:154) strain ANT.LH52B.5.
+The presented phylogenetic tree reveals also another fact: the obvious polyphyly in the genus Tolypothrix
+and consequently in the whole family Microchaetaceae. Two sequences of strains designated as T. distorta
+Kützing ex Bornet et Flahault (1887: 119), the type of the genus according to CyanoDB.cz (Komárek & Hauer
+2013), and one as T. tenuis Kützing ex Bornet et Flahault (1887: 122) fall in a well-supported cluster (Fig. 2,
+cluster A) with Spirirestis rafaelensis, another member of the family Microchaetaceae. Other sequences of
+strains designated as Tolypothrix, e.g. Tolypothrix PCC 7415, PCC 7504, UAM 337, or Microchaete
+diplosiphon Gomont ex Bornet et Flahault (1886: 211) strain CCALA 811, form a distant and also well
+supported cluster (Fig. 2, cluster B), where C. cimrmanii is a basal group. This disunity of the family was
+denoted already in work of Berrendero et al. (2011), where the authors distinguished two subclusters of
+Microchaetaceae. We propose that the family Microchaetaceae as currently concieved does not exist and
+further analyses of strains of its members are necessary. Obviously, the same revision awaits also the
+Rivulariaceae family.
+
+Conclusions
+We have described a new cyanobacterial genus from a “páramo” zone of Chirripó Mountain, Costa Rica. Our
+results clearly show the need for taxonomic revision of the families Microchaetaceae and Rivulariaceae.
+
+Acknowledgements
+The research was supported by grants GA CR P506/12/1818, MŠMT/AMVIS LH12100, and a long-term
+research development project no. RVO67985939. Access to the MetaCentrum and CERIT-SC computing
+facilities provided under the programmes National Grid Infrastructure MetaCentrum (LM2010005) and
+Center CERIT Scientific Cloud (CZ. 1.05/3.2.00/08.0144) funded by the Czech Republic and the European
+Union is highly acknowledged. The authors would like to thank Professor Ji í Komárek for valuable
+consultations concerning strain morphology and also anonymous referees for their comments leading to
+improvement of the manuscript.
+
+ř
+
+42 •
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+HAUER ET AL.
+
+References
+Berenderro, E., Perona, E. & Mateo, P. (2011) Phenotypic variability and phylogenetic relationships of the genera
+Tolypothrix and Calothrix (Nostocales, Cyanobacteria) from running water. International Journal of Systematic and
+Evolutionary Microbiology 61(12): 3039–3051.
+http://dx.doi.org/10.1099/ijs.0.027581-0
+Bischoff, H.W. & Bold, H.C. (1963) Phycological Studies. IV. Some soil algae from Enchanted Rock and related algal
+species. Universityof Texas Publications 6318: 1–95.
+Bornet, É. & Flahault, C. (1886) Revision des Nostocacées hétérocystées contenues dans les principaux herbiers de
+France. Annales des Sciences Naturelles, Botanique, Septième série 3: 323–381.
+Bornet, É. & Flahault, C. (1887) Revision des Nostocacées hétérocystées contenues dans les principaux herbiers de
+France. Annales des Sciences Naturelles, Botanique, Septième série 5: 51–129.
+Bornet, É. & Flahault, C. (1888) Revision des Nostocacées hétérocystées contenues dans les principaux herbiers de
+France. Annales des Sciences Naturelles, Botanique, Septième série 7: 177–262.
+Boyer, S.L., Flechtner, V.R. & Johansen, J.R. (2001) Is the 16S-23S rRNA internal transcribed spacer (ITS) region a
+good tool for use in molecular systematics and population genetics? A case study in cyanobacteria. Molecular
+Biology and Evolution 18: 1057–1069.
+http://dx.doi.org/10.1093/oxfordjournals.molbev.a003877
+Casamatta, D.A., Gomez, S.R. & Johansen, J.R. (2006) Rexia erecta gen. et sp. nov. and Capsosira lowei sp. nov., two
+newly described cyanobacterial taxa from the Great Smoky Mountains National Park (USA). Hydrobiologia 561:
+13–26.
+http://dx.doi.org/10.1007/s10750-005-1602-6
+Castenholz, R.W. (2001) General characteristics of the cyanobacteria. In: Boone, D.R. & Castenholz, R.W. (eds.)
+Bergey’s manual of systematic bacteriology, 2nd edition, volume 1. Springer, New York, pp. 474–487.
+Chakravorty, S., Helb, D., Burday, M., Connell, N. & Alland, D. (2007) A detailed analysis of 16S ribosomal RNA gene
+segments for the diagnosis of pathogenic bacteria. Journal Microbiological Methods 69(2): 330–339, http://
+dx.doi.org/10.1016/j.mimet.2007.02.005
+Ding, Y., Chan, C.Y. and Lawrence, C.E. (2004) Sfold web server for statistical folding and rational design of nucleic
+acids. Nucleic Acids Research 32 (Supplement 2): W135–W141.
+http://dx.doi.org/10.1093/nar/gkh449
+Flechtner, V. R., Boyer, S.L., Johansen, J.R. & DeNoble, M.L. (2002) Spirirestis rafaelensis gen. et sp. nov.
+(Cyanophyceae), a new cyanobacterial genus from arid soils. Nova Hedwigia 74: 1–24.
+Gardner, N.L. (1927) New Myxophyceae from Puerto Rico. Memoirs of the New York Botanical Garden 7: 1–144.
+Geitler, L. (1933) Diagnosen neuer Blaualgen von den Sunda-Inseln. Archiv für Hydrobiologie Supplement 12: 622–634.
+Geitler, L. (1942) Schizophyta: Klasse Schizophyceae. In: Engler, A. & Prantl, K. (eds.) Die natürlichen
+Pflanzenfamilien, Zweite Auflage. Volume 1b. Wilhelm Engelmann, Leipzig, pp. 1–232.
+Gouy, M., Guindon, S. & Gascuel, O. (2010) SeaView version 4 : a multiplatform graphical user interface for sequence
+alignment and phylogenetic tree building. Molecular Biology and Evolution 27: 221–224.
+http://dx.doi.org/10.1093/molbev/msp259
+Hoffmann, L., Komárek, J. & Kaštovský, J. (2005) System of cyanoprokaryotes (cyanobacteria) – state in 2004.
+Algological Studies 117: 95–115.
+http://dx.doi.org/10.1127/1864-1318/2005/0117-0095
+Janet, M. (1941). Westiellopsis prolifica, gen. et sp. nov., a new member of the Stigonemataceae. Annals of Botany 5(1):
+167–170.
+Johansen, J.R., Ková ik, L., Casamatta, D.A., Fu íková, K. & Kaštovský, J. (2011) Utility of 16S-23S ITS sequence and
+secondary structure for recognition of intrageneric and intergeneric limits within cyanobacterial taxa: Leptolyngbya
+corticola sp. nov. (Pseudanabaenaceae, Cyanobacteria). Nova Hedwigia 92(3–4): 283–302.
+Kaštovský, J., Fu íková, K., Hauer, T. & Bohunická, M.(2011) Microvegetation on the top of Mt. Roraima, Venezuela.
+Fottea 11(1): 171–186.
+Katoh, K., Asimenos, G. & Toh, H. (2009) Multiple alignment of DNA sequences with MAFFT. In: Posada, D. (ed.)
+Bioinformatics for DNA Sequence Analysis. Humana Press, Totowa, pp. 39–64.
+Komárek, J. & Anagnostidis, K. (1989) Modern approach to the classification system of Cyanotphytes 4 - Nostocales.
+Algological Studies 56: 247–345.
+Komárek, J. & Hauer, T. (2013) CyanoDB.cz - On-line database of cyanobacterial genera. Univ. of South Bohemia &
+Inst. of Botany AS CR. Available at http://www.cyanodb.cz (accessed 15 February 2013).
+Komárek, J. & Komárková-Legnerová, J. (2007) Taxonomic evaluation of the cyanobacterial microflora from alkaline
+marshes of northern Belize. 1. Phenotypic diversity of coccoid morphotypes. Nova Hedwigia 84(1–2): 65–111.
+http://dx.doi.org/10.1127/0029-5035/2007/0084-0065
+č
+
+č
+
+č
+
+CALOCHAETE GEN. NOV.
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+• 43
+
+Kotai, J. (1972) Instructions for preparation of modified nutrient solution Z8 for algae. Norwegian Institute for Water
+Research, publication B–11/69, Oslo, Blindern, 5 pp.
+Mühlsteinová, R. (2011) Aerophytic Cyanobacteria from San Gerardo de Rivas region, San José, CostaRica. BSc. Thesis
+(in Czech), University of South Bohemia, eské Bud jovice, 61 pp.
+Myers, N., Mittermeier, R.A., Mittermeier, C.G., da Fonseca, D.A.B. & Kent, J. (2000) Biodiversity hotspots for
+conservation priorities. Nature 403: 853–858. http://dx.doi.org/10.1038/35002501
+Nelissen, B., De Baere, R., Wilmotte, A. & De Wachter, R. (1996) Phylogenetic relationships of nonaxenic filamentous
+Cyanobacterial strains based on 16s rRNA sequence analysis. Journal of Molecular Evolution 42: 194–200.
+http://dx.doi.org/10.1007/BF02198845
+Novis, P.M. & Visnovsky, G. (2011) Novel alpine algae from New Zealand: Cyanobacteria. Phytotaxa 22: 1–24.
+Nübel, U., Garcia-Pichel, F., Muyzer, G. (1997) PCR primers to amplify 16S rRNA genes from cyanobacteria. Applied
+Environmental Microbiology 63: 3327–3332.
+Ronquist, F., Teslenko, M., van der Mark, P., Ayres, D., Darling, A., Höhna, S., Larget, B., Liu, L., Suchard, M.A. &
+Huelsenbeck, J.P. (2011) MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large
+model space. Systematic Biology 61(3): 539–542.
+http://dx.doi.org/10.1093/sysbio/sys029
+Yilmaz, M., Phlips, E. J. & Tillett, D. (2009) Improved methods for the isolation of cyanobacterial DNA from
+environmental samples. Journal of Phycology 45: 517–521.
+http://dx.doi.org/10.1111/j.1529-8817.2009.00651.x
+Wilmotte, A., Van der Auwera, G. & Dewachter, R. (1993) Structure of the 16S ribosomal-RNA of the thermophilic
+cyanobacterium Chlorogloeopsis HTF (Mastigocladus laminosus HTF) strain PCC7518, and phylogenetic analysis.
+FEBS Letters 317: 96–100.
+http://dx.doi.org/10.1016/0014-5793(93)81499-P
+Woese, C.R. & Fox, G.E. (1977) Phylogenetic structure of the prokaryotic domain: The primary kingdoms. Proceedings
+of the National Acadademyof Sciences if the United states of America 74(11): 5088–5090.
+Č
+
+Phytotaxa 109 (1) © 2013 Magnolia Press
+
+ě
+
+44 •
+
+HAUER ET AL.
+
+

@@ -1,0 +1,1988 @@
+Phytotaxa 127 (1): 163–182 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.16
+
+Water Quality and Wet Season Diatom Assemblage Characteristics from the
+Tamiami Trail Pilot Swales Sites (Everglades National Park, Florida, USA)
+ANDREW J. BRAMBURGER1, JAY W. MUNYON3 & EVELYN E. GAISER2,3
+1
+
+St. Lawrence River Institute of Environmental Sciences, Cownall, ON, K6H4Z1, Canada
+Email: abramburger@riverinstitute.ca (corresponding author)
+2
+Southeast Environmental Research Center, Florida International University, Miami FL, 33199, USA.
+3
+Department of Biological Sciences, Florida International University, Miami FL, 33199, USA.
+
+Abstract
+A pivotal component of hydrological restoration of the Florida Everglades is the improvement of water conveyance to
+Everglades National Park by the degradation of the current network of canals, roadways and levees. The Tamiami Trail
+(L29) road/canal complex represents a major barrier to natural water flows into the park and a variety of modification
+options for flow improvement are currently being explored, including the installation of spreader swales immediately
+downstream of culverts conveying water under Tamiami Trail from the L29 canal into Everglades National Park. In this
+study, we evaluated water column chemistry and wet-season diatom community structure to provide baseline
+information for use in future monitoring activities related to the proposed Tamiami Trail modifications. Water chemistry
+showed pronounced fluctuations in response to precipitation and anthropogenically mediated hydrological events.
+Differences in water quality variables among sites were dampened during periods of inundation, and became more
+pronounced during periods of low canal stage, suggesting the importance of small-scale mechanisms related to isolation
+of habitat patches. Diatom assemblages were unexpectedly speciose (127 taxa in 40 samples) compared to typical
+Everglades assemblages, and spatially heterogeneous in sites associated with concentric areas of dense vegetation
+immediately downstream of culverts. We also observed significant compositional dissimilarities among transects,
+indicating that culvert pool and north transect assemblages were substantially influenced by propagule input from the
+canal and areas to the north, while south transect sites were compositionally similar to typical sawgrass prairie diatom
+communities. Central transect sites were compositionally intermediate to their north and south counterparts. We propose
+that the position and spatial extent of this “transitional assemblage” is a sensitive indicator of subtle environmental
+change related to Tamiami Trail modifications.
+Key words: Florida Everglades, Comprehensive Everglades Restoration Plan (CERP), diatoms, wetlands, water
+management
+
+Introduction
+The Florida Everglades represent the largest subtropical wetland complex in North America, and also is one of
+the largest karstic wetland systems in the world (Noe et al. 2001, LeHee 2010, Richardson 2010, Lodge 2010,
+Gaiser et al. 2011). Historically, the greater Everglades ecosystem was comprised of a hydrologically
+continuous network of lakes, rivers and marshes extending from the Kissimmee Lakes in central Florida to the
+shores of Florida Bay. Until the early 20th century, the Everglades were viewed as a vast, inhospitable swamp,
+the last refuge of the Miccosukee and Seminole Indians and largely not worth further exploration (Blake 1980,
+Richardson 2008). During the 20th Century, a wide variety of efforts were made to tame the Everglades for
+agricultural and urban development (Hollander 2008, Richardson 2010). The result has been the creation of a
+network of canals, levees and flow control structures that now impede natural water flows theoughout South
+Florida.
+Accepted by M.B. Edlund: 14 Sept. 2012; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+163
+
+Waters that once would have flowed unimpeded from their headwaters near the Kissimmee Lakes through
+the Kissimmee River into Lake Okeechobee, and then overland through a variety of wetlands into what is now
+Everglades National Park (ENP; Steinman et al. 2002, Richardson 2010) now face a myriad of diversions and
+obstacles (SFWMD 1998). The impacts of impeded water conveyance in the Everglades are now blatantly
+apparent (Sklar et al. 2001). Shortened hydroperiods in the central Everglades sawgrass prairie have led to
+changes in the distribution and dynamics of plant communities and associated highly endemic periphyton
+assemblages (Slate and Stevenson 2000, Gottlieb et al. 2005, Saunders et al. 2006). In addition, elevated
+phosphorus inputs from canal point sources have impacted algal and plant communities both within the park
+and in the water conservation areas (WCA) to the north (Rashke 1993, McCormick & O’Dell 1996, Gaiser et
+al. 2006a, McCormick et al. 2009). Further south, seawater encroachment has elongated the mangrove
+ecotone between the freshwater and marine systems (Ross et al. 2000, 2001, Stewart et al. 2002, Gaiser et al.
+2006b).
+In response to the growing list of impacts to the Florida Everglades, several initiatives have been
+developed with the objective of preserving the system, and ultimately restoring it to a more “natural” state
+(Noe et al. 2001, Sklar et al. 2005). The most recent, and farthest reaching of these plans is the
+Comprehensive Everglades Restoration Plan (CERP), which aims in part to restore natural waterflows within
+the Everglades by degrading levees, infilling canals and bridging major roadways (RECOVER 2005). Of
+these roadways, the Tamiami Trail, a 160 km east-west section of US Highway 41 between Miami and
+Naples, FL is regarded as the lynchpin of the CERP plan. With only 55 culverts and four major flow control
+structures to convey water to the southern Everglades along its length, the road and the associated L29 canal
+act as a major dam and diversion to north-south flows. The modification of Tamiami Trail has been called "the
+Grand Experiment" by many stakeholders, and several options for maintaining improved water conveyance
+under the roadway are now being considered within CERP.
+One option that has been proposed to increase water flow into the southern Everglades is the construction
+of swales or spreader canals downstream of culverts in order to diffuse point-source culvert discharge and
+approximate sheet flow into ENP. The proposed Tamiami swales will be installed 8 m downstream (south) of
+the Tamiami Trail right of way (Fig. 2). They will be 330 m in length and 10 m in width, with depths
+determined by the bedrock boundary. Installation of these structures is not without inherent risks. Anticipated
+impacts of swale creation include increased water column turbidity and total suspended solids due to
+construction activity, increased pollutant loading and enhanced downstream transport of pollutants into ENP,
+and the downstream extension of the dense vegetation halos that currently surround culvert pools. We
+speculate that these halos have developed in response to enhanced point-source phosphorus inputs at the
+culvert outflows. This initial contribution incorporates a subset of data from a larger pilot project currently
+being undertaken in order to assess the effects of swale construction on water quality and biological integrity
+in the area adjacent to the Tamiami Trail culverts.
+Here, we examine the spatial and temporal variability of background water quality and wet-season diatom
+community structure prior to installation of spreader swales at pilot culverts. We test the null hypotheses that
+water chemistry does not differ significantly among transects or among monthly sampling events. We also
+evaluate the null hypotheses that diatom taxonomic richness and diversity do not differ significantly among
+transects and that no significant dissimilarity exists among diatom assemblages from different transects.
+Furthermore, we provide a synopsis of diatom taxa typically encountered at each transect as a baseline for
+future monitoring efforts.
+Due to their widespread distribution in aqueous environments and their ability to respond sensitively and
+quickly to environmental gradients, diatoms have been well established as ideal organisms for use in
+biological assessment (Lange-Bertalot 1979, LeClercq 1988, Round 1991, Dixit & Smol 1993). In the
+Everglades, diatoms have been shown to respond to several environmental gradients including phosphorus
+(Rashcke 1993, Gaiser et al. 2006) and other nutrients and ions (Cooper et al. 1999, Hagerthey et al. 2011,
+Gaiser et al. 2011). Where they are well-preserved in sediment records, diatoms and other siliceous
+microfossils have also been used as indicators of environmental change within the freshwater Everglades
+
+164 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+(Slate & Stevenson 2000, Winkler et al. 2001). As in other aquatic systems, diatoms can be found
+ubiquitously throughout the Everglades. Species assemblages, however, shift with changing landscapes. The
+culvert sites are located in the Northeast Shark slough, a typical ridge and slough type habitat where the
+characteristic diatom assemblage commonly includes Brachysira neoexilis Lange-Bertalot in Lange-Bertalot
+& G. Moser (1994: 51-54), Cyclotella meneghiniana Kützing (1844: 50), Encyonema evergladianum
+Krammer (1997: 193), Mastogloia smithii Thwaites ex W. Smith (1856: 65) (we now call this Mastogloia cf.
+lacustris (Grunow) Van Heurck (1880: pl. 4, fig. 14)) and Nitzschia palea var. debilis (Kützing) Grunow in
+Cleve & Grunow (1880: 96) (Gaiser et al. 2011). We expect to encounter these taxa within the southernmost
+transects of our sites, and assemblages more consistent with the central Everglades habitats of the water
+conservation areas in closer proximity to the culverts themselves. Childers et al. (2003) asserted that waters
+flowing into Everglades wetlands from canals or agricultural areas were significantly enriched in phosphorus,
+but waters within the Everglades typically exhibited very low phosphorus concentrations. We expect our
+results to follow this trend, with phosphorus levels decreasing downstream with distance from the canal.
+
+Methods
+Site description and sampling.
+Tamiami Trail forms the northern boundary of Everglades National Park. Four culverts passing under the road
+in Northeast Shark Slough (C43, C44, C47, C51, Fig. 1) were selected by the National Park Service for
+inclusion in the pilot swales study. Each culvert consists of three 1 m concrete tubes crossing under the road,
+and conveying water from the L29 canal. Immediately downstream of each culvert is an outflow scour pool
+approximately 1 m deep and 15 m across. A halo of dense vegetation comprised largely of pond apple
+(Annona glabra L.), coastal plain willow (Salix caroliniana Michx.) and leather fern (Acrostichum
+danaeifolium (Langsd.) Fisch.) surrounds the culvert pool concentrically and extends south for approximately
+100 m. Beyond the tree halo is a transitional area dominated by S. caroliniana and cattail (Typha domingensis
+Pers.), which extends south for another 100 m, where it is replaced by the sawgrass prairie dominated by
+Cladium jamaicense (Crantz) Britt., typical of the southern Everglades. Southern sites were also characterized
+by extensive periphyton mats composed of a mixture of benthic algae, bacteria, fungi and detritus. These mats
+are typical of the ridge and slough portions of the Everglades.
+At each culvert, we created three east-west transects (north, central and south), with three sites per
+transect (west, central and east Fig. 2). North transect sites were situated within the vegetation halo
+approximately 40 m south of the Tamiami Trail right of way. Central transect sites were located directly south
+of their northern transect counterparts, and positioned latitudinally to ensure that they were situated within the
+transitional area. Similarly, south transect sites were located due south of their northern and central
+counterparts, and placed within the sawgrass prairie. The locations of sites were selected to maximize the
+macrohabitat and vascular plant assemblage similarity of sites within each transect across culverts. We also
+created three canal sites immediately upstream of each culvert for a total of 12 grab sample sites per culvert.
+In addition to the transect sites, ISCO Model 6712 Portable Samplers were deployed at the downstream extent
+of each culvert site, just south of the south central station, in order to continuously monitor the quality of the
+water flowing through study sites.
+Filtered (0.5 µm nitrocellulose) and unfiltered water grab samples were taken monthly at each of the 36
+transect sites between December 2009and April 2010. Additionally, triplicate filtered and unfiltered samples
+were taken from the Tamiami Canal immediately upstream of each culvert as a control. ISCO autosamplers
+were programmed to sample 250 mL of water every 18 h in order to compile 1 L composite samples every 3
+days between October 2009 and April 2010.
+Diatom material was collected by removing material to fill a 20 mL scintillation vial from every available
+substrate type at each site, as well as from substrates within the culvert pools. At north and central sites,
+floating periphyton, benthos, woody debris and moss were often sampled, while at south sites substrata were
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 165
+
+primarily limited to benthos and periphyton mats. Diatom sampling took place in November 2009, during a
+period of relative climatic stability at the end of the 2009 wet season and prior to any potentially disruptive
+activity within the sites.
+
+FIGURE 1: Map of South Florida highlighting the Florida Everglades and the northern boundary of Everglades National Park,
+showing the location of the Tamiami pilot spreader swales culvert sites.
+
+Water Quality Analysis
+Unfiltered water grab samples and ISCO autosampler water samples were analyzed for total nitrogen (TN)
+and total phosphorous (TP), while filtered water grab samples were analyzed for Nitrate/Nitrite (N/N)
+Dissolved Organic Carbon (DOC), Ammonia (NH 3 ), and soluble reactive phosphorus (SRP). Total
+phosphorus was determined following EPA method 365.1, with modified sample preparation methods
+described by Solózano & Sharp (1980). Inorganic nutrient analyses (TN, NO 2 , NO 3 , NH 3 , SRP) were
+performed by simultaneous wet chemical analysis using a four-channel Alpkem RFA-300 Rapid Flow
+Analyzer according to EPA methods 353.2 (N+N, NO2), 350.1 (NH4) and 365.1 (SRP).
+Diatom Enumeration
+Composite samples were created for each site by combining 5 mL of sample slurry from each substrate within
+the site. Diatom material was cleaned using a hot nitric / sulphuric acid digestion and subsequently subjected
+to five cycles of distilled water rinsing and centrifugation. Cleaned diatom material was dried onto coverslips
+and mounted to light microscope (LM) slides with Naphrax® high resolution mountant from Borael Sciences
+Ltd.. Diatom valves were identified to the lowest possible taxonomic level (species or lower) and counted
+within random fields of view on each slide until either the end of the field of view in which the 200th valve of
+the most abundant taxon was encountered, or until the end of the 20th field of view. This technique typically
+
+166 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+produced counts of 250–500 valves per slide (as per Bramburger et al 2004). Diatom slides and material are
+currently housed at the St. Lawrence River Institute of Environmental Sciences, Cornwall, ON. Slide numbers
+Swales-001 to Swales-080.
+
+FIGURE 2: Stylized layout of a typical culvert site showing Tamiami Trail, the culvert and associated scourpool, the vegetation halo,
+transitional area, and locations of transect sampling sites and ISCO autosampler.
+
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 167
+
+FIGURE 3: Trends in water column nutrient concentration and Tamiami canal stage during the study period from October 2009
+through April 2010. 3a: Trends in total nitrogen concentration (µmol · L-1 ) at ISCO autosampler sites. 3b: Trends in total phosphorus
+concentration (µmol · L-1 ) at ISCO autosampler sites. 3c: Trends in Tamiami canal stage between S333 and S334 water control
+structures (South Florida Water Management District Data).
+
+168 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+Statistical Analysis
+Water quality data were normalized and Non-metric Multidimensional Scaling (NMDS) and a Two-way
+Analysis of Similarity (ANOSIM) were used to explore patterns of similarity among water samples by
+transect (canal, north, central, south) and by sampling event (Dec. 2009 - Apr. 2010), with Euclidean distance
+as the similarity matrix metric. In addition, Multivariate Dispersion Analysis (MVDISP) was used to examine
+cohesiveness of sample groups. Analyses were carried out using PRIMER 6 software. Diatom count data were
+used to calculate species richness (r) and Shannon's Index (H') (Shannon 1948) for each station. A series of
+One-way Analyses of Variance (ANOVA) with post-hoc Bonferroni testing were used to evaluate differences
+in mean r and H' among transects (pool, north, central, south) using the SPSS 16 statistical package. Further
+NMDS, MVDISP and ANOSIM analyses were used to examine patterns of diatom assemblage similarity
+among transects, using a Bray-Curtis similarity matrix.
+
+Results
+Water Quality
+A total of 241 composite water samples were taken by the ISCO autosamplers between October 23, 2009 and
+April 9, 2010. Total Nitrogen values ranged from 31.22 µmol · L-1 (C47 Dec. 5, 2009) to 190.49 µmol · L-1
+(C43 Mar. 13, 2010) and TP ranged from 0.03 µmol · L-1 (C47 Apr. 3 2010) to 1.69 µmol · L-1 (C44 Feb. 20,
+2010). Between late October and mid-December, 2009, TN fluctuated around a mean of 50 µmol · L-1 with
+strong concordance among autosampler sites (Fig. 3a). In December 2009, TN levels rose across by about 50
+µmol · L-1 at all culverts, and temporal fluctuations in TN values became more pronounced until a return to
+pre-December levels in late January 2010. This period corresponded to a drop in water levels as indicated by
+L29 canal stage measurements reported by the South Florida Water Management District (Fig. 3c). Despite
+fluctuations at all sites, a coarse temporal congruence was maintained until a period of high-stage water
+fluctuations beginning in March 2010. Total phosphorus remained low (< 0.40 µmol · L-1) across all sites
+throughout the sampling period. Some brief fluctuations occurred late in the sampling period concurrently
+with the high-stage water level fluctuation mentioned above.
+TABLE 1: A summary of water quality characteristics from the Tamiami pilot spreader swales transect sampling sites.
+Total Nitrogen (µmol · L-1 )
+Total Phosphorus (µmol · L-1 )
+Nitrate + Nitrite (µmol · L-1 )
+Nitrogen as Nitrate (µmol · L-1 )
+Nitrogen as Nitrite (µmol · L-1 )
+Nitrogen as Ammonia (µmol · L-1 )
+Dissolved Organic Carbon (µmol · L-1 )
+Soluble Reactive Phosphorus (µmol · L -1 )
+
+Mean
+68.19
+0.40
+3.54
+3.37
+0.17
+3.00
+1829.62
+0.06
+
+S.D.
+26.82
+0.31
+3.33
+3.24
+0.13
+3.43
+376.99
+0.05
+
+Max.
+162.23
+3.88
+13.22
+12.73
+0.63
+23.62
+3020.00
+0.33
+
+Min.
+26.03
+0.11
+0.03
+-0.04
+0.08
+0.19
+260.25
+0.01
+
+A total of 214 filtered and 214 unfiltered water grab samples were taken between December 2009 and
+April 2010. Total Nitrogen ranged from 26.06 µmol · L-1 (C44SW Feb 2010) to 162.23 µmol · L -1 (C44NW
+Apr. 2010, Fig. 4a). Total phosphorus values from the same samples ranged from 0.11 µmol · L-1 (C51SE Feb.
+2010) to 3.88 µmol · L-1 (C43NC Dec. 2009, Fig. 4b). Water quality variables were broadly homogeneous
+across sites, with increased TP being consistently observed closer to the park boundary (canal and north
+transect samples). A summary of water quality characteristics is provided in Table 1. NMDS ordination of
+water samples based on all measured water quality parameters at all sites showed a general interspersion of all
+groups (Fig. 5) and a One-way ANOSIM demonstrated that there were no significant dissimilarities among
+water quality grab samples from culvert to culvert (Global R = -0.008, p > 0.05). This result indicates that the
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 169
+
+FIGURE 4: Example of water column nutrient concentration from transect station water grab samples at culvert C47. 4a: Total
+nitrogen concentrations. 4b: Total phosphorus concentrations. Site names are represented by transect and location initials. For example
+NC is North transect, Central location.
+
+four culverts chosen were appropriate replicates from a water quality standpoint. Multivariate Dispersion
+Analysis (MVDISP) showed that the south transect samples represented the most spatially cohesive transect
+group among culvert sites (dispersion = 0.812) followed by the central transect sites (dispersion = 0.888) In
+NMDS, the southern transect sites clustered centrally on both axes, with some January samples clustered
+outside the main group. Conversely, the north transect samples were the most widely scattered spatial group
+(dispersion = 1.235). Within the north, central and south transects, samples clustered roughly according to
+
+170 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+sampling month. Temporally, the samples taken during the December 2009 and January 2010 sampling events
+represented the most heterogeneous groups (MVDISP, December dispersion = 1.438 January dispersion =
+1.332), while samples taken during the February, March and April 2010 sampling events were more
+homogeneously clustered (dispersion = 1.153, 0.708, 0.589, respectively). ANOSIM analyses showed that
+both transect (Global R = 0.146, p < 0.001) and sampling event (Global R = 0.436, P < 0.001) exerted
+significant effects on water sample similarity. Further pairwise Bonferroni tests demonstrated that samples
+within each transect differed significantly from those within all other transects (0.075 < R < 0.239, p < 0.002,
+Table 2a) with the exception that the south transect samples were not distinguishable from the canal samples
+(R = 0.260, p = 0.10, Table 2a). Similarly, samples taken within each sampling event differed significantly
+from those within all other sampling periods (0.146 < R < 0.534, p < 0.001, Table 2b).
+2D Stress: 0.15
+
+Transect
+T
+C
+N
+S
+R
+
+NH4-N (ppm)
+SRP(ppm)
+
+TP (ppm)
+NO2-N(ppm)
+N+N (ppm)
+O3-N(ppm)
+DOC(ppm)
+TN(ppm)
+
+2D Stress: 0.15
+
+Month
+D
+J
+F
+M
+A
+
+NH4-N (ppm)
+SRP(ppm)
+
+TP (ppm)
+NO2-N(ppm)
+N+N (ppm)
+O3-N(ppm)
+DOC(ppm)
+TN(ppm)
+
+FIGURE 5: Non-metric Multidimensional Scaling ordination plot for water column chemistry similarity among. 5a) Ordination plot
+with symbols representing sample transects. T represents Tamiami Canal, N represents North, C represents Central, S represents south
+and R represents reference. 5b) Ordination of samples according to sampling month, beginning with December 2009 (D). Euclidean
+distance is the distance metric for both plots.
+
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 171
+
+TABLE 2a: Water quality ANOSIM results by transect. Asterisk denotes significant dissimilarity (p < 0.05).
+North
+R = 0.102
+p = 0.002 *
+
+Canal
+
+Central
+R = 0.175
+p < 0.001 *
+R = 0.102
+p < 0.001 *
+
+North
+
+South
+R = 0.260
+p = 0.10
+R = 0.239
+p < 0.001 *
+R = 0.075
+p < 0.001 *
+
+Central
+
+TABLE 2b: Water quality ANOSIM results by month of sampling. Asterisk denotes significant dissimilarity (p < 0.05).
+December
+
+January
+R = 0.146
+p < 0.001 *
+
+January
+February
+March
+
+February
+R = 0.351
+p < 0.001 *
+R = 0.534
+p < 0.001 *
+
+March
+R = 0.348
+p < 0.001 *
+R = 0.319
+p < 0.001 *
+R = 0.546
+p < 0.001 *
+
+April
+R = 0.567
+p < 0.001 *
+R = 0.584
+p < 0.001 *
+R = 0.780
+p < 0.001 *
+R = 0.325
+p < 0.001 *
+
+Diatom Community Characteristics
+We encountered 127 diatom taxa (Table 4) in the 40 composite samples from the swales study area. Culvert
+pool sites exhibited visible diatom films upon sampling and were dominated numerically by an unnamed
+Achnanthes (Achnanthes ftsp. 13), Encyonema evergladianum, and Nitzschia amphibia var. amphibia Grunow
+(1862: 574). North transect sites typically supported sparse diatom communities with thin films comprised
+primarily of Achnanthes ftsp. 13, Eunotia ftsp. 09, Eunotia ftsp. 10 and N. amphibia var. amphibia. Diatom
+communities of the central sites were characterized by denser biofilms than north transect sites and were
+dominated by Eunotia monodon Ehrenberg (1843: pl. 2/5, fig. 7), Fragilaria synegrotesca Lange-Bertalot
+(1993: 49-50), Mastogloia smithii and Nitzschia semirobusta Lange-Bertalot (1993: 149-150). Southern
+transect sites frequently supported very dense periphyton mats containing profuse diatom communities, and
+counts of over 100 valves per field of view were not uncommon. These communities consisted almost
+exclusively of M. smithii. Encyonema evergladianum and F. synegrotesca were the secondarily dominant taxa
+in these assemblages.
+Taxonomic richness (r) ranged from 8 (C44 SC) to 38 (C51 NW) and mean r differed significantly among
+transects (Table 3, one-way ANOVA, F = 15.96, p < 0.001). Post-hoc Bonferroni testing demonstrated the
+south transect sites to be significantly less rich than the north and central sites (North-south Mean Difference
+= 15.175, p < 0.001; Central-south Mean Difference = 15.674, p < 0.01, Fig. 6a). Shannon's Index ranged
+from 0.40 (C44 SC) to 3.01 (C43 CE) and similarly to taxonomic richness, differed significantly among
+transects (Table 3, One-way ANOVA, F = 17.77, p < 0.001). Mean H' was significantly less at the south
+transect sites that at all other transects (Pool-south Mean Difference = 0.880, p = 0.028, North-south Mean
+Difference = 1.474, p < 0.001; Central-south Mean Difference = 1.081, p < 0.001; Fig. 6b).
+An NMDS ordination conducted to illustrate differences between diatom assemblage structure at transect
+sites showed pool sites largely interspersed with north transect sites (Fig. 7). Central transect sites clustered
+intermediately to north and south transect sites, and south transect sites formed a tight cluster with only minor
+overlap with a few central transect sites. Subsequent ANOSIM analysis of the same data revealed significant
+dissimilarities among transects (Global R = 0.557, p < 0.001). Post-hoc Bonferroni tests illustrated that pool
+sites were significantly dissimilar to central and south transect sites (Pool-central R = 0.41, p = 0.009; Poolsouth R = 0.98, p < 0.001). North transect sites were also significantly dissimilar to central and south transect
+sites (North-central R = 0.25, p = 0.002; North-south R = 0.945, p < 0.001), and central transect sites were
+significantly dissimilar to south transect sites (R = 0.402, p = 0.003). Despite the significant dissimilarities
+
+172 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+among transects, NMDS ordination shows central sites as being modestly interspersed with both north and
+south transect sites. MVDISP analysis revealed that the diatom assemblages of the South transect sites were
+the most cohesive (dispersion = 0.464), while north and central sites were the most heterogenous (dispersion =
+1.138 and 1.308, respectively).
+
+FIGURE 6: 6a: Mean taxonomic richness (r) by transect. Error bars denote 95% confidence interval. 6b: Mean Shannon Index (H') by
+transect. Error bars denote 95% confidence interval. Letters denote pairwise differences indicated by ANOVA.
+
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 173
+
+TABLE 3: Diatom species richness (r), Shannon’s Diversity Index (H’), maximum possible diversity (Hmax), and Evenness
+(E) for each sample site. Site names are given as the culvert number followed by transect (Pool, North, Central, South) and
+location (East, Central, West) initials. For example C43NW represents culvert 43, northern transect, western location.
+Site
+
+r
+
+H'
+
+Hmax
+
+E
+
+C43P
+
+23
+
+2.389
+
+3.135494
+
+0.761921
+
+C43NW
+
+12
+
+2.334
+
+2.484907
+
+0.939271
+
+C43NC
+
+24
+
+2.894
+
+3.178054
+
+0.91062
+
+C43NE
+
+25
+
+2.494
+
+3.218876
+
+0.774805
+
+C43CW
+
+30
+
+2.006
+
+3.401197
+
+0.589792
+
+C43CC
+
+14
+
+0.8
+
+2.639057
+
+0.303139
+
+C43CE
+
+28
+
+3.008
+
+3.332205
+
+0.902706
+
+C43SW
+
+14
+
+0.945
+
+2.639057
+
+0.358082
+
+C43SC
+
+9
+
+0.797
+
+2.197225
+
+0.36273
+
+C44P
+
+15
+
+1.113
+
+2.70805
+
+0.410997
+
+C44NW
+
+33
+
+2.787
+
+3.496508
+
+0.797081
+
+C44NC
+
+33
+
+2.761
+
+3.496508
+
+0.789645
+
+C44NE
+
+21
+
+1.752
+
+3.044522
+
+0.57546
+
+C44CW
+
+29
+
+2.271
+
+3.367296
+
+0.674428
+
+C44CC
+
+34
+
+2.215
+
+3.526361
+
+0.628126
+
+C44CE
+
+32
+
+2.3
+
+3.465736
+
+0.66364
+
+C44SW
+
+9
+
+0.482
+
+2.197225
+
+0.219368
+
+C44SC
+
+8
+
+0.401
+
+2.079442
+
+0.19284
+
+C44SE
+
+22
+
+1.492
+
+3.091042
+
+0.482685
+
+C47P
+
+20
+
+1.875
+
+2.995732
+
+0.62589
+
+C47NW
+
+29
+
+2.838
+
+3.367296
+
+0.842813
+
+C47NC
+
+35
+
+2.898
+
+3.555348
+
+0.81511
+
+C47NE
+
+24
+
+1.755
+
+3.178054
+
+0.552225
+
+C47CW
+
+37
+
+2.322
+
+3.610918
+
+0.64305
+
+C47CC
+
+22
+
+1.856
+
+3.091042
+
+0.600445
+
+C47CE
+
+31
+
+2.793
+
+3.433987
+
+0.81334
+
+C47SW
+
+14
+
+1.128
+
+2.639057
+
+0.427425
+
+C47SC
+
+14
+
+1.831
+
+2.639057
+
+0.693808
+
+C47SE
+
+9
+
+0.992
+
+2.197225
+
+0.451479
+
+C51P
+
+21
+
+2.244
+
+3.044522
+
+0.737061
+
+C51NW
+
+38
+
+2.829
+
+3.637586
+
+0.777714
+
+C51NC
+
+31
+
+2.615
+
+3.433987
+
+0.761505
+
+C51NE
+
+32
+
+2.029
+
+3.465736
+
+0.585446
+
+C51CW
+
+20
+
+1.558
+
+2.995732
+
+0.520073
+
+C51CC
+
+27
+
+1.645
+
+3.295837
+
+0.499115
+
+C51CE
+
+39
+
+2.497
+
+3.663562
+
+0.681577
+
+C51SW
+
+13
+
+0.905
+
+2.564949
+
+0.352833
+
+C51SC
+
+12
+
+0.901
+
+2.484907
+
+0.362589
+
+C51SE
+
+18
+
+1.402
+
+2.890372
+
+0.485059
+
+174 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+Discussion
+As efforts to restore the Florida Everglades to a more natural flow regime progress, Tamiami Trail and the
+associated L29 canal pose a major obstacle to improved water conveyance into the southern Everglades.
+Several alternatives have been proposed with the aim of overcoming this obstacle, including the installation of
+spreader swales immediately downstream of culverts under the road right of way. The objective of this study
+was to provide pre-impact water quality and wet-season diatom community data to be used as a baseline for
+monitoring efforts post-swale installation and to assess the viability of diatoms as an assessment tool for
+future monitoring.
+Our results demonstrated that the water quality characteristics of the northern portion of Everglades
+National Park can exhibit substantial spatial and temporal variability, which may be regulated both directly
+and indirectly by stage in the Tamiami Canal. Water column TP remained consistently low (~ 0.40 µmol · L-1)
+across all sites, and showed little variability in time or space. These results are consistent with Gaiser et al.
+(2006a; 0.36 µmol · L-1 < TP < 3.6 µmol · L-1 for WCAs and ENP) and Childers et al. (2003; ~ 0.3 µmol · L-1)
+and support assertions that periphyton TP is a better indicator of phosphorus loading and fate in the
+Everglades than water column TP (Gaiser et al. 2004). Water column TN, on the other hand, exhibited
+substantial temporal and spatial diversity, which often was driven by fluctuations in precipitation or Tamiami
+Canal stage. TN concentrations from the ISCO samples almost tripled during a period of low stage in the L29
+canal in December 2009 and January 2010. Water quality at grab sample sites also showed its greatest spatial
+variability during the low stage period as indicated by MVDISP analysis and NMDS ordination (Fig. 5b).
+These results suggest that the spatial patchiness of water quality characteristics is regulated by canal stage
+through inundation of downstream habitats by canal water inputs. During periods of inundation (i.e. March,
+April 2010), water column chemistry is regulated largely by inputs from the Tamiami Canal, and water quality
+at sites essentially is homogeneous (Fig. 5b). During periods of low canal stage (i.e. December 2009, January
+2010), areas downstream of the culverts are no longer completely inundated, and water chemistry is regulated
+by small-scale mechanisms operating within isolated parcels of water. This phenomenon was most
+pronounced at the north and central transect sites, while south transect sites remained relatively homogeneous
+throughout the sampling period.
+Like the water, the diatom communities within the swales sample area exhibit a substantial degree of
+spatial heterogeneity. One hundred twenty-seven diatom taxa were encountered in this study, and while this
+represents a high taxonomic diversity for such a small area in the Everglades, the richness is consistent with
+other studies that examined a similar variety of habitat types (138 taxa from 125 samples ranging from Lake
+Okeechobee to the oligohaline ecotone; CERP 2005 unpublished data). Diatom diversity, expressed both as
+species richness and as Shannon's index, was highest in the north and central transect sites. This elevated
+diversity is reflective of the increased structural complexity of the available habitat within the vegetation halo
+and surrounding area, as we were able to sample three different substrate types (benthos, periphyton, woody
+debris) in all of the north and central transect sites, but only two at the southern sites. These results are
+consistent with patterns observed elsewhere in the Everglades (CERP 2005 unpublished data) and with
+relationships between structural habitat complexity and taxonomic diversity demonstrated in other systems
+(MacArthur & MacArthur 1961, Connell & Orias 1964, Pianka 1967, Johnson & Simberloff 1974, Taniguchi
+& Tokeshi 2004, Bramburger et al. 2008).
+General NMDS patterns illustrated that pool diatom assemblages had a high degree of overlap with north
+transect assemblages (Fig. 7) at the end of the wet season. Although these assemblages bear a strong
+resemblance to those observed in WCA2 and WCA3 (Gaiser et al. 2006, McCormick and O’Dell 1996), and
+the overlap observed here is probably a phenomenon driven by propagule flow, increased MVDISP dispersion
+among north and central sites emphasizes the influence of habitat complexity on these assemblages.
+Contrastingly, diatom assemblages at the south transect sites were identified by ANOSIM as being distinct to
+all other groups within the study, and exhibited lower dispersion among sites than north and central transect
+
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 175
+
+sites, demonstrating the effects of lower structural habitat complexity, longer periods of inundation, and the
+self-stabilizing nature of the unique periphyton mats commonly observed in the southern Everglades (Donar
+et al. 2004, Gaiser et al. 2011). Although diatoms were sampled during an inundated period at the end of the
+wet season prior to the initiation of construction activities at the swales sites, patterns of assemblage similarity
+were reflective of water quality patterns observed during periods of low water depth in December 2009 and
+January 2010. Taken together, these findings illustrate the importance of habitat heterogeneity and occasional
+isolation of habitat patches via drying in the maintenance of diatom community diversity in Everglades
+National Park.
+
+FIGURE 7: Non-metric Multidimensional Scaling ordination plot for diatom assemblage similarity among transect sites. Bray-Curtis
+similarity is the distance metric. Two dimensional stress = 0.15.
+
+This study highlights the importance of monitoring and adaptive management as the Tamiami Trail
+modifications continue. Our data suggest that water column chemistry is prone to frequent fluctuations in
+response to weather patterns and anthropogenically-regulated hydrology, and is perhaps too confounded to
+serve as an ideal indicator of the effects of spreader swale installation. Diatom assemblages, on the other hand,
+are relatively unaffected by short-term changes in precipitation and hydrological management, but appear to
+be sensitive indicators of changes in environmental parameters associated with long-term change (Pan et al
+2000, Gaiser et al 2006, Bramburger et al 2008). The composition of assemblages within the transitional area
+(central transect) is of particular interest, and shifts in the composition of these sites towards assemblages
+more characteristic of either the northern or southern transects could help to elucidate the effects of spreader
+swale installation on subtle habitat characteristics. Multi-variable models such as NMDS based on diatom
+community data will provide a useful means of monitoring compositional trends post-swale installation.
+From a management perspective, it is important to be clear about the desired outcome of flow regime
+modifications. This study suggests the importance of habitat diversity in the maintenance of spatially and
+taxonomically diverse diatom assemblages, consistent with currently and classically accepted paradigms of
+structural complexity supporting biodiversity (MacArthur & MacArthur 1961, Pianka 1967). It is possible
+that the proposed hydrological modifications, which should result in continuous inundation at our north and
+central transect sites, will result in decreased spatial heterogeneity in the north and central transect diatom
+
+176 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+assemblages, and a shift to assemblages more characteristic of the southern sawgrass prairie. Alternatively,
+improved water conveyance into the park could increase propagule pressure, and result in a southward
+expansion of assemblages typically reported from the water conservation areas north of Tamiami Trail. The
+importance of a sensitive monitoring program and adaptive management strategies for projects improving
+water conveyance to Everglades National Park cannot be overstated. This study suggests that wetland diatom
+assemblages are sensitive, assimilative indicators of long-term trends, and may provide evidence
+complementary to traditional water quality analysis.
+TABLE 4: A list of diatom taxa reported from the swales water grab transect sites.
+Number of Occurrences
+
+Mean Relative Abundance
+when Present
+
+Achnanthes exigua var. constricta
+
+1
+
+< 0.01
+
+Achnanthes exigua var. heterovalva
+
+10
+
+0.02
+
+Achnanthes ftsp 01
+
+1
+
+0.01
+
+Achnanthes ftsp 07
+
+7
+
+0.09
+
+Achnanthes ftsp 13
+
+28
+
+0.17
+
+Achnanthes linearis f. curta
+
+5
+
+0.01
+
+Achnanthes minutissima var. gracillima
+
+19
+
+0.02
+
+Achnanthes minutissimum
+
+2
+
+0.01
+
+Amphora ftsp 04
+
+1
+
+0.01
+
+Amphora lybica
+
+9
+
+0.02
+
+Amphora sulcata
+
+7
+
+0.01
+
+Amphora veneta
+
+1
+
+0.01
+
+Aulacoseira islandica
+
+12
+
+0.02
+
+Aulacoseira italica
+
+7
+
+0.05
+
+Bacillaria paxilifer
+
+4
+
+0.01
+
+Brachysira neoacuta
+
+13
+
+0.01
+
+Brachysira neoexilis
+
+33
+
+0.03
+
+Caloneis bacillum
+
+14
+
+0.02
+
+Caloneis sp. 1
+
+1
+
+< 0.01
+
+Cyclotella meneghiniana
+
+12
+
+< 0.01
+
+Cymbella ftsp 02
+
+11
+
+< 0.01
+
+Cymbella ftsp 03
+
+1
+
+0.01
+
+Cymbella ftsp 04
+
+1
+
+0.01
+
+Cymbella ftsp 05
+
+1
+
+< 0.01
+
+Cymbella laevis
+
+1
+
+< 0.01
+
+Diploneis oblongella
+
+16
+
+0.02
+
+Diploneis parma
+
+26
+
+0.01
+
+Encyonema evergladianum
+
+35
+
+0.06
+
+Encyonema ftsp 01
+
+5
+
+< 0.01
+
+Encyonema ftsp 02
+
+7
+
+0.01
+
+Encyonema ftsp 04
+
+1
+
+0.04
+
+Encyonema ftsp 10
+
+8
+
+0.01
+
+Encyonema ftsp 11
+
+4
+
+0.02
+
+Encyonema silesiacum var. elegans
+
+18
+
+0.01
+
+Encyonema sjsp 03
+
+2
+
+0.01
+
+Encyonopsis ftsp 02
+
+2
+
+0.01
+
+Encyonopsis microcephala
+
+2
+
+Taxon
+
+0.01
+......continued on the next page
+
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 177
+
+TABLE 4. (Continued)
+Number of Occurrences
+
+Mean Relative Abundance
+when Present
+
+4
+
+0.01
+
+Eunotia ftsp 03
+
+1
+
+< 0.01
+
+Eunotia ftsp 09
+
+18
+
+0.05
+
+Eunotia ftsp 10
+
+28
+
+0.10
+
+Eunotia ftsp 11
+
+1
+
+0.01
+
+Eunotia ftsp 12
+
+3
+
+0.03
+
+Eunotia monodon morph 1
+
+1
+
+0.01
+
+Eunotia monodon morph 2
+
+20
+
+0.03
+
+Eunotia naegeli
+
+11
+
+0.04
+
+Fragilaria delicatissima
+
+7
+
+0.04
+
+Fragilaria filiformis
+
+1
+
+< 0.01
+
+Fragilaria ftsp 07
+
+1
+
+< 0.01
+
+Taxon
+Eunotia ftsp 01
+
+Fragilaria ftsp 15
+
+3
+
+0.08
+
+Fragilaria geocollegarum
+
+11
+
+0.04
+
+Fragilaria synegrotesca
+
+29
+
+0.07
+
+Fragilaria ulna
+
+21
+
+0.02
+
+Gomphonema affine
+
+16
+
+0.02
+
+Gomphonema affine var. rhombicum
+
+2
+
+0.01
+
+Gomphonema auritum
+
+1
+
+0.01
+
+Gomphonema clavatulum (cf)
+
+1
+
+0.01
+
+Gomphonema contraturris
+
+3
+
+0.03
+
+Gomphonema ftsp 18
+
+1
+
+0.01
+
+Gomphonema gracile
+
+6
+
+0.01
+
+Gomphonema intricatum
+
+2
+
+0.01
+
+Gomphonema intricatum var. vibrio
+
+11
+
+0.01
+
+Gomphonema parvulum
+
+1
+
+< 0.01
+
+Gomphonema parvulum var. exilissium
+
+2
+
+0.01
+
+Gomphonema parvulum var. lagenula
+
+20
+
+0.02
+
+Gomphonema pratense
+
+1
+
+0.02
+
+Gomphonema vibrioides (cf)
+
+16
+
+0.02
+
+Gyrosigma obscurum
+
+6
+
+0.01
+
+Lemnicola hungarica
+
+1
+
+0.03
+
+Mastogloia lanceolata
+
+1
+
+< 0.01
+
+Mastogloia asperuloides
+
+1
+
+< 0.01
+
+Mastogloia smithii
+
+24
+
+0.44
+
+Mastogloia smithii var. lacustris
+
+10
+
+0.02
+
+Navicula brasiliana
+
+1
+
+< 0.01
+
+Navicula constans
+
+3
+
+0.01
+
+Navicula cryptocephala
+
+17
+
+0.01
+
+Navicula ftsp 01
+
+2
+
+0.05
+
+Navicula ftsp 02
+
+4
+
+0.01
+
+Navicula ftsp 05
+
+12
+
+0.02
+
+Navicula ftsp 06
+
+6
+
+0.01
+
+Navicula ftsp 15
+
+1
+
+< 0.01
+
+Navicula ftsp 17
+
+3
+
+0.02
+......continued on the next page
+
+178 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+TABLE 4. (Continued)
+Number of Occurrences
+
+Mean Relative Abundance
+when Present
+
+Navicula ftsp 20
+
+2
+
+< 0.01
+
+Navicula ftsp 25
+
+2
+
+0.01
+
+Navicula ftsp 26
+
+1
+
+0.01
+
+Navicula ftsp 29
+
+2
+
+0.03
+
+Navicula integra (cf)
+
+2
+
+0.01
+
+Navicula oblonga
+
+1
+
+0.01
+
+Navicula pusilla (cf)
+
+1
+
+< 0.01
+
+Navicula radiosa
+
+32
+
+0.03
+
+Navicula radiosafallax
+
+3
+
+0.01
+
+Navicula sjsp 01
+
+7
+
+0.01
+
+Navicula stroemii
+
+1
+
+0.09
+
+Navicula subtilissima
+
+2
+
+0.01
+
+Nitzschia acicularis
+
+1
+
+0.01
+
+Nitzschia amphibia f. frauenfeldi
+
+3
+
+0.01
+
+Nitzschia amphibia
+
+23
+
+0.06
+
+Nitzschia amphibia var. rostrata
+
+8
+
+0.01
+
+Nitzschia ftsp 02
+
+2
+
+0.01
+
+Nitzschia ftsp 06
+
+1
+
+< 0.01
+
+Nitzschia ftsp 09
+
+1
+
+0.01
+
+Nitzschia ftsp 24
+
+1
+
+0.01
+
+Nitzschia nana
+
+23
+
+0.02
+
+Nitzschia palea var. debilis
+
+13
+
+0.02
+
+Nitzschia scalaris
+
+13
+
+0.01
+
+Nitzschia semirobusta
+
+29
+
+0.06
+
+Nitzschia serpentiraphe
+
+2
+
+0.01
+
+Pinnularia acrosphaeria
+
+5
+
+0.01
+
+Pinnularia ftsp 01
+
+3
+
+< 0.01
+
+Pinnularia ftsp 10
+
+1
+
+0.01
+
+Pinnularia ftsp 13
+
+5
+
+0.01
+
+Pinnularia ftsp 20
+
+2
+
+0.03
+
+Pinnularia gibba
+
+1
+
+< 0.01
+
+Pinnularia microstauron
+
+9
+
+0.01
+
+Pinnularia stryptoraphe
+
+1
+
+< 0.01
+
+Pinnularia viridiformis
+
+1
+
+0.01
+
+Pleurosigma salinarum
+
+5
+
+0.01
+
+Rhopalodia gibba
+
+10
+
+0.01
+
+Sellaphora pupula
+
+10
+
+0.01
+
+Sellaphora pupula var. rectangularis
+
+1
+
+0.01
+
+Stauroneis anceps
+
+1
+
+0.01
+
+Stauroneis phoenicenteron
+
+4
+
+0.01
+
+Stauroneis producta (cf)
+
+1
+
+< 0.01
+
+Staurosirella pinnata
+
+1
+
+0.01
+
+Thalassiosira bramaputrae
+
+5
+
+< 0.01
+
+Thalassiosira ftsp 01
+
+1
+
+< 0.01
+
+Terpinsöe musica
+
+2
+
+0.01
+
+Taxon
+
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 179
+
+Acknowledgements
+This project was funded by Cooperative Agreement H5000060104, Task No. J5281099003 between
+Everglades National Park (ENP) and Florida International University. This publication was produced in
+collaboration with the Florida Coastal Everglades Long-Term Ecological Research program (under National
+Science Foundation Grant Nos. DEB-9910514 and DBI-0620409) and is contribution number 613 of the
+Southeast Environmental Research Center. We thank Franco Tobias for assistance with field and laboratory
+research, Alicia LoGalbo and Mike Zimmerman for helpful discussions about this design of the project, and
+MacKenzie Waller for GIS and mapping assistance.
+
+References
+Blake, N.M. (1980) Land into Water – Water into Land: A History of Water Management in Florida. University Presses
+of Florida, Tallahassee.
+Bramburger, A.J., Haffner, G.D. & Hamilton, P.B. (2004) Examining the distributional patterns of the diatom flora of the
+Malili Lakes, Sulwesi Island, Indonesia. In Poulin, M. (ed.) Proceedings of the 17th International Diatom
+Symposium. Biopress Ltd., Bristol, pp. 11–17.
+Bramburger, A.J., Hamilton, P.B., Hehanussa, P.E. & Haffner, G.D. (2008) Spatial patterns of planktonic and benthic
+diatom distribution and assemblage similarity in Lake Matano (Sulawesi Island, Indonesia). In: Likhoshway, Ye.
+(ed.) Proceedings of the 19th International Diatom Symposium. Biopress, Bristol, pp. 1–13.
+Childers, D.L., Doren, R.F., Noe, R.F., Rugge, M. & Scinto, L.J. (2003) Decadal change in vegetation and soil
+phosphorus patterns across the Everglades landscape. Journal of Environmental Quality 32: 344–362.
+Cleve, P.T. & Grunow, A. (1880) Beiträge zur Kenntniss der Arctischen Diatomeen. Kongliga Svenska-Vetenskaps
+Akademiens Handlingar 17(2): 121 pp., 7 pls.
+Connell, J.H. & Orias, E. (1964) The ecological regulation of species diversity. The American Naturalist 98: 399–414.
+http://dx.doi.org/10.1086/282335
+Cooper, S.R., Huvane, J., Vaithiyanathan, P. & Richardson, C.J. (1999) Calibration of diatoms along a nutrient gradient
+in Florida Everglades Water Conservation Area-2A, USA. Journal of Paleolimnology 22: 413–437.
+http://dx.doi.org/10.1023/A:1008049224045
+Dixit, S.S. & Smol, J.P. (1993) Diatoms as indicators in the Environmental Monitoring and Assessment Program –
+Surface Waters (EMAP-SW). Environmental Monitoring and Assessment 31: 275–307.
+Donar, C.M., Condon, K.W., Gantar, M. & Gaiser, E.E. (2004) A new technique for examining the physical structure of
+Everglades floating periphyton mat. Nova Hedwigia 78: 107–119.
+http://dx.doi.org/10.1127/0029-5035/2004/0078-0107
+Ehrenberg, C.G. (1843) Verbreitung und Einflufs des mikroskopischen Lebens in Süd-und Nord-Amerika. Abhandlungen
+der Königlichen Akademie der Wissenschaften zu Berlin 1841: 291–445, 4 pls.
+Gaiser, E. (2009) Periphyton as an indicator of restoration in the Everglades. Ecological Indicators 9: S37–S45.
+http://dx.doi.org/10.1016/j.ecolind.2008.08.004
+Gaiser, E.E., Scinto, L.J., Richards, J.H., Jayachandran, K., Childers, D.L., Trexler, J.C. & Jones, R.D. (2004)
+Phosphorus in periphyton mats provides the best metric for detecting low-level P enrichment in an oligotrophic
+wetland. Water Research 38: 507–516.
+http://dx.doi.org/10.1016/j.watres.2003.10.020
+Gaiser, E.E., Trexler, J.C., Richards, J.H., Childers, D.L., Lee, D., Edwards, A.L., Scinto, L.J., Jayachandran, K., Noe,
+G.B. & Jones, R.D. (2005) Cascading ecological effects of low-level phosphorus enrichment in the Florida
+Everglades. Journal of Environmental Quality 34: 717–723.
+http://dx.doi.org/10.2134/jeq2005.0717
+Gaiser, E.E., Richards, J.H., Trexler, J.C., Jones, R.D. & Childers, D.L. (2006a) Periphyton responses to eutrophication
+in the Florida Everglades: Cross-system patterns of structural and compositional change. Limnology and
+Oceanography 51: 617–630.
+http://dx.doi.org/10.4319/lo.2006.51.1_part_2.0617
+Gaiser, E.E., Zafiris, A., Ruiz, P.L., Tobias, F. & Ross, M.S. (2006b) Tracking rates of ecotone migration due to saltwater encroachment using fossil mollusks in coastal South Florida. Hydrobiologia 569: 237–257.
+http://dx.doi.org/10.1007/s10750-006-0135-y
+Gaiser, E.E., McCormick, P.V., Hagerthey, S.E. & Gottlieb, A.D. (2011) Landscape patterns of periphyton in the Florida
+Everglades. Critical Reviews in Environmental Science and Technology 41(Supplement 1): 92–120.
+
+180 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+http://dx.doi.org/10.1080/10643389.2010.531192
+Gaiser, E., Trexler, J. & Wetzel, P. (2011) The Everglades. In Batzer, D. and A. Baldwin (eds). Wetland habitats of
+North America: Ecology and Conservation Concerns. University of California Press, Berkeley.
+Gottlieb, A. Richards, J. & Gaiser, E.E. (2005) Effects of dessication duration on the community structure and nutrient
+retention of short and long-hydroperiod Everglades periphyton mats. Aquatic Botany 82: 99–112.
+http://dx.doi.org/10.1016/j.aquabot.2005.02.012
+Grunow, A. (1862) Die österreichischen Diatomaceen nebst Anschluss einiger neuen Arten von andern Lokalitäten und
+einer kritischen Uebersicht der bisher bekannten Gattungen und Arten. Erste Folge. Epithemieae, Meridioneae,
+Diatomeae, Entopyleae, Surirelleae, Amphipleureae. Zweite Folge. Familie Nitzschieae. Verhandlungen der
+Kaiserlich-Königlichen Zoologisch-Botanischen Gesellschaft in Wien 12: 315–472, 545–588, 7 pls.
+Hagerthey, S.E., Bellinger, B.J., Wheeler, K., Gantar, M. & Gaiser, E. (2011) Everglades periphyton: A biogeochemical
+perspective. Critical Reviews in Environmental Science and Technology 41(Supplement 1): 309–343.
+http://dx.doi.org/10.1080/10643389.2010.531218
+Hollander, G.M. (2008) Raising Cane in the ‘Glades: The Global Sugar Trade and the Transformation of Florida.
+University of Chicago Press, Chicago.
+Johnson, M.P. & Simberloff, D.S. (1974) Environmental determinants of island species numbers in the British Isles.
+Journal of Biogeography 1: 149–154.
+http://dx.doi.org/10.2307/3037964
+Krammer, K. (1997) Die cymbelloiden Diatomeen. Ein Monographie der weltweit bekannten Taxa. Teil 2. Encyonema
+part., Encyonopsis and Cymbellopsis. Bibliotheca Diatomologica 37: 463 pp
+Kützing, F.T. (1844) Die Kieselschaligen. Bacillarien oder Diatomeen. Nordhausen. 152 pp., 30 pls.
+La Hee, J.M. (2010) "The Influence of Phosphorus on Periphyton Mats from the Everglades and Three Tropical Karstic
+Wetlands". FIU Electronic Theses and Dissertations. Paper 251. http://digitalcommons.fiu.edu/etd/251
+Lange-Bertalot, H. (1979) Pollution tolerance as a criterion for water quality estimation. Nova Hedwigia 64: 285–304.
+Lange-Bertalot, H. (1993) 85 neue taxa und über 100 weitere neu definierte Taxa ergänzend zur Süsswasserflora von
+Mitteleuropa, Vol. 2/1–4. Bibliotheca Diatomologica 27: 164 pp., 134 pls.
+Lange-Bertalot, H. & Moser, G. (1994) Brachysira. Monographie der Gattung. Bibliotheca Diatomologica 29: 1–212.
+Leclercq, L. (1988) Utilisation de trois indices, chimique, diatomique et biocénotique, pour l’évaluation de la qualité de
+l’eau de la Joncquiere, rivière calcaire polluée par le village de Doische (Belgique, Prov. Namur) Mémoires de la
+Société Royale de Botanique de Belgique. 10: 26–34.
+Light, S.S. & Dineen, J.W. (1994) Water control in the Everglades: a historical perspective. In, Davis, S.M. and J.C.
+Ogden (eds). Everglades. The Ecosystem and its Restoration. St. Lucy Press, Delray Beach.
+Lodge T.E. (2010) The Everglades Handbook: Understanding the Ecosystem, 3rd Ed. CRC Press, Boca Raton.
+MacArthur, R.H. & MacArthur, J.W. (1961) On bird species diversity. Ecology 42: 594–598.
+http://dx.doi.org/10.2307/1932254
+McCormick, P.V., & O'Dell, M.B. (1996) Quantifying periphyton responses to phosphorus in the Florida Everglades: a
+synoptic-experimental approach. Journal of the North American Benthological Society. 15: 450–468.
+http://dx.doi.org/10.2307/1467798
+McCormick, P.V., Newman, S. & Vilcheck, L.W. (2009) Landscape responses to wetland eutrophication: loss of slough
+habitat in the Florida Everglades, USA. Hydrobiologia. 621: 105–114.
+http://dx.doi.org/10.1007/s10750-008-9635-2
+Noe, G.B., Childers, D.L. & Jones, R.D. (2001) Phoshorus biogeochemistry and the impact of phosphorus enrichment:
+Why is the Everglades so unique? Ecosystems 4: 603–624.
+http://dx.doi.org/10.1007/s10021-001-0032-1
+Pan, Y., Stevenson, R.J., Vaithiyanathan, P., Slate, J. & Richardson, C.J. (2000) Changes in algal assemblages along
+observed and experimental phosphorus gradients in a subtropical wetland, U.S.A. Freshwater Biology 44: 339–353.
+http://dx.doi.org/10.1046/j.1365-2427.2000.00556.x
+Pianka, E.R. (1964) Lizard species density in the Kalahari Desert. Ecology 52: 1024–1029.
+http://dx.doi.org/10.2307/1933808
+Raschke, R.L. (1993) Diatom (Bacillariophyta) community response to phosphorus in the Everglades National Park,
+USA. Phycologia 32: 48–58.
+http://dx.doi.org/10.2216/i0031-8884-32-1-48.1
+RECOVER. (2005) Assessment Strategy for the Monitoring and Assessment Plan. United States Army Corps of
+Engineers, Jacksonville District, Jacksonville, Florida, and South Florida Water Management District, West Palm
+Beach, Florida.
+Richardson, C.J. (2008) The Everglades experiments: lessons for ecosystem restoration. Springer, New York.
+Richardson, C.J. (2010) The Everglades: North America’s subtropical wetland. Wetlands Ecological Management 18:
+517–542.
+http://dx.doi.org/10.1007/s11273-009-9156-4
+
+DIATOM ASSEMBLAGES FROM EVERGLADES NATIONAL PARK
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 181
+
+Ross, M.S., Meeder, J.F., Sah, J.P., Ruiz, P.L. & Telesnicki, G.J. (2000) The southeast saline Everglades revisited: 50
+years of coastal vegetation change. Journal of Vegetation Science 11: 101–112.
+http://dx.doi.org/10.2307/3236781
+Ross, M.S., Gaiser, E.E., Meeder, J.F. & Lewin, M.T. (2001) Multi-taxon analysis of the "white zone", a common
+ecotonal feature of South Florida coastal wetlands. In Porter, J. & K. Porter (Eds). The Everglades, Florida Bay,
+and Coral Reefs of the Florida Keys. CRC Press, Boca Raton. pp. 205–238.
+http://dx.doi.org/10.1201/9781420039412-10
+Round, F.E. (1991) Diatoms in river water-monitoring studies. Journal of Applied Phycology 3: 129–145.
+Saunders, C.J., Gao, M., Lynch, J., Jaffe, R. & Childers, D.L. (2006) Using soil profiles of seeds and molecular markers
+as proxies for sawgrass and wet prairie slough vegetation in Shark Slough, Everglades National Park. Hydrobiologia
+569: 475–492.
+http://dx.doi.org/10.1007/s10750-006-0150-z
+Shannon, C.E. (1948) A mathematical theory of communication. Bell System Technical Journal 27: 379–423, 623–656.
+Sklar, F., McVoy, C., VanZee, R., Gawlik, D.E., Tarboton, K., Rudnick, D.S. Miao & Armentano, T. (2001) The effects
+of altered hydrology on the ecology of the Everglades. In Porter, J. and K. Porter (eds). The Everglades, Florida Bay
+and Coral Reefs of the Florida Keys: An Ecosystem Sourcebook. CRC Press, Boca Raton. 1000 pp.
+Sklar, F.C., Chimney, M.J., Newman, S., McCormick, P., Gawlik, D., Miao, S., McVoy, C., Said, W., Newman, J.,
+Coronado, C., Crozier, G., Korvela, M. & Rutchey, K. (2005) The ecological–societal underpinnings of Everglades
+restoration. Frontiers in Ecology and the Environment 3: 161–169.
+Slate, J.E. & Stevenson, R.J. (2000) Recent and abrupt environmental change in the Florida Everglades indicated from
+siliceous subfossils. Wetlands 20: 346–356.
+http://dx.doi.org/10.1672/0277-5212(2000)020[0346:RAAECI]2.0.CO;2
+Smith E.P. & McCormick, P.V. (2001) Long-term relationship between phorphorus inputs and wetland phosphorus
+concentrations in a northern Everglades marsh. Environmental Monitoring & Assessment 68: 153–176.
+http://dx.doi.org/10.1023/A:1010798628940
+Smith, W. (1856) Synopsis of British Diatomaceae. John Van Voorst, London 1856. 2: 107 pp., pls. 32–60, 61–62, A–E.
+Solórzano, L. & Sharp, J.H. (1980) Determination of total dissolved phosphorus and particulate phosphorus in natural
+waters. Limnology and Oceanography 25: 754–758.
+http://dx.doi.org/10.4319/lo.1980.25.4.0754
+South Florida Water Management District (1998) Facility and Infrastructure Location Index Map. http://
+www.sfwmd.gov
+Steinman, A.D., Havens, K.E., Carrick, H.J. & Van Zee, R. (2002) The past, present, and future hydrology and ecology
+of Lake Okeechobee and is watersheds, In: Porter, J.W. & Porter, K.G. (eds) The Everglades, Florida Bay, and coral
+reefs of the Florida Keys: an ecosystem sourcebook. CRC, Boca Raton.
+Taniguchi, H. & Tokeshi, M. (2004) Effects of habitat complexity on benthic assemblages in a variable environment.
+Freshwater Biology 49: 1164–1178.
+http://dx.doi.org/10.1111/j.1365-2427.2004.01257.x
+Van Heurck, H. (1880) Synopsis des Diatomées de Belgique. Atlas. Ducaju & Cie., Anvers. pls 1–30.
+Winkler, M.G., Sanford, P.R. & Kaplan, S.W. (2001) Hydrology, vegetation, and climate change in the Southern
+Everglades during the Holocene. In: Wardlaw, B. R. (ed.) Bulletins of American Paleontology 361: 57–98.
+
+182 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+BRAMBURGER ET AL.
+
+

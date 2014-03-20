@@ -1,0 +1,2165 @@
+Phytotaxa 158 (2): 111–132
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.158.2.1
+
+A phylogenetic analysis of the Cryptocarya group (Lauraceae), and relationships
+of Dahlgrenodendron, Sinopora, Triadodaphne, and Yasunia
+JENS G. ROHWER1, PEDRO LUIS RODRIGUES DE MORAES2, BARBARA RUDOLPH3 & HENK VAN DER
+WERFF4
+1
+
+Universität Hamburg, Biozentrum Klein Flottbek und Botanischer Garten, Ohnhorststr. 18, 22609 Hamburg, Germany;
+email: Jens.Rohwer@uni-hamburg.de
+2
+Universidade Estadual Paulista "Júlio de Mesquita Filho", Instituto de Biociências, Departamento de Botânica, Av. 24 A 1515, Bela
+Vista, Rio Claro, São Paulo, CEP 13506-900, Caixa Postal 199, Brazil
+3
+Universität Hamburg, Biozentrum Klein Flottbek und Botanischer Garten, Ohnhorststr. 18, 22609 Hamburg, Germany
+4
+Missouri Botanical Garden, P.O. Box 299, St. Louis, Missouri 63166-0299, USA
+
+Abstract
+A phylogenetic analysis based on nuclear ITS and plastid trnK intron sequences confirms that Dahlgrenodendron,
+Sinopora, Triadodaphne, and Yasunia are members of the Cryptocarya group, as expected from morphology.
+Dahlgrenodendron from South Africa is sister to Aspidostemon from Madagascar. Triadodaphne inaequitepala is nested
+within Endiandra (both from Australasia), and Yasunia from South America is nested among South American
+Beilschmiedia species. Sinopora is a member of the Beilschmiedia clade, but its precise position is still uncertain.
+Among large genera of the group, Cryptocarya is clearly monophyletic, and Endiandra appears to be as well, if
+T. inaequitepala is included. Beilschmiedia is paraphyletic with respect to (at least) Potameia and Yasunia. Most wellsupported clades within genera are geographically homogeneous, except a clade including the Chilean Cryptocarya alba
+and two New Caledonian species. Both Beilschmiedia and Cryptocarya have reached the Americas more than once.
+Four-locular anthers are plesiomorphic in the Cryptocarya group; two-locular anthers have arisen by fusion of the two
+pollen sacs of a theca. In the plesiomorphic fruit type, the ovary is completely enclosed in receptacular tissue; a superior
+fruit, seated free on its pedicel, is a synapomorphy of the Beilschmiedia clade.
+Key words: Biogeography, evolution, floral morphology
+
+Introduction
+Lauraceae are among the larger families of Magnoliidae and one of the most common families in moist tropical and
+subtropical forests of the Americas, Asia, and Australia (Gentry 1988). As discussed in more detail by Rohwer
+(1993) and van der Werff & Richter (1996), morphology-based systems of the family have been divergent,
+depending on the relative importance attributed to characters by different authors. Molecular studies, in contrast,
+have been largely congruent and thus have led to a widespread agreement about the major phylogenetic divisions
+(Rohwer 2000; Chanderbali et. al. 2001; Rohwer & Rudolph 2005). In these studies, the Cryptocarya group,
+which had first been recognized based on wood and bark anatomy by Richter (1981), turned out to be sister to the
+rest of the family except Hypodaphnis Stapf (1909). The group has been shown to include at least the genera
+Beilschmiedia Nees (1831: 61, 69), Cryptocarya Brown (1810: 402), Endiandra Brown (1810: 402), Aspidostemon
+Rohwer & Richter (1987: 71), Potameia Du Petit-Thouars (1806: 5), Eusideroxylon Teijsmann & Binnendijk
+(1863: 292), and Potoxylon Kostermans (1978: 143). Beilschmiedia and Cryptocarya are species-rich genera,
+widespread in tropical and subtropical regions of all continents, though estimates of 250 and 350 spp., respectively,
+by Rohwer (1993) may be too high. Endiandra (ca. 100 spp.) is distributed from the Malesian region through
+eastern Australia to the western Pacific islands. Potameia (ca. 25 spp.) has most of its species in Madagascar but
+has also been reported from India to Southeast Asia, where delimitation from Syndiclis Hooker (1886a: pl. 1515)
+
+Accepted by Mark Chase: 30 Nov. 2013; published: 3 Feb. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+111
+
+(ca. 10 spp.) is not entirely clear. Aspidostemon (28 spp., van der Werff 2006) is a Malagasy endemic, whereas
+Eusideroxylon and Potoxylon are monotypic endemics of the Greater Sunda Islands.
+Based on morphology, Aspidostemon, Eusideroxylon, Potoxylon and Cryptocarya (including Ravensara
+Sonnerat [1782: 226, plate 127], see van der Werff 1992) appear to be well defined, even though the diversity
+within Cryptocarya led Rohwer (1993) to append the statement “In need of a comprehensive revision, perhaps not
+monophyletic” to his description. Delimitation of the remaining genera is less straightforward, as has been
+discussed by Hyland (1989) and van der Werff & Nishida (2010).
+Several minor genera of Lauraceae remained unstudied with molecular methods so far, due to lack of suitable
+material: Brassiodendron Allen (1942: 153), Cinnadenia Kostermans (1973: 223), Dahlgrenodendron van der
+Merwe & van Wyk in van der Merwe et al. (1988: 80), Dodecadenia Nees (1831: 61, 63), Gamanthera van der
+Werff & Endress (1991: 401), Hexapora Hooker (1886b: 189), Phyllostemonodaphne Kostermans (1936: 754),
+Syndiclis, Triadodaphne Kostermans (1974a: 119); others have been described after the molecular studies cited
+above were published: Sinopora J. Li, N.H. Xia & H.W. Li (2008: 199), Yasunia van der Werff & Nishida (2010:
+494). Among these, Triadodaphne had been placed in the Cryptocarya group based on wood anatomical evidence
+by Richter (1981) or even in synonymy of Endiandra by Rohwer (1993) based on morphology. Rohwer (1993)
+also placed Cassytha, Dahlgrenodendron, and Hypodaphnis in the Cryptocarya group based on fruits in which the
+ovary is completely surrounded by receptacular tissue. Molecular studies have later shown that Cassytha does not
+belong to this clade and that Hypodaphnis is sister to all other Lauraceae (Rohwer 2000; Chanderbali et. al. 2001;
+Rohwer & Rudolph 2005). Rohwer (1993) placed Brassiodendron, Hexapora and Syndiclis (the latter as a
+synonym of Potameia) in his Beilschmiedia group, which is now part of the Cryptocarya group according to the
+molecular studies cited above. Gamanthera and Phyllostemonodaphne were placed in the Aniba subgroup of the
+Ocotea group by Rohwer (1993), whereas Dodecadenia was placed in Laureae. Cinnadenia was left as incertae
+sedis. Placement of Dodecadenia was confirmed by a molecular analysis of Li et al. (2004), but the others are still
+awaiting study.
+Recently, suitable material has become available of Dahlgrenodendron, Sinopora, and Yasunia, and we
+managed to extract DNA from an older collection of Triadodaphne inaequitepala (Kostermans 1969: 485)
+Kostermans (1993: 131). Based on sequences of the plastid trnK intron (including the matK gene) and the internal
+transcribed spacer region of nuclear ribosomal DNA (nrITS), we therefore attempt to answer the following
+questions. (1) Are Dahlgrenodendron, Sinopora, and Yasunia really members of the Cryptocarya group, as has
+been expected from morphology? (2) Is Triadodaphne inaequitepala a species of Endiandra, as suggested by van
+der Werff (2001)? (3) Are the large genera Beilschmiedia, Cryptocarya and Endiandra monophyletic? In addition,
+we discuss evolution of some key characters in Lauraceae and some disjunctions within the Cryptocarya group.
+
+Materials and Methods
+Taxon sampling and choice of outgroup.—Samples of plant material were obtained from sources listed in Table 1.
+In each case, correctness or at least plausibility of the determination was verified, as far as that was possible, often in
+the absence of recent monographs. BLAST searches showed that all trnK intron sequences of the newly investigated
+genera were most similar to members of the Cryptocarya group in the sense of Rohwer (2000) or Cryptocaryeae in
+the sense of Chanderbali et al. (2001). In the case of the widespread genera Beilschmiedia and Cryptocarya, care
+was taken to include samples from different parts of their range. Based on results of previous molecular studies
+(Rohwer 2000; Chanderbali et al. 2001; Rohwer & Rudolph 2005), Hypodaphnis zenkeri (Engler 1899: 385) Stapf
+(1909: 185) was chosen as outgroup for all analyses. In total, we examined 139 collections of 92 species. In the
+phylogenetic analysis, however, the number of terminal taxa was reduced to 64, for reasons outlined below.
+Molecular methods.—The methods of DNA extraction and amplification have been described in detail by
+Rohwer & Rudolph (2005) for the trnK intron and by Rohwer et al. (2009) for the ITS region. These protocols
+were modified and adjusted to the 3500 Genetic Analyzer sequencing system (Applied Biosystems) as follows. In
+addition to the primers used in those studies, we designed a new one for each of the sequence regions. The new
+trnK intron primer v510-R (5’-CRA TCA CTC TTT TGA CTT TGG-3’) aligns approximately 510 bp downstream
+from the universal primer 3914-F of Steele & Vilgalys (1994) or about 80 bp downstream from a poly-T region
+present in almost all Lauraceae. The new primer ITS-H-R (5’-CGG TTC GCT CGC CGT TAC TA-3’) was
+
+112 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+designed after we found that the primer ITS-26-R of Käss & Wink (1997) has three mismatches for most members
+of the Cryptocarya group. The 5’-end of the new primer overlaps by 10 bp with the 3’-end of the ITS-26 primer.
+The PCR products were purified either using spin columns of the Montage PCR Filter Units (Millipore) or by
+degradation of single stranded DNA and proteins with FastAP™ thermosensitive alkaline phosphatase and
+exonuclease I (Thermo Scientific), both according to manufacturers’ instructions. Depending on the amount of
+pure PCR product, 1:2 to 1:20 dilutions of the PCR product were used for sequencing. The sequencing reactions of
+the trnK intron and ITS region were carried out as described in Rohwer & Rudolph (2005) and Rohwer et al.
+(2009), respectively. The 10 µL sequencing products were precipitated in a mix of 1 µL 125 mM EDTA, 1 µL 3 M
+sodium acetate, and 25 µL ethanol absolute at room temperature for 20 min, with subsequent centrifugation at
+13,000 rpm (ca. 16,600 g) and 4° C for 1 h. The pellet was washed in 35 µL 76% cold ethanol, dried and
+resuspended in 20 µL HiDi formamide for sequencing analysis using a 3500 Genetic Analyzer capillary sequencer
+(Applied Biosystems) according to manufacturer’s instructions.
+The ITS and trnK intron sequences of each taxon were confirmed by forward and reverse sequencing reactions,
+except in a few cases where we had already several confirmed sequences from the same taxon or closely related
+taxa, so that sequencing in one direction appeared sufficient.
+Sequence alignment.—The sequence fragments of each taxon were first edited individually, then aligned
+automatically using SequencherTM (GeneCodes), and subsequently checked manually in order to remove any
+uncertainties. The edited sequences (132 new sequences from this study) have been deposited in EMBL under the
+accession numbers indicated in Table 1. Sequences in which the accession number starts with HG31 (i.e., all ITS
+sequences and most trnK intron sequences) have been prepared for this study, whereas those starting with AJ247
+and AJ627 are from an earlier study (Rohwer & Rudolph 2005).
+
+TABLE 1. Material examined. Sequences with accession numbers starting with HG31 have been prepared for this study, those
+starting with AJ247 and AJ627 have been prepared for an earlier study (Rohwer & Rudolph 2005).
+species
+
+voucher
+
+date of coll.
+
+provenance
+
+acc. no.
+trnK
+
+acc. no.
+ITS
+
+Aspidostemon parvifolium (ScottElliott 1891: 45) van der Werff (2006:
+37)
+
+Lowry 5024 (MO)
+
+13 Mar 1998
+
+Madagascar
+
+AJ627912
+
+HG315527
+
+Beilschmiedia alloiophylla (Rusby
+1920: 21) Kostermans (1938: 849)
+
+Yasuda 1308 (MO)
+
+09 Mar 1996
+
+Costa Rica
+
+HG314955
+
+HG315528
+
+Beilschmiedia berteroana (Gay 1849:
+301) Kostermans (1938: 858)
+
+Zöllner 21411 (HBG)
+
+12 Feb 1996
+
+Chile
+
+AJ247147
+
+HG315529
+
+Beilschmiedia brenesii Allen (1945:
+415)
+
+van der Werff 14015 (MO)
+
+01 Aug 1996
+
+Costa Rica
+
+AJ627914
+
+HG315530
+
+Beilschmiedia brenesii
+
+Yasuda 1314 (MO)
+
+10 Mar 1996
+
+Costa Rica
+
+–
+
+HG315531
+
+Beilschmiedia costaricensis (Mez &
+Pittier in Mez 1903: 228) Allen
+(1945: 415)
+
+Yasuda 1309 (MO)
+
+09 Mar 1996
+
+Costa Rica
+
+HG314956
+
+HG315532
+
+Beilschmiedia dictyoneura
+Kostermans (1965: 24)
+
+Ambri W698 (L)
+
+02 Apr 1991
+
+Indonesia,
+Kalimantan
+
+HG314957
+
+HG315533
+
+Beilschmiedia emarginata (Meissner
+1864: 76) Kostermans (1938: 855)
+
+Moraes s.n. (HRCB)
+
+25 Aug 2011
+
+Brazil, São Paulo
+
+HG314958
+
+HG315534
+
+Beilschmiedia immersinervis Nishida
+(1999: 678)
+
+Yasuda 1312 (MO)
+
+10 Mar 1996
+
+Costa Rica
+
+HG314959
+
+HG315535
+
+Beilschmiedia madagascariensis
+(Baillon 1884: 434) Kostermans
+(1952: 115)
+
+Lowry 5015 (MO)
+
+11 Mar 1998
+
+Madagascar
+
+AJ627915
+
+HG315536
+
+Beilschmiedia mexicana (Mez 1889:
+20) Kostermans (1938: 846)
+
+Reyna 1404 (HBG)
+
+25 Sep 1988
+
+El Salvador
+
+AJ247148
+
+HG315537
+
+...... continued on the next page
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 113
+
+TABLE 1 (continued)
+species
+
+voucher
+
+date of coll.
+
+provenance
+
+acc. no.
+trnK
+
+acc. no.
+ITS
+
+Beilschmiedia miersii (Gay 1849:
+298) Kostermans (1938: 860)
+
+Greissl 657-99 (MJG)
+
+26 Mar 1999
+
+Chile
+
+AJ627916
+
+HG315538
+
+Beilschmiedia oreophila Schlechter
+(1906: 107)
+
+McPherson 19086 (MO)
+
+30 Oct 2003
+
+New Caledonia
+
+HG314960
+
+HG315539
+
+Beilschmiedia pierreana Robyns &
+Wilczek (1950: 209)
+
+SIMAB 12418 (MO)
+
+Apr 2004
+
+Gabon
+
+HG314961
+
+HG315540
+
+Beilschmiedia recurva Hyland (1989:
+155)
+
+van der Werff 17047 (MO)
+
+30 Aug 2001
+
+Australia
+
+HG314962
+
+HG315541
+
+Beilschmiedia cf. rigida (Mez 1893:
+519) Kostermans (1938: 856)
+
+Moraes 3207 (HRCB)
+
+09 Sep 2011
+
+Brazil, Espírito
+Santo
+
+HG314963
+
+HG315542
+
+Beilschmiedia roxburghiana Nees
+(1831: 69)
+
+Gerlach s.n. (M)
+
+15 Jul 1997
+
+BG Munich
+[Nepal to S China,
+Thailand]
+
+AJ247149
+
+HG315543
+
+Beilschmiedia sp.
+
+Breteler 5283 (L)
+
+22 Jul 1968
+
+Cote d´lvoire
+
+HG314964
+
+HG315544
+
+Beilschmiedia sp.
+
+van der Werff 14189 (MO)
+
+01 Apr 1997
+
+Vietnam
+
+HG314965
+
+HG315545
+
+Beilschmiedia sp.
+
+van der Werff 14272 (MO)
+
+08 Apr 1997
+
+Vietnam
+
+HG314966
+
+HG315546
+
+Beilschmiedia sp.
+
+van der Werff 17396 (MO)
+
+17 Jul 2002
+
+Vietnam
+
+HG314967
+
+HG315547
+
+Beilschmiedia tarairi (Cunningham
+1838: 379) Kirk (1889: 71)
+
+Sykes 437511 (CHR)
+
+28 Nov 1986
+
+New Zealand
+
+HG314968
+
+HG315548
+
+Beilschmiedia tarairi
+
+Sykes 529799 A (CHR)
+
+02 Dec 1997
+
+New Zealand
+
+HG314969
+
+HG315549
+
+Beilschmiedia tawa (Cunningham
+1838: 379) Kirk (1889: 257)
+
+Chase 5519 (K)
+
+20 Nov 1997
+
+BG Kew [New
+Zealand]
+
+AJ247150
+
+–
+
+Beilschmiedia tawa
+
+Dawson (CHR 565486A)
+
+01 Dec 2002
+
+New Zealand
+
+–
+
+HG315550
+
+Beilschmiedia tawa
+
+Heenan (CHR 512618)
+
+10 Jun 1997
+
+New Zealand
+
+HG314970
+
+–
+
+Beilschmiedia tawaroa Wright (1984:
+119)
+
+Beever 89046 (CHR 450080)
+
+26 Jan 1990
+
+New Zealand
+
+HG314971
+
+HG315551
+
+Beilschmiedia tawaroa
+
+Sykes 221/92 (CHR 480004)
+
+27 Nov 1992
+
+New Zealand
+
+HG314972
+
+–
+
+Beilschmiedia tawaroa
+
+Wright 11490 (CHR 451260)
+
+26 Apr 1991
+
+New Zealand
+
+HG314973
+
+–
+
+Beilschmiedia tooram (Bailey 1901:
+1308) Hyland (1989: 156)
+
+van der Werff 17051 (MO)
+
+30 Aug 2001
+
+Australia
+
+HG314974
+
+HG315552
+
+Beilschmiedia velutina (Kostermans
+1939: 69) Kostermans (1952: 115)
+
+Razafimandimbison 361
+(MO)
+
+02 Jul 1998
+
+Madagascar
+
+HG314975
+
+HG315553
+
+Beilschmiedia volckii Hyland (1989:
+156)
+
+van der Werff 17052 (MO)
+
+30 Aug 2001
+
+Australia
+
+HG314976
+
+HG315554
+
+Cryptocarya alba (Molina 1782: 185,
+350) Looser (1950: 65)
+
+Chase 5521 (K)
+
+20 Nov 1997
+
+BG Kew [Chile]
+
+AJ247158
+
+–
+
+Cryptocarya alba
+
+Gerlach 95-1146 (M)
+
+Nov 2010
+
+BG Munich
+[Chile]
+
+–
+
+HG315555
+
+Cryptocarya angulata White (1933:
+33)
+
+van der Werff 17056 (MO)
+
+30 Aug 2001
+
+Australia
+
+HG314977
+
+HG315556
+
+Cryptocarya aff. aschersoniana Mez
+(1889: 11)
+
+Moraes 2620 (HRCB)
+
+02 Apr 2009
+
+Brazil, Espírito
+Santo
+
+–
+
+HG315557
+
+Cryptocarya aff. aschersoniana
+
+Moraes 2620a (HRCB)
+
+02 Apr 2009
+
+Brazil, Espírito
+Santo
+
+HG314978
+
+HG315558
+
+Cryptocarya aff. aschersoniana
+
+Moraes 3242 (HRCB)
+
+11 Sep 2011
+
+Brazil, Espírito
+Santo
+
+HG314979
+
+–
+
+...... continued on the next page
+
+114 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+TABLE 1 (continued)
+species
+
+voucher
+
+date of coll.
+
+provenance
+
+acc. no.
+trnK
+
+acc. no.
+ITS
+
+Cryptocarya bidwillii Meissner
+(1864: 74)
+
+Grimshaw 2406 (L)
+
+29 May 1996
+
+Australia
+
+HG314980
+
+HG315559
+
+Cryptocarya botelhensis Moraes
+(2007: 51)
+
+Moraes 2311 (ESA)
+
+19 Dec 2000
+
+Brazil, São Paulo
+
+HG314981
+
+HG315560
+
+Cryptocarya botelhensis
+
+Moraes 3349 (HRCB)
+
+02 Sep 2011
+
+Brazil, São Paulo
+
+HG314982
+
+HG315561
+
+Cryptocarya citriformis (Vellozo
+1829: 251) Moraes (2005: 791)
+
+Moraes 3199 (HRCB)
+
+08 Sep 2011
+
+Brazil, Espírito
+Santo
+
+HG314983
+
+HG315562
+
+Cryptocarya cf. citriformis
+
+Moraes 3246 (HRCB)
+
+11 Sep 2011
+
+Brazil, Espírito
+Santo
+
+HG314984
+
+HG315563
+
+Cryptocarya concinna Hance (1882:
+79)
+
+Lauerer 70518 (UBT)
+
+11 Oct 2010
+
+BG Bayreuth
+[China]
+
+HG314985
+
+HG315564
+
+Cryptocarya densiflora Blume (1825:
+556)
+
+Kinsun Bakia 428 (K)
+
+n/a
+
+Malaysia, Borneo
+
+HG314986
+
+HG315565
+
+Cryptocarya gracilis Schlechter
+(1906:109)
+
+McPherson 19129 (MO)
+
+01 Nov 2003
+
+New Caledonia
+
+HG314987
+
+HG315566
+
+Cryptocarya guillauminii Kostermans
+(1961: 395)
+
+McPherson 18027 (MO)
+
+28 Mar 2001
+
+New Caledonia
+
+HG314988
+
+HG315567
+
+Cryptocarya mandioccana Meissner
+(1864: 75)
+
+Moraes 31 (ESA)
+
+23 Mar 1990
+
+Brazil, São Paulo
+
+HG314989
+
+HG315568
+
+Cryptocarya mandioccana
+
+Moraes 509 (ESA)
+
+07 Oct 1991
+
+Brazil, São Paulo
+
+–
+
+HG315569
+
+Cryptocarya mandioccana
+
+Moraes 1245 (ESA)
+
+13 Jan 1996
+
+Brazil, São Paulo
+
+–
+
+HG315570
+
+Cryptocarya mannii Hillebrand
+(1888: 382)
+
+Tangalin 2915 (PTBG)
+
+07 Dec 2011
+
+U.S.A., Hawaii
+
+–
+
+HG315571
+
+Cryptocarya mannii
+
+Tangalin 2916 (PTBG)
+
+07 Dec 2011
+
+U.S.A., Hawaii
+
+–
+
+HG315572
+
+Cryptocarya mannii
+
+Tangalin 2918 (PTBG)
+
+07 Dec 2011
+
+U.S.A., Hawaii
+
+HG314990
+
+HG315573
+
+Cryptocarya mannii
+
+Tangalin 2974 (PTBG)
+
+02 Feb 2012
+
+U.S.A., Hawaii
+
+–
+
+HG315574
+
+Cryptocarya mannii
+
+Tangalin 3104 (PTBG)
+
+19 Apr 2012
+
+U.S.A., Hawaii
+
+–
+
+HG315575
+
+Cryptocarya mannii
+
+Tangalin 3274 (PTBG)
+
+16 Aug 2012
+
+U.S.A., Hawaii
+
+–
+
+HG315576
+
+Cryptocarya mannii
+
+van Balgooy 4206 (L)
+
+31 May 1982
+
+U.S.A., Hawaii
+
+–
+
+HG315577
+
+Cryptocarya moschata Nees &
+Martius in Nees (1833: 37)
+
+Moraes 2355 (ESA)
+
+23 Jan 2001
+
+Brazil, São Paulo
+
+–
+
+HG315578
+
+Cryptocarya moschata
+
+Moraes 2551 (HRCB)
+
+17 Sep 2005
+
+Brazil, São Paulo
+
+HG314991
+
+HG315579
+
+Cryptocarya oahuensis Fosberg
+(1936: 3)
+
+Hawaiian Plant DNA
+Library 6891 (BISH)
+
+27 Sep 2011
+
+U.S.A., Hawaii
+
+HG314992
+
+HG315580
+
+Cryptocarya oubatchensis Schlechter
+(1906: 110)
+
+McPherson 19131 (MO)
+
+01 Nov 2003
+
+New Caledonia
+
+HG314993
+
+HG315581
+
+Cryptocarya pluricostata Kostermans
+(1974b: 43)
+
+McPherson 18471 (MO)
+
+22 Apr 2002
+
+New Caledonia
+
+HG314994
+
+HG315582
+
+Cryptocarya saligna Mez (1889: 13)
+
+Moraes 3182 (HRCB)
+
+06 Sep 2011
+
+Brazil, Espírito
+Santo
+
+HG314995
+
+HG315583
+
+Cryptocarya saligna
+
+Moraes 3226 (HRCB)
+
+10 Sep 2011
+
+Brazil, Espírito
+Santo
+
+HG314996
+
+HG315584
+
+Cryptocarya subtriplinervia
+(Kostermans 1958: 190) van der
+Werff (2008: 45)
+
+van der Werff 12775 (MO)
+
+27 Oct 1992
+
+Madagascar
+
+AJ627923
+
+HG315585
+
+Cryptocarya triplinervis Brown
+(1810: 402)
+
+Chase 5522 (K)
+
+20 Nov 1997
+
+Australia, Lord
+Howe Isl.
+
+AJ247159
+
+HG315586
+
+...... continued on the next page
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 115
+
+TABLE 1 (continued)
+species
+
+voucher
+
+date of coll.
+
+provenance
+
+acc. no.
+trnK
+
+acc. no.
+ITS
+
+Cryptocarya wiedensis Moraes (2007:
+121)
+
+Moraes 2623 (HUEFS)
+
+03 Apr 2009
+
+Brazil, Espírito
+Santo
+
+HG314997
+
+HG315587
+
+Dahlgrenodendron natalense (Ross
+1973: 118) van der Merwe & van Wyk
+in van der Merwe et al. (1988: 82)
+
+Styles 2313 (SANBI)
+
+n/a
+
+South Africa
+
+HG314998
+
+HG315588
+
+Endiandra glauca Brown (1810: 402)
+
+Clarkson 9240 (L)
+
+28 Feb 1992
+
+Australia
+
+HG314999
+
+HG315589
+
+Endiandra impressicosta Allen
+(1942: 151)
+
+Gray 7539 (MO)
+
+14 May 1999
+
+Australia
+
+AJ627924
+
+HG315590
+
+Endiandra lecardii Guillaumin (1924:
+1106)
+
+McPherson 19147 (MO)
+
+02 Nov 2003
+
+New Caledonia
+
+HG315000
+
+HG315591
+
+Endiandra poueboensis Guillaumin
+(1924: 1107)
+
+McPherson 18988 (MO)
+
+28 Oct 2003
+
+New Caledonia
+
+HG315001
+
+HG315592
+
+Endiandra pubens Meissner (1864:
+509)
+
+Constable 4876 (HBG)
+
+25 May 1964
+
+Australia
+
+AJ247162
+
+HG315593
+
+Eusideroxylon zwageri Teijsmann &
+Binnendijk (1863: 280)
+
+Arifiani 41 (MO)
+
+08 Mar 2000
+
+BG Bogor
+[Borneo, Sumatra]
+
+–
+
+HG315594
+
+Eusideroxylon zwageri
+
+Gwee 2004-42 (SING)
+
+24 Nov 2004
+
+BG Singapore
+[Borneo, Sumatra]
+
+AJ627926
+
+HG315595
+
+Hypodaphnis zenkeri (Engler 1899:
+385) Stapf (1909: 185)
+
+Leeuwenberg 5557 (HBG)
+
+24 Apr 1965
+
+Cameroon
+
+AJ247166
+
+–
+
+Hypodaphnis zenkeri
+
+McPherson 16184 (MO)
+
+12 Nov 1993
+
+Gabon
+
+–
+
+HG315596
+
+Potameia chartacea Kostermans
+(1957: 6)
+
+van der Werff 12835 (MO)
+
+04 Nov 1992
+
+Madagascar
+
+AJ627930
+
+HG315597
+
+Potameia thouarsiana (Baillon 1892:
+t.237) Capuron (1960: 63)
+
+S.F. 14156 (L)
+
+02 Aug 1955
+
+Madagascar
+
+HG315002
+
+HG315598
+
+Potoxylon melagangai (Symington
+1940: t.3409) Kostermans (1978:
+143)
+
+Wong 325 (AAU)
+
+05 Apr 1988
+
+Brunei
+
+HG315003
+
+HG315599
+
+Ravensara elliptica Kostermans
+(1939: 110)
+
+Capuron 28409 (L)
+
+Nov 1968
+
+Madagascar
+
+HG315004
+
+HG315600
+
+Sinopora hongkongensis (Xia, Deng
+& Yip 2006: 75) Li, Xia & Li (2008:
+199)
+
+Xia s.n. (MO)
+
+2009
+
+China
+
+HG315005
+
+HG315601
+
+Triadodaphne inaequitepala
+(Kostermans 1969: 485) Kostermans
+(1993: 131)
+
+Pullen 5505 (L)
+
+30 Jul 1964
+
+Papua New
+Guinea
+
+HG315006
+
+HG315602
+
+Yasunia quadrata van der Werff &
+Nishida (2010: 494)
+
+Graham 2369 (MO)
+
+30 Jun 2003
+
+Peru
+
+HG315007
+
+HG315603
+
+Yasunia sessiliflora van der Werff &
+Nishida (2010: 494)
+
+Pérez 4222 (MO)
+
+28 May 2009
+
+Ecuador
+
+HG315008
+
+HG315604
+
+Sequences were aligned using the MUSCLE alignment as implemented in MEGA 5 (Tamura et al. 2011),
+using the default parameters. After automatic alignment, we made some manual adjustments guided by the
+following principles. 1. If an indel can be explained by a duplication of an immediately adjacent DNA motive,
+then this is the preferred position. 2. If indels of the same size occur in different taxa in close proximity, then it is
+more likely that the indel originated once than that it originated several times (unless the adjacent bases suggest the
+contrary, as outlined in principle 1). 3. If different equally plausible alignments would lead to different (possibly
+spurious) synapomorphies, and it cannot be decided which one is preferable based on overall similarity of the
+
+116 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+sequences, then an uninformative placement of the indel is preferred. If such a placement is not possible, then the
+indel positions are excluded from the analysis. In general, simple indel coding following Simmons & Ochoterena
+(2000; see also Simmons et al. 2007) was applied to those informative indels that could be placed with confidence.
+In a few cases, however, where short insertions of different size and/or different sequence suggesting a possibly
+different origin have been found in the same position relative to the majority of the taxa or where indels were
+caused by single nucleotide repeats of different lengths, we preferred to use a single multistate character.
+Uninformative indels and areas of uncertain alignment (which occurred only in the ITS sequences) were excluded
+from the analysis. If uncertainties in the alignment involved only a few taxa, then the sequence positions of
+uncertain alignment were replaced by question marks in these taxa only. In the final analysis, we included only
+those taxa from which we were able to obtain complete, clean sequences of both the ITS region and the trnK intron.
+As a rule the two sequences were obtained from the same sample, except Beilschmiedia tawa, Cryptocarya alba,
+and Hypodaphnis zenkeri. In these species, a trnK intron sequence had been submitted to GenBank earlier,
+whereas the ITS region was sequenced here from a different collection. The final alignment is found in the
+supplementary data.
+Phylogenetic analyses.—Data analyses employed maximum parsimony (MP) using PAUP* 4.0b10 (Swofford
+2003), maximum likelihood (ML) using Treefinder (Jobb 2008), and Bayesian inference (BI) using MrBayes 3.1.2
+(Huelsenbeck & Ronquist 2001, Ronquist & Huelsenbeck 2003). The data from the trnK intron and ITS were
+analyzed separately as well as combined in a single analysis after the separate analyses had shown that their results
+were largely compatible (but not entirely, see below). If two or more sequences obtained from different collections
+of the same taxon turned out to be identical in all non-excluded positions, only one of them was used for the final
+analysis.
+In the MP analysis, a heuristic search was performed with 100 random addition sequence replicates, tree
+bisection-reconnection (TBR) swapping, collapse of zero-length branches, and MulTrees on. All character state
+changes were equally weighted, and those gaps that had not been excluded were treated as missing data. Branch
+support was estimated by fast bootstrapping (Mort et al. 2000) with 100,000 replicates.
+For Bayesian inference, data were divided into a total of eight unlinked partitions. Five partitions were used
+for the trnK intron data, one for the indels, one for the non-coding intron regions, and one for each of the three
+codon-positions of the matK gene. Three partitions were applied to the ITS data, one for the positions coding for
+ribosomal RNA (mainly the 5.8S region, plus small parts of the 18S and 26S regions), one for the non-coding ITS1 and ITS-2 regions, and one for the indels. The most appropriate substitution models for the partitions including
+DNA data were estimated by MrModelTest (Nylander 2004) using MrMTgui (Nuin 2005). As suggested in the
+MrBayes manual, the default priors with Dirichlet proposal were used for the analysis. For each analysis, two
+simultaneous runs of four MCMC chains each were run for 5,000,000 generations, with the current tree saved
+every 500 generations. The burnin was determined by visual inspection of the likelihood values in Excel, and the
+posterior probabilities for the individual clades were computed by creating a majority-rule consensus of the
+remaining trees in PAUP.
+In the ML analysis, the indel matrix could not be used, but for the DNA data the same six partitions were used
+as for the BI analysis. The substitution models were calculated independently for each partition using the “propose
+model” option as implemented in Treefinder. Branch support was estimated by partition-wise likelihood bootstrap
+with 1,000 replicates.
+
+Results
+Sequence characteristics.—The alignment of the 64 trnK sequences was straightforward. The alignment length
+used for the analysis was 2,606 bp, of which 125 were excluded from the analysis (all of them uniformative indels).
+In addition, we coded 21 potentially parsimony informative indels. Among the 2,481 included alignment positions
+in the trnK intron dataset, 2,094 were constant, 203 variable but not parsimony-informative, and 205 were
+potentially parsimony-informative. Including the 21 informative indels, the total number of informative characters
+was 226.
+In the case of ITS, only the coding parts (18S, 5.8S and 26S) could be aligned without any ambiguity. In the
+non-coding parts (ITS-1 and ITS-2), the use of different algorithms and different parameters led to (sometimes
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 117
+
+substantial) differences in the alignment, mainly because a few taxa (Aspidostemon, Dahlgrenodendron,
+Eusideroxylon, Hypodaphnis, and Potoxylon) differed considerably from the other included taxa and among
+themselves. The alignment in Beilschmiedia, Cryptocarya, Endiandra, Potameia, Sinopora, Triadodaphne, and
+Yasunia, on the other hand, was not problematic, except for few positions. Therefore, we replaced the alignment
+positions (nucleotides and indels) that could not be readily aligned in Aspidostemon (272), Dahlgrenodendron
+(154), Eusideroxylon (139), Hypodaphnis (223), and Potoxylon (125) by question marks (number of replaced
+positions in parentheses, nearly all of them in regions rich in indels). The data matrix that we finally used
+comprised 855 aligned positions plus 32 coded parsimony informative indels. A total of 132 positions were
+excluded from the analyses, most of them uninformative indels, but also a few positions of uncertain alignment.
+Among the 755 included alignment positions in the ITS dataset, 352 were constant, 105 variable but not
+parsimony-informative, and 266 were potentially parsimony-informative. In addition, 32 informative indels have
+been coded, so that the total number of informative characters was 298.
+Phylogenetic analyses.—Statistics for the maximum parsimony analyses can be found in Table 2. The fast
+bootstrap trees from maximum parsimony analyses (not shown) were invariably much less resolved than the trees
+retrieved from the Bayesian analyses (Figs. 1–3), and only a single clade with marginal support was found to be
+conflicting with the result from the respective Bayesian analysis (Endiandra glauca and E. impressicosta get 53 and
+54% BS as sister taxa in the maximum parsimony analyses of the ITS and the combined data sets, whereas
+Triadodaphne inaequitepala is supported as sister to E. impressicosta in the Bayesian analyses, with 0.95 PP in both
+data sets). There were, however, a few conflicts between the results from the trnK intron data and the ITS data.
+Therefore, the results of the Bayesian analyses are shown here separately (Figs. 1–3). The results of the maximum
+likelihood analyses were generally similar to those of the Bayesian analyses, but less resolved. There were several
+conflicting clades, especially in the result from the trnK dataset, but none of them with more than 75% BS.
+TABLE 2. Statistics from the maximum parsimony analyses. The first five rows refer to the numbers of characters in the matrix
+trnK
+
+ITS
+
+combined
+
+total characters
+
+2627
+
+887
+
+3514
+
+excluded characters
+
+125
+
+132
+
+257
+
+constant characters
+
+2094
+
+352
+
+2466
+
+uninformative characters
+
+203
+
+105
+
+308
+
+informative characters
+
+205
+
+298
+
+503
+
+no. of trees
+
+16588
+
+1578
+
+9
+
+tree length
+
+549
+
+1135
+
+1700
+
+consistency index
+
+0.83
+
+0.55
+
+0.63
+
+retention index
+
+0.93
+
+0.81
+
+0.85
+
+Among a total of 73 clades of different composition retrieved in all nine analyses, 23 are invariably present,
+and another 21 are compatible with all supported clades from all analyses. Among the 29 clades that were found to
+be conflicting with at least one other clade of at least one of the other analyses, there are only two “hard” conflicts,
+i.e. cases in which a well-supported clade (PP ≥0.95 or BS ≥90%) in one analysis conflicts with a well-supported
+clade in another analysis (clade 27 and clade 59 vs. clade 62). This conflict is due to a different placement of
+Beilschmiedia oreophila in the plastid trnK and the nuclear ITS data (described below).
+The well-supported clade (clade 1) sister to the rest of the ingroup (clade 2) consists of Eusideroxylon zwageri
+and Potoxylon melagangai. Its sister (clade 2), comprising all other taxa, has slightly lower support. Within clade
+2, Aspidostemon parvifolium and Dahlgrenodendron natalense (clade 3) are sister to the remaining taxa (clade 4).
+The next split in clade 4 is between the genus Cryptocarya (clade 5) and all other taxa (clade 6, in the following
+called the Beilschmiedia clade). Within Cryptocarya (clade 5), all analyses show a split between Cryptocarya
+alba, C. oubatchensis and C. pluricostata (clade 7) and all other species (clade 8). The differences among the
+various analyses begin above this point. Therefore, we describe in detail the result of the Bayesian analysis of the
+combined matrix (Fig. 1) and differences compared to the other analyses. Clades supported (mainly) by one of the
+
+118 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+FIGURE 1. Results of the combined Bayesian trnK and ITS analysis. Numbers above the clades are posterior probabilities, numbers
+below clades are bootstrap percentages from the MP analysis based on the same matrix. Clades with <50% bootstrap support are
+marked with “--“. An “x” indicates that there is a different clade with ≥50% support in the bootstrap consensus of the maximum
+parsimony analysis. Clade numbers used in the text are indicated near the base of each clade. Black circles mark clades that are
+present in all analyses, black squares indicate clades that are compatible with all Bayesian and maximum parsimony analyses.
+Diamonds mark conflicting clades; white diamonds indicate clades from the ITS data set that conflict with the result from the trnK
+intron data set, black diamonds indicate clades from the trnK intron data set that conflict with the result from the ITS data set.
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 119
+
+FIGURE 2. Result of the trnK Bayesian analysis. Numbers above the clades are posterior probabilities, numbers below clades are
+bootstrap percentages from the MP analysis. Clades with <50% bootstrap support are marked with “--“. Clade numbers used in the
+text are indicated near the base of each clade. Black circles mark clades that are present in all analyses, black squares indicate clades
+that are compatible with all Bayesian and Maximum Parsimony analyses, black diamonds indicate clades conflicting with the result
+from the ITS data set.
+
+120 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+FIGURE 3. Result of the ITS Bayesian analysis. Numbers above the clades are posterior probabilities, numbers below the clades are
+bootstrap percentages from the MP analysis based on the same matrix. Clades with <50% bootstrap support are marked with “--“. An
+“x” indicates that there is a different clade with ≥50% support in the bootstrap consensus of the maximum parsimony analysis. Clade
+numbers used in the text are indicated near the base of each clade. Black circles mark clades that are present in all analyses, black
+squares indicate clades that are compatible with all Bayesian and maximum parsimony analyses, black diamonds indicate clades
+conflicting with the result from the trnK intron data set.
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 121
+
+data sets (trnK or ITS) are usually compatible with the result of the other data set as well, unless otherwise stated.
+Within clade 7, the Bayesian analysis of the combined matrix (Fig. 1) shows Cryptocarya alba as sister to clade 9,
+which consists of C. oubatchensis and C. pluricostata and receives only low support. This topology is also
+retrieved by MP in the ITS data set, but it conflicts with the result from trnK and the ML analysis of the ITS data.
+Clade 8 (the rest of Cryptocarya) is shown as two groups, of which one (clade 10) consists of the majority of the
+Old World and Pacific Cryptocarya species (C. angulata, C. bidwillii, C. concinna, C. densiflora, C. gracilis,
+C. guillauminii, C. mannii, C. oahuensis, C. triplinervis), whereas its sister group (clade 11) consists of all
+Brazilian Cryptocarya species investigated (C. aff. aschersoniana, C. botelhensis, C. citriformis, C. mandioccana,
+C. moschata, C. saligna, C. wiedensis), plus the two Malagasy species, C. subtriplinervia and Ravensara elliptica.
+Both clades (10 and 11) have moderate to strong support only in the Bayesian analyses. The next divergence
+within clade 10 is between Cryptocarya angulata, C. densiflora, C. gracilis, and C. guillauminii (clade 12), and
+C. bidwillii, C. concinna, C. mannii, C. oahuensis, and C. triplinervis (clade 13). Both clades receive more support
+from the trnK data than from the ITS data. Within clade 12, the topology differs somewhat between the BI and the
+ML analyses. Within clade 13 Cryptocarya bidwillii and C. triplinervis form a strongly supported species pair
+(clade 16) sister to the remaining species (clade 17), which are supported as monophyletic by the ITS analysis only.
+Also the sister group relationship of the two Hawaiian species, C. mannii and C. oahuensis (clade 18) gets its
+strong support from ITS. Within clade 11, the Brazilian species (Cryptocarya aff. aschersoniana, C. botelhensis,
+C. citriformis, C. mandioccana, C. moschata, C. saligna, and C. wiedensis, clade 19) are sister to the Malagasy
+species (Cryptocarya subtriplinervia and Ravensara elliptica, clade 20). The Malagasy clade is strongly supported
+in all analyses, whereas the Brazilian clade gets its support from ITS.
+In the other major part of the ingroup, the Beilschmiedia group (clade 6), resolution at the base is usually poor,
+and/or most of the basal clades are poorly supported (e.g., clades 26 and 27, Fig. 1). There are, however, numerous
+less comprehensive clades that get considerable support, are invariably present, or are at least compatible with
+results of all analyses. Clade 28, including three Central American species (Beilschmiedia alloiophylla,
+B. costaricensis, and B. immersinervis) plus Sinopora hongkongensis from China, is supported only in the
+Bayesian ITS analyses but not by other algorithms or in analyses of trnK or combined data. Sinopora
+hongkongensis is shown as sister to the remaining species (clade 32), which are supported in all analyses. Clade 29
+is supported by all data sets, at least with BI. It includes all South American Beilschmiedia species investigated
+and Yasunia, which is from South America as well. Within this clade, the two Chilean species, B. berteroana and
+B. miersii (clade 34), are always sister to the other four species (clade 35). Clade 35 is supported by all data sets, at
+least with BI. If it is present in the MP and ML analyses, then also its internal topology is the same as in the
+Bayesian analyses. Clade 30 is compatible with the results of all analyses and includes two Central American
+species, B. brenesii and B. mexicana, as well as five Asian species, viz. B. dictyoneura, B. roxburghiana, and three
+undetermined species collected by one of us (HvdW) in Vietnam. However, it gets weak support only in the
+combined BI analysis. The close relationship of the Central American species (clade 38) is supported by all data
+sets, but only in results from the combined data set are they sister to the Asian species (clade 39). In the combined
+BI analysis, the African and Malagasy Beilschmiedia species plus the (mainly) Malagasy genus Potameia form a
+weakly supported clade (31), which conflicts with the trnK ML analysis, in which the two African species are sister
+to the rest of the Beilschmiedia clade. Within clade 31, the Malagasy taxa (B. madagascariensis, B. velutina and
+the two Potameia spp. (clade 43) are sister to the African taxa, B. pierreana and B. sp. (Breteler 5283; clade 44).
+The Malagasy clade (43) is only present in the trnK tree, which conflicts with the Bayesian ITS tree. Within clade
+43, the two Beilschmiedia species (clade 45) are sister to the two Potameia species (clade 46). Both clades have
+support from ITS, whereas the African clade (44) is always strongly supported.
+Among the remaining species (from Australia, New Zealand, New Guinea, and New Caledonia, clade 27),
+mainly Beilschmiedia oreophila is found in different positions in some analyses. Most other clades are congruent
+or at least compatible among the various analyses. Clade 48, consisting of B. recurva, B. tooram, and B. volckii
+from Australia plus B. tarairi from New Zealand, is supported by trnK only. The other two taxa from New
+Zealand, B. tawa and B. tawaroa (clade 49), are identical in both ITS and trnK sequences. Clade 50, including all
+Endiandra spp. as well as Triadodaphne inaequitepala, is supported by all data sets, at least under BI, although
+significantly only by trnK. Within clade 50, the New Caledonian E. baillonii, E. lecardii, and E. poueboensis
+(strongly supported) are sister to the remaining species (clade 52). Within it, E. pubens is sister to the other three
+species, which are retrieved (clade 54) in all analyses. The precise topology within clade 54 varies, however,
+among analyses.
+
+122 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+FIGURE 4. Bootstrap consensus of the maximum likelihood combined analysis. Numbers next to the nodes are likelihood bootstrap
+percentages, the black diamond indicating clade 65 that was retrieved in the ML analysis only.
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 123
+
+Maximum likelihood analyses.—Results of the combined ML analysis (Fig. 4) recover almost the same
+topology as BI within the genus Cryptocarya except clade 9 is collapsed. The Beilschmiedia clade (6) is much less
+resolved, and it shows a weakly supported new clade (65) consisting of B. tarairi in addition to B. tooram and B.
+volckii (clade 57). In results of the ML trnK analysis (not shown) seven clades are found that have not been
+retrieved with other methods of analysis. All of them are weakly supported and conflict with most other results,
+including combined BI results. Results of the ML ITS-only analysis are still less resolved.
+
+Discussion
+Reliability of the data.—The usefulness of the plastid trnK intron (including matK) for phylogenetic inference has
+been shown in numerous studies on different levels from the angiosperms as a whole (Hilu et al. 2003 and
+references therein) to relationships between genera in the Lauraceae (Rohwer 2000; Rohwer & Rudolph 2005).
+Within genera, however, its informative value reaches its limit because there are often few or no differences
+between closely related taxa. The internal transcribed spacer region of the nuclear ribosomal DNA has also been
+widely used in many systematic studies, including Lauraceae (Chanderbali et al. 2001; Chanderbali 2004; Li et al.
+2004; Rohwer et al. 2009). This marker is much more variable than the trnK intron but is difficult to align among
+more distantly related taxa. Combining trnK and ITS increases resolution as expected, but most of the lower nodes
+within the Beilschmiedia branch are still weakly supported in the Bayesian analysis and unresolved in the MP and
+ML analyses. Thus, conflicts between results of the trnK and the ITS analyses appear to be due to homoplasy,
+rather than to different evolutionary histories of the plastid and the nuclear genomes. Even Beilschmiedia
+oreophila, the only species involved in a well-supported conflict in our trees, shows comparable and widely
+overlapping p-distances to the members of the two clades with which it clusters in the different analyses (trnK
+intron: 0.00360–0.00639 to clade 48, 0.00320–0.00560 to clade 50; ITS: 0.04011–0.07056 to clade 48, 0.03748–
+0.05548 to clade 50).
+Relationships of the genera.—The first of our questions, if Dahlgrenodendron, Sinopora, and Yasunia really
+belong to the Cryptocarya group, had already been answered positively at an early stage of our investigations by
+BLAST searches in GenBank. Therefore, we subsequently concentrated on relationships among the taxa within
+this group.
+Monotypic Eusideroxylon and Potoxylon have always been considered closely related. Originally, P.
+melagangai was even described as a species of Eusideroxylon, but later Kostermans (1978) separated it because of
+its different androecial configuration (nine laminar stamens in Potoxylon vs. three columnar stamens in
+Eusideroxylon). Based on our results, Potoxylon should be re-united with Eusideroxylon. Their position as sister
+to the remainder of the Cryptocarya group had already been found by Chanderbali et al. (2001), albeit with weak
+support, in contrast to Rohwer & Rudolph (2005), who found Aspidostemon in this position with moderate support.
+In our analyses, the node linking Aspidostemon to all other members of the Cryptocarya group is moderately to
+strongly supported. In combination with the results of Chanderbali et al. (2001) that were based on a different set
+of molecular markers, it appears a robust assumption.
+Our results clearly show that Dahlgrenodendron is closely related to Aspidostemon, not to Cryptocarya, in
+which it had been included by Kostermans (1990). Aspidostemon and Dahlgrenodendron share opposite leaves,
+flower buds in which the perianth is wider than long, almost sessile anthers, and mostly short inflorescences,
+whereas most species of Cryptocarya have alternate leaves, elongate flower buds, anthers with distinct filaments,
+and frequently also larger and more profusely branched inflorescences. However, none of these character states is
+without exception in the large genus Cryptocarya. Aspidostemon is, however, morphologically sufficiently
+homogeneous and distinct from both Cryptocarya and Dahlgrenodendron to assume that it is monophyletic. In
+addition, preliminary results based on partial sequences of additional Aspidostemon species (results not shown)
+consistently show them as sister to Dahlgrenodendron. Dahlgrenodendron exhibits the presumed plesiomorphic
+androecial configuration of Lauraceae, nine fertile stamens plus three staminodes, whereas only three or six outer
+stamens are fertile in Aspidostemon with the inner ones transformed into massive, mostly fused staminodes. In
+addition, Dahlgrenodendron differs from all other Lauraceae so far investigated in its peculiar striate pollen grains
+(van der Merwe et al. 1988).
+
+124 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+As in the previous analyses including fewer species (Rohwer 2000; Chanderbali et al. 2001; Rohwer &
+Rudolph 2005), Cryptocarya is monophyletic in this analysis, and as had already been recognized earlier (van der
+Werff 1992) Ravensara needs to be included in Cryptocarya. New combinations and names that are necessary
+have been or will be published elsewhere (van der Werff 2008, 2013). Beilschmiedia, on the other hand, is almost
+certainly not monophyletic based on these results, even though the weak support of most basal nodes within the
+Beilschmiedia clade (6) leaves some uncertainty. At least Yasunia from South America is clearly nested among
+South American Beilschmiedia species. In addition to a few morphological characters (see below), it also shares a
+TATGA duplication in the trnK intron downstream from the matK gene with the Beilschmiedia species among
+which it is nested (B. emarginata and B. cf. rigida).
+Also Potameia consistently has been found nested in Beilschmiedia, although associated with different species
+in the trnK and the ITS results. The best support from any analysis (0.98 PP in trnK) suggests that Potameia is
+most closely related to Malagasy Beilschmiedia. This appears to be reasonable, as the two Potameia species
+included in this study are endemic to Madagascar. The reasons why Potameia and Yasunia are not simply merged
+with Beilschmiedia have been explained in the original description of Yasunia (van der Werff & Nishida 2010).
+Obviously, the current circumscription of Beilschmiedia, based on morphology, is not satisfactory from a
+phylogenetic point of view. It appears premature, however, to make far-reaching taxonomic changes as long as it
+remains uncertain if and how the Beilschmiedia complex should be subdivided. Endiandra appears to be
+monophyletic if Triadodaphne inaequitepala is included, although support for this clade is really significant only in
+BI of trnK. It should be noted, however, that our analysis includes only Endiandra species from Australia and New
+Caledonia, but none from central Malesia or mainland Asia. It remains to be determined if these belong to the
+same clade. Triadodaphne inaequitepala had originally been described as an Endiandra, but Kostermans (1993)
+transferred it to Triadodaphne. Triadodaphne is supposed to differ from Endiandra by larger, thick and fleshy outer
+tepals and smaller, membraneous inner tepals as well as a deeply urceolate receptacle vs. more or less equal tepals
+and a much shallower receptacle in Endiandra. The specimen that we examined of Triadodaphne inaequitepala,
+Pullen 5505 (L), was sterile, but a paratype of the species (Pullen 5508, L), collected by the same collector from
+the same locality, had small but thick and fleshy inner tepals and a rather shallow receptacle (drawing available on
+lauraceae.myspecies.info). Therefore, we think that at least this species should be treated as Endiandra
+inaequitepala Kostermans (1969), as suggested by van der Werff (2001). Unfortunately, we were not able to get
+material of the type species of the genus, T. myristicoides Kostermans (1974a: 121), that was suitable for DNA
+extraction.
+The question whether Endiandra is nested in Beilschmiedia or not cannot yet be answered with certainty.
+Based on the trnK analysis it appears to be nested within Beilschmiedia with strong support, whereas based on the
+ITS and combined data it may be the sister group to a weakly supported Beilschmiedia in the wider sense, i.e.,
+including the other genera of the Beilschmiedia group. This question needs to be further investigated with
+additional markers and greater taxonomic sampling, particularly from the Malesian region.
+The position of Sinopora hongkongensis also needs further study. This morphologically aberrant genus
+appears well supported as sister to a group of Central American Beilschmiedia species in the ITS and combined BI,
+but this topology has not been retrieved with other methods of analysis or with trnK alone. In all MP and ML
+analyses its position within the Beilschmiedia clade (6) is unresolved, as it is in the BI trnK results. We have
+already started a more extensive sampling of Chinese Beilschmiedia species with the cooperation of J. Lie
+(Kunming), which may help to elucidate relationships of Sinopora. A future study of this group should also
+include the genus Syndiclis, for which we have had no material.
+Morphological considerations.—From a morphological point of view, it appears perfectly logical that
+Eusideroxylon and Potoxylon are sister to the rest of the Cryptocarya group. As in the outer androecial whorls in
+Hypodaphnis, their stamens have four separate pollen sacs in almost collateral arrangement, and their ovary is
+semi-inferior, only slightly less so than in Hypodaphnis. All other members of the Cryptocarya group have
+stamens with just two distinct pollen sacs—or at least opening by just two valves. In numerous species, there are
+four pollen sacs per anther, but the pollen sacs on each side appear to have fused laterally, so that they open by a
+single valve on each side of the anther. This is particularly obvious in several species of Endiandra (see Hyland
+1989, Figs. 76 F and 78 B), and it has also been observed for Cryptocarya by Moraes (2007). We therefore assume
+that bilocular anthers derived by lateral fusion of the pollen sacs are a synapomorphy of the larger part of the
+Cryptocarya group. As described by Rohwer (1994), bilocular anthers in other Lauraceae appear to have arisen by
+reduction of either the upper or the lower pair of pollen sacs.
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 125
+
+The characters typical of Aspidostemon and Dahlgrenodendron (opposite leaves, depressed flower buds,
+subsessile anthers) have already been mentioned above. Hypodaphnis, Eusideroxylon, and Potoxylon have
+alternate leaves, so that the opposite leaves of Aspidostemon and Dahlgrenodendron may be considered a
+synapomorphy of these genera—perhaps a reversal to the ancestral condition, as most other Laurales have opposite
+leaves. However, opposite leaves are also found among the remaining genera with considerable frequency, making
+it difficult to assess their significance. Flower bud shape and length of filaments are also variable among the other
+taxa, particularly within Beilschmiedia.
+Cryptocarya is morphologically diverse, but similar enough to be characterized relatively easily, particularly in
+its flower structure. Flowers are invariably trimerous, with nine bilocular anthers, three relatively big cordate to
+sagittate staminodes, and a deep and narrow receptacular tube enclosing the ovary. In fruit, this receptacular tube
+becomes adnate to the ovary and complements the function of the pericarp. This type of fruit is plesiomorphic for
+Cryptocarya, as it is also found in Hypodaphnis, Eusideroxylon, Potoxylon, Aspidostemon, and Dahlgrenodendron.
+It is, however, not known from the Beilschmiedia clade, which is sister to Cryptocarya. A relatively deep, but
+more funnel-shaped than tubular receptacle is found in Triadodaphne myristicoides, but the fruit of this species is
+still unknown. The third species of Triadodaphne that has been described so far, T. pachytepala Kostermans (1993:
+129), has a shallow receptacle, like most species of Endiandra.
+In spite of its strong support in all analyses, the first clade within Cryptocarya separating from the rest of the
+genus (clade 8), including C. alba, C. oubatchensis, and C. pluricostata, does not seem to have any obvious
+morphological synapomorphies. The leaves of C. alba are opposite and usually broadly elliptic, whereas those of
+C. oubatchensis are alternate and usually oblanceolate; those of C. pluricostata are alternate and (ovate-)elliptic.
+In the last species they are densely pubescent, whereas in the other two they are glabrous or nearly so. Also in
+flowers and fruits, we have not found anything that would separate these three species from the rest of the genus.
+Among the remaining clades within Cryptocarya, our sampling is not yet dense enough for a definite statement on
+their morphological homogeneity. It is obvious, however, that the triplinerved species (C. densiflora, C.
+subtriplinervia, C. triplinervis) do not form a clade.
+The Beilschmiedia clade (6) is characterized by flowers with a superior ovary in a relatively shallow receptacle
+and by fruits that are (as far as they are known) inserted free on their pedicel, not enclosed in an accrescent
+receptacular tube. This appears to be a synapomorphy of this clade based on the topology within the Cryptocarya
+group. In floral structures, there is far more variation in the Beilschmiedia clade than in its sister group,
+Cryptocarya (van der Werff & Nishida 2010, Tab.1). Dimerous flowers appear to have evolved repeatedly from
+normal trimerous flowers, in Potameia and Yasunia quadrata in our sample, but also in Syndiclis and some species
+of Endiandra. The number of fertile stamens is often reduced from the normal nine, to six, four, three, or even two.
+They may have four well-developed pollen sacs, (mostly) only two recognizable locules, or rarely only a single
+locule. The staminal glands can be normally developed, absent, or greatly enlarged to form a glandular cushion.
+The staminodia of the fourth androecial whorl can be large and sagittate as in Cryptocarya and most Beilschmiedia
+species, massive as in Sinopora and Yasunia, or small, or absent. Considering this wide range of morphological
+variation, resolution on the molecular level is surprisingly low. There is enough variation among the species of this
+group (176 parsimony-informative positions or up to 77 pairwise differences among the species), but as in the
+morphological characters, much of this variation seems to be due to homoplasious change. The low (wellsupported) resolution among the basal nodes, in combination with our limited taxon sample and sometimes
+disparate descriptions of the taxa, makes it difficult to recognize morphological patterns. Therefore, we can give
+only some tentative suggestions so far. Besides those groups that have been treated as separate genera anyway
+(Endiandra, Potameia, Yasunia), the South American clade (29) appears to be recognizable by morphological
+characters, as its species (including Yasunia) share opposite leaves with a particularly coarse reticulation. It should
+be noted, however, that these characters are also found in the Central American B. brenesii, which is not a member
+of this clade in our analysis, but rather sister to B. mexicana, a species with alternate leaves showing the fine
+reticulation type described by Nishida & Christophel (1999). The remaining three Neotropical species that we
+investigated, B. alloiophylla, B. costaricensis and B. immersinervis, all have alternate leaves with fine reticulation,
+and they appear to be sister to the Chinese Sinopora hongkongensis (which also shows these characters, like most
+species of the Beilschmiedia clade). Among these, B. alloiophylla and B. costaricensis extend to northwestern
+South America as well (see Nishida 1999).
+
+126 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+Among the Australian species, Beilschmiedia tooram and B. volckii share a reduction to six fertile stamens per
+flower. It remains to be checked if other species with a reduced number of stamens (e.g., B. castrisinensis Hyland
+[1989: 150] and B. oligandra Smith [1958: 28]; see Hyland 1989) are members of the same clade.
+Within Endiandra, our taxon sampling is not yet sufficient to see if there is agreement with morphological
+groups described by Hyland (1989). So far, we have only a single member from three of his 10 morphological
+groups in our matrix, and we were not yet able to obtain reliable sequences of the species with (up to) six stamens
+per flower, E. globosa Maiden & Betche (1899: 149) and E. montana White (1933: 36).
+Biogeographical considerations.—Although several of the basal nodes in our cladograms are either
+insufficiently resolved or not well supported, some geographical signal is clearly evident in our results. Almost all
+well-supported crown groups are geographically homogeneous or nearly so (Fig. 1). The most conspicuous
+exception is the relationship of the Chilean Cryptocarya alba to two species from New Caledonia, C. oubatchensis
+and C. pluricostata, which was retrieved independently in the trnK and ITS results, invariably with high support.
+We assume that this disjunction must have been caused by long distance dispersal across the Pacific. The most
+likely vectors for such are fruit-eating birds, even though we do not know of any regular migration routes that
+would link these areas. Megachiropterans, which are also fruit eaters and good flyers, are important dispersers in
+the Pacific region, but they apparently avoid Lauraceae (Eby 1998), presumably due to the secondary compounds
+contained in their fruits. The origin of C. alba is clearly different from that of the other South American
+Cryptocarya species, indicating two independent introductions. Several years ago, when New Caledonia was
+considered an ancient landmass that had persisted in isolation ever since its separation from Gondwana in the
+Cretaceous, this disjunction might have been considered as an example of a relictual range of Gondwana origin.
+However, geological studies (cited in Pillon 2012) have recently shown that New Caledonia was completely
+submerged until about 37 million years ago, and the levels of genetic divergence are also far too low.
+Among the remaining Cryptocarya species (clade 8), the major well-supported clades can be characterized as
+Asian–Australian (clade 10), southeastern Brazilian (clade 19), and Malagasy (clade 20). The Hawaiian species
+C. mannii and C. oahuensis—which differ from one another by one base pair and a length difference in one of the
+poly-T repeats in their trnK sequences, and by three base pairs and a length difference in a poly-G in their ITS
+sequences—are clearly members of the Asian–Australian clade. Unfortunately our taxon sampling is not yet
+sufficient to pin down their origin more precisely. In any case, their ancestor must have reached its present range
+by eastward dispersal. The Malagasy clade is, according to the trnK analyses, apparently sister to the South
+American taxa (except C. alba). This relationship, however, appears well supported only in the combined
+Bayesian analysis. It remains to be seen if it is upheld when African species, additional Malagasy species, or more
+South American species are added to our taxon sample.
+In the Beilschmiedia clade (6) support for the basal clades is too low to reach any definite biogeographical
+conclusions. During the work on our analyses, we observed that either African or Asian or Australian or Central
+American taxa would form the first clade that separated from the rest of the group, depending on the taxon sample,
+the included characters and the method of analysis but never with strong support. An Old World origin, however,
+has to be assumed because the basal clades of the Cryptocarya group are all paleotropical. In our combined results,
+the species from the southwestern Pacific (Australia, New Zealand, New Caledonia, New Guinea; clade 27) are
+sister to those from the rest of the world (clade 26), but the support for both clades is low. Within clade 26, we find
+a clade consisting of species from (southern) South America (clade 29), Africa and Madagascar (clade 31), and two
+in which a mainly Central American group is sister to an Asian group (clades 28 and 30). Also in this case it can be
+assumed that a migration between Asia and the Americas occurred more than once, and that the origin of the
+species from southern South America is probably different from that of the species from Central America (and
+northwestern South America). It would be tempting to think of the former as an ancient Southern Hemisphere
+relict and of the latter as a recent immigration after the closure of the Central American land bridge in the Pliocene,
+but this idea is not supported by our results, neither by the topology nor low levels of DNA divergence.
+Molecular clock?—In phylogenetic studies such as this it has become common practice to estimate the
+divergence times of the clades based on calibration of the retrieved topology. However, the reliability of such
+estimates depends not only on the quality of the phylogenetic analyses, but even more on the accuracy and
+reliability of the calibrations (Graur & Martin 2004). In our analyses, several potentially important nodes are either
+poorly resolved or not well enough supported, especially in the Beilschmiedia clade. The calibration problem is
+even more serious: how can we confidently assign a fragmentary fossil to a certain clade in a group where it is
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 127
+
+often difficult to assign the extant species to their evolutionary lineages based on morphology alone? There are
+some fossils that are supposed to belong to the Cryptocarya group, like the Miocene leaf remains described by
+Bannister et al. (2012) or those ascribed to Cryptocarya by Holden (1982), but it is unclear at this time how reliable
+these determinations are and to which taxa they should refer. Pole (1993) wrote about the material described by
+Holden (1982) that “[...] this cannot yet be affirmed, and placement in say, Cinnamomum or Neolitsea ruled out.”
+Even if it was Cryptocarya, this would not help in placing of the calibration point. Pole (1993) compared the
+fossils to “Cryptocarya macrophylla Guill.” from New Caledonia (probably an error instead of C. macrocarpa
+Guillaumin [1924: 1103]; at least the leaf looks like in this species) and to C. triplinervis from Lord Howe Island.
+To which clade should be given a mid-Miocene age, clade 7, 9, or 16? Instead of guessing at a possible calibration
+point we prefer to postpone a molecular clock analysis until we are more confident about relationships of the extant
+species and affinities of fossils to them.
+
+Conclusion
+The questions that we raised in the introduction can be answered as follows. (1) Dahlgrenodendron, Sinopora, and
+Yasunia are members of the Cryptocarya group. Dahlgrenodendron is sister to Aspidostemon, whereas Sinopora
+and Yasunia belong to the Beilschmiedia clade. Yasunia is nested among South American Beilschmiedia species.
+The phylogenetic position of Sinopora needs further study. (2) Triadodaphne inaequitepala is a species of
+Endiandra. It remains to be determined if this is true for the other two species of Triadodaphne as well. (3)
+Cryptocarya is monophyletic, in spite of its morphological diversity. Endiandra appears to be monophyletic as
+well, although a broader sampling including species from continental Asia will be necessary to confirm this.
+Beilschmiedia is clearly not monophyletic in its present circumscription. At least Potameia and Yasunia are nested
+among Beilschmiedia species, possibly also Endiandra and/or Sinopora.
+In addition, our study supports the following conclusions: (a) Tetrasporangiate anthers are plesiomorphic in
+Lauraceae, and bilocular anthers in the Cryptocarya group (but not in other Lauraceae) have arisen by lateral fusion
+of the two pollen sacs of a theca. (b) Within the Cryptocarya group, a superior ovary and consequently a fruit that
+is free on its pedicel are synapomorphies of the Beilschmiedia clade. The plesiomorphic conditions appear to be an
+ovary that is (semi-)inferior or at least enclosed in the receptacular tube and a fruit in which the fleshy outer layers
+are formed by receptacular tissue. (c) The Cryptocarya group originated in the Paleotropics. Its two largest
+genera, Beilschmiedia and Cryptocarya, have reached the New World more than once, probably from different
+sources.
+Still a number of problems remain to be investigated in further studies. The resolution among the basal
+lineages within the Beilschmiedia clade needs to be improved by additional molecular markers and collections
+from regions that are still relatively poorly represented in our taxon sample (e.g., tropical Africa, subtropical Asia,
+the Indian subcontinent, additional Malesian islands). A better circumscription or perhaps subdivision of the genus
+Beilschmiedia is needed, integrating molecular and morphological evidence. The positions of Endiandra and
+Sinopora relative to the remaining taxa of the Beilschmiedia clade need further study. The genus Syndiclis needs to
+be included, with special attention to its relationships with the morphologically similar genus Potameia. Also for
+Cryptocarya, additional collections are needed, e.g., from South Africa, Continental Asia and further Pacific
+islands. Some of these investigations are under way, but others depend on availability of suitable plant material.
+
+Acknowledgements
+This work is to a large extent based on material provided by Jim Solomon from the Missouri Botanical Garden
+DNA bank, collected by D. Arifiani, J.G. Graham, B. Gray, P.P. Lowry, A.J. Pérez, G. McPherson, S.G.
+Razafimandimbison, SIMAB, H. van der Werff, N.H. Xia, and S. Yasuda (vouchers in MO), and on material
+collected by one of us (P.M.) in Brazil, many of them during a collecting trip with the first author, supported by
+PROPG-UNESP (Internacionalização dos Programas de Pós-Graduação, Edital 02/2011) (vouchers in ESA, HRCB
+and HUEFS). Additional material has been provided by Mary Korver and Ines Schönenberger from Lincoln, New
+Zealand (vouchers in CHR), Günter Gerlach from Munich, Germany (vouchers in M), Rainer Greissl from Mainz,
+
+128 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+Germany (voucher in MJG), A.T. Gwee from Singapore (voucher in SING), and Marianne Lauerer from Bayreuth,
+Germany (voucher in UBT). DNA extracts have been provided by the Royal Botanic Gardens, Kew, DNA Bank
+(http://apps.kew.org/dnabank/homepage.html, vouchers at K), by Cliff Morden from the Hawaiian Plant DNA
+library (vouchers in BISH and PTBG), and by Zoe Davids from Kirstenbosch, South Africa (voucher in SANBI).
+The curators of the herbaria AAU and L are gratefully acknowledged for allowing the first author (many years ago)
+to remove fragments from herbarium specimens, from some of which we were now able to extract DNA. This
+work would not have been possible without these collections or without the herbaria of our institutions (HBG,
+HRCB, and MO). Elisa Suganuma and Élvia Rodrigues de Souza kindly provided (partial) ITS and/or matK
+sequences of several taxa (Beilschmiedia costaricensis, Cryptocarya aff. aschersoniana, C. citriformis, C. gracilis,
+C. mandioccana, C. moschata, C. oubatchensis), which we could use to complement our data. We also thank our
+lab technicians Andrea Jounais and Anna Maria Vogt not only for their skillful work in the lab, but also for
+supervising our student assistants Christina Baro, Torsten Hoche, Anja zur Loye and Randi Weege.
+
+References
+Allen, C.K. (1942) Studies in Lauraceae, IV. Preliminary study of the Papuasian species collected by the Archbold expeditions.
+Journal of the Arnold Arboretum 23: 112–155.
+Allen, C.K. (1945) Studies in Lauraceae, VI. Preliminary survey of the Mexican and Central American species. Journal of the Arnold
+Arboretum 26: 280–434.
+Bailey, F.M. (1901) The Queensland flora, part IV. The Queensland Government, Brisbane, 342 pp.
+Baillon, H.E. (1884) Sur un nouveau genre Bernieria. Bulletin Mensuel de la Société Linnéenne de Paris 1: 434–435.
+Baillon, H.E. (1892) Histoire naturelle des plantes. In: Grandidier, A., Histoire physique, naturelle et politique de Madagascar, tome
+IV – Atlas – II, 3e partie, fasc. 30. Imprimerie Nationale, Paris, 130 plates.
+Bannister, J.M., Conran, J.G. & Lee, D.E. (2012) Lauraceae from rainforest surrounding an early Miocene maar lake, Otago, southern
+New Zealand. Review of Palaeobotany and Palynology 178: 13–34.
+http://dx.doi.org/10.1016/j.revpalbo.2012.03.015
+Blume, C.L. (1825) Bijdragen tot de flora van Nederlandsch Indië, vol. 11. Ter Lands Drukkerij, Batavia, 48 pp.
+Brown, R. (1810) Prodromus florae Novae Hollandiae et Insulae Van-Diemen, vol. 1. Richard Taylor, London, 592 pp.
+http://dx.doi.org/10.5962/bhl.title.3633
+Capuron, R. (1960) Contribution à l’étude de la flore forestière de Madagascar. Notulae Systematicae, Herbier du Muséum de Paris
+16: 60–80.
+Chanderbali, A.S. (2004) Endlicheria (Lauraceae). Flora Neotropica monograph 91. New York Botanical Garden Press, New York,
+141 pp.
+Chanderbali, A.S., van der Werff, H. & Renner, S.S. (2001) Phylogeny and historical biogeography of Lauraceae: evidence from the
+chloroplast and nuclear genomes. Annals of the Missouri Botanical Garden 88: 104–134.
+http://dx.doi.org/10.2307/2666133
+Cunningham, A. (1838) Florae Insularum Novae Zelandiae Precursor; or a specimen of the botany of the Islands of New Zealand.
+Annals of Natural History, Ser. 1, 1: 210–216, 376–381, 455–462.
+http://dx.doi.org/10.1080/00222933809496630
+Du Petit-Thouars, A.A. (1806) Genera nova Madagascariensia secundum methodum Iussiaeanam disposita. Académie des Sciences,
+Paris, 30 pp.
+Eby, P. (1998) An analysis of diet specialization in frugivorous Pteropus poliocephalus (Megachiroptera) in Australian subtropical
+rainforest. Australian Journal of Ecology 23: 443–456.
+http://dx.doi.org/10.1111/j.1442-9993.1998.tb00752.x
+Engler, A. (1899) Lauraceae africanae. Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie 26: 385–
+392, plate IX.
+Fosberg, F.R. (1936) Miscellaneous Hawaiian plant notes 1. Occasional Papers of Bernice Pauahi Bishop Museum of Polynesian
+Ethnology and Natural History 12 (15): 1–11.
+Gay, C. (1849) Historia fisica y politica de Chile, botánica, vol. 5. Thunot, Paris, 479 pp.
+Gentry, A. H. (1988) Changes in plant community diversity and floristic composition on environmental and geographical gradients.
+Annals of the Missouri Botanical Garden 75: 1–34.
+http://dx.doi.org/10.2307/2399464
+Graur, D. & Martin, E. (2004) Reading the entrails of chickens: molecular timescales of evolution and the illusion of precision. Trends
+in Genetics 20: 80–86.
+http://dx.doi.org/10.1016/j.tig.2003.12.003
+Guillaumin, A. (1924) Matériaux pour la flore de la Nouvelle-Calédonie. XVII. Révision des Lauracées. Bulletin de la Société
+Botanique de France 71: 1101–1112.
+Hance, H.F. (1882) A decade of new Hong-Kong plants. Journal of Botany, British and Foreign 20: 77–80.
+Hillebrand, W. (1888) Flora of the Hawaiian Islands. Williams & Norgate, London, 673 pp.
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 129
+
+Hilu, K.W., Borsch, T., Müller, K., Soltis, D.E., Soltis, P.S., Savolainen, V., Chase, M.W., Powell, M., Alice, L.A., Evans, R., Sauquet,
+H., Neinhuis, C., Slotta, T.A., Rohwer, J.G., Campbell, C.S. & Chatrou, L. (2003) Angiosperm phylogeny based on matK
+sequence information. American Journal of Botany 90: 1758–1776.
+http://dx.doi.org/10.3732/ajb.90.12.1758
+Holden, A.M. (1982) Fossil Lauraceae and Proteaceae from the Longford Formation, Murchison, New Zealand. Journal of the Royal
+Society of New Zealand 12: 79–80.
+http://dx.doi.org/10.1080/03036758.1982.10427169
+Hooker, J.D. (1886a) Icones plantarum 16: plate 1515. Williams and Norgate, London, Edinburgh, 202 pp.
+Hooker, J.D. (1886b) The Flora of British India, vol. 5. Reeve, London, 910 pp.
+Huelsenbeck, J. P. & Ronquist, F. (2001) MRBAYES: Bayesian inference of phylogenetic trees. Bioinformatics 17: 754–755.
+http://dx.doi.org/10.1093/bioinformatics/17.8.754
+Hyland, B.P.M. (1989) A revision of Lauraceae in Australia (excluding Cassytha). Australian Systematic Botany 2: 135–367.
+http://dx.doi.org/10.1071/sb9890135
+Jobb, G. (2008) TREEFINDER version of October 2008. Munich, Germany. Distributed by the author at www.treefinder.de.
+Käss, E. & Wink, M. (1997) Phylogenetic relationships in the Papilionoideae (family Leguminosae) based on nucleotide sequences of
+cpDNA (rbcL) and ncDNA (ITS 1 and 2). Molecular Phylogenetics and Evolution 8: 65–88.
+http://dx.doi.org/10.1006/mpev.1997.0410
+Kirk, T. (1889) The forest flora of New Zealand. Government Printer, Wellington, 345 pp.
+Kostermans, A.J.G.H. (1936) Revision of the Lauraceae I. Recueil des Travaux Botaniques Néerlandais 33: 719–757.
+Kostermans, A.J.G.H. (1938) Revision of the Lauraceae V. A monograph of the genera: Anaueria, Beilschmiedia (American species)
+and Aniba. Recueil des Travaux Botaniques Néerlandais 35: 843–928.
+Kostermans, A.J.G.H. (1939) Enumeratio lauracearum Madagascariensium et ex Insulis Mascarenis. Notulae Systematicae. Herbier du
+Muséum de Paris 8: 67–128.
+Kostermans, A.J.G.H. (1952) A historical survey of Lauraceae. Journal of Scientific Research 1: 83–95, 113–127, 141–159.
+Kostermans, A.J.G.H. (1957) Lauraceae. Pengumuman balai besar penjelidikan kehutanan Indonesia 57: 1–64.
+Kostermans, A.J.G.H. (1958) Le genre Ravensara Sonn. (Lauracées) à Madagascar. Bulletin du Jardin Botanique de l'État 28: 173–
+191.
+http://dx.doi.org/10.2307/3666860
+Kostermans, A.J.G.H. (1961) Miscellaneous botanical notes 2: Reinwardtia 5: 375–411.
+Kostermans, A.J.G.H. (1965) New and critical Malesian plants VII. Reinwardtia 7: 19–46.
+Kostermans, A.J.G.H. (1969) Materials for a revision of Lauraceae II. Reinwardtia 7: 451–536.
+Kostermans, A.J.G.H. (1973) Cinnadenia Kosterm., genus novum lauracearum. Adansonia, n.s. 13: 223–227.
+Kostermans, A.J.G.H. (1974a) Triadodaphne, a new lauraceous genus from Borneo. Reinwardtia 9: 119–121.
+Kostermans, A.J.G.H. (1974b) Flore de la Nouvelle Calédonie et Dépendances, vol. 5. Muséum National d’Histoire Naturelle, Paris,
+123 pp.
+Kostermans, A.J.G.H. (1978) Potoxylon, a new Bornean genus of Lauraceae. Malayan Nature Journal 32: 143–147.
+Kostermans, A.J.G.H. (1990) Materials for a revision of Lauraceae VI. Botanica Helvetica 100: 33–36.
+Kostermans, A.J.G.H. (1993) Notes on Triadodaphne Kosterm. (Lauraceae). Rheedea 3: 129–131.
+Li, J., Christophel, D.C., Conran, J.G. & Li, H.W. (2004) Phylogenetic relationships within the ‘core’ Laureae (Litsea complex,
+Lauraceae) inferred from sequences of the chloroplast gene matK and nuclear ribosomal DNA ITS regions. Plant Systematics
+and Evolution 26: 19–36.
+http://dx.doi.org/10.1007/s00606-003-0113-z
+Li, J., Xia, N.H. & Li, H.W. (2008) Sinopora, a new genus of Lauraceae from South China. Novon 18: 199–201.
+http://dx.doi.org/10.3417/2006126
+Li, L., Li, J., Rohwer, J.G., van der Werff, H., Wang, Z.H. & Li, H.W. (2011) Molecular phylogenetic analysis of the Persea group
+(Lauraceae) and its biogeographic implications on the evolution of tropical and subtropical amphi-Pacific disjunctions. American
+Journal of Botany 98: 1520–1536.
+http://dx.doi.org/10.3732/ajb.1100006
+Looser, G. 1950 (issued 1951). La vegetacion de la Quebrada del Tigre (Zapallar) y, en especial, sus helechos. Revista Universitaria.
+Universidad Catolica de Chile 35: 53–67.
+Maiden, J.H. & Betche, E. (1899) Notes from the Botanic Gardens, Sydney. No. 4. Proceedings of the Linnean Society of New South
+Wales 24: 143–153.
+Meissner, C.F. (1964) Ordo CLXII. Lauraceae. In: Candolle, A. de, Prodromus systematis naturalis regni vegetabilis, vol. 15 (1).
+Masson, Paris, pp. 1–260, 503–516.
+Mez, C. (1889) Lauraceae Americanae. Jahrbuch des Königlichen Botanischen Gartens und des Botanischen Museums zu Berlin 5: 1–
+556.
+Mez, C. (1893) Lauraceae (pp. 518–521). In: Taubert, P., Plantae Glaziovianae novae vel minus cognitae. Botanische Jahrbücher für
+Systematik, Pflanzengeschichte und Pflanzengeographie 17: 502–526.
+Mez, C. (1903) Additamenta monographica 1903. Bulletin de l'Herbier Boissier, sér. 2, 3: 224–238.
+Molina, G.I. (1782) Saggio sulla Storia Naturale del Chili. Stamperia di S. Tommaso d’Aquino, Bologna, 367 pp.
+http://dx.doi.org/10.5962/bhl.title.62689
+Moraes, P.L.R. de (2005) Lectotypification of names of Brazilian species of Cryptocarya (Lauraceae). Taxon 54: 789–795.
+http://dx.doi.org/10.2307/25065435
+Moraes, P.L.R. de (2007) Taxonomy of Cryptocarya species of Brazil. ABC Taxa 3: 1–191.
+
+130 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+Mort, M.E., Soltis, P.S., Soltis, D.E. & Mabry, M.L. (2000) Comparison of three methods for estimating internal support on
+phylogenetic trees. Systematic Biology 49: 160–171.
+Nees von Esenbeck, C.G.D. (1831) Laurineae Indiae Orientalis. In: Wallich, N. Plantae Asiaticae rariores; or, descriptions and
+figures of a select number of unpublished East Indian plants, vol. 2. Treuttel and Würtz, London, pp. 58–76.
+Nees von Esenbeck, C.G.D. (1833) Revisio Laurinarum ab Sellowio in Brasilia collectarum et iam in herbario regio Berolinensi
+asservatarum. Linnaea 8: 36–51.
+Nishida, S. (1999) Revision of Beilschmiedia (Lauraceae) in the Neotropics. Annals of the Missouri Botanical Garden 86: 657–701.
+http://dx.doi.org/10.2307/2666150
+Nishida, S. & Christophel, D.C. (1999) Leaf anatomy of Beilschmiedia (Lauraceae) in the Neotropics. Nature and Human Activities 4:
+9–43.
+Nuin, P. (2005) MrMTgui 1.0. Program distributed by the author at http://www.genedrift.org/mtgui.php.
+Nylander, J.A.A. (2004) MrModeltest v2. Program distributed by the author. Evolutionary Biology Centre, Uppsala University.
+Pillon, Y. (2012) Time and tempo of diversification in the flora of New Caledonia. Botanical Journal of the Linnean Society 170: 288–
+298.
+http://dx.doi.org/10.1111/j.1095-8339.2012.01274.x
+Pole, M.S. (1993) Early Miocene flora of the Manuherikia Group, New Zealand. 6. Lauraceae. Journal of Royal Society of New
+Zealand 23: 303–312.
+http://dx.doi.org/10.1080/03036758.1993.10721228
+Posada, D. & Crandall, K.A. (1998) MODELTEST: testing the model of DNA substitution. Bioinformatics 14: 817–818.
+http://dx.doi.org/10.1093/bioinformatics/14.9.817
+Richter, H.G. (1981) Anatomie des sekundären Xylems und der Rinde der Lauraceae. Sonderbände des Naturwissenschaftlichen
+Vereins in Hamburg 5: 1–148.
+Robyns, W. & Wilczek, R. (1950) Contribution a l’étude du genre Beilschmiedia de l’Afrique tropicale. Bulletin du Jardin Botanique
+de l'État 20: 197–226.
+http://dx.doi.org/10.2307/3666692
+Rohwer, J.G. (1993) Lauraceae. In: Kubitzki, K., Rohwer, J.G. & Bittrich, V. (eds), The families and genera of vascular plants, vol 2.
+Springer, Berlin, pp. 366–391.
+Rohwer, J.G. (1994) A note on the evolution of the stamens in the Laurales, with emphasis on the Lauraceae. Botanica Acta 107: 103–
+110.
+Rohwer, J.G. (2000) Toward a phylogenetic classification of the Lauraceae: evidence from matK sequences. Systematic Botany 25: 60–
+70.
+http://dx.doi.org/10.2307/2666673
+Rohwer, J.G. & Richter, H.G. (1987) Aspidostemon, a new lauraceous genus from Madagascar. Botanische Jahrbücher für Systematik,
+Pflanzengeschichte und Pflanzengeographie 109: 71–79.
+Rohwer, J.G. & Rudolph, B. (2005) Jumping genera: the phylogenetic positions of Cassytha, Hypodaphnis and Neocinnamomum
+(Lauraceae) based on different analyses of trnK intron sequences. Annals of the Missouri Botanical Garden 92: 153–178.
+Rohwer, J.G., Li, J. , Rudolph, B., Schmidt, S.A., van der Werff, H. & Li, H.W. (2009) Is Persea (Lauraceae) monophyletic?—
+Evidence from nuclear ribosomal ITS sequences. Taxon 58: 1153–1167.
+Ronquist, F. & Huelsenbeck, J.P. (2003) MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics 19: 1572–
+1574.
+http://dx.doi.org/10.1093/bioinformatics/btg180
+Ross, J.H. (1973) Lauraceae: A new generic record for South Africa and a new species. Bothalia 11: 118.
+Rusby, H.H. (1920) Descriptions of three hundred new species of South American plants. Published by the author, New York, 170 pp.
+http://dx.doi.org/10.5962/bhl.title.56802
+Schlechter, R. (1906) Beiträge zur Kenntnis der Flora von Neu-Kaledonien. Botanische Jahrbücher für Systematik,
+Pflanzengeschichte und Pflanzengeographie 39: 1–274.
+Scott-Elliot, G.F. (1891) New and little-known Madagascar Plants. Journal of the Linnean Society, Botany 29: 1–67, plate 1–12.
+http://dx.doi.org/10.1111/j.1095-8339.1891.tb00116.x
+Simmons, M.P. & Ochoterena, H. (2000) Gaps as characters in sequence-based phylogenetic analyses. Systematic Biology 49: 369–
+381.
+Simmons, M. P., Müller, K. & Norton, A.P. (2007) The relative performance of indel-coding methods in simulations. Molecular
+Phylogenetics and Evolution 44: 724–740.
+http://dx.doi.org/10.1016/j.ympev.2007.04.001
+Smith, L.S. (1958, issued 1959) New species of and notes on Queensland plants - IV. Proceedings of the Royal Society of Queensland
+70: 27–32.
+Sonnerat, P. (1782) Voyage aux Indes orientales et à la Chine, vol. 2. l’Auteur, Froulé, Nyon, Barrois, Paris, 317 pp.
+Stapf, O. (1909) Order CXVI. Laurineae. In: Thiselton-Dyer, W.T. (ed.), Flora of Tropical Africa, vol. 6. Reeve, London, pp. 171–
+188.
+Steele, K.P. & Vilgalys, R. (1994) Phylogenetic analyses of Polemoniaceae using nucleotide sequences of the plastid gene matK.
+Systematic Botany 19: 126–142.
+http://dx.doi.org/10.2307/2419717
+Swofford, D.L. (2003) PAUP*: Phylogenetic analysis using parsimony (*and other methods), version 4.0b10. Sinauer, Sunderland.
+Symington, C.F. (1940) Icones plantarum Ser. 5, vol. 35. Blackwell, Oxford, 100 plates.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M. & Kumar, S. (2011) MEGA5: Molecular evolutionary genetics analysis
+
+A PHYLOGENETIC ANALYSIS OF THE CRYPTOCARYA GROUP
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+• 131
+
+using maximum likelihood, evolutionary distance, and maximum parsimony methods. Molecular Biology and Evolution 28:
+2731–2739.
+http://dx.doi.org/10.1093/molbev/msr121
+Teijsmann, J.E. & Binnendijk, S. (1863) Bijdrage tot de kennis van het echte ijzerhout, Eusideroxylon Zwageri. Natuurkundig
+tijdschrift voor Nederlandsch Indië 25: 289–294.
+van der Merwe, J.J.M., van Wyk, A.E. & Kok, P.D.F. (1988) Dahlgrenodendron, a remarkable new genus of Lauraceae from Natal and
+Pondoland. South African Journal of Botany 54: 80–88.
+van der Werff, H. (1992) Proposal to conserve 2813 Cryptocarya against Ravensara (Lauraceae). Taxon 41: 129.
+http://dx.doi.org/10.2307/1222506
+van der Werff, H. (2001) An annotated key to the genera of Lauraceae in the Flora Malesiana region. Blumea 46: 125–140.
+van der Werff, H. (2006) A revision of the Malagasy endemic genus Aspidostemon Rohwer & Richter (Lauraceae). Adansonia sér. 3,
+28: 7–44.
+van der Werff, H. (2008) A new species and new combinations in Cryptocarya from Madagascar. Adansonia sér. 3, 30: 41–46.
+van der Werff, H. (2013) Nomenclatural notes on Cryptocarya (Lauraceae) from Madagascar. Candollea 68: 303–306
+van der Werff, H. & Endress, P.K. (1991) Gamanthera (Lauraceae), a new genus from Costa Rica. Annals of the Missouri Botanical
+Garden 78: 401–408.
+http://dx.doi.org/10.2307/2399569
+van der Werff, H. & Nishida, S. (2010) Yasunia (Lauraceae), a new genus with two species from Ecuador and Peru. Novon 20: 493–
+502.
+http://dx.doi.org/10.3417/2010030
+van der Werff, H. & Richter, H.G. (1996) Toward an improved classification of Lauraceae. Annals of the Missouri Botanical Garden
+83: 409–418.
+http://dx.doi.org/10.2307/2399870
+Vellozo, J. M. da C. (1829) Florae Fluminensis. Typographia nationalis, Rio de Janeiro, 352 pp.
+White, C.T. (1933) Ligneous plants collected for the Arnold Arboretum in North Queensland by S.F. Kajewski in 1929. Contributions
+from the Arnold Arboretum of Harvard University, vol. 4. Arnold Arboretum, Jamaica Plain, 113 pp., 9 plates.
+Wright, A.E. (1984) Beilschmiedia Nees (Lauraceae) in New Zealand. New Zealand Journal of Botany 22: 109–125.
+http://dx.doi.org/10.1080/0028825x.1984.10425238
+Xia, N.H., Deng, Y.F. & Yip, K.L. (2006) Syndiclis hongkongensis (Lauraceae), a new species from China. Journal of Tropical and
+Subtropical Botany 14: 75–77.
+
+132 •
+
+Phytotaxa 158 (2) © 2014 Magnolia Press
+
+ROHWER ET AL.
+
+

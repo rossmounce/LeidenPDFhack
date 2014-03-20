@@ -1,0 +1,805 @@
+Phytotaxa 98 (2): 55–64 (2013)
+www.mapress.com/ phytotaxa /
+
+ISSN 1179-3155 (print edition)
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.98.2.3
+
+Three new species of Rhipidocladum (Poaceae: Bambusoideae: Arthrostylidiinae)
+from South America
+CHRISTOPHER D. TYRRELL1,2 & LYNN G. CLARK1
+1 Iowa State University, Dept. of Ecology, Evolution, and Organismal Biology, 251 Bessey Hall, Ames, IA 50011 USA.
+2 University of New Brunswick, Biology Dept., P.O. Box 4400, Fredericton, NB E3B 5A3 Canada. E-mail:
+
+christopher.d.tyrrell@unb.ca
+
+Abstract
+Three new woody bamboo species from South America, Rhipidocladum arenicolum from Peru, R. cordatum from
+Ecuador and R. rubrofimbriatum from Venezuela, are here described and illustrated. Based on morphological analysis, R.
+arenicolum and R. cordatum are placed in sect. Rhipidocladum and R. rubrofimbriatum in sect. Racemiflorum.
+Rhipidocladum arenicolum and R. cordatum are most similar to R. harmonicum, but R. arenicolum differs in its wider
+foliage leaf blades and longer spikelets and florets. Rhipidocladum cordatum differs by having cordate culm leaf blades,
+more branchlets per node and smaller, narrower foliage leaf blades as well as more closely spaced spikelets.
+Rhipidocladum rubrofimbriatum is most similar to R. sibilans but is awnless, has fewer branchlets per node, and larger,
+wider foliage leaf blades.
+
+Resumen
+Se describe e ilustra tres nuevas especies de bambúes leñosos de Sudamérica, Rhipidocladum arenicolum de Perú, R.
+cordatum de Ecuador y R. rubrofimbriatum de Venezuela. Con base en un análisis morfológico, R. arenicolum y R.
+cordatum se establece en sección Rhipidocladum y R. rubrofimbriatum en sección Racemiflorum. Rhipidocladum
+arenicolum y R. cordatum son más similares a R. harmonicum. Rhipidocladum arenicolum se distingue de R.
+harmonicum por sus hojas de follaje anchas y sus espiguillas y flósculos más largos mientras que R. cordatum se
+distingue por tener las láminas de las hojas caulinares cordadas, más ramitas por nudo y láminas foliares mas pequeñas y
+angostas y espiguillas menos distantes. Rhipidocladum rubrofimbriatum es más parecida a R. sibilans pero carece de
+aristas, tiene menos ramitas por nudo, y hojas de follaje más grandes y anchas.
+Key words: Bambuseae, neotropical woody bamboo
+
+Introduction
+Rhipidocladum McClure (1973: 105) is a neotropical woody bamboo genus of 15 species occurring from
+central Mexico to Brazil and Argentina. The genus has a distinctive fan-like branching architecture that is
+mirrored in allied genera Actinocladum (McClure in Soderstrom 1981: 1201), Didymogonyx (L. G. Clark &
+Londoño 1991: 1271) C. D. Tyrrell, L. G. Clark & Londoño (2012: 146) and Merostachys Sprengel (1825:
+132). Rhipidocladum species are differentiated from these by having a basic caryopsis (Actinocladum and
+Merostachys possess a nucoid caryopsis) and uniform culm internode lengths (Didymogonyx is characterized
+by alternating short and long internodes along the culm; Tyrrell et al. 2012). The genus is divided into two
+sections: the monotypic Rhipidocladum sect. Rhipidocladum L. G. Clark & Londoño (1991: 1271) containing
+the type species, R. harmonicum (Parodi 1944: 479) McClure (1973: 105), and Rhipidocladum sect.
+Racemiflorum L. G. Clark & Londoño (1991: 1275) comprising the remaining 14 species.
+
+Accepted by Maria Vorontsova: 12 Apr. 2013; published online in PDF: 8 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+55
+
+Section Rhipidocladum is distinguished from section Racemiflorum by its geniculate synflorescence axes
+(alternately bending 90° in zig-zag fashion), basally fused foliage leaf fimbriae, obtuse lemma apices, and
+copious adaxial intercostal sclerenchyma in foliage leaf blade cross-sections (Clark & Londoño 1991).
+Species in section Racemiflorum generally have a viny, scandent or clambering growth form, whereas those in
+section Rhipidocladum have more erect culms and are often self-supporting. Rhipidocladum sect.
+Racemiflorum is widespread, ranging from Mexico to Argentina and inhabits moist forests, canyon walls,
+river banks and, occasionally, dry savannas from low to high elevations (0–2000 m; Judziewicz et al. 1999).
+Rhipidocladum sect. Rhipidocladum appears to be more restricted, known only from montane forests in South
+America, mainly along the Andes, from northern Colombia to Bolivia at elevations of 1200–2800 m (Fig 1).
+
+FIGURE 1. Distribution map of three new species: Rhipidocladum arenicolum, R. cordatum and R. rubrofimbriatum, and the known
+ranges of the most similar species: R. harmonicum and R. sibilans in South America.
+
+56 •
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+TYRRELL & CLARK
+
+Morphological investigation of Rhipidocladum as a part of recent phylogenetic work (Tyrrell et al. 2012)
+uncovered several distinctive specimens that we were able to separate into three new species. Here we
+describe and illustrate two new species of Rhipidocladum sect. Rhipidocladum: R. arenicolum and R.
+cordatum, and a new species from Rhipidocladum sect. Racemiflorum: R. rubrofimbriatum.
+Rhipidocladum arenicolum and R. cordatum are clearly placed in section Rhipidocladum by their
+geniculate synflorescence axes and basally fused foliage leaf fimbriae. Rhipidocladum arenicolum differs
+from R. harmonicum in its wider foliage leaf blades and longer spikelets with much longer florets (Table 1).
+TABLE 1. Morphological characters that differentiate Rhipidocladum arenicolum and R. cordatum from R. harmonicum.
+Character
+
+R. cordatum
+
+R. harmonicum
+
+unknown
+
+ca. 8
+
+5–20(–40)
+
+5–8
+
+20–25
+
+9–30
+
+sheath length (cm)
+
+unknown
+
+7–10
+
+12–19
+
+blade base
+
+unknown
+
+cordate
+
+attenuate
+
+number per node
+
+18–25
+
+70–100
+
+ca. 35
+
+length (cm)
+
+57–65
+
+23–30
+
+35–45
+
+length (mm)
+
+32–54
+
+20–30
+
+25–30
+
+1–3
+
+4.5–5
+
+ca. 3.5
+
+stramineous to brown
+
+golden-red
+
+ivory
+
+4–5
+
+2–3
+
+1.5–2
+
+abaxial vestiture
+
+glabrous
+
+sparsely puberulent
+
+puberulent
+
+adaxial vestiture
+
+puberulent
+
+hispidulous
+
+strigulose
+
+color
+
+dark brown
+
+purple to brown
+
+stramineous
+
+Length (cm)
+
+7–10
+
+6–7.5
+
+5.9–12
+
+Width (mm)
+
+13–17
+
+7–11
+
+8–17
+
+5–6
+
+7–9
+
+7–10
+
+abaxial vestiture
+
+glabrous
+
+glabrous
+
+sparsely pubescent
+
+adaxial vestiture
+
+glabrous
+
+pubescent
+
+sparsely pubescent
+
+length (cm)
+
+16–23
+
+4–6
+
+5–6
+
+spikelet spacing (mm)
+
+20–40
+
+4–9
+
+10–40(–50)
+
+length (cm)
+
+4.4–5
+
+4.8–5
+
+2.5–4
+
+number of glumes
+
+2–3
+
+3–4
+
+2–4
+
+number of florets
+
+Culm
+
+R. arenicolum
+
+6–7
+
+9–10
+
+5–7
+
+obtuse
+
+acuminate
+
+acute
+
+ca. 4
+
+3–4
+
+5–5.5
+
+7
+
+1
+
+3
+
+ca. 9
+
+3.5–4
+
+ca. 7
+
+7
+
+3–5
+
+5–7
+
+ca. 11
+
+ca. 6
+
+ca. 7
+
+9
+
+5
+
+5–7
+
+obtuse
+
+acuminate
+
+obtuse
+
+18.5–19
+
+7.5–8
+
+7–7.5
+
+13
+
+5–7
+
+11
+
+ca. 13
+
+6.5–7
+
+6.5–7
+
+height (m)
+diameter (mm)
+
+Culm leaf
+
+Branchlets
+
+Foliage leaf sheath
+
+fimbriae length (mm)
+fimbriae color
+Pseudopetiole
+
+Foliage leaf blade
+
+length (mm)
+
+L:W ratio
+
+Synflorescence
+
+Spikelet
+
+Lowest glume
+
+apex
+length (mm)
+number of nerves
+
+Second glume
+
+length (mm)
+number of nerves
+
+Third glume
+
+length (mm)
+number of nerves
+
+Lemma
+
+apex
+length (mm)
+number of nerves
+
+Palea
+
+length (mm)
+
+THREE NEW SPECIES OF RHIPIDOCLADUM FROM SOUTH AMERICA
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+• 57
+
+Rhipidocladum cordatum differs from R. harmonicum and R. arenicolum by having cordate culm leaf blades,
+more branchlets per node, and smaller, narrower foliage leaf blades and more closely spaced spikelets (Table
+1). Rhipidocladum cordatum also bears a distinct row of hairs along the margin of the leaf sheath and blade, a
+character known from other congeners, particularly R. maxonii (Hitchcock 1927: 80) McClure (1973: 105).
+Rhipidocladum rubrofimbriatum was first recognized as “Rhipidocladum sp. A” and “Rhipidocladum sp.
+B” by Judziewicz in Davidse et al. (2004). At that time, there was insufficient material for a full description
+(Judziewicz and Clark 1993). Additional specimens from this region have offered enough material to
+demonstrate that Judziewicz’s “sp. A” and “sp. B” specimens are likely to represent a size continuum of the
+same entity which we recognize here as R. rubrofimbriatum. The lack of geniculate synflorescences and the
+presence of unfused fimbriae place this species in section Racemiflorum where it is most similar to R. sibilans
+Davidse, Judz. & L.G. Clark in Judziewicz et al. (1991: 84), but it is awnless, has fewer branchlets per node,
+and larger, wider foliage leaf blades (Table 1).
+Rhipidocladum arenicolum C.D. Tyrrell & L.G. Clark, sp. nov., Fig 2.
+Type:—PERU. San Martín. Rioja: Low forest over white sands, ca. 1 km above Aquas Verdes along trail to San Pablo,
+5°41'14"S 77°37'58"W, 1200 m, 7 July 2002 (fl), J.L. Luteyn, I. Sánchez-Vega, & M. Zapata Cruz 15520 (holotype:
+USM!; isotypes: ISC!, MO!, NY!, US!).
+
+Diagnosis:—Rhipidocladum arenicolum differs from R. harmonicum in its smaller culm diameter (5–8 mm),
+longer branches (57–65 cm), longer (16–23 cm) synflorescences and larger florets (lemmas 18.5–19 mm).
+Description:—Culm height unknown; internodes ca. 26 cm long, 5–8 mm diameter, hollow. Culm leaves
+unknown. Branch complements with 18–25 branchlets, branchlets 57–65 cm long, occasionally rebranching
+from the base. Foliage leaves 4–6 per flowering branchlet; sheaths 32–54 mm long, abaxially glabrous,
+margins glabrous; fimbriae 1–3 mm long, stramineous to brown, mostly deciduous; pseudopetioles 4–5 mm
+long, abaxially glabrous, adaxially puberulent, dark brown; inner ligules ca. 0.5 mm, truncate; blades 7–10 cm
+long, 13–17 mm wide, L:W ratio 5–6, broadly lanceolate, abaxially and adaxially glabrous, base rounded,
+apex acuminate, margins smooth. Synflorescences 16–23 cm long, spicate, bearing 6–7(–8) spikelets spaced
+20–40 mm apart; rachis at least apically geniculate. Spikelets 4.4–5.0 cm long, comprising 2–3 glumes and 6–
+7 fertile florets; rachilla internodes (2–)4 mm long. Lowest glume ca. 4 mm long, 7-nerved, ovate-lanceolate,
+apex obtuse, abaxially glabrous, mucronate; upper glumes ovate-lanceolate, apex obtuse, abaxially glabrous,
+adaxially puberulent: second glume ca. 9 mm long, 7-nerved, mucronate; third glume ca. 11 mm long, 9nerved, mucronate. Lemma 18.5–19.0 mm long, 13-nerved, ovate-lanceolate, apex obtuse, abaxially glabrous,
+mucronate. Palea ca. 13 mm long, abaxially glabrous, adaxially scabrous, stramineous. Lodicules 3, the
+anterior pair ca. 6 mm long, posterior one ca. 4 mm long, lanceolate. Anthers 7–8 mm long. Ovary ca. 1.7 mm
+long, white. Caryopsis ca. 6.5 mm long, 2 mm wide, fusiform, subterete, glabrous, style base persistent, dark
+brown.
+Distribution and Habitat:—Known only from the type locality, growing in (and possibly endemic to) a
+white sand forest at 1200 m elevation in northern Peru.
+Etymology:—Named for the habitats with white sandy soils where it occurs: aren- = sand, cola =
+dwelling.
+
+Rhipidocladum cordatum C.D. Tyrrell & L.G. Clark, sp. nov., Fig 3
+Type:—ECUADOR. Morona-Santiago: 16 km W of Limon on the road to Gualaceo, 2110 m, 4 June 1980 (fl), S.M.
+Young 164 (holotype: QCA!; isotypes: AAU!, ISC!, US!).
+
+Diagnosis:—Rhipidocladum cordatum differs from R. harmonicum by its cordate culm leaf blades, greater
+number (70–100) of branchlets per node, greater number of florets (9–10) per spikelet, and more closely (4–9
+mm) spaced spikelets per synflorescence.
+
+58 •
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+TYRRELL & CLARK
+
+FIGURE 2. Rhipidocladum arenicolum. A. Culm node with branch complement showing apsidate branching, B. Caryopsis, C. Floret
+showing persistent rachis internode, D. Branchlet bearing terminal synflorescence, E. Spikelet, F. Gynoecium, G. Node of geniculate
+synflorescence with pulvinus, H. Anther, I. Foliage leaf ligular area. Illustration by Eric Small based on Luteyn et al. 15520.
+
+THREE NEW SPECIES OF RHIPIDOCLADUM FROM SOUTH AMERICA
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+• 59
+
+FIGURE 3. Rhipidocladum cordatum. A. Branch complement, B. Apsidate branching pattern, C. Culm leaf, D. Close up of culm leaf
+blade base showing “pleats” (a folding or puckering of the blade tissue across the venation) illustrated with stippling, E. Foliage leaf
+ligular area, F. Synflorescence, G. Spikelet. Illustration by Anna B. Gardner; A, C, D, and E based on Clark et al. 1092, B based on
+Clark & Asimbaya 1415, F and G based on Young 164.
+
+60 •
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+TYRRELL & CLARK
+
+Description:—Culms 8 m tall; internode length unknown, 20–25 mm diameter, hollow. Culm leaves
+13.5–22.5 cm long; sheaths 7–10 cm long, abaxially glabrous, margins glabrous; blades cordate, pleated near
+the base, 8–13 cm long, abaxially glabrous, margins glabrous. Branch complements with 70–100 branchlets,
+branchlets 23–30 cm long, often rebranching from the base. Foliage leaves 3–4 per flowering branchlet;
+sheaths 20–30 mm long, abaxially glabrous with a row of hispid hairs along one side, margins glabrous;
+fimbriae 4.5–5.0 mm continuing down sheath shoulder becoming 2 mm long, basally fused, reddish-brown to
+golden; pseudopetioles 2–3 mm long, abaxially sparsely puberulent, adaxially hispidulous, purple to brown;
+inner ligules 0.2–0.4 mm long, truncate; blades 6.0–7.5 cm long, 7–11 mm wide, L:W ratio 7–9, lanceolate,
+abaxially glabrous, adaxially pubescent with a row of hispid hairs along one side, base slightly asymmetrical
+and attenuate, apex acute, margins smooth. Synflorescences 4–6 cm long, spicate, bearing 4–6 spikelets
+spaced 4–9 mm apart; rachis geniculate. Spikelets 4.8–5.0 cm long, comprising 3–4 glumes and 9–10 fertile
+florets; rachilla internodes 4.0–4.5 mm long. Lowest glume 3–4 mm long, 1-nerved, ovate-lanceolate, apex
+acuminate, abaxially glabrous, mucronate; upper glumes ovate-lanceolate, apex acuminate, abaxially
+glabrous, adaxially puberulent: second glume 3.5–4.0 mm long, 3–5-nerved, mucronate; third glume ca. 6 mm
+long, 5-nerved, mucronate. Lemmas 7.5–8.0 mm long, 5–7-nerved, lanceolate, apex acuminate, abaxially
+glabrous, mucronate. Paleas 6.5–7.0 mm long, abaxially glabrous, stramineous. Flowers and fruit unknown.
+Distribution and Habitat:—Cloud forests in the Cordillera Oriental of Ecuador, at 2100–2900 m
+elevation.
+Etymology:—The name is descriptive of the heart-shaped (cordate) culm leaf blades.
+Additional Specimens Examined:—ECUADOR. Morona-Santiago: road Gualaceo-Limón (Gral. L.
+Plaza Gutierrez), 33.1 km E of Gualaceo, 7.8 km E of the pass, ca. 41.2 km W of Limón, 2885 m, 18 February
+1996 (fl), Clark & Asimbaya 1464 (AAU!, ISC!, QCA!, US!); 32 km E of pass on the road from Gualaceo to
+Limón (Gral. L. Plaza Gutierrez), 2080 m, 30 May 1992 (fl), Clark et al. 1092 (ISC!, MO!, QCA!, US!).
+Zamora-Chinchipe: 22.9 km E of Loja on the new road to Zamora 2250 m, 10 February 1996 (fl), Clark &
+Asimbaya 1415 (AAU!, ISC!, MO!, QCA!, US!); Valle de San Francisco near casa de INEFAN at road LojaZamora, 2150 m, 9 March 1998 (fl), Laegaard et al. 18521 (AAU!, LOJA).
+
+Rhipidocladum rubrofimbriatum C.D. Tyrrell, L.G. Clark & Judz., sp. nov., Fig 4
+Type:—VENEZUELA. Bolívar: Distrio Cendeño, planicie aluvial, piedemonte y altiplanicie entre el margen derecho del
+Río Orinoco medio y el borde NW de la Serrania de Los Pijiguaos (Bajo Río Suapure), laja y sus alrededores en
+piedemonte al borde de caño Trapichote, 6° 18’–6° 48’ N, 66° 30’–67° 11’ W, 260 m, 21 March 1987 (fl), F.
+Guanchez and O. Huber 4583 (holotype: VEN!; isotypes: MYF, TFAV, US!).
+
+Diagnosis:—Rhipidocladum rubrofimbriatum differs from R. sibilans in its reddish to coppery-colored
+fimbriae 1.8-6 mm long borne on the foliage leaf sheaths, fewer (20–60) branchlets per node, lanceolate and
+relatively wider (L:W ratio 5–6) foliage leaf blades and awnless lemmas.
+Description:—Culms 2–5 m tall; internodes 12–24 cm long, 3–15 mm diameter, hollow. Culm leaves 8–
+9 cm long; sheaths 5.0–5.5 cm long, abaxially glabrous, margins glabrous; blades 3.0–3.5 cm long, abaxially
+glabrous, margins glabrous, apex involute into an awn-like tip. Branch complements with 20–60 branchlets,
+branchlets 15–35 cm long, occasionally rebranching. Foliage leaves lacking on flowering branchlets (4–7 per
+vegetative branchlets); sheaths 10–25 mm long, abaxially pubescent-pilose to glabrous, margins ciliate;
+fimbriae 1.8–6.0 mm long, rubescent, apically wavy to curly; pseudopetioles 0.5–1.0 mm long, abaxially and
+adaxially glabrous to pubescent, yellow; inner ligules ca. 0.1 mm long, truncate; blades 3.2–8.5 cm long, 6–14
+mm wide, L:W ratio 5–6, lanceolate, abaxially puberulent, adaxially glabrous, base often slightly
+asymmetrical and rounded-attenuate, apex acute, margins finely serrulate. Synflorescences 4.5–8.0(–10.0) cm
+long, spicate, bearing 3–5 non-secund spikelets spaced 10–20(–40) mm apart; rachis straight. Spikelets 2.0–
+2.5 cm long, comprising 2 glumes and 1–2 fertile florets; rachilla internodes 6–7 mm long. Lowest glume 6–7
+mm long, 3-nerved, narrowly lanceolate, apex attenuate, abaxially glabrous, awnless to mucronate; upper
+
+THREE NEW SPECIES OF RHIPIDOCLADUM FROM SOUTH AMERICA
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+• 61
+
+glume 8–10 mm long, 5-nerved, narrowly lanceolate, apex attenuate, abaxially glabrous, adaxially glabrous,
+awnless to mucronate. Lemma 9–13 mm long, 7-nerved, narrowly lanceolate, apex attenuate, abaxially
+glabrous, awnless or mucronate. Palea 9–13 mm long, abaxially glabrous, stramineous, sulcus shallower than
+congeners. Lodicules 3, the anterior pair 2.0–2.2 mm long, the posterior one 1.0–1.3 mm long, ovate. Anthers
+4.5–5.5 mm long. Ovary 1.5 mm long, brown to cream. Fruit unknown.
+Distribution and Habitat:—Apparently endemic to southwestern Venezuela, growing in savannas in the
+foothills of a granitic outcrop region along the middle stretch of the Río Orinoco. Found at 85–260 m
+elevation
+Etymology:—The name denotes the coppery red fimbriae which are characteristic of this species: (rubro= red, fimbriatum = fimbriae).
+Comments:—This is the species referenced by Judziewicz in Davidse et al. (2004) as “Rhipidocladum
+sp. A” and “Rhipidocladum sp. B.”
+TABLE 2. Morphological characters that differentiate Rhipidocladum rubrofimbriatum from R. sibilans.
+Character
+
+2–5
+
+4–8(–10)
+
+diameter (cm)
+
+3–15
+
+7–18
+
+internode length (cm)
+Culm leaf
+
+R. sibilans
+
+height (m)
+
+Culm
+
+R. rubrofimbriatum
+
+12–24
+
+19–45
+
+sheath length (cm)
+
+5–5.5
+
+9–12
+
+blade length (cm)
+
+3–3.5
+
+15–17
+
+Branchlets
+
+number per node
+
+20–60
+
+150–200
+
+Foliage leaf sheath
+
+abaxial vestiture
+
+pubescent to glabrous
+
+puberulent
+
+1.8–6
+
+1–3
+
+rubescent
+
+white
+
+fimbriae length (mm)
+fimbriae color
+Pseudopetiole
+
+color
+
+yellow
+
+cream
+
+Foliage leaf blade
+
+shape
+
+lanceolate
+
+linear
+
+6–14
+
+1.8–2.7(–3.5)
+
+width (mm)
+L:W ratio
+
+20–28
+
+puberulent
+
+glabrous
+
+adaxial vestiture
+
+glabrous
+
+glabrous to short pilose
+
+3–5
+
+1–3
+
+10–20(–40)
+
+18–22
+
+number of glumes
+
+2
+
+4
+
+number of florets
+
+Synflorescence
+
+5–6
+
+abaxial vestiture
+
+2
+
+2–3
+
+number of spikelets
+spacing (mm)
+
+Spikelets
+
+internode length (mm)
+
+3–4(–8)
+
+glabrous
+
+puberulent
+
+3
+
+1
+
+awn length (mm)
+Second glume
+
+6–7
+
+abaxial vestiture
+number of nerves
+
+Lowest glume
+
+mucronate
+
+2.5–3.5
+
+narrowly lanceolate
+
+lanceolate
+
+glabrous
+
+puberulent
+
+8–10
+
+5–9
+
+shape
+abaxial vestiture
+length (mm)
+number of nerves
+
+2.5–4
+
+narrowly lanceolate
+
+lanceolate
+
+glabrous
+
+puberulent
+
+awn length (mm)
+
+62 •
+
+3–5
+
+awnless to mucronate
+
+abaxial vestiture
+
+Lemma
+
+5
+
+awn length (mm)
+
+awnless to mucronate
+
+4–5
+
+shape
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+TYRRELL & CLARK
+
+FIGURE 4. Rhipidocladum rubrofimbriatum. A. Culm internode with flowering branch complement showing leafless branches
+bearing terminal synflorescences, B. Culm leaf, C. Floret, lateral view, D. Floret, ventral view, E. Foliage leaf complement, F. Foliage
+leaf ligular area showing fimbriae. Illustration by Christa Adler; A based on Guanchez & Huber 4583, B based on Steyermark et al.
+131610, C, D and F based on Gröger & Meier 483, E based on Davidse & Huber 15183.
+
+THREE NEW SPECIES OF RHIPIDOCLADUM FROM SOUTH AMERICA
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+• 63
+
+Additional Specimens Examined:—VENEZUELA. Bolivar [as Territorio Federal Amazonas]: Depto.
+Atures, 22 km S of Puerto Ayacucho along road to Samariapo, near Garcitas, 85 m, 5°28’ N 67°36’ W, 16
+April 1978 (fl), Davidse & Huber 15183 (MO!, US!); carretera de Los Pijiguaos hacia Pto. Ayacucho, km 78;
+Cerro Gavilan al Norte de la carretera, 6°13’N 67°12’W, en una grieta ancha de 2 m de profundidad, 3 March
+1993 (fl), Gröger 836 (MO!); Dpto. Atures, Río Sipapo, 5 km de su desembocadura al Río Orinoco, Cerro
+Caldero, 5°1’N 67°46’ W, 17 May 1992 (fl), Gröger & Bancroft 416 (MO!); Dpto. Atures, carretera
+Samariapo-Puerto Ayacucho, Km 5.5, laja al oeste de la carretera, 5°17’N 67°48’ W, 4 June 1992 (fl), Gröger
+& Meier 483 (MO!); forest E of Río Parguaza bordering savanna 1 km S of Quebrada La Flore, affluent of Río
+Ore, affluent of Río Parguaza, 6°17’N 67°5’W, 85 m, 9 September 1985 (fl), Steyermark et al. 131610 (MO!).
+
+Acknowledgements
+We remember the late Anna B. Gardner for her fine illustration of R. cordatum and appreciate the work of Eric
+Small and Christa Adler for the illustrations of R. arenicolum and R. rubrofimbriatum respectively. We are
+also grateful to the curators of AAU, ISC, MO, NY, and US for loan materials. Manuscript preparation was
+supported by NSF grant DEB 0515712 to Clark. Comments by Emmet J. Judziewicz and one anonymous
+reviewer improved the manuscript.
+
+References
+Clark, L.G. & Londoño, X. (1991) A new species and new sections of Rhipidocladum (Poaceae: Bambusoideae).
+American Journal of Botany 78: 1260–1279.
+http://dx.doi.org/10.2307/2444930
+Davidse, G., Judziewicz, E.J. & Zuloaga, F.O. (2004) Poaceae. In: Steyermark, J.A., Berry, P.E., Yatskievych, K. &
+Holst, B.K. (eds.) Flora of the Venezuelan Guayana Volume 8: Poaceae-Rubiaceae. Missouri Botanical Garden
+Press, St. Louis, pp. 1–294.
+Hitchcock, A.S. (1927) The grasses of Ecuador, Peru, and Bolivia. Contributions from the U.S. National Herbarium 24:
+291–556.
+Judziewicz, E.J., Davidse, G. & Clark, L.G. (1991) Six new bamboos (Poaceae: Bambusoideae) from the Venezuelan
+Guayana. Novon 1: 76–87.
+http://dx.doi.org/10.2307/3391633
+Judziewicz, E.J. & Clark, L.G. (1993) The South American species of Arthrostylidium (Poaceae: Bambusoideae:
+Bambuseae). Systematic Botany 18: 80–99.
+http://dx.doi.org/10.2307/2419790
+Judziewicz, E.J. & Clark, L.G., Londoño, X. & Stern, M. (1999) American bamboos. Smithsonian Press, Washington
+D.C., pp. 1–392.
+McClure, F.A. (1973) Genera of bamboos native to the New World (Gramineae: Bambusoideae). Smithsonian
+Contributions to Botany 9: 1–148.
+Parodi, L.R. (1944) Arthrostylidium harmonicum: nueva especie de Bambúsea del Perú. Physis: Revista de la Sociedad
+Argentina de Ciencias Naturales 19: 478–481.
+Soderstrom, T.R. (1981) Observations on a fire-adapted bamboo of the Brazilian cerrado, Actinocladum verticillatum
+(Poaceae: Bambusoideae). American Journal of Botany 68: 1200–1211.
+http://dx.doi.org/10.2307/2443042
+Sprengel, K.P. (1825) Systema vegetabilium. ed. 16, 1. Dietrich, Göttingen, pp. 1–992.
+Tyrrell, C.D., Santos-Gonçalves, A.P., Londoño, X. & Clark, L.G. (2012) Molecular phylogeny of the arthrostylidioid
+bamboos (Poaceae: Bambusoideae: Bambuseae: Arthrostylidiinae) and new genus Didymogonyx. Molecular
+Phylogenetics and Evolution 65: 136–148.
+http://dx.doi.org/10.1016/j.ympev.2012.05.033
+
+64 •
+
+Phytotaxa 98 (2) © 2013 Magnolia Press
+
+TYRRELL & CLARK
+
+

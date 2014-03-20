@@ -1,0 +1,631 @@
+Phytotaxa 142 (1): 15–24 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.142.1.2
+
+Gabonius gen. nov. (Leguminosae, Caesalpinioideae, Detarieae), a distant cousin
+of Hymenostegia endemic to Gabon
+JAN J. WIERINGA1, 2, BARBARA A. MACKINDER3,4 & ANDRÉ S.J. VAN PROOSDIJ1, 2
+1
+
+Naturalis Biodiversity Centre (section NHN), Herbarium Vadense, Generaal Foulkesweg 37, 6703 BL Wageningen, The Netherlands
+Jan.Wieringa@wur.nl; Andre.vanProosdij@wur.nl
+2
+Biosystematics Group, Wageningen University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands
+3
+Herbarium, Library, Art and Archives, Royal Botanic Gardens, Kew, Richmond, Surrey, TW9 3AB, United Kingdom
+B.Mackinder@kew.org
+4
+Tropical Diversity Group, Royal Botanic Gardens, Edinburgh, EH3 5LR, United Kingdom
+
+Abstract
+A new genus, Gabonius is described to accommodate a single species, Gabonius ngouniensis which was previously
+misplaced in Hymenostegia sensu lato. Gabonius ngouniensis is a widespread Gabonese endemic of evergreen forest. We
+assess G. ngouniensis as Least Concern (LC) according to IUCN criteria. A distribution map of Gabonius is presented, as
+is a table comparing the morphology of Gabonius, the closely related, possibly sister genus Micklethwaitia and
+Hymenostegia sensu stricto from which G. ngouniensis has been excluded. The previously unreported seedling
+morphology is discussed.
+Key words: Amherstieae, Conservation, Fabaceae, New genus, Taxonomy, Tropical Africa
+
+Introduction
+The Legumes are one of the most important plant families in the world, both in terms of species richness (third
+largest family after composites and orchids) and in economic importance where they are arguably as valuable
+as the grasses (Lewis et al. 2005). Subfamily Caesalpinioideae has its widest generic diversification in Africa.
+The main source of this diversification is found in one of the earliest branches of the family, the Detarieae, a
+tribe that consists solely of woody plants, the majority trees (Mackinder 2005). Detarieae are considered an
+important ecological component of both rain forest and woodland systems in Africa. In the wettest forests of
+Africa, especially those on phosphorus-poor soils, Detarieae species dominate the canopy layer, with up to
+60% of the trees belonging to this tribe, a phenomenon commonly attributed to the ectomycorrhizal symbioses
+of these trees (Newbery et al. 1997, Wieringa 1999, Ba et al. 2012). One widespread African woodland type,
+Miombo woodland, is a formation dominated by Brachystegia Benth. in Bentham & Hooker (1865: 582)
+alone or together with species of Julbernardia Pellegrin (1943: 297) or Isoberlinia Craib & Stapf ex Holland
+(1911: 266–267). All three genera are members of Detarieae.
+From a taxonomic point of view, one of the most problematic areas of the Detarieae is the genus
+Cynometra Linné (1753: 382–383) and some of the genera that have been derived from it in the past, such as
+Plagiosiphon Harms in Engler & Prantl (1897: 194), Scorodophloeus Harms (1901: 77), Talbotiella Baker f.
+(1914: 2), Lebruniodendron Léonard (1951: 421) and in particular Hymenostegia Harms in Engler & Prantl
+(1897: 193). While Cynometra is a pantropical genus, Hymenostegia as currently circumscribed, is endemic to
+Africa, and is under the scrutiny of the first two authors using a combined morphological and molecular
+approach. Prior to our studies 16 species were recognised in the genus, 15 by Léonard (1951) with one
+
+Accepted by Vidal Mansano: 12 Sept. 2013; published: 1 Nov. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+15
+
+addition by Aubréville (1970). Since then one species has been removed to Talbotiella (Mackinder et al. 2011)
+and three species new to science have been added (Mackinder & Wieringa 2013a, Wieringa & Mackinder
+2012) bringing the current total to 18 species. However, we consider eight of these species not to be
+congeneric with H. floribunda (Bentham, 1866: 318) Harms in Engler & Prantl (1897: 193), the type species
+of Hymenostegia. Those species which do not belong in the genus need to be fostered in existing genera or in
+genera newly described to accommodate them. This paper deals with one such transfer, that of H. ngouniensis
+Pellegrin (1942: 247) to a new genus: Gabonius. Together with the transfer of 2 species to Annea Mackinder
+& Wieringa (2013b) this brings the total number of species recognised in Hymenostegia to 15, of which still
+five await further data and analyses before they can be placed and assigned to other genera.
+
+Reasons for recognising Gabonius: indications from DNA and morphology
+DNA. Two published phylogenetic studies of Detarieae, both based on trnL plastid nucleotide sequence data
+(Bruneau et al. 2000, 2001), and a third study based on rbcL data (Mackinder et al. 2010) sampled Gabonius
+(as Hymenostegia ngouniensis). Each study resolved a well-supported clade containing a core group of
+Hymenostegia sensu stricto species from which Gabonius was excluded yet there was no agreement among
+the studies as to which taxa Gabonius was most closely related. The position of Gabonius was either
+unresolved (Bruneau et al. 2000), resolved, with weak support as sister to members of the Afzelia clade
+(Bruneau et al. 2001) or resolved with moderate support among members of the Berlinia clade (Mackinder et
+al. 2010). However, a phylogenetic analysis of subfamily Caesalpinioideae based on a combined trnL and
+matK dataset (Bruneau et al. 2008) placed Gabonius ngouniensis with very strong support (Bayesian
+Posterior Probability of 1.00) as sister to a lineage consisting of Scorodophloeus zenkeri Harms (1901: 78)
+and Annea afzelii (Oliver 1871: 318) Mackinder & Wieringa (2013b). More recently a phylogenetic analysis
+was undertaken of the Amherstieae clade which is a large subclade of Detarieae accommodating over 40
+genera including all those referred to in the present paper. The Amherstieae clade analysis (Mackinder et al.
+2013c) was also based on combined trnL and matK data but incorporated species-level sampling additional to
+that of Bruneau et al. (2008). Findings of the Amherstieae clade analysis were consistent with Bruneau et al.
+(2008). Gabonius was placed on a separate lineage in a strongly supported clade comprised of seven species
+grouping into four lineages that we consider genera. In addition to Gabonius, the clade included a
+monophyletic Scorodophloeus (3/3 species sampled), a monophyletic Annea (both species sampled), and the
+monotypic genus Micklethwaitia Lewis & Schrire (2004: 166) to which Gabonius was resolved as sister,
+albeit with weak support.
+Morphology. In a study of vegetative morphology which examined all Hymenostegia sensu lato species
+alongside representatives of several putatively allied genera, Cynometra, Lebruniodendron, Plagiosiphon,
+Scorodophloeus and Leonardoxa Aubréville (1968b), Gabonius (as Hymenostegia ngouniensis) presented a
+unique combination of key vegetative characters among the wider study group (Mackinder et al. 2010) with
+several differences from Hymenostegia sensu stricto. Morphological characters that can be used to distinguish
+Gabonius from Hymenostegia sensu stricto and Micklethwaitia are presented in Table 1. Gabonius also can be
+readily distinguished from the other genera with which it is considered closely related (Bruneau et al. 2008,
+Mackinder et al. 2013c). Compared to Gabonius, Scorodophloeus has alternate (not opposite) leaflets,
+caducous (not persistent) bracteoles, 5 (not 3) large petals and pods with winged (not unwinged) upper
+sutures. Annea (compared to Gabonius) has fewer leaflet pairs, 1 or 2 (not typically 5 or more pairs), a marked
+disparity in the size of different leaflets pairs (not subequal), fused stipules (not free), shorter stamens,
+filaments up to 13 mm (not 20 mm or greater) long, and a shallower hypanthium 2–4 (not 6–9) mm deep. In
+addition, Gabonius has pods that are larger than those of any of these other genera. Within Detarieae,
+Gabonius belongs to a limited group of genera that show 3 large and 2 reduced petals. Next to Annea and
+Hymenostegia also Plagiosiphon, Neochevalierodendron and Loesenera share this character. In contrast to
+Gabonius, Plagiosiphon has emarginate leaflets and velutinous pods, Loesenera white to pink petals and
+
+16 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+WIERINGA ET AL.
+
+velutinous pods while Neochevalierodendron has an alternate first leaflet pair with a strong marginal vein at
+base, united stipules, caducous bracteoles and large nearly circular white petals.
+TABLE 1. Comparative morphology of Gabonius, Hymenostegia sensu stricto and Micklethwaitia.
+Genus
+Character
+
+Gabonius
+
+6–8
+
+8–50
+
+Absent
+
+Imbricate bud scales
+
+Hymenostegia sensu stricto
+
+(4) 10–12 (14)
+
+Number of leaflets
+
+Micklethwaitia
+
+Absent
+
+Present
+
+Hypanthium depth (mm)
+
+6–9
+
+1.5–2
+
+3–5
+
+Bracteole position on pedicel
+
+Top
+
+Lower half
+
+At or very close to top
+
+Broada
+
+Narrowb
+
+Narrow to broad
+
+Bracteole enclosing the bud before anthesis
+
+Enclosing
+
+Not enclosing
+
+Enclosing
+
+Bracteole persistence
+
+Persistent
+
+Fallen before anthesis
+
+Persistent
+
+3
+
+4–5
+
+2–3
+
+Blade yellow, claw
+whitish
+
+White to cream
+
+Commonly white to yellow,
+rarely green
+
+Absent
+
+Present
+
+Present or absent
+
+Bracteole width
+
+No. of well-developed petals
+Petal colour
+Pod upper suture wing
+a. Broad defined as: length 1–1.5 × width.
+b. Narrow defined as: length >3 × width
+
+Gabonius Wieringa & Mackinder gen. nov.
+Type: Hymenostegia ngouniensis, for type specimen details see below.
+
+Shrub or tree, usually small but may attain 35 m tall. Stipules in pairs, free but touching at the base, caducous.
+Bud scales absent. Leaves paripinnate, leaflets in (2–)5–7 pairs, subsessile, narrowly elliptic to elliptic, ovate
+to sub-rhombate, adaxial surface glabrous, abaxial surface glabrous or with sparse indumentum, crater-like
+glands present, visible at × 10 or higher magnification. Inflorescence a terminal or axillary raceme, axes
+puberulous, bracts caducous, bracteoles persistent, opposite, petaloid, conspicuous, adaxial surfaces touching
+along margins prior to anthesis. Petals 5, adaxial and lateral petals large, yellow and white, similar in size,
+abaxial petals smaller, white. Stamens 10. Ovary stipitate, the stipe fused along most of its length to the
+adaxial sidewall of the hypanthium, densely hairy along the margins, stigma peltate. Pod compressed,
+glabrous, trapeziform, broadest at about one-third distance from the apex, dehiscent. Seeds 1–2, discoid.
+Etymology:—This new, so far monotypic genus is named after Gabon, a country where it is not only
+endemic to, but in which it also occurs over a large extent; the known distribution seems to fit that country
+very well, and a species distribution model of the species (see below) predicts it is more or less confined to
+this country as well. Although Gabon has a large number of endemics, c. 500 species are recorded as endemic
+and another 100 as near endemic (Sosef et al. 2006), only a few of these species have such a large distribution
+within the country. Gabonius has the male gender.
+Note:—The only slightly similar name that exists is Gabunia Stapf (1902: 136), but that name differs in
+several letters and is a synonym of Tabernaemontana Linné (1753: 210–211) (Apocynaceae) with no current
+use, so we do not foresee any possibilities for confusion between these two.
+
+Gabonius ngouniensis (Pellegr.) Wieringa & Mackinder comb. nov. (Fig. 1)
+Hymenostegia ngouniensis Pellegrin (1942: 247). Type:—GABON. Ngounié: between Dibwangui and Issala, Le Testu
+5284 (lectotype P!, isolectotype: B!, BR, IFAN!, K!), lectotype selected by Léonard (1951: 441).
+
+GABONIUS GEN. NOV. ENDEMIC TO GABON
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 17
+
+FIGURE 1. Flowering branch of Gabonius ngouniensis (photographs by L.J.G. van der Maesen) with close up of inflorescence
+(upper) to show petal development, shape and colour in an opened flower.
+
+Shrub, or more commonly a tree 1–20 (–35) m tall, dbh 25 cm (12 m tree)–40 cm (20 m tree); bark yellowish
+grey, or greenish brown, peeling (J.J. de Wilde 9328) with lenticels. Slash yellow to ochre, rather fibrous, up
+to 12 mm thick. Sapwood cream-coloured. Twigs reddish brown to dark brown, sparsely to moderately
+golden-brown puberulous, hairs hooked (only visible at × 100 or greater magnification), lenticels pale.
+Stipules in pairs, free but touching at base (intrapetiolar), caducous, triangular to ovate, 1–4.5 × 0.5–1.5 mm,
+golden-brown to white tomentose, especially over the midvein, lateral areas less dense to glabrous, but margin
+pubescent again, apex acute. Bud scales absent. Leaves paripinnate, (2–)5–7-jugate, most commonly with 5 or
+6 leaflet pairs spaced widely along the rachis, the distance between nodes exceeding the width of the leaflets
+borne at the nodes, lower pairs smaller than upper pairs, distal or penultimate pair the largest; petiole 0.6–2.1
+cm long, rachis 1.7–12.8 cm long, striate, moderately golden-brown puberulous, hairs hooked (only visible at
+× 100 or greater magnification), leaflets subsessile, narrowly elliptic to elliptic, ovate to sub-rhombate,
+falcate, upper leaflet pair 3.1–12.2 × 1.4–5.6 cm, adaxial surface glabrous, abaxial surface mostly glabrous or
+sparsely hairy, patch of hairs sometimes present at the base, margins often ciliate towards the base, mid-vein
+sub-central, the proximal half of the leaflet slightly larger, distal margin sometimes angular, proximal margin
+usually rounded, apex acuminate, base asymmetric, proximal half with 0–4 glands, distal half with 4–17
+glands, the lowest numbers in the basal leaflets. Inflorescence a lax 7–18-flowered terminal or axillary
+raceme, sometimes branching once near base or two inflorescence axes arising at the same point, axis 7.5–15
+cm long, including peduncle 1.5–5 cm long, moderately golden brown puberulous, hairs hooked (only visible
+at × 100 or greater magnification), bracts caducous, not seen in herbarium, pale green when young (Wieringa
+2413); pedicel 15–27 mm long (at anthesis), moderately puberulous, hairs hooked (only visible at × 100 or
+
+18 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+WIERINGA ET AL.
+
+greater magnification); bracteoles opposite, persistent, borne at the apex of the pedicel, directly below the
+hypanthium, petaloid, broadly ovate, 8–20 × 7–13 mm, when mature white or pinkish, deep red or purple spot
+at base, sometimes red-veined and with red or pale purplish margins, puberulous on both surfaces, more
+densely in the central area of the abaxial surface, margins ciliate; hypanthium 6–9 mm long, inside glabrous,
+outside glabrous or with some sparse hairs. Sepals pink, reddish brown, greenish purple outside, brownish
+green or purple brown inside, reflexed after anthesis, slightly longer than the hypanthium, puberulous towards
+the base on the inside, otherwise glabrous. Petals 5, glabrous, adaxial and lateral ones similar in size, 10–13 ×
+5–6 mm, yellow with white lower margins, a small purple basal-central spot and a pale claw when first in
+flower, turning red with age, claw of lateral petals very narrow, abaxial petals smaller, c. 4 × 1 mm, white.
+Stamens 10, filaments white or pink, free, anthers deep cream, pale pinkish or purplish brown, connective
+purple-grey (Wieringa 4493). Ovary 2–3 ovulate, stipitate, the stipe fused along most of its length to the
+adaxial sidewall of the hypanthium, green, orange-red or brownish with dark red sutures, hairs c. 0.75 mm
+long, white, sparse on the faces but dense along the margins, the marginal hairs persisting into young fruit and
+extending along the lower half of the style, stigma peltate, pistil white or greenish-white. Pod compressed,
+glabrous, dull greyish green or greenish blue outside, light brown to medium brown inside, 23–28 × 6.5–8.8
+cm, trapeziform, broadest (“height”) about one-third distance from the apex, lower margin rounded, upper
+suture not broadened into wings, beak c. 5 mm long on immature pods, remnant of base only seen on mature
+pods, valves revolute after dehiscence. Seeds 1–2, discoid, c. 3 cm diameter (Wieringa 4493). Seedlings:
+(based on J.J.F.E. de Wilde 9329), first leaf pair opposite, possibly reduced (see notes), subsequent leaves are
+alternate, leaflets sessile, glabrous, in 2–4 pairs, largest leaflets at apex of the leaf 60–72 × 18–25 mm, very
+similar in appearance to adult foliage.
+Habitat and Ecology:—Primary and secondary evergreen forest: elevation sea level–510 m. Populations
+seem to flower synchronously (van der Burgt 1), flowering recorded from November to July but most
+commonly in April.
+Distribution:—Endemic to Gabon, occurring in the western part of the country from the border with
+Equatorial Guinea in the north to that with Congo (Brazzaville) in the south (fig. 2).
+
+#
+S
+#
+S
+# #
+S S
+
+#
+S
+
+#
+S
+
+#
+S
+
+#
+S
+
+#
+S
+
+#
+S
+
+##
+SS
+# ##
+S #S
+#
+S
+S
+S
+##
+SS
+##
+SS
+##
+SS
+
+100
+
+0
+
+#
+S
+#
+S
+
+#
+S
+
+#
+S
+#
+S
+# #
+S S
+
+100 Kilometers
+
+FIGURE 2. Distribution of Gabonius ngouniensis.
+
+GABONIUS GEN. NOV. ENDEMIC TO GABON
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 19
+
+Since we have chosen to name this genus after Gabon, we decided to test the likelihood that the taxon
+distribution is indeed limited to Gabon. To assess this we generated a Species Distribution Model (SDM). For
+generating SDM’s based on presence-only data as in this case, MaxEnt has been documented to outperform
+other methods (Elith et al. 2006). As the foreseen distribution is limited to Gabon and possibly to
+neighbouring countries, we used a 30 arc-sec resolution and applied the analysis to a study area ranging from
+8º N to 8º S and from 6 to 24º E, thus roughly encompassing the countries of Gabon, Equatorial Guinea,
+Cameroon, Democratic Republic of Congo, and Sao Tomé & Principe. The collecting localities of all
+herbarium vouchers examined in this study were used as input species data. Environmental layers used for
+model building and projection include 19 BIOCLIM variables (Hijmans et al. 2005). In addition, the range as
+well as standard deviation of altitude based on SRTM DEM 90 × 90 m data, obtained through
+(<srtm.csi.cgiar.org>, accessed 07-10-2011) within each grid cell was calculated and added as variables to act
+as a proxy for ruggedness of the landscape. Finally, soil parameters of the dominant soil type within each grid
+cell were extracted from the Harmonised World Soil Database (<http://webarchive.iiasa.ac.at/Research/LUC/
+External-World-soil-database/HTML/index.html?sb=1> accessed 16-08-2012). Environmental parameters
+were checked for multi-collinearity separately for climatic and altitude data as well as for soil data. To avoid
+overfitting and errors due to multi-collinearity, only uncorrelated parameters were used for model building
+(Pearson r < 0.65 or Spearman Rho < 0.65). This resulted in the selection of the following parameters:
+temperature annual range (BIO7), mean temperature of coldest quarter (BIO11), annual precipitation
+(BIO12), precipitation seasonality (BIO15), precipitation of warmest quarter (BIO18), precipitation of coldest
+quarter (BIO19), altitude range (DEM-range), available water capacity range (AWC_CLASS, categorical
+variable), topsoil bulk density (T_BULK_DENSITY), topsoil calcium carbonate (T_CACO3), topsoil salinity
+(T_ECE), topsoil sodicity (T_ESP), topsoil gravel content (T_GRAVEL), topsoil organic carbon (T_OC),
+topsoil pH H2O (T_PH_H2O), topsoil sand fraction (T_SAND), topsoil base saturation (T_BS) and topsoil
+cation exchange capacity of the clay fraction (T_CEC_CLAY, categorical variable). Models were built using
+MaxEnt V.3.3.3.k (Phillips et al. 2004) applying the default features. In addition a presence / absence
+distribution map was generated applying a 10 percentile trainings threshold, meaning that 10% of the training
+locations are allowed to fall outside the predicted distribution, which is assumed to correct for errors in
+identification and estimation of locations.
+The final model was generated using 41 presence records; the result is shown in fig. 3. The Area Under
+the Curve (AUC) of our model has a value of 0.990, which lies well above the critical threshold of 0.7. As the
+use of AUC has been highly criticised (Peterson et al. 2008), we also tested the model against a null model
+(Raes & Ter Steege 2007) resulting in a rank number of 100 (out of 100) clearly indicating that the model
+performs significantly better than random. Based on the predicted potential distribution, Gabonius is nearly
+endemic for the country of Gabon. The predicted presence on Sao Tomé, as displayed in fig. 3, is not realistic
+as Sao Tomé is a non-continental island located approx. 250 km off the coastline of Gabon which is
+impossible to reach for a species with explosive seed dispersal like Gabonius ngouniensis. Moreover, this
+island is of volcanic origin, with phosphorus-rich soils, which in general are not favourable for Detarieae as
+discussed above. The only place where Gabonius might occur outside of Gabon is just over the border in
+Equatorial Guinea; so far the species has not been found in that area.
+Conservation:—Gabonius ngouniensis is widespread in Gabon with an A00 of 38137 km2 (cell size 46
+km) and an E00 of 72300 km2 and occurs within the borders of several National Parks. It is assessed here as
+Least Concern (LC) according to the criteria of IUCN (2001).
+Notes:—Small scars observed on the seedling axis suggest the abscission of a reduced first pair of
+opposite leaves. At the point of abscission, the epicotyl continues without any signs of transformation into a
+first stem, suggesting growth is not paused when the reduced first pair of leaves appears. As such this
+represents a transition between two commonly observed seedling morphologies in Detarieae (Léonard 1957).
+They are (i) seedlings that possess a clear epicotyl and an opposite first leaf pair indicating a pause in growth
+while this first pair fully develops, for example Talbotiella korupensis Mackinder & Wieringa (Mackinder et
+
+20 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+WIERINGA ET AL.
+
+al. 2011: 411) and (ii) seedlings that immediately start producing a shoot with alternative leaves, for example
+Annea afzelii. This apparent presence of a reduced first leaf pair in Gabonius seedlings represents a (so far)
+unique morphology in Detarieae. Functionally we consider the seedlings to belong to type (ii) since growth
+continues beyond the first reduced leaves. We think it unlikely the reduced leaves are functional given they do
+not persist (see also Mackinder et al. 2013c).
+
+FIGURE 3. Potential distribution of Gabonius ngouniensis according to our species distribution model. The habitat suitability value
+0.3594 corresponds to the 10th percentile training presence threshold as applied to generate a presence/absence distribution map.
+
+Bark with Green bean-odour (Dibata 132). Freshly dried material has a “nut-like” smell (van der Burgt 1).
+Several collectors note the flowers are fragrant.
+The epithet was written as “ngouniensis” by Pellegrin in 1942, but in a later publication that is much more
+widely available (Pellegrin 1949: 90) he spelled it as “ngounyensis”. Since Aubréville (1968a) in his flora
+treatment also used the later spelling, this spelling currently prevails in publications and databases. Since the
+epithet refers to a geographical name, its spelling should follow that of the original protologue and is not to be
+corrected.
+In the Flore du Gabon treatment, Aubréville (1968a: 102) lists Le Testu 5890 (P) as the holotype. This is
+incorrect, since the protologue mentions two collections (Le Testu 5284 & Le Testu 5890) but does not
+indicate a holotype. Moreover, this cannot be seen as a lectotypification since a lectotype had already been
+selected by Léonard (1951: 441), who selected 5284.
+
+Specimens examined
+GABON, Estuaire: Crystal Mountains, Mbe National Park, S of Mont Mbilan, 400m, 0°27.3' N, 10°15.2' E,
+10 February 2005 (fl), Leal 250 (MO, WAG); Crystal Mountains, 0°34' N, 10°27' E, 12 March 2001 (st),
+Nguema Miyono 1774 (LBV, WAG); between Ntoum and Donguila, 0°15' N, 9°47' E, 20 May 1986 (fl),
+Reitsma 2277 (LBV, WAG); Crystal Mountains, c. 0°30' N, 10°30' E, September 1959 (st), de Saint Aubin
+SRFG 2005 (LBV); Moyen-Ogooué: mission Otouma, 0°13' N, 10°55' E, 18 January 1992 (fl), Dibata 937
+(K, MO, P, PRE, UPS, WAG); Crystal Mountains, Chantier CEFA (Compagnie Exploitation Forestière
+
+GABONIUS GEN. NOV. ENDEMIC TO GABON
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 21
+
+Africaine), Abanga, c. 0°05' S, 10°35' E, 5 June 1963 (fl), N. Hallé 2243 (P, WAG); Lac Oguémoué, c. 1°05'
+S, 10°00' E, 10 December 1953 (st), Nze SRFG 1236 (LBV, P); Ngounié: between Rabi- Kounga and Yeno, c.
+1°48' S, 10°00' E, 15 May 1992 (fr), Breteler 11469 (LBV, MO, WAG); entre Dibwangui & Issala, c. 2°03' S,
+11°37' E, 25 April 1925 (fl), Le Testu 5284 (B, IFAN, K, P); Mimongo, c. 1°10' S, 11°35' E, 5 April 1926 (fl),
+Le Testu 5890 (BR, P, WAG); Chantier Leroy, route Mouila-Yeno, c. 1°59' S, 11°19' E, 11 February 1988 (fl),
+A.M. Louis 2721 (LBV, MO, PRE, WAG); St. Martin, c. 1°41' S, 10°56' E, 13 June 1939 (fl), Walker s.n. (P,
+WAG); 15 km on road Ikobey to Bakongue, 400m, 1°02.41' S, 11°04.24' E, 29 November 2001 (fl, fr),
+Wieringa 4493 (BR, E, K, LBV, MA, MO, WAG); upper Waka valley, IFL forestry camp, 200m, 1°12.92' S,
+10°52.24' E, 27 March 2004 (fl), Wieringa 5094 (BP, BR, E, G, K, LBV, LISC, MA, MO, P, WAG, YA); 39 km
+on the road Mouila - Yéno, 250m, 1°45' S, 11°18' E, 6 February 1991 (fl), J.J.F.E. de Wilde 10378 (G, IEC,
+LBV, MPU, WAG); Massif de Koumounabwali, 260m, 1°18.9' S, 10°26.3' E, 12 December 1996 (fl), J.J.F.E.
+de Wilde 11756 (LBV, WAG); vallée de la Waka, 20km ENE du confluent Ngounié-Waka, 1°19' S, 10°55' E,
+23 February 1986 (fl), Wilks 1216 (E, LBV, MO, WAG); Nyanga: route d'exploitation CEB, Monts Doudou ±
+50 km W de Doussala, 2°20' S, 10°25' E, 16 April 1987 (fl), Dibata 132 (LBV, MO, PRE, WAG); 32 road-km
+N of Igotchi-Mouenda, Bakker timber concession, 250m, 2°41' S, 10°30' E, 12 May 1997 (fl), McPherson
+16959 (LBV, MO, WAG); chantier CEB, Doussala, c. 25 km SSW of Doussala, c. 2°30' S, 10°40' E, 16 May
+1985 (fl), Reitsma 972 (WAG); chantier CEB, ca 50 km SW of Doussala, 480m, c. 2°36' S, 10°35' E, 12 June
+1985 (fl), Reitsma 1137 (LBV, WAG); c. 50 km SW of Doussala, 2°33' S, 10°32' E, 16 April 1987 (fl),
+Reitsma 3272 (LBV, WAG); exploitation CEB ± 50 km W de Doussala, 2°20' S, 10°25' E, 18 April 1987 (fl),
+Wilks 1516 (MO); Ogooué-Maritime: Rabi, c. 1°55' S, 9°52' E, 13 October 2002 (fr), Bourobou 1021 (LBV,
+LBV, MO, P, WAG); Rabi, near Shell camp, c. 1°57' S, 9°53' E, 24 March 1990 (fl), Breteler 9452 (BM, BR,
+C, G, K, LBV, MO, P, PRE, WAG); Rabi, c. 1°55' S, 9°50' E, 5 April 1990 (fl), Breteler 9809 (BR, G, LBV,
+MO, WAG); Rabi-area, c. 1°55' S, 9°52' E, 19 May 1992 (fl, fr), Breteler 11534 (BR, E, HUJ, K, LBV, MO,
+PE, WAG); Rabi-Kounga, c. 1°54' S, 9°52' E, 8 July 1998 (fl), Breteler 14351 (BR, E, K, LBV, MO, WAG);
+Rabi-Kounga, near Rabi 22, 40m, 1°54' S, 9°52' E, 21 January 1994 (fl), Burgt 1 (BR, IAGB, LBV, MO,
+WAG); Rabi-Kounga, near Shell camp, 50m, 1°57' S, 9°53' E, 22 January 1994 (fl), Burgt 2 (LBV, WAG);
+Rabi-Kounga, near Rabi 53, 30m, 1°55' S, 9°51' E, 6 January 1994 (fl), Haegens 247 (E, LBV, MO, WAG);
+Loango National Park, c. 2 km south of Rabi village, 15m, 1°54.4' S, 9°35.1' E, 9 May 2005 (st), D.J. Harris
+8501 (E, LBV, WAG); Rabi-NE, near checkpoint Est, 1°52' S, 9°58' E, 17 November 1990 (fl), van Nek 369
+(WAG); Rabi-Kounga, between runway and Chamod camp, c. 1°56' S, 9°53' E, 14 January 1992 (fl),
+Schoenmaker 338 (BR, E, HUJ, K, LBV, MO, PE, PH, WAG, YA); Rabi-Kounga, 12 km on road 'Checkpoint
+Charlie' to Dianongo, 30m, 1°47' S, 9°50' E, 25 May 1992 (fl), Wieringa 1045 (C, FHO, LBV, MO, WAG);
+road between Shell oil-exploitations Rabi and Echira, 50m, 2°00.6' S, 9°49.7' E, 7 March 1994 (fl, fr),
+Wieringa 2413 (BR, C, E, FHO, G, IAGB, IEC, K, LBV, MA, MO, MPU, P, PRE, WAG, YA, Z); Rabi, 0.6 km
+on the road to Rabi 78, 50m, 1°55.1' S, 9°50.8' E, 25 March 1994 (fl, fr), Wieringa 2579 (BR, C, E, FHO, G,
+IAGB, IEC, K, LBV, MA, MO, MPU, P, PRE, WAG, Z); foothills of Doudou Mts, 300m, c. 2°17' S, 10°30' E,
+13 March 1988 (fl), J.J.F.E. de Wilde 9328 (BR, C, K, LBV, MA, MO, P, PRE, WAG); foothills of Doudou
+Mts, 300m, c. 2°17' S, 10°30' E, 13 March 1988 (st), J.J.F.E. de Wilde 9329 (WAG); Rabi, Shell/Gabon
+basecamp, 50m, 1°56.9' S, 9°52.8' E, 23 January 1993 (fl), J.J.F.E. de Wilde 10926 (WAG); Woleu-Ntem:
+Crystal Mountains, 25m on transect D, 0°37' N, 10°25' E, 20 November 2000 (st), Nguema Miyono 1382
+(LBV, WAG); Crystal Mountains, 275m on transect D, 0°37' N, 10°25' E, 20 November 2000 (st), Nguema
+Miyono 1387 (LBV); Tchimbélé, 0°36.8' N, 10°24.2' E, 8 April 2004 (fl), Nzabi 62 (BR, K, LBV, MO, P,
+SCA, WAG, YA); Crystal Mountains, 250m on transect D, 0°37' N, 10°25' E, 20 November 2000 (st), Obiang
+Mbomio 15 (LBV); Mbe National Park, Monts de Cristal, Tchimbele Dam area. Plot 2, 300m, 0°37.1' N,
+10°24.6' E, 1 April 2004 (st), SIMAB series 20905 (MO); Tchimbélé, c. 500 m of hydro-electric power plant,
+510m, 0°37' N, 10°25' E, 9 February 2001 (st), Tabak 16 (LBV, MO, WAG); just S of Tchimbélé dam, 500m,
+0°37' N, 10°24' E, 24 April 1990 (fl), Wieringa 753 (BR, C, E, G, IEC, K, LBV, MO, MPU, PRE, WAG).
+
+22 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+WIERINGA ET AL.
+
+Acknowledgements
+Many collections that were used for this study were collected during field work conducted under the
+cooperation agreement between CENAREST (Gabon) and Wageningen University. The logistic support
+provided by the National Herbarium of Gabon (IPHAMETRA, CENAREST) is gratefully acknowledged. We
+would like to thank Frans Breteler who provided us with some comments on an earlier version of this paper.
+We would also like to thank Jos van der Maesen for permission to reproduce his slides of Gabonius.
+
+References
+Aubréville, A. (1968a) Légumineuses - Caesalpinioidées. Flore du Gabon Vol. 15. Muséum National d 'Histoire
+Naturalle, Paris, 362 pp.
+Aubréville, A. (1968b) Leonardoxa Aubréville, genre nouveau de césalpinioidées Guinéo-Congolaise. Adansonia ser. 2,
+8 : 177–179.
+Aubréville, A. (1970) Légumineuses - Césalpinïoidées. In: Aubréville, A. & Leroy, J.F. (eds.) Flore du Cameroun Vol. 9.
+Muséum National d 'Histoire Naturalle, Paris, 339 pp.
+Ba, A.M., Duponnois, R., Moyersoen, B. & Diédhiou, A.G. (2012) Ectomycorrhizal symbiosis of tropical African trees.
+Mycorrhiza 22(1): 1–29.
+http://dx.doi.org/10.1007/s00572-011-0415-x
+Baker, E.G. (1914) Plants from the Eket District, S. Nigeria collected by Mr and Mrs P. Amaury Talbot. Journal of
+Botany 52: 1–9.
+Bentham, G. & Hooker, J.D. (1865) Genera Plantarum 1 (2): 433–735.
+http://dx.doi.org/10.5962/bhl.title.747
+Bentham, G. (1866) IX. Description of some New Genera and Species of Tropical Leguminosae. Transactions of the
+Linnean Society of London 25: 297–320, Plate 33–43.
+http://dx.doi.org/10.1111/j.1096-3642.1865.tb00186.x
+Bruneau, A., Breteler, F.J., Wieringa, J.J. & Gervais, G.Y.F. (2000) Phylogenetic relationships in tribes Macrolobieae and
+Detarieae as inferred from chloroplast trnL intron sequences. In: Herendeen, P.S. & Bruneau, A. (eds.) Advances in
+Legume Systematics 9: Royal Botanic Gardens, Kew. pp 121–149.
+Bruneau, A., Forest, F., Herendeen, P.S., Klitgaard, B.B. & Lewis, G.P. (2001) Phylogenetic relationships in the
+Caesalpinioideae (Leguminosae) as inferred from chloroplast trnL intron sequences. Systematic Botany 26: 487–
+514.
+http://www.bioone.org/doi/full/10.1043/0363-6445-26.3.487
+Bruneau, A., Mecure, M., Lewis, G.P. & Herendeen, P.S. (2008) Phylogenetic patterns and diversification in the
+caesalpinioid legumes. Botany 86: 697–718.
+http://dx.doi.org/10.1139/b08-058
+Elith, J., Graham, C.H., Anderson, R.P., Dudik, M., Ferrier, S., Guisan, A., Hijmans, R.J., Huettmann, F., Leathwick,
+J.R., Lehmann, A., Li, J., Lohmann, L.G., Loiselle, B.A., Manion, G., Moritz, C., Nakamura, M., Nakazawa, Y.,
+Overton, J.M., Peterson, A.T., Phillips, S.J., Richardson, K., Scachetti-Pereira, R., Schapire, R.E., Soberon, J.,
+Williams, S., Wisz, M.S. & Zimmermann, N.E. (2006) Novel methods improve prediction of species' distributions
+from occurrence data. Ecography, 29: 129–151.
+http://dx.doi.org/10.1111/j.2006.0906-7590.04596.x
+Engler, H. & Prantl, K. eds. (1897) Naturlichen Pflanzenfamilien, Nachträge 2–4: 1–380.
+Harms, H. (1901) Leguminosae Africanae 2. Botanische Jahrbücher 31: 75–94.
+Holland, J.H. (1911). The useful plants of Nigeria (p.p.). Bulletin of Miscellaneous Information. Additional Series 9 (2):
+177–342.
+Hijmans, R.J., Cameron, S.E., Parra, J.L., Jones, P.G. & Jarvis, A. (2005) Very high resolution interpolated climate
+surfaces for global land areas. International Journal of Climatology 25: 1965–1978.
+http://dx.doi.org/10.1002/joc.1276
+IUCN. (2001) IUCN Red List Categories and Criteria: version 3.1. IUCN, Gland, Switzerland and Cambridge, UK.
+Léonard, J. (1951) Notulae systematicae 11, Les Cynometra I et les genres voisins en Afrique tropicale. Bulletin du
+Jardin botanique de l'État à Bruxelles 21: 373–450.
+http://dx.doi.org/10.2307/3666679
+Léonard, J. (1957) Genera des Cynometreae et des Amherstieae africaines, Leguminosae-Caesalpinioideae. Essai de
+blastogenie appliquée a la systematique. Memoires de l’Académie royale Belgique (Classe des Sciences) 30(2): 1–
+314.
+GABONIUS GEN. NOV. ENDEMIC TO GABON
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+• 23
+
+Lewis, G.P. & Schrire, B.D. (2004) Micklethwaitia, a new name for Brenaniodendron J. Léonard (Leguminosae:
+Caesalpinioideae: Detarieae). Kew Bulletin 59: 166.
+Lewis, G.P., Schrire, B.D., Mackinder, B.A. & Lock, J.M. (2005) Legumes of the World. The Royal Botanic Gardens,
+Kew, 577 pp.
+Linnaeus, C. (1753) Species Plantarum. Laurentius Salvius, Stockholm, 1200 pp.
+Mackinder, B.A. (2005) Detarieae. In: Lewis, G, Schrire, B., Mackinder, B. & Lock, J. (eds.) Legumes of the World.
+Royal Botanic Gardens, Kew, pp. 69–109.
+Mackinder, B.A., Wieringa, J.J., Lunenburg, I. & Banks, H. (2010) Clarifying the generic limits of Talbotiella and
+Hymenostegia (Detarieae, Caesalpinioideae, Leguminosae). In: X. van der Burgt, J. van der Maesen & J.-M. Onana
+(eds.) Systematics and Conservation of African Plants. Royal Botanic Gardens, Kew, pp. 43–56.
+Mackinder, B.A., Wieringa, J.J. & Burgt, X.M. van der, (2011) A revision of the genus Talbotiella Baker f.
+(Caesalpinioideae: Leguminosae). Kew Bulletin 65: 401–420.
+http://dx.doi.org/10.1007/s12225-010-9217-0
+Mackinder, B.A. & Wieringa, J.J. (2013a) Hymenostegia viridiflora (Detarieae, Caesalpinioideae, Leguminosae) a new
+tree species of Leguminosae from Cameroon. Blumea 58: 13–17.
+http://dx.doi.org/10.3767/000651913X668573
+Mackinder, B.A. & Wieringa, J.J. (2013b) Annea gen. nov. (Detarieae, Caesalpinioideae, Leguminosae), a home for two
+species long misplaced in Hymenostegia sensu lato. Phytotaxa 142 (1): 1–14.
+http://dx.doi.org/10.11646/phytotaxa.142.1.1
+Mackinder, B.A., Saslis-Lagoudakis, H.,Wieringa, J.J., Devey, D., Forest, F. & Bruneau, A. (2013c) The tropical African
+Scorodophloeus clade includes two undescribed Hymenostegia segregate genera and Micklethwaitia, a rare,
+monospecific genus from Mozambique. South African Journal of Botany in press.
+http://dx.doi.org/10.1016/j.sajb.2013.07.002
+Newbery, D.M., Alexander, I.J. & Rother, J.A. (1997) Phosphorus dynamics in a lowland African rain forest: the
+influence of ectomycorrhizal trees. Ecological Monographs 67: 367–409.
+http://dx.doi.org/10.1890/0012-9615(1997)067[0367:pdiala]2.0.co;2
+Oliver, D. (1871) Flora of Tropical Africa 2. L. Reeve & co, London, 613 pp.
+Pellegrin, F. (1942) Plantae Letestuanae novae. XXVII. Bulletin de la Société Botanique de France 89: 245–247.
+Pellegrin, F. (1943) Un genre nouveau de Caesalpiniées du Gabon. Boissiera 7: 296–300.
+Pellegrin, F. (1949) Les Légumineuses du Gabon. Mémoires de l'Institut d'Études Centrafricaines 1: 1–284, Pl. I–VIII.
+Peterson, A.T., Papes, M. & Soberon, J. (2008) Rethinking receiver operating characteristic analysis applications in
+ecological niche modeling. Ecological Modelling 213: 63–72.
+http://dx.doi.org/10.1016/j.ecolmodel.2007.11.008
+Phillips, S.J., Dudik, M. & Schapire, R.E. (2004) A maximum entropy approach to species distribution modeling. In:
+Proceedings of the Twenty-First International Conference on Machine Learning. AMC Press, New York, pp. 655–
+662.
+Raes, N. & Ter Steege, H. (2007) A null-model for significance testing of presence-only species distribution models.
+Ecography 30: 727–736.
+http://dx.doi.org/10.1111/j.2007.0906-7590.05041.x
+Sosef, M.S.M., Wieringa, J.J., Jongkind, C.C.H., Achoundong, G., Azizet Issembé, Y., Bedigian, D., van den Berg, R.G.,
+Breteler, F.J., Cheek, M., Degreef, J., Faden, R.B., Goldblatt, P., Van der Maesen, L.J.G., Ngok Banak, L.,
+Niangadouma, R., Nzabi, T., Nziengui, B., Rogers, Z.S., Stévart, T., van Valkenburg, J.L.C.H., Walters, G., & de
+Wilde, J.J.F.E. (2006) Checklist of Gabonese vascular plants. Scripta Botanica Belgica 35: 1–438.
+Stapf, O. (1902) Order LXXXIV. Apocynaceae. Flora of Tropical Africa 4: 24–231.
+Wieringa J.J. (1999) Monopetalanthus exit. A systematic study of Aphanocalyx, Bikinia, Icuria, Michelsonia and
+Tetraberlinia (Leguminosae, Caesalpinioideae). Wageningen Agricultural University Papers 9–4: I–XVI, 1–320.
+Wieringa, J.J. & Mackinder, B.A. (2012) Novitates Gabonensis 79: Hymenostegia elegans and H. robusta spp. nov.
+(Leguminosae–Caesalpinioideae) from Gabon. Nordic Journal of Botany 30: 144–152.
+http://dx.doi.org/10.1111/j.1756-1051.2011.01260.x
+
+24 •
+
+Phytotaxa 142 (1) © 2013 Magnolia Press
+
+WIERINGA ET AL.
+
+

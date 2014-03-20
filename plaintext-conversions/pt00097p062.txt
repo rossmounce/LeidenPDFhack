@@ -1,0 +1,724 @@
+Phytotaxa 97 (2): 52–62 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.97.2.5
+
+Notes on Early Land Plants Today. 38. New combinations and synonyms in
+Lepidoziaceae (Marchantiophyta)
+ENDYMION D. COOPER1, LARS SÖDERSTRÖM2, ANDERS HAGBORG3 & MATT VON KONRAT3
+1
+
+CMNS-Cell Biology and Molecular Genetics, 2107 Bioscience Research Building, University of Maryland, College Park, MD 207424451, USA; endymion.dante.cooper@gmail.com.
+2
+Department of Biology, Norwegian University of Science and Technology, N-7491 Trondheim, Norway; lars.soderstrom@bio.ntnu.no
+3
+Department of Botany, The Field Museum, 1400 South Lake Shore Drive, Chicago, IL 60605–2496, USA; hagborg@pobox.com,
+mvonkonrat@fieldmuseum.org
+
+Cooper (2013) summarizes the current status of the family Lepidoziaceae and presents a new classification
+based on recent phylogenetic studies (Cooper et al. 2011, 2012). The classification requires many transfers of
+taxa and the new combinations and a new synonym are reported here. Ceramanus gen. nov. is newly described
+and Tricholepidozia comb. et stat. nov. elevated to generic rank. Several of the species require
+lectotypification, but this is beyond the scope of this nomenclatural note and lectotypes are designated only in
+two unambiguous cases.
+
+Formal treatment
+The format of this note follows Söderström et al. (2012) except that we use the Melbourne code of
+nomenclature (ICN; McNeill et al. 2012) instead of the Vienna code (ICBN; McNeill et al. 2006)
+Bazzania menzelii E.D.Cooper, nom. nov. pro Acromastigum emarginatum Herzog, Trans. Brit. Bryol. Soc. 1:
+309, 1950 (Herzog 1950).
+Type:—BORNEO. Sarawak: Dulit, 1932, P.W. Richards 2189 (holotype JE).
+Blocking name:—Bazzania emarginata (Steph.) C.M.Cooke, Trans. Connecticut Acad. Arts 12: 17, 1904 (Cooke 1904).
+Note:—Menzel (1988) noted that Acromastigum emarginatum was a Bazzania sp. without transferring it. Future studies
+will determine whether it is a good species or a synonym to some other species.
+
+Kurzia nivicola (R.M.Schust.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea nivicola R.M.Schust., Nova Hedwigia 15: 460, 1968 (Schuster 1968).
+Type:—NEW ZEALAND. South Island: in snow tussock zone, above Sealy Lakes, Sealy Range, Mt. Cook Natl. Park,
+ca. 5,500 ft, R.M. Schuster 67-491b (holotype F).
+
+Kurzia tasmanica (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia tasmanica Steph., Sp. Hepat. (Stephani) 3: 580, 1909 (Stephani 1909).
+Type:—AUSTRALIA. Tasmania: Tasman peninsula, Moore s.n. (G-113397 [=G-391]1).
+Telaranea tasmanica (Steph.) J.J.Engel et G.L.Merr., Phytologia 79: 106, 1996 (Engel & Smith Merrill 1996).
+
+≡
+
+1. References to specimens in G should preferably be given to the barcode used (M. Price, pers. comm.) but for comparability the number printed on
+the specimen, and often referred to in the past, is also given in square brackets. In case the barcode number is missing, the older number is still
+given within square brackets.
+
+52 Accepted by Jon Shaw: 10 Apr. 2013; published online in PDF: 1 May 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Ceramanus E.D.Cooper, gen. nov.
+Description:—Plants soft textured1, flexuous, prostrate in loose to dense mats; usually complanate2, glaucous to strongly
+ceraceous, whitish green to bluish green or pale green to yellowish green, dull and water repellent. Plants medium to
+large, to ca. 1 cm wide including branches3. Branching loosely, regularly, l(2)-pinnate, the branches predominantly
+of Frullania-type, often elongating and becoming leading shoots or becoming flagelliform. Acromastigum-type
+branches rarely present4. Ventral-intercalary branches present, leafy or stoloniform. Lateral-intercalary branches
+absent. Stems radially symmetrical to slightly smaller ventrally5 with cortical cells moderately to distinctly
+differentiated, typically in 12-14 rows6 of larger, thinner walled cells. Medullary cells in stem cross section
+numerous (ca. 25-90). Leaves on main shoot usually rigid and fragile. Lobes and lobe tips often caducous. Leaves
+strongly incubously to almost longitudinally inserted, horizontally oriented (in the same plane as the stem) at right
+angles to the stem, typically contiguous to loosely imbricate, becoming tightly shingled in dry or exposed
+conditions. Leaves small (ca. 200 m wide, 400 μm long) to large (ca. 1600 μm wide, 1600 μm long) sub-symmetric,
+to moderately asymmetric7, 4-lobed rarely 5,6-lobed in larger species usually divided to 0.3-0.5. Lobes parallel with
+disc margins, to slightly divergent or weakly convergent in some species8. Lobes caudate-setaceous9, 2-4 cells broad
+at the very base10 tapering to, or abruptly terminated by, a uniseriate row of 2-8 cells. Cells of the uniseriate row short
+to markedly elongated. Septa constricted, straight or slightly swollen. Disc usually symmetrically quadrate to
+rectangular, occasionally weakly cuneate11 or with a gently curved and weakly subcordate dorsal margin12, typically
+5-8 cells high13 and 8 cells broad throughout14. Cells of disc typically in longitudinal rows and obvious tiers15, near
+isodiametric to short rectangular, large, ca. 25-60 μm wide and 35-100 μm long. The basal row of cells weakly to
+distinctly larger than median disc cells. Branch leaves resembling those of the main shoots, smaller than stem leaves,
+often with three rather than four lobes, typically more tightly shingled and less deeply lobed. Underleaves highly
+reduced with respect to lateral leaves16. Disc abbreviated to as few as 1 tier of cells. Lobes usually uniseriate
+throughout, short to somewhat elongated and terminated by an apical slime papilla. Rhizoids from the distal cells of
+the underleaf disc. Frullania-type branch half-leaf bifid (very occasionally trifid), linear, obliquely inserted and
+bisecting the angle between the branch and main axis17. First branch underleaf undivided, rarely bi- or tri-lobed in
+some species, ciliate to subulate, inserted on stem, at branch base or at junction. Oil-bodies always present in living
+material, translucent, grayish, botryoidal, typically 4 or more per cell. Asexual reproduction present in most species,
+commonly by fragmenting leaf lobes, rarely by tubers terminating stoloniferous branches. Plants dioicous.
+Androecia either on short Frullania-type branches with a few to several cycles of normal vegetative leaves prior to
+androecial formation, or on short, abbreviated, ventral-intercalary branches lacking normal vegetative leaves. Bracts
+rather closely imbricate, strongly dorsally assurgent, and deeply concave; 2,3,4-lobed with each lobe terminating in
+a uniseriate row of (2)3 cells; lamina margins with a few slime papillae. Bracts monandrous with large antheridia for
+bract size, the stalk 6-8 cells high, biseriate. Bracteolar antheridia absent. Gynoecia feebly to strongly dorsally
+assurgent, weakly swollen and sparsely to densely rhizoidous at base. Bracts small for perianth size, those of
+innermost series usually closely ensheathing the perianth, occasionally erect. Bract apices ciliate to lobulate,
+margins with few to several slime papillae. Bracteoles of innermost series smaller than or similar in size to bracts,
+similar to identical in form. Perianth emergent, cylindrical to fusiform, terete in basal sector, the distal sector
+trigonous, with 3 to 8 distinct plicae, narrowing toward the contracted mouth. Mouth shortly denticulate, ciliate to
+lobulate. Perianth 2-5 stratose at the base, 1-2 stratose in the median portion and 1 stratose apically. Sporophyte with
+seta having 5-8 rows of outer cells and approx. 10-20 rows of inner cells. Capsule short elliptic with wall of 3 layers.
+Outer layer of cells in tiers, regularly short-rectangular, with 2-phase development. The longitudinal walls with
+well-defined sheet-like and nodular thickenings alternating with walls that are devoid of thickenings (or with
+
+ά
+
+ά
+
+ά
+
+ά
+
+1. Except C. grossiseta which is firm textured.
+2. Except C. grossiseta which is subisophyllous.
+3. C. elegans and C. pruinosus are smaller.
+4. Known in C. grossiseta and C. clatritexta.
+5. Distinctly so and somewhat dorso-ventrally flattened in C. perfragilis.
+6. But as few as 9 rows in C. perfragilis up to 26 rows in C. clatritexta.
+7. Asymmetry more pronounced in species with larger leaves C. clatritexta and C. grossiseta.
+8. Exceptional in C. grossiseta are the dorsal-most lobes which are strongly, often perpendicularly, divergent and oriented towards the shoot apex.
+9. Unusually, attenuate in C. clatritexta.
+10. Up to 7 cells broad in C. clatritexta.
+11. In C. centipes and C. grossiseta.
+12. In C. clatritexta.
+13. As few as 2-3 in C. pruinosus and up to 14 in C clatritexta.
+14. Broader, to ca. 20 cells broad distally, in C. grossiseta and C. clatritexta.
+15. Tiers of cells becoming indistinct in larger leaves of C. clatritexta.
+16. C. grossiseta exceptional in having large underleaves, smaller than, but resembling the lateral leaves.
+17. Halfleaf narrowly rectangular to elliptic in C. clatritexta. Halfleaf lobes divergent in C. grossiseta.
+
+NEW COMBINATIONS AND SYNONYMS IN LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 53
+
+sporadic, local, nonpigmented to pigmented, nodular swellings). The transverse walls devoid of thickenings, or
+rarely with a few nodular swellings. Innermost layer of cells tiered, irregularly narrowly rectangular, with
+semiannular bands common. Spores areolate. Elaters rigid, nontortuous only slightly tapering toward tips; bispiral to
+tips.
+Type:—Ceramanus centipes (Taylor ex Gottsche, Lindenb. et Nees) E.D.Cooper.
+Etymology:—From the Latin cera meaning wax and manus meaning hand. The name refers to the hand-like appearance
+of the typically glaucous leaves of species belonging to the genus.
+
+Ceramanus centipes (Taylor ex Gottsche, Lindenb. et Nees) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia centipes Taylor ex Gottsche, Lindenb. et Nees, Syn. Hepat. 2: 204, 1845 (Gottsche et al. 1845).
+Type:—AUSTRALIA. Tasmania: Terra Van Diemen, 1824, Spence (FH).
+Telaranea centipes (Taylor ex Gottsche, Lindenb. et Nees) R.M.Schust., J. Hattori Bot. Club. 26: 256, 1963 (Schuster
+1963).
+
+≡
+
+Ceramanus clatritexta (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia clatritexta Steph., Sp. Hepat. (Stephani) 3: 583, 1909 (Stephani 1909).
+Type:—AUSTRALIA. Western Australia: Swan River, Drummond s.n., ex Herb. Kew (G-113427 [=G-10726]).
+Telaranea clatritexta (Steph.) J.J.Engel et G.L.Merr., Novon 9: 339, 1999 (Engel & Smith Merrill 1999).
+
+≡
+
+Ceramanus elegans (Colenso) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia elegans Colenso, Trans. & Proc. New Zealand Inst. 21: 65, 1888 [1889] (Colenso 1889).
+Type:—NEW ZEALAND. Great Barrier Is., Firth of Thames, 1888, Winkelmann s.n. (Colenso a.1355) (BM, WELT).
+Telaranea elegans (Colenso) J.J.Engel et G.L.Merr., Phytologia 79: 251, 1996 (Engel & Smith Merrill 1996).
+
+≡
+
+Ceramanus grossiseta (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia grossiseta Steph., Sp. Hepat. (Stephani) 3: 584, 1909 (Stephani 1909).
+Type:—AUSTRALIA. Tasmania: West Coast, near Moore's Lookout, March 1900, T. B. Moore 5794 (G-69952).
+Telaranea grossiseta (Steph.) J.J.Engel et R.M.Schust., Fieldiana, Bot. n.s. 14: 3, 1983 (Engel & Schuster 1983).
+
+≡
+
+Ceramanus perfragilis (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea perfragilis J.J.Engel et G.L.Merr., Fieldiana, Bot. n.s. 44: 72, 2004 (Engel & Smith Merrill
+2004).
+Type:—NEW ZEALAND. North Island: North Auckland Prov., NE Waitakere Ranges, Swanson University Reserve,
+Tram valley Road, 95 m, Engel 20465 (holotype F, isotype CHR).
+
+Ceramanus pruinosa (Herzog) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia pruinosa Herzog, Memoranda Soc. Fauna Fl. Fenn. 27: 93, 1952 [1951] (Herzog 1951).
+Type:—FIJI. Koro: eastern slope of Maine Ridge, 300-500 m, A. C. Smith 966 (holotype BISH).
+Telaranea pruinosa (Herzog) J.J.Engel et G.L.Merr., Fieldiana, Bot. n.s. 44: 184 (Engel & Smith Merrill 2004).
+
+≡
+
+Ceramanus tuberifera (J.J.Engel et R.M.Schust.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea tuberifera J.J.Engel et R.M.Schust., Fieldiana, Bot. n.s. 14: 2, 1983 (Engel & Schuster 1983).
+Type:—NEW ZEALAND. South Island: Fiordland Natl. Park, Falls Creek, Upper Hollyford River Valley, along Milford
+Road, Schuster 48773 (holotype F).
+
+Lepidozia septemfida Steph., Sp. Hepat. (Stephani) 3: 588, 1909 (Stephani 1909).
+Type:—AUSTRALIA. New South Wales: Katumba Falls, Watts 574 (G-69681).
+= Lepidozia multifida Steph., J. & Proc. Roy. Soc. New South Wales 48: 114, 1914 (Stephani & Watts 1914), syn. nov.
+Type:—AUSTRALIA. New South Wales: Blue Mountains, Valley Glacier, Sept. 1912, Watts (G-43694 [=G-100]).
+Note:—Australian Lepidozia with dorsal margins having spines or accessory lobes are frequently incorrectly
+assigned to Lepidozia ulothrix. The senior author has not seen any specimens from mainland Australia attributable to
+Lepidozia ulothrix. Rather, the majority of specimens are consistent with Lepidozia septemfida and Lepidozia
+multifida and a division of this taxon on the basis of the number of accessory lobes is impossible to maintain.
+
+54 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+COOPER ET AL.
+
+Unfortunately, the name Lepidozia septemfida (having seven lobes) has priority over the more accurate and flexible
+name Lepidozia multifida (having multiple lobes).
+
+Neolepidozia aubertii (Ast) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia aubertii Ast, Candollea 11: 35, 1947 (Jovet-Ast 1947).
+Type:—NEW CALEDONIA. Franc 13 (PC, G)
+Telaranea aubertii (Ast) J.J.Engel et G.L.Merr., Fieldiana, Bot. n.s. 44: 124, 2004 (Engel & Smith Merrill 2004).
+
+≡
+
+Neolepidozia autoica (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea autoica J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 124, 2004 (Engel & Smith Merrill 2004).
+Type:—CHILE. Juan Fernández: Más a Tierra, on the ridge leading to Cerro Damajuana, ca. 500 m, on branches, G.
+Kunkel H290 (holotype S-B108039).
+
+Neolepidozia consobrina (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea consobrina J.J.Engel et G.L.Merr., Novon 9: 339, 1999 (Engel & Smith Merrill 1999).
+Type:—AUSTRALIA. Tasmania: eastern slope of Black Bluff just below summit, S of Burnie, 1250 m, 21 March 1977,
+Engel 15799 (holotype F, isotype HO).
+
+Neolepidozia cuneifolia (Steph.) Fulford et J.Taylor, Brittonia 11: 85, 1959 (Fulford & Taylor
+1959).
+Basionym:—Lepidozia cuneifolia Steph., Sp. Hepat. (Stephani) 3: 612, 1909 (Stephani 1909).
+Type:—PAPUA NEW GUINEA. Moresby: in montosis Moroka, 1300 m, 1893, Loria, Hb. Levier (lectotype [here
+designated] G-69618 [=G-11916], isolectotypes G-60917 [=G-12264], G-60918 [=G-12264a], G-60919 [=G12265]).
+Note:—There are four isotypes in G but only this one is marked as original in the writing of Stephani.
+Telaranea cuneifolia (Steph.) J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 145, 2004 (Engel & Smith Merrill 2004).
+
+≡
+
+Neolepidozia disparata (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea disparata J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 147, 2004 (Engel & Smith Merrill
+2004).
+Type:—AUSTRALIA. Queensland: Daintree Region, Noah Creek, 23 July 1991, Stone s.n. (holotype MELU-1431,
+isotype F-1172744).
+
+Neolepidozia gibbsiana (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia gibbsiana Steph., Sp. Hepat. (Stephani) 6: 328, 1922 (Stephani 1922).
+Type:—NEW ZEALAND. North Island: without specific loc., Gibbs 1041 (G-69953).
+Note:—Fulford annotated the type specimen as a Neolepidozia in 1959 but we have not found that she ever published it.
+Telaranea gibbsiana (Steph.) E.A.Hodgs., Trans. & Proc. Roy. Soc. New Zealand, Bot. 3: 70, 1965 (Hodgson 1965).
+
+≡
+
+Neolepidozia heterotexta (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia heterotexta Steph., Sp. Hepat. (Stephani) 6: 329, 1922 (Stephani 1922).
+Type:—NEW CALEDONIA. in jugo Dogny, 1050 m, July 1909, Lerat s.n. (G-128745 [=G-346], G-128746 [=G-371]).
+Telaranea heterotexta (Steph.) J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 160, 2004 (Engel & Smith Merrill
+2004).
+
+≡
+
+Neolepidozia hodgsoniae (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea hodgsoniae J.J.Engel et G.L.Merr., Phytologia 79: 250, 1996 (Engel & Smith Merrill 1996).
+Type:—NEW ZEALAND. South Island: Canterbury Prov., Peel Forest, ca. 1500 ft., Child H2084 (holotype F, isotype
+CHR).
+
+NEW COMBINATIONS AND SYNONYMS IN LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 55
+
+Neolepidozia leratii (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia leratii Steph., Sp. Hepat. (Stephani) 6: 333, 1922 (Stephani 1922).
+Type:—NEW CALEDONIA. Summit of Mont Mou, July 1909, Lerat s.n., sub Paris no 89 (G).
+Telaranea leratii (Steph.) J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 162 (Engel & Smith Merrill 2004).
+
+≡
+
+Neolepidozia longitudinalis (Herzog) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia longitudinalis Herzog, Trans. Brit. Bryol. Soc. 1: 312, 1950 (Herzog 1950).
+Type:—BORNEO. Sarawak: L. C. Dulit, under 300 m, Richards 2548 (syntype BM).
+Telaranea longitudinalis (Herzog) R.M.Schust., Hepat. Anthocerotae N. Amer. 2: 30, 1969 (Schuster 1969).
+
+≡
+
+Neolepidozia mamillosa (Schiffn.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia mamillosa Schiffn., Nova Acta. Acad. Caes. Leop.-Carol. German. Nat. Cur. 60: 254, 1893
+(Schiffner 1893).
+Type:—NEW GUINEA. s.loc., June 1875, leg. Dr. Naumann in Expeditione navis “Gazelle” (holotype FH).
+Telaranea mamillosa (Schiffn.) J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 166, 2004 (Engel & Smith Merrill
+2004).
+
+≡
+
+Neolepidozia meridiana (E.A.Hodgs.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia meridiana E.A.Hodgs., Trans. Roy. Soc. New Zealand 83: 611, 1956 (Hodgson 1956).
+Type:—NEW ZEALAND. Auckland Island: "Cape Expedition", No., 2 Camp. 31 October 1944, Turbott s.n. (holotype
+CHR).
+Telaranea meridiana (E.A.Hodgs.) E.A.Hodgs., Rec. Domin. Mus. 4: 107, 1962 (Hodgson 1962).
+
+≡
+
+Neolepidozia ophiria (Gottsche ex Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia ophiria Gottsche ex Steph., Sp. Hepat. (Stephani) 3: 611, 1909 (Stephani 1909).
+Type:—MALAYSIA. Johor: Mt. Ophir, Mixon 972c (G).
+Telaranea ophiria (Gottsche ex Steph.) J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 176, 2004 (Engel & Smith
+Merrill 2004).
+
+≡
+
+Neolepidozia palmata (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea palmata J.J.Engel et G.L.Merr., Novon 9: 344, 1999 (Engel & Smith Merrill 1999b).
+Type:—AUSTRALIA. Tasmania: ridge SE of Black Bluff near junction of access road to plateau area and road to
+Devonport gold mines, S facing slope, S of Burnie, 1000 m, Engel 16251 (holotype F, isotype HO).
+
+Neolepidozia paludicola (E.A.Hodgs.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia meridiana var. paludicola E.A.Hodgs., Trans. & Proc. Roy. Soc. New Zealand, Bot. 3: 69, 1965
+(Hodgson 1965).
+Type:—NEW ZEALAND. North Island: Tararuas, Oriwa Lake Hollow, bog, 3300 ft., 15 April 1933, Zotov s.n.
+(holotype CHR "No. 6619 in Bot. Divn. Herb.").
+Telaranea paludicola (E.A.Hodgs.) E.A.Hodgs., Trans. & Proc. Roy. Soc. New Zealand, Bot. 3: 69, 1965 (Hodgson
+1965).
+
+≡
+
+Neolepidozia patentissima (Hook.f. et Taylor) E.D.Cooper, comb. nov.
+Basionym:—Jungermannia patentissima Hook.f. et Taylor, London J. Bot. 3: 386, 1844 (Hooker & Taylor 1844).
+Type:—NEW ZEALAND. Auckland Island, Hooker s.n. (BM, FH).
+
+—var. ampliata (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea patentissima var. ampliata J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 48, 2004 (Engel &
+Smith Merrill 2004).
+Type:—NEW ZEALAND. Otago Prov.: Mt. Maungatua, W of Mosgiel, 500 m, Engel 17777 (holotype F, isotype CHR).
+
+56 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+COOPER ET AL.
+
+—var. zebrina (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea patentissima var. zebrina J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 48, 2004 (Engel &
+Smith Merrill 2004).
+Type:—NEW ZEALAND. North Island: Puketi Forest, 6 December 1993, Braggins 93/172 (holotype AKU, isotype F).
+Note:—The varieties above will also create the autonym.
+
+Neolepidozia pennata (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea pennata J.J.Engel et G.L.Merr., Phytologia 79: 252, 1996 (Engel & Smith Merrill 1996).
+Type:—NEW ZEALAND. South Island: Westland Prov., Route 73, 8 miles W of Turiwhate, Engel 6754 (holotype F,
+isotype CHR).
+
+Neolepidozia planifolia (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia planifolia Steph., Sp. Hepat. (Stephani) 3: 629, 1909 (Stephani 1909).
+Type:—JAPAN. Chiba: Mt. Tsurugisan in Prov. Awa, June 1900, U. Faurie 654 (G-69689 [=G-244]).
+
+Neolepidozia praenitens (Lehm. et Lindenb.) E.D.Cooper, comb. nov.
+Basionym:—Jungermannia praenitens Lehm. et Lindenb., Nov. Stirp. Pug. 6: 27, 1834 (Lehmann 1834).
+Type:—NEW ZEALAND. South Island: Dusky Bay, Menzies s.n. (G, S).
+Telaranea praenitens (Lehm. et Lindenb.) E.A.Hodgs., Rec. Dom. Mus. 4: 107, 1962 (Hodgson 1962).
+
+≡
+
+—var. dentifolia (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea praenitens var. dentifolia J.J.Engel et G.L.Merr., Phytologia 79: 253, 1996 (Engel & Smith
+Merrill 1996).
+Type:—NEW ZEALAND. South Island: Fiordland, Dusky Sound, Supper Cove, 11 February 1946, Allan s.n. (holotype
+CHR, isotype F).
+Note:—This variety also creates the autonym.
+
+Neolepidozia quadristipula (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia quadristipula Steph., J. & Proc. Roy. Soc. New South Wales 48: 115, 1914 (Stephani & Watts
+1914).
+Type:—AUSTRALIA. New South Wales: Rotunda, Neate's Glen, Blackheath, 4 Jan. 1911, Watts 1009 (G-128051 [=G276]).
+Telaranea quadristipula (Steph.) J.J.Engel et G.L.Merr., Fieldiana, Bot. n.s. 44: 20, 2004 (Engel & Smith Merrill
+2004).
+
+≡
+
+Neolepidozia rectangularis (R.M.Schust.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea rectangularis R.M.Schust., Phytologia 39: 241, 1978 (Schuster 1978).
+Type:—VENEZUELA. Mérida: above Río Frías, Sierra Nevada de Mérida, Schuster & Ruiz-Teran 76-1480 (holotype
+F).
+
+Neolepidozia tetrapila (Hook.f. et Taylor) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia tetrapila Hook.f. et Taylor, London J. Bot. 5: 370, 1846 (Taylor 1846b).
+Type:—NEW ZEALAND. s.loc., 1844, Hooker 119 (lectotype [Engel & Smith Merrill 2004] FH, isolectotype WLindenb. Hep. no. 4739).
+Telaranea tetrapila (Hook.f. et Taylor) J.J.Engel et G.L.Merr., Phytologia 79: 253, 1996 (Engel & Smith Merrill 1996).
+
+≡
+
+—var. cancellata (Colenso) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia cancellata Colenso, Trans. & Proc. New Zealand Inst. 18: 244, 1886 (Colenso 1886).
+Type:—NEW ZEALAND. Waipawa Co.: near Norsewood, edge of Bartramia Creek, 1885, Colenso a.1418 (BM,
+WELT).
+
+NEW COMBINATIONS AND SYNONYMS IN LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 57
+
+—var. roseana (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia roseana Steph., Sp. Hepat. (Stephani) 3: 590, 1909 (Stephani 1909).
+Type:—NEW ZEALAND. Without specific loc., 1898, Petrie s.n., "com. Rose" (G-43811).
+Note:—The varieties above will also create the autonym.
+
+Neolepidozia tridactylis (Lehm. et Lindenb.) E.D.Cooper, comb. nov.
+Basionym:—Jungermannia tridactylis Lehm. et Lindenb., Nov. Stirp. Pug. 4: 41, 1832 (Lehmann 1832).
+Type:—AUSTRALIA. "Nova Hollandia", s.loc., s. coll., Hb. Berol[inensis] 46 (syntypes W Lindenb. Hep. no. 4636, SB29322).
+Telaranea tridactylis (Lehm. et Lindenb.) J.J.Engel et G.L.Merr., Phytologia 79: 253, 1996 (Engel & Smith Merrill
+1996).
+
+≡
+
+Neolepidozia trifida (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia trifida Steph., Mildbraed, Wiss. Ergebn. Deut. Zentr.-Afr. Exped. (1907-08), Bot. 2: 120, 1910
+(Stephani 1910).
+Type:—RWANDA. "Rugege-Wald: Waldmoor, 1800 m, sin. coll. (n. 813 ex parte) (G-113394 [=G-440]).
+Telaranea trifida (Steph.) R.M.Schust., Hepat. Anthocerotae N. Amer. 1:105, 1966 (Schuster 1966).
+
+≡
+
+Neolepidozia verruculosa (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea verruculosa J.J.Engel et G.L.Merr., Fieldiana, Bot. n.s. 44: 197, 2004 (Engel & Smith Merrill
+2004).
+Type:—AUSTRALIA. Queensland: Kuranda, Wright's Lookout Surprise to Creek Track, 9 July 1994, Scott s.n.
+(holotype MELU, isotype F).
+
+Tricholepidozia (R.M.Schust.) E.D.Cooper, comb. et stat. nov.
+Basionym:—Telaranea subgen. Tricholepidozia R.M.Schust., J. Hattori Bot. Lab. 26: 256, 1963 (Schuster 1963).
+Type:—Telaranea mooreana (Steph.) R.M.Schust.
+
+Tricholepidozia chaetocarpa (Pearson) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia chaetocarpa Pearson, J. Linn. Soc., Bot. 46: 27, 1922 (Pearson 1922).
+Type:—NEW CALEDONIA. Hab. Mont Koghi. On upper surface of fallen log. Forest, 3000 ft. Compton 740.
+
+Tricholepidozia fernandeziensis (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia fernandeziensis Steph., Kungl. Svenska Vetenskapsakad. Handl. 46 (9): 46, 1911 (Stephani
+1911).
+Type:—CHILE. Juan Fernandez: Más a Tierra, El Yunque, 24 August 1908, Skottsberg 18 (Lectotype [Solari 1987] SB108021).
+Telaranea fernandeziensis (Steph.) J.J.Engel et G.L.Merr., Novon 9: 341, 1999 (Engel & Smith Merrill 1999).
+
+≡
+
+Tricholepidozia ferruginea (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea ferruginea J.J.Engel et G.L.Merr., Fieldiana, Bot. n.s. 44: 159, 2004 (Engel & Smith Merrill
+2004).
+Type:—CHILE. Magellanes: Isla Desolación, Bahía Tuesday, head of inner harbour, Engel 5649 (holotype MSC, isotype
+F).
+
+Tricholepidozia fissifolia (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia fissifolia Steph., Sp. Hepat. (Stephani) 3: 610, 1909 (Stephani 1909).
+Type:—NEW CALEDONIA. Mt. Koghi, June 1905, Etesse s.n. (G-113322).
+Telaranea fissifolia (Steph.) Hürl., Bauhinia 8: 105, 1985 (Hürlimann 1985).
+
+≡
+
+58 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+COOPER ET AL.
+
+Tricholepidozia jowettiana (H.A.Mill.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea jowettiana H.A.Mill., J. Bryol. 14: 235, 1986 (Miller 1986).
+Type:—AUSTRALIA. Norfolk Island: SE slopes of Mt. Pitt, 250-300 m, on tree fern, Jowett 16 (holotype MU).
+
+Tricholepidozia kaindina (Grolle) E.D.Cooper, comb. nov.
+Basionym:—Telaranea kaindina Grolle, J. Hattori Bot. Lab. 31: 9, 1968 (Grolle 1968).
+Type:—PAPUA NEW GUINEA. Morobe: Mt. Kaindi, 2650 m, Hewson 467 (holotype L, isotypes JE, NICH).
+
+Tricholepidozia kogiana (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia kogiana Steph., Sp. Hepat. (Stephani) 6: 332, 1922 (Stephani 1922).
+Type:—NEW CALEDONIA. Mt. Koghis, 1 November 09, Franc s.n., ex hb. Thériot (G-69951 [=G-32]).
+Telaranea kogiana (Steph.) Grolle, J. Hattori Bot. Lab. 29: 284, 1966 (Grolle 1966).
+
+≡
+
+Tricholepidozia lawesii (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia lawesii Steph., Hedwigia 28: 264, 1889 (Stephani 1889d).
+Type:—PAPUA NEW GUINEA. Astrolabe Range, 1885, Lawes s.n. (G-69950 [=G-44], isotype M).
+Telaranea lawesii (Steph.) Grolle, J. Hattori Bot. Lab. 28: 53, 1965 (Grolle 1965).
+
+≡
+
+Tricholepidozia lindenbergii (Gottsche) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia lindenbergii Gottsche, Syn. Hepat. 2: 213 1845 (Gottsche et al. 1845).
+Type:—NEW ZEALAND. Nova Zeelandia inter L. praenitentem (Hb. Hk.) (syntype W-Lindenb. Hep. no. 4849).
+Telaranea lindenbergii (Gottsche) J.J.Engel et G.L.Merr., Phytologia 79: 252, 1996 (Engel & Smith Merrill 1996).
+
+≡
+
+—var. complanata (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea lindenbergii var. complanata J.J.Engel et G.L.Merr., Phytologia 79: 252, 1996 (Engel & Smith
+Merrill 1996).
+Type:—NEW ZEALAND. South Island: Otago Prov., Whare Flat, W of Dunedin, 70 m, Engel 17641 (holotype F).
+
+—var. mellea (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea lindenbergii var. mellea J.J.Engel et G.L.Merr., Phytologia 79: 252, 1996 (Engel & Smith Merrill
+1996).
+Type:—NEW ZEALAND. South Island: Otago Prov., near Herbert, Allison H5684 (holotype CHR, isotype F).
+
+—var. papillata (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea lindenbergii var. papillata J.J.Engel et G.L.Merr., Fieldiana, Bot., n.s. 44: 83, 2004 (Engel &
+Smith Merrill 2004).
+Type:—NEW ZEALAND. North Island: South Auckland Prov., Whareorino Forest, track to Leitch's Hut, 280 m, Engel
+23773 (holotype F, isotype AK).
+Note:—The varieties above will also create the autonym.
+
+Tricholepidozia marginata (J.J.Engel et G.L.Merr.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea marginata J.J.Engel et G.L.Merr., Fieldiana, Bot. n.s. 44: 166, (Engel & Smith Merrill 2004).
+Type:—CHILE. Valdivia: near Río Futa in vicinity of Futa, 10 m, Engel 11035 (holotype F).
+
+Tricholepidozia martinii (E.A.Hodgs.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia martinii E.A.Hodgs., Trans. Roy. Soc. New Zealand 83: 256, 1956 (Hodgson 1956), “martini”.
+Type:—NEW ZEALAND. North Island: road to Dawson Falls, Mt. Egmont, 2000-3000 ft., January 1955, Hodgson
+10220 (holotype MPN).
+Telaranea martinii (E.A.Hodgs.) R.M.Schust., J. Hattori Bot. Lab. 26: 256, 1963 (Schuster 1963).
+
+≡
+
+NEW COMBINATIONS AND SYNONYMS IN LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 59
+
+Tricholepidozia melanesica (H.A.Mill.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea melanesica H.A.Mill., J. Bryol. 14, 237, 1986 (Miller 1986).
+Type:
+VANUATU. Erromango: Mt. Fedmoghum, ca. 630 m, Miller 15157 (holotype MU)
+
+Ϋ
+
+Tricholepidozia murphyae (Paton) E.D.Cooper, comb. nov.
+Basionym:—Telaranea murphyae Paton, Trans. Brit. Bryol. Soc. 4: 776, 1965 (Paton 1965).
+Type:—UNITED KINGDOM. Cornwall: Scilly Isle, near the Abbey Gardens, Mai 1962, leg. Paton (holotype OXF,
+isotype JE)
+
+Tricholepidozia neesii (Lindenb.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia neesii Lindenb., Syn. Hepat. 2: 212, 1845 (Gottsche et al. 1845).
+Type:—INDONESIA. Java: in montibus provinciae Bantam, ad Rawayan, in tumulis Baduorum aliisque locis Javae
+insulae, Blume s.n., in Hb. N. (Lectotype [here designated] STR).
+Note:—There are two possible syntypes in the original description. Fulford (1963) did not designate the type but she did
+clearly indicate that she considered the d’Urville specimen (in Hb. M) as something other than this taxon.
+Telaranea neesii (Lindenb.) Fulford, Brittonia 15: 80, 1963 (Fulford 1963).
+
+≡
+
+Tricholepidozia octoloba (Del Ros.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea octoloba Del Ros., Philipp. J. Sci. 100, 1971 (Del Rosario 1971).
+Type:—PHILIPPINES. Mindanao: Davao, Mt. McKinley, Edamo 605 (holotype PNH, reportedly lost fide Engel &
+Smith Merrill 2004).
+
+Tricholepidozia plumulosa (Lehm. et Lindenb.) E.D.Cooper, comb. nov.
+Basionym:—Jungermannia plumulosa Lehm. et Lindenb., Nov. Stirp. Pug. 6: 30, 1834 (Lehmann 1834).
+Type:—ARGENTINA. Tierra del Fuego: I. de los Estados, Menzies s.n. (isotype G ex hb. K).
+Telaranea plumulosa (Lehm. et Lindenb.) Fulford, Brittonia 11: 77, 1959 (Fulford & Taylor 1959).
+
+≡
+
+Tricholepidozia pulcherrima (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia pulcherrima Steph., Sp. Hepat. (Stephani) 3: 600, 1909 (Stephani 1909).
+Type:—NEW ZEALAND. Okarito, Kirk 588 (G-47486 [=G-274]).
+Telaranea pulcherrima (Steph.) R.M.Schust., J. Hattori Bot. Lab. 26: 256, 1963 (Schuster 1963).
+
+≡
+
+—var. mooreana (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia mooreana Steph., Sp. Hepat. (Stephani) 3: 585, 1909 (Stephani 1909).
+Type:—AUSTRALIA. Tasmania: West Coast, King River, T. B. Moore s.n. (G-47487).
+Note:—The variety will also create the autonym.
+Telaranea mooreana (Steph.) R.M.Schust., J. Hattori Bot. Lab. 26: 256, 1963 (Schuster 1963).
+
+≡
+
+Tricholepidozia quadriseta (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia quadriseta Steph., Sp. Hepat. (Stephani) 3: 582, 1909 (Stephani 1909).
+Type:—AUSTRALIA. New South Wales: East Ballina, Watts 433 (G-128052 [=G-10729]).
+Telaranea quadriseta (Steph.) J.J.Engel et G.L.Merr., Fieldiana, Bot. n.s. 44: 95 (Engel & Smith Merrill 2004).
+
+≡
+
+Tricholepidozia remotifolia (E.A.Hodgs.) E.D.Cooper, comb. nov.
+Basionym:—Telaranea remotifolia E.A.Hodgs., Rec. Domin. Mus. 4: 107, 1962. (Hodgson 1962).
+Type:—NEW ZEALAND. North Island: Tararuas, Ruamahanga V., 3 Dec. 1933, Zotov 9275 (holotype MPN, isotype
+CHR).
+
+Tricholepidozia semperiana (Del Ros.) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia semperiana Steph., Sp. Hepat. (Stephani) 3: 612, 1909 (Stephani 1909).
+Type:—PHILIPPINES, Luzon, Semper s.n. (lectotype [Engel & Smith Merrill 2004] G-113501 [=G-12707]).
+
+60 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+COOPER ET AL.
+
+Tricholepidozia tetradactyla (Hook.f. et Taylor) E.D.Cooper, comb. nov.
+Basionym:—Jungermannia tetradactyla Hook.f. et Taylor, London J. Bot. 3: 386, 1844 (Hooker & Taylor 1844).
+Type:—NEW ZEALAND. Auckland Island: November 1840, Hooker s.n. (lectotype [Engel & Smith Merrill 2004] FH,
+isolectotype BM).
+Telaranea tetradactyla (Hook.f. et Taylor) E.A.Hodgs., Rec. Domin. Mus. 4: 106, 1962 (Hodgson 1962).
+
+≡
+
+Tricholepidozia trichocoleoides (Herzog) E.D.Cooper, comb. nov.
+Basionym:—Lepidozia trichocoleoides Herzog, Trans. Brit. Bryol. Soc. 1: 314, 1950 (Herzog 1950).
+Type:—MALAYSIA. Sarawak: Dulit Trail, ca. 750 m, Richards 2576 (JE).
+Telaranea trichocoleoides (Herzog) R.M.Schust., J. Hattori Bot. Lab. 26: 256, 1963 (Schuster 1963).
+
+≡
+
+Paracromastigum denticulatum (Steph.) E.D.Cooper, comb. nov.
+Basionym:—Lembidium denticulatum Steph., Sp. Hepat. (Stephani) 6: 444 (Stephani 1924).
+Type:—NEW CALEDONIA. Plaine des Lacs, June 1911, Franc s.n. (G-69408 [=G-11031]).
+
+Paracromastigum microphyllum (R.M.Schust. ex J.J.Engel) E.D.Cooper, comb. nov.
+Basionym:—Hyalolepidozia microphylla R.M.Schust. ex J.J.Engel, Novon 17: 310, 2007 (Engel 2007).
+Type:—NEW ZEALAND. South Island: Fiordland, Hunter Mtns., Mt. Burns, 4500-5000 ft., R.M. Schuster 84-101b
+(holotype F).
+
+References
+Cooke, C.M. (1904) The Hawaiian Hepaticae of the tribe Trigonantheae. Transactions of the Connecticut Academy of Arts and
+Sciences 12: 1–45.
+Cooper, E.D., Shaw, A.J., Shaw, B., Henwood, M.J., Heslewood, M.M. & Brown, E.A. (2011) A multi-locus molecular
+phylogeny of the Lepidoziaceae: Laying the foundations for a stable classification. Molecular Phylogenetics and
+Evolution 59: 489–509.
+Cooper, E.D., Henwood, M.J. & Brown, E.A. (2012) A molecular phylogeny of the Lepidozia generic complex supports recircumscription of the Lepidozioideae. Molecular Phylogenetics and Evolution 65: 10–22.
+Cooper, E.D. (2013) Notes on Early Land Plants Today. 37. Towards a stable, informative classification of the Lepidoziaceae
+(Marchantiophyta). Phytotaxa 97 (2): 44–51.
+http://dx.doi.org/10.11646/phytotaxa.97.2.4
+Del Rosario, R.M. (1971) New and noteworthy Philippine liverworts, II. Philippine Journal of Science 100: 227–242.
+Engel, J.J. (2007) Studies of New Zealand Hepaticae. 20-38. A miscellanea of new taxa and combinations. Novon 17: 310–314.
+Engel, J.J. & Schuster, R.M. (1983) Austral Hepaticae XVIII. Studies towards a revision of Telaranea subg. Neolepidozia
+(Lepidoziaceae). Fieldiana, Botany 14: 1–7.
+Engel, J.J. & Smith Merrill, G.L. (1996) Austral Hepaticae 23. New taxa and new combinations in Telaranea Spruce ex Schiffn.
+(Lepidoziaceae). Phytologia 79: 250–253.
+Engel, J.J. & Smith Merrill, G.L. (1999) Austral Hepaticae. 29. More new taxa and combinations in Telaranea (Lepidoziaceae)
+and a new name for Frullania caledonica (Schuster) Schuster (Frullaniaceae) from New Caledonia. Novon 9: 339–344.
+http://dx.doi.org/10.2307/3391731
+Engel, J.J. & Smith Merrill, G.L. (2004) Austral Hepaticae 35. A taxonomic and phylogenetic study of Telaranea
+(Lepidoziaceae), with a monograph of the genus in temperate Australasia and commentary on extra-Australasian taxa.
+Fieldiana, Botany, n.s. 44: 1–265.
+Fulford, M. (1963) Segregate genera of the Lepidozia complex (Hepaticae). Part 4. Telaranea and a review of the
+Lepidoziaceae. Brittonia 15: 65–85.
+http://dx.doi.org/10.2307/2805041
+Fulford, M. & Taylor, J. (1959) The segregate genera of the Lepidozia complex (Hepaticae) part 1. Sprucella Steph. and
+Neolepidozia gen. nov. Brittonia 11: 77–85.
+http://dx.doi.org/10.2307/2805175
+Gottsche, C.M., Lindenberg, J.B.G. & Nees von Esenbeck, S.G. (1845) Synopsis Hepaticarum, fasc. 2. Meissner, Hamburg, pp.
+145–304.
+Grolle, R. (1965) Lebermoose aus Neuguinea. I. Journal of the Hattori Botanical Laboratory 28: 43–54.
+Grolle, R. (1966) Lebermoose aus Neuguinea. 5. Telaranea. Journal of the Hattori Botanical Laboratory 29: 279–289.
+Grolle, R. (1968) Lebermoose aus Neuguinea. 7. Journal of the Hattori Botanical Laboratory 31: 1–12.
+Herzog, T. (1950) Hepaticae borneenses (Oxford University expeditions to Sarawak, 1932). Transactions of the British
+
+NEW COMBINATIONS AND SYNONYMS IN LEPIDOZIACEAE
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+• 61
+
+Bryological Society 1: 275–326.
+Herzog, T. (1951 “1952”) Miscellanea bryologica. III. Memoranda societatis pro fauna et flora fennica 27: 92–110.
+Hodgson, E.A. (1956) New Zealand Hepaticae (Liverworts) - IX. A review of the New Zealand species of the genus Lepidozia.
+Transactions of the Royal Society of New Zealand 83: 589–620.
+Hodgson, E.A. (1962) Hepatics from the subantarctic islands of New Zealand including "Cape Expedition" collections from the
+Auckland and Campbell Islands. Records of the Dominion Museum 4: 101–132.
+Hodgson, E.A. (1965) New Zealand Hepaticae (Liverworts) - XVI A miscellany of new genera, new species and notes, part I.
+Transactions of the Royal Society of New Zealand, Botany 3: 67–97.
+Hooker, J.D. & Taylor, T. (1844) Hepaticae Antarcticae; being characters and brief descriptions of the Hepaticae discovered in
+the southern circumpolar regions during the voyage of H.M. Discovery ships Erebus and Terror. I. species of Lord
+Auckland's and Campbell's Islands. London Journal of Botany 3: 366–400.
+Hürlimann, H. (1985) Hepaticae aus dem Gebiete des südlichen Pazifik. VIII. Bauhinia 8: 101–118.
+Jovet-Ast, S. (1947) A propos du Lepidozia aubertii Jovet-Ast (=L. wallichii St. ms.). Candollea 11: 31–35.
+Lehmann, J.G.C. (1832) Novarum et minus cognitarum stirpium pugillus IV. Meissner, Hamburg, 64 pp.
+Lehmann, J.G.C. (1834) Novarum et minus cognitarum stirpium pugillus VI addita enumeratione plantarum omnium in his
+pugillis descriptarum. Meissner, Hamburg, pp. 1–66.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Marhold, K.,
+Prado, J., Prud'homme van Reine, W.F., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012) International Code of
+Nomenclature for algae, fungi and plants (Melbourne Code) adopted by the Eighteenth International Botanical Congress
+Melbourne, Australia, July 2011. Regnum Vegetabile 154: 1–240.
+McNeill, J., Barrie, F.R., Burdet, H.M., Demoulin, V., Hawksworth, D.L., Marhold, K., Nicolson, D.H., Prado, J., Silva, P.C.,
+Skog, J.E., Wiersema, J.H. & Turland, N.J. (2006) International Code of Botanical Nomenclature (Vienna Code) adopted
+by the Seventeenth International Botanical Congress Vienna, Austria, July 2005. Regnum Vegetabile 146: 1–260.
+Menzel, M. (1988) Annotated catalogue of the Hepaticae and Anthocerotae of Borneo. Journal of the Hattori Botanical
+Laboratory 65: 145–206.
+Miller, H.A. (1986) Pacific Bryophytes 3. An overview of Telaranea, Hepatophyta. Journal of Bryology 14: 231–244.
+Paton, J.A. (1965) Lophocolea semiteres (Lehm.) Mitt. and Telaranea murphyae sp. nov. established at Tresco. Transactions of
+the British Bryological Society 4: 775–779.
+Pearson, W.H. (1922) Hepaticae (in: A systematic account of the plants collected in New Caledonia and Isle of Pins by Mr. R.
+H. Compton, M. A. in 1914. Part III. Cryptogams (Hepaticae-Fungi)). Journal of the Linnean Society. Botany 46: 13–44.
+Schiffner, V. (1893) Ueber exotische Hepaticae, hauptsächlich aus Java, Amboina und Brasilien, nebst einigen
+morphologischen und kritischen Bemerkungen über Marchantia. Nova Acta Academiae Caesareae Leopoldino-Carolinae
+Germanicae Naturae Curiosorum 60: 219–316.
+Schuster, R.M. (1963) Studies on antipodal Hepaticae I. Annotated key to the genera of antipodal Hepaticae with special
+reference to New Zealand and Tasmania. Journal of the Hattori Botanical Laboratory 26: 185–309.
+Schuster, R.M. (1966) The Hepaticae and Anthocerotae of North America. vol. I. Columbia University Press, New York, 802
+pp.
+Schuster, R.M. (1968) Studies on the Hepaticae, XXIX-XLIV. A miscellany of new taxa and new range extensions. Nova
+Hedwigia 15: 437–529.
+Schuster, R.M. (1978) Studies on Venezuelan Hepaticae. I. Phytologia 39: 239–251.
+Schuster, R.M. (2000) Austral Hepaticae, Part. 1. Beihefte zur Nova Hedwigia 118: 1–524.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+http://dx.doi.org/10.11646/phytotaxa.81.1.9
+Solari, S.S. (1987) Lepidozia disticha vs. L. fernandeziensis (Hepaticae). Boletín de la Sociedad Argentina de Botánica 25:
+143–147.
+Stephani, F. (1889) Hepaticae Australiae 3. Hedwigia 28: 257–278.
+Stephani, F. (1909) Species Hepaticarum 3. George & Cie, Genève & Bale, pp. 517–693.
+Stephani, F. (1910) Hepaticae. In: Mildbraed, J. (Ed), Wissenschaftliche Ergebnisse der Deutschen Zentral-Afrika-Expedition,
+1907-1908. Band II: Botanik, Lief. 2. Klinkhart & Biermann, Leipzig, pp. 111-134.
+Stephani, F. (1911) Botanische Ergebnisse der schwedischen Expedition nach Patagonien und dem Feuerlande 1907-1909. II.
+Die Lebermoose. Kungliga Svenska Vetenskapsakademiens Handlingar, ny följd 46 (9): 1–92.
+Stephani, F. (1922) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 241–368.
+Stephani, F. (1924) Species Hepaticarum 6. George & Cie, Genève & Bale, pp. 433-642.
+Stephani, F. & Watts, W.W. (1914) Hepaticae australes. Journal and Proceedings of the Royal Society of New South Wales 48:
+94–135.
+
+62 •
+
+Phytotaxa 97 (2) © 2013 Magnolia Press
+
+COOPER ET AL.
+
+

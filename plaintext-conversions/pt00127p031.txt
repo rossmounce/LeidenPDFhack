@@ -1,0 +1,409 @@
+Phytotaxa 127 (1): 22–31 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.6
+
+Gato hyalinus gen. et sp. nov., an unusual araphid tube-dwelling diatom from
+Western Pacific and Caribbean islands
+CHRISTOPHER S. LOBBAN1 & J. NELSON NAVARRO2
+1
+
+Division of Natural Sciences, University of Guam, Mangilao, GU 96923, USA;
+Email: clobban@uguam.uog.edu (corresponding author)
+2
+Pontifical Catholic University of Puerto Rico, Ponce, PR 00717, USA;
+Email: nnavarro@live.com
+
+Abstract
+A new species of tube-dwelling diatom, unusual in being araphid, is described from benthic coral reef habitats in Guam,
+Palau, Puerto Rico and Jamaica. Gato gen. nov. is heteropolar and heterovalvar, exhibits very fine striae delimiting a
+narrow and irregular sternum, and possesses a series of rimmed pores on each side of the foot pole. One valve of the
+frustule has a rimoportula at the foot pole, but both valves possess a rimoportula at the head pole. The generitype, G.
+hyalinus sp. nov. forms small, branched colonies. Individual cells are oval, slightly tapered along the apical axis, 30–40
+µm x 13–15 µm, with 60–70 striae in 10 µm. On the foot pole with a rimoportula the rimmed pores are connected to the
+sternum by diagonal striae; several additional rimmed pores interrupt transapical striae further up both valves. We
+compare valve structure of G. hyalinus with Florella portoricensis and F. pascuensis, which we report for the first time
+from the Marshall Islands, and to Licmophora spp. We find no taxa to which this genus is related, and can identify no
+structure potentially homologous to the series of rimmed pores among the diatoms.
+Key words: araphid diatom, Bacillariophyceae, coral reefs, tube-dwelling diatom, rimmed pores, rimoportulae
+
+Introduction
+Tube-dwelling diatoms (i.e., those that live in mucilage tubes usually of their own making) occur in many
+marine benthic habitats, from underneath polar ice (Medlin 1990) to tropical reefs (Lobban & Mann 1987,
+Navarro 1987). In many temperate regions they form macroscopic colonies that resemble brown seaweeds
+and can reach bloom populations (Cox 1975, 1981, Lobban 1983, 1989), but most tropical colonies are
+microscopic. Only Nitzschia martiana (C. Agardh 1827: 629) Van Heurck (1896: 406) is exceptionally seen
+with the naked eye (Lobban & Mann 1987, Lobban & Tsuda 2003), but is more commonly discovered with a
+microscope. The taxonomic diversity in marine tube-dwelling diatoms includes several species of Berkeleya
+Greville (1827: pl. 294) and Parlibellus Cox (1988: 19) (Naviculales: Berkeleyaceae) (Cox 1975, 1988,
+Mizuno 1979, Navarro 1987), several species of Navicula Sect. Lineatae (Naviculales: Naviculacae), several
+species of Nitzschia Hassall (1845: 435) (Bacillariales: Bacillariaceae) (Lobban 1984, 1985), and at least two
+species of Gyrosigma Hassall (1845: 435) (Naviculalaes: Pleurosigmataceae) (Smith 1856, Sterrenburg 1989,
+Jansson et al. 1994). In addition, Mastogloia cocconeiformis Grunow (1860: 578) (Mastogloiales:
+Mastogloiaceae) forms branched tubes with a single cell at the base of each branch (John 1993, Hein et al.
+1993). Besides these tube formers, several Navicula and Nitzschia species cohabit tubes made by other
+species (Lobban 1984, Basson & Sims 1998). All taxa mentioned above are biraphid, and many are motile
+within the tubes. However, we encountered an araphid species that forms very small, branched colonies and
+has an apparently hyaline valve face in LM. We describe this species in a new genus and compare it to some
+other araphid taxa from Guam, especially Licmophora C. Agardh (1827: 628) and two species of Florella J.N.
+Navarro (1982: 248).
+
+22
+
+Accepted by M.B. Edlund: 7 May 2011; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Methods
+Diatom samples were collected by hand during scuba diving or snorkeling in Guam, Palau and the Marshall
+Islands (CSL), Puerto Rico and Jamaica (JNN). Live and acid-cleaned samples were observed in LM and
+SEM as described in our previous work on Puerto Rico and Guam (Navarro 1996; Lobban et al. 2010).
+Referenced specimens except the types are in the authors’ collections.
+Terminology: In this genus there are both labiate openings, i.e. rimoportulae, and non-labiate openings. To
+distinguish the latter, and to avoid the assumption that they are homologous to rimoportulae, we adopt the
+descriptive term “rimmed pore” (porus marginatus), which Round et al. (1990) used with reference to a small
+opening in the middle of some valves of Podocystis J.W. Bailey (1854: 11).
+
+New species and genus descriptions
+Division Bacillariophyta
+Class Fragilariophycidae F.E. Round 1990
+Order incertae sedis
+Family incertae sedis
+Gato Lobban & J.N. Navarro gen. nov.
+Frustula heteropolara heterovalvaraque, subtiliter striata, sterno angusto irregulari. Striae porosae, uniseriatae,
+marginem valvarum attingentes. Rimoportula grandior ad polum basalem valvae unae, rimoportula parvior ad
+polos apicales ambo valvarum. Series pororum marginatorum secus marginem valvarum utrinque poli basalis.
+Frustules heteropolar and heterovalvar, finely striated with narrow, irregular sternum. Striae porate, uniseriate,
+continuing to valve border. Larger rimoportula at foot pole of one valve, one smaller rimoportula at head pole of
+each valve. Row of rimmed pores along valve margin on each side of the foot pole.
+Type species:—Gato hyalinus Lobban & J.N. Navarro
+
+Etymology:—From Gr. γάτα, γάτος, cat, with reference to the oblique striae at the foot pole, reminiscent of a
+cat’s whiskers.
+Gato hyalinus Lobban & J.N. Navarro sp. nov. (Figs 1–21)
+Cellulae coloniales in tubis brevibus mucilaginis interdum ramosis. Chloroplasti numerosi lenticulares elongati. Valvae
+ovales parum angustatae versus basem, longitudine 30–40 µm, latitudine 13–15 µm. Striae transapicales
+tenuissimes, ca. 60–70 in 10 µm, paralleles praeter e extremo apicali sterni radians et prope polum basalem
+obliquaras. Rimoportula poli basalis in palla valvarum; rimoportula poli apicalis ad vel ultra extremum apicali
+sterni, prope pallam. Pori marginati non solum 3–5 in quoque lato poli basalis, in exemplum valvae rimoportula
+basali ferens una cum paribus striarum obliquarum e unusquaque versus sternum extensarum, sed etiam aliquot
+irregulariter in striis transapicalis prope marginem positis.
+Cells colonial in short, sometimes branched mucilage tubes. Plastids numerous, elongate lenticular. Valves oval, slightly
+tapered toward foot pole, length 30–40 µm, width 13–15 µm. Transapical striae extremely fine, ca. 60–70 in 10 µm,
+parallel except radiating from head pole of sternum, and oblique at foot pole. Foot pole rimoportula on valve margin;
+head pole rimoportulae at or beyond end of sternum, near edge of mantle. Rimmed pores 3-5 on each side of the foot
+pole, on valve with basal rimoportula associated with pairs of oblique striae extending from each toward the
+sternum, and several others irregularly placed on transapical striae near margin.
+Type:—GUAM. Apra Harbor, GabGab reef, 13° 26' 33.63" N, 144° 38' 34.25" E, acid cleaned material of diatoms,
+epiphytic on algal turf in farmer fish territories, collected 20 June 2009, GU44Z-15, strewn on microscope slide and
+filtered onto Millipore® filter paper. (Specimen circled on microscope slide marked CAS #223005, accession
+#627383, holotype, designated here; SEM stub of collection GU44Z-15 [deposited as holotype of the bleakeleyoid
+diatom Perideraion decipiens Lobban in Lobban et al. (2011)], CAS #627385, isotype, designated here).
+
+GATO HYALINUS FROM PACIFIC AND CARIBBEAN ISLANDS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 23
+
+Etymology:—hyaline, with reference to the lack of structure visible in LM.
+Additional specimens examined:—GUAM: Agana Boat Basin, epiphytic on algal turf just below low
+water line, 29 November 1988, GU26A; GabGab, Apra Harbor, epiphytic on algal turf in farmer fish
+territories, 3 August 2008, GU44O-F, 1 September 2008, GU44P-B, 28 March 2009, GU44W-10 and 10 May
+2009, GU44Y-13; Pete’s Reef, Facpi Pt., 7 September 2008, GU55A-C. PALAU. Toachel ra Ngel, Ulebsechel
+I., 13 April 2009, PW2009-40. PUERTO RICO: Caja de Muertos Island, 27 December 1985; Enrique Reef, 7
+m deep epiphyte on the red alga Amphiroa sp., 8 April 1994, slide #C94-6. JAMAICA: Sponge Gardens, St
+Ann, 27 m deep, 19 November 1995, slide #A96-14.
+Observations:—Colonies (Figs 1–4) are a few cells long, sometimes branched, each cell at the end of a
+section of tube, from which the next section arose off-center; Fig. 4 suggests at least a temporary septum
+within the tubes. In Fig. 1 there appear to be cohabitant naviculoids in the tubes; these have not been
+commonly observed. Gato hyalinus cells are broadly oval, slightly narrower at the basal end, apparently with
+many elongate-lenticular plastids (Figs 1–4), and the cells arranged in the colonies with the narrower pole
+toward the base. Frustules are also slightly tapered in girdle view (Fig. 4). In acid-cleaned valves in LM (Figs
+5, 6), the rimoportulae can be seen, and sometimes a faint sternum, but the striae are too fine to resolve and the
+valves appear hyaline.
+
+FIGURES 1–6: Gato hyalinus light microscopy. Figs 1–4: Live colonies and cells showing mucilage tubes and plastids. Fig. 1.
+Colony showing branching. A Striatella unipunctata cell (S.u.) has attached to the end of one tube and there appear to be naviculoid
+cells inside the tubes (some indicated by arrows). Top part of colony partially overlain by a ribbon of Hyalosira interrupta (H.i.)
+(GU44O-F). Fig. 2: Dividing cell in near-girdle view at apex of colony, at two focal planes. A Licmophora sp. cell (L.) is attached to
+the outside of the tube (GU44O-F). Fig. 3. Cell in valve view (GU44O-F). Fig. 4: Cells in valve and girdle view with some evidence
+of a septum (arrow) within the mucilage tube (GU44W-10). Figs 5–6: Acid cleaned valves in LM, oriented with basal pole to left. Fig.
+5: Valve at two focal planes showing rimoportulae at both poles (arrows) and faint sternum (GU44Z-15). Fig. 6: Valve with two
+rimoportulae (arrows), sternum not visible (GU44Z-15). Scale bars: Figs 1–4 = 20 µm; Figs 5, 6 = 10 µm.
+
+24 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+LOBBAN & NAVARRO
+
+FIGURES 7–11: Gato hyalinus, SEM of valves with rimoportula at foot pole. Figs 7, 8: External view of valve and detail of basal
+pole showing external opening of rimoportula (arrow Fig. 8, also showing apical rimoportula opening, arrow in Fig. 7) and the two
+rows of rimmed pores with associated oblique striae (“cat’s whiskers”). Fig. 9: Internal view of valve with rimoportulae at both poles
+(GU44P-B). Figs 10, 11: Details of basal pole with rimoportula in external and internal views (Puerto Rico sample). Scale bars: 7, 9 =
+10 µm; 8 = 5 µm; 10, 11 = 2 µm.
+
+In SEM, the valve surface is smooth, with rounded margins, striae 60–70 in 10 µm consisting of uniseriate
+rows of simple circular pores (Fig. 19) that extend to the valve border (Figs 7, 8, 10, 11, 20). In places, the
+pattern could be described as quincunx (e.g., Fig. 13) but the spacing between pores in the striae is generally
+insufficiently consistent. There is a narrow, irregular break in the striae along the centerline, barely
+constituting a sternum (Figs 7–16, 20). Striae are parallel except at the head pole, where they radiate from the
+end of the sternum (Figs 16, 20), and in association with the rimmed pores (Figs 8, 10). Both valves have a
+small rimoportula at the head pole near the valve apex, at or beyond the end of the sternum (Figs 9, 12, 13, 16,
+20), but the two valves are different at the foot pole. There, only one valve of the frustule has a rimoportula
+and more strongly oblique striae —the “cat’s whiskers” for which the genus is named (Figs 8, 10), the other
+valve lacks a rimoportula at the foot pole (Figs 12–20). Both foot poles have several large rimmed pores, i.e.,
+
+GATO HYALINUS FROM PACIFIC AND CARIBBEAN ISLANDS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 25
+
+FIGURES 12–19: Gato hyalinus, SEM of valves without rimoportula at foot pole. Figs 12–14: Internal view of valve with
+rimoportula only at apical pole and detail of basal and apical poles (GU55A-C). Apical detail shows rimoportula at end of sternum.
+Basal detail shows irregular striae and rimmed pores. Figs 15, 16: External details of basal and apical poles of a valve with no basal
+rimoportula (GU44Z-15). Fig. 15. Basal pole shows three additional rimmed pores (arrows) interrupting transapical striae. Fig. 16:
+Apical pole shows rimoportula beyond the end of the sternum within the radiating striae. Figs 17, 18: Internal details of basal and
+apical poles of a valve with no basal rimoportula (GU44Z-15). Fig. 17: Detail of rimmed pores at the basal pole. Fig. 18: Detail of
+additional rimmed pore. Fig. 19: Detail of areolae along a fracture through the valve (Puerto Rico sample). Scale bars: Fig. 12 = 10
+µm; Figs 13–16 = 5 µm; Figs 17, 18 = 1 µm; Fig. 19 = 500 nm.
+
+26 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+LOBBAN & NAVARRO
+
+FIGURES 20–26: Figs 20, 21: Gato hyalinus, SEM. Fig. 20: Head pole showing end of sternum (arrow), radiating striae, and
+rimoportula (GU44Z-15). Fig. 21: Portion of girdle bands (internal aspect) (Puerto Rico sample). Fig. 22: Florella portoricensis, LM,
+acid cleaned valve (RMI-M1: 5 m deep, Mile 28, Laura, Majuro Atoll, Marshall Islands). Fig. 23: Florella pascuensis LM, acid
+cleaned valve, showing a rimoportula (arrow) and one of the rows of transapical slits (arrowhead) (RMI-J5: 1 m deep reef on
+Kabbenbock Islet, Jaluit Atoll, Marshall Islands). Figs 24–26: Licmophora spp., SEM. Fig. 24: Foot pole of Licmophora
+proboscidea?, external view showing areolae, rimoportula opening, and multiscissura with 5 slits (GU41D-A1). Fig. 25: Foot pole of
+Licmophora sp. showing internal and external details of multiscissura (11 slits) and rimoportula. Note absence of rimoportula on the
+valve in external view. (Palau specimen.) Fig. 26: Licmophora flabellata, internal view of apex showing an apical rimoportula at end
+of sternum (arrow), plus 2 additional rimoportulae along the sternum (Puerto Rico specimen). Scale bars: Fig. 22, 23 = 10 µm; Fig. 24
+= 5 µm; Figs 21, 26 = 2 µm; Figs 20, 25 = 1 µm.
+
+GATO HYALINUS FROM PACIFIC AND CARIBBEAN ISLANDS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 27
+
+that have slightly thickened rims internally (Figs 7, 8, 10, 11, 15, 17). There are two series of rimmed pores,
+typically 4–5 on each side of the foot pole on the valve with a rimoportula; there are only 3 on those without a
+foot-pole rimoportula. In addition several irregularly placed pores occurred near the foot pole on both valves,
+interrupting 2 or more striae (Fig. 15, 18), but are not observed near the head pole. On valves with a basal
+rimoportula there are pairs of oblique striae extending from the sternum to the basal set of rimmed (Figs 7, 8,
+10, 11); these are not obvious on valves without a basal rimoportula, where only some irregularity in the striae
+was observed (Figs 14, 15, 17). We have little information on girdle bands, but they appear to be finely
+punctate (Fig. 21), similar to the valve surface.
+Genera morphologically most similar to Gato are Florella and Licmophora. We do not suggest that either
+of these is related to Gato. Besides Navarro’s (1982, 1996, 2002) descriptions, we have observed Florella
+portoricensis Navarro (1982: 248, 258, emend Navarro 1996: 304) (Fig. 22) and Florella pascuensis Navarro
+(2002: 284) (Fig. 23) from the Republic of the Marshall Islands; this is the first confirmed report of these
+species from that country, and the first confirmed record of F. portoricensis from the Pacific Ocean. In
+addition Lobban et al. (2012) observed and cultured samples of F. pascuensis from Guam. The valves of
+Florella spp. are isopolar with parallel striae of cribrate areolae continuing unbroken to the valve border from
+an indistinct sternum; there are no pore fields. F. portoricensis has a series of rudimentary rimoportulae at
+each apex, indistinguishable from areolae except in internal SEM views, whereas F. pascuensis has two
+labiate rimoportulae, one at each end of the sternum, visible even in LM (Navarro 1996, 2002). F. pascuensis
+also has a unique pattern of slit-like areolae at each end.
+Frustules of Licmophora spp., on the other hand, are heteropolar and heterovalvar. A series of (5 to >30)
+simple slits at the foot pole is developed into a distinctive multiscissura (Figs 24, 25). The areolae (Fig. 24) are
+separated by virgae and viminae (Honeywill 1988). Although the rimoportulae of most Licmophora species
+are labiate rimoportulae (Fig. 25), in L. flabellata (Carmichael mscr. 1826, according to Agardh) C. Agardh
+(1831: 41, emend Sar & Ferrario 1990: 404) the head pole rimoportula and the unique series of extra
+rimoportulae along the sternum lack labia (Fig. 26). These have been characterized by Sar & Ferrario (1990)
+as “sessile rimoportulae” and are perhaps similar in structure (though not position) to the rimmed pores in
+Gato.
+
+Discussion
+Based on morphological criteria Gato does not appear close to any known genus of araphid diatoms.
+Licmophora species are an intriguing comparison because, like Gato, all are heteropolar, with distinctive
+structure at the basal pole; many are also heterovalvar with a basal rimoportula on only one valve. Some
+species of Licmophora have a rimoportula at the head pole on both valves, others have only one on the valve
+that lacks a foot-pole rimoportula. However, while the multiscissura might have a similar function to the
+series of basal rimmed pores in Gato, there is no evidence of homology, and there is no reason to suppose a
+relationship between Gato and Licmophora. The general structure of Florella is similar to Gato and unlike
+other araphids, but the symmetrical valves and the colony type are not like Gato. The most characteristic
+feature of Gato is the series of rimmed pores, for which we can find no parallel. Most araphids have a single
+rimoportula at one or both poles, but Sar & Ferrario (1990) have shown that L. flabellata is an exception. The
+Florellaceae Navarro (1996: 301) was established on the basis of a single species (now it has two species), and
+its limits may need emending, but for the time being we leave Gato without familial or ordinal assignment.
+The tube-dwelling habit of Gato is so far unique among araphids, but there is no reason to suppose a
+correlation between valve structure (e.g., the rimmed pores) and tube formation. While mucilage is often
+associated with apical pore fields (e.g., Grammatophora Ehrenberg (1840: 46), see Sato et al. 2008) or
+distinctive pores (e.g., partectal pores in some Mastogloia Thwaites in W. Smith (1856: 63), see Stephens &
+Gibson 1979; Hein et al. 1993), no special structure is present in raphid tube-forming diatoms (Cox 1981;
+Lobban 1989). Similarly, while stalk secretion in Licmophora might be associated with the multiscissura, no
+
+28 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+LOBBAN & NAVARRO
+
+evident structural features at the attachment pole are present in other taxa attached to stalks [e.g., Mastogloia
+inaqeualis Cleve (1895: 250) and M. cuneata (Meister 1937: 268) Simonsen (1990: 134)– Lobban et al.
+(2012), Climacosphenia Ehrenberg (1843: 401) spp., Ardissonea De Notaris in De Notaris & Baglietto (1870:
+no. 334) spp.] or attached by a mucilage pad at one pole [e.g., Podocystis spp., Toxarium undulatum Bailey
+(1854: 15)]. Although diatom movement is most often associated with the raphe system, araphid diatoms can
+also move. For example Toxarium J.W. Bailey (1854: 15) cells moved with one pole in contact with the
+substratum (Kooistra et al. 2003) but has no special structures to allow movement.
+Gato hyalinus is easily overlooked as a girdle band in acid cleaned samples in LM but on the basis of our
+records of in the western Pacific and the Caribbean, we expect that it is widespread in the tropics.
+
+Acknowledgements
+CSL acknowledges NIGMS RISE funding for LM and SEM instruments on Guam and thanks Richard W.
+Jordan (Yamagata U.) and Matt Ashworth (U. Texas, Austin) for assistance with SEM, María Schefter for
+continuous encouragement and support, Isumech Ngirairkl for Fig. 25, and COMNAVMAR for access to the
+type locality at GabGab, Naval Station Guam. JNN thanks Integrated Microscope Resource at the University
+of Wisconsin at Madison for its help with the use of the SEM.
+
+References
+Agardh, C.A. (1827) Aufzählung einiger in den östreichischen Ländern gefundenen neuen Gattungen und Arten von
+Algen, nebst ihrer Diagnostik und beigefügten Bemerkungen. Flora 10: 625–646.
+Agardh, C.A. (1831) Conspectus criticus Diatomacearum. Part 3. Lundae. Litteris Berlingianis, pp. 33–48.
+Bailey, J.W. (1854) Notes on new species and localities of microscopical organisms. Smithsonian Contributions to
+Knowledge 7(3): 1–15, 1 pl.
+Basson, P.W. & Sims, P.A. (1998) A tube-dwelling diatom and its co-habitant from South Africa. Diatom Research 13:
+395–401.
+http://dx.doi.org/10.1080/0269249x.1998.9705457
+Boyer, C.S. (1927) Synopsis of North American Diatomaceae, supplement, part 2 -Naviculatae, Surirellatae.
+Proceedings of the Academy of Natural Sciences of Philadelphia 79: 229–583.
+Cleve, P.T. (1895) Synopsis of the Naviculoid Diatoms, Part II. Kongliga Svenska-Vetenskaps Akademiens Handlingar
+27(3): 1–219, 4 pls.
+Cox, E.J. (1975) A reappraisal of the diatom genus Amphipleura Kütz. using light and electron microscopy. British
+Phycological Journal 10: 1–12.
+http://dx.doi.org/10.1080/00071617500650011
+Cox, E.J. (1981) Mucilage tube morphology of three tube-dwelling diatoms and its diagnostic value. Journal of
+Phycology 17: 72–80.
+http://dx.doi.org/10.1111/j.1529-8817.1981.tb00821.x
+Cox, E.J. (1988) Taxonomic studies on the diatom genus Navicula Bory. V. The establishment of Parlibellus gen. nov.
+for some members of Navicula sect. Microstigmaticae. Diatom Research 3: 9–38.
+http://dx.doi.org/10.1080/0269249x.1988.9705014
+De Notaris, G. & Baglietto, F. (1870) Erbario Crittogamico Italiano, Exsiccata. Ser. II, Fasc. VII. Genova. no. 301-350.
+Ehrenberg, C.G. (1840) Über noch zahlreich jetzt lebende Thierarten der Kreidebildung und den Organismus der
+Polythalamien. Berlin 94 pp., 4 pls.
+Greville, R.K. (1827) Scottish Cryptogamic Flora, or coloured figures and descriptions of cryptogamic plants, belonging
+chiefly to order Fungi. Volume 5, pls 241-30. Edinburgh and London, 360 pls. + 1 colour plate.
+Grunow, A. (1860) Über neue oder ungenügend gekannte Algen. Erste Folge, Diatomeen, Familie Naviculaceen.
+Verhandlungen der Kaiserlich-Königlichen Zoologisch-Botanischen Gesellschaft in Wein 10: 503–582, Tabs III–
+VII.
+Hassall, A.H. (1845) A history of the British Freshwater Algae (including descriptions of the Diatomaceae and
+Desmidiaceae) with upwards of one hundred Plates. Taylor, Walton, and Maberly, London. 462 pp.
+Hein, M.K., Winsborough, B.M., Davis, J.S. & Golubic, S. (1993) Extracellular structures produced by marine species of
+
+GATO HYALINUS FROM PACIFIC AND CARIBBEAN ISLANDS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 29
+
+Mastogloia. Diatom Research 8: 73–88.
+http://dx.doi.org/10.1080/0269249x.1993.9705240
+Honeywill, C. (1998) A study of British Licmophora species and a discussion of its morphological features. Diatom
+Research 13: 221–271.
+http://dx.doi.org/10.1080/0269249x.1998.9705450
+Jansson, B., Sundbäck, K. & Nilsson, C. (1994) An upright life-form of an epipelic motile diatom: Gyrosigma balticum.
+European Journal of Phycology 29: 11–15.
+http://dx.doi.org/10.1080/09670269400650421
+John, J. (1993) Morphology and ultrastructure of Mastogloia cocconeiformis (Bacillariophyta) from Shark Bay, Western
+Australia. Phycologia 32: 388–394.
+http://dx.doi.org/10.2216/i0031-8884-30-6-556.1
+Kooistra, W.H.C.F., De Stefano, M., Mann, D.G., Salma, N. & Medlin, L.M. (2003) Phylogenetic position of Toxarium, a
+pennate-like lineage within centric diatoms (Bacillariophyceae). Journal of Phycology 39: 185–197.
+http://dx.doi.org/10.1046/j.1529-8817.2003.02083.x
+Lobban, C.S. (1983) Colony and frustule morphology of three tube-dwelling diatoms from eastern Canada. Journal of
+Phycology 19: 281–289.
+http://dx.doi.org/10.1111/j.0022-3646.1983.00281.x
+Lobban, C.S. (1984) Marine tube-dwelling diatoms of eastern Canada: descriptions, checklist, and illustrated key.
+Canadian Journal of Botany 62: 778–794.
+http://dx.doi.org/10.1139/b84-114
+Lobban, C.S. (1985) Marine tube-dwelling diatoms of the Pacific coast of North America. I. Berkeleya, Haslea,
+Nitzschia, and Navicula Sec. Microstigmaticae. Canadian Journal of Botany 63: 1779–1784.
+http://dx.doi.org/10.1139/b85-249
+Lobban, C.S. (1989) Environmental factors, plant responses and colony growth in relation to tube-dwelling diatom
+blooms in the Bay of Fundy, Canada, with a review of the biology of tube-dwelling diatoms. Diatom Research 4:
+89–109.
+http://dx.doi.org/10.1080/0269249x.1989.9705055
+Lobban, C.S. & Mann, D.G. (1987) The systematics of the tube-dwelling diatom Nitzschia martiana and Nitzschia
+section Spathulatae. Canadian Journal of Botany 65: 2396–2402.
+http://dx.doi.org/10.1139/b87-326
+Lobban, C.S. & Tsuda, R.T. (2003) Revised checklist of benthic marine macroalgae and seagrasses of Guam and
+Micronesia. Micronesica 35–36: 54–99.
+Lobban, C.S., Ashworth, M.P. & Theriot, E.C. (2010) Climaconeis species (Bacillariophyceae: Berkeleyaceae) from
+western Pacific islands, including C. petersonii sp. nov. and C. guamensis sp. nov., with emphasis on the plastids.
+European Journal of Phycology 45: 293–307.
+http://dx.doi.org/10.1080/09670262.2010.490924
+Lobban, C.S., Ashworth, M.P., Arai, Y., Jordan, R.W. & Theriot, E.C. (2011) Marine necklace-chain Fragilariaceae
+(Bacillariophyceae) from Guam, including descriptions of Koernerella and Perideraion, genera nova. Phycological
+Research 59: 175–193.
+http://dx.doi.org/10.1111/j.1440-1835.2011.00616.x
+Lobban C.S., Schefter, M., Jordan, R.W., Arai, Y., Sasaki, A., Theriot, E.C., Ashworth, M., Ruck, E.C. & Pennesi, C.
+(2012) Coral-reef diatoms (Bacillariophyta) from Guam: new records and preliminary checklist, with emphasis on
+epiphytic species from farmer-fish territories. Micronesica 43: 237–479.
+Medlin, L.M. (1990) Berkeleya spp. from Antarctic waters, including Berkeleya adeliensis, sp. nov., a new tube dwelling
+diatom. Beihefte zur Nova Hedwigia 100: 77–89.
+Meister, F. (1937) Seltene und neue Kieselalgen. II. Berichte der Schweizerischen Botanischen Gesellschaft 47:258–276;
+pls. 3–13.
+Mizuno, M. (1979) Taxonomic study on Berkeleya obtusa (Grev.) Grunow (Bacillariophyceae) from Hokkaido, Japan.
+Japanese Journal of Phycology (Sôrui) 27: 175–181.
+Navarro, J.N. (1982) A survey of the marine diatoms of Puerto Rico. IV. Suborder Araphidinae: Families Diatomaceae
+and Protoraphidaceae. Botanica Marina 25: 247–263.
+http://dx.doi.org/10.1515/botm.1982.25.6.247
+Navarro, J.N. (1987) Observations of a tube-dwelling diatom: Navicula hamulifera (Bacillariophyceae). Journal of
+Phycology 23: 164–170.
+http://dx.doi.org/10.1111/j.1529-8817.1987.tb04439.x
+Navarro, J.N. (1996) New observations on the araphid diatom Florella portoricensis (Florellaceae fam. nov.). Diatom
+Research 11: 297–304.
+http://dx.doi.org/10.1080/0269249x.1996.9705386
+Navarro, J.N. (2002) Florella pascuensis sp. nov., a new marine diatom species from Easter Island (Isla de Pascua),
+
+30 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+LOBBAN & NAVARRO
+
+Chile. Diatom Research 17: 283–289.
+http://dx.doi.org/10.1080/0269249x.2002.9705548
+Round, F.E., Crawford, R.M. & Mann, D.G. (1990) The Diatoms. Biology and morphology of the genera. Cambridge
+University Press, Cambridge. 747 pp.
+Sar, E.A. & Ferrario, M.E. (1990) Licmophora flabellata. Ultrastructure and taxonomy. 1. Implication. Diatom Research
+5: 403–408.
+http://dx.doi.org/10.1080/0269249x.1990.9705130
+Sato, S., Mann, D.G., Nagumo, T., Tanaka, J., Tadano, T. & Medlin, L.K. (2008) Auxospore fine structure and variation
+in modes of cell size changes in Grammatophora marina (Bacillariophyta). Phycologia 47: 12–27.
+http://dx.doi.org/10.2216/07-34.1
+Simonsen, R. (1990) On some diatoms of the genus Mastogloia. Beihefte zur Nova Hedwigia 100: 121–142, 9 pls.
+Smith, W.S. (1856) A Synopsis of the British Diatomaceae. Volume 2. John van Voorst, London. 107 pp + pls 32–60.
+Sterrenburg, F.A.S. (1989) Studies on tube-dwelling Gyrosigma populations. Diatom Research 4: 143–150.
+http://dx.doi.org/10.1080/0269249x.1989.9705059
+Stephens, F. C. & Gibson, R.A. (1979) Observations of loculi and associated extracellular material in several Mastogloia
+(Bacillariophyceae) species. Revue Algologique, nouvelle serie, 14: 21–32.
+Thwaites, G.H.K. (1848) Further observations on the Diatomaceae with descriptions of new genera and species. Annals
+and Magazine of Natural History, 2nd series, 1: 161–172, pls 11, 12.
+http://dx.doi.org/10.1080/03745485809496091
+Van Heurck, H. (1896) A Treatise on the Diatomaceae. Translated by W.E. Baxter. William Wesley & Son, London. 558
+pp., 35 pls.
+
+GATO HYALINUS FROM PACIFIC AND CARIBBEAN ISLANDS
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 31
+
+

@@ -1,0 +1,416 @@
+Phytotaxa 127 (1): 100–112 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+Article
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.127.1.12
+
+Morphological features and new description of the fossil species Thalassiosira
+dolmatovae (Bacillariophyceae)
+ANDREY GLADENKOV
+Geological Institute of Russian Academy of Sciences, Pyzhevskii per., 7. Moscow 119017, Russia
+E-mail: agladenkov@ilran.ru (corresponding author)
+
+Abstract
+Specimens of the Neogene marine diatom Thalassiosira dolmatovae have been studied with a scanning
+electron microscope for the first time. The observations revealed the morphological features typical of this
+species including arrangement of different kinds of processes. T. dolmatovae has one single subcentral strutted
+process, a ring of marginal strutted processes, a labiate process located at the margin and enclosed by two
+strutted processes. Marginal strutted processes with outward extensions and without inward extensions have
+internal openings surrounded by 4 satellite pores. The location of a labiate process not on the valve face and
+the presence of marginal strutted processes with outward extensions indicate that the studied species really
+belongs to genus Thalassiosira not to genus Shionodiscus. A valid description of T. dolmatovae is given.
+
+Introduction
+The diatom species Thalassiosira dolmatovae was described (but as a nodem nudum, see below) from the
+Neogene of Karaginsky Island stratigraphic section, northeastern Kamchatka (Fig. 1), by T. Oreshkina (1992)
+based on material studied with a light microscope (LM). Stratigraphic and paleontological data of the last two
+decades indicate this fossil diatom is typical of the Neogene marine onshore sequences from Kamchatka and
+Alaska (Oreshkina 1992; Dolmatova 1992a, b; Marincovich & Gladenkov 1999, 2001; Gladenkov 2003,
+2006). Similar taxa are also known to be typical of the Neogene sequences from Sakhalin, Japan, California,
+and bottom sediments from the North Pacific. Morphology and taxonomy of a number of taxa from oceanic
+sediments have been studied in detail with a scanning electron microscope (SEM) by Bodén (1993), Shiono
+(2000, 2001) and Shiono & Koizumi (2000, 2001). As a result, the revision of some species has been carried
+out and several new species and forms from genus Thalassiosira Cleve (1873: 6) have been described based on
+a location of rimoportula (labiate process), number and arrangement of fultoportula (strutted processes),
+structure of strutted processes (operculate, or trifultate), possession of occluded processes, and a presence of
+central occluded areolae. The stratigraphic occurrence of these new taxa and related species in the northwest
+Pacific has been also clarified. The obtained results allowed distinguishing Thalassiosira trifulta G. Fryxell in
+Fryxell & Hasle (1979: 16–19) group with a definition of its three different subgroups, and speculation on the
+phylogenic evolution of the group (Shiono & Koizumi 2000, 2001).
+Data on the stratigraphic occurrence of T. dolmatovae indicates this species is a potential biostratigraphic
+marker for the uppermost Miocene to upper Pliocene sequences in Alaska and Kamchatka ranging within the
+interval corresponding to the North Pacific Neodenticula kamtschatica (Zabelina) Akiba & Yanagisawa
+(1986: 490–491) diatom Zone to Neodenticula koizumii Akiba & Yanagisawa (1986: 491) Zone (Oreshkina
+1992; Dolmatova 1992a, b; Gladenkov et al. 2002; Gladenkov 2003, 2006). However, detailed morphological
+features of T. dolmatovae including different types of processes, their structure and arrangement remained
+
+100 Accepted by M.L. Julius: 28 Nov. 2012; edited version received at publisher: 4 Jun. 2013; published: 29 August 2013.
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+unknown because they had never been observed by means of SEM. In order to bridge a gap and compare them
+with resembling taxa, specimens of T. dolmatovae have been studied with SEM for the first time. Moreover,
+the original description of T. dolmatovae by Oreshkina (1992) is invalid because it lacks a holotype, thus the
+valid description of this taxa should be given.
+
+FIGURE 1: Locations of the Cenozoic stratigraphic sections (black circles) in the North Pacific region where Thalassiosira
+dolmatovae is documented. 1—Karaginsky Island section, northeastern Kamchatka. 2—Sandy Ridge section, the Alaska Peninsula,
+southwestern Alaska
+
+Materials and Methods
+Specimens of T. dolmatovae derived from the samples collected from the Neogene Milky River Formation at
+the Sandy Ridge stratigraphic section of the Alaska Peninsula, southwestern Alaska were studied (Figs. 1, 2).
+As it was shown by results obtained on diatom stratigraphy (Gladenkov 2003, 2006), T. dolmatovae is typical
+of fossil diatom assemblages from the Milky River Formation occurring consistently and relatively
+abundantly through the section with an age range of ~5.5 to 4.8 Ma (Figs. 2, 3). Sample material (#CAS
+608382, CAS 608400, and CAS 60269-s) is deposited at Geological Institute of Russian Academy of
+Sciences, Moscow, Russia, and duplicates of strewn slides are deposited at the California Academy of
+Sciences, San Francisco, USA.
+
+THALASSIOSIRA DOLMATOVAE, A NEW FOSSIL SPECIES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 101
+
+FIGURE 2: Generalized stratigraphic column of the Milky River Formation at the Sandy Ridge stratigraphic section with levels of
+diatom-bearing samples (after Gladenkov 2003, 2006) and occurrence of Thalassiosira dolmatovae. 1—fine- and medium grained
+sandstones. 2—coarse and very coarse grained sandstones. 3—conglomerates and gritstones. 4—coal. 5—tuff. T.—Thalassiosira.
+C.—Cosmiodiscus. Arrows indicate the levels of the first (F) and last (L) occurrences of biostratigraphically important diatom species.
+The wavy line indicates an angular unconformity separating the Milky River Formation and underlying strata.
+
+102 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+GLADENKOV
+
+FIGURE 3: Correlation of the Milky River Formation at the Sandy Ridge stratigraphic section with the North Pacific diatom zonation
+based on data of diatom stratigraphy indicating a latest Miocene to early Pliocene age (modified from Gladenkov 2003, 2006). Q—
+Quaternary. a–c—subzones. Diatom zonation of Barron & Gladenkov (1995) for the last 8 myr correlated to the geochronologic time
+scale of Berggren et al. (1995).
+
+The procedure including a treatment by acetic acid and sodium pyrophosphate, and the following
+centrifugation with heavy liquid described by Gladenkov (2003) was used to process the samples for SEM
+and LM. Strewn slides were mounted in Naphrax mounting medium (index of diffraction = 1.74) for LM
+observation. The LM pictures were taken using Jeneval (Jeiss) and Leica DMRB light microscopes, and the
+SEM pictures were taken using Hitachi S–520 and LEO 1450 VP scanning electron microscopes at the
+California Academy of Sciences.
+Diatom terminology follows that of Anonymous (1975). Numerical ages, geological epochs and
+subepochs used herein according to the Cenozoic geochronologic scale after Berggren et al. 1995. The North
+Pacific Neogene diatom zonation follows Barron & Gladenkov (1995).
+
+New species description
+Division Bacillariophyta
+Class Coscinodiscophyceae F.E. Round & R.M. Crawford in Round et al. 1990 emend. Medlin & Kaczmarska
+2004
+
+THALASSIOSIRA DOLMATOVAE, A NEW FOSSIL SPECIES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 103
+
+Order Thalassiosirales Glezer & Makarova 1986
+Family Thalassiosiraceae Lebour 1930
+Genus Thalassiosira Cleve (1873: 6)
+Thalassiosira dolmatovae Oreshkina ex A. Gladenkov sp. nov. (Figs. 4–29)
+Synonyms:—Thalassiosira sp. 9 Dolmatova 1992b (p. 86, pl. 30, figs. 1–5); Thalassiosira dolmatovae Oreshkina 1992
+(p. 129, pl. XL, figs. 7, 8), invalid species name.
+Valves circular, slightly convex to almost flat, diameter 12–37 µm. On valve face size of the areolae gradually decreases
+from the centre (3–5 areolae in 10 µm) towards the margin, in irregular, concentric wavy arrangement. Abrapt
+change in areolae pattern at marginal zone, up to 19–25 areolae in 10 µm near the margin, arranged in sublinear to
+tangental rows. Margin is hyaline, 0.7–1.5 µm wide. Simple external (occluded) processes are scattered on the valve
+face between areolae. One single strutted process occurs near the valve center between two areolae, one of which
+has a smaller size than other central areolae. 4–6 strutted processes in 10 µm are located along the margin zone near
+the boundary between valve face and low mantle. Internal openings of central and marginal strutted processes are
+surrounded by 4 satellite pores. External opening of central process as a simple rounded opening, and marginal
+processes have external extensions. One single labiate process is located at the margin and enclosed by two strutted
+processes. External opening of labiate process is simple.
+Type:— USA. Alaska: Sandy Ridge stratigraphic section of the Alaska Peninsula, Milky River Formation, 56° 70' N,
+159° 92' W, material from 28 m above an angular unconformity with the underlying Bear Lake Formation, (Circled
+specimen (Fig. 4a–c) on slide Slide 608382/1, Sample #CAS 608382, (Geological Institute, Russian Academy of
+Sciences, Moscow, Russia), holotype, designated here; circled specimen (Fig. 5) on Slide #608382/2, Sample #CAS
+608382, (Geological Institute, Russian Academy of Sciences, Moscow, Russia), isotype, designated here; material
+from 139.9 m above an angular unconformity with the underlying Bear Lake Formation, circled specimen (Fig. 8a–
+b) on Slide #608400/1, Sample #CAS 608400 (Geological Institute, Russian Academy of Sciences, Moscow,
+Russia), paratype, designated here).
+
+Occurrence:—Marine neritic species. Marine deposits of the latest Miocene to early Pliocene (the North
+Pacific Neodenticula kamtschatica diatom Zone) of the Alaska Peninsula, southwestern Alaska; the latest
+Miocene to late Pliocene (the Neodenticula kamtschatica Zone to Neodenticula koizumii Zone) of Karaginsky
+Island, northeastern Kamchatka.
+Remarks:—This species is distinguished from Thalassiosira baldaufii Bodén (1993: 68) by the presence
+of one single central strutted process on the valve face, by the absence of prominent marginal occluded
+processes, and by areolae pattern. It is similar to Thalassiosira labimarginata Bodén (1993: 68) but differs by
+larger valve diameter, wider hyaline margin, and size of areolae and their arrangement.
+Etymology:—The species is named in honour of Dr. Lora M. Dolmatova who studied fossil diatoms from
+Russian Far East during many years.
+
+Observations
+Specimens of T. dolmatovae from Alaskan material have circular valves, varying from slightly convex to
+almost flat (Figs. 4–11, 14–17), with a diameter ranging between 12 and 37 µm, the majority of observed
+specimens with diameters around 18–30 µm. Areolae on valve face showing a rounded-polygonal image in
+LM with an irregular arrangement to concentrically wavy rows (Figs. 4–8). On the valve face size of the
+areolae gradually decrease from the centre (3–5 areolae in 10 µm), with an abrupt change in the size of areolae
+in the submerginal zone approximately from the boundary between valve face and low mantle where up to
+19–25 areolae in 10 µm near the margin are arranged in sublinear to tangental rows (Figs. 9, 15–17, 28, 29).
+The internal cribra of areolae seems to be subcircular in outline (Figs. 12, 13), but as a rule cribra is eroded.
+Most of specimens have external bulges between areolae giving to valve face a relief undulate image in SEM
+(Figs. 14, 15, 17). In some cases small rounded openings are observed at the top of these projections (Figs. 17,
+28) which may be regarded as simple external (occluded) processes. Margin is hyaline, 0.7–1.5 µm wide.
+
+104 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+GLADENKOV
+
+FIGURES 4–10: Thalassiosira dolmatovae, LM (Figs. 4–8), SEM (Figs. 9–10), external views of whole valves. Arrows show central
+fultoportula. Black line segment is scale bar = 10 µm for Figs. 4–8. a–c—valve in different focus. Fig. 4. Holotype. Fig. 5. Isotype.
+Figs. 4–6, 9–10, sample #CAS 608382. Fig. 7, #CAS 60269-s. Fig. 8. Paratype, Sample #CAS 608400.
+
+THALASSIOSIRA DOLMATOVAE, A NEW FOSSIL SPECIES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 105
+
+FIGURES: 11–17: Thalassiosira dolmatovae, SEM. Figs. 11, 14–17. External views of whole valves. Fig. 12. Internal view of whole
+valve with arrow showing the areolae with internal cribra. Fig. 13. Enlargement of areolae with internal cribra. Fig. 14. Black arrows
+show external extensions of marginal strutted processes, white arrow shows external opening of central strutted process. Fig. 15.
+Arrows show external extensions of marginal strutted processes. Fig. 17. Short arrows show openings of simple external (occluded)
+processes scattered on the valve face, long arrow shows external opening of central strutted process. Figs. 11, 16, #CAS 608400. Figs.
+12–13, #CAS 60269-s. Figs. 14–15, 17, #CAS 608382.
+
+106 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+GLADENKOV
+
+FIGURES 18–23: Thalassiosira dolmatovae. SEM Fig. 18. Internal view of the valve with arrow showing occluded (?) areolae (OA).
+Fig. 20. Internal view of the valve showing labiate process (LP), copula (C), central fultoportula (CF) and marginal strutted processes
+(short white arrows) surrounded by 4 satellite pores. Fig. 19, 21, 23. External views of valves center showing opening of central
+strutted process (long arrows) and occluded (?) areolae (short arrows). Fig. 22. Enlarged fragment of Fig. 18 showing central
+fultoportula (CF), occluded (?) areolae (OA), and marginal strutted processes (short arrows). Figs. 18–22, #CAS 608382. Fig. 23,
+#CAS 60269.
+
+THALASSIOSIRA DOLMATOVAE, A NEW FOSSIL SPECIES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 107
+
+FIGURES 24–29: Thalassiosira dolmatovae, SEM. Figs. 24, 25 (enlarged fragment of Fig. 18), 27. Internal views of the valves
+showing central fultoportula (CF) and marginal strutted processes (MF) surrounded by 4 satellite pores, labiate processes (LP), and
+copula (C). Fig. 26. Internal view of the valve showing broken labiate processes (LP), central fultoportula (CF), and marginal strutted
+processes (black arrows). Fig. 28 (enlarged fragment of Fig. 17). External view of the valve with white arrows showing openings of
+simple occluded processes scattered on the valve face, and black arrow showing rounded opening of marginal strutted process. Fig. 29
+(enlarged fragment of Fig. 15). External view of the valve with arrows showing outward extensions of marginal strutted processes with
+small rounded openings on their tops. Fig. 24, #CAS 60269-s. Figs. 25–26, 28–29, #CAS 608382. Fig. 27, #CAS 608400.
+
+108 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+GLADENKOV
+
+One single strutted process occurs somewhat away from the valve center between two areolae, closer to
+the areola having a smaller size than other central areolae (Figs. 4, 6, 9, 10). Central fultoportula has no
+external extension and discernible as a small rounded opening on the outside of the valve (Figs. 9, 10, 17, 19,
+21, 23). Internal opening has the form of slightly raised rim surrounded by 4 satellite pores (Figs. 20, 24, 25,
+27). To a certain extent the smaller areolae closer to central strutted process bears resemblance to the
+internally occluded “occluded areolae” defined by Shiono (2000, 2001). In contrast to external view of valves,
+internal view of T. dolmatovae shows the absence of internal opening of this areolae but the presence of dark
+circle looks like the occluded areolae (Figs. 18, 22).
+Four to 6 strutted processes in 10 µm separated by 3–4 areolae are located at the submarginal zone and
+positioned at approximately the same distance from the margin near the boundary between the valve face and
+the mantle where the size of areolae decreases abruptly (Figs. 14, 15, 20, 22, 25–27, 29). The fultoportula’s
+internal openings in the form of slightly raised rims surrounded by 4 satellite pores are observed on the inside
+of the valve (Figs. 20, 25, 27). Strutted processes have external extensions discernible as knob-like projections
+with small rounded openings on their tops (Figs. 14, 15, 28, 29). Previously these projections have been
+regarded as marginal occluded processes by the author (Gladenkov 2010). However, additional study and
+discussions with colleagues at the 21st International Diatom Symposium held in 2010 allow recognizing them
+as external extensions of marginal strutted processes. One single labiate process with internal radially oriented
+slit and on a short stalk is located at the margin and enclosed by two strutted processes (Figs. 20, 24–26).
+Externally, the rimoportula appears as a small rounded opening indistinguishable from the areolae. Morphology
+of the girdle region was not studied, although the copula slitted near the whereabouts of labiate process, and
+radially “ribbed” copula were observed occasionally on the inside of the valve (Figs. 20, 24, 25, 27).
+
+Discussion
+The presence of structure looks like the “occluded areolae” defined by Shiono (2000, 2001) in the valve centre
+of T. dolmatovae is quite surprise. As showed Shiono & Koizumi (2001) occluded areolae (or pore-like
+structure) are typical of only their Thalassiosira bipora Shiono (2000: 139) subgroup from Thalassiosira
+trifulta group. This subgroup comprises of taxa lacking external spines and projections, and having a labiate
+process located on the valve face. Recently these and related taxa with a rimoportula being distant from the
+margin, and with long inward and reduced or absent outward extensions, have been transferred from genus
+Thalassiosira to new genus Shionodiscus A.J. Alverson, S.-H. Kang & E.C. Theriot (2006: 258). However,
+occluded areolae were unknown for Thalassiosia species having a labiate process located not onto valve face
+and external projections as T. dolmatovae does. So probably, T. dolmatovae is the first example of possession
+of all these morphological features, and its possible relation with “Thalassiosira bipora” subgroup may be
+speculated in the future.
+Comparison. T. dolmatovae is distinguished from specimens of T. baldaufii Bodén by the presence of one
+single central strutted process on the valve face, by the absence of prominent marginal occluded processes,
+and by areolae pattern. It differs from T. labimarginata Bodén by larger valve diameter, wider hyaline margin,
+and size of areolae and their arrangement. On an abrupt decrease in the size of areolae at the submarginal zone
+T. dolmatovae resembles some taxa from genus Shionodiscus Alverson, Kang et Theriot (previously attributed
+to genus Thalassiosira), namely Shionodiscus biporus (Shiono) Alverson, Kang et Theriot (2006: 259), S.
+centrus (Shiono) Alverson, Kang et Theriot (2006: 259), S. depressus (Shiono) Alverson, Kang et Theriot
+(2006: 259), S. exceptiunculus (Shiono) Alverson, Kang et Theriot (2006: 259), S. frenguelliopsis (Fryxell et
+Johansen) Alverson, Kang et Theriot (2006: 259), S. tetraoestrupii (Bodén) Alverson, Kang et Theriot (2006:
+260), and S. tetraoestrupii var. reimeri (Mahood et Barron) Alverson, Kang et Theriot (2006: 260). However,
+in contrast to Shionodiscus taxa T. dolmatovae has marginal strutted processes with outward extensions, a
+labiate process located at the margin, and occluded processes scattered on the valve face. Thus, T. dolmatovae
+can not be transferred from genus Thalassiosira to genus Shionodiscus.
+THALASSIOSIRA DOLMATOVAE, A NEW FOSSIL SPECIES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 109
+
+Distribution. T. dolmatovae is known from the latest Miocene to late Pliocene marine neritic diatom
+assemblages of northeastern Kamchatka (Oreshkina 1992, Dolmatova 1992a, b) and latest Miocene to early
+Pliocene assemblages of southwestern Alaska (Gladenkov et al. 2002; Gladenkov 2003, 2006). Resembling
+taxa referred to as Thalassiosira cf. tetraoestrupii var. reimeri Mahood et Barron was also documented from
+the latest Miocene to late Pliocene of southern Sakhalin and northern Hokkaido (Akiba et al 2000). Notable,
+in Northern Hokkaido area it occurs commonly to abundantly just around the boundary between Neodenticula
+kamtschiatica Zone and Neodenticula koizumii–Neodenticula kamtschatica Zone, just like a short but very
+remarkable marker bed (Akiba, personal communication 2010). Moreover, specimens similar to T.
+dolmatovae under LM and referred to as Thalassiosira sp. 2 were noted and illustrated from deposits assigned
+to the uppermost Miocene–lower Pliocene in borehole А–2 drilled in Aiyon Island, the East Siberian Sea
+(Stepanova 1989). However, further study of mentioned taxa under SEM should finally clarify their
+taxonomic position because the location of labiate process, the number and structure of strutted processes
+(operculate, or trifultate) and other morphological features are unknown for the present.
+
+Conclusions
+The original description of T. dolmatovae by T. Oreshkina (1992, p. 129) based only on LM observation is in
+Russian. My English translation of the diagnosis is as follows: “Valve circular, flat, diameter 15–20 µm.
+Areolae are in rarefied concentrically wavy rows, 3–4 areolae in 10 µm in the valve center, near the margin
+areolae are considerable smaller, 10–12 in 10 µm. One or several strutted processes are in the center. Distinct
+marginal strutted processes are located at the boundary between valve face and mantle, 4–5 in 10 µm. Margin
+hyaline, 2–3 µm in wide”. However, data obtained with SEM revealed only subcentral strutted process not
+“several strutted processes in the center”. Possibly, combinations of central strutted process and the nearest
+areolae of relatively small size, or central fultoportula and adjacent external processes have been interpreted
+as “central strutted processes” under LM. Also SEM observation shows the presence of simple external
+(occluded) processes scattered on the valve face. These processes have not been noted in the original
+description but the presence of “mucous pores” scattered on the whole valve face was mentioned by L.
+Dolmatova (1992b, p. 86) in her informal description of Thalassiosira sp. 9 that is a synonym of T.
+dolmatovae. Moreover, SEM study revealed smaller sizes of areolae near the margin (up to 19–25 areolae in
+10 µm) in comparison with those from the original description (10–12 in 10 µm) and the informal description
+by Dolmatova (1992b)—up to 15 in 10 µm. Additionally, data obtained with SEM revealed narrower hyaline
+margin (0.7–1.5 µm wide) in comparison with the original description (2–3 µm). However, measurements
+including width of copulae and/or valvocopula instead of a real margin under LM may have been included and
+influence the earlier descriptions.
+It is important to emphasize that unfortunately, the first species description of Thalassiosira dolmatovae
+Oreshkina is invalid because the rubric “Holotype” is absent and the holotype for the species is not designated
+in the original description (Oreshkina 1992, p. 192). According to the International Code of Botanical
+Nomenclature, even in 1992 it was compulsory to designate holotypes in descriptions of new species. Hence,
+instead of T. dolmatovae Oreshkina, a new species based on a valid description must be erected. The original
+description is supplemented with SEM observations, but I retain the name Thalassiosira dolmatovae for this
+new taxon in honour of Russian diatomologist Lora M. Dolmatova, who found it for the first time in
+Kamchatka but did not publish its formal description.
+
+Acknowledgements
+I thank Elisabeth Fourtanier, Darrell Ubick and Scott Serata from the California Academy of Sciences for
+their assistance in the SEM photography. I am also grateful to Fumio Akiba, Andrew Alverson and Edward
+Theriot for helpful discussion on the topic. The study was supported by U.S. National Science Foundation
+grant OPP 9806461 and Russian Foundation for Basic Research project 09-05-00015.
+
+110 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+GLADENKOV
+
+References
+Akiba, F., Hiramatsu, C., Tsoy, I.B., Ogasawara, K. & Amano, K. (2000) Diatom biostratigraphy and geologic age of the
+Maruyama and Kurasi Formations, Southern Sakhalin, and their correlation to the Neogene of the Tempoku Area,
+Hokkaido. Journal of Geography 109: 203–217 (in Japanese).
+http://dx.doi.org/10.5026/jgeography.109.2_203
+Akiba, F. & Yanagisawa, Y. (1986) Taxonomy, morphology and phylogeny of the Neogene diatom zonal marker species
+in the middle-to-high latitudes of the North Pacific. In: Kagami, H., Karig, D.E., Coulbourn, W.T. et al. (Eds.),
+Initial Reports of the Deep Sea Drilling Project. Washington (U.S. Government Printing Office) 87: 483–554, 53
+pls.
+Alverson, A.J., Kang, S.-H. & Theriot, E.C. (2006) Cell wall morphology and systematic importance of Thalassiosira
+ritscheri (Hustedt) Hasle, with a description of Shionodiscus gen. nov. Diatom Research 21: 251–267.
+http://dx.doi.org/10.1080/0269249X.2006.9705667
+Anonymous (1975) Proposals for a standardization of diatom terminology and diagnoses. Nova Hedwigia, Beihefte 53:
+323–354.
+Barron, J.A. & Gladenkov, A.Y. (1995) Early Miocene to Pleistocene diatom stratigraphy of Leg 145. In: Rea, D.K.,
+Basov, I.A., Scholl, D.W. & Allan, J.F. (Eds.), Proceedings of the Ocean Drilling Program, Scientific Results, 145.
+College Station, TX (Ocean Drilling Program), pp. 3–20.
+Berggren, W.A., Kent, D.V., Swisher III, C.C. & Aubry, M.-P. (1995) A revised Cenozoic geochronology and
+chronostratigraphy. SEPM Special Publication 54: 129–212.
+Bodén, P. (1993) Taxonomy and stratigraphic occurrence of Thalassiosira tetraoestrupii sp. nov. and related species in
+upper Miocene and lower Pliocene sediments from the Norwegian Sea, North Atlantic and North West Pacific. Terra
+Nova 5: 61–75.
+http://dx.doi.org/10.1111/j.1365-3121.1993.tb00227.x
+Cleve, P.T. (1873) On Diatoms from the Arctic Sea. Bihang till Kongliga Svenska Vetenskaps-Akademiens Handlingar,
+1[13]: 1–28, 4 pls.
+Dolmatova, L.M. (1992a) Diatomovye vodorosli. In: Volobueva, V.I., Belaya, B.V., Dolmatova, L.M., Grevtsev, A.V.,
+Minyuk, P.S., Narkhinova, V.E., Polovova, T.L. & Shchiraya, O.A. Opornyi razrez neogena severo-vostoka Azii na
+o. Karaginsky. Chast’ 1 (Stratigraphiya). SVKNII, DVO RAN, Magadan, Russia, pp. 40–53.
+Dolmatova, L.M. (1992b) Diatomovye vodorosli. In: Volobueva, V.I., Belaya, B.V., Dolmatova, L.M., Grevtsev, A.V.,
+Minyuk, P.S., Narkhinova, V.E., Polovova, T.L. & Shchiraya, O.A. Opornyi razrez neogena severo-vostoka Azii na
+o. Karaginsky. Chast’ 2 (Sistematicheskaya chast’). SVKNII, DVO RAN, Magadan, Russia, pp. 70–135, 155–167,
+plates 21–52.
+Fryxell, G.A. & Hasle, G.R. (1979) The genus Thalassiosira: T. trifulta sp. nova and other species with tricolumnar
+supports on strutted processes. In: R. Simonsen (Ed.), Proceedings of the Fifth Symposium on Recent and Fossil
+Diatoms, Antwerp, September 3–8, 1978. Nova Hedwigia, Beihefte 64: 13–40.
+Gladenkov, A.Yu. (2003) Diatom biostratigraphy of the Neogene Milky River Formation, Alaska Peninsula,
+southwestern Alaska. Proceedings of the California Academy of Sciences 54: 27–64.
+Gladenkov, A.Yu. (2006) Neogene diatoms from the Sandy Ridge Section, Alaska Peninsula: significance for
+stratigraphic and paleogeographic reconstructions. Stratigraphy and Geological Correlation 14 (1): 73–90.
+http://dx.doi.org/10.1134/S0869593806010059
+Gladenkov, A.Yu. (2010) Morphological features of the fossil marine diatom species Thalassiosira dolmatovae.
+Abstracts of the 21st International Diatom Symposium, St. Paul, Minnesota, United States, 29 August to 3
+September, 2010, p. 20.
+Gladenkov, A.Yu., Oleinik, A.E., Marincovich, L., Jr. & Barinov, K.B. (2002) A refined age for the earliest opening of
+Bering Strait. Palaeogeography, Palaeoclimatology, Palaeoecology 183: 321–328.
+http://dx.doi.org/10.1016/S0031-0182(02)00249-3
+Marincovich, L., Jr. & Gladenkov, A.Yu. (1999) Evidence for an early opening of the Bering Strait. Nature 397: 149–
+151.
+http://dx.doi.org/10.1038/16446
+Marincovich, L., Jr. & Gladenkov, A.Yu. (2001) New evidence for the age of Bering Strait. Quaternary Science Reviews
+20: 329–335.
+http://dx.doi.org/10.1016/S0277-3791(00)00113-X
+Oreshkina, T.V. (1992) Diatomovye. In: Gladenkov, Yu.B. & Devjatkin, E.V. (Eds.), Detal’noe raschleneniye neogena
+Kamchatki. Nauka Publishers, Moscow, Russia, pp. 44–55, 129, 167–185, 200–203.
+Shiono, M. (2000) Three new species in the Thalassiosira trifulta group in late Neogene sediments from the northwest
+Pacific Ocean. Diatom Research 15: 131–148.
+http://dx.doi.org/10.1080/0269249X.2000.9705488
+
+THALASSIOSIRA DOLMATOVAE, A NEW FOSSIL SPECIES
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+• 111
+
+Shiono, M. (2001) Two new species in the Thalassiosira trifulta group in late Pliocene sediments of the northwest
+Pacific Ocean. Diatom Research 16: 83–92.
+http://dx.doi.org/10.1080/0269249X.2001.9705510
+Shiono, M. & Koizumi, I. (2000) Taxonomy of the Thalassiosira trifulta group in late Neogene sediments from the
+northwest Pacific Ocean. Diatom Research 15: 355–382.
+http://dx.doi.org/10.1080/0269249X.2000.9705502
+Shiono, M. & Koizumi, I. (2001) Phylogenetic evolution of the Thalassiosira trifulta group (Bacillariophyceae) in the
+northwestern Pacific Ocean. Journal of the Geological Society of Japan 107: 496–514.
+http://dx.doi.org/10.5575/geosoc.107.496
+Stepanova, G.V. (1989) Nakhodka morskih neogenovyh diatomei na ostrove Aiyon (Vostochno-Sibirskoe more). In:
+Kolobova, I.M. & Hosatski, L.I. (Eds.), Ezhegodnik Vsesouznogo Paleontologicheskogo Obshchestva, Volume
+XXXII. Nauka Publishers, Leningrad, USSR, pp. 200–217.
+
+112 •
+
+Phytotaxa 127 (1) © 2013 Magnolia Press
+
+GLADENKOV
+
+

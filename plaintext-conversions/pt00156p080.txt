@@ -1,0 +1,102 @@
+Phytotaxa 156 (2): 79–80 (2014)
+www.mapress.com / phytotaxa /
+Copyright © 2014 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.156.2.3
+
+Uvaria huana (Annonaceae), a replacement name for an Asian species
+RUIJIANG WANG
+South China Botanical Garden, Chinese Academy of Sciences, Guangzhou 510650, China
+E-mail: wangrj@scbg.ac.cn
+
+Abstract
+Uvaria huana is proposed as a new name for U. yunnanensis (Hu) L. L. Zhou, Y. C. F. Su & R. M. K. Saunders (2009), a
+later homonym of U. yunanensis Li (1978).
+Kew words: China, homonyms, taxonomy, Uvaria yunnanensis
+
+Introduction
+Uvaria L. (1753: 536) is one of the largest genera of Annonaceae, with about 210 woody lianas or scrambling
+shrubs. The genus is distributed mainly in tropical areas of Africa, Asia, and Australia. It is characterized by a
+combination of morphological characters, including stellate hairs, valvate sepals, more or less imbricate petals, and
+many-seeded apocarpous fruits (Meade, 2005). Based on recent molecular phylogenetic analysis (Zhou et al.,
+2009; Zhou et al., 2010; Attanayake et al., 2011), Uvaria is now defined to included Anomianthus Zoll. (1858:
+324), Balonga Le Thomas (1968: 106), Cyathostemma Griff. (1854: 707), Dasoclema J. Sinclair (1955: 273),
+Ellipeia Hook.f. & Thomson (1855: 104), Ellipeiopsis R. E. Fr. (1955: 41), Rauwenhoffia Scheff. (1885: 21), and
+the Australian species of Melodorum Lour. (1790: 329, 351).
+The ten species of Cyathostemma recognized by Utteridge (2000), including the Asian species C. yunnanensis
+Hu, were transferred to Uvaria (Zhou et al., 2009). During preparation of an account of the Chinese species of
+Uvaria, it was noticed that Hu’s (1940) extant C. yunnanensis could not be transferred to Uvaria because of the
+fossil species U. yunnanensis Li (Li, 1978), a fact overlooked by Zhou et al. A new name, honouring Professor
+Hsen-Hsu Hu (1894–1968), one of the pioneers of Chinese botanical sciences, is proposed here.
+
+Taxonomic treatment
+Uvaria huana R. J. Wang, nom. nov.
+Replaced name: Uvaria yunnanensis (Hu) L. L. Zhou, Y. C. F. Su & R. M. K. Saunders (2009: 255), based on
+Cyathostemma yunnanensis Hu (1940: 121).—Type: CHINA. Yunan Province: Fo-Hai Hsien, alt. 980m., in mixed
+forest, woody plants, 3 m high, 12.5 cm in diam., flowers greenish-yellow, Jun 1936, C. W. Wang 74547 (holotype:
+PE! barcode PE00028347; isotype: PE! barcode PE00028346), non Li (1978: 19).
+The publication of the fossil-species, Uvaria yunnanensis Li, was accompanied by a description in Chinese,
+along with an illustration and a plate (Li, 1978). This name was validly and effectively published because the
+protologue satisfied articles 43.1 and 43.2 of ICN (McNeill et al., 2012). It should be noted that the specimen C. W.
+Wang 74879 (PE!) is a paratype of Cyathostemma yunnanense and not the holotype as cited by Utteridge (2000).
+Distribution:— SW. China (Yunnan province) and N. Vietnam (Yen Bai province).
+
+Accepted by Jim Reveal: 29 Dec. 2013; published: 10 Jan. 2014
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+79
+
+Acknowledgements
+This work was supported by the National Natural Science Foundation of China (grant nos. 30770156, 31070177),
+National Natural Science Foundation of China (grant no. 31110103911), and Main Direction Program of
+Knowledge Innovation of Chinese Academy of Sciences (grant no. KSCX2-EW-Z-1).
+
+References
+Attanayake, A.M.A.S., Turner, I.M. & Saunders, R.M.K. (2011) Two new species of Uvaria (Annonaceae) from Borneo, with a
+new nomenclatural combination. Novon 21(2): 161–168.
+Fries, R.E. (1955) Verstreute Beobachtungen hinsichtlich der Familie Annonaceae. Arkiv för Botanik, Andra Serien 3, 2: 35–
+42.
+Griffith, W. (1854) Notulae ad Plantas Asiaticas, vol. 4. Charles A. Serrao, Calcutta, pp. 706–717.
+Hooker, J.D., & Thomson, T. (1855) Annonaceae. Flora Indica, vol. 1. W. Pamplin, London, pp. 86–153.
+Hu, H.H. (1940) Notulae Systematicae ad Floram Sinensem X. Bulletin of the Fan Memorial Institute of Biology, Botanical
+Series 10: 117–172.
+Le Thomas, A. (1968) Balonga Le Thomas nouveau genre africain de la famille des Annonacées. Adansonia, nova séries, 8:
+105–111.
+Li, H.M. (1978) Uvaria yunnanensis, sp. nov. In: Editorial Committee of Chinese plants in Cenozoic of The Institute of Botany
+& Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences (ed.), Chinese Plant Fossils, vol. 3:
+Chinese plants in Cenozoic. Science Press, Beijing, p. 19.
+Linnaeus, C. (1753) Uvaria L. Species Plantarum, vol. 1. Laurentii Salvii, Stockholm, p. 536.
+Loureiro, J. (1790) Genus XXVII. Melodorum. Flora Cochinchinensis, vol. 1. Typis, et expensis academicus, Lissabon, p. 329,
+p. 351.
+McNeill, J., Barrie, F.R., Buck, W.R., Demoulin, V., Greuter, W., Hawksworth, D.L., Herendeen, P.S., Knapp, S., Mmarhold,
+K., Prado, J., Reine, W.F.P.V., Smith, G.F., Wiersema, J.H. & Turland, N.J. (2012) International Code of Nomenclature for
+algae, fungi, and plants (Melbourne Code), adopted by the Eighteenth International Botanical Congress Melbourne,
+Australia, July 2011. Regnum Vegetabile 154. Koeltz Scientific Books, 232 pp.
+Meade, C.V. (2005) A new species of Uvaria (Annonaceae) from southeast Asia. Adansonia, séries 3, 27(1): 17–20.
+Scheffer, R.H.C.C. (1885) Sur Quelques Plantes Nouvelles ou peu Connues de L'Archipel Indien (Annonaceae). Annales du
+Jardin Botanique de Buitenzorg 2: 1–31.
+Sinclair, J. (1955) A revision of the Malayan Annonaceae. Gardens' Bulletin, Straits Settlements, series 3, 14(2): 149–516.
+Utteridge, T.M.A. (2000) Revision of the genus Cyathostemma (Annonaceae). Blumea 45(2): 377–396.
+Zhou, L.L., Su, Y.C.F., Chalermglin, P. & Saunders, R.M.K. (2010) Molecular phylogenetics of Uvaria (Annonaceae):
+relationships with Balonga, Dasoclema and Australian species of Melodorum. Botanical Journal of the Linnean Society
+163: 33–43.
+Zhou, L.L., Su, Y.C.F. & Saunders, R.M.K. (2009) Molecular phylogenetic support for a broader delimitation of Uvaria
+(Annonaceae), inclusive of Anomianthus, Cyathostemma, Ellipeia, Ellipeiopsis and Rauwenhoffia. Systematics and
+Biodiversity 7: 249–258.
+Zollinger, H. (1858) Üeber die Anonaceen des ostindischen Archipels. Linnaea 29: 297–325.
+
+80 •
+
+Phytotaxa 156 (2) © 2014 Magnolia Press
+
+WANG
+
+

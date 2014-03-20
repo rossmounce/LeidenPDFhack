@@ -1,0 +1,118 @@
+Phytotaxa 119 (1): 59–60 (2013)
+www.mapress.com/ phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.119.1.7
+
+Campyloneurum poloense (Polypodiaceae), a new combination and
+lectotypification for a Bolivian fern
+BLANCA LEÓN1,2 & MICHAEL KESSLER3
+1
+
+Museo de Historia Natural, Av. Arenales 1256, Aptdo. 14-0434, Lima-14, Peru.
+Plant Resources Center, University of Texas at Austin, Austin, TX 78712, USA. E-mail: leon@austin.utexas.edu
+3
+Systematic Botany, University of Zurich, Zollikerstrasse 107, CH-8008 Zurich, Switzerland. E-mail: michael.kessler@systbot.uzh.ch
+2
+
+During the revision of the fern genus Campyloneurum Presl (1836: 189) (Polypodiaceae) for Bolivia, a
+species previously described in Polypodium is recognized in the former, but requiring a new combination,
+which is done here, in addition to lectotypification and providing an updated description.
+Campyloneurum poloense (Rosenst.) B.León, comb. nov.
+Basionym:—Polypodium poloense Rosenstock (1913: 473, as “poloënse”).
+Type:—BOLIVIA. La Paz: Dept. Nor Yungas, “Polo Polo prope Coroico,” 900 m, October 1912, O. Buchtien 3525
+(lectotype S!, designated here, isolectotype US!).
+
+Rhizome pruinose, 2–3 mm in diameter; rhizome scales 3.0–3.6 × 0.7–1.0 mm, 12–15 cells wide at the middle
+length, ovate-lanceolate, brown, clathrate except for marginal cells (only slightly clathrate), biauriculate at the
+base, with roundish cells except for narrowly oblong cells along the central axis of the scale, lumina
+transparent, not iridescent; fronds closely spaced; petioles 0.5–2.0 cm long; laminae 8–20 × (0.7–)1–3 cm,
+chartaceous, narrowly-oblanceolate or narrowly lanceolate, bases gradually decurrent, apices obtuse, margins
+slightly revolute; primary veins obscure, but abaxially contrasting with the lamina tissue when dry, 1–3 series
+of areoles between costa and margin, costal areoles three times longer than wide, primary non-costal areoles
+usually divided, hydathodes adaxially sometimes with lime dots; sori in one or two series, generally towards
+the apices.
+Additional specimen examined:—BOLIVIA. La Paz, Nor Yungas, Comunidad Cultural, 36 km
+Caranavi a Sapecho, 15°41’S, 67°30’W, 1250 m, 24 August 1997, M. Kessler 11386 (LPB, UC).
+Remarks:—Campyloneurum poloense belongs to the complex of C. angustifolium (Swartz 1788: 130)
+Fée (1852: 257). Based on the type only León (1993: 32) included this species in the synonymy of
+Campyloneurum amphostenon (Kunze ex Klotzsch 1847: 399) Fée (1852: 258), since width of the lamina was
+considered part of the variation of this species; however, other characteristics in C. amphostenon as laminae
+with acuminate apices and lanceolate rhizome scales more than 1 mm wide do not support her conclusion.
+After the examination of a recent collection, we now propose that C. poloense can be distinguished from other
+species in the Bolivian flora as detailed in the following key.
+To date, C. poloense is only known from the Andean foothills (900–1250 m) in the department of La Paz,
+Bolivia. Among the closely related species that also occur in this department, C. angustifolium (Swartz 1788:
+130) Fée (1852: 257) occurs over a wide elevational range (300–3850 m) whereas at higher elevations one
+may find C. aglaolepis (Alston 1939: 346) de la Sota (1960: 96) (1420–3600 m), C. amphostenon (2250–3650
+m), and C. angustipaleatum (Alston 1939: 346) M.Mey. ex Lellinger (1984: 56) (1500–2600 m).
+
+Accepted by Marcus Lehnert: 12 July 2013; published: 1 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+59
+
+Key to the species of Campyloneurum from Dept. La Paz, Bolivia
+1.
+–
+2.
+–
+3.
+–
+4.
+–
+
+Rhizome diameter 3–5 mm; rhizome scales usually >1.5 mm wide; 2–5 series of areoles between costa and margin.
+............................................................................................................................................................. C. amphostenon
+Rhizome diameter 1–3 mm; rhizome scales usually <1.5 mm wide at the base; 1–3 series of areoles between costa
+and margin..................................................................................................................................................................... 2
+Rhizome scales narrowly ovate without differentiated margins, with wide oblong cells, the cell lumina iridescent ....
+..................................................................................................................................................................C. aglaolepis
+Rhizome scales linear-lanceolate with differentiated margins, with oblong or narrowly oblong cells, the cell lumina
+not iridescent. ................................................................................................................................................................ 3
+Laminae shortly decurrent at the bases, abruptly ending in obtuse apices ................................................. C. poloense
+Laminae gradually ending in both ends, acute or acuminate....................................................................................... 4
+Rhizome scale bases >1 mm wide, scales brown in mass .................................................................. C. angustifolium
+Rhizome scale bases <1 mm wide, linear-lanceolate, scales dark brown in mass. ........................C. angustipaleatum
+
+References
+Alston, A.H.G. (1939) New species of Polypodium sect. Campyloneurum. Journal of Botany, British and Foreign 77:
+346–347.
+de la Sota, E.R. (1960) Polypodiaceae y Grammitidaceae Argentinas. Opera Lilloana 5: 1–229.
+Fée, A.L.A. (1852) Genera Filicum. Exposition des genres de la famille des
+es (classe des
+res).
+moires sur la famille des
+res 5. Berger-Levrault, Strassbourg, 387 pp.
+Klotzsch, J.F. (1847) Flora der Aequinoctial-Gegenden der neuen Welt. Linnaea 20: 337–445.
+Lellinger, D.B. (1984) New combinations and some new names in ferns. American Fern Journal 74: 56–59.
+http://dx.doi.org/10.2307/1546870
+León, B. (1993) A taxonomic revision of the fern genus Campyloneurum (Polypodiaceae). Ph.D. Thesis, Faculty of
+Science, Aarhus University, Denmark, 125 pp.
+Presl, C. (1836) Tentamen Pteridographiae. T. Haase, Prague, 290 pp.
+Rosenstock, E. (1913) Filices novae a cl. Dr. O. Buchtien in Bolivia collectae. Repertorium Speciorum novarum regni
+vegetabilis 12: 468–477.
+Swartz, O. (1788) Nova Genera et Species Plantarum seu Prodromus. Swederi, Stockholm, Uppsala & Abo, 158 pp.
+
+écaidopyloP
+
+èguof
+
+éM
+
+Phytotaxa 119 (1) © 2013 Magnolia Press
+
+èguof
+
+60 •
+
+LEÓN & KESSLER
+
+

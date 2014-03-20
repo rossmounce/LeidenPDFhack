@@ -1,0 +1,140 @@
+Phytotaxa 152 (1): 56–58 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.152.1.7
+
+First record of the genus Limonium (Plumbaginaceae) from the Malesian region
+KOH NAKAMURA 1* , ROSARIO RIVERA RUBITE 2 , GORO KOKUBUGATA 3 , YOSHIKO KONO 1 ,
+MASATSUGU YOKOTA4 & CHING-I PENG1*
+1
+
+Biodiversity Research Center, Academia Sinica, Taipei 11542, Taiwan; e-mail: kohnakamur@gmail.com, bopeng@sinica.edu.tw
+University of the Philippines Manila, Department of Biology, College of Arts and Sciences, Padre Faura, Manila, Philippines and
+Philippine National Herbarium, National Museum, Padre Burgos, Manila, the Philippines
+3
+Department of Botany, National Museum of Nature and Science, Amakubo 4-1-1, Tsukuba, Ibaraki 305-0005, Japan
+4
+Laboratory of Ecology and Systematics, Faculty of Science, University of the Ryukyus, Senbaru 1, Nishihara, Okinawa 903-0213,
+Japan
+*
+Authors for correspondence
+2
+
+The absence of the cosmopolitan genus Limonium Miller (1754: no pagination) (Plumbaginaceae) in the
+mega-diverse flora of the Malesian region (comprising Brunei Darussalam, Indonesia, Malaysia, Papua New
+Guinea, the Philippines, and Singapore; Merrill 1923, Ridley 1923, Steenis 1949, Backer & Bakhuizen van
+den Brink Jr. 1965, Balgooy 1993, Coode et al. 1996, Balgooy 2001, Conn et al. 2004, Chong et al. 2009,
+Pelser et al. 2011) has intrigued taxonomists and biogeographers since Steenis (1949) noted this. During a
+field survey as part of the project on floristic and phylogenetic biogeography in the island chain of the
+Philippines, Taiwan, and southern Japan, we found a population of Limonium in the northern Philippines
+(Batan Islands) that represents the first record of the genus in the Malesian region. Batan Islands, comprising
+10 small (≤ 83.1 km 2) oceanic islands, is the northernmost tip of the Malesian region, being ca. 190 km north
+of Luzon Island of the Philippines and ca. 140 km southeast of Taiwan Island. From the geological location,
+the present finding suggests that a more extensive survey in Batan Islands may add some more East Asian
+temperate genera to the flora of the Malesian region, although two enumerations of the early and mid 20th
+century provide us baseline knowledge of the flora of Batan Islands (Merrill 1908, Hatusima 1966).
+Limonium wrightii (Hance) Kuntze (1891: 396)
+Bas.: Statice wrightii Hance (1866: 236). Holotype:—JAPAN. Ryukyu Islands, Wright s.n. (BM!)
+
+Description:—A shrublet with woody stems densely covered with dark brown rigid scales and leaves
+congested on upper part of stems (Fig. 1A). The species has flower color polymorphism among populations
+(pink, yellow, orange, ivory, and white; Matsumura et al. 2006) and the Philippines population had pink
+flowers (Fig. 1B). Based on these characters, L. wrightii is clearly distinguished from congeners in the East
+Asian Pacific rim, which are herbs having only basal leaves and yellow flowers (Peng & Kamelin 1996,
+Matsumura et al. 2006).
+Distribution and habitat:—The species has been reported previously only from Japan (the Ryukyu
+Archipelago, Izu Islands, and Ogasawara Islands) and southern Taiwan (southern part of Taiwan Island,
+Penghu Islands, and Lutao and Lanyu islands) (Li 1998, Matsumura et al. 2006). The newly discovered
+population was in Sabtang Island of Batan Islands (the Philippines). The population grew on a raised coral
+reef terrace at seashore (Fig. 1C), which is the typical habitat of the species.
+Conservation status:—Limonium wrightii is listed in the red lists of Japan and Taiwan as a Vulnerable
+(VU) and Critically endangered (CR) species, respectively (Ministry of the Environment, Japan 2012, Wang
+et al. 2012). In Sabtang Island, the population of several tens of square meters comprised a few hundred
+individuals. This is the only known population in the Philippines and isolated from conspecific populations in
+
+56 Accepted by Duilio Iamonico: 17 Nov. 2013; published: 11 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+Taiwan and Japan. Although Batanes Province is in its entirety a protected area (Sanga 2001), the very small
+population is prone to the effects of human activities or stochastic events within a very short time period. The
+species is here assessed as Vulnerable under Criterion D2 of IUCN (2010, 2012) for the Philippines.
+Specimina visa:—THE PHILIPPINES. Batanes: Sabtang Island, Savidug Village, ca. 2 m, E121° 53'
+25.45", N20° 18' 48.49", 19 December 2011, Nakamura 11922 (HAST).
+
+FIGURE 1. Limonium wrightii in Sabtang Island, Batanes, the Philippines. A. Habit. B. Flower. C. Habitat. Scale bars: 5 cm (A), and
+1 cm (B).
+
+FIRST RECORD OF THE GENUS LIMONIUM FROM THE MALESIAN REGION
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 57
+
+Acknowledgements
+This study was supported in part by a postdoctoral fellowship from Academia Sinica to K.N. and a research
+grant from Academia Sinica to C.-I P.
+
+References
+Backer, C.A. & Bakhuizen van den Brink Jr., R.C. (1965) Flora of Java 2. P. Noordhoff Ltd., Groningen, 641 pp.
+Balgooy, M.M.J. van (1993) Pacific plant areas 5. Rijksherbarium/Hortus Botanicus, Leiden University, Leiden, 251 pp.
+Balgooy, M.M.J. van (2001) Malesian seed plants 3. Nationaal Herbarium Nederland–Universiteit Leiden Branch,
+Leiden, 260 pp.
+Chong, K.Y., Tan, H.T.W. & Corlett, R.T. (2009) A checklist of the total vascular plant flora of Singapore: native,
+naturalised and cultivated species. Raffles Museum of Biodiversity Research, National University of Singapore,
+Singapore, 273 pp.
+Conn, B.J., Lee, L.L. & Kiapranis, R. (2004) PNGplants database: plant collections from Papua New Guinea. Available
+from http://www.pngplants.org/PNGdatabase (accessed 14 October 2013).
+Coode, M.J.E., Dransfield, J., Forman, L.L., Kirkup, D.W. & Said, I.M. (1996) A checklist of the flowering plants &
+gymnosperms of Brunei Darussalam. Ministry of Industry and Primary Resources, Brunei Darussalam, 476 pp.
+Hance, H.F. (1866) Adversaria in stirpes imprimis Asiae Orientalis: criticas minusve notas interjectis novarum
+plurimarum diagnosibus. In: Brongniart, A. & Decaisne, J. (eds.) Annales des Sciences Naturelles, Botanique Sér. 5
+5. Victor Masson, Paris, pp. 202–261.
+Hatusima, S. (1966). An enumeration of the plants of Batan Island, N. Philippines. Memoirs of the Faculty of
+Agriculture, Kagoshima University 5(3): 13–70.
+IUCN (2010) The IUCN Red list of the threatened species, version 2010.4. Available from: http://www.iucnredlist.org
+(accessed: 2 November 2013).
+IUCN (2012) Guidelines for application of IUCN red list criteria at regional and national levels, version 4.0. IUCN,
+Gland, Switzerland and Cambridge, UK, iii + 41 pp.
+Kunze, O. (1891) Revisio generum plantarum vascularium omnium atque cellularium multarum secundum leges
+nomenclaturae internationales cum enumeratione plantarum exoticarum in itinere mundi collectarum 2. A. Felix,
+Leipzig, 637 pp.
+Li, H.L. (1998) Plumbaginaceae. In: Editorial Committee of the Flora of Taiwan, Second Edition (ed.) Flora of Taiwan,
+2nd ed. 4. Editorial Committee of the Flora of Taiwan, Second Edition, Taipei, pp. 79–82.
+Matsumura, S.I., Yokoyama, J., Tateishi, Y. & Maki, M. (2006). Intraspecific variation of flower colour and its
+distribution within a sea lavender, Limonium wrightii (Plumbaginaceae), in the northwestern Pacific Islands. Journal
+of Plant Research 119: 625–632.
+http://dx.doi.org/10.1007/s10265-006-0022-7
+Merrill, E.D. (1908) On a collection of plants from the Batanes and Babuyanes Islands. Philippine Journal of Science,
+section C, Botany 3: 385–442.
+Merrill, E.D. (1923) An enumeration of Philippine flowering plants 3. Bureau of Printing, Manila, 628 pp.
+Miller, P. (1754) The gardeners dictionary, Abridged ed. 4. John and James Rivington, London, without pagination.
+Ministry of the Environment, Japan (2012) Red Data List (Plants). Available from http://www.biodic.go.jp/rdb/
+rdb_f.html. (accessed 3 November 2013).
+Pelser, P.B., Barcelona J.F. & Nickrent D.L. (2011) Co's digital flora of the Philippines. Available from http://
+www.philippineplants.org (accessed 14 October 2013).
+Peng, Z.X. & Kamelin, V. (1996) Plumbaginaceae. In: Wu, Z.Y. & Raven, P.H. (eds.) Flora of China 15. Missouri
+Botanical Garden Press, St. Louis, Missouri, pp. 190–204.
+Ridley, H.N. (1923) The Flora of the Malay Peninsula 2. L. Reeve & Co. Ltd., London, 672 pp.
+Senga, R.G. (2001) Establishing protected areas in the Philippines. The George Wright Forum 18: 56–65.
+Steenis, C.G.G.J. van (1949) Plumbaginaceae. In: Steenis, C.G.G.J. van (ed.) Flora Malesiana, Series 1 4. P. Noordhoff
+Ltd., Groningen, pp. 105–112.
+http://dx.doi.org/10.2307/4113668
+Wang J.C., Chiou, W.L. & Chang, H.M. (2012) A preliminary Red List of Taiwanese vascular plants. Endemic Species
+Research Institute & Taiwan Society of Plant Systematics, Nanto, Taiwan, 94 pp.
+
+58 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+NAKAMURA ET AL.
+
+

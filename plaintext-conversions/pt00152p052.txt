@@ -1,0 +1,128 @@
+Phytotaxa 152 (1): 50–52 (2013)
+www.mapress.com / phytotaxa /
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+Correspondence
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.152.1.5
+
+Notes on Early Land Plants Today. 46. Transfer of Vitalianthus urubuensis
+(Marchantiophyta, Lejeuneaceae) to Cheilolejeunea
+YU-MEI WEI 1,2, QIONG HE 3, S. ROBBERT GRADSTEIN4, LAURA V. CAMPOS5 & RUI-LIANG ZHU 1,6
+1
+
+Department of Biology, School of Life Science, East China Normal University, 3663 Zhong Shan North Road, Shanghai 200062,
+China; rlzhu@bio.ecnu.edu.cn
+2
+Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and the Chinese Academy of Sciences, Guilin, Guangxi 541006,
+China
+3
+Ningbo Binhai International Cooperative School, Ningbo Binhai Education Group Ltd., 11 Mingyue Road, Binhai New City, Beilun,
+Ningbo, Zhejiang 315830, China
+4
+Muséum National d'Histoire Naturelle, Dept. Systématique et Evolution, Case Postale 39, 57 rue Cuvier, 75231 Paris cedex 05,
+France
+5
+Instituto de Ciencias Naturales, Facultad de Ciencias, Universidad Nacional de Colombia, Bogotá, Colombia
+6
+Author for correspondence
+
+Vitalianthus was established by Schuster & Giancotti (1993) based on Drepanolejeunea bischleriana
+K.C.Pôrto & Grolle (1987: 301), which is endemic to the Atlantic coast of north-eastern Brazil. This genus is
+related to Drepanolejeunea (Spruce 1884: 76) Schiffner (1893: 119) (Gradstein et al. 2001, Gradstein & Costa
+2003, He et al. 2012a, b) and characterized by the 1) hyaline papilla at the proximal side of lobule tooth, 2)
+unbroken basal vitta of 3−7 ocelli in leaf lobes, 3) bilobed underleaves with upright lobes, 4) gynoecial
+innovations with a pycnolejeuneoid leaf sequence, 5) perianth keels unarmed, and 6) absence of specialized
+cladia (He et al. 2012a). In addition to the type species, this genus currently also contains Vitalianthus
+urubuensis Zartman & Ackerman (2002: 267) from the Amazonian rainforests of Brazil and Colombia
+(Zartman & Ackerman 2002, Mota de Oliveira & ter Steege 2013, Campos et al. in prep.), and V. guangxianus
+Zhu et al. (2012a: 32). Our examination of type material and recent collections of Vitalianthus urubuensis
+from Brazil and Colombia reveals that the hyaline papilla of the leaf lobule is distal as in Cheilolejeunea
+(Spruce 1884: 79) Schiffner (1893: 118) (Fig. 1E,F). The moniliate, unbroken vitta of ocelli in the leaf lobes,
+one of the most important features of Vitalianthus, also occurs in some species of Cheilolejeunea, e.g. in
+Cheilolejeunea falsinervis (Sande Lacoste 1854: 321) Schuster & Kachroo (1961: 56) from Asia and
+Australasia. It thus appears that V. urubuensis is morphologically more similar to Cheilolejeunea than to
+Vitalianthus. The morphological affinity between Vitalianthus urubuensis and Cheilolejeunea is confirmed by
+our unpublished molecular data (ITS, trnG and trnL-F; Wei et al., in prep.) which show that V. urubuensis and
+several species of Cheilolejeunea form a monophyletic lineage. Therefore, the following new combination is
+necessary.
+
+Formal treatment
+The format of this note follows Söderström et al. (2012).
+Cheilolejeunea urubuensis (Zartman & I.L.Ackerman) R.L.Zhu & Y.M.Wei, comb. nov. (Fig 1)
+Basionym:—Vitalianthus urubuensis Zartman & I.L.Ackerman, Bryologist 105: 267, 2002 (Zartman & Ackerman 2002).
+Type:—BRAZIL. Amazonas State. EMBRAPA research station at kilometer 54 of the BR-174 highway (02°30′40″ S,
+60°01′46″ W), elev. ca 150 m; lowland, seasonally wet terra-firma rainforest in capoeira on the bark of Vismia
+cayennensis (Jacq.) Pers., August 2001, Zartman 2626 (holotype INPA; isotype DUKE!).
+
+50 Accepted by Lars Soderstrom: 12 Nov. 2013; published: 11 Dec. 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+FIGURE 1. Cheilolejeunea urubuensis (Zartman & I.L.Ackerman) R.L.Zhu & Y.M.Wei. A. Portion of plant with perianth. B. Portion of
+plant, showing underleaves. C. Portion of plant, ventral view. D. Leaf, ventral view. E, F. Leaf lobule, showing a hyaline papilla (arrow).
+A from Laura V. Campos 713 (HSNU); B, F from Laura V. Campos 712 (HSNU); C-E from C.E. Zartman 2626 (isotype, DUKE).
+
+Note: Within tropical America, Cheilolejeunea urubuensis is the only vittate species in the genus..
+
+Acknowledgements
+This research was sponsored by the National Natural Science Foundation of China (nos. 31170190,
+31370238), the Special Program for the National Basic Work of the Ministry of Science and Technology,
+China (No. 2012FY110600), and 211 Project for the East China Normal University. We also thank the curator
+of DUKE for lending the type specimens. Fieldwork in the Colombian Amazon region was supported by
+COLCIENCIAS, Colombia.
+
+References
+Gradstein, S.R. & Costa, D.P. (2003) The Hepaticae and Anthocerotae of Brazil. Memoirs of the New York Botanical
+Garden 87: 1–318.
+Gradstein, S.R., Churchill S.P. & Salazar-Allen, N. (2001) Guide to the bryophytes of tropical America. Memoirs of the
+New York Botanical Garden 86: 1–577.
+http://dx.doi.org/10.1016/s1290-0796(02)85017-9
+He, Q., Wei, Y.-M. & Zhu, R.-L. (2012a) Vitalianthus guangxianus (Lejeuneaceae), a new species from Guangxi, China.
+Journal of Bryology 34: 32–36.
+
+TRANSFER OF VITALIANTHUS URUBUENSIS TO CHEILOLEJEUNEA
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+• 51
+
+http://dx.doi.org/10.1179/1743282011y.0000000038
+He, Q., Zhu, R.-L., Chantanaorrapint, S., Kornochalert, S. & Printarakul, N. (2012b) Drepanolejeunea laciniata
+(Lejeuneaceae), a new species from northern Thailand. Cryptogamie Bryologie 33: 291–298.
+http://dx.doi.org/10.7872/cryb.v33.iss3.2012.291
+Kachroo, O. & Schuster, R.M. (1961) The genus Pycnolejeunea and its affinities to Cheilolejeunea, Euosmolejeunea,
+Nipponolejeunea, Tuyamaella, Siphonolejeunea and Strepsilejeunea. Journal of the Linnean Society. Botany 56:
+475–511.
+http://dx.doi.org/10.1111/j.1095-8339.1961.tb02542.x
+Mota de Oliveira, S. & ter Steege, H. (2013) Floristic overview of the epiphytic bryophytes of terra firme forests across
+the Amazon basin. Acta Botanica Brasilica 27: 347–363.
+http://dx.doi.org/10.1590/s0102-33062013000200010
+Pôrto, K.C. & Grolle, R. (1987) Drepanolejeunea bischleriana sp. nov. du Brésil. Cryptogamie: Bryologie, Lichénologie
+8: 301–304.
+Sande Lacoste, C.M. van der (1854) Novae species Hepaticarum ex insula Java detexit Dr. F. Junghuhn. Nederlandsch
+Kruidkundig Archief. Verslagen en Mededelingen der Nederlandsche Botanische Vereeniging 3: 414–424.
+Schiffner, F. (1893) Hepaticae (Lebermoose). In: Engler, A. & Prantl, K. (Ed), Die Natürlichen Pflanzenfamilien 1: 1–
+141. Leipzig.
+Schuster, R.M. & Giancotti, C. (1993) On Vitalianthus Schust. & Giancotti, a new genus of Lejeuneaceae. Nova
+Hedwigia 57: 445–456.
+Söderström, L., Hagborg, A. & von Konrat, M. (2012) Notes on Early Land Plants Today. Phytotaxa 65: 41–42.
+http://dx.doi.org/10.11646/phytotaxa.112.1.3
+Spruce, R. (1884) Hepaticae of the Amazon and the Andes of Peru and Ecuador. Transactions and Proceedings of the
+Botanical Society. Edinburgh 15: 1–308.
+Zartman, C.E. & Ackerman, I.L. (2002) A new species of Vitalianthus (Lejeuneaceae, Hepaticae) from the Brazilian
+Amazon. The Bryologist 105: 267–269.
+http://dx.doi.org/10.1639/0007-2745(2002)105[0267:ansovl]2.0.co;2
+
+52 •
+
+Phytotaxa 152 (1) © 2013 Magnolia Press
+
+WEI ET AL.
+
+

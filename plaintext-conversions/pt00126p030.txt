@@ -1,0 +1,769 @@
+Phytotaxa 126 (1): 22–30 (2013)
+www.mapress.com / phytotaxa /
+
+Article
+
+Copyright © 2013 Magnolia Press
+
+ISSN 1179-3155 (print edition)
+
+PHYTOTAXA
+
+ISSN 1179-3163 (online edition)
+
+http://dx.doi.org/10.11646/phytotaxa.126.1.2
+
+Two new species of Pestalotiopsis from Southern China
+YU SONG 1 , KUN GENG 1,3 , BIN ZHANG 1 , KEVIN D. HYDE 4,5 , WEN-SHENG ZHAO2, JI-GUANG
+WEI6, JI-CHUAN KANG7 & YONG WANG1
+1 Department of Plant Pathology, Agriculture College, Guizhou University, 550025, People’s Republic of China
+email: yongwangbis@yahoo.cn
+2 Department of Plant Pathology, China Agricultural University, Beijing 100193, People’s Republic of China
+email: mppzhaws@cau.edu.cn
+3 Plant Protection and Quarantine Station, Guiyang City, 550081, People’s Republic of China
+4 Institute of Excellence in Fungal Research, Mae Fah Luang University, Chiang Rai 57100, Thailand
+5 School of Science, Mae Fah Luang University, Chiang Rai 57100, Thailand
+6 College of Agriculture, Guangxi University, Nanning 530005, People’s Republic of China
+7 Guizhou Biochem-engineering Research Center, Guizhou University, 550025, China
+Song Y and Geng K contributed equally to this work.
+
+Abstract
+Three Pestalotiopsis isolates were obtained from leaves of Coffea arabica and Rhodomyrtus tomentosa. Among them,
+two isolates produced versicolorous conidia, and the other produced concolorous conidia. Phylogenetic analysis based on
+a combination of ITS, β-tubulin and tef1 gene sequence data clearly confirms that they belong to two species and
+distinguishes them from other species in this genus, with ex-type sequence data in GenBank. On the basis of evidence
+from morphology and molecular phylogeny they are described as new species, Pestalotiopsis coffeae-arabicae sp. nov.
+and P. rhodomyrtus sp. nov.
+Key words: coelomycetes, phylogeny, taxonomy
+
+Introduction
+Species in the genus Pestalotiopsis have received much attention in recent years, not only because of their role
+as plant pathogens, but also as common endophytes, which have been shown to produce a wide range of
+chemically novel metabolites (Xu et al. 2010, Debbab et al. 2011, 2012, Maharachchikumbura et al. 2011,
+2013). We surveyed the Pestalotiopsis diversity in southern China. Among them were two undescribed
+species, described below, which were isolated from Coffea arabica and Rhodomyrtus tomentosa leaves.
+Morphological details are provided and a comparison made with related species. Molecular characteristics
+based on the DNA sequences of three gene loci (ITS, β-tubulin and tef1) were also determined.
+Materials & Methods
+Morphological and cultural studies
+Diseased leaves of Coffea arabica and healthy leaves of Rhodomyrtus tomentosa were collected from Hainan
+and Guangxi Provinces. Leaf samples were placed in clean paper bags and symptoms were recorded. A single
+conidium culture technique was performed to obtain pure colonies of the fungi following the method outlined
+in Chomnunti et al. (2011). The colonies were transferred to 2% potato-dextrose agar (PDA) medium and
+incubated at room temperature (25°C). Sporulation was induced using sterilized carnation leaves, which were
+aseptically placed on the surface of the medium with growing mycelium. The morphology of fungal colonies
+was recorded following the method of Hu et al. (2007). Fungal mycelium and spores were observed under a
+
+22 Accepted by Eric Mckenzie: 19 July 2013; published: 26 August 2013
+Licensed under a Creative Commons Attribution License http://creativecommons.org/licenses/by/3.0
+
+light microscope (Nikon 80i) and photographed. Methods of examination, photography and isolation followed
+Boonmee et al. (2011). Holotypes and ex-type cultures of the two species are deposited in the Plant Pathology
+Herbarium of Guizhou University (HGUP) and isotypes are deposited in Mae Fah Luang University (MFLU)
+Herbarium, Chiang Rai, Thailand.
+DNA sequencing and alignment
+Total genomic DNA was extracted from fresh cultures using a modified protocol of Doyle & Doyle (1987)
+and Lee & Taylor (1990). The ITS and 5.8S region of rDNA molecule was amplified using primer pairs ITS4
+and ITS5 (White et al. 1990), β-tubulin gene region was amplified with primer pairs BT2A and BT2B (Glass
+& Donaldson 1995, O’Donnell & Cigelnik 1997) and tef1 was amplified using the primer pairs EF1-526F and
+EF1-1567R (Rehner 2001). PCR was performed with the 25 μL reaction system consisting of 19.75 μL of
+double distilled water, 2.5 μL of 10× Taq buffer with MgCl2, 0.5 μL of dNTP (10 mM each), 0.5 μL of each
+primer (10 μM), 0.25 μL Taq DNA polymerase (5 U/μl), and 1.0 μL of DNA template. The thermal cycling
+program followed Maharachchikumbura et al. (2012). The DNA sequences of ITS, beta-tubulin and tef1
+regions generated in this study were submitted to GenBank.
+TABLE 1. Strains used in phylogenetic analyses and their corresponding GenBank accession numbers.
+Species
+
+Sources
+
+GenBank accession
+ITS
+
+Bt-tubulin
+
+tef
+
+P. adusta
+
+ICMP6088
+
+JX399006
+
+JX399037
+
+JX399070
+
+P. asiatica
+
+MFLUCC 12-0286/ NN047638
+
+JX398983
+
+JX399018
+
+JX399049
+
+P. chinensis
+
+MFLUCC 12-0273/ NN047218
+
+JX398995
+
+-
+
+-
+
+P. chrysea
+
+MFLUCC 12-0261/ NN042855
+
+JX398985
+
+JX399020
+
+JX399051
+
+P. clavata
+
+MFLUCC 12-0268/ NN047134
+
+JX398990
+
+JX399025
+
+JX399056
+
+P. clavispora
+
+MFLUCC 12-0281/ NN043133
+
+JX398979
+
+JX399014
+
+JX399045
+
+P. coffeae-arabicae
+
+HGUP4015
+
+KF412647
+
+KF412641
+
+KF412644
+
+P. coffeae-arabicae
+
+HGUP4019
+
+KF412649
+
+KF412643
+
+KF412646-
+
+P. diversiseta
+
+MFLUCC 12-0287/ NN047261
+
+JX399009
+
+JX399040
+
+JX399073
+
+P. ellipsospora
+
+MFLUCC 12-0283
+
+JX398980
+
+JX399016
+
+JX399047
+
+P. foedans
+
+CGMCC 3.9123
+
+JX398987
+
+JX399022
+
+JX399053
+
+P. inflexa
+
+MFLUCC 12-0270/ NN047098
+
+JX399008
+
+JX399039
+
+JX399072
+
+P. intermedia
+
+MFLUCC 12-0259/ NN047642
+
+JX398993
+
+JX399028
+
+JX399059
+
+P. jesteri
+
+MFLUCC 12-0279/ NN042849
+
+JX399012
+
+JX399043
+
+JX399076
+
+P. linearis
+
+MFLUCC 12-0271/NN047190
+
+JX398992
+
+JX399027
+
+JX399058
+
+P. rhodomyrtus
+
+HGUP4230
+
+KF412648
+
+KF412642
+
+KF412645
+
+P. rosea
+
+MFLUCC12-0258/ NN047135
+
+JX399005
+
+JX399036
+
+JX399069
+
+P. saprophyta
+
+MFLUCC 12-0282/ NN047136
+
+JX398982
+
+JX399017
+
+JX399048
+
+P. theae
+
+MFLUCC12-0055
+
+JQ683727
+
+JQ683711
+
+JQ683743
+
+P. theae
+
+SC011
+
+JQ683726
+
+JQ683710
+
+JQ683742
+
+P. trachicarpicola
+
+MFLUCC 12-0263/ NN047072
+
+JX399000
+
+JX399031
+
+JX399064
+
+P. trachicarpicola
+
+MFLUCC 12-0264/ NN047196
+
+JX399004
+
+JX399035
+
+JX399068
+
+P. trachicarpicola
+
+MFLUCC 12-0265/ NN046983
+
+JX399003
+
+JX399034
+
+JX399067
+
+P. trachicarpicola
+
+MFLUCC 12-0266/ NN046978
+
+JX399002
+
+JX399033
+
+JX399066
+
+P. trachicarpicola
+
+MFLUCC 12-0267/ NN047099
+
+JX399001
+
+JX399032
+
+JX399065
+
+P. trachicarpicola
+
+OP068
+
+JQ845947
+
+JQ845945
+
+JQ845946
+
+P. umberspora
+
+MFLUCC 12-0285/ NN042986
+
+JX398984
+
+JX399019
+
+JX399050
+
+P. unicolor
+
+MFLUCC 12-0276/ NN046974
+
+JX398999
+
+JX399030
+
+-
+
+P. verruculosa
+
+MFLUCC 12-0274/ NN047309
+
+JX398996
+
+-
+
+JX399061
+
+Seiridium sp.
+
+SD096
+
+JQ683725
+
+JQ683709
+
+JQ683741
+
+TWO NEW SPECIES OF PESTALOTIOPSIS FROM SOUTHERN CHINA
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+• 23
+
+Phylogenetic analyses
+Combination sequence data obtained from three gene regions (ITS, β-tubulin and tef1) were aligned using
+CLUSTALX (v. 1.83) (Thompson et al. 1997). The sequences were manually adjusted using BioEdit (Hall
+1999), to allow maximum alignment and maximum sequence similarity. A maximum parsimony analysis
+(MP) was performed using PAUP (Phylogenetic Analysis Using Parsimony) v. 4.0b10 (Swofford 2002).
+Ambiguously aligned regions were excluded and gaps were treated as missing data. Trees were inferred using
+the heuristic search option with TBR branch swapping and 1,000 random sequence additions. Maxtrees were
+set up to 5,000, branches of zero length were collapsed and all multiple parsimonious trees were saved. Tree
+length [TL], consistency index [CI], retention index [RI], rescaled consistency index [RC], and homoplasy
+index [HI] were determined. The robustness of the most parsimonious trees was evaluated by 100 bootstrap
+replications resulting from maximum parsimony analysis, each with 10 replicates of random stepwise addition
+of taxa (Felsenstein 1985). The Kishino-Hasegawa tests (Kishino & Hasegawa 1989) were performed in order
+to determine whether the trees inferred under different optimality criteria were significantly different. DNA
+sequences from our Pestalotiopsis isolates were com pared with those that originated from
+Maharachchikumbura et al. (2012), with Seiridium sp. (SD096) as outgroup.
+
+Results
+Phylogenetic analysis
+
+FIGURE 1. Topology showing the most parsimonious tree, inferred from combined ITS, β -tubulin and tef1 gene regions. Bootstrap
+values higher than 50% are shown. The tree was rooted with Seiridium sp. (SD096).
+
+24 •
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+SONG ET AL.
+
+The alignment file resulted in a data set comprising 2,020 characters including gaps (ITS: 1–548, β-tubulin:
+549–1,015 and tef1: 1,016–2,020). Of these characters, 1,646 were constant and parsimony-uninformative.
+The 374 parsimony-informative characters included in the parsimonious analyses yielded only one
+parsimonious tree (Fig. 1) (TL = 1040, CI = 0.721, RI = 0.890, RC = 0.642). Twenty-nine Pestalotiopsis
+isolates (22 taxa) formed a strong clade (100% bootstrap support), consisting of two subclades (1 and 2), both
+with high bootstrap values (subclade 1: 93%, subclade 2: 100%). Our isolate (HGUP4230) was placed in
+subclade 1, and clustered together with Pestalotiopsis trachicarpicola Y.M. Zhang & K.D. Hyde in Zhang et
+al. (2012: 315), P. rosea Maharachch. & K.D. Hyde in Maharachchikumbura et al. (2012: 118) and P. adusta
+(Ellis & Everh.) Steyaert (1953: 82) supported by a strong bootstrap value (96%). It displayed a very close
+relationship with P. trachicarpicola with 100% bootstrap support. Isolates HGUP4015 and 4019, with only
+slight sequence differences (data not shown) were assigned to subclade 2 within a sister taxon to the three
+related species, P. chrysea Maharachch. & K.D. Hyde in Maharachchikumbura et al. (2012: 107), P.
+umberspora Maharachch. & K.D. Hyde in Maharachchikumbura et al. (2012: 121) and P. asiatica
+Maharachch. & K.D. Hyde in Maharachchikumbura et al. (2012: 104) with a credible bootstrap value (75%).
+
+Taxonomy
+
+FIGURE 2. Pestalotiopsis coffeae-arabicae (holotype). a. Herbarium material—leaves of Coffea arabica. b. Conidiomata. c–f.
+Conidia with versicolorous median cells. g–h. Conidiophores/conidiogenous cells and developing conidia. i–j. Colony on PDA, i. from
+above, j. from below. Scale bars: c–h=20 μm.
+
+TWO NEW SPECIES OF PESTALOTIOPSIS FROM SOUTHERN CHINA
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+• 25
+
+FIGURE 3. Pestalotiopsis rhodomyrtus (holotype). a–e. Conidia with concolorous median cells. f–g. Conidiophores/conidiogeous
+cells and developing conidia. h–i. Colony on PDA, h. from above, i. from below. Scale bars: a–g=20 μm.
+
+Pestalotiopsis coffeae-arabicae Y. Song, K. Geng, K.D. Hyde & Yong Wang bis, sp. nov. (Fig. 2) MycoBank
+MB 804967
+Differs from related Pestalotiopsis species mainly by its smaller conidia and shorter apical appendages.
+Type:—CHINA. Hainan Province: Xinglong County, Tropical Botanical Garden, living leaves of Coffea arabica, 8
+March 2012, K. Geng (HGUP4019, holotype!).
+
+Associated with red-brown leaf spots on living leaves of Coffea arabica. Conidiophores usually indistinct.
+Conidiogenous cells discrete, ampulliform to lageniform, smooth, thin-walled, hyaline, with 2–3
+proliferations. Conidia fusoid to ellipsoid, straight to slightly curved, 4-septate, 16–20 × 5–7 μm (n=30,
+x =18.6 × 6.4 μm); basal cell short, conic to obconic, hyaline, thin-walled and verruculose; three median cells
+11.8–13.5 μm long (n=30, x =12.8 μm), dark brown, septa and periclinal walls darker than the rest of the cell,
+versicolorous; second cell from base pale brown, 3.5–4.5 μm (n=30, x =4.1 μm); third cell darker brown, 3.5–
+5μm (n=30, x =4.1μm); fourth cell darker, 3.7–4.5 μm (n=30, x =4 μm); apical cell 2.4–3.1 μm (n=30,
+x =2.7μm), hyaline, obconic to subcylindrical, with 2–4 appendages (mostly 3); apical appendages 11–16 μm
+long (n=30, x =13.5 μm), tubular, arising from the apex of the apical cell; basal appendage, 3–5 μm long
+(n=30, x =3.5 μm), filiform. Colonies on PDA reaching 7 cm diam. after 8 days at 25°C, with undulate edge,
+whitish, with aerial mycelium on surface; fruiting bodies black, gregarious; reverse of culture pale luteous.
+
+26 •
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+SONG ET AL.
+
+Habitat/ Distribution:—Known to inhabit Coffea arabica, Hainan Province, China.
+Etymology:—In reference to the host, Coffea arabica, from which this fungus was first isolated.
+Other material examined:—CHINA. Hainan Province: Xinglong County, Tropical Botanical Garden,
+living leaves of Coffea arabica, 8 March 2012, K. Geng (HGUP4015!).
+Pestalotiopsis rhodomyrtus Y. Song, K. Geng, K.D. Hyde & Yong Wang bis, sp. nov. (Fig. 3) MycoBank MB
+804968
+Differs from Pestalotiopsis rosea and P. adusta by bigger conidia and its apical appendages, which are shorter than
+those of P. trachicarpicola and P. rosea.
+Type:—CHINA. Guangxi Province: Liangfeng River National Forest Park, isolated from leaves of Rhodomyrtus
+tomentosa, 2011, J.G. Wei (HGUP4230, holotype!).
+
+Conidiophores indistinct. Conidiogenous cells discrete, hyaline, simple, filiform. Conidia 19.7–26.3 × 4.9–6.7
+μm (n=30, x =23.00 × 5.76 μm), fusoid, straight to slightly curved, 4-septate; basal cell conic to obconic,
+hyaline or pale brown, smooth, thin-walled, 3.6–6.4 μm long (n=30, x =4.79 μm); three median cells 12.9–
+16.8 μm long (n=30, x =15.04 μm), brown, septa and periclinal walls darker than the rest of the cell,
+concolorous, verruculous; second cell from base 4.3–5.8 μm long (n=30, x =5.12 μm); third cell from base
+3.5–5.7 μm long (n=30, x =4.73 μm); fourth cell from base 4.3–5.6 μm long (n=30, x =4.88 μm); apical cell
+hyaline, obconic to subcylindrical, 2.7–4.1 μm long (n=30, x =3.56 μm); with 2–3 tubular appendages, arising
+from the apex of the apical cell, 7.5–14.9 μm long (n=30, x =10.54 μm), unequal; one basal appendage
+present, 2.8–4.9 μm long (n=30, x =3.65 μm), filiform.
+Colonies on PDA reaching 7 cm diam. after 8 days at 25°C, with edge crenate, whitish, aerial mycelia on
+surface, fruiting bodies black, gregarious; reverse of colony pale orange.
+Etymology:—In reference to the host, Rhodomyrtus tomentosa, from which this fungus was first isolated.
+Habitat/Distribution:—Known to inhabit Rhodomyrtus tomentosa, Guangxi Province, China.
+
+Discussion
+It is important to clarify relationships amongst Pestalotiopsis species as they are not only weak pathogens, but
+also prolific produces of novel medicinal compounds (Aly et al. 2011, Ko Ko et al. 2011a, b, Xu et al. 2010,
+Debbab et al. 2011, 2012). Pestalotiopsis coffeae (Zimm) Y.X. Chen in Chen & Wei (1993: 25), P. neglecta
+(Thüm.) Steyaert (1953: 83; IMI 296896), P. disseminata (Thüm.) Steyaert (1949: 319; IMI 281746) and P.
+versicolor (Speg.) Steyaert (1949: 336; IMI 146181) have been reported isolated from Coffea arabica (Chen
+& Wei 1993, http://www.herbimi.info/herbimi/). However, P. coffeae-arabicae produced obviously shorter
+apical and basal appendages (11–16 μm, 3–5 μm) than P. coffeae (21.3–25.0 μm, 6.3–8.8 μm) (Ge et al. 2009).
+The conidia of P. coffeae-arabicae (16–27.1 × 6.6–7.6 μm) were smaller than those of P. neglecta (20–27.1 ×
+5.9–7.1 μm) and P. disseminata (18.5–27.1 × 5.9–7.1 μm), and P. versicolor (21.2–28.3 × 7.1–8.3 μm) (Ge et
+al. 2009). In the phylogenetic tree (Fig. 1), P. coffeae-arabicae displayed a closer relationship with P. chrysea,
+P. umberspora and P. asiatica. Their conidial shape and the colour of median cell were also very similar
+(Maharachchikumbura et al. 2012, 2013b). The conidia of P. coffeae-arabicae are smaller than those of P.
+chrysea, P. umberspora and P. asiatica (Maharachchikumbura et al. 2012, 2013b). The apical appendages of
+P. coffeae-arabicae are shorter than these three related species. Conidia of P. rhodomyrtus are similar
+in shape to those of P. trachicarpicola, P. rosea and P. adusta. However, the conidia of P. rhodomyrtus
+are bigger than those of P. rosea and P. adusta. The apical appendages of P. rhodomyrtus are shorter than
+those of P. trachicarpicola and P. rosea. Pestalotiopsis rhodomyrtus possess only one basal appendage, but
+P. trachicarpicola rarely has two, and the length of their basal appendage is different. Phylogenetic
+analysis also indicated that P. coffeae-arabicae and P. rhodomyrtus were distinct new species. A detailed
+morphological comparison of the new species with related species is shown in Table 2.
+
+TWO NEW SPECIES OF PESTALOTIOPSIS FROM SOUTHERN CHINA
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+• 27
+
+28 •
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+SONG ET AL.
+
+Shape
+
+fusoid, straight to slightly curved
+
+fusoid to ellipsoid, broad-clavate,
+straight to slightly curved
+
+fusoid to ellipsoid, straight to slightly
+curved
+
+fusiform to ellipsoid, straight to slightly
+curved
+
+fusoid to ellipsoid, straight to slightly
+curved
+
+fusiform, straight to
+slightly curved
+
+fusiform, straight to slightly curved
+
+fusiform, straight to slightly curved
+
+Species
+
+3 UKRGRP\UWXV
+
+3 WUDFKLFDUSLFROD
+
+3 URVHD
+
+3 DGXVWD
+
+3 FRIIHDHDUDELFDH
+
+3 FKU\VHD
+
+3 XPEHUVSRUD
+
+3 DVLDWLFD
+20–26 × 5–7
+
+19–25 × 6–8
+
+20–24 × 5.5–7
+
+16–20 × 5–7
+
+16–20 × 5–7
+
+17.5–21.8 × 5.7–7
+
+20–25 × 5.5–7.2
+
+19.7–26.3 × 4.9–6.7
+
+Size (Pm)
+
+Conidia
+
+TABLE 2. Morphological comparison of new taxa and related 3HVWDORWLRSVLV species.
+
+versicolorous
+
+versicolorous
+
+versicolorous
+
+versicolorous
+
+concolorous
+
+concolorous
+
+concolorous
+
+concolorous
+
+Median cells
+
+2–4 (mainly 3), tubular, 20–
+30 μm long
+
+1–3 (mainly 3), tubular, 22–
+35 μm long
+
+3, tubular, 22–30μm long
+
+2–4 (mostly 3), tubular, 11–
+16 μm long
+
+2–3, 6–14 μm long
+
+1–3, tubular, some
+branched, 14–22 μm long
+
+2–3, tubular, 9–18 μm long
+
+2–3, tubular, 7.5–14.9 μm
+long
+
+Apical appendages
+
+4–8 μm long, filiform
+
+5–7 μm, filiform
+
+3–6 μm long, filiform
+
+3–5 μm long, filiform
+
+filiform
+
+2–5.7 μm long, rarely absent
+
+1 rarely 2, 4–8 μm long
+
+2.8–4.9 μm long, filiform
+
+Basal appendage
+
+Appendages
+
+Acknowledgments
+This research was funded by Guizhou Province to tackle hard-nut problems in agricultural science and
+technology (No. 20113045), and the project of Guiyang Science and Technology Department [2012102]3-25.
+K.D. Hyde thanks the National Research Council of Thailand (grant for Pestalotiopsis No: 55201020008) for
+supporting this research.
+
+References
+Aly, A.H., Debbab, A. & Proksch, P. (2011) Fifty years of drug discovery from fungi. Fungal Diversity 50: 3–19.
+http://dx.doi.org/10.1007/s13225-011-0116-y
+Boonmee, S., Zhang, Y., Chomnunti, P., Chukeatirote, E., Bahkali, A.H. & Hyde, K.D. (2011) Revision of lignicolous
+Tubeufiaceae based on morphological reexamination and phylogenetic analysis. Fungal Diversity 51: 63–102.
+http://dx.doi.org/10.1007/s13225-011-0147-4
+Booth, C. & Robertson, J.S. (1961) Leptosphaeria elaeidis sp. nov. isolated from anthracnosed tissue of oil palm
+seedlings. Transactions of the British Mycological Society 44(1): 24–26.
+http://dx.doi.org/10.1016/S0007-1536(61)80002-8
+Chen, Y.X. & Wei, G. (1993) New combinations of Pestalotiopsis from China. Journal of Guangxi Agricultural
+University 12(1): 23–35.
+Chomnunti, P., Schoch, C.L., Aguirre-Hudson, B., Ko Ko, T.W., Hongsanan, S., Jones, E.B.G., Kodsueb, R.,
+Phookamsak, R., Chukeatirote, E., Bahkali, A.H. & Hyde, K.D. (2011) Capnodiaceae. Fungal Diversity 51: 103–
+134.
+Debbab, A., Aly, A.H. & Proksch, P. (2011) Bioactive secondary metabolites from endophytes and associated marine
+derived fungi. Fungal Diversity 49: 1–12.
+http://dx.doi.org/10.1007/s13225-011-0114-0
+Debbab, A., Aly, A.H. & Proksch, P. (2012) Endophytes and associated marine derived fungi — ecological and chemical
+perspectives. Fungal Diversity 57: 45–83.
+http://dx.doi.org/10.1007/s13225-012-0191-8
+Doyle, J.J. & Doyle, J.L. (1987) A rapid DNA isolation procedure for small quantities of fresh leaf tissue. Phytochemical
+Felsenstein, J. (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39: 783–791.
+Ge, Q.X., Chen, Y.X. & Xu, T. (2009) Flora Fungorum Sinicorum Vol. 38 Pestalotiopsis, pp. 1–235 (in Chinese).
+Glass, N.L. & Donaldson, G.C. (1995) Development of primer sets designed for use with the PCR to amplify conserved
+genes from filamentous ascomycetes. Applied and Environmental Microbiology 61(4): 1323–1330.
+Hall, T.A. (1999) BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/
+98/NT. Nucleic Acids Symposium Series 41: 95–98.
+Hu, H.L., Jeewon, R., Zhou, D.Q., Zhou, T.X. & Hyde, K.D. (2007) Phylogenetic diversity of endophytic Pestalotiopsis
+species in Pinus armandii and Ribes spp.: evidence from rDNA and β- tubulin gene phylogenies. Fungal Diversity
+24: 1–22.
+Jeewon, R., Liew, E.C.Y., Simpson, J.A., Hodgkiss, I.J. & Hyde, K.D. (2003) Phylogenetic significance of
+morphological characters in the taxonomy of Pestalotiopsis species. Molecular Phylogenetics and Evolution 27:
+372–383.
+http://dx.doi.org/10.1016/S1055-7903(03)00010-1
+Kishino, H. & Hasegawa, M. (1989) Evaluation of the maximum likelihood estimate of the evolutionary tree topologies
+from DNA sequence data. Journal of Molecular Evolution 29: 170–179.
+http://dx.doi.org/10.1007/BF02100115
+Ko Ko, T., Stephenson, S.L., Bahkali, A.H. & Hyde, K.D. (2011a) From morphology to molecular biology: can we use
+sequence data to identify fungal endophytes? Fungal Diversity 50: 113–120.
+http://dx.doi.org/10.1007/s13225-011-0130-0
+Ko Ko, T.W., McKenzie, E.H.C., Bahkali, A.H., To-Anun, C., Chukeatirote, E., Promputtha, I., Abd-Elsalam, K.A.,
+Soytong, K., Wulandari, N.F., Sanoamuang, N., Jonglaekha, N., Kobsueb, R., Cheewangkoon, R., Wikee, S.,
+Chamyuang, S. & Hyde, K.D. (2011b) The need for re-inventory of Thai phytopathogens. Chiang Mai Journal of
+Science 38: 1–13.
+Lee, S.B. & Taylor, J.W. (1990) Isolation of DNA from fungal mycelia and single spores. In: Innis, M.A., Gelfand, D.H.
+Sninsky, J.J. & White, T.J. (eds) PCR protocols: a guide to methods and applications. Academic Press, San Diego,
+USA, pp. 282–287.
+Liu, A.R., Chen, S.C., Wu, S.Y., Xu, T., Guo, L.D., Jeewon, R. & Wei, J.G. (2010) Cultural studies coupled with DNA
+
+TWO NEW SPECIES OF PESTALOTIOPSIS FROM SOUTHERN CHINA
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+• 29
+
+based sequence analyses and its implication on pigmentation as a phylogenetic marker in Pestalotiopsis taxonomy.
+Molecular Phylogenetics and Evolution 57: 528–535.
+http://dx.doi.org/10.1016/j.ympev.2010.07.017
+Maharachchikumbura, S.S.N., Guo, L.D., Chukeatirote, E., Bahkali, A.H. & Hyde, K.D. (2011) Pestalotiopsis—
+morphology, phylogeny, biochemistry and diversity. Fungal Diversity 50: 167–187.
+http://dx.doi.org/10.1007/s13225-011-0125-x
+Maharachchikumbura, S.S.N., Guo, L.D., Cai, L., Chukeatirote, E., Wu, W.P., Sun, X., Crous, P.W., Bhat, D.J.,
+McKenzie, E.H.C., Bahkali, A.H. & Hyde, K.D. (2012) A multi-locus backbone tree for Pestalotiopsis, with a
+polyphasic characterization of 14 new species. Fungal Diversity 56: 95–129.
+http://dx.doi.org/10.1007/s13225-012-0198-1
+Maharachchikumbura, S.S.N., Chukeatirote, E., Guo, L.D., Crous, P.W., McKenzie, E.H.C. & Hyde, K.D. (2013a)
+Pestalotiopsis species associated with Camellia sinensis (tea). Mycotaxon 123: 47–61.
+Maharachchikumbura, S.S.N., Guo, L.D., Chukeatirote, E., McKenzie, E.H.C. & Hyde, K.D. (2013b) A destructive new
+disease of Syzygium samarangense in Thailand caused by the new species Pestalotiopsis samarangensis. Tropical
+Plant Pathology (in press).
+http://dx.doi.org/10.1590/S1982-56762013005000002
+O'Donnell, K. & Cigelnik, E. (1997) Two divergent intragenomic rDNA ITS2 types within a monophyletic lineage of the
+fungus Fusarium are nonorthologous. Molecular Phylogenetics and Evolution 7(1): 103–116.
+http://dx.doi.org/10.1006/mpev.1996.0376
+Rehner, S. (2001) Primers for elongation factor 1-α (EF1-α). Available from: http://ocid.nacas.org/research/deephyphae/
+EF1primer.pdf (Cited 20 August 2008).
+Steyaert, R.L. (1949) Contributions à l’étude monographique de Pestalotia de Not. et Monochaetia Sacc. (Truncatella
+gen. nov. et Pestalotiopsis gen. nov.). Bulletin du Jardin Botanique de l’État à Bruxelles 19: 285–354.
+Steyaert, R.L. (1953) New and old species of Pestalotiopsis. Transactions of the British Mycological Society 36(2): 81–
+89.
+http://dx.doi.org/10.1016/S0007-1536(53)80052-5
+Swofford, D.L. (2002) PAUP*: phylogenetic analysis using parsimony (*and other methods), version 4.0b10. Sinauer
+Associates, Sunderland.
+Thompson, J.D., Gibson, T.J., Plewniak, F., Jeanmougin, F. & Higgins, D.G. (1997) The Clustal X windows interface:
+flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research 24:
+4876–4882.
+http://dx.doi.org/10.1093/nar/25.24.4876
+Viniegra-González, G. (2000) Biotechnology and the future of coffee production. In: Coffee: biotechnology and quality
+T. Sera, T., Soccol, C.R., Pandey, A. & Roussos, S. (eds.) Proceedings of the 3rd international seminar on
+biotechnology in the coffee agroindustry, Londrina, Brazil. Kluwer Academic Publishers, Dordrecht, Boston,
+London, pp. 1–16.
+White, T.J., Bruns, T., Lee, S. & Taylor, J.W. (1990) Amplification and direct sequencing of fungal ribosomal RNA
+genes for phylogenetics. In: Innis, M.A., Gelfand, D.H., Sninsky, J.J. & White, T.J. (eds.) PCR protocols: a guide to
+methods and applications. Academic Press, New York, pp. 315–322.
+Xu, J., Ebada, S.S. & Proksch, P. (2010) Pestalotiopsis a highly creative genus: chemistry and bioactivity of secondary
+metabolites. Fungal Diversity 44: 15–31.
+http://dx.doi.org/10.1007/s13225-010-0055-z
+Zhang, Y.M., Maharachchikumbura, S.S.N., McKenzie, E.H.C. & Hyde, K.D. (2012) A novel species of Pestalotiopsis
+causing leaf spots of Trachycarpus fortunei. Cryptogamie, Mycologie 33: 311–318.
+http://dx.doi.org/10.7872/crym.v33.iss3.2012.311
+
+30 •
+
+Phytotaxa 126 (1) © 2013 Magnolia Press
+
+SONG ET AL.
+
+
