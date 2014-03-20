@@ -29,7 +29,8 @@ wget -w 5 -i ../free_access_fulltext_pdfs.txt
 #	cd converted_${STEM%%.*}
 #	echo "grep captions out $f"
 #	grep 'FIGURE [0-9]' *.txt | sed 's/[^[:alnum:][:punct:][:blank:]]*//g' > captions${STEM%%.*}.out
-#	grep -i -m1 -h '10\.11646\/phytotaxa' *.txt | cut -c 28- > doi_${STEM%%.*}.doi 
+#	grep -i -m1 -h '10\.11646\/phytotaxa' *.txt > doi_${STEM%%.*}.doi
+#	curl -LH "Accept: text/x-bibliography; style=apa" $(cat doi_${STEM%%.*}.doi) > apastring.ref 
 #	cd ..    
 #	done
 
