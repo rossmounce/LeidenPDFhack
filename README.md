@@ -9,10 +9,9 @@ Starting off with the CC-BY content from Phytotaxa and Zootaxa
 
 1.) **scrape journal links for OA PDF content**
 
-Install Regex-Scraper chrome plugin on:
-https://chrome.google.com/webstore/detail/regex-scraper/akjalgjglcdpomokfhgcmononebebioc?hl=en
 
-Go to journal contents page e.g.:
+
+wget journal contents page e.g.:
 http://www.mapress.com/phytotaxa/content.htm
 
 Regular expression:
@@ -35,7 +34,7 @@ for Phytotaxa CC BY licenced 'free' content starts from pt00093p039.pdf onwards
 
 3.) **parse out DOIs of each article and rename PDF by partial doi**
 
-grep -i -m1 '10\.11646\/phytotaxa' *.txt |  tac
+grep -i -m1 '10\.11646\/phytotaxa' *.txt | cut -c 28- 
 
 Phytotaxa doi's have been implemented starting with http://dx.doi.org/10.11646/phytotaxa.76.1.2
 (of the freely accessible PDFs) 
@@ -44,6 +43,7 @@ pass each DOI to crossref content negotiation to get full citation for each PDF
 
 4.) **pdfimage strip images out of each article**
 
+pdfimages -j file.pdf foobar
 
 5.) **delete 480bytes to 13k (phyotaxa logos from each paper)**
 
